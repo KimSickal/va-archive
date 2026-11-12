@@ -1,0 +1,175 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "star-knights-s1",
+  "franchise_id": "star-knights",
+  "type": "anime_tv",
+  "title": {
+    "original_lang": "ja",
+    "original": "星の騎士団",
+    "latin": "Hoshi no Kishidan",
+    "official": {
+      "ko": "별의 기사단"
+    }
+  },
+  "order": 1,
+  "status": "finished",
+  "start_date": "2020-04-02",
+  "end_date": "2020-06-25",
+  "episodes": 12,
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "スタジオ星",
+      "latin": "Studio Hoshi"
+    }
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "credits": [
+        {
+          "character": "rin",
+          "person": "aoi-hoshino",
+          "role": "main",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "kai",
+          "person": "ren-kurosawa",
+          "role": "main",
+          "part": "replaced",
+          "episodes": {
+            "to": 6
+          },
+          "note": {
+            "original_lang": "ja",
+            "original": "体調不良により降板",
+            "translations": {
+              "ko": "건강 문제로 하차",
+              "en": "Stepped down due to health reasons"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "kai",
+          "person": "taro-yamada",
+          "role": "main",
+          "part": "replacement",
+          "episodes": {
+            "from": 7
+          },
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "masked-knight",
+          "person": "ren-kurosawa",
+          "role": "supporting",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "villager-a-s1",
+          "person": "mio-sakuraba",
+          "role": "minor",
+          "source_refs": [
+            "s1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ko-tooniverse",
+      "language": "ko",
+      "kind": "dub",
+      "label": {
+        "original_lang": "ko",
+        "original": "한국어 더빙 (투니버스)",
+        "translations": {
+          "ja": "韓国語吹替（투니버스）",
+          "en": "Korean dub (투니버스)"
+        },
+        "translated": [
+          "ja",
+          "en"
+        ]
+      },
+      "distributor": {
+        "original_lang": "ko",
+        "original": "투니버스",
+        "latin": "Tooniverse"
+      },
+      "release_date": "2021-01",
+      "credits": [
+        {
+          "character": "rin",
+          "person": "ji-woo-han",
+          "role": "main",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "kai",
+          "person": "min-jun-seo",
+          "role": "main",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "masked-knight",
+          "person": "min-jun-seo",
+          "role": "supporting",
+          "spoiler": true,
+          "source_refs": [
+            "s1"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://example.com/official",
+      "title": "Fixture 公式サイト",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

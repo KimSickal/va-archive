@@ -5,13 +5,7 @@
   "description": "data/persons/<id>.json. 출연작은 저장하지 않음 (Work의 Credit에서 역산).",
   "type": "object",
   "additionalProperties": false,
-  "required": [
-    "$schema",
-    "id",
-    "name",
-    "sources",
-    "meta"
-  ],
+  "required": ["$schema", "id", "name", "sources", "meta"],
   "properties": {
     "$schema": {
       "const": "../schema/person.schema.json"
@@ -23,11 +17,7 @@
       "$ref": "common.schema.json#/$defs/Name"
     },
     "gender": {
-      "enum": [
-        "female",
-        "male",
-        "other"
-      ],
+      "enum": ["female", "male", "other"],
       "description": "본인이 공개한 정보가 있을 때만"
     },
     "nationality": {
@@ -51,9 +41,7 @@
       "items": {
         "type": "object",
         "additionalProperties": false,
-        "required": [
-          "name"
-        ],
+        "required": ["name"],
         "properties": {
           "name": {
             "$ref": "common.schema.json#/$defs/Name"
@@ -85,20 +73,10 @@
       "items": {
         "type": "object",
         "additionalProperties": false,
-        "required": [
-          "kind",
-          "url"
-        ],
+        "required": ["kind", "url"],
         "properties": {
           "kind": {
-            "enum": [
-              "official",
-              "agency",
-              "x",
-              "instagram",
-              "youtube",
-              "other"
-            ]
+            "enum": ["official", "agency", "x", "instagram", "youtube", "other"]
           },
           "url": {
             "$ref": "common.schema.json#/$defs/Url"

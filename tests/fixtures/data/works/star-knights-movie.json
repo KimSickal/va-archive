@@ -1,0 +1,70 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "star-knights-movie",
+  "franchise_id": "star-knights",
+  "type": "anime_movie",
+  "title": {
+    "original_lang": "ja",
+    "original": "劇場版 星の騎士団",
+    "latin": "Gekijoban Hoshi no Kishidan"
+  },
+  "order": 2,
+  "status": "finished",
+  "start_date": "2022-08-10",
+  "runtime_min": 110,
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "credits": [
+        {
+          "character": "rin",
+          "person": "aoi-hoshino",
+          "role": "main",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "kai",
+          "person": "taro-yamada",
+          "role": "main",
+          "source_refs": [
+            "s1"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://example.com/official",
+      "title": "Fixture 公式サイト",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

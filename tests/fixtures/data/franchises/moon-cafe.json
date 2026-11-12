@@ -1,0 +1,54 @@
+{
+  "$schema": "../schema/franchise.schema.json",
+  "id": "moon-cafe",
+  "title": {
+    "original_lang": "ja",
+    "original": "月光カフェ",
+    "latin": "Gekko Cafe",
+    "official": {
+      "ko": "월광 카페"
+    }
+  },
+  "characters": [
+    {
+      "id": "yui",
+      "name": {
+        "original_lang": "ja",
+        "original": "ユイ",
+        "latin": "Yui",
+        "official": {
+          "ko": "유이"
+        }
+      }
+    },
+    {
+      "id": "master",
+      "name": {
+        "original_lang": "ja",
+        "original": "マスター",
+        "latin": "Master",
+        "official": {
+          "ko": "마스터"
+        }
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://example.com/official",
+      "title": "Fixture 公式サイト",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

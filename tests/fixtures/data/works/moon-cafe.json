@@ -1,0 +1,99 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "moon-cafe",
+  "franchise_id": "moon-cafe",
+  "type": "anime_tv",
+  "title": {
+    "original_lang": "ja",
+    "original": "月光カフェ",
+    "latin": "Gekko Cafe",
+    "official": {
+      "ko": "월광 카페"
+    }
+  },
+  "status": "airing",
+  "start_date": "2026-10-03",
+  "episodes": 12,
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "credits": [
+        {
+          "character": "yui",
+          "person": "aoi-hoshino",
+          "role": "main",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "master",
+          "person": "ren-kurosawa",
+          "role": "supporting",
+          "source_refs": [
+            "s1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ko-laftel",
+      "language": "ko",
+      "kind": "dub",
+      "label": {
+        "original_lang": "ko",
+        "original": "한국어 더빙 (라프텔)",
+        "translations": {
+          "ja": "韓国語吹替（라프텔）",
+          "en": "Korean dub (라프텔)"
+        },
+        "translated": [
+          "ja",
+          "en"
+        ]
+      },
+      "credits": [
+        {
+          "character": "yui",
+          "person": "ji-woo-han",
+          "role": "main",
+          "source_refs": [
+            "s1"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://example.com/official",
+      "title": "Fixture 公式サイト",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-10-01",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

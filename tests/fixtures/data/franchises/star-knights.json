@@ -1,0 +1,112 @@
+{
+  "$schema": "../schema/franchise.schema.json",
+  "id": "star-knights",
+  "title": {
+    "original_lang": "ja",
+    "original": "星の騎士団",
+    "latin": "Hoshi no Kishidan",
+    "official": {
+      "ko": "별의 기사단",
+      "en": "Star Knights"
+    }
+  },
+  "original_media": "manga",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/Example"
+  },
+  "characters": [
+    {
+      "id": "rin",
+      "name": {
+        "original_lang": "ja",
+        "original": "リン",
+        "latin": "Rin",
+        "official": {
+          "ko": "린",
+          "en": "Rin"
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "主人公の少女騎士",
+        "translations": {
+          "ko": "주인공 소녀 기사",
+          "en": "The girl knight protagonist"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "star-knights-s1",
+        "episode": 1
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Example.jpg/240px-Example.jpg",
+        "page_url": "https://commons.wikimedia.org/wiki/File:Example.jpg",
+        "source_ref": "s1",
+        "license": "cc_by_sa",
+        "credit": "Example image, CC BY-SA"
+      }
+    },
+    {
+      "id": "kai",
+      "name": {
+        "original_lang": "ja",
+        "original": "カイ",
+        "latin": "Kai",
+        "official": {
+          "ko": "카이"
+        }
+      },
+      "first_appearance": {
+        "work": "star-knights-s1",
+        "episode": 1
+      }
+    },
+    {
+      "id": "masked-knight",
+      "name": {
+        "original_lang": "ja",
+        "original": "ゼノ",
+        "latin": "Zeno"
+      },
+      "spoiler": true,
+      "first_appearance": {
+        "work": "star-knights-s1",
+        "episode": 5
+      }
+    },
+    {
+      "id": "villager-a-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "村人A",
+        "latin": "Murabito A",
+        "official": {
+          "ko": "마을 사람 A"
+        }
+      },
+      "nameless": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://example.com/official",
+      "title": "Fixture 公式サイト",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

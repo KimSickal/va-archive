@@ -55,11 +55,7 @@
       "description": "고유명사(사람·작품·캐릭터·회사 이름). 원어 표기·로마자 필수. official에는 원어 외 언어의 공식 표기만, aliases에는 비공식 통용 표기·구표기·이체자·어순 변형 등 검색용 표기를 넣음(공식 표기가 없어도 가능). official에 original_lang 키는 넣지 않음 (검증 스크립트 확인).",
       "type": "object",
       "additionalProperties": false,
-      "required": [
-        "original_lang",
-        "original",
-        "latin"
-      ],
+      "required": ["original_lang", "original", "latin"],
       "properties": {
         "original_lang": {
           "$ref": "#/$defs/LangTag",
@@ -101,10 +97,7 @@
       "description": "사용자에게 보이는 서술형 텍스트(버전명, 설명, 비고 등). 원문 + 사이트 표시 언어(현재 ja/ko/en) 전부의 번역 필수. 원문 언어가 표시 언어이면 그 언어는 translations에 넣지 않음. 공식 번역이 없어 직접 번역한 언어는 translated에 표시 (translations의 키여야 함, 검증 스크립트 확인).",
       "type": "object",
       "additionalProperties": false,
-      "required": [
-        "original_lang",
-        "original"
-      ],
+      "required": ["original_lang", "original"],
       "properties": {
         "original_lang": {
           "$ref": "#/$defs/LangTag",
@@ -149,23 +142,17 @@
               "translations": {
                 "type": "object",
                 "not": {
-                  "required": [
-                    "ja"
-                  ]
+                  "required": ["ja"]
                 }
               }
             }
           },
           "else": {
-            "required": [
-              "translations"
-            ],
+            "required": ["translations"],
             "properties": {
               "translations": {
                 "type": "object",
-                "required": [
-                  "ja"
-                ]
+                "required": ["ja"]
               }
             }
           }
@@ -184,23 +171,17 @@
               "translations": {
                 "type": "object",
                 "not": {
-                  "required": [
-                    "ko"
-                  ]
+                  "required": ["ko"]
                 }
               }
             }
           },
           "else": {
-            "required": [
-              "translations"
-            ],
+            "required": ["translations"],
             "properties": {
               "translations": {
                 "type": "object",
-                "required": [
-                  "ko"
-                ]
+                "required": ["ko"]
               }
             }
           }
@@ -219,23 +200,17 @@
               "translations": {
                 "type": "object",
                 "not": {
-                  "required": [
-                    "en"
-                  ]
+                  "required": ["en"]
                 }
               }
             }
           },
           "else": {
-            "required": [
-              "translations"
-            ],
+            "required": ["translations"],
             "properties": {
               "translations": {
                 "type": "object",
-                "required": [
-                  "en"
-                ]
+                "required": ["en"]
               }
             }
           }
@@ -259,13 +234,7 @@
       "description": "외부 이미지 참조 (레포에 파일을 저장하지 않고 원본 URL을 표시). source_ref가 가리키는 출처는 Tier 1~2여야 함 (검증 스크립트가 확인).",
       "type": "object",
       "additionalProperties": false,
-      "required": [
-        "url",
-        "page_url",
-        "source_ref",
-        "license",
-        "credit"
-      ],
+      "required": ["url", "page_url", "source_ref", "license", "credit"],
       "properties": {
         "url": {
           "type": "string",
@@ -281,14 +250,7 @@
           "pattern": "^s[1-9]\\d*$"
         },
         "license": {
-          "enum": [
-            "cc0",
-            "public_domain",
-            "cc_by",
-            "cc_by_sa",
-            "official_promotional",
-            "other"
-          ],
+          "enum": ["cc0", "public_domain", "cc_by", "cc_by_sa", "official_promotional", "other"],
           "description": "official_promotional: 권리자가 공식 사이트에 게시한 홍보용 이미지"
         },
         "credit": {
@@ -300,14 +262,7 @@
     "Source": {
       "type": "object",
       "additionalProperties": false,
-      "required": [
-        "id",
-        "url",
-        "title",
-        "publisher",
-        "tier",
-        "accessed_at"
-      ],
+      "required": ["id", "url", "title", "publisher", "tier", "accessed_at"],
       "properties": {
         "id": {
           "type": "string",
@@ -339,11 +294,7 @@
           ]
         },
         "tier": {
-          "enum": [
-            1,
-            2,
-            3
-          ],
+          "enum": [1, 2, 3],
           "description": "1: 1차 출처, 2: 신뢰 2차, 3: 보조(단독 근거 불가)"
         },
         "accessed_at": {
@@ -368,22 +319,13 @@
       "uniqueItems": true
     },
     "VerificationStatus": {
-      "enum": [
-        "unverified",
-        "verified",
-        "disputed",
-        "user_confirmed"
-      ]
+      "enum": ["unverified", "verified", "disputed", "user_confirmed"]
     },
     "RecordMeta": {
       "description": "관리용 메타데이터. notes는 내부용이며 사이트에 표시하지 않으므로 번역하지 않음.",
       "type": "object",
       "additionalProperties": false,
-      "required": [
-        "researched_at",
-        "verification",
-        "skill_version"
-      ],
+      "required": ["researched_at", "verification", "skill_version"],
       "properties": {
         "researched_at": {
           "$ref": "#/$defs/FullDate",
@@ -392,9 +334,7 @@
         "verification": {
           "type": "object",
           "additionalProperties": false,
-          "required": [
-            "status"
-          ],
+          "required": ["status"],
           "properties": {
             "status": {
               "$ref": "#/$defs/VerificationStatus"
@@ -409,17 +349,12 @@
           "if": {
             "properties": {
               "status": {
-                "enum": [
-                  "verified",
-                  "user_confirmed"
-                ]
+                "enum": ["verified", "user_confirmed"]
               }
             }
           },
           "then": {
-            "required": [
-              "verified_at"
-            ]
+            "required": ["verified_at"]
           }
         },
         "skill_version": {

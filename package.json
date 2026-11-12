@@ -1,0 +1,33 @@
+{
+  "name": "va-archive",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "npm run build:data && vite",
+    "validate": "tsx scripts/validate-data.ts",
+    "build:data": "tsx scripts/build-data.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "build": "npm run validate && npm run build:data && tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "format": "prettier --write \"data/schema/*.json\" \"src/**/*.{ts,tsx,css}\" \"scripts/**/*.ts\""
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.30.6"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "@types/react": "^18.3.31",
+    "@types/react-dom": "^18.3.7",
+    "@vitejs/plugin-react": "^4.7.0",
+    "ajv": "^8.20.0",
+    "prettier": "^3.10.1",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3",
+    "vite": "^5.4.21",
+    "vitest": "^2.1.9"
+  }
+}

@@ -5,17 +5,7 @@
   "description": "data/works/<id>.json. 시즌·극장판·OVA·게임 각각이 별개 작품.",
   "type": "object",
   "additionalProperties": false,
-  "required": [
-    "$schema",
-    "id",
-    "franchise_id",
-    "type",
-    "title",
-    "status",
-    "versions",
-    "sources",
-    "meta"
-  ],
+  "required": ["$schema", "id", "franchise_id", "type", "title", "status", "versions", "sources", "meta"],
   "properties": {
     "$schema": {
       "const": "../schema/work.schema.json"
@@ -27,14 +17,7 @@
       "$ref": "common.schema.json#/$defs/Id"
     },
     "type": {
-      "enum": [
-        "anime_tv",
-        "anime_movie",
-        "anime_ova",
-        "anime_ona",
-        "anime_special",
-        "game"
-      ]
+      "enum": ["anime_tv", "anime_movie", "anime_ova", "anime_ona", "anime_special", "game"]
     },
     "title": {
       "$ref": "common.schema.json#/$defs/Name"
@@ -44,14 +27,7 @@
       "description": "프랜차이즈 내 정렬 순서"
     },
     "status": {
-      "enum": [
-        "announced",
-        "airing",
-        "finished",
-        "released",
-        "live_service",
-        "ended_service"
-      ],
+      "enum": ["announced", "airing", "finished", "released", "live_service", "ended_service"],
       "description": "애니: announced/airing/finished, 게임: announced/released/live_service/ended_service"
     },
     "start_date": {
@@ -89,19 +65,7 @@
     "platforms": {
       "type": "array",
       "items": {
-        "enum": [
-          "pc",
-          "ps4",
-          "ps5",
-          "switch",
-          "switch2",
-          "xbox_one",
-          "xbox_series",
-          "ios",
-          "android",
-          "web",
-          "other"
-        ]
+        "enum": ["pc", "ps4", "ps5", "switch", "switch2", "xbox_one", "xbox_series", "ios", "android", "web", "other"]
       },
       "minItems": 1,
       "uniqueItems": true
@@ -119,9 +83,7 @@
             "const": "original"
           }
         },
-        "required": [
-          "kind"
-        ]
+        "required": ["kind"]
       },
       "minContains": 1
     },
@@ -147,12 +109,7 @@
           "runtime_min": false,
           "studios": false,
           "status": {
-            "enum": [
-              "announced",
-              "released",
-              "live_service",
-              "ended_service"
-            ]
+            "enum": ["announced", "released", "live_service", "ended_service"]
           }
         }
       },
@@ -161,11 +118,7 @@
           "platforms": false,
           "developers": false,
           "status": {
-            "enum": [
-              "announced",
-              "airing",
-              "finished"
-            ]
+            "enum": ["announced", "airing", "finished"]
           }
         }
       }
@@ -198,13 +151,7 @@
       "description": "음성 버전: 원판 또는 특정 더빙판.",
       "type": "object",
       "additionalProperties": false,
-      "required": [
-        "id",
-        "language",
-        "kind",
-        "label",
-        "credits"
-      ],
+      "required": ["id", "language", "kind", "label", "credits"],
       "properties": {
         "id": {
           "$ref": "common.schema.json#/$defs/Id",
@@ -215,10 +162,7 @@
           "description": "음성 언어 (BCP 47. 예: ja, ko, en, zh-Hans, yue)"
         },
         "kind": {
-          "enum": [
-            "original",
-            "dub"
-          ]
+          "enum": ["original", "dub"]
         },
         "label": {
           "$ref": "common.schema.json#/$defs/Text",
@@ -250,12 +194,7 @@
       "description": "배역 1건 = (캐릭터, 성우).",
       "type": "object",
       "additionalProperties": false,
-      "required": [
-        "character",
-        "person",
-        "role",
-        "source_refs"
-      ],
+      "required": ["character", "person", "role", "source_refs"],
       "properties": {
         "character": {
           "$ref": "common.schema.json#/$defs/Id",
@@ -266,22 +205,11 @@
           "description": "persons/<id>"
         },
         "role": {
-          "enum": [
-            "main",
-            "supporting",
-            "minor"
-          ],
+          "enum": ["main", "supporting", "minor"],
           "description": "main=주연, supporting=조연, minor=단역(게스트 포함)"
         },
         "part": {
-          "enum": [
-            "regular",
-            "replaced",
-            "replacement",
-            "young",
-            "substitute",
-            "other"
-          ],
+          "enum": ["regular", "replaced", "replacement", "young", "substitute", "other"],
           "description": "한 캐릭터에 성우가 여럿일 때 구분. replaced=교체 전, replacement=교체 후, young=아역, substitute=일시 대역"
         },
         "episodes": {

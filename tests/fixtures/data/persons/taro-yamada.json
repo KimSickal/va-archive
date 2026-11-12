@@ -1,0 +1,26 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "taro-yamada",
+  "name": {
+    "original_lang": "ja",
+    "original": "山田太郎",
+    "latin": "Taro Yamada"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://example.com/official",
+      "title": "Fixture 公式サイト",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "unverified"
+    },
+    "skill_version": "0.1.0"
+  }
+}
