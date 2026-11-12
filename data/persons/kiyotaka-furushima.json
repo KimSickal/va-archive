@@ -4,14 +4,23 @@
   "name": {
     "original_lang": "ja",
     "original": "古島清孝",
-    "latin": "Kiyotaka Furushima"
+    "latin": "Kiyotaka Furushima",
+    "aliases": {
+      "ko": [
+        "후루시마 키요타카"
+      ],
+      "en": [
+        "Furushima Kiyotaka"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [
     "JP"
   ],
   "wikipedia": {
-    "ja": "https://ja.wikipedia.org/wiki/古島清孝"
+    "ja": "https://ja.wikipedia.org/wiki/古島清孝",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%9B%84%EB%A3%A8%EC%8B%9C%EB%A7%88_%ED%82%A4%EC%9A%94%ED%83%80%EC%B9%B4"
   },
   "birth": "1979-04-19",
   "sources": [
@@ -27,6 +36,14 @@
       "id": "s2",
       "url": "https://ja.wikipedia.org/wiki/古島清孝",
       "title": "古島清孝",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E5%B3%B6%E6%B8%85%E5%AD%9D",
+      "title": "古島清孝 - Wikipedia",
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-13"

@@ -1,0 +1,42 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "hwang-won",
+  "name": {
+    "original_lang": "ko",
+    "original": "황원",
+    "latin": "Hwang Won"
+  },
+  "gender": "male",
+  "nationality": [
+    "KR"
+  ],
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%ED%99%A9%EC%9B%90"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=96412",
+      "title": "Won HWANG - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ko.wikipedia.org/wiki/%ED%99%A9%EC%9B%90",
+      "title": "황원 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

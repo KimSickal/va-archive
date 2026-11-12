@@ -4,14 +4,24 @@
   "name": {
     "original_lang": "ja",
     "original": "小形満",
-    "latin": "Mitsuru Ogata"
+    "latin": "Mitsuru Ogata",
+    "aliases": {
+      "ko": [
+        "오가타 미츠루"
+      ],
+      "en": [
+        "Ogata Mitsuru"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [
     "JP"
   ],
   "wikipedia": {
-    "ja": "https://ja.wikipedia.org/wiki/小形満"
+    "ja": "https://ja.wikipedia.org/wiki/小形満",
+    "en": "https://en.wikipedia.org/wiki/Mitsuru_Ogata",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%98%A4%EA%B0%80%ED%83%80_%EB%AF%B8%EC%B8%A0%EB%A3%A8"
   },
   "birth": "1961-03-24",
   "sources": [
@@ -27,6 +37,14 @@
       "id": "s2",
       "url": "https://ja.wikipedia.org/wiki/小形満",
       "title": "小形満",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%BD%A2%E6%BA%80",
+      "title": "小形満 - Wikipedia",
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-13"

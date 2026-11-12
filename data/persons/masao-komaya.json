@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "駒谷昌男",
-    "latin": "Masao Komaya"
+    "latin": "Masao Komaya",
+    "aliases": {
+      "en": [
+        "Komaya Masao"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [
@@ -27,6 +32,14 @@
       "id": "s2",
       "url": "https://ja.wikipedia.org/wiki/駒谷昌男",
       "title": "駒谷昌男",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E9%A7%92%E8%B0%B7%E6%98%8C%E7%94%B7",
+      "title": "駒谷昌男 - Wikipedia",
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-13"

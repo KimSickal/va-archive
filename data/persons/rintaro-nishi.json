@@ -4,14 +4,20 @@
   "name": {
     "original_lang": "ja",
     "original": "西凜太朗",
-    "latin": "Rintaro Nishi"
+    "latin": "Rintaro Nishi",
+    "aliases": {
+      "en": [
+        "Nishi Rintaro"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [
     "JP"
   ],
   "wikipedia": {
-    "ja": "https://ja.wikipedia.org/wiki/西凜太朗"
+    "ja": "https://ja.wikipedia.org/wiki/西凜太朗",
+    "en": "https://en.wikipedia.org/wiki/Rintar%C5%8D_Nishi"
   },
   "birth": "1965-07-15",
   "sources": [
@@ -27,6 +33,14 @@
       "id": "s2",
       "url": "https://ja.wikipedia.org/wiki/西凜太朗",
       "title": "西凜太朗",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%87%9C%E5%A4%AA%E6%9C%97",
+      "title": "西凜太朗 - Wikipedia",
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-13"

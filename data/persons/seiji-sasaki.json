@@ -4,14 +4,20 @@
   "name": {
     "original_lang": "ja",
     "original": "佐々木誠二",
-    "latin": "Seiji Sasaki"
+    "latin": "Seiji Sasaki",
+    "aliases": {
+      "en": [
+        "Sasaki Seiji"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [
     "JP"
   ],
   "wikipedia": {
-    "ja": "https://ja.wikipedia.org/wiki/佐々木誠二"
+    "ja": "https://ja.wikipedia.org/wiki/佐々木誠二",
+    "en": "https://en.wikipedia.org/wiki/Seiji_Sasaki"
   },
   "birth": "1965-01-11",
   "sources": [
@@ -27,6 +33,14 @@
       "id": "s2",
       "url": "https://ja.wikipedia.org/wiki/佐々木誠二",
       "title": "佐々木誠二",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E3%80%85%E6%9C%A8%E8%AA%A0%E4%BA%8C",
+      "title": "佐々木誠二 - Wikipedia",
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-13"

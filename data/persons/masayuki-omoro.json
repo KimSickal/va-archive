@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "小室正幸",
-    "latin": "Masayuki Omoro"
+    "latin": "Masayuki Omoro",
+    "aliases": {
+      "en": [
+        "Omoro Masayuki"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [
@@ -28,6 +33,14 @@
       "id": "s2",
       "url": "https://ja.wikipedia.org/wiki/小室正幸",
       "title": "小室正幸",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%AE%A4%E6%AD%A3%E5%B9%B8",
+      "title": "小室正幸 - Wikipedia",
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-13"

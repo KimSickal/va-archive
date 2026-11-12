@@ -4,14 +4,24 @@
   "name": {
     "original_lang": "ja",
     "original": "石塚運昇",
-    "latin": "Unsho Ishizuka"
+    "latin": "Unsho Ishizuka",
+    "aliases": {
+      "ko": [
+        "이시즈카 운쇼"
+      ],
+      "en": [
+        "Ishizuka Unsho"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [
     "JP"
   ],
   "wikipedia": {
-    "ja": "https://ja.wikipedia.org/wiki/石塚運昇"
+    "ja": "https://ja.wikipedia.org/wiki/石塚運昇",
+    "en": "https://en.wikipedia.org/wiki/Unsh%C5%8D_Ishizuka",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%8B%9C%EC%A6%88%EC%B9%B4_%EC%9A%B4%EC%87%BC"
   },
   "birth": "1951-05-16",
   "death": "2018-08-13",
@@ -28,6 +38,14 @@
       "id": "s2",
       "url": "https://ja.wikipedia.org/wiki/石塚運昇",
       "title": "石塚運昇",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%A1%9A%E9%81%8B%E6%98%87",
+      "title": "石塚運昇 - Wikipedia",
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-13"

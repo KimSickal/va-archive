@@ -8,6 +8,10 @@
     "aliases": {
       "ja": [
         "大村香奈子"
+      ],
+      "en": [
+        "Kana Oomura",
+        "Omura Kana"
       ]
     }
   },
@@ -31,6 +35,22 @@
       "id": "s2",
       "url": "https://ja.wikipedia.org/wiki/大村歌奈",
       "title": "大村歌奈",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=70658",
+      "title": "Kana OOMURA - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s4",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%9D%91%E6%AD%8C%E5%A5%88",
+      "title": "大村歌奈 - Wikipedia",
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-13"

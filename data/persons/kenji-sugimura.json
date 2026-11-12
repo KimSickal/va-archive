@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "杉村憲司",
-    "latin": "Kenji Sugimura"
+    "latin": "Kenji Sugimura",
+    "aliases": {
+      "en": [
+        "Sugimura Kenji"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [
@@ -26,6 +31,14 @@
       "id": "s2",
       "url": "https://ja.wikipedia.org/wiki/杉村憲司",
       "title": "杉村憲司",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%89%E6%9D%91%E6%86%B2%E5%8F%B8",
+      "title": "杉村憲司 - Wikipedia",
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-13"

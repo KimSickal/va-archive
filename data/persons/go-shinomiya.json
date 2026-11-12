@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "四宮豪",
-    "latin": "Go Shinomiya"
+    "latin": "Go Shinomiya",
+    "aliases": {
+      "en": [
+        "Shinomiya Go"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [
@@ -27,6 +32,14 @@
       "id": "s2",
       "url": "https://ja.wikipedia.org/wiki/四宮豪",
       "title": "四宮豪",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E5%9B%9B%E5%AE%AE%E8%B1%AA",
+      "title": "四宮豪 - Wikipedia",
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-13"

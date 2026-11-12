@@ -1,0 +1,53 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "yuri-amano",
+  "name": {
+    "original_lang": "ja",
+    "original": "天野由梨",
+    "latin": "Yuri Amano",
+    "aliases": {
+      "ko": [
+        "아마노 유리"
+      ],
+      "en": [
+        "Amano Yuri"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1966",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E9%87%8E%E7%94%B1%E6%A2%A8",
+    "en": "https://en.wikipedia.org/wiki/Yuri_Amano",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%95%84%EB%A7%88%EB%85%B8_%EC%9C%A0%EB%A6%AC"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=1048",
+      "title": "Yuri AMANO - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E9%87%8E%E7%94%B1%E6%A2%A8",
+      "title": "天野由梨 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "川島得愛",
-    "latin": "Tokuyoshi Kawashima"
+    "latin": "Tokuyoshi Kawashima",
+    "aliases": {
+      "en": [
+        "Kawashima Tokuyoshi"
+      ]
+    }
   },
   "gender": "male",
   "birth": "1973-02-08",

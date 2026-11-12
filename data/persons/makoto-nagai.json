@@ -1,0 +1,48 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "makoto-nagai",
+  "name": {
+    "original_lang": "ja",
+    "original": "永井誠",
+    "latin": "Makoto Nagai",
+    "aliases": {
+      "en": [
+        "Nagai Makoto"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1967",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%B0%B8%E4%BA%95%E8%AA%A0"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=19037",
+      "title": "Makoto NAGAI - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B0%B8%E4%BA%95%E8%AA%A0",
+      "title": "永井誠 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

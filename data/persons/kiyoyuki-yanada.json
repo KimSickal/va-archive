@@ -8,6 +8,9 @@
     "aliases": {
       "ko": [
         "야나다 키요유키"
+      ],
+      "en": [
+        "Yanada Kiyoyuki"
       ]
     }
   },
@@ -26,6 +29,14 @@
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=1031",
+      "title": "Kiyoyuki YANADA - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
     }
   ],
   "meta": {
@@ -35,5 +46,9 @@
       "verified_at": "2026-11-13"
     },
     "skill_version": "0.1.0"
-  }
+  },
+  "nationality": [
+    "JP"
+  ],
+  "death": "2022"
 }

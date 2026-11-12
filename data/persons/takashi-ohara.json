@@ -4,14 +4,25 @@
   "name": {
     "original_lang": "ja",
     "original": "大原崇",
-    "latin": "Takashi Ohara"
+    "latin": "Takashi Ohara",
+    "aliases": {
+      "ko": [
+        "오오하라 타카시"
+      ],
+      "en": [
+        "Takashi Oohara",
+        "Ohara Takashi"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [
     "JP"
   ],
   "wikipedia": {
-    "ja": "https://ja.wikipedia.org/wiki/大原崇"
+    "ja": "https://ja.wikipedia.org/wiki/大原崇",
+    "en": "https://en.wikipedia.org/wiki/Takashi_%C5%8Chara",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%98%A4%ED%95%98%EB%9D%BC_%ED%83%80%EC%B9%B4%EC%8B%9C"
   },
   "birth": "1978-04-09",
   "sources": [
@@ -27,6 +38,14 @@
       "id": "s2",
       "url": "https://ja.wikipedia.org/wiki/大原崇",
       "title": "大原崇",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%8E%9F%E5%B4%87",
+      "title": "大原崇 - Wikipedia",
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-13"

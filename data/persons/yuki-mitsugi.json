@@ -1,0 +1,48 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "yuki-mitsugi",
+  "name": {
+    "original_lang": "ja",
+    "original": "三ッ木勇気",
+    "latin": "Yuki Mitsugi",
+    "aliases": {
+      "en": [
+        "Mitsugi Yuki"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1984",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%B8%89%E3%83%83%E6%9C%A8%E5%8B%87%E6%B0%97"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=47942",
+      "title": "Yūki MITSUGI - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E3%83%83%E6%9C%A8%E5%8B%87%E6%B0%97",
+      "title": "三ッ木勇気 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

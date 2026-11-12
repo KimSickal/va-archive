@@ -4,14 +4,23 @@
   "name": {
     "original_lang": "ja",
     "original": "麻生智久",
-    "latin": "Tomohisa Aso"
+    "latin": "Tomohisa Aso",
+    "aliases": {
+      "ko": [
+        "아소 토모히사"
+      ],
+      "en": [
+        "Aso Tomohisa"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [
     "JP"
   ],
   "wikipedia": {
-    "ja": "https://ja.wikipedia.org/wiki/麻生智久"
+    "ja": "https://ja.wikipedia.org/wiki/麻生智久",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%86%8C_%ED%86%A0%EB%AA%A8%ED%9E%88%EC%82%AC"
   },
   "sources": [
     {
@@ -26,6 +35,14 @@
       "id": "s2",
       "url": "https://ja.wikipedia.org/wiki/麻生智久",
       "title": "麻生智久",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E9%BA%BB%E7%94%9F%E6%99%BA%E4%B9%85",
+      "title": "麻生智久 - Wikipedia",
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-13"

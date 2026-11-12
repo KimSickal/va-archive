@@ -1,0 +1,54 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "rokuro-naya",
+  "name": {
+    "original_lang": "ja",
+    "original": "納谷六朗",
+    "latin": "Rokuro Naya",
+    "aliases": {
+      "ko": [
+        "나야 로쿠로"
+      ],
+      "en": [
+        "Naya Rokuro"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1932",
+  "death": "2014",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%B4%8D%E8%B0%B7%E5%85%AD%E6%9C%97",
+    "en": "https://en.wikipedia.org/wiki/Rokur%C5%8D_Naya",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%82%98%EC%95%BC_%EB%A1%9C%EC%BF%A0%EB%A1%9C"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=458",
+      "title": "Rokurō NAYA - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E7%B4%8D%E8%B0%B7%E5%85%AD%E6%9C%97",
+      "title": "納谷六朗 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

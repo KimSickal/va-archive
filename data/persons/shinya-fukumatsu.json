@@ -4,14 +4,20 @@
   "name": {
     "original_lang": "ja",
     "original": "ふくまつ進紗",
-    "latin": "Shinya Fukumatsu"
+    "latin": "Shinya Fukumatsu",
+    "aliases": {
+      "en": [
+        "Fukumatsu Shinya"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [
     "JP"
   ],
   "wikipedia": {
-    "ja": "https://ja.wikipedia.org/wiki/ふくまつ進紗"
+    "ja": "https://ja.wikipedia.org/wiki/ふくまつ進紗",
+    "en": "https://en.wikipedia.org/wiki/Shinya_Fukumatsu"
   },
   "birth": "1958-11-30",
   "sources": [
@@ -27,6 +33,14 @@
       "id": "s2",
       "url": "https://ja.wikipedia.org/wiki/ふくまつ進紗",
       "title": "ふくまつ進紗",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%B5%E3%81%8F%E3%81%BE%E3%81%A4%E9%80%B2%E7%B4%97",
+      "title": "ふくまつ進紗 - Wikipedia",
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-13"

@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "星野健一",
-    "latin": "Kenichi Hoshino"
+    "latin": "Kenichi Hoshino",
+    "aliases": {
+      "en": [
+        "Hoshino Kenichi"
+      ]
+    }
   },
   "sources": [
     {

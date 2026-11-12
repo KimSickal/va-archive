@@ -1,0 +1,4302 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "fullmetal-alchemist-brotherhood",
+  "franchise_id": "fullmetal-alchemist",
+  "type": "anime_tv",
+  "title": {
+    "original_lang": "ja",
+    "original": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+    "latin": "Hagane no Renkinjutsushi: Fullmetal Alchemist",
+    "official": {
+      "en": "Fullmetal Alchemist: Brotherhood",
+      "ko": "강철의 연금술사 BROTHERHOOD"
+    },
+    "aliases": {
+      "ko": [
+        "강철의 연금술사 FULLMETAL ALCHEMIST",
+        "강철의 연금술사 리메이크"
+      ],
+      "en": [
+        "FMA: Brotherhood"
+      ]
+    }
+  },
+  "order": 1,
+  "status": "finished",
+  "start_date": "2009-04-05",
+  "end_date": "2010-07-04",
+  "episodes": 64,
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "ボンズ",
+      "latin": "Bones",
+      "official": {
+        "en": "Bones",
+        "ko": "본즈"
+      }
+    }
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB_FULLMETAL_ALCHEMIST",
+    "en": "https://en.wikipedia.org/wiki/Fullmetal_Alchemist:_Brotherhood",
+    "ko": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%B2%A0%EC%9D%98_%EC%97%B0%EA%B8%88%EC%88%A0%EC%82%AC_BROTHERHOOD"
+  },
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2009-04-05",
+      "last_release_date": "2010-07-04",
+      "credits": [
+        {
+          "character": "alphonse-elric",
+          "person": "rie-kugimiya",
+          "role": "main",
+          "source_refs": [
+            "s3",
+            "s1",
+            "s2",
+            "s5"
+          ]
+        },
+        {
+          "character": "edward-elric",
+          "person": "romi-park",
+          "role": "main",
+          "source_refs": [
+            "s3",
+            "s1",
+            "s2",
+            "s5"
+          ]
+        },
+        {
+          "character": "riza-hawkeye",
+          "person": "fumiko-orikasa",
+          "role": "main",
+          "source_refs": [
+            "s3",
+            "s1",
+            "s2",
+            "s5"
+          ]
+        },
+        {
+          "character": "king-bradley",
+          "person": "hidekatsu-shibata",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s1",
+            "s2",
+            "s5"
+          ],
+          "part": "regular"
+        },
+        {
+          "character": "solf-j-kimblee",
+          "person": "hiroyuki-yoshino",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s1",
+            "s2",
+            "s5"
+          ]
+        },
+        {
+          "character": "father",
+          "person": "iemasa-kayumi",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s2",
+            "s5"
+          ]
+        },
+        {
+          "character": "maes-hughes",
+          "person": "keiji-fujiwara",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s1",
+            "s2",
+            "s5"
+          ]
+        },
+        {
+          "character": "alex-louis-armstrong",
+          "person": "kenji-utsumi",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s1",
+            "s2",
+            "s5"
+          ]
+        },
+        {
+          "character": "scar",
+          "person": "kenta-miyake",
+          "role": "main",
+          "source_refs": [
+            "s3",
+            "s1",
+            "s2",
+            "s5"
+          ]
+        },
+        {
+          "character": "lust",
+          "person": "kikuko-inoue",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s1",
+            "s2",
+            "s5"
+          ]
+        },
+        {
+          "character": "may-chang",
+          "person": "mai-goto",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s2",
+            "s5"
+          ]
+        },
+        {
+          "character": "ling-yao",
+          "person": "mamoru-miyano",
+          "role": "main",
+          "source_refs": [
+            "s3",
+            "s2",
+            "s5"
+          ]
+        },
+        {
+          "character": "tim-marcoh",
+          "person": "masayuki-omoro",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s2",
+            "s5"
+          ]
+        },
+        {
+          "character": "darius",
+          "person": "masuo-amada",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "winry-rockbell",
+          "person": "megumi-takamoto",
+          "role": "main",
+          "source_refs": [
+            "s3",
+            "s1",
+            "s2",
+            "s5"
+          ]
+        },
+        {
+          "character": "envy",
+          "person": "minami-takayama",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s1",
+            "s2",
+            "s5"
+          ]
+        },
+        {
+          "character": "lan-fan",
+          "person": "nana-mizuki",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s2",
+            "s5"
+          ]
+        },
+        {
+          "character": "xiao-mei",
+          "person": "rie-kugimiya",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s2",
+            "s5"
+          ]
+        },
+        {
+          "character": "roy-mustang",
+          "person": "shinichiro-miki",
+          "role": "main",
+          "source_refs": [
+            "s3",
+            "s1",
+            "s2",
+            "s5"
+          ]
+        },
+        {
+          "character": "izumi-curtis",
+          "person": "shoko-tsuda",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s2",
+            "s5"
+          ]
+        },
+        {
+          "character": "zampano",
+          "person": "takashi-hikida",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "gluttony",
+          "person": "tetsu-shiratori",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s1",
+            "s2",
+            "s5"
+          ]
+        },
+        {
+          "character": "jerso",
+          "person": "tomoyuki-shimura",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "van-hohenheim",
+          "person": "unsho-ishizuka",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s2",
+            "s5"
+          ],
+          "part": "regular"
+        },
+        {
+          "character": "olivier-mira-armstrong",
+          "person": "yoko-somi",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s1",
+            "s2",
+            "s5"
+          ]
+        },
+        {
+          "character": "greed",
+          "person": "yuichi-nakamura",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s2",
+            "s5"
+          ]
+        },
+        {
+          "character": "selim-bradley",
+          "person": "yuko-sanpei",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "mrs-bradley",
+          "person": "ai-sato",
+          "role": "minor",
+          "source_refs": [
+            "s3",
+            "s6",
+            "s73"
+          ]
+        },
+        {
+          "character": "boy-b-fmab-ep9",
+          "person": "akane-kubota",
+          "role": "minor",
+          "episodes": {
+            "from": 9,
+            "to": 9
+          },
+          "source_refs": [
+            "s3",
+            "s28"
+          ]
+        },
+        {
+          "character": "paninya",
+          "person": "akemi-okamura",
+          "role": "minor",
+          "episodes": "11, 15",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "soldier-c-fmab-ep41",
+          "person": "akihiro-matsushima",
+          "role": "minor",
+          "episodes": {
+            "from": 41,
+            "to": 41
+          },
+          "source_refs": [
+            "s3",
+            "s50"
+          ]
+        },
+        {
+          "character": "dolcetto",
+          "person": "anri-katsu",
+          "role": "minor",
+          "episodes": {
+            "from": 13,
+            "to": 14
+          },
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "roys-master",
+          "person": "atsuki-tani",
+          "role": "minor",
+          "episodes": {
+            "from": 30,
+            "to": 30
+          },
+          "source_refs": [
+            "s3",
+            "s2",
+            "s5"
+          ]
+        },
+        {
+          "character": "ishbalan-boy-fmab-ep18",
+          "person": "atsushi-abe",
+          "role": "minor",
+          "episodes": "18, 22",
+          "source_refs": [
+            "s3",
+            "s29"
+          ]
+        },
+        {
+          "character": "doctor-fmab-ep11",
+          "person": "biichi-sato",
+          "role": "minor",
+          "episodes": {
+            "from": 11,
+            "to": 11
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "face-b-fmab-ep26",
+          "person": "biichi-sato",
+          "role": "minor",
+          "episodes": {
+            "from": 26,
+            "to": 26
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "fellow-countryman-fmab-ep22",
+          "person": "biichi-sato",
+          "role": "minor",
+          "episodes": {
+            "from": 22,
+            "to": 22
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "heymans-breda",
+          "person": "biichi-sato",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s1",
+            "s2",
+            "s5"
+          ]
+        },
+        {
+          "character": "man-a-fmab-ep12",
+          "person": "biichi-sato",
+          "role": "minor",
+          "episodes": {
+            "from": 12,
+            "to": 13
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "military-a-fmab-ep14",
+          "person": "biichi-sato",
+          "role": "minor",
+          "episodes": {
+            "from": 14,
+            "to": 14
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "military-policeman-b-fmab-ep1",
+          "person": "biichi-sato",
+          "role": "minor",
+          "episodes": {
+            "from": 1,
+            "to": 1
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "order-member-b-fmab-ep3",
+          "person": "biichi-sato",
+          "role": "minor",
+          "episodes": {
+            "from": 3,
+            "to": 3
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "prison-guard-a-fmab-ep8",
+          "person": "biichi-sato",
+          "role": "minor",
+          "episodes": {
+            "from": 8,
+            "to": 8
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "subordinate-fmab-ep2",
+          "person": "biichi-sato",
+          "role": "minor",
+          "episodes": {
+            "from": 2,
+            "to": 2
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "villager-a-fmab-ep6",
+          "person": "biichi-sato",
+          "role": "minor",
+          "episodes": {
+            "from": 6,
+            "to": 6
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "doctor-fmab-ep35",
+          "person": "bon-ishihara",
+          "role": "minor",
+          "episodes": {
+            "from": 35,
+            "to": 35
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "fessler",
+          "person": "bon-ishihara",
+          "role": "minor",
+          "episodes": {
+            "from": 29,
+            "to": 29
+          },
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "gold-toothed-doctor",
+          "person": "bon-ishihara",
+          "role": "minor",
+          "source_refs": [
+            "s3",
+            "s6",
+            "s52"
+          ]
+        },
+        {
+          "character": "military-policeman-a-fmab-ep22",
+          "person": "bon-ishihara",
+          "role": "minor",
+          "episodes": {
+            "from": 22,
+            "to": 22
+          },
+          "source_refs": [
+            "s3",
+            "s52"
+          ]
+        },
+        {
+          "character": "producer-fmab-ep53",
+          "person": "bon-ishihara",
+          "role": "minor",
+          "episodes": "53, 56",
+          "source_refs": [
+            "s3",
+            "s52"
+          ]
+        },
+        {
+          "character": "white-coat-fmab-ep26",
+          "person": "bon-ishihara",
+          "role": "minor",
+          "episodes": {
+            "from": 26,
+            "to": 26
+          },
+          "source_refs": [
+            "s3",
+            "s52"
+          ]
+        },
+        {
+          "character": "flower-shop-lady",
+          "person": "chie-sato",
+          "role": "minor",
+          "episodes": {
+            "from": 36,
+            "to": 37
+          },
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "sheska",
+          "person": "chika-fujimura",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "guard-soldier-b-fmab-ep17",
+          "person": "chikara-osaka",
+          "role": "minor",
+          "episodes": {
+            "from": 17,
+            "to": 17
+          },
+          "source_refs": [
+            "s3",
+            "s53"
+          ]
+        },
+        {
+          "character": "military-policeman-a-fmab-ep23",
+          "person": "chikara-osaka",
+          "role": "minor",
+          "episodes": {
+            "from": 23,
+            "to": 23
+          },
+          "source_refs": [
+            "s3",
+            "s53"
+          ]
+        },
+        {
+          "character": "slicer",
+          "person": "dai-matsumoto",
+          "role": "minor",
+          "part": "other",
+          "episodes": {
+            "from": 7,
+            "to": 8
+          },
+          "note": {
+            "original_lang": "ja",
+            "original": "兄",
+            "translations": {
+              "ko": "형",
+              "en": "Older brother"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s3",
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "van-hohenheim",
+          "person": "daisuke-namikawa",
+          "role": "minor",
+          "part": "young",
+          "episodes": {
+            "from": 40,
+            "to": 40
+          },
+          "source_refs": [
+            "s3",
+            "s5"
+          ]
+        },
+        {
+          "character": "sheskas-superior-fmab-ep16",
+          "person": "eri-komiyama",
+          "role": "minor",
+          "episodes": {
+            "from": 16,
+            "to": 16
+          },
+          "source_refs": [
+            "s3",
+            "s34"
+          ]
+        },
+        {
+          "character": "photographer-fmab-ep36",
+          "person": "fumihiko-tachiki",
+          "role": "minor",
+          "episodes": {
+            "from": 36,
+            "to": 36
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "sloth",
+          "person": "fumihiko-tachiki",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s2",
+            "s5"
+          ]
+        },
+        {
+          "character": "military-policeman-a-fmab-ep32",
+          "person": "fumihiro-okabayashi",
+          "role": "minor",
+          "episodes": {
+            "from": 32,
+            "to": 32
+          },
+          "source_refs": [
+            "s3",
+            "s54"
+          ]
+        },
+        {
+          "character": "broshs-little-sister",
+          "person": "fumiko-orikasa",
+          "role": "minor",
+          "episodes": {
+            "from": 49,
+            "to": 49
+          },
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "commander-fmab-ep56",
+          "person": "fuminori-komatsu",
+          "role": "minor",
+          "episodes": {
+            "from": 56,
+            "to": 56
+          },
+          "source_refs": [
+            "s3",
+            "s35"
+          ]
+        },
+        {
+          "character": "branch-manager-fmab-ep44",
+          "person": "go-shinomiya",
+          "role": "minor",
+          "episodes": {
+            "from": 44,
+            "to": 44
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "casper",
+          "person": "go-shinomiya",
+          "role": "minor",
+          "episodes": "54-55, 57",
+          "source_refs": [
+            "s3",
+            "s36"
+          ]
+        },
+        {
+          "character": "commander-fmab-ep32",
+          "person": "go-shinomiya",
+          "role": "minor",
+          "episodes": {
+            "from": 32,
+            "to": 32
+          },
+          "source_refs": [
+            "s3",
+            "s36"
+          ]
+        },
+        {
+          "character": "face-a-fmab-ep26",
+          "person": "go-shinomiya",
+          "role": "minor",
+          "episodes": {
+            "from": 26,
+            "to": 26
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "guard-soldier-a-fmab-ep17",
+          "person": "go-shinomiya",
+          "role": "minor",
+          "episodes": {
+            "from": 17,
+            "to": 17
+          },
+          "source_refs": [
+            "s3",
+            "s36"
+          ]
+        },
+        {
+          "character": "sergeant-fmab-ep56",
+          "person": "go-shinomiya",
+          "role": "minor",
+          "episodes": "56, 58",
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "slum-dweller-fmab-ep53",
+          "person": "go-shinomiya",
+          "role": "minor",
+          "episodes": {
+            "from": 53,
+            "to": 53
+          },
+          "source_refs": [
+            "s3",
+            "s36"
+          ]
+        },
+        {
+          "character": "storch",
+          "person": "go-shinomiya",
+          "role": "minor",
+          "episodes": {
+            "from": 25,
+            "to": 25
+          },
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "engineer-fmab-ep33",
+          "person": "hideki-nakanishi",
+          "role": "minor",
+          "episodes": {
+            "from": 33,
+            "to": 33
+          },
+          "source_refs": [
+            "s3",
+            "s30"
+          ]
+        },
+        {
+          "character": "king-bradley",
+          "person": "hidenobu-kiuchi",
+          "role": "minor",
+          "part": "young",
+          "episodes": {
+            "from": 26,
+            "to": 26
+          },
+          "source_refs": [
+            "s3",
+            "s5"
+          ]
+        },
+        {
+          "character": "barry-the-chopper",
+          "person": "hideyuki-umezu",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s2",
+            "s6"
+          ],
+          "part": "regular"
+        },
+        {
+          "character": "gardner",
+          "person": "hiroshi-ito",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "second-officer-fmab-ep40",
+          "person": "hisanori-koyatsu",
+          "role": "minor",
+          "episodes": {
+            "from": 40,
+            "to": 40
+          },
+          "source_refs": [
+            "s3",
+            "s55"
+          ]
+        },
+        {
+          "character": "cray",
+          "person": "hisao-egawa",
+          "role": "minor",
+          "episodes": "3, 5",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "radio-voice-fmab-ep23",
+          "person": "hitoshi-yanai",
+          "role": "minor",
+          "episodes": {
+            "from": 23,
+            "to": 23
+          },
+          "source_refs": [
+            "s3",
+            "s39"
+          ]
+        },
+        {
+          "character": "subordinate-fmab-ep10",
+          "person": "hitoshi-yanai",
+          "role": "minor",
+          "episodes": {
+            "from": 10,
+            "to": 10
+          },
+          "source_refs": [
+            "s3",
+            "s39"
+          ]
+        },
+        {
+          "character": "narrator-fmab",
+          "person": "iemasa-kayumi",
+          "role": "minor",
+          "source_refs": [
+            "s3",
+            "s4",
+            "s72"
+          ]
+        },
+        {
+          "character": "karley",
+          "person": "jin-horikawa",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "military-policeman-a-fmab-ep1",
+          "person": "jun-konno",
+          "role": "minor",
+          "episodes": {
+            "from": 1,
+            "to": 1
+          },
+          "source_refs": [
+            "s3",
+            "s56"
+          ]
+        },
+        {
+          "character": "order-member-a-fmab-ep3",
+          "person": "jun-konno",
+          "role": "minor",
+          "episodes": {
+            "from": 3,
+            "to": 3
+          },
+          "source_refs": [
+            "s3",
+            "s56"
+          ]
+        },
+        {
+          "character": "soldier-fmab-ep35",
+          "person": "jun-konno",
+          "role": "minor",
+          "episodes": {
+            "from": 35,
+            "to": 35
+          },
+          "source_refs": [
+            "s3",
+            "s56"
+          ]
+        },
+        {
+          "character": "soldier-a-fmab-ep38",
+          "person": "jun-konno",
+          "role": "minor",
+          "episodes": {
+            "from": 38,
+            "to": 39
+          },
+          "source_refs": [
+            "s3",
+            "s56"
+          ]
+        },
+        {
+          "character": "knoxs-wife",
+          "person": "junko-kitanishi",
+          "role": "minor",
+          "episodes": {
+            "from": 31,
+            "to": 31
+          },
+          "source_refs": [
+            "s3",
+            "s6",
+            "s75"
+          ]
+        },
+        {
+          "character": "lady-fmab-ep47",
+          "person": "kana-omura",
+          "role": "minor",
+          "episodes": {
+            "from": 47,
+            "to": 47
+          },
+          "source_refs": [
+            "s3",
+            "s41"
+          ]
+        },
+        {
+          "character": "villager-c-fmab-ep6",
+          "person": "kana-omura",
+          "role": "minor",
+          "episodes": {
+            "from": 6,
+            "to": 6
+          },
+          "source_refs": [
+            "s3",
+            "s41"
+          ]
+        },
+        {
+          "character": "maria-ross",
+          "person": "kaori-nazuka",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s1",
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "raven",
+          "person": "katsuhisa-hoki",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "fu",
+          "person": "katsunosuke-hori",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s2",
+            "s5"
+          ]
+        },
+        {
+          "character": "station-attendant-fmab-ep32",
+          "person": "kazuki-yao",
+          "role": "minor",
+          "episodes": {
+            "from": 32,
+            "to": 32
+          },
+          "source_refs": [
+            "s3",
+            "s57"
+          ]
+        },
+        {
+          "character": "yoki",
+          "person": "kazuki-yao",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s2",
+            "s5"
+          ]
+        },
+        {
+          "character": "miles",
+          "person": "kazuya-nakai",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s1",
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "flanagan",
+          "person": "keiichi-nakagawa",
+          "role": "minor",
+          "episodes": {
+            "from": 52,
+            "to": 52
+          },
+          "source_refs": [
+            "s3"
+          ]
+        },
+        {
+          "character": "ivan",
+          "person": "keiichi-sonobe",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "man-b-fmab-ep12",
+          "person": "keisuke-kojima",
+          "role": "minor",
+          "episodes": {
+            "from": 12,
+            "to": 13
+          },
+          "source_refs": [
+            "s3",
+            "s58"
+          ]
+        },
+        {
+          "character": "prison-guard-b-fmab-ep8",
+          "person": "keisuke-kojima",
+          "role": "minor",
+          "episodes": {
+            "from": 8,
+            "to": 8
+          },
+          "source_refs": [
+            "s3",
+            "s58"
+          ]
+        },
+        {
+          "character": "briggs-soldier-fmab-ep36",
+          "person": "kenichi-hoshino",
+          "role": "minor",
+          "episodes": {
+            "from": 36,
+            "to": 36
+          },
+          "source_refs": [
+            "s3",
+            "s48"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "engineer-b-fmab-ep11",
+          "person": "kenichi-hoshino",
+          "role": "minor",
+          "episodes": {
+            "from": 11,
+            "to": 11
+          },
+          "source_refs": [
+            "s3",
+            "s48"
+          ]
+        },
+        {
+          "character": "military-policeman-fmab-ep7",
+          "person": "kenichi-hoshino",
+          "role": "minor",
+          "episodes": {
+            "from": 7,
+            "to": 7
+          },
+          "source_refs": [
+            "s3",
+            "s48"
+          ]
+        },
+        {
+          "character": "soldier-b-fmab-ep41",
+          "person": "kenichi-hoshino",
+          "role": "minor",
+          "episodes": {
+            "from": 41,
+            "to": 41
+          },
+          "source_refs": [
+            "s3",
+            "s48"
+          ]
+        },
+        {
+          "character": "barry-the-chopper",
+          "person": "kenji-hamada",
+          "role": "minor",
+          "part": "other",
+          "episodes": {
+            "from": 18,
+            "to": 19
+          },
+          "note": {
+            "original_lang": "ja",
+            "original": "生前の姿",
+            "translations": {
+              "ko": "생전의 모습",
+              "en": "Human form (before death)"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "bliss",
+          "person": "kenji-hamada",
+          "role": "minor",
+          "episodes": {
+            "from": 62,
+            "to": 62
+          },
+          "source_refs": [
+            "s3"
+          ]
+        },
+        {
+          "character": "vato-falman",
+          "person": "kenji-hamada",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s1",
+            "s5"
+          ]
+        },
+        {
+          "character": "slicer",
+          "person": "kenji-nojima",
+          "role": "minor",
+          "part": "other",
+          "episodes": {
+            "from": 8,
+            "to": 8
+          },
+          "note": {
+            "original_lang": "ja",
+            "original": "弟",
+            "translations": {
+              "ko": "동생",
+              "en": "Younger brother"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s3",
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "man-c-fmab-ep12",
+          "person": "kenji-sugimura",
+          "role": "minor",
+          "episodes": {
+            "from": 12,
+            "to": 12
+          },
+          "source_refs": [
+            "s3",
+            "s59"
+          ]
+        },
+        {
+          "character": "military-policeman-d-fmab-ep1",
+          "person": "kenji-sugimura",
+          "role": "minor",
+          "episodes": {
+            "from": 1,
+            "to": 1
+          },
+          "source_refs": [
+            "s3",
+            "s59"
+          ]
+        },
+        {
+          "character": "order-member-c-fmab-ep3",
+          "person": "kenji-sugimura",
+          "role": "minor",
+          "episodes": {
+            "from": 3,
+            "to": 3
+          },
+          "source_refs": [
+            "s3",
+            "s59"
+          ]
+        },
+        {
+          "character": "proctor-fmab-ep2",
+          "person": "kenji-sugimura",
+          "role": "minor",
+          "episodes": {
+            "from": 2,
+            "to": 2
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "soldier-fmab-ep7",
+          "person": "kenji-sugimura",
+          "role": "minor",
+          "episodes": {
+            "from": 7,
+            "to": 7
+          },
+          "source_refs": [
+            "s3",
+            "s59"
+          ]
+        },
+        {
+          "character": "villager-b-fmab-ep6",
+          "person": "kenji-sugimura",
+          "role": "minor",
+          "episodes": {
+            "from": 6,
+            "to": 6
+          },
+          "source_refs": [
+            "s3",
+            "s59"
+          ]
+        },
+        {
+          "character": "philip-gargantos-armstrong",
+          "person": "kenji-utsumi",
+          "role": "minor",
+          "episodes": {
+            "from": 45,
+            "to": 45
+          },
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "garfiel",
+          "person": "kenta-miyake",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "knox",
+          "person": "kinryu-arimoto",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "clemin",
+          "person": "kiyoshi-katsunuma",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "yakovlev",
+          "person": "kiyoshi-katsunuma",
+          "role": "minor",
+          "episodes": {
+            "from": 25,
+            "to": 25
+          },
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "briggs-soldier-fmab-ep37",
+          "person": "kiyotaka-furushima",
+          "role": "minor",
+          "episodes": {
+            "from": 37,
+            "to": 37
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "citizen-fmab-ep51",
+          "person": "kiyotaka-furushima",
+          "role": "minor",
+          "episodes": {
+            "from": 51,
+            "to": 51
+          },
+          "source_refs": [
+            "s3",
+            "s60"
+          ]
+        },
+        {
+          "character": "ishvalan-fmab-ep43",
+          "person": "kiyotaka-furushima",
+          "role": "minor",
+          "episodes": {
+            "from": 43,
+            "to": 43
+          },
+          "source_refs": [
+            "s3",
+            "s60"
+          ]
+        },
+        {
+          "character": "liam-roach",
+          "person": "kiyotaka-furushima",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "worker-fmab-ep34",
+          "person": "kiyotaka-furushima",
+          "role": "minor",
+          "episodes": {
+            "from": 34,
+            "to": 34
+          },
+          "source_refs": [
+            "s3",
+            "s60"
+          ]
+        },
+        {
+          "character": "henschel",
+          "person": "kiyoyuki-yanada",
+          "role": "minor",
+          "episodes": "36-38, 40",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "isaac-mcdougal",
+          "person": "koichi-yamadera",
+          "role": "minor",
+          "episodes": {
+            "from": 1,
+            "to": 1
+          },
+          "source_refs": [
+            "s3"
+          ]
+        },
+        {
+          "character": "receptionist-fmab-ep44",
+          "person": "mai-aizawa",
+          "role": "minor",
+          "episodes": {
+            "from": 44,
+            "to": 44
+          },
+          "source_refs": [
+            "s3",
+            "s38"
+          ]
+        },
+        {
+          "character": "shou-tucker",
+          "person": "makoto-nagai",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "pinako-rockbell",
+          "person": "mami-koyama",
+          "role": "minor",
+          "part": "young",
+          "episodes": {
+            "from": 27,
+            "to": 27
+          },
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "housewife-fmab-ep29",
+          "person": "mari-miyamoto",
+          "role": "minor",
+          "episodes": "29, 51",
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "gertner",
+          "person": "masaki-terasoma",
+          "role": "minor",
+          "episodes": "38, 40",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "yuriy-rockbell",
+          "person": "masaki-terasoma",
+          "role": "minor",
+          "episodes": {
+            "from": 18,
+            "to": 18
+          },
+          "source_refs": [
+            "s3",
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "executive-fmab-ep25",
+          "person": "masao-komaya",
+          "role": "minor",
+          "episodes": {
+            "from": 25,
+            "to": 25
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "high-official-fmab",
+          "person": "masao-komaya",
+          "role": "minor",
+          "source_refs": [
+            "s3",
+            "s61"
+          ]
+        },
+        {
+          "character": "the-employee-fmab",
+          "person": "masao-komaya",
+          "role": "minor",
+          "source_refs": [
+            "s3",
+            "s61"
+          ]
+        },
+        {
+          "character": "worker-fmab-ep26",
+          "person": "masao-komaya",
+          "role": "minor",
+          "episodes": {
+            "from": 26,
+            "to": 26
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "soldier-fmab-ep33",
+          "person": "masatomo-nakazawa",
+          "role": "minor",
+          "episodes": {
+            "from": 33,
+            "to": 33
+          },
+          "source_refs": [
+            "s3",
+            "s62"
+          ]
+        },
+        {
+          "character": "damiano",
+          "person": "masayuki-shoji",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "edison",
+          "person": "masuo-amada",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "elicia-hughes",
+          "person": "misato-fukuen",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "frank",
+          "person": "mitsuru-ogata",
+          "role": "minor",
+          "episodes": {
+            "from": 55,
+            "to": 55
+          },
+          "source_refs": [
+            "s3"
+          ]
+        },
+        {
+          "character": "mick-murray",
+          "person": "mitsuru-ogata",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "pinako-rockbell",
+          "person": "miyoko-aso",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s2",
+            "s6"
+          ],
+          "part": "regular"
+        },
+        {
+          "character": "broshs-little-brother",
+          "person": "nana-mizuki",
+          "role": "minor",
+          "episodes": {
+            "from": 49,
+            "to": 49
+          },
+          "source_refs": [
+            "s3",
+            "s6",
+            "s71"
+          ]
+        },
+        {
+          "character": "rebecca-catalina",
+          "person": "naomi-shindo",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "shan",
+          "person": "noriko-uemura",
+          "role": "minor",
+          "episodes": {
+            "from": 18,
+            "to": 18
+          },
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "catherine-elle-armstrong",
+          "person": "rie-kugimiya",
+          "role": "minor",
+          "episodes": "38, 43",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "charlie",
+          "person": "rintaro-nishi",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "briggs-doctor",
+          "person": "risa-hayamizu",
+          "role": "minor",
+          "episodes": {
+            "from": 34,
+            "to": 34
+          },
+          "source_refs": [
+            "s3",
+            "s6",
+            "s69"
+          ]
+        },
+        {
+          "character": "grumman",
+          "person": "rokuro-naya",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "mrs-armstrong",
+          "person": "romi-park",
+          "role": "minor",
+          "episodes": {
+            "from": 45,
+            "to": 45
+          },
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "buccaneer",
+          "person": "ryuzaburo-otomo",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s1",
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "boy-a-fmab-ep9",
+          "person": "sari-kakuta",
+          "role": "minor",
+          "episodes": {
+            "from": 9,
+            "to": 9
+          },
+          "source_refs": [
+            "s3",
+            "s27"
+          ]
+        },
+        {
+          "character": "rose",
+          "person": "satsuki-yukino",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "satella-lecourt",
+          "person": "sayuri",
+          "role": "minor",
+          "episodes": {
+            "from": 11,
+            "to": 11
+          },
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "sig-curtis",
+          "person": "seiji-sasaki",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "vanessa",
+          "person": "seiko-ueda",
+          "role": "minor",
+          "episodes": {
+            "from": 31,
+            "to": 31
+          },
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "cornello",
+          "person": "seizo-kato",
+          "role": "minor",
+          "episodes": "3, 5",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "basque-grand",
+          "person": "shin-aomori",
+          "role": "minor",
+          "episodes": "4, 30",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "heinkel",
+          "person": "shinpachi-tsuji",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "engineer-a-fmab-ep11",
+          "person": "shinsuke-nagashima",
+          "role": "minor",
+          "episodes": {
+            "from": 11,
+            "to": 11
+          },
+          "source_refs": [
+            "s3",
+            "s63"
+          ]
+        },
+        {
+          "character": "focker",
+          "person": "shinsuke-nagashima",
+          "role": "minor",
+          "episodes": "10, 16",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "fox",
+          "person": "shinya-fukumatsu",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "soldier-fmab-ep45",
+          "person": "shinya-fukumatsu",
+          "role": "minor",
+          "episodes": {
+            "from": 45,
+            "to": 45
+          },
+          "source_refs": [
+            "s3",
+            "s49"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "trader-a-fmab-ep56",
+          "person": "shinya-fukumatsu",
+          "role": "minor",
+          "episodes": {
+            "from": 56,
+            "to": 56
+          },
+          "source_refs": [
+            "s3",
+            "s49"
+          ]
+        },
+        {
+          "character": "employee-fmab-ep55",
+          "person": "shoko-nakagawa",
+          "role": "minor",
+          "episodes": {
+            "from": 55,
+            "to": 55
+          },
+          "source_refs": [
+            "s3",
+            "s32"
+          ]
+        },
+        {
+          "character": "dominic-lecourt",
+          "person": "shozo-iizuka",
+          "role": "minor",
+          "episodes": {
+            "from": 11,
+            "to": 11
+          },
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "mason",
+          "person": "shuhei-sakaguchi",
+          "role": "minor",
+          "episodes": "13, 44",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "nina-tucker",
+          "person": "sumire-morohoshi",
+          "role": "minor",
+          "episodes": {
+            "from": 4,
+            "to": 5
+          },
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "giolio-comanche",
+          "person": "tadashi-miyazawa",
+          "role": "minor",
+          "episodes": "15, 30",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "older-man-fmab-ep3",
+          "person": "tadashi-miyazawa",
+          "role": "minor",
+          "episodes": "3, 44",
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "store-owner-fmab-ep42",
+          "person": "tadashi-miyazawa",
+          "role": "minor",
+          "episodes": {
+            "from": 42,
+            "to": 42
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "cadreman-fmab-ep33",
+          "person": "takahide-adachi",
+          "role": "minor",
+          "episodes": {
+            "from": 33,
+            "to": 33
+          },
+          "source_refs": [
+            "s3",
+            "s33"
+          ]
+        },
+        {
+          "character": "military-policeman-c-fmab-ep23",
+          "person": "takahiro-miyamoto",
+          "role": "minor",
+          "episodes": {
+            "from": 23,
+            "to": 23
+          },
+          "source_refs": [
+            "s3",
+            "s64"
+          ]
+        },
+        {
+          "character": "martel",
+          "person": "takako-honda",
+          "role": "minor",
+          "episodes": {
+            "from": 13,
+            "to": 14
+          },
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "briggs-soldier-fmab-ep62",
+          "person": "takanori-hoshino",
+          "role": "minor",
+          "episodes": {
+            "from": 62,
+            "to": 62
+          },
+          "source_refs": [
+            "s3",
+            "s47"
+          ]
+        },
+        {
+          "character": "commander-of-the-main-gate-fmab-ep53",
+          "person": "takanori-hoshino",
+          "role": "minor",
+          "episodes": {
+            "from": 53,
+            "to": 53
+          },
+          "source_refs": [
+            "s3",
+            "s47"
+          ]
+        },
+        {
+          "character": "gustav",
+          "person": "takanori-hoshino",
+          "role": "supporting",
+          "source_refs": [
+            "s3"
+          ]
+        },
+        {
+          "character": "heath",
+          "person": "takanori-hoshino",
+          "role": "minor",
+          "episodes": "58, 61",
+          "source_refs": [
+            "s3"
+          ]
+        },
+        {
+          "character": "bobby",
+          "person": "takashi-hikida",
+          "role": "minor",
+          "episodes": {
+            "from": 34,
+            "to": 34
+          },
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "briggs-soldier-a-fmab-ep58",
+          "person": "takashi-hikida",
+          "role": "minor",
+          "episodes": {
+            "from": 58,
+            "to": 58
+          },
+          "source_refs": [
+            "s3",
+            "s65"
+          ]
+        },
+        {
+          "character": "ishvalian-a-fmab-ep61",
+          "person": "takashi-hikida",
+          "role": "minor",
+          "episodes": {
+            "from": 61,
+            "to": 61
+          },
+          "source_refs": [
+            "s3",
+            "s65"
+          ]
+        },
+        {
+          "character": "ishvalian-b-fmab-ep60",
+          "person": "takashi-hikida",
+          "role": "minor",
+          "episodes": {
+            "from": 60,
+            "to": 60
+          },
+          "source_refs": [
+            "s3",
+            "s65"
+          ]
+        },
+        {
+          "character": "tank-officer-fmab-ep35",
+          "person": "takashi-hikida",
+          "role": "minor",
+          "episodes": {
+            "from": 35,
+            "to": 35
+          },
+          "source_refs": [
+            "s3",
+            "s65"
+          ]
+        },
+        {
+          "character": "trader-b-fmab-ep56",
+          "person": "takashi-hikida",
+          "role": "minor",
+          "episodes": {
+            "from": 56,
+            "to": 56
+          },
+          "source_refs": [
+            "s3",
+            "s65"
+          ]
+        },
+        {
+          "character": "knoxs-son",
+          "person": "takashi-ohara",
+          "role": "minor",
+          "episodes": {
+            "from": 31,
+            "to": 31
+          },
+          "source_refs": [
+            "s3",
+            "s6",
+            "s76"
+          ]
+        },
+        {
+          "character": "scars-brother",
+          "person": "takehito-koyasu",
+          "role": "minor",
+          "episodes": {
+            "from": 22,
+            "to": 22
+          },
+          "source_refs": [
+            "s3",
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "central-soldier-fmab-ep50",
+          "person": "taketora",
+          "role": "minor",
+          "episodes": {
+            "from": 50,
+            "to": 50
+          },
+          "source_refs": [
+            "s3",
+            "s44"
+          ]
+        },
+        {
+          "character": "eric",
+          "person": "taketora",
+          "role": "minor",
+          "episodes": "52, 54-55",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "hakuro",
+          "person": "taketora",
+          "role": "minor",
+          "episodes": {
+            "from": 46,
+            "to": 46
+          },
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "ishvalan-fmab-ep53",
+          "person": "taketora",
+          "role": "minor",
+          "episodes": {
+            "from": 53,
+            "to": 53
+          },
+          "source_refs": [
+            "s3",
+            "s44"
+          ]
+        },
+        {
+          "character": "owner-fmab-ep40",
+          "person": "taketora",
+          "role": "minor",
+          "episodes": {
+            "from": 40,
+            "to": 40
+          },
+          "source_refs": [
+            "s3",
+            "s44"
+          ]
+        },
+        {
+          "character": "king-of-xerxes",
+          "person": "takko-ishimori",
+          "role": "minor",
+          "episodes": "40, 62",
+          "source_refs": [
+            "s3",
+            "s6",
+            "s74"
+          ]
+        },
+        {
+          "character": "roa",
+          "person": "tetsu-inada",
+          "role": "minor",
+          "episodes": {
+            "from": 13,
+            "to": 14
+          },
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "han",
+          "person": "tetsu-shiratori",
+          "role": "minor",
+          "episodes": {
+            "from": 18,
+            "to": 18
+          },
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "kain-fuery",
+          "person": "tetsuya-kakihara",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s1",
+            "s5"
+          ]
+        },
+        {
+          "character": "ridel-lecourt",
+          "person": "tokuyoshi-kawashima",
+          "role": "minor",
+          "episodes": {
+            "from": 11,
+            "to": 11
+          },
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "gracia-hughes",
+          "person": "tomoe-hanba",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "engineer-fmab-ep33-2",
+          "person": "tomohisa-aso",
+          "role": "minor",
+          "episodes": {
+            "from": 33,
+            "to": 33
+          },
+          "source_refs": [
+            "s3",
+            "s31"
+          ]
+        },
+        {
+          "character": "a-guard-soldier-fmab-ep19",
+          "person": "tomoyuki-shimura",
+          "role": "minor",
+          "episodes": {
+            "from": 19,
+            "to": 19
+          },
+          "source_refs": [
+            "s3",
+            "s66"
+          ]
+        },
+        {
+          "character": "ishvalian-a-fmab-ep60",
+          "person": "tomoyuki-shimura",
+          "role": "minor",
+          "episodes": {
+            "from": 60,
+            "to": 60
+          },
+          "source_refs": [
+            "s3",
+            "s66"
+          ]
+        },
+        {
+          "character": "neil",
+          "person": "toru-nara",
+          "role": "minor",
+          "episodes": {
+            "from": 35,
+            "to": 37
+          },
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "executive-b-fmab-ep33",
+          "person": "toshihiko-ogisawa",
+          "role": "minor",
+          "episodes": {
+            "from": 33,
+            "to": 33
+          },
+          "source_refs": [
+            "s3",
+            "s67"
+          ]
+        },
+        {
+          "character": "henry-douglas",
+          "person": "yasuyuki-kase",
+          "role": "minor",
+          "episodes": "16-17, 21",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "master-of-ceremonies-fmab-ep53",
+          "person": "yohei-nishina",
+          "role": "minor",
+          "episodes": "53, 56, 63",
+          "source_refs": [
+            "s3",
+            "s46"
+          ]
+        },
+        {
+          "character": "military-policeman-c-fmab-ep1",
+          "person": "yohei-nishina",
+          "role": "minor",
+          "episodes": {
+            "from": 1,
+            "to": 1
+          },
+          "source_refs": [
+            "s3",
+            "s46"
+          ]
+        },
+        {
+          "character": "officer-fmab-ep36",
+          "person": "yohei-nishina",
+          "role": "minor",
+          "episodes": {
+            "from": 36,
+            "to": 36
+          },
+          "source_refs": [
+            "s3",
+            "s46"
+          ]
+        },
+        {
+          "character": "madame-christmas",
+          "person": "yoko-matsuoka",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "station-attendant-fmab-ep64",
+          "person": "yoko-matsuoka",
+          "role": "minor",
+          "episodes": {
+            "from": 64,
+            "to": 64
+          },
+          "source_refs": [
+            "s3",
+            "s68"
+          ]
+        },
+        {
+          "character": "girl-fmab-ep27",
+          "person": "yoko-nishino",
+          "role": "minor",
+          "episodes": {
+            "from": 27,
+            "to": 27
+          },
+          "source_refs": [
+            "s3",
+            "s42"
+          ]
+        },
+        {
+          "character": "woman-fmab-ep37",
+          "person": "yoko-nishino",
+          "role": "minor",
+          "episodes": {
+            "from": 37,
+            "to": 37
+          },
+          "source_refs": [
+            "s3",
+            "s42"
+          ]
+        },
+        {
+          "character": "trisha-elric",
+          "person": "yoshino-takamori",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s2",
+            "s6"
+          ],
+          "part": "regular"
+        },
+        {
+          "character": "commander-fmab-ep42",
+          "person": "yoshinori-sonobe",
+          "role": "minor",
+          "episodes": {
+            "from": 42,
+            "to": 43
+          },
+          "source_refs": [
+            "s3",
+            "s40"
+          ]
+        },
+        {
+          "character": "leader-fmab-ep18",
+          "person": "yoshinori-sonobe",
+          "role": "minor",
+          "episodes": {
+            "from": 18,
+            "to": 18
+          },
+          "source_refs": [
+            "s3",
+            "s40"
+          ]
+        },
+        {
+          "character": "bido",
+          "person": "yuji-ueda",
+          "role": "minor",
+          "episodes": "13, 43-44",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "jean-havoc",
+          "person": "yuji-ueda",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s1",
+            "s2",
+            "s5"
+          ]
+        },
+        {
+          "character": "front-desk-clerk-fmab-ep8",
+          "person": "yuka-nagayoshi",
+          "role": "minor",
+          "episodes": "8, 10",
+          "source_refs": [
+            "s3",
+            "s37"
+          ]
+        },
+        {
+          "character": "boy-fmab-ep9",
+          "person": "yuka-nishigaki",
+          "role": "minor",
+          "episodes": "9, 13",
+          "source_refs": [
+            "s3",
+            "s6",
+            "s51"
+          ]
+        },
+        {
+          "character": "briggs-soldier-fmab-ep36-2",
+          "person": "yuki-hayashi",
+          "role": "minor",
+          "episodes": {
+            "from": 36,
+            "to": 37
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "briggs-soldier-b-fmab-ep58",
+          "person": "yuki-hayashi",
+          "role": "minor",
+          "episodes": {
+            "from": 58,
+            "to": 58
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "central-soldier-fmab-ep52",
+          "person": "yuki-hayashi",
+          "role": "minor",
+          "episodes": "52, 54",
+          "source_refs": [
+            "s3",
+            "s45"
+          ]
+        },
+        {
+          "character": "denny-brosh",
+          "person": "yuki-hayashi",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "farmer-fmab-ep47",
+          "person": "yuki-hayashi",
+          "role": "minor",
+          "episodes": {
+            "from": 47,
+            "to": 47
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "ishvalian-b-fmab-ep61",
+          "person": "yuki-hayashi",
+          "role": "minor",
+          "episodes": {
+            "from": 61,
+            "to": 61
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "man-fmab-ep45",
+          "person": "yuki-hayashi",
+          "role": "minor",
+          "episodes": {
+            "from": 45,
+            "to": 45
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "military-b-fmab-ep14",
+          "person": "yuki-hayashi",
+          "role": "minor",
+          "episodes": {
+            "from": 14,
+            "to": 14
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "military-personnel-fmab-ep16",
+          "person": "yuki-hayashi",
+          "role": "minor",
+          "episodes": {
+            "from": 16,
+            "to": 16
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "military-policeman-fmab-ep29",
+          "person": "yuki-hayashi",
+          "role": "minor",
+          "episodes": {
+            "from": 29,
+            "to": 29
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "military-policeman-b-fmab-ep22",
+          "person": "yuki-hayashi",
+          "role": "minor",
+          "episodes": "22-23, 32",
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "military-policeman-e-fmab-ep1",
+          "person": "yuki-hayashi",
+          "role": "minor",
+          "episodes": {
+            "from": 1,
+            "to": 1
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "officer-fmab-ep2",
+          "person": "yuki-hayashi",
+          "role": "minor",
+          "episodes": {
+            "from": 2,
+            "to": 2
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "order-member-d-fmab-ep3",
+          "person": "yuki-hayashi",
+          "role": "minor",
+          "episodes": {
+            "from": 3,
+            "to": 3
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "pilot-fmab-ep56",
+          "person": "yuki-hayashi",
+          "role": "minor",
+          "episodes": {
+            "from": 56,
+            "to": 56
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "post-officer-fmab-ep30",
+          "person": "yuki-hayashi",
+          "role": "minor",
+          "episodes": {
+            "from": 30,
+            "to": 30
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "researcher-fmab-ep51",
+          "person": "yuki-hayashi",
+          "role": "minor",
+          "episodes": {
+            "from": 51,
+            "to": 51
+          },
+          "source_refs": [
+            "s3",
+            "s45"
+          ]
+        },
+        {
+          "character": "soldier-a-fmab-ep41",
+          "person": "yuki-hayashi",
+          "role": "minor",
+          "episodes": {
+            "from": 41,
+            "to": 41
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "soldier-b-fmab-ep38",
+          "person": "yuki-hayashi",
+          "role": "minor",
+          "episodes": {
+            "from": 38,
+            "to": 39
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "villager-fmab-ep5",
+          "person": "yuki-hayashi",
+          "role": "minor",
+          "episodes": {
+            "from": 5,
+            "to": 5
+          },
+          "source_refs": [
+            "s3"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "tetsu",
+          "person": "yuki-kodaira",
+          "role": "minor",
+          "episodes": {
+            "from": 23,
+            "to": 23
+          },
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "trisha-elric",
+          "person": "yuki-mitsugi",
+          "role": "minor",
+          "part": "young",
+          "episodes": {
+            "from": 27,
+            "to": 27
+          },
+          "source_refs": [
+            "s3"
+          ]
+        },
+        {
+          "character": "pride",
+          "person": "yuko-sanpei",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s5"
+          ]
+        },
+        {
+          "character": "woman-fmab-ep45",
+          "person": "yuko-sanpei",
+          "role": "minor",
+          "episodes": {
+            "from": 45,
+            "to": 45
+          },
+          "source_refs": [
+            "s3",
+            "s43"
+          ]
+        },
+        {
+          "character": "sara-rockbell",
+          "person": "yuri-amano",
+          "role": "minor",
+          "episodes": {
+            "from": 18,
+            "to": 18
+          },
+          "source_refs": [
+            "s3",
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "scars-master",
+          "person": "yuzuru-fujimoto",
+          "role": "minor",
+          "source_refs": [
+            "s3",
+            "s6",
+            "s70"
+          ]
+        },
+        {
+          "character": "bozu",
+          "person": "masao-komaya",
+          "role": "minor",
+          "source_refs": [
+            "s3",
+            "s61"
+          ]
+        },
+        {
+          "character": "puripi",
+          "person": "yohei-nishina",
+          "role": "minor",
+          "episodes": "55, 61",
+          "source_refs": [
+            "s3",
+            "s46"
+          ]
+        },
+        {
+          "character": "furia",
+          "person": "yuki-hayashi",
+          "role": "minor",
+          "episodes": {
+            "from": 55,
+            "to": 55
+          },
+          "source_refs": [
+            "s3",
+            "s45"
+          ]
+        }
+      ],
+      "source_refs": [
+        "s1",
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "id": "ko-daewon",
+      "language": "ko",
+      "kind": "dub",
+      "label": {
+        "original_lang": "ko",
+        "original": "한국어 더빙 (대원방송)",
+        "translations": {
+          "ja": "韓国語吹替（大元放送）",
+          "en": "Korean dub (Daewon Broadcasting)"
+        },
+        "translated": [
+          "ja",
+          "en"
+        ]
+      },
+      "distributor": {
+        "original_lang": "ko",
+        "original": "대원방송",
+        "latin": "Daewon Broadcasting",
+        "aliases": {
+          "ko": [
+            "애니원",
+            "애니박스",
+            "챔프TV"
+          ],
+          "en": [
+            "Anione",
+            "Anibox",
+            "Champ TV"
+          ]
+        }
+      },
+      "release_date": "2010-03-01",
+      "credits": [
+        {
+          "character": "edward-elric",
+          "person": "son-jeong-a",
+          "role": "main",
+          "source_refs": [
+            "s3"
+          ]
+        },
+        {
+          "character": "alphonse-elric",
+          "person": "yoon-mi-na",
+          "role": "main",
+          "source_refs": [
+            "s3"
+          ]
+        },
+        {
+          "character": "ling-yao",
+          "person": "hong-beom-gi",
+          "role": "main",
+          "source_refs": [
+            "s3",
+            "s7"
+          ]
+        },
+        {
+          "character": "scar",
+          "person": "lee-bong-jun",
+          "role": "main",
+          "source_refs": [
+            "s3",
+            "s7",
+            "s84"
+          ]
+        },
+        {
+          "character": "father",
+          "person": "kang-gu-han",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s7"
+          ]
+        },
+        {
+          "character": "van-hohenheim",
+          "person": "jang-gwang",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s7"
+          ]
+        },
+        {
+          "character": "may-chang",
+          "person": "lee-jae-hyeon",
+          "role": "supporting",
+          "source_refs": [
+            "s3"
+          ]
+        },
+        {
+          "character": "winry-rockbell",
+          "person": "lee-ji-hyeon",
+          "role": "main",
+          "source_refs": [
+            "s3"
+          ]
+        },
+        {
+          "character": "riza-hawkeye",
+          "person": "kim-seong-yeon",
+          "role": "main",
+          "source_refs": [
+            "s3"
+          ]
+        },
+        {
+          "character": "roy-mustang",
+          "person": "sung-wan-gyeong",
+          "role": "main",
+          "source_refs": [
+            "s3"
+          ]
+        },
+        {
+          "character": "tim-marcoh",
+          "person": "tak-won-je",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s7"
+          ]
+        },
+        {
+          "character": "envy",
+          "person": "seo-yu-ri",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s7"
+          ]
+        },
+        {
+          "character": "miles",
+          "person": "yoon-dong-gi",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s7",
+            "s85"
+          ],
+          "episodes": "34-43, 45-47, 64",
+          "note": {
+            "original_lang": "ko",
+            "original": "담당 회차는 윤동기 위키백과 문서 기준. 44화, 48~63화의 담당 성우는 확인되지 않았다.",
+            "translations": {
+              "ja": "担当話数は尹東基のWikipedia記事による。第44話・第48〜63話の担当声優は未確認。",
+              "en": "Episodes per Yoon Dong-gi's Wikipedia article. The voice for episodes 44 and 48-63 is unconfirmed."
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          }
+        },
+        {
+          "character": "jean-havoc",
+          "person": "lim-gyeong-myeong",
+          "role": "supporting",
+          "source_refs": [
+            "s3"
+          ]
+        },
+        {
+          "character": "greed",
+          "person": "hyun-gyeong-su",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s7"
+          ]
+        },
+        {
+          "character": "solf-j-kimblee",
+          "person": "choi-han",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s7"
+          ]
+        },
+        {
+          "character": "trisha-elric",
+          "person": "lee-jae-hyeon",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s8"
+          ]
+        },
+        {
+          "character": "olivier-mira-armstrong",
+          "person": "yang-jeong-hwa",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s7"
+          ]
+        },
+        {
+          "character": "sloth",
+          "person": "shim-jeong-min",
+          "role": "supporting",
+          "source_refs": [
+            "s3"
+          ]
+        },
+        {
+          "character": "lust",
+          "person": "lee-mi-na",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s7"
+          ]
+        },
+        {
+          "character": "lan-fan",
+          "person": "kim-min-jeong",
+          "role": "supporting",
+          "source_refs": [
+            "s3"
+          ]
+        },
+        {
+          "character": "maria-ross",
+          "person": "kim-min-jeong",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s9"
+          ]
+        },
+        {
+          "character": "selim-bradley",
+          "person": "lee-myeong-hui",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s77"
+          ]
+        },
+        {
+          "character": "heymans-breda",
+          "person": "choi-nak-yun",
+          "role": "supporting",
+          "source_refs": [
+            "s3"
+          ]
+        },
+        {
+          "character": "kain-fuery",
+          "person": "park-seo-jin",
+          "role": "supporting",
+          "source_refs": [
+            "s3"
+          ]
+        },
+        {
+          "character": "maes-hughes",
+          "person": "park-seo-jin",
+          "role": "supporting",
+          "source_refs": [
+            "s3"
+          ]
+        },
+        {
+          "character": "yoki",
+          "person": "park-seo-jin",
+          "role": "supporting",
+          "source_refs": [
+            "s3"
+          ]
+        },
+        {
+          "character": "izumi-curtis",
+          "person": "lee-seon-ju",
+          "role": "supporting",
+          "source_refs": [
+            "s3"
+          ]
+        },
+        {
+          "character": "buccaneer",
+          "person": "shim-seung-han",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s7"
+          ]
+        },
+        {
+          "character": "fu",
+          "person": "hwang-won",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s7"
+          ]
+        },
+        {
+          "character": "gluttony",
+          "person": "seo-won-seok",
+          "role": "supporting",
+          "source_refs": [
+            "s3"
+          ]
+        },
+        {
+          "character": "vato-falman",
+          "person": "seo-won-seok",
+          "role": "supporting",
+          "source_refs": [
+            "s3"
+          ]
+        },
+        {
+          "character": "alex-louis-armstrong",
+          "person": "si-yeong-jun",
+          "role": "supporting",
+          "source_refs": [
+            "s3"
+          ]
+        },
+        {
+          "character": "king-bradley",
+          "person": "on-yeong-sam",
+          "role": "supporting",
+          "source_refs": [
+            "s3"
+          ]
+        },
+        {
+          "character": "pinako-rockbell",
+          "person": "seo-yu-ri",
+          "role": "supporting",
+          "part": "regular",
+          "source_refs": [
+            "s3",
+            "s10"
+          ]
+        },
+        {
+          "character": "sig-curtis",
+          "person": "shim-jeong-min",
+          "role": "supporting",
+          "source_refs": [
+            "s11"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "shou-tucker",
+          "person": "seo-won-seok",
+          "role": "supporting",
+          "source_refs": [
+            "s12",
+            "s78"
+          ]
+        },
+        {
+          "character": "gracia-hughes",
+          "person": "lee-myeong-hui",
+          "role": "supporting",
+          "source_refs": [
+            "s13"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "nina-tucker",
+          "person": "kim-min-jeong",
+          "role": "minor",
+          "source_refs": [
+            "s14"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "sheska",
+          "person": "lee-myeong-hui",
+          "role": "supporting",
+          "source_refs": [
+            "s15"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "madame-christmas",
+          "person": "son-jeong-a",
+          "role": "supporting",
+          "source_refs": [
+            "s16"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "isaac-mcdougal",
+          "person": "shim-jeong-min",
+          "role": "minor",
+          "source_refs": [
+            "s17",
+            "s77"
+          ]
+        },
+        {
+          "character": "paninya",
+          "person": "kim-seong-yeon",
+          "role": "minor",
+          "source_refs": [
+            "s18"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "basque-grand",
+          "person": "choi-nak-yun",
+          "role": "minor",
+          "source_refs": [
+            "s19",
+            "s81"
+          ]
+        },
+        {
+          "character": "scars-brother",
+          "person": "hong-beom-gi",
+          "role": "minor",
+          "source_refs": [
+            "s20"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "martel",
+          "person": "lee-ji-hyeon",
+          "role": "minor",
+          "source_refs": [
+            "s21",
+            "s80"
+          ]
+        },
+        {
+          "character": "raven",
+          "person": "choi-nak-yun",
+          "role": "supporting",
+          "source_refs": [
+            "s22"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "mrs-bradley",
+          "person": "lee-mi-na",
+          "role": "minor",
+          "source_refs": [
+            "s23"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "roa",
+          "person": "choi-nak-yun",
+          "role": "minor",
+          "source_refs": [
+            "s24",
+            "s81"
+          ]
+        },
+        {
+          "character": "knox",
+          "person": "an-jang-hyeok",
+          "role": "supporting",
+          "source_refs": [
+            "s25",
+            "s77"
+          ]
+        },
+        {
+          "character": "elicia-hughes",
+          "person": "lee-jae-hyeon",
+          "role": "supporting",
+          "source_refs": [
+            "s26",
+            "s82"
+          ]
+        },
+        {
+          "character": "pinako-rockbell",
+          "person": "lee-myeong-hui",
+          "role": "minor",
+          "part": "young",
+          "source_refs": [
+            "s10"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "pride",
+          "person": "lee-myeong-hui",
+          "role": "supporting",
+          "source_refs": [
+            "s77",
+            "s83"
+          ]
+        },
+        {
+          "character": "narrator-fmab",
+          "person": "seo-won-seok",
+          "role": "minor",
+          "source_refs": [
+            "s77",
+            "s78"
+          ]
+        },
+        {
+          "character": "rose",
+          "person": "seo-yu-ri",
+          "role": "supporting",
+          "source_refs": [
+            "s79"
+          ]
+        },
+        {
+          "character": "roys-master",
+          "person": "on-yeong-sam",
+          "role": "minor",
+          "source_refs": [
+            "s77"
+          ]
+        },
+        {
+          "character": "dolcetto",
+          "person": "seo-won-seok",
+          "role": "minor",
+          "source_refs": [
+            "s78"
+          ]
+        },
+        {
+          "character": "slicer",
+          "person": "seo-won-seok",
+          "role": "minor",
+          "part": "other",
+          "note": {
+            "original_lang": "ko",
+            "original": "동생",
+            "translations": {
+              "ja": "弟",
+              "en": "Younger brother"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s78"
+          ]
+        },
+        {
+          "character": "zampano",
+          "person": "seo-won-seok",
+          "role": "supporting",
+          "source_refs": [
+            "s78"
+          ]
+        },
+        {
+          "character": "edison",
+          "person": "seo-won-seok",
+          "role": "supporting",
+          "source_refs": [
+            "s78"
+          ]
+        },
+        {
+          "character": "neil",
+          "person": "seo-won-seok",
+          "role": "minor",
+          "source_refs": [
+            "s78"
+          ]
+        }
+      ],
+      "source_refs": [
+        "s3",
+        "s4",
+        "s7"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.hagaren.jp/fa/about/staffcast.html",
+      "title": "鋼の錬金術師 FULLMETAL ALCHEMIST　公式ホームページ",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.hagaren.jp/fa/characters/index01.html",
+      "title": "鋼の錬金術師 FULLMETAL ALCHEMIST　公式ホームページ",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10216",
+      "title": "Fullmetal Alchemist: Brotherhood (TV) - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s4",
+      "url": "https://ja.wikipedia.org/wiki/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB_FULLMETAL_ALCHEMIST",
+      "title": "鋼の錬金術師 FULLMETAL ALCHEMIST - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s5",
+      "url": "https://ja.wikipedia.org/wiki/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB%E3%81%AE%E4%B8%BB%E8%A6%81%E3%81%AA%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9",
+      "title": "鋼の錬金術師の主要な登場人物 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s6",
+      "url": "https://ja.wikipedia.org/wiki/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%A7",
+      "title": "鋼の錬金術師の登場人物一覧 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s7",
+      "url": "https://namu.wiki/w/%EA%B0%95%EC%B2%A0%EC%9D%98%20%EC%97%B0%EA%B8%88%EC%88%A0%EC%82%AC%20FULLMETAL%20ALCHEMIST",
+      "title": "강철의 연금술사 FULLMETAL ALCHEMIST - 나무위키",
+      "publisher": "namuwiki",
+      "tier": 3,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s8",
+      "url": "https://namu.wiki/w/%ED%8A%B8%EB%A6%AC%EC%83%A4%20%EC%97%98%EB%A6%AD",
+      "title": "트리샤 엘릭 - 나무위키",
+      "publisher": "namuwiki",
+      "tier": 3,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s9",
+      "url": "https://namu.wiki/w/%EB%A7%88%EB%A6%AC%EC%95%84%20%EB%A1%9C%EC%8A%A4",
+      "title": "마리아 로스 - 나무위키",
+      "publisher": "namuwiki",
+      "tier": 3,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s10",
+      "url": "https://namu.wiki/w/%ED%94%BC%EB%82%98%EC%BD%94%20%EB%A1%9D%EB%B2%A8",
+      "title": "피나코 록벨 - 나무위키",
+      "publisher": "namuwiki",
+      "tier": 3,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s11",
+      "url": "https://namu.wiki/w/%EC%8B%9C%EA%B7%B8%20%EC%BB%A4%ED%8B%B0%EC%8A%A4",
+      "title": "시그 커티스 - 나무위키",
+      "publisher": "namuwiki",
+      "tier": 3,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s12",
+      "url": "https://namu.wiki/w/%EC%87%BC%EC%9A%B0%20%ED%84%B0%EC%BB%A4",
+      "title": "쇼우 터커 - 나무위키",
+      "publisher": "namuwiki",
+      "tier": 3,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s13",
+      "url": "https://namu.wiki/w/%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%8B%9C%EC%95%84%20%ED%9C%B4%EC%A6%88",
+      "title": "그레이시아 휴즈 - 나무위키",
+      "publisher": "namuwiki",
+      "tier": 3,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s14",
+      "url": "https://namu.wiki/w/%EB%8B%88%EB%82%98%20%ED%84%B0%EC%BB%A4",
+      "title": "니나 터커 - 나무위키",
+      "publisher": "namuwiki",
+      "tier": 3,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s15",
+      "url": "https://namu.wiki/w/%EC%85%B0%EC%8A%A4%EC%B9%B4",
+      "title": "셰스카 - 나무위키",
+      "publisher": "namuwiki",
+      "tier": 3,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s16",
+      "url": "https://namu.wiki/w/%EB%A7%88%EB%8B%B4%20%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4",
+      "title": "마담 크리스마스 - 나무위키",
+      "publisher": "namuwiki",
+      "tier": 3,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s17",
+      "url": "https://namu.wiki/w/%EC%95%84%EC%9D%B4%EC%9E%91%20%EB%A7%A5%EB%8F%84%EA%B1%B8",
+      "title": "아이작 맥도걸 - 나무위키",
+      "publisher": "namuwiki",
+      "tier": 3,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s18",
+      "url": "https://namu.wiki/w/%ED%8C%A8%EB%8B%88%EB%83%90",
+      "title": "패니냐 - 나무위키",
+      "publisher": "namuwiki",
+      "tier": 3,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s19",
+      "url": "https://namu.wiki/w/%EB%B0%94%EC%8A%A4%ED%81%AC%20%EA%B7%B8%EB%9E%91",
+      "title": "바스크 글랜 - 나무위키",
+      "publisher": "namuwiki",
+      "tier": 3,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s20",
+      "url": "https://namu.wiki/w/%EC%8A%A4%EC%B9%B4%EC%9D%98%20%ED%98%95",
+      "title": "스카의 형 - 나무위키",
+      "publisher": "namuwiki",
+      "tier": 3,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s21",
+      "url": "https://namu.wiki/w/%EB%A7%88%ED%85%94(%EA%B0%95%EC%B2%A0%EC%9D%98%20%EC%97%B0%EA%B8%88%EC%88%A0%EC%82%AC)",
+      "title": "마텔(강철의 연금술사) - 나무위키",
+      "publisher": "namuwiki",
+      "tier": 3,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s22",
+      "url": "https://namu.wiki/w/%EB%A0%88%EC%9D%B4%EB%B8%90(%EA%B0%95%EC%B2%A0%EC%9D%98%20%EC%97%B0%EA%B8%88%EC%88%A0%EC%82%AC)",
+      "title": "레이븐(강철의 연금술사) - 나무위키",
+      "publisher": "namuwiki",
+      "tier": 3,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s23",
+      "url": "https://namu.wiki/w/%EB%B8%8C%EB%9E%98%EB%93%9C%EB%A0%88%EC%9D%B4%20%EB%B6%80%EC%9D%B8",
+      "title": "브래드레이 부인 - 나무위키",
+      "publisher": "namuwiki",
+      "tier": 3,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s24",
+      "url": "https://namu.wiki/w/%EB%A1%9C%EC%95%84(%EA%B0%95%EC%B2%A0%EC%9D%98%20%EC%97%B0%EA%B8%88%EC%88%A0%EC%82%AC)",
+      "title": "로어(강철의 연금술사) - 나무위키",
+      "publisher": "namuwiki",
+      "tier": 3,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s25",
+      "url": "https://namu.wiki/w/%EB%85%B9%EC%8A%A4(%EA%B0%95%EC%B2%A0%EC%9D%98%20%EC%97%B0%EA%B8%88%EC%88%A0%EC%82%AC)",
+      "title": "녹스(강철의 연금술사) - 나무위키",
+      "publisher": "namuwiki",
+      "tier": 3,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s26",
+      "url": "https://namu.wiki/w/%EA%B0%95%EC%B2%A0%EC%9D%98%20%EC%97%B0%EA%B8%88%EC%88%A0%EC%82%AC/%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC",
+      "title": "강철의 연금술사/등장인물 - 나무위키",
+      "publisher": "namuwiki",
+      "tier": 3,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s27",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A7%92%E7%94%B0%E7%B4%97%E9%87%8C",
+      "title": "角田紗里 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s28",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B9%85%E4%BF%9D%E7%94%B0%E8%8C%9C",
+      "title": "久保田茜 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s29",
+      "url": "https://ja.wikipedia.org/wiki/%E9%98%BF%E9%83%A8%E6%95%A6",
+      "title": "阿部敦 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s30",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%A5%BF%E8%8B%B1%E6%A8%B9",
+      "title": "中西英樹 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s31",
+      "url": "https://ja.wikipedia.org/wiki/%E9%BA%BB%E7%94%9F%E6%99%BA%E4%B9%85",
+      "title": "麻生智久 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s32",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B7%9D%E7%BF%94%E5%AD%90",
+      "title": "中川翔子 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s33",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%89%E9%81%94%E8%B2%B4%E8%8B%B1",
+      "title": "安達貴英 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s34",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%AE%AE%E5%B1%B1%E7%B5%B5%E7%90%86",
+      "title": "小宮山絵理 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s35",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9D%BE%E5%8F%B2%E6%B3%95",
+      "title": "小松史法 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s36",
+      "url": "https://ja.wikipedia.org/wiki/%E5%9B%9B%E5%AE%AE%E8%B1%AA",
+      "title": "四宮豪 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s37",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B0%B8%E5%90%89%E3%83%A6%E3%82%AB",
+      "title": "永吉ユカ - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s38",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9B%B8%E6%B2%A2%E8%88%9E",
+      "title": "相沢舞 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s39",
+      "url": "https://ja.wikipedia.org/wiki/%E7%AE%AD%E5%86%85%E4%BB%81",
+      "title": "箭内仁 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s40",
+      "url": "https://ja.wikipedia.org/wiki/%E5%9C%92%E9%83%A8%E5%A5%BD%E5%BE%B7",
+      "title": "園部好德 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s41",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%9D%91%E6%AD%8C%E5%A5%88",
+      "title": "大村歌奈 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s42",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%87%8E%E9%99%BD%E5%AD%90",
+      "title": "西野陽子 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s43",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E7%93%B6%E7%94%B1%E5%B8%83%E5%AD%90",
+      "title": "三瓶由布子 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s44",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%99%8E",
+      "title": "武虎 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s45",
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%A9%E5%BF%97%E5%8B%87%E7%B4%80",
+      "title": "早志勇紀 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s46",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BB%81%E7%A7%91%E6%B4%8B%E5%B9%B3",
+      "title": "仁科洋平 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s47",
+      "url": "https://ja.wikipedia.org/wiki/%E6%98%9F%E9%87%8E%E8%B2%B4%E7%B4%80",
+      "title": "星野貴紀 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s48",
+      "url": "https://ja.wikipedia.org/wiki/%E6%98%9F%E9%87%8E%E5%81%A5%E4%B8%80_%28%E5%A3%B0%E5%84%AA%29",
+      "title": "星野健一 (声優) - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s49",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%B5%E3%81%8F%E3%81%BE%E3%81%A4%E9%80%B2%E7%B4%97",
+      "title": "ふくまつ進紗 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s50",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B3%B6%E6%98%AD%E6%B5%A9",
+      "title": "松島昭浩 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s51",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%A2%BB%E7%94%B1%E9%A6%99",
+      "title": "西墻由香 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s52",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%8E%9F%E5%87%A1",
+      "title": "石原凡 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s53",
+      "url": "https://ja.wikipedia.org/wiki/%E9%80%A2%E5%9D%82%E5%8A%9B",
+      "title": "逢坂力 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s54",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%A1%E6%9E%97%E5%8F%B2%E6%B3%B0",
+      "title": "岡林史泰 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s55",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E8%B0%B7%E6%B4%A5%E5%A4%AE%E5%85%B8",
+      "title": "小谷津央典 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s56",
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%91%E9%87%8E%E6%BD%A4_%28%E5%A3%B0%E5%84%AA%29",
+      "title": "金野潤 (声優) - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s57",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%A2%E5%B0%BE%E4%B8%80%E6%A8%B9",
+      "title": "矢尾一樹 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s58",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B3%B6%E6%95%AC%E4%BB%8B",
+      "title": "小島敬介 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s59",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%89%E6%9D%91%E6%86%B2%E5%8F%B8",
+      "title": "杉村憲司 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s60",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E5%B3%B6%E6%B8%85%E5%AD%9D",
+      "title": "古島清孝 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s61",
+      "url": "https://ja.wikipedia.org/wiki/%E9%A7%92%E8%B0%B7%E6%98%8C%E7%94%B7",
+      "title": "駒谷昌男 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s62",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%BE%A4%E3%81%BE%E3%81%95%E3%81%A8%E3%82%82",
+      "title": "中澤まさとも - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s63",
+      "url": "https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B3%B6%E7%9C%9F%E7%A5%90",
+      "title": "長島真祐 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s64",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E6%9C%AC%E5%B4%87%E5%BC%98",
+      "title": "宮本崇弘 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s65",
+      "url": "https://ja.wikipedia.org/wiki/%E7%96%8B%E7%94%B0%E9%AB%98%E5%BF%97",
+      "title": "疋田高志 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s66",
+      "url": "https://ja.wikipedia.org/wiki/%E5%BF%97%E6%9D%91%E7%9F%A5%E5%B9%B8",
+      "title": "志村知幸 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s67",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8D%BB%E6%B2%A2%E4%BF%8A%E5%BD%A6",
+      "title": "荻沢俊彦 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s68",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B2%A1%E6%B4%8B%E5%AD%90_%28%E5%A3%B0%E5%84%AA%29",
+      "title": "松岡洋子 (声優) - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s69",
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%A9%E6%B0%B4%E3%83%AA%E3%82%B5",
+      "title": "早水リサ - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s70",
+      "url": "https://ja.wikipedia.org/wiki/%E8%97%A4%E6%9C%AC%E8%AD%B2",
+      "title": "藤本譲 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s71",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E6%A8%B9%E5%A5%88%E3%80%85",
+      "title": "水樹奈々 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s72",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%B6%E5%BC%93%E5%AE%B6%E6%AD%A3",
+      "title": "家弓家正 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s73",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%A8%E3%81%86%E3%81%82%E3%81%84",
+      "title": "さとうあい - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s74",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E6%A3%AE%E9%81%94%E5%B9%B8",
+      "title": "石森達幸 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s75",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E8%A5%BF%E7%B4%94%E5%AD%90",
+      "title": "北西純子 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s76",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%8E%9F%E5%B4%87",
+      "title": "大原崇 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s77",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%B2%A0%EC%9D%98_%EC%97%B0%EA%B8%88%EC%88%A0%EC%82%AC_BROTHERHOOD",
+      "title": "강철의 연금술사 BROTHERHOOD - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s78",
+      "url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9B%90%EC%84%9D",
+      "title": "서원석 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s79",
+      "url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9C%A0%EB%A6%AC",
+      "title": "서유리 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s80",
+      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A7%80%ED%98%84_%28%EC%84%B1%EC%9A%B0%29",
+      "title": "이지현 (성우) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s81",
+      "url": "https://ko.wikipedia.org/wiki/%EC%B5%9C%EB%82%99%EC%9C%A4",
+      "title": "최낙윤 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s82",
+      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%9E%AC%ED%98%84_%28%EC%84%B1%EC%9A%B0%29",
+      "title": "이재현 (성우) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s83",
+      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%AA%85%ED%9D%AC_%28%EC%84%B1%EC%9A%B0%29",
+      "title": "이명희 (성우) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s84",
+      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%B4%89%EC%A4%80_%28%EC%84%B1%EC%9A%B0%29",
+      "title": "이봉준 (성우) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s85",
+      "url": "https://ko.wikipedia.org/wiki/%EC%9C%A4%EB%8F%99%EA%B8%B0",
+      "title": "윤동기 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s86",
+      "url": "https://ko.wikipedia.org/wiki/%EC%98%A8%EC%98%81%EC%82%BC",
+      "title": "온영삼 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

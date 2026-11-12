@@ -1,0 +1,4818 @@
+{
+  "$schema": "../schema/franchise.schema.json",
+  "id": "fullmetal-alchemist",
+  "title": {
+    "original_lang": "ja",
+    "original": "鋼の錬金術師",
+    "latin": "Hagane no Renkinjutsushi",
+    "official": {
+      "en": "Fullmetal Alchemist",
+      "ko": "강철의 연금술사"
+    }
+  },
+  "original_media": "manga",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB",
+    "en": "https://en.wikipedia.org/wiki/Fullmetal_Alchemist",
+    "ko": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%B2%A0%EC%9D%98_%EC%97%B0%EA%B8%88%EC%88%A0%EC%82%AC"
+  },
+  "characters": [
+    {
+      "id": "edward-elric",
+      "name": {
+        "original_lang": "ja",
+        "original": "エドワード・エルリック",
+        "latin": "Edward Elric",
+        "official": {
+          "ko": "에드워드 엘릭"
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "「鋼」の二つ名を持つ最年少の国家錬金術師。",
+        "translations": {
+          "ko": "\"강철\"이라는 이명을 가진 최연소 국가연금술사.",
+          "en": "The youngest State Alchemist, known as the \"Fullmetal\" Alchemist."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/1.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      },
+      "wikipedia": {
+        "ja": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%83%AF%E3%83%BC%E3%83%89%E3%83%BB%E3%82%A8%E3%83%AB%E3%83%AA%E3%83%83%E3%82%AF",
+        "en": "https://en.wikipedia.org/wiki/Edward_Elric"
+      }
+    },
+    {
+      "id": "alphonse-elric",
+      "name": {
+        "original_lang": "ja",
+        "original": "アルフォンス・エルリック",
+        "latin": "Alphonse Elric",
+        "official": {
+          "ko": "알폰스 엘릭"
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "鎧に魂を定着させたエドワードの弟。",
+        "translations": {
+          "ko": "갑옷에 영혼이 정착된 에드워드의 동생.",
+          "en": "Edward's younger brother, whose soul is bound to a suit of armor."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/2.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      },
+      "wikipedia": {
+        "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A9%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%A8%E3%83%AB%E3%83%AA%E3%83%83%E3%82%AF",
+        "en": "https://en.wikipedia.org/wiki/Alphonse_Elric"
+      }
+    },
+    {
+      "id": "winry-rockbell",
+      "name": {
+        "original_lang": "ja",
+        "original": "ウィンリィ・ロックベル",
+        "latin": "Winry Rockbell",
+        "official": {
+          "ko": "윈리 록벨"
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "エルリック兄弟の幼馴染で機械鎧技師。",
+        "translations": {
+          "ko": "엘릭 형제의 소꿉친구이자 오토메일 기술자.",
+          "en": "The Elric brothers' childhood friend and automail mechanic."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/3.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "roy-mustang",
+      "name": {
+        "original_lang": "ja",
+        "original": "ロイ・マスタング",
+        "latin": "Roy Mustang",
+        "official": {
+          "ko": "로이 머스탱"
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "「焔」の二つ名を持つ国家錬金術師で軍の大佐。",
+        "translations": {
+          "ko": "\"불꽃\"이라는 이명을 가진 국가연금술사이자 대령.",
+          "en": "The \"Flame\" State Alchemist, a colonel in the military."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/4.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      },
+      "wikipedia": {
+        "en": "https://en.wikipedia.org/wiki/Roy_Mustang"
+      }
+    },
+    {
+      "id": "riza-hawkeye",
+      "name": {
+        "original_lang": "ja",
+        "original": "リザ・ホークアイ",
+        "latin": "Riza Hawkeye",
+        "official": {
+          "ko": "리자 호크아이"
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "マスタングを補佐する狙撃の名手の中尉。",
+        "translations": {
+          "ko": "머스탱을 보좌하는 저격의 명수인 중위.",
+          "en": "A first lieutenant and expert marksman serving as Mustang's aide."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/5.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "alex-louis-armstrong",
+      "name": {
+        "original_lang": "ja",
+        "original": "アレックス・ルイ・アームストロング",
+        "latin": "Alex Louis Armstrong",
+        "official": {
+          "ko": "알렉스 루이 암스트롱"
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "「豪腕」の二つ名を持つ国家錬金術師で少佐。",
+        "translations": {
+          "ko": "\"호완\"이라는 이명을 가진 국가연금술사이자 소령.",
+          "en": "The \"Strong Arm\" State Alchemist, a major."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/6.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "maes-hughes",
+      "name": {
+        "original_lang": "ja",
+        "original": "マース・ヒューズ",
+        "latin": "Maes Hughes",
+        "official": {
+          "ko": "매스 휴즈"
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "家族思いの中佐でマスタングの親友。",
+        "translations": {
+          "ko": "가족을 아끼는 중령이자 머스탱의 친우.",
+          "en": "A family-loving lieutenant colonel and Mustang's best friend."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/7.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "lust",
+      "name": {
+        "original_lang": "ja",
+        "original": "ラスト",
+        "latin": "Lust",
+        "official": {
+          "ko": "러스트"
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "「色欲」のホムンクルス。",
+        "translations": {
+          "ko": "\"색욕\"의 호문쿨루스.",
+          "en": "The homunculus of lust."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/8.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "gluttony",
+      "name": {
+        "original_lang": "ja",
+        "original": "グラトニー",
+        "latin": "Gluttony",
+        "official": {
+          "ko": "글러트니"
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "「暴食」のホムンクルス。",
+        "translations": {
+          "ko": "\"폭식\"의 호문쿨루스.",
+          "en": "The homunculus of gluttony."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/9.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "envy",
+      "name": {
+        "original_lang": "ja",
+        "original": "エンヴィー",
+        "latin": "Envy",
+        "official": {
+          "ko": "엔비"
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "「嫉妬」のホムンクルス。",
+        "translations": {
+          "ko": "\"질투\"의 호문쿨루스.",
+          "en": "The homunculus of envy."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/10.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "scar",
+      "name": {
+        "original_lang": "ja",
+        "original": "スカー",
+        "latin": "Scar",
+        "official": {
+          "ko": "스카"
+        },
+        "aliases": {
+          "ja": [
+            "傷の男"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "国家錬金術師を狙うイシュヴァール人の男。",
+        "translations": {
+          "ko": "국가연금술사를 노리는 이슈발 사람.",
+          "en": "An Ishvalan man who hunts State Alchemists."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/11.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "pinako-rockbell",
+      "name": {
+        "original_lang": "ja",
+        "original": "ピナコ・ロックベル",
+        "latin": "Pinako Rockbell",
+        "official": {
+          "ko": "피나코 록벨"
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "ウィンリィの祖母で機械鎧技師。",
+        "translations": {
+          "ko": "윈리의 할머니이자 오토메일 기술자.",
+          "en": "Winry's grandmother and an automail mechanic."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/13.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "trisha-elric",
+      "name": {
+        "original_lang": "ja",
+        "original": "トリシャ・エルリック",
+        "latin": "Trisha Elric",
+        "official": {
+          "ko": "트리샤 엘릭"
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "エルリック兄弟の亡き母。",
+        "translations": {
+          "ko": "엘릭 형제의 죽은 어머니.",
+          "en": "The Elric brothers' late mother."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/14.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "gracia-hughes",
+      "name": {
+        "original_lang": "ja",
+        "original": "グレイシア・ヒューズ",
+        "latin": "Gracia Hughes",
+        "aliases": {
+          "ko": [
+            "그레이시아 휴즈"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "ヒューズの妻。",
+        "translations": {
+          "ko": "휴즈의 아내.",
+          "en": "Hughes's wife."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/15.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "elicia-hughes",
+      "name": {
+        "original_lang": "ja",
+        "original": "エリシア・ヒューズ",
+        "latin": "Elicia Hughes",
+        "aliases": {
+          "ko": [
+            "엘리시아 휴즈",
+            "엘리시아"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "ヒューズの娘。",
+        "translations": {
+          "ko": "휴즈의 딸.",
+          "en": "Hughes's daughter."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/15.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "tim-marcoh",
+      "name": {
+        "original_lang": "ja",
+        "original": "ティム・マルコー",
+        "latin": "Tim Marcoh",
+        "official": {
+          "ko": "팀 마르코"
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "賢者の石の研究に関わった元軍医の錬金術師。",
+        "translations": {
+          "ko": "현자의 돌 연구에 관여했던 전직 군의관 연금술사.",
+          "en": "A former military doctor and alchemist who researched the Philosopher's Stone."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/16.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "jean-havoc",
+      "name": {
+        "original_lang": "ja",
+        "original": "ジャン・ハボック",
+        "latin": "Jean Havoc",
+        "official": {
+          "ko": "장 하보크"
+        },
+        "aliases": {
+          "ko": [
+            "쟝 하보크"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "マスタングの部下の少尉。",
+        "translations": {
+          "ko": "머스탱의 부하인 소위.",
+          "en": "A second lieutenant under Mustang."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/17.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "heymans-breda",
+      "name": {
+        "original_lang": "ja",
+        "original": "ハイマンス・ブレダ",
+        "latin": "Heymans Breda",
+        "official": {
+          "ko": "하이만스 브레다"
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "マスタングの部下の少尉。",
+        "translations": {
+          "ko": "머스탱의 부하인 소위.",
+          "en": "A second lieutenant under Mustang."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/18.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "maria-ross",
+      "name": {
+        "original_lang": "ja",
+        "original": "マリア・ロス",
+        "latin": "Maria Ross",
+        "official": {
+          "ko": "마리아 로스"
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "アームストロングの部下の少尉。",
+        "translations": {
+          "ko": "암스트롱의 부하인 소위.",
+          "en": "A second lieutenant under Armstrong."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/19.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "denny-brosh",
+      "name": {
+        "original_lang": "ja",
+        "original": "デニー・ブロッシュ",
+        "latin": "Denny Brosh",
+        "aliases": {
+          "ko": [
+            "대니 블로슈"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "アームストロングの部下の軍曹。",
+        "translations": {
+          "ko": "암스트롱의 부하인 중사.",
+          "en": "A sergeant under Armstrong."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/20.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "sheska",
+      "name": {
+        "original_lang": "ja",
+        "original": "シェスカ",
+        "latin": "Sheska",
+        "aliases": {
+          "ko": [
+            "셰스카"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "一度読んだ本を記憶する元図書館員。",
+        "translations": {
+          "ko": "한 번 읽은 책을 기억하는 전직 도서관 사서.",
+          "en": "A former librarian who remembers every book she reads."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/21.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "barry-the-chopper",
+      "name": {
+        "original_lang": "ja",
+        "original": "バリー・ザ・チョッパー",
+        "latin": "Barry the Chopper",
+        "aliases": {
+          "ko": [
+            "밸리 더 쵸퍼"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "鎧に魂を定着させられた元殺人鬼。",
+        "translations": {
+          "ko": "갑옷에 영혼이 정착된 전직 살인마.",
+          "en": "A former serial killer whose soul is bound to armor."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/22.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "slicer",
+      "name": {
+        "original_lang": "ja",
+        "original": "スライサー",
+        "latin": "Slicer",
+        "official": {
+          "ko": "슬라이서"
+        },
+        "aliases": {
+          "ja": [
+            "ナンバー48"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "第五研究所の門番を務める兄弟の魂。",
+        "translations": {
+          "ko": "제5연구소의 문지기를 맡은 형제의 영혼.",
+          "en": "The souls of two brothers guarding the Fifth Laboratory."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/23.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "yoki",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヨキ",
+        "latin": "Yoki",
+        "official": {
+          "ko": "요키"
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "元軍人の小悪党。",
+        "translations": {
+          "ko": "전직 군인인 좀도둑.",
+          "en": "A petty former military officer."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/24.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "izumi-curtis",
+      "name": {
+        "original_lang": "ja",
+        "original": "イズミ・カーティス",
+        "latin": "Izumi Curtis",
+        "official": {
+          "ko": "이즈미 커티스"
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "エルリック兄弟の錬金術の師匠。",
+        "translations": {
+          "ko": "엘릭 형제의 연금술 스승.",
+          "en": "The Elric brothers' alchemy teacher."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/25.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "sig-curtis",
+      "name": {
+        "original_lang": "ja",
+        "original": "シグ・カーティス",
+        "latin": "Sig Curtis",
+        "aliases": {
+          "ko": [
+            "시그 커티스"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "イズミの夫で肉屋の主人。",
+        "translations": {
+          "ko": "이즈미의 남편이자 정육점 주인.",
+          "en": "Izumi's husband, a butcher."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/26.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "greed",
+      "name": {
+        "original_lang": "ja",
+        "original": "グリード",
+        "latin": "Greed",
+        "official": {
+          "ko": "그리드"
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "「強欲」のホムンクルス。",
+        "translations": {
+          "ko": "\"탐욕\"의 호문쿨루스.",
+          "en": "The homunculus of greed."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/27.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "king-bradley",
+      "name": {
+        "original_lang": "ja",
+        "original": "キング・ブラッドレイ",
+        "latin": "King Bradley",
+        "official": {
+          "ko": "킹 브래들리"
+        },
+        "aliases": {
+          "ko": [
+            "킹 브래드레이"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "アメストリス軍の最高責任者である大総統。",
+        "translations": {
+          "ko": "아메스트리스군의 최고 책임자인 대총통.",
+          "en": "The Führer, supreme commander of Amestris's military."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/28.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "ling-yao",
+      "name": {
+        "original_lang": "ja",
+        "original": "リン・ヤオ",
+        "latin": "Ling Yao",
+        "official": {
+          "ko": "린 야오"
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "不老不死の法を求めるシン国の第12皇子。",
+        "translations": {
+          "ko": "불로불사의 방법을 찾는 싱 국의 12황자.",
+          "en": "The twelfth prince of Xing, seeking the secret of immortality."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/29.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "lan-fan",
+      "name": {
+        "original_lang": "ja",
+        "original": "ランファン",
+        "latin": "Lan Fan",
+        "official": {
+          "ko": "란팡"
+        },
+        "aliases": {
+          "ko": [
+            "란 팡"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "リンに仕える護衛の少女。",
+        "translations": {
+          "ko": "린을 모시는 호위 소녀.",
+          "en": "A young bodyguard serving Ling."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/30.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "fu",
+      "name": {
+        "original_lang": "ja",
+        "original": "フー",
+        "latin": "Fu",
+        "official": {
+          "ko": "후"
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "リンに仕える老護衛でランファンの祖父。",
+        "translations": {
+          "ko": "린을 모시는 노호위이자 란팡의 할아버지.",
+          "en": "An elderly bodyguard of Ling and Lan Fan's grandfather."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/31.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "may-chang",
+      "name": {
+        "original_lang": "ja",
+        "original": "メイ・チャン",
+        "latin": "May Chang",
+        "official": {
+          "ko": "메이 창"
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "錬丹術を使うシン国の皇女。",
+        "translations": {
+          "ko": "연단술을 쓰는 싱 국의 황녀.",
+          "en": "A princess of Xing who uses alkahestry."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/32.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "xiao-mei",
+      "name": {
+        "original_lang": "ja",
+        "original": "シャオメイ",
+        "latin": "Xiao-Mei",
+        "official": {
+          "ko": "샤오메이"
+        },
+        "aliases": {
+          "en": [
+            "Shao May"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "メイが連れている小さなパンダ。",
+        "translations": {
+          "ko": "메이가 데리고 다니는 작은 판다.",
+          "en": "The tiny panda that accompanies May."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/33.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "van-hohenheim",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヴァン・ホーエンハイム",
+        "latin": "Van Hohenheim",
+        "official": {
+          "ko": "반 호엔하임"
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "エルリック兄弟の父。",
+        "translations": {
+          "ko": "엘릭 형제의 아버지.",
+          "en": "The Elric brothers' father."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/34.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "scars-brother",
+      "name": {
+        "original_lang": "ja",
+        "original": "スカーの兄",
+        "latin": "Scar no Ani",
+        "aliases": {
+          "ko": [
+            "스카의 형"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "錬金術を研究していたスカーの兄。",
+        "translations": {
+          "ko": "연금술을 연구하던 스카의 형.",
+          "en": "Scar's older brother, who studied alchemy."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 22
+      },
+      "nameless": true,
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/35.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "yuriy-rockbell",
+      "name": {
+        "original_lang": "ja",
+        "original": "ユーリ・ロックベル",
+        "latin": "Yuriy Rockbell"
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "ウィンリィの父で医師。",
+        "translations": {
+          "ko": "윈리의 아버지이자 의사.",
+          "en": "Winry's father, a doctor."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 18
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/36.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "sara-rockbell",
+      "name": {
+        "original_lang": "ja",
+        "original": "サラ・ロックベル",
+        "latin": "Sara Rockbell"
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "ウィンリィの母で医師。",
+        "translations": {
+          "ko": "윈리의 어머니이자 의사.",
+          "en": "Winry's mother, a doctor."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 18
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/36.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "father",
+      "name": {
+        "original_lang": "ja",
+        "original": "お父様",
+        "latin": "Otosama",
+        "official": {
+          "ko": "아버지"
+        },
+        "aliases": {
+          "en": [
+            "Father"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "ホムンクルスたちの生みの親。",
+        "translations": {
+          "ko": "호문쿨루스들의 창조주.",
+          "en": "The creator of the homunculi."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/37.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "selim-bradley",
+      "name": {
+        "original_lang": "ja",
+        "original": "セリム・ブラッドレイ",
+        "latin": "Selim Bradley",
+        "official": {
+          "ko": "셀림 브래들리"
+        },
+        "aliases": {
+          "ko": [
+            "셀림 브래드레이"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "キング・ブラッドレイの養子。",
+        "translations": {
+          "ko": "킹 브래들리의 양자.",
+          "en": "King Bradley's adopted son."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/38.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "pride",
+      "name": {
+        "original_lang": "ja",
+        "original": "プライド",
+        "latin": "Pride",
+        "official": {
+          "ko": "프라이드"
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "「傲慢」のホムンクルス。",
+        "translations": {
+          "ko": "\"오만\"의 호문쿨루스.",
+          "en": "The homunculus of pride."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "spoiler": true
+    },
+    {
+      "id": "solf-j-kimblee",
+      "name": {
+        "original_lang": "ja",
+        "original": "ゾルフ・J・キンブリー",
+        "latin": "Solf J. Kimblee",
+        "official": {
+          "ko": "졸프 J. 킴블리"
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "「紅蓮」の二つ名を持つ国家錬金術師。",
+        "translations": {
+          "ko": "\"홍련\"이라는 이명을 가진 국가연금술사.",
+          "en": "The \"Crimson\" State Alchemist."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/40.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "roys-master",
+      "name": {
+        "original_lang": "ja",
+        "original": "ロイの師匠",
+        "latin": "Roy no Shisho",
+        "aliases": {
+          "ko": [
+            "베르톨트 호크아이",
+            "로이의 스승"
+          ],
+          "en": [
+            "Berthold Hawkeye"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "ロイに錬金術を教えたリザの父。",
+        "translations": {
+          "ko": "로이에게 연금술을 가르친 리자의 아버지.",
+          "en": "Riza's father, who taught Roy alchemy."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 30
+      },
+      "nameless": true,
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/41.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "knox",
+      "name": {
+        "original_lang": "ja",
+        "original": "ノックス",
+        "latin": "Knox",
+        "official": {
+          "ko": "녹스"
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "検死を担当する元軍医。",
+        "translations": {
+          "ko": "검시를 맡은 전직 군의관.",
+          "en": "A former military doctor working as a coroner."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/42.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "olivier-mira-armstrong",
+      "name": {
+        "original_lang": "ja",
+        "original": "オリヴィエ・ミラ・アームストロング",
+        "latin": "Olivier Mira Armstrong",
+        "official": {
+          "ko": "올리비에 밀라 암스트롱"
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "ブリッグズ要塞を率いる女将軍。",
+        "translations": {
+          "ko": "브릭스 요새를 이끄는 여장군.",
+          "en": "The general commanding Fort Briggs."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/43.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "miles",
+      "name": {
+        "original_lang": "ja",
+        "original": "マイルズ",
+        "latin": "Miles",
+        "official": {
+          "ko": "마일즈"
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "オリヴィエを補佐する少佐。",
+        "translations": {
+          "ko": "올리비에를 보좌하는 소령.",
+          "en": "A major who serves as Olivier's aide."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/44.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "buccaneer",
+      "name": {
+        "original_lang": "ja",
+        "original": "バッカニア",
+        "latin": "Buccaneer",
+        "official": {
+          "ko": "배커니어"
+        },
+        "aliases": {
+          "ko": [
+            "버커니어"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "ブリッグズの大尉。",
+        "translations": {
+          "ko": "브릭스의 대위.",
+          "en": "A captain at Briggs."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/45.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "sloth",
+      "name": {
+        "original_lang": "ja",
+        "original": "スロウス",
+        "latin": "Sloth",
+        "official": {
+          "ko": "슬로스"
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "「怠惰」のホムンクルス。",
+        "translations": {
+          "ko": "\"나태\"의 호문쿨루스.",
+          "en": "The homunculus of sloth."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/46.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "grumman",
+      "name": {
+        "original_lang": "ja",
+        "original": "グラマン",
+        "latin": "Grumman",
+        "aliases": {
+          "ko": [
+            "글래먼",
+            "그루먼"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "東方司令部を統括する中将。",
+        "translations": {
+          "ko": "동방사령부를 총괄하는 중장.",
+          "en": "The lieutenant general in charge of Eastern Command."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/47.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "raven",
+      "name": {
+        "original_lang": "ja",
+        "original": "レイブン",
+        "latin": "Raven",
+        "aliases": {
+          "ko": [
+            "레이븐"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "中央の軍上層部の中将。",
+        "translations": {
+          "ko": "중앙 군 상층부의 중장.",
+          "en": "A lieutenant general in Central's top brass."
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "image": {
+        "url": "https://www.hagaren.jp/fa/characters/images01/detail/48.jpg",
+        "page_url": "https://www.hagaren.jp/fa/characters/index01.html",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 荒川弘／鋼の錬金術師製作委員会・MBS"
+      }
+    },
+    {
+      "id": "kain-fuery",
+      "name": {
+        "original_lang": "ja",
+        "original": "ケイン・フュリー",
+        "latin": "Kain Fuery",
+        "official": {
+          "ko": "케인 휴리"
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      }
+    },
+    {
+      "id": "vato-falman",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヴァトー・ファルマン",
+        "latin": "Vato Falman",
+        "official": {
+          "ko": "버트 펄만"
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      }
+    },
+    {
+      "id": "shou-tucker",
+      "name": {
+        "original_lang": "ja",
+        "original": "ショウ・タッカー",
+        "latin": "Shou Tucker",
+        "official": {
+          "ko": "쇼우 터커"
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      }
+    },
+    {
+      "id": "nina-tucker",
+      "name": {
+        "original_lang": "ja",
+        "original": "ニーナ・タッカー",
+        "latin": "Nina Tucker",
+        "aliases": {
+          "ko": [
+            "니나 터커"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 4
+      }
+    },
+    {
+      "id": "rose",
+      "name": {
+        "original_lang": "ja",
+        "original": "ロゼ",
+        "latin": "Rose",
+        "official": {
+          "ko": "로제 토마스"
+        },
+        "aliases": {
+          "ko": [
+            "로제"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      }
+    },
+    {
+      "id": "cornello",
+      "name": {
+        "original_lang": "ja",
+        "original": "コーネロ",
+        "latin": "Cornello",
+        "aliases": {
+          "ko": [
+            "코네로"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 3
+      }
+    },
+    {
+      "id": "cray",
+      "name": {
+        "original_lang": "ja",
+        "original": "クレイ",
+        "latin": "Cray"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 3
+      }
+    },
+    {
+      "id": "basque-grand",
+      "name": {
+        "original_lang": "ja",
+        "original": "バスク・グラン",
+        "latin": "Basque Grand",
+        "aliases": {
+          "ko": [
+            "바스크 글랜"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 4
+      }
+    },
+    {
+      "id": "mrs-bradley",
+      "name": {
+        "original_lang": "ja",
+        "original": "ブラッドレイ夫人",
+        "latin": "Buraddorei Fujin",
+        "aliases": {
+          "en": [
+            "Mrs. Bradley"
+          ],
+          "ko": [
+            "브래드레이 부인",
+            "브래들리 부인"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "nameless": true
+    },
+    {
+      "id": "madame-christmas",
+      "name": {
+        "original_lang": "ja",
+        "original": "マダム・クリスマス",
+        "latin": "Madame Christmas",
+        "aliases": {
+          "ko": [
+            "마담 크리스마스"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      }
+    },
+    {
+      "id": "rebecca-catalina",
+      "name": {
+        "original_lang": "ja",
+        "original": "レベッカ・カタリナ",
+        "latin": "Rebecca Catalina",
+        "aliases": {
+          "ko": [
+            "레베카 카테리나"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      }
+    },
+    {
+      "id": "vanessa",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヴァネッサ",
+        "latin": "Vanessa"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 31
+      }
+    },
+    {
+      "id": "paninya",
+      "name": {
+        "original_lang": "ja",
+        "original": "パニーニャ",
+        "latin": "Paninya",
+        "aliases": {
+          "ko": [
+            "패니냐"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 11
+      }
+    },
+    {
+      "id": "dominic-lecourt",
+      "name": {
+        "original_lang": "ja",
+        "original": "ドミニク・レコルト",
+        "latin": "Dominic LeCourt",
+        "aliases": {
+          "ko": [
+            "도미니크 레코르트"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 11
+      }
+    },
+    {
+      "id": "ridel-lecourt",
+      "name": {
+        "original_lang": "ja",
+        "original": "リドル・レコルト",
+        "latin": "Ridel LeCourt"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 11
+      }
+    },
+    {
+      "id": "satella-lecourt",
+      "name": {
+        "original_lang": "ja",
+        "original": "サテラ・レコルト",
+        "latin": "Satella LeCourt"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 11
+      }
+    },
+    {
+      "id": "garfiel",
+      "name": {
+        "original_lang": "ja",
+        "original": "ガーフィール",
+        "latin": "Garfiel",
+        "aliases": {
+          "ko": [
+            "가필"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      }
+    },
+    {
+      "id": "tetsu",
+      "name": {
+        "original_lang": "ja",
+        "original": "テツ",
+        "latin": "Tetsu"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 23
+      }
+    },
+    {
+      "id": "mason",
+      "name": {
+        "original_lang": "ja",
+        "original": "メイスン",
+        "latin": "Mason",
+        "aliases": {
+          "ko": [
+            "메이슨"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 13
+      }
+    },
+    {
+      "id": "dolcetto",
+      "name": {
+        "original_lang": "ja",
+        "original": "ドルチェット",
+        "latin": "Dolcetto",
+        "official": {
+          "ko": "돌체트"
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 13
+      }
+    },
+    {
+      "id": "roa",
+      "name": {
+        "original_lang": "ja",
+        "original": "ロア",
+        "latin": "Roa",
+        "official": {
+          "ko": "로어"
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 13
+      }
+    },
+    {
+      "id": "martel",
+      "name": {
+        "original_lang": "ja",
+        "original": "マーテル",
+        "latin": "Martel",
+        "official": {
+          "ko": "마텔"
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 13
+      }
+    },
+    {
+      "id": "bido",
+      "name": {
+        "original_lang": "ja",
+        "original": "ビドー",
+        "latin": "Bido",
+        "aliases": {
+          "ko": [
+            "비드"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 13
+      }
+    },
+    {
+      "id": "heinkel",
+      "name": {
+        "original_lang": "ja",
+        "original": "ハインケル",
+        "latin": "Heinkel",
+        "aliases": {
+          "ko": [
+            "하인켈"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      }
+    },
+    {
+      "id": "darius",
+      "name": {
+        "original_lang": "ja",
+        "original": "ダリウス",
+        "latin": "Darius",
+        "aliases": {
+          "ko": [
+            "다리우스"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      }
+    },
+    {
+      "id": "jerso",
+      "name": {
+        "original_lang": "ja",
+        "original": "ジェルソ",
+        "latin": "Jerso",
+        "aliases": {
+          "ko": [
+            "젤소"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      }
+    },
+    {
+      "id": "zampano",
+      "name": {
+        "original_lang": "ja",
+        "original": "ザンパノ",
+        "latin": "Zampano",
+        "official": {
+          "ko": "잠파노"
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      }
+    },
+    {
+      "id": "isaac-mcdougal",
+      "name": {
+        "original_lang": "ja",
+        "original": "アイザック・マクドゥーガル",
+        "latin": "Isaac McDougal",
+        "official": {
+          "ko": "아이작 맥두걸"
+        },
+        "aliases": {
+          "ko": [
+            "아이작 맥도걸"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 1
+      }
+    },
+    {
+      "id": "giolio-comanche",
+      "name": {
+        "original_lang": "ja",
+        "original": "ジョリオ・コマンチ",
+        "latin": "Giolio Comanche",
+        "aliases": {
+          "ko": [
+            "조리오 코만치"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 15
+      }
+    },
+    {
+      "id": "henry-douglas",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヘンリ・ダグラス",
+        "latin": "Henry Douglas",
+        "aliases": {
+          "ko": [
+            "헨리 더글러스"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 16
+      }
+    },
+    {
+      "id": "focker",
+      "name": {
+        "original_lang": "ja",
+        "original": "フォッカー",
+        "latin": "Focker",
+        "aliases": {
+          "ko": [
+            "포커"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 10
+      }
+    },
+    {
+      "id": "fessler",
+      "name": {
+        "original_lang": "ja",
+        "original": "フェスラー",
+        "latin": "Fessler",
+        "aliases": {
+          "ko": [
+            "훼슬러"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 29
+      }
+    },
+    {
+      "id": "storch",
+      "name": {
+        "original_lang": "ja",
+        "original": "シュトルヒ",
+        "latin": "Storch",
+        "aliases": {
+          "ko": [
+            "슈트르히"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 25
+      }
+    },
+    {
+      "id": "yakovlev",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヤコブレフ",
+        "latin": "Yakovlev",
+        "aliases": {
+          "ko": [
+            "야코브레프"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 25
+      }
+    },
+    {
+      "id": "clemin",
+      "name": {
+        "original_lang": "ja",
+        "original": "クレミン",
+        "latin": "Clemin"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      }
+    },
+    {
+      "id": "gardner",
+      "name": {
+        "original_lang": "ja",
+        "original": "ガードナー",
+        "latin": "Gardner"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      }
+    },
+    {
+      "id": "edison",
+      "name": {
+        "original_lang": "ja",
+        "original": "エジソン",
+        "latin": "Edison"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      }
+    },
+    {
+      "id": "fox",
+      "name": {
+        "original_lang": "ja",
+        "original": "フォックス",
+        "latin": "Fox"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      }
+    },
+    {
+      "id": "gertner",
+      "name": {
+        "original_lang": "ja",
+        "original": "ゲルトナー",
+        "latin": "Gertner"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 38
+      }
+    },
+    {
+      "id": "hakuro",
+      "name": {
+        "original_lang": "ja",
+        "original": "ハクロ",
+        "latin": "Hakuro",
+        "aliases": {
+          "ko": [
+            "하쿠로"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 46
+      }
+    },
+    {
+      "id": "charlie",
+      "name": {
+        "original_lang": "ja",
+        "original": "チャーリー",
+        "latin": "Charlie",
+        "aliases": {
+          "ko": [
+            "찰리"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      }
+    },
+    {
+      "id": "damiano",
+      "name": {
+        "original_lang": "ja",
+        "original": "ダミアノ",
+        "latin": "Damiano"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      }
+    },
+    {
+      "id": "henschel",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヘンシェル",
+        "latin": "Henschel",
+        "aliases": {
+          "ko": [
+            "헨셸"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 36
+      }
+    },
+    {
+      "id": "liam-roach",
+      "name": {
+        "original_lang": "ja",
+        "original": "リアム・ローチ",
+        "latin": "Liam Roach",
+        "aliases": {
+          "ko": [
+            "리암"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      }
+    },
+    {
+      "id": "mick-murray",
+      "name": {
+        "original_lang": "ja",
+        "original": "ミック・マーレイ",
+        "latin": "Mick Murray",
+        "aliases": {
+          "ko": [
+            "믹"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      }
+    },
+    {
+      "id": "karley",
+      "name": {
+        "original_lang": "ja",
+        "original": "カーリー",
+        "latin": "Karley",
+        "aliases": {
+          "ko": [
+            "칼리"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      }
+    },
+    {
+      "id": "neil",
+      "name": {
+        "original_lang": "ja",
+        "original": "ニール",
+        "latin": "Neil"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 35
+      }
+    },
+    {
+      "id": "bobby",
+      "name": {
+        "original_lang": "ja",
+        "original": "ボビー",
+        "latin": "Bobby",
+        "aliases": {
+          "ko": [
+            "바비"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 34
+      }
+    },
+    {
+      "id": "ivan",
+      "name": {
+        "original_lang": "ja",
+        "original": "アイヴァン",
+        "latin": "Ivan"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      }
+    },
+    {
+      "id": "eric",
+      "name": {
+        "original_lang": "ja",
+        "original": "エリック",
+        "latin": "Eric"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 52
+      }
+    },
+    {
+      "id": "philip-gargantos-armstrong",
+      "name": {
+        "original_lang": "ja",
+        "original": "フィリップ・ガルガントス・アームストロング",
+        "latin": "Philip Gargantos Armstrong",
+        "aliases": {
+          "ko": [
+            "필립 가르강토스 암스트롱"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 45
+      }
+    },
+    {
+      "id": "catherine-elle-armstrong",
+      "name": {
+        "original_lang": "ja",
+        "original": "キャスリン・エル・アームストロング",
+        "latin": "Catherine Elle Armstrong",
+        "aliases": {
+          "ko": [
+            "캐슬린 엘 암스트롱"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 38
+      }
+    },
+    {
+      "id": "shan",
+      "name": {
+        "original_lang": "ja",
+        "original": "シャン",
+        "latin": "Shan",
+        "aliases": {
+          "ko": [
+            "샨"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 18
+      }
+    },
+    {
+      "id": "heath",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヒース",
+        "latin": "Heath"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 58
+      }
+    },
+    {
+      "id": "gustav",
+      "name": {
+        "original_lang": "ja",
+        "original": "グスタフ",
+        "latin": "Gustav"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      }
+    },
+    {
+      "id": "casper",
+      "name": {
+        "original_lang": "ja",
+        "original": "カスパー",
+        "latin": "Casper"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 54
+      }
+    },
+    {
+      "id": "frank",
+      "name": {
+        "original_lang": "ja",
+        "original": "フランク",
+        "latin": "Frank"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 55
+      }
+    },
+    {
+      "id": "flanagan",
+      "name": {
+        "original_lang": "ja",
+        "original": "フラナガン",
+        "latin": "Flanagan"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 52
+      }
+    },
+    {
+      "id": "bliss",
+      "name": {
+        "original_lang": "ja",
+        "original": "ブリス",
+        "latin": "Bliss"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 62
+      }
+    },
+    {
+      "id": "han",
+      "name": {
+        "original_lang": "ja",
+        "original": "ミスター・ハン",
+        "latin": "Mister Han",
+        "aliases": {
+          "ja": [
+            "ハン"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 18
+      }
+    },
+    {
+      "id": "mrs-armstrong",
+      "name": {
+        "original_lang": "ja",
+        "original": "アームストロング夫人",
+        "latin": "Amusutorongu Fujin",
+        "aliases": {
+          "en": [
+            "Mrs. Armstrong"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 45
+      },
+      "nameless": true
+    },
+    {
+      "id": "king-of-xerxes",
+      "name": {
+        "original_lang": "ja",
+        "original": "クセルクセス王",
+        "latin": "Kuserukusesu O",
+        "aliases": {
+          "en": [
+            "King of Xerxes"
+          ],
+          "ja": [
+            "クセルクセス国王"
+          ],
+          "ko": [
+            "크세르크세스 왕"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 40
+      },
+      "nameless": true
+    },
+    {
+      "id": "scars-master",
+      "name": {
+        "original_lang": "ja",
+        "original": "師父",
+        "latin": "Shifu",
+        "aliases": {
+          "en": [
+            "Scar's Master"
+          ],
+          "ko": [
+            "스카의 스승"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "nameless": true
+    },
+    {
+      "id": "knoxs-wife",
+      "name": {
+        "original_lang": "ja",
+        "original": "ノックス妻",
+        "latin": "Nokkusu Tsuma",
+        "aliases": {
+          "en": [
+            "Knox's Wife"
+          ],
+          "ja": [
+            "ノックスの妻"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 31
+      },
+      "nameless": true
+    },
+    {
+      "id": "knoxs-son",
+      "name": {
+        "original_lang": "ja",
+        "original": "ノックス息子",
+        "latin": "Nokkusu Musuko",
+        "aliases": {
+          "en": [
+            "Knox's Son"
+          ],
+          "ja": [
+            "ノックスの息子"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 31
+      },
+      "nameless": true
+    },
+    {
+      "id": "gold-toothed-doctor",
+      "name": {
+        "original_lang": "ja",
+        "original": "金歯医者",
+        "latin": "Kinba Isha",
+        "aliases": {
+          "en": [
+            "Gold-Toothed Doctor"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "nameless": true
+    },
+    {
+      "id": "flower-shop-lady",
+      "name": {
+        "original_lang": "ja",
+        "original": "花屋のおばちゃん",
+        "latin": "Hanaya no Obachan",
+        "aliases": {
+          "en": [
+            "Grandma"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 36
+      },
+      "nameless": true
+    },
+    {
+      "id": "briggs-doctor",
+      "name": {
+        "original_lang": "ja",
+        "original": "女医",
+        "latin": "Joi",
+        "aliases": {
+          "en": [
+            "Briggs Doctor"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 34
+      },
+      "nameless": true
+    },
+    {
+      "id": "broshs-little-sister",
+      "name": {
+        "original_lang": "ja",
+        "original": "ブロッシュの妹",
+        "latin": "Burosshu no Imoto",
+        "aliases": {
+          "en": [
+            "Brosh's Little Sister"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 49
+      },
+      "nameless": true
+    },
+    {
+      "id": "broshs-little-brother",
+      "name": {
+        "original_lang": "ja",
+        "original": "ブロッシュの弟",
+        "latin": "Burosshu no Ototo",
+        "aliases": {
+          "en": [
+            "Brosh's Little Brother"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 49
+      },
+      "nameless": true
+    },
+    {
+      "id": "boy-fmab-ep9",
+      "name": {
+        "original_lang": "ja",
+        "original": "少年",
+        "latin": "Shonen",
+        "aliases": {
+          "en": [
+            "Boy"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 9
+      },
+      "nameless": true
+    },
+    {
+      "id": "narrator-fmab",
+      "name": {
+        "original_lang": "ja",
+        "original": "ナレーション",
+        "latin": "Nareshon",
+        "aliases": {
+          "en": [
+            "Narrator"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "nameless": true
+    },
+    {
+      "id": "boy-b-fmab-ep9",
+      "name": {
+        "original_lang": "ja",
+        "original": "男の子B",
+        "latin": "Otoko no Ko B",
+        "aliases": {
+          "en": [
+            "Boy B"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 9
+      },
+      "nameless": true
+    },
+    {
+      "id": "soldier-c-fmab-ep41",
+      "name": {
+        "original_lang": "ja",
+        "original": "兵士C",
+        "latin": "Heishi C",
+        "aliases": {
+          "en": [
+            "Soldier C"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 41
+      },
+      "nameless": true
+    },
+    {
+      "id": "ishbalan-boy-fmab-ep18",
+      "name": {
+        "original_lang": "ja",
+        "original": "少年",
+        "latin": "Shonen",
+        "aliases": {
+          "en": [
+            "Ishbalan Boy"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 18
+      },
+      "nameless": true
+    },
+    {
+      "id": "doctor-fmab-ep11",
+      "name": {
+        "original_lang": "en",
+        "original": "Doctor",
+        "latin": "Doctor"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 11
+      },
+      "nameless": true
+    },
+    {
+      "id": "face-b-fmab-ep26",
+      "name": {
+        "original_lang": "en",
+        "original": "Face B",
+        "latin": "Face B"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 26
+      },
+      "nameless": true
+    },
+    {
+      "id": "fellow-countryman-fmab-ep22",
+      "name": {
+        "original_lang": "en",
+        "original": "Fellow Countryman",
+        "latin": "Fellow Countryman"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 22
+      },
+      "nameless": true
+    },
+    {
+      "id": "man-a-fmab-ep12",
+      "name": {
+        "original_lang": "en",
+        "original": "Man A",
+        "latin": "Man A"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 12
+      },
+      "nameless": true
+    },
+    {
+      "id": "military-a-fmab-ep14",
+      "name": {
+        "original_lang": "en",
+        "original": "Military A",
+        "latin": "Military A"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 14
+      },
+      "nameless": true
+    },
+    {
+      "id": "military-policeman-b-fmab-ep1",
+      "name": {
+        "original_lang": "en",
+        "original": "Military Policeman B",
+        "latin": "Military Policeman B"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 1
+      },
+      "nameless": true
+    },
+    {
+      "id": "order-member-b-fmab-ep3",
+      "name": {
+        "original_lang": "en",
+        "original": "Order Member B",
+        "latin": "Order Member B"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 3
+      },
+      "nameless": true
+    },
+    {
+      "id": "prison-guard-a-fmab-ep8",
+      "name": {
+        "original_lang": "en",
+        "original": "Prison Guard A",
+        "latin": "Prison Guard A"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 8
+      },
+      "nameless": true
+    },
+    {
+      "id": "subordinate-fmab-ep2",
+      "name": {
+        "original_lang": "en",
+        "original": "Subordinate",
+        "latin": "Subordinate"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 2
+      },
+      "nameless": true
+    },
+    {
+      "id": "villager-a-fmab-ep6",
+      "name": {
+        "original_lang": "en",
+        "original": "Villager A",
+        "latin": "Villager A"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 6
+      },
+      "nameless": true
+    },
+    {
+      "id": "doctor-fmab-ep35",
+      "name": {
+        "original_lang": "en",
+        "original": "Doctor",
+        "latin": "Doctor"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 35
+      },
+      "nameless": true
+    },
+    {
+      "id": "military-policeman-a-fmab-ep22",
+      "name": {
+        "original_lang": "ja",
+        "original": "憲兵A",
+        "latin": "Kenpei A",
+        "aliases": {
+          "en": [
+            "Military Policeman A"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 22
+      },
+      "nameless": true
+    },
+    {
+      "id": "producer-fmab-ep53",
+      "name": {
+        "original_lang": "ja",
+        "original": "プロデューサー",
+        "latin": "Purodyusa",
+        "aliases": {
+          "en": [
+            "Producer"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 53
+      },
+      "nameless": true
+    },
+    {
+      "id": "white-coat-fmab-ep26",
+      "name": {
+        "original_lang": "ja",
+        "original": "白衣",
+        "latin": "Hakui",
+        "aliases": {
+          "en": [
+            "White Coat"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 26
+      },
+      "nameless": true
+    },
+    {
+      "id": "guard-soldier-b-fmab-ep17",
+      "name": {
+        "original_lang": "ja",
+        "original": "警備兵B",
+        "latin": "Keibihei B",
+        "aliases": {
+          "en": [
+            "Guard Soldier B"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 17
+      },
+      "nameless": true
+    },
+    {
+      "id": "military-policeman-a-fmab-ep23",
+      "name": {
+        "original_lang": "ja",
+        "original": "憲兵A",
+        "latin": "Kenpei A",
+        "aliases": {
+          "en": [
+            "Military Policeman A"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 23
+      },
+      "nameless": true
+    },
+    {
+      "id": "sheskas-superior-fmab-ep16",
+      "name": {
+        "original_lang": "ja",
+        "original": "シェスカの上官",
+        "latin": "Sheska no Jokan",
+        "aliases": {
+          "en": [
+            "Sheska's Superior"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 16
+      },
+      "nameless": true
+    },
+    {
+      "id": "photographer-fmab-ep36",
+      "name": {
+        "original_lang": "en",
+        "original": "Photographer",
+        "latin": "Photographer"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 36
+      },
+      "nameless": true
+    },
+    {
+      "id": "military-policeman-a-fmab-ep32",
+      "name": {
+        "original_lang": "ja",
+        "original": "憲兵A",
+        "latin": "Kenpei A",
+        "aliases": {
+          "en": [
+            "Military Policeman A"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 32
+      },
+      "nameless": true
+    },
+    {
+      "id": "commander-fmab-ep56",
+      "name": {
+        "original_lang": "ja",
+        "original": "隊長",
+        "latin": "Taicho",
+        "aliases": {
+          "en": [
+            "Commander"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 56
+      },
+      "nameless": true
+    },
+    {
+      "id": "branch-manager-fmab-ep44",
+      "name": {
+        "original_lang": "en",
+        "original": "Branch Manager",
+        "latin": "Branch Manager"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 44
+      },
+      "nameless": true
+    },
+    {
+      "id": "commander-fmab-ep32",
+      "name": {
+        "original_lang": "ja",
+        "original": "隊長",
+        "latin": "Taicho",
+        "aliases": {
+          "en": [
+            "Commander"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 32
+      },
+      "nameless": true
+    },
+    {
+      "id": "face-a-fmab-ep26",
+      "name": {
+        "original_lang": "en",
+        "original": "Face A",
+        "latin": "Face A"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 26
+      },
+      "nameless": true
+    },
+    {
+      "id": "guard-soldier-a-fmab-ep17",
+      "name": {
+        "original_lang": "ja",
+        "original": "警備兵A",
+        "latin": "Keibihei A",
+        "aliases": {
+          "en": [
+            "Guard Soldier A"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 17
+      },
+      "nameless": true
+    },
+    {
+      "id": "sergeant-fmab-ep56",
+      "name": {
+        "original_lang": "en",
+        "original": "Sergeant",
+        "latin": "Sergeant"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 56
+      },
+      "nameless": true
+    },
+    {
+      "id": "slum-dweller-fmab-ep53",
+      "name": {
+        "original_lang": "ja",
+        "original": "スラム住民",
+        "latin": "Suramu Jumin",
+        "aliases": {
+          "en": [
+            "Slum Dweller"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 53
+      },
+      "nameless": true
+    },
+    {
+      "id": "engineer-fmab-ep33",
+      "name": {
+        "original_lang": "ja",
+        "original": "機関士B",
+        "latin": "Kikanshi B",
+        "aliases": {
+          "en": [
+            "Engineer"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 33
+      },
+      "nameless": true
+    },
+    {
+      "id": "second-officer-fmab-ep40",
+      "name": {
+        "original_lang": "ja",
+        "original": "副官",
+        "latin": "Fukukan",
+        "aliases": {
+          "en": [
+            "Second Officer"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 40
+      },
+      "nameless": true
+    },
+    {
+      "id": "radio-voice-fmab-ep23",
+      "name": {
+        "original_lang": "ja",
+        "original": "無線の声",
+        "latin": "Musen no Koe",
+        "aliases": {
+          "en": [
+            "Radio Voice"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 23
+      },
+      "nameless": true
+    },
+    {
+      "id": "subordinate-fmab-ep10",
+      "name": {
+        "original_lang": "ja",
+        "original": "部下",
+        "latin": "Buka",
+        "aliases": {
+          "en": [
+            "Subordinate"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 10
+      },
+      "nameless": true
+    },
+    {
+      "id": "military-policeman-a-fmab-ep1",
+      "name": {
+        "original_lang": "ja",
+        "original": "憲兵A",
+        "latin": "Kenpei A",
+        "aliases": {
+          "en": [
+            "Military Policeman A"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 1
+      },
+      "nameless": true
+    },
+    {
+      "id": "order-member-a-fmab-ep3",
+      "name": {
+        "original_lang": "ja",
+        "original": "教団員A",
+        "latin": "Kyodan-in A",
+        "aliases": {
+          "en": [
+            "Order Member A"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 3
+      },
+      "nameless": true
+    },
+    {
+      "id": "soldier-fmab-ep35",
+      "name": {
+        "original_lang": "ja",
+        "original": "兵士",
+        "latin": "Heishi",
+        "aliases": {
+          "en": [
+            "Soldier"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 35
+      },
+      "nameless": true
+    },
+    {
+      "id": "soldier-a-fmab-ep38",
+      "name": {
+        "original_lang": "ja",
+        "original": "兵士A",
+        "latin": "Heishi A",
+        "aliases": {
+          "en": [
+            "Soldier A"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 38
+      },
+      "nameless": true
+    },
+    {
+      "id": "lady-fmab-ep47",
+      "name": {
+        "original_lang": "ja",
+        "original": "おばさん",
+        "latin": "Obasan",
+        "aliases": {
+          "en": [
+            "Lady"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 47
+      },
+      "nameless": true
+    },
+    {
+      "id": "villager-c-fmab-ep6",
+      "name": {
+        "original_lang": "ja",
+        "original": "村人C",
+        "latin": "Murabito C",
+        "aliases": {
+          "en": [
+            "Villager C"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 6
+      },
+      "nameless": true
+    },
+    {
+      "id": "station-attendant-fmab-ep32",
+      "name": {
+        "original_lang": "ja",
+        "original": "駅員",
+        "latin": "Ekiin",
+        "aliases": {
+          "en": [
+            "Station Attendant"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 32
+      },
+      "nameless": true
+    },
+    {
+      "id": "man-b-fmab-ep12",
+      "name": {
+        "original_lang": "ja",
+        "original": "男B",
+        "latin": "Otoko B",
+        "aliases": {
+          "en": [
+            "Man B"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 12
+      },
+      "nameless": true
+    },
+    {
+      "id": "prison-guard-b-fmab-ep8",
+      "name": {
+        "original_lang": "ja",
+        "original": "看守B",
+        "latin": "Kanshu B",
+        "aliases": {
+          "en": [
+            "Prison Guard B"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 8
+      },
+      "nameless": true
+    },
+    {
+      "id": "briggs-soldier-fmab-ep36",
+      "name": {
+        "original_lang": "ja",
+        "original": "ブリッグズ兵B",
+        "latin": "Burigguzu-hei B",
+        "aliases": {
+          "en": [
+            "Briggs Soldier"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 36
+      },
+      "nameless": true
+    },
+    {
+      "id": "engineer-b-fmab-ep11",
+      "name": {
+        "original_lang": "ja",
+        "original": "技師B",
+        "latin": "Gishi B",
+        "aliases": {
+          "en": [
+            "Engineer B"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 11
+      },
+      "nameless": true
+    },
+    {
+      "id": "military-policeman-fmab-ep7",
+      "name": {
+        "original_lang": "ja",
+        "original": "憲兵",
+        "latin": "Kenpei",
+        "aliases": {
+          "en": [
+            "Military Policeman"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 7
+      },
+      "nameless": true
+    },
+    {
+      "id": "soldier-b-fmab-ep41",
+      "name": {
+        "original_lang": "ja",
+        "original": "兵士B",
+        "latin": "Heishi B",
+        "aliases": {
+          "en": [
+            "Soldier B"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 41
+      },
+      "nameless": true
+    },
+    {
+      "id": "man-c-fmab-ep12",
+      "name": {
+        "original_lang": "ja",
+        "original": "男C",
+        "latin": "Otoko C",
+        "aliases": {
+          "en": [
+            "Man C"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 12
+      },
+      "nameless": true
+    },
+    {
+      "id": "military-policeman-d-fmab-ep1",
+      "name": {
+        "original_lang": "ja",
+        "original": "憲兵D",
+        "latin": "Kenpei D",
+        "aliases": {
+          "en": [
+            "Military Policeman D"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 1
+      },
+      "nameless": true
+    },
+    {
+      "id": "order-member-c-fmab-ep3",
+      "name": {
+        "original_lang": "ja",
+        "original": "教団員C",
+        "latin": "Kyodan-in C",
+        "aliases": {
+          "en": [
+            "Order Member C"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 3
+      },
+      "nameless": true
+    },
+    {
+      "id": "proctor-fmab-ep2",
+      "name": {
+        "original_lang": "en",
+        "original": "Proctor",
+        "latin": "Proctor"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 2
+      },
+      "nameless": true
+    },
+    {
+      "id": "soldier-fmab-ep7",
+      "name": {
+        "original_lang": "ja",
+        "original": "兵士",
+        "latin": "Heishi",
+        "aliases": {
+          "en": [
+            "Soldier"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 7
+      },
+      "nameless": true
+    },
+    {
+      "id": "villager-b-fmab-ep6",
+      "name": {
+        "original_lang": "ja",
+        "original": "村人B",
+        "latin": "Murabito B",
+        "aliases": {
+          "en": [
+            "Villager B"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 6
+      },
+      "nameless": true
+    },
+    {
+      "id": "briggs-soldier-fmab-ep37",
+      "name": {
+        "original_lang": "en",
+        "original": "Briggs Soldier",
+        "latin": "Briggs Soldier"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 37
+      },
+      "nameless": true
+    },
+    {
+      "id": "citizen-fmab-ep51",
+      "name": {
+        "original_lang": "ja",
+        "original": "市民",
+        "latin": "Shimin",
+        "aliases": {
+          "en": [
+            "Citizen"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 51
+      },
+      "nameless": true
+    },
+    {
+      "id": "ishvalan-fmab-ep43",
+      "name": {
+        "original_lang": "ja",
+        "original": "イシュヴァール人",
+        "latin": "Ishuvaru-jin",
+        "aliases": {
+          "en": [
+            "Ishvalan"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 43
+      },
+      "nameless": true
+    },
+    {
+      "id": "worker-fmab-ep34",
+      "name": {
+        "original_lang": "ja",
+        "original": "作業員",
+        "latin": "Sagyoin",
+        "aliases": {
+          "en": [
+            "Worker"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 34
+      },
+      "nameless": true
+    },
+    {
+      "id": "receptionist-fmab-ep44",
+      "name": {
+        "original_lang": "ja",
+        "original": "窓口嬢",
+        "latin": "Madoguchijo",
+        "aliases": {
+          "en": [
+            "Receptionist"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 44
+      },
+      "nameless": true
+    },
+    {
+      "id": "housewife-fmab-ep29",
+      "name": {
+        "original_lang": "en",
+        "original": "Housewife",
+        "latin": "Housewife"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 29
+      },
+      "nameless": true
+    },
+    {
+      "id": "executive-fmab-ep25",
+      "name": {
+        "original_lang": "en",
+        "original": "Executive",
+        "latin": "Executive"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 25
+      },
+      "nameless": true
+    },
+    {
+      "id": "high-official-fmab",
+      "name": {
+        "original_lang": "ja",
+        "original": "高官",
+        "latin": "Kokan",
+        "aliases": {
+          "en": [
+            "High Official"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "nameless": true
+    },
+    {
+      "id": "the-employee-fmab",
+      "name": {
+        "original_lang": "ja",
+        "original": "工員",
+        "latin": "Koin",
+        "aliases": {
+          "en": [
+            "The Employee"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      },
+      "nameless": true
+    },
+    {
+      "id": "worker-fmab-ep26",
+      "name": {
+        "original_lang": "en",
+        "original": "Worker",
+        "latin": "Worker"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 26
+      },
+      "nameless": true
+    },
+    {
+      "id": "soldier-fmab-ep33",
+      "name": {
+        "original_lang": "ja",
+        "original": "兵士",
+        "latin": "Heishi",
+        "aliases": {
+          "en": [
+            "Soldier"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 33
+      },
+      "nameless": true
+    },
+    {
+      "id": "boy-a-fmab-ep9",
+      "name": {
+        "original_lang": "ja",
+        "original": "男の子A",
+        "latin": "Otoko no Ko A",
+        "aliases": {
+          "en": [
+            "Boy A"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 9
+      },
+      "nameless": true
+    },
+    {
+      "id": "engineer-a-fmab-ep11",
+      "name": {
+        "original_lang": "ja",
+        "original": "技師A",
+        "latin": "Gishi A",
+        "aliases": {
+          "en": [
+            "Engineer A"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 11
+      },
+      "nameless": true
+    },
+    {
+      "id": "soldier-fmab-ep45",
+      "name": {
+        "original_lang": "ja",
+        "original": "軍人",
+        "latin": "Gunjin",
+        "aliases": {
+          "en": [
+            "Soldier"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 45
+      },
+      "nameless": true
+    },
+    {
+      "id": "trader-a-fmab-ep56",
+      "name": {
+        "original_lang": "ja",
+        "original": "商人A",
+        "latin": "Shonin A",
+        "aliases": {
+          "en": [
+            "Trader A"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 56
+      },
+      "nameless": true
+    },
+    {
+      "id": "employee-fmab-ep55",
+      "name": {
+        "original_lang": "ja",
+        "original": "女性職員B",
+        "latin": "Josei Shokuin B",
+        "aliases": {
+          "en": [
+            "Employee"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 55
+      },
+      "nameless": true
+    },
+    {
+      "id": "older-man-fmab-ep3",
+      "name": {
+        "original_lang": "en",
+        "original": "Older Man",
+        "latin": "Older Man"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 3
+      },
+      "nameless": true
+    },
+    {
+      "id": "store-owner-fmab-ep42",
+      "name": {
+        "original_lang": "en",
+        "original": "Store Owner",
+        "latin": "Store Owner"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 42
+      },
+      "nameless": true
+    },
+    {
+      "id": "cadreman-fmab-ep33",
+      "name": {
+        "original_lang": "ja",
+        "original": "幹部A",
+        "latin": "Kanbu A",
+        "aliases": {
+          "en": [
+            "Cadreman"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 33
+      },
+      "nameless": true
+    },
+    {
+      "id": "military-policeman-c-fmab-ep23",
+      "name": {
+        "original_lang": "ja",
+        "original": "憲兵C",
+        "latin": "Kenpei C",
+        "aliases": {
+          "en": [
+            "Military policeman C"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 23
+      },
+      "nameless": true
+    },
+    {
+      "id": "briggs-soldier-fmab-ep62",
+      "name": {
+        "original_lang": "ja",
+        "original": "ブリッグズ兵",
+        "latin": "Buriggusu-hei",
+        "aliases": {
+          "en": [
+            "Briggs Soldier"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 62
+      },
+      "nameless": true
+    },
+    {
+      "id": "commander-of-the-main-gate-fmab-ep53",
+      "name": {
+        "original_lang": "ja",
+        "original": "正門隊長",
+        "latin": "Seimon Taicho",
+        "aliases": {
+          "en": [
+            "Commander of the Main Gate"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 53
+      },
+      "nameless": true
+    },
+    {
+      "id": "briggs-soldier-a-fmab-ep58",
+      "name": {
+        "original_lang": "ja",
+        "original": "ブリッグズ兵A",
+        "latin": "Buriggusu-hei A",
+        "aliases": {
+          "en": [
+            "Briggs Soldier A"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 58
+      },
+      "nameless": true
+    },
+    {
+      "id": "ishvalian-a-fmab-ep61",
+      "name": {
+        "original_lang": "ja",
+        "original": "イシュヴァール人A",
+        "latin": "Ishuvaru-jin A",
+        "aliases": {
+          "en": [
+            "Ishvalian A"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 61
+      },
+      "nameless": true
+    },
+    {
+      "id": "ishvalian-b-fmab-ep60",
+      "name": {
+        "original_lang": "ja",
+        "original": "イシュヴァール人B",
+        "latin": "Ishuvaru-jin B",
+        "aliases": {
+          "en": [
+            "Ishvalian B"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 60
+      },
+      "nameless": true
+    },
+    {
+      "id": "tank-officer-fmab-ep35",
+      "name": {
+        "original_lang": "ja",
+        "original": "戦車兵",
+        "latin": "Senshahei",
+        "aliases": {
+          "en": [
+            "Tank Officer"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 35
+      },
+      "nameless": true
+    },
+    {
+      "id": "trader-b-fmab-ep56",
+      "name": {
+        "original_lang": "ja",
+        "original": "商人B",
+        "latin": "Shonin B",
+        "aliases": {
+          "en": [
+            "Trader B"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 56
+      },
+      "nameless": true
+    },
+    {
+      "id": "central-soldier-fmab-ep50",
+      "name": {
+        "original_lang": "ja",
+        "original": "中央軍兵士",
+        "latin": "Chuogun Heishi",
+        "aliases": {
+          "en": [
+            "Central Soldier"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 50
+      },
+      "nameless": true
+    },
+    {
+      "id": "ishvalan-fmab-ep53",
+      "name": {
+        "original_lang": "ja",
+        "original": "イシュヴァール人",
+        "latin": "Ishuvaru-jin",
+        "aliases": {
+          "en": [
+            "Ishvalan"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 53
+      },
+      "nameless": true
+    },
+    {
+      "id": "owner-fmab-ep40",
+      "name": {
+        "original_lang": "ja",
+        "original": "主人",
+        "latin": "Shujin",
+        "aliases": {
+          "en": [
+            "Owner"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 40
+      },
+      "nameless": true
+    },
+    {
+      "id": "engineer-fmab-ep33-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "機関士A",
+        "latin": "Kikanshi A",
+        "aliases": {
+          "en": [
+            "Engineer"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 33
+      },
+      "nameless": true
+    },
+    {
+      "id": "a-guard-soldier-fmab-ep19",
+      "name": {
+        "original_lang": "ja",
+        "original": "警備兵",
+        "latin": "Keibihei",
+        "aliases": {
+          "en": [
+            "A Guard Soldier"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 19
+      },
+      "nameless": true
+    },
+    {
+      "id": "ishvalian-a-fmab-ep60",
+      "name": {
+        "original_lang": "ja",
+        "original": "イシュヴァール人A",
+        "latin": "Ishuvaru-jin A",
+        "aliases": {
+          "en": [
+            "Ishvalian A"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 60
+      },
+      "nameless": true
+    },
+    {
+      "id": "executive-b-fmab-ep33",
+      "name": {
+        "original_lang": "ja",
+        "original": "幹部B",
+        "latin": "Kanbu B",
+        "aliases": {
+          "en": [
+            "Executive B"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 33
+      },
+      "nameless": true
+    },
+    {
+      "id": "master-of-ceremonies-fmab-ep53",
+      "name": {
+        "original_lang": "ja",
+        "original": "キャスター",
+        "latin": "Kyasuta",
+        "aliases": {
+          "en": [
+            "Master of Ceremonies"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 53
+      },
+      "nameless": true
+    },
+    {
+      "id": "military-policeman-c-fmab-ep1",
+      "name": {
+        "original_lang": "ja",
+        "original": "憲兵C",
+        "latin": "Kenpei C",
+        "aliases": {
+          "en": [
+            "Military Policeman C"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 1
+      },
+      "nameless": true
+    },
+    {
+      "id": "officer-fmab-ep36",
+      "name": {
+        "original_lang": "ja",
+        "original": "士官",
+        "latin": "Shikan",
+        "aliases": {
+          "en": [
+            "Officer"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 36
+      },
+      "nameless": true
+    },
+    {
+      "id": "station-attendant-fmab-ep64",
+      "name": {
+        "original_lang": "ja",
+        "original": "駅員",
+        "latin": "Ekiin",
+        "aliases": {
+          "en": [
+            "Station Attendant"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 64
+      },
+      "nameless": true
+    },
+    {
+      "id": "girl-fmab-ep27",
+      "name": {
+        "original_lang": "ja",
+        "original": "少女",
+        "latin": "Shojo",
+        "aliases": {
+          "en": [
+            "Girl"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 27
+      },
+      "nameless": true
+    },
+    {
+      "id": "woman-fmab-ep37",
+      "name": {
+        "original_lang": "ja",
+        "original": "女",
+        "latin": "Onna",
+        "aliases": {
+          "en": [
+            "Woman"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 37
+      },
+      "nameless": true
+    },
+    {
+      "id": "commander-fmab-ep42",
+      "name": {
+        "original_lang": "ja",
+        "original": "司令官",
+        "latin": "Shireikan",
+        "aliases": {
+          "en": [
+            "Commander"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 42
+      },
+      "nameless": true
+    },
+    {
+      "id": "leader-fmab-ep18",
+      "name": {
+        "original_lang": "ja",
+        "original": "リーダー",
+        "latin": "Ridā",
+        "aliases": {
+          "en": [
+            "Leader"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 18
+      },
+      "nameless": true
+    },
+    {
+      "id": "front-desk-clerk-fmab-ep8",
+      "name": {
+        "original_lang": "ja",
+        "original": "受付嬢",
+        "latin": "Uketsukejo",
+        "aliases": {
+          "en": [
+            "Front Desk Clerk"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 8
+      },
+      "nameless": true
+    },
+    {
+      "id": "briggs-soldier-fmab-ep36-2",
+      "name": {
+        "original_lang": "en",
+        "original": "Briggs Soldier",
+        "latin": "Briggs Soldier"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 36
+      },
+      "nameless": true
+    },
+    {
+      "id": "briggs-soldier-b-fmab-ep58",
+      "name": {
+        "original_lang": "en",
+        "original": "Briggs Soldier B",
+        "latin": "Briggs Soldier B"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 58
+      },
+      "nameless": true
+    },
+    {
+      "id": "central-soldier-fmab-ep52",
+      "name": {
+        "original_lang": "ja",
+        "original": "中央軍兵士",
+        "latin": "Chuogun Heishi",
+        "aliases": {
+          "en": [
+            "Central Soldier"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 52
+      },
+      "nameless": true
+    },
+    {
+      "id": "farmer-fmab-ep47",
+      "name": {
+        "original_lang": "en",
+        "original": "Farmer",
+        "latin": "Farmer"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 47
+      },
+      "nameless": true
+    },
+    {
+      "id": "ishvalian-b-fmab-ep61",
+      "name": {
+        "original_lang": "en",
+        "original": "Ishvalian B",
+        "latin": "Ishvalian B"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 61
+      },
+      "nameless": true
+    },
+    {
+      "id": "man-fmab-ep45",
+      "name": {
+        "original_lang": "en",
+        "original": "Man",
+        "latin": "Man"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 45
+      },
+      "nameless": true
+    },
+    {
+      "id": "military-b-fmab-ep14",
+      "name": {
+        "original_lang": "en",
+        "original": "Military B",
+        "latin": "Military B"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 14
+      },
+      "nameless": true
+    },
+    {
+      "id": "military-personnel-fmab-ep16",
+      "name": {
+        "original_lang": "en",
+        "original": "Military Personnel",
+        "latin": "Military Personnel"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 16
+      },
+      "nameless": true
+    },
+    {
+      "id": "military-policeman-fmab-ep29",
+      "name": {
+        "original_lang": "en",
+        "original": "Military Policeman",
+        "latin": "Military Policeman"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 29
+      },
+      "nameless": true
+    },
+    {
+      "id": "military-policeman-b-fmab-ep22",
+      "name": {
+        "original_lang": "en",
+        "original": "Military Policeman B",
+        "latin": "Military Policeman B"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 22
+      },
+      "nameless": true
+    },
+    {
+      "id": "military-policeman-e-fmab-ep1",
+      "name": {
+        "original_lang": "en",
+        "original": "Military Policeman E",
+        "latin": "Military Policeman E"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 1
+      },
+      "nameless": true
+    },
+    {
+      "id": "officer-fmab-ep2",
+      "name": {
+        "original_lang": "en",
+        "original": "Officer",
+        "latin": "Officer"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 2
+      },
+      "nameless": true
+    },
+    {
+      "id": "order-member-d-fmab-ep3",
+      "name": {
+        "original_lang": "en",
+        "original": "Order Member D",
+        "latin": "Order Member D"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 3
+      },
+      "nameless": true
+    },
+    {
+      "id": "pilot-fmab-ep56",
+      "name": {
+        "original_lang": "en",
+        "original": "Pilot",
+        "latin": "Pilot"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 56
+      },
+      "nameless": true
+    },
+    {
+      "id": "post-officer-fmab-ep30",
+      "name": {
+        "original_lang": "en",
+        "original": "Post Officer",
+        "latin": "Post Officer"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 30
+      },
+      "nameless": true
+    },
+    {
+      "id": "researcher-fmab-ep51",
+      "name": {
+        "original_lang": "ja",
+        "original": "研究員",
+        "latin": "Kenkyuin",
+        "aliases": {
+          "en": [
+            "Researcher"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 51
+      },
+      "nameless": true
+    },
+    {
+      "id": "soldier-a-fmab-ep41",
+      "name": {
+        "original_lang": "en",
+        "original": "Soldier A",
+        "latin": "Soldier A"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 41
+      },
+      "nameless": true
+    },
+    {
+      "id": "soldier-b-fmab-ep38",
+      "name": {
+        "original_lang": "en",
+        "original": "Soldier B",
+        "latin": "Soldier B"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 38
+      },
+      "nameless": true
+    },
+    {
+      "id": "villager-fmab-ep5",
+      "name": {
+        "original_lang": "en",
+        "original": "Villager",
+        "latin": "Villager"
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 5
+      },
+      "nameless": true
+    },
+    {
+      "id": "woman-fmab-ep45",
+      "name": {
+        "original_lang": "ja",
+        "original": "女",
+        "latin": "Onna",
+        "aliases": {
+          "en": [
+            "Woman"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 45
+      },
+      "nameless": true
+    },
+    {
+      "id": "bozu",
+      "name": {
+        "original_lang": "ja",
+        "original": "ボーズ",
+        "latin": "Bozu",
+        "aliases": {
+          "en": [
+            "Bose"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood"
+      }
+    },
+    {
+      "id": "puripi",
+      "name": {
+        "original_lang": "ja",
+        "original": "プリピィ",
+        "latin": "Puripi",
+        "aliases": {
+          "en": [
+            "Buribi"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 55
+      }
+    },
+    {
+      "id": "furia",
+      "name": {
+        "original_lang": "ja",
+        "original": "フリア",
+        "latin": "Furia",
+        "aliases": {
+          "en": [
+            "Briah"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "fullmetal-alchemist-brotherhood",
+        "episode": 55
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.hagaren.jp/fa/characters/index01.html",
+      "title": "鋼の錬金術師 FULLMETAL ALCHEMIST　公式ホームページ",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB%E3%81%AE%E4%B8%BB%E8%A6%81%E3%81%AA%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9",
+      "title": "鋼の錬金術師の主要な登場人物 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%A7",
+      "title": "鋼の錬金術師の登場人物一覧 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s4",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10216",
+      "title": "Fullmetal Alchemist: Brotherhood (TV) - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s5",
+      "url": "https://namu.wiki/w/%EA%B0%95%EC%B2%A0%EC%9D%98%20%EC%97%B0%EA%B8%88%EC%88%A0%EC%82%AC/%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC",
+      "title": "강철의 연금술사/등장인물 - 나무위키",
+      "publisher": "namuwiki",
+      "tier": 3,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s6",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%B2%A0%EC%9D%98_%EC%97%B0%EA%B8%88%EC%88%A0%EC%82%AC_BROTHERHOOD",
+      "title": "강철의 연금술사 BROTHERHOOD - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "notes": "Nameless roles with no Japanese source use the ANN English credit text as name (original_lang en) and their credits are unverified: doctor-fmab-ep11, face-b-fmab-ep26, fellow-countryman-fmab-ep22, man-a-fmab-ep12, military-a-fmab-ep14, military-policeman-b-fmab-ep1, order-member-b-fmab-ep3, prison-guard-a-fmab-ep8, subordinate-fmab-ep2, villager-a-fmab-ep6, doctor-fmab-ep35, photographer-fmab-ep36, branch-manager-fmab-ep44, face-a-fmab-ep26, sergeant-fmab-ep56, proctor-fmab-ep2, briggs-soldier-fmab-ep37, housewife-fmab-ep29, executive-fmab-ep25, worker-fmab-ep26, older-man-fmab-ep3, store-owner-fmab-ep42, briggs-soldier-fmab-ep36-2, briggs-soldier-b-fmab-ep58, farmer-fmab-ep47, ishvalian-b-fmab-ep61, man-fmab-ep45, military-b-fmab-ep14, military-personnel-fmab-ep16, military-policeman-fmab-ep29, military-policeman-b-fmab-ep22, military-policeman-e-fmab-ep1, officer-fmab-ep2, order-member-d-fmab-ep3, pilot-fmab-ep56, post-officer-fmab-ep30, soldier-a-fmab-ep41, soldier-b-fmab-ep38, villager-fmab-ep5. Japanese labels for other nameless roles come from ja.wikipedia voice-actor pages (cited on each credit). official.ko is based on the ko.wikipedia BROTHERHOOD article and ko.wikipedia voice-actor pages; namuwiki-only spellings are in aliases.ko.",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

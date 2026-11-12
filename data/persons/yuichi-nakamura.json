@@ -4,14 +4,24 @@
   "name": {
     "original_lang": "ja",
     "original": "中村悠一",
-    "latin": "Yuichi Nakamura"
+    "latin": "Yuichi Nakamura",
+    "aliases": {
+      "ko": [
+        "나카무라 유이치"
+      ],
+      "en": [
+        "Nakamura Yuichi"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [
     "JP"
   ],
   "wikipedia": {
-    "ja": "https://ja.wikipedia.org/wiki/中村悠一"
+    "ja": "https://ja.wikipedia.org/wiki/中村悠一",
+    "en": "https://en.wikipedia.org/wiki/Yuichi_Nakamura",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%82%98%EC%B9%B4%EB%AC%B4%EB%9D%BC_%EC%9C%A0%EC%9D%B4%EC%B9%98_(%EC%84%B1%EC%9A%B0)"
   },
   "birth": "1980-02-20",
   "sources": [
@@ -27,6 +37,14 @@
       "id": "s2",
       "url": "https://ja.wikipedia.org/wiki/中村悠一",
       "title": "中村悠一",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E6%82%A0%E4%B8%80",
+      "title": "中村悠一 - Wikipedia",
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-13"

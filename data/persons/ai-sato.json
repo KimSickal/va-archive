@@ -1,0 +1,49 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ai-sato",
+  "name": {
+    "original_lang": "ja",
+    "original": "さとうあい",
+    "latin": "Ai Sato",
+    "aliases": {
+      "en": [
+        "Sato Ai"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1955",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%A8%E3%81%86%E3%81%82%E3%81%84",
+    "en": "https://en.wikipedia.org/wiki/Ai_Sat%C5%8D"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=11051",
+      "title": "Ai SATŌ (seiyū) - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%A8%E3%81%86%E3%81%82%E3%81%84",
+      "title": "さとうあい - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

@@ -4,14 +4,20 @@
   "name": {
     "original_lang": "ja",
     "original": "金野潤",
-    "latin": "Jun Konno"
+    "latin": "Jun Konno",
+    "aliases": {
+      "en": [
+        "Konno Jun"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [
     "JP"
   ],
   "wikipedia": {
-    "ja": "https://ja.wikipedia.org/wiki/金野潤_(声優)"
+    "ja": "https://ja.wikipedia.org/wiki/金野潤_(声優)",
+    "en": "https://en.wikipedia.org/wiki/Jun_Konno_(voice_actor)"
   },
   "birth": "1975-10-18",
   "sources": [
@@ -27,6 +33,14 @@
       "id": "s2",
       "url": "https://ja.wikipedia.org/wiki/金野潤_(声優)",
       "title": "金野潤 (声優)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%91%E9%87%8E%E6%BD%A4_(%E5%A3%B0%E5%84%AA)",
+      "title": "金野潤 (声優) - Wikipedia",
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-13"

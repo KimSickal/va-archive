@@ -4,14 +4,24 @@
   "name": {
     "original_lang": "ja",
     "original": "白鳥哲",
-    "latin": "Tetsu Shiratori"
+    "latin": "Tetsu Shiratori",
+    "aliases": {
+      "ko": [
+        "시라토리 테츠"
+      ],
+      "en": [
+        "Shiratori Tetsu"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [
     "JP"
   ],
   "wikipedia": {
-    "ja": "https://ja.wikipedia.org/wiki/白鳥哲"
+    "ja": "https://ja.wikipedia.org/wiki/白鳥哲",
+    "en": "https://en.wikipedia.org/wiki/Tetsu_Shiratori",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%8B%9C%EB%9D%BC%ED%86%A0%EB%A6%AC_%ED%85%8C%EC%B8%A0"
   },
   "birth": "1972-03-21",
   "sources": [
@@ -27,6 +37,14 @@
       "id": "s2",
       "url": "https://ja.wikipedia.org/wiki/白鳥哲",
       "title": "白鳥哲",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E9%B3%A5%E5%93%B2",
+      "title": "白鳥哲 - Wikipedia",
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-13"

@@ -21,6 +21,14 @@
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=96185",
+      "title": "Yeong-Jun SI - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
     }
   ],
   "meta": {
@@ -30,5 +38,6 @@
       "verified_at": "2026-11-13"
     },
     "skill_version": "0.1.0"
-  }
+  },
+  "gender": "male"
 }

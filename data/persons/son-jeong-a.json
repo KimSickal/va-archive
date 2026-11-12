@@ -1,0 +1,47 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "son-jeong-a",
+  "name": {
+    "original_lang": "ko",
+    "original": "손정아",
+    "latin": "Son Jeong-a",
+    "aliases": {
+      "ja": [
+        "ソン・ジョンア"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "KR"
+  ],
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EC%86%90%EC%A0%95%EC%95%84"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=96411",
+      "title": "Jeon-A SON - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ko.wikipedia.org/wiki/%EC%86%90%EC%A0%95%EC%95%84",
+      "title": "손정아 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "katsunosuke-hori",
+  "name": {
+    "original_lang": "ja",
+    "original": "堀勝之祐",
+    "latin": "Katsunosuke Hori",
+    "aliases": {
+      "en": [
+        "Hori Katsunosuke"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1941",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%A0%80%E5%8B%9D%E4%B9%8B%E7%A5%90",
+    "en": "https://en.wikipedia.org/wiki/Katsunosuke_Hori"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=6599",
+      "title": "Katsunosuke HORI - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A0%80%E5%8B%9D%E4%B9%8B%E7%A5%90",
+      "title": "堀勝之祐 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

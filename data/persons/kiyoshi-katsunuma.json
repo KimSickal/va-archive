@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "勝沼紀義",
-    "latin": "Kiyoshi Katsunuma"
+    "latin": "Kiyoshi Katsunuma",
+    "aliases": {
+      "en": [
+        "Katsunuma Kiyoshi"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [
@@ -27,6 +32,14 @@
       "id": "s2",
       "url": "https://ja.wikipedia.org/wiki/勝沼紀義",
       "title": "勝沼紀義",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8B%9D%E6%B2%BC%E7%B4%80%E7%BE%A9",
+      "title": "勝沼紀義 - Wikipedia",
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-13"

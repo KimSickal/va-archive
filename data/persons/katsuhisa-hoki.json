@@ -1,0 +1,53 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "katsuhisa-hoki",
+  "name": {
+    "original_lang": "ja",
+    "original": "宝亀克寿",
+    "latin": "Katsuhisa Hoki",
+    "aliases": {
+      "ko": [
+        "호키 가쓰히사"
+      ],
+      "en": [
+        "Hoki Katsuhisa"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1946",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%AE%9D%E4%BA%80%E5%85%8B%E5%AF%BF",
+    "en": "https://en.wikipedia.org/wiki/Katsuhisa_H%C5%8Dki",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%98%B8%ED%82%A4_%EA%B0%80%EC%93%B0%ED%9E%88%EC%82%AC"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=10862",
+      "title": "Katsuhisa HŌKI - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%9D%E4%BA%80%E5%85%8B%E5%AF%BF",
+      "title": "宝亀克寿 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

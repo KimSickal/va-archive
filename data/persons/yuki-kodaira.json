@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "小平有希",
-    "latin": "Yuki Kodaira"
+    "latin": "Yuki Kodaira",
+    "aliases": {
+      "en": [
+        "Kodaira Yuki"
+      ]
+    }
   },
   "gender": "female",
   "nationality": [
@@ -27,6 +32,14 @@
       "id": "s2",
       "url": "https://ja.wikipedia.org/wiki/小平有希",
       "title": "小平有希",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B9%B3%E6%9C%89%E5%B8%8C",
+      "title": "小平有希 - Wikipedia",
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-13"

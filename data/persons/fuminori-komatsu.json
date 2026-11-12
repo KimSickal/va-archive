@@ -4,14 +4,24 @@
   "name": {
     "original_lang": "ja",
     "original": "小松史法",
-    "latin": "Fuminori Komatsu"
+    "latin": "Fuminori Komatsu",
+    "aliases": {
+      "ko": [
+        "코마츠 후미노리"
+      ],
+      "en": [
+        "Komatsu Fuminori"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [
     "JP"
   ],
   "wikipedia": {
-    "ja": "https://ja.wikipedia.org/wiki/小松史法"
+    "ja": "https://ja.wikipedia.org/wiki/小松史法",
+    "en": "https://en.wikipedia.org/wiki/Fuminori_Komatsu",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%BD%94%EB%A7%88%EC%B8%A0_%ED%9B%84%EB%AF%B8%EB%85%B8%EB%A6%AC"
   },
   "birth": "1978-07-23",
   "sources": [
@@ -27,6 +37,14 @@
       "id": "s2",
       "url": "https://ja.wikipedia.org/wiki/小松史法",
       "title": "小松史法",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9D%BE%E5%8F%B2%E6%B3%95",
+      "title": "小松史法 - Wikipedia",
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-13"
