@@ -24,27 +24,20 @@
           "ko": "일본어 원판",
           "en": "Japanese original"
         },
-        "translated": [
-          "ko",
-          "en"
-        ]
+        "translated": ["ko", "en"]
       },
       "credits": [
         {
           "character": "rin",
           "person": "aoi-hoshino",
           "role": "main",
-          "source_refs": [
-            "s1"
-          ]
+          "source_refs": ["s1"]
         },
         {
           "character": "kai",
           "person": "taro-yamada",
           "role": "main",
-          "source_refs": [
-            "s1"
-          ]
+          "source_refs": ["s1"]
         }
       ]
     }

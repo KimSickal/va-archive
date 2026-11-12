@@ -6,15 +6,11 @@
     "original": "黒沢蓮",
     "latin": "Ren Kurosawa",
     "aliases": {
-      "ko": [
-        "쿠로사와 렌"
-      ]
+      "ko": ["쿠로사와 렌"]
     }
   },
   "gender": "male",
-  "nationality": [
-    "JP"
-  ],
+  "nationality": ["JP"],
   "sources": [
     {
       "id": "s1",

@@ -24,7 +24,10 @@ function CreditList({ list, showWork = false }: { list: ResolvedCredit[]; showWo
           <Spoiler active={c.credit.spoiler}>
             {showWork && (
               <>
-                <Link to={`/work/${c.work.id}`}>{displayName(c.work.title)}</Link>{' '}
+                <Link to={`/work/${c.work.id}`} className="muted">
+                  {displayName(c.work.title)}
+                </Link>
+                {' › '}
               </>
             )}
             <CharacterRef rc={c} /> <CreditMeta credit={c.credit} />

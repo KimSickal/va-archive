@@ -35,19 +35,14 @@
           "ko": "일본어 원판",
           "en": "Japanese original"
         },
-        "translated": [
-          "ko",
-          "en"
-        ]
+        "translated": ["ko", "en"]
       },
       "credits": [
         {
           "character": "rin",
           "person": "aoi-hoshino",
           "role": "main",
-          "source_refs": [
-            "s1"
-          ]
+          "source_refs": ["s1"]
         },
         {
           "character": "kai",
@@ -64,14 +59,9 @@
               "ko": "건강 문제로 하차",
               "en": "Stepped down due to health reasons"
             },
-            "translated": [
-              "ko",
-              "en"
-            ]
+            "translated": ["ko", "en"]
           },
-          "source_refs": [
-            "s1"
-          ]
+          "source_refs": ["s1"]
         },
         {
           "character": "kai",
@@ -81,25 +71,19 @@
           "episodes": {
             "from": 7
           },
-          "source_refs": [
-            "s1"
-          ]
+          "source_refs": ["s1"]
         },
         {
           "character": "masked-knight",
           "person": "ren-kurosawa",
           "role": "supporting",
-          "source_refs": [
-            "s1"
-          ]
+          "source_refs": ["s1"]
         },
         {
           "character": "villager-a-s1",
           "person": "mio-sakuraba",
           "role": "minor",
-          "source_refs": [
-            "s1"
-          ]
+          "source_refs": ["s1"]
         }
       ]
     },
@@ -114,10 +98,7 @@
           "ja": "韓国語吹替（투니버스）",
           "en": "Korean dub (투니버스)"
         },
-        "translated": [
-          "ja",
-          "en"
-        ]
+        "translated": ["ja", "en"]
       },
       "distributor": {
         "original_lang": "ko",
@@ -130,26 +111,20 @@
           "character": "rin",
           "person": "ji-woo-han",
           "role": "main",
-          "source_refs": [
-            "s1"
-          ]
+          "source_refs": ["s1"]
         },
         {
           "character": "kai",
           "person": "min-jun-seo",
           "role": "main",
-          "source_refs": [
-            "s1"
-          ]
+          "source_refs": ["s1"]
         },
         {
           "character": "masked-knight",
           "person": "min-jun-seo",
           "role": "supporting",
           "spoiler": true,
-          "source_refs": [
-            "s1"
-          ]
+          "source_refs": ["s1"]
         }
       ]
     }

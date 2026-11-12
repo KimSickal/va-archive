@@ -88,3 +88,13 @@ describe('staleness', () => {
     expect(staleness(db, 'star-knights-s1').kind).toBe('none');
   });
 });
+
+import { episodesLabel } from '../src/components/common.tsx';
+describe('episodesLabel', () => {
+  it('formats ranges', () => {
+    expect(episodesLabel({ from: 40, to: 40 })).toBe('40화');
+    expect(episodesLabel({ from: 1, to: 6 })).toBe('1–6화');
+    expect(episodesLabel({ from: 7 })).toBe('7화~');
+    expect(episodesLabel('36-38, 40')).toBe('36-38, 40화');
+  });
+});

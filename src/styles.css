@@ -613,3 +613,8 @@ thead th {
   font-weight: 400;
   font-size: 0.85rem;
 }
+h1 .name-sub {
+  display: block;
+  font-size: 0.55em;
+  line-height: 1.4;
+}

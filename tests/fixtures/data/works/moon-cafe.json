@@ -26,27 +26,20 @@
           "ko": "일본어 원판",
           "en": "Japanese original"
         },
-        "translated": [
-          "ko",
-          "en"
-        ]
+        "translated": ["ko", "en"]
       },
       "credits": [
         {
           "character": "yui",
           "person": "aoi-hoshino",
           "role": "main",
-          "source_refs": [
-            "s1"
-          ]
+          "source_refs": ["s1"]
         },
         {
           "character": "master",
           "person": "ren-kurosawa",
           "role": "supporting",
-          "source_refs": [
-            "s1"
-          ]
+          "source_refs": ["s1"]
         }
       ]
     },
@@ -61,19 +54,14 @@
           "ja": "韓国語吹替（라프텔）",
           "en": "Korean dub (라프텔)"
         },
-        "translated": [
-          "ja",
-          "en"
-        ]
+        "translated": ["ja", "en"]
       },
       "credits": [
         {
           "character": "yui",
           "person": "ji-woo-han",
           "role": "main",
-          "source_refs": [
-            "s1"
-          ]
+          "source_refs": ["s1"]
         }
       ]
     }

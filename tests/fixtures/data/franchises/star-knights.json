@@ -33,10 +33,7 @@
           "ko": "주인공 소녀 기사",
           "en": "The girl knight protagonist"
         },
-        "translated": [
-          "ko",
-          "en"
-        ]
+        "translated": ["ko", "en"]
       },
       "first_appearance": {
         "work": "star-knights-s1",

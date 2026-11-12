@@ -6,15 +6,11 @@
     "original": "星野葵",
     "latin": "Aoi Hoshino",
     "aliases": {
-      "ko": [
-        "호시노 아오이"
-      ]
+      "ko": ["호시노 아오이"]
     }
   },
   "gender": "female",
-  "nationality": [
-    "JP"
-  ],
+  "nationality": ["JP"],
   "sources": [
     {
       "id": "s1",
