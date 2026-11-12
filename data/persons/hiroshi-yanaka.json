@@ -1,0 +1,39 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "hiroshi-yanaka",
+  "name": {
+    "original_lang": "ja",
+    "original": "家中宏",
+    "latin": "Hiroshi Yanaka",
+    "aliases": {
+      "ko": [
+        "야나카 히로시"
+      ]
+    }
+  },
+  "gender": "male",
+  "birth": "1958-03-10",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%AE%B6%E4%B8%AD%E5%AE%8F",
+    "en": "https://en.wikipedia.org/wiki/Hiroshi_Yanaka",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%95%BC%EB%82%98%EC%B9%B4_%ED%9E%88%EB%A1%9C%EC%8B%9C"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%B6%E4%B8%AD%E5%AE%8F",
+      "title": "家中宏",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ji-mi-ae",
+  "name": {
+    "original_lang": "ko",
+    "original": "지미애",
+    "latin": "Ji Mi-ae"
+  },
+  "gender": "female",
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1962-02-25",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EC%A7%80%EB%AF%B8%EC%95%A0"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EC%A7%80%EB%AF%B8%EC%95%A0",
+      "title": "지미애",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

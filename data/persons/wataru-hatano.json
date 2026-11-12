@@ -1,0 +1,39 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "wataru-hatano",
+  "name": {
+    "original_lang": "ja",
+    "original": "羽多野渉",
+    "latin": "Wataru Hatano",
+    "aliases": {
+      "ko": [
+        "하타노 와타루"
+      ]
+    }
+  },
+  "gender": "male",
+  "birth": "1982-03-13",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%BE%BD%E5%A4%9A%E9%87%8E%E6%B8%89",
+    "en": "https://en.wikipedia.org/wiki/Wataru_Hatano",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%95%98%ED%83%80%EB%85%B8_%EC%99%80%ED%83%80%EB%A3%A8"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%BE%BD%E5%A4%9A%E9%87%8E%E6%B8%89",
+      "title": "羽多野渉",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

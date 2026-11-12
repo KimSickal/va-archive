@@ -1,0 +1,4775 @@
+{
+  "$schema": "../schema/franchise.schema.json",
+  "id": "hunter-x-hunter",
+  "title": {
+    "original_lang": "ja",
+    "original": "HUNTER×HUNTER",
+    "latin": "Hunter x Hunter",
+    "official": {
+      "ko": "헌터×헌터",
+      "en": "Hunter x Hunter"
+    },
+    "aliases": {
+      "ja": [
+        "ハンターハンター",
+        "ハンター×ハンター"
+      ],
+      "ko": [
+        "헌터 × 헌터",
+        "헌터X헌터"
+      ],
+      "en": [
+        "Hunter × Hunter",
+        "HxH"
+      ]
+    }
+  },
+  "original_media": "manga",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/HUNTER%C3%97HUNTER",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%97%8C%ED%84%B0_%C3%97_%ED%97%8C%ED%84%B0",
+    "en": "https://en.wikipedia.org/wiki/Hunter_%C3%97_Hunter"
+  },
+  "characters": [
+    {
+      "id": "gon-freecss",
+      "name": {
+        "original_lang": "ja",
+        "original": "ゴン＝フリークス",
+        "latin": "Gon Freecss",
+        "official": {
+          "ko": "곤 프릭스"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011",
+        "episode": 1
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/main_gon.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/gon.html",
+        "source_ref": "s5",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      },
+      "wikipedia": {
+        "ja": "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%B3%EF%BC%9D%E3%83%95%E3%83%AA%E3%83%BC%E3%82%AF%E3%82%B9",
+        "ko": "https://ko.wikipedia.org/wiki/%EA%B3%A4_%ED%94%84%EB%A6%AD%EC%8A%A4",
+        "en": "https://en.wikipedia.org/wiki/Gon_Freecss"
+      }
+    },
+    {
+      "id": "killua-zoldyck",
+      "name": {
+        "original_lang": "ja",
+        "original": "キルア＝ゾルディック",
+        "latin": "Killua Zoldyck",
+        "official": {
+          "ko": "키르아 조르딕"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011",
+        "episode": 3
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/main_kirua.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kirua.html",
+        "source_ref": "s6",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      },
+      "wikipedia": {
+        "ko": "https://ko.wikipedia.org/wiki/%ED%82%A4%EB%A5%B4%EC%95%84_%EC%A1%B0%EB%A5%B4%EB%94%95",
+        "en": "https://en.wikipedia.org/wiki/Killua_Zoldyck"
+      }
+    },
+    {
+      "id": "kurapika",
+      "name": {
+        "original_lang": "ja",
+        "original": "クラピカ",
+        "latin": "Kurapika",
+        "official": {
+          "ko": "크라피카"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011",
+        "episode": 1
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/main_kurapika.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kurapika.html",
+        "source_ref": "s7",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      },
+      "wikipedia": {
+        "ko": "https://ko.wikipedia.org/wiki/%ED%81%AC%EB%9D%BC%ED%94%BC%EC%B9%B4",
+        "en": "https://en.wikipedia.org/wiki/Kurapika"
+      }
+    },
+    {
+      "id": "leorio-paradinight",
+      "name": {
+        "original_lang": "ja",
+        "original": "レオリオ＝パラディナイト",
+        "latin": "Leorio Paradinight",
+        "official": {
+          "ko": "레오리오"
+        },
+        "aliases": {
+          "ja": [
+            "レオリオ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011",
+        "episode": 1
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/main_reorio.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/reorio.html",
+        "source_ref": "s8",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      },
+      "wikipedia": {
+        "ko": "https://ko.wikipedia.org/wiki/%EB%A0%88%EC%98%A4%EB%A6%AC%EC%98%A4_%ED%8C%8C%EB%9D%BC%EB%94%94%EB%82%98%EC%9D%B4%ED%8A%B8"
+      }
+    },
+    {
+      "id": "hisoka",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヒソカ",
+        "latin": "Hisoka",
+        "official": {
+          "ko": "히소카"
+        },
+        "aliases": {
+          "ja": [
+            "ヒソカ＝モロウ"
+          ],
+          "en": [
+            "Hisoka Morow"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011",
+        "episode": 3
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/main_hisoka.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/hisoka.html",
+        "source_ref": "s9",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "ging-freecss",
+      "name": {
+        "original_lang": "ja",
+        "original": "ジン＝フリークス",
+        "latin": "Ging Freecss",
+        "official": {
+          "ko": "진 프릭스"
+        },
+        "aliases": {
+          "ja": [
+            "ジン"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_jin.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_03.html",
+        "source_ref": "s10",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "kite",
+      "name": {
+        "original_lang": "ja",
+        "original": "カイト",
+        "latin": "Kite"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011",
+        "episode": 1
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/main_kaito.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kaito.html",
+        "source_ref": "s11",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "crazy-slots",
+      "name": {
+        "original_lang": "ja",
+        "original": "気狂いピエロ（クレイジースロット）",
+        "latin": "Crazy Slots"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "mito-freecss",
+      "name": {
+        "original_lang": "ja",
+        "original": "ミト",
+        "latin": "Mito",
+        "official": {
+          "ko": "미토"
+        },
+        "aliases": {
+          "en": [
+            "Mito Freecss"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011",
+        "episode": 1
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_mito.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "gons-great-grandmother-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "ゴンの曾祖母",
+        "latin": "Gon's great-grandmother"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true
+    },
+    {
+      "id": "hanzo",
+      "name": {
+        "original_lang": "ja",
+        "original": "ハンゾー",
+        "latin": "Hanzo",
+        "official": {
+          "ko": "한조"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_hanzo.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "pokkle",
+      "name": {
+        "original_lang": "ja",
+        "original": "ポックル",
+        "latin": "Pokkle",
+        "official": {
+          "ko": "포클"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_pockle.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "ponzu",
+      "name": {
+        "original_lang": "ja",
+        "original": "ポンズ",
+        "latin": "Ponzu",
+        "official": {
+          "ko": "폰즈"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_ponz.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "nicholas",
+      "name": {
+        "original_lang": "ja",
+        "original": "ニコル",
+        "latin": "Nicholas",
+        "official": {
+          "ko": "니콜"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_nichol.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "todo",
+      "name": {
+        "original_lang": "ja",
+        "original": "トードー",
+        "latin": "Todo",
+        "official": {
+          "ko": "토도"
+        },
+        "aliases": {
+          "ko": [
+            "토드"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_todo.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "tonpa",
+      "name": {
+        "original_lang": "ja",
+        "original": "トンパ",
+        "latin": "Tonpa",
+        "official": {
+          "ko": "통파"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011",
+        "episode": 3
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_tonpa.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "amori",
+      "name": {
+        "original_lang": "ja",
+        "original": "アモリ",
+        "latin": "Amori",
+        "official": {
+          "ko": "아모리"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_amori.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "umori",
+      "name": {
+        "original_lang": "ja",
+        "original": "ウモリ",
+        "latin": "Umori",
+        "official": {
+          "ko": "우모리"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_umori.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "imori",
+      "name": {
+        "original_lang": "ja",
+        "original": "イモリ",
+        "latin": "Imori",
+        "official": {
+          "ko": "이모리"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_imori.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "sommy",
+      "name": {
+        "original_lang": "ja",
+        "original": "ソミー",
+        "latin": "Sommy"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_somy.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "kyu",
+      "name": {
+        "original_lang": "ja",
+        "original": "キュウ",
+        "latin": "Kyu",
+        "official": {
+          "ko": "큐"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_kyu.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "bodoro",
+      "name": {
+        "original_lang": "ja",
+        "original": "ボドロ",
+        "latin": "Bodoro",
+        "official": {
+          "ko": "보도로"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_podoro.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "geretta",
+      "name": {
+        "original_lang": "ja",
+        "original": "ゲレタ",
+        "latin": "Geretta",
+        "official": {
+          "ko": "게레타"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_gereta.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "goz",
+      "name": {
+        "original_lang": "ja",
+        "original": "ゴズ",
+        "latin": "Goz",
+        "official": {
+          "ko": "고즈"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_goz.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "agon",
+      "name": {
+        "original_lang": "ja",
+        "original": "アゴン",
+        "latin": "Agon",
+        "official": {
+          "ko": "아곤"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_agon.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "cherry",
+      "name": {
+        "original_lang": "ja",
+        "original": "チェリー",
+        "latin": "Cherry"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_cherry.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "applicant-86-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "受験番号86番の男性",
+        "latin": "Applicant No. 86"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true
+    },
+    {
+      "id": "satotz",
+      "name": {
+        "original_lang": "ja",
+        "original": "サトツ",
+        "latin": "Satotz",
+        "official": {
+          "ko": "사토츠"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011",
+        "episode": 3
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_satotsu.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "menchi",
+      "name": {
+        "original_lang": "ja",
+        "original": "メンチ",
+        "latin": "Menchi",
+        "official": {
+          "ko": "멘치"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011",
+        "episode": 6
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_menchi.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "buhara",
+      "name": {
+        "original_lang": "ja",
+        "original": "ブハラ",
+        "latin": "Buhara",
+        "official": {
+          "ko": "브하라"
+        },
+        "aliases": {
+          "ko": [
+            "부하라"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_buhara.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "lippo",
+      "name": {
+        "original_lang": "ja",
+        "original": "リッポー",
+        "latin": "Lippo",
+        "official": {
+          "ko": "릿포"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_rippo.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "masta",
+      "name": {
+        "original_lang": "ja",
+        "original": "マスタ",
+        "latin": "Masta"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_masta.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "kara",
+      "name": {
+        "original_lang": "ja",
+        "original": "カラ",
+        "latin": "Kara"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_kara.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "bendot",
+      "name": {
+        "original_lang": "ja",
+        "original": "ベンドット",
+        "latin": "Bendot",
+        "official": {
+          "ko": "벤토드"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_bendotto.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "sedokan",
+      "name": {
+        "original_lang": "ja",
+        "original": "セドカン",
+        "latin": "Sedokan",
+        "official": {
+          "ko": "새드캉"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_sedokan.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "majitani",
+      "name": {
+        "original_lang": "ja",
+        "original": "マジタニ",
+        "latin": "Majitani",
+        "official": {
+          "ko": "마지타니"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_majitani.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "leroute",
+      "name": {
+        "original_lang": "ja",
+        "original": "レルート",
+        "latin": "Leroute",
+        "official": {
+          "ko": "레루트"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_reruto.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "johness",
+      "name": {
+        "original_lang": "ja",
+        "original": "ジョネス",
+        "latin": "Johness",
+        "official": {
+          "ko": "조네스"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_jones.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "togari",
+      "name": {
+        "original_lang": "ja",
+        "original": "トガリ",
+        "latin": "Togari",
+        "official": {
+          "ko": "토가리"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_togari.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "ship-captain-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "船長",
+        "latin": "Ship captain",
+        "official": {
+          "ko": "선장"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true
+    },
+    {
+      "id": "katzo",
+      "name": {
+        "original_lang": "ja",
+        "original": "カッツォ",
+        "latin": "Katzo",
+        "official": {
+          "ko": "카츠오"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "quiz-old-woman-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "老婆（ドキドキ2択クイズ）",
+        "latin": "Quiz old woman",
+        "official": {
+          "ko": "노파"
+        },
+        "aliases": {
+          "ko": [
+            "퀴즈할멈"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true
+    },
+    {
+      "id": "kiriko-couple",
+      "name": {
+        "original_lang": "ja",
+        "original": "凶狸狐（夫婦）",
+        "latin": "Kiriko (couple)",
+        "official": {
+          "ko": "키리코"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "kiriko-son",
+      "name": {
+        "original_lang": "ja",
+        "original": "凶狸狐（息子）",
+        "latin": "Kiriko (son)",
+        "official": {
+          "ko": "무스코"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "kiriko-daughter",
+      "name": {
+        "original_lang": "ja",
+        "original": "凶狸狐（娘）",
+        "latin": "Kiriko (daughter)",
+        "official": {
+          "ko": "무스메"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "diner-owner-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "オヤジ（定食屋）",
+        "latin": "Diner owner"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true
+    },
+    {
+      "id": "fake-examiner-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "偽試験官",
+        "latin": "Fake examiner"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true
+    },
+    {
+      "id": "gittarackur",
+      "name": {
+        "original_lang": "ja",
+        "original": "ギタラクル",
+        "latin": "Gittarackur",
+        "official": {
+          "ko": "키타라클"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_gitarakul.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "bus-guide-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "バスガイド",
+        "latin": "Bus guide",
+        "official": {
+          "ko": "버스 가이드"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true,
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_busguide.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_02.html",
+        "source_ref": "s13",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "isaac-netero",
+      "name": {
+        "original_lang": "ja",
+        "original": "アイザック＝ネテロ",
+        "latin": "Isaac Netero",
+        "official": {
+          "ko": "아이작 네테로"
+        },
+        "aliases": {
+          "ja": [
+            "ネテロ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011",
+        "episode": 6
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_netero.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "pariston-hill",
+      "name": {
+        "original_lang": "ja",
+        "original": "パリストン＝ヒル",
+        "latin": "Pariston Hill"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "mizaistom-nana",
+      "name": {
+        "original_lang": "ja",
+        "original": "ミザイストム＝ナナ",
+        "latin": "Mizaistom Nana"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "kanzai",
+      "name": {
+        "original_lang": "ja",
+        "original": "カンザイ",
+        "latin": "Kanzai"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "piyon",
+      "name": {
+        "original_lang": "ja",
+        "original": "ピヨン",
+        "latin": "Pyon"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "botobai-gigante",
+      "name": {
+        "original_lang": "ja",
+        "original": "ボトバイ＝ギガンテ",
+        "latin": "Botobai Gigante"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "gel",
+      "name": {
+        "original_lang": "ja",
+        "original": "ゲル",
+        "latin": "Gel"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "saccho-kobayakawa",
+      "name": {
+        "original_lang": "ja",
+        "original": "サッチョウ＝コバヤカワ",
+        "latin": "Saccho Kobayakawa"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "ginta",
+      "name": {
+        "original_lang": "ja",
+        "original": "ギンタ",
+        "latin": "Ginta"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "saiyu",
+      "name": {
+        "original_lang": "ja",
+        "original": "サイユウ",
+        "latin": "Saiyu"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "clook",
+      "name": {
+        "original_lang": "ja",
+        "original": "クルック",
+        "latin": "Clook"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "cheadle-yorkshire",
+      "name": {
+        "original_lang": "ja",
+        "original": "チードル＝ヨークシャー",
+        "latin": "Cheadle Yorkshire"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "beans",
+      "name": {
+        "original_lang": "ja",
+        "original": "マーメン＝ビーンズ",
+        "latin": "Beans",
+        "official": {
+          "ko": "빈즈"
+        },
+        "aliases": {
+          "ja": [
+            "ビーンズ"
+          ],
+          "ko": [
+            "마멘"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_beans.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "cocco",
+      "name": {
+        "original_lang": "ja",
+        "original": "コッコ",
+        "latin": "Cocco",
+        "official": {
+          "ko": "코코"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "arena-200th-floor-guide-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "200階クラスの案内係",
+        "latin": "200th floor receptionist"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true
+    },
+    {
+      "id": "arena-elevator-girl-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "エレベーターガール（天空闘技場）",
+        "latin": "Elevator girl (Heavens Arena)"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true
+    },
+    {
+      "id": "arena-receptionist-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "受付嬢（天空闘技場）",
+        "latin": "Receptionist (Heavens Arena)"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true
+    },
+    {
+      "id": "arena-referee-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "審判（天空闘技場）",
+        "latin": "Referee (Heavens Arena)",
+        "official": {
+          "ko": "천공투기장 심판"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true
+    },
+    {
+      "id": "arena-commentator-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "評論家（天空闘技場）",
+        "latin": "Commentator (Heavens Arena)"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true
+    },
+    {
+      "id": "wing",
+      "name": {
+        "original_lang": "ja",
+        "original": "ウイング",
+        "latin": "Wing",
+        "official": {
+          "ko": "윙"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011",
+        "episode": 27
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_wing.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_03.html",
+        "source_ref": "s10",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "zushi",
+      "name": {
+        "original_lang": "ja",
+        "original": "ズシ",
+        "latin": "Zushi",
+        "official": {
+          "ko": "즈시"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011",
+        "episode": 27
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_zushi.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_03.html",
+        "source_ref": "s10",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "kastro",
+      "name": {
+        "original_lang": "ja",
+        "original": "カストロ",
+        "latin": "Kastro",
+        "official": {
+          "ko": "카스트로"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_kasstro.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_03.html",
+        "source_ref": "s10",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "gido",
+      "name": {
+        "original_lang": "ja",
+        "original": "ギド",
+        "latin": "Gido",
+        "official": {
+          "ko": "기드"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_gido.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_03.html",
+        "source_ref": "s10",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "sadaso",
+      "name": {
+        "original_lang": "ja",
+        "original": "サダソ",
+        "latin": "Sadaso"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_sadaso.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_03.html",
+        "source_ref": "s10",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "riehlvelt",
+      "name": {
+        "original_lang": "ja",
+        "original": "リールベルト",
+        "latin": "Riehlvelt",
+        "official": {
+          "ko": "리르벨트"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_realbelt.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_03.html",
+        "source_ref": "s10",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "izunavi",
+      "name": {
+        "original_lang": "ja",
+        "original": "イズナビ",
+        "latin": "Izunavi",
+        "official": {
+          "ko": "미즈캔"
+        },
+        "aliases": {
+          "ja": [
+            "ミズケン"
+          ],
+          "en": [
+            "Mizuken"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_mizuken.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_03.html",
+        "source_ref": "s10",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "illumi-zoldyck",
+      "name": {
+        "original_lang": "ja",
+        "original": "イルミ＝ゾルディック",
+        "latin": "Illumi Zoldyck",
+        "official": {
+          "ko": "이르미 조르딕"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011",
+        "episode": 20
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_irumi.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+        "source_ref": "s12",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "milluki-zoldyck",
+      "name": {
+        "original_lang": "ja",
+        "original": "ミルキ＝ゾルディック",
+        "latin": "Milluki Zoldyck",
+        "official": {
+          "ko": "미르키 조르딕"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_milki.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_02.html",
+        "source_ref": "s13",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "alluka-zoldyck",
+      "name": {
+        "original_lang": "ja",
+        "original": "アルカ＝ゾルディック",
+        "latin": "Alluka Zoldyck"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "spoiler": true
+    },
+    {
+      "id": "kalluto-zoldyck",
+      "name": {
+        "original_lang": "ja",
+        "original": "カルト＝ゾルディック",
+        "latin": "Kalluto Zoldyck",
+        "official": {
+          "ko": "카르트 조르딕"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_cult.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_02.html",
+        "source_ref": "s13",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "silva-zoldyck",
+      "name": {
+        "original_lang": "ja",
+        "original": "シルバ＝ゾルディック",
+        "latin": "Silva Zoldyck",
+        "official": {
+          "ko": "실버 조르딕"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011",
+        "episode": 24
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_shiruba.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_02.html",
+        "source_ref": "s13",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "kikyo-zoldyck",
+      "name": {
+        "original_lang": "ja",
+        "original": "キキョウ＝ゾルディック",
+        "latin": "Kikyo Zoldyck",
+        "official": {
+          "ko": "키쿄우 조르딕"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_kikyo.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_02.html",
+        "source_ref": "s13",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "zeno-zoldyck",
+      "name": {
+        "original_lang": "ja",
+        "original": "ゼノ＝ゾルディック",
+        "latin": "Zeno Zoldyck",
+        "official": {
+          "ko": "제노 조르딕"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011",
+        "episode": 24
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_zeno.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_02.html",
+        "source_ref": "s13",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "gotoh",
+      "name": {
+        "original_lang": "ja",
+        "original": "ゴトー",
+        "latin": "Gotoh",
+        "official": {
+          "ko": "고트"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_goto.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_02.html",
+        "source_ref": "s13",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "canary",
+      "name": {
+        "original_lang": "ja",
+        "original": "カナリア",
+        "latin": "Canary",
+        "official": {
+          "ko": "카나리아"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_kanaria.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_02.html",
+        "source_ref": "s13",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "tsubone",
+      "name": {
+        "original_lang": "ja",
+        "original": "ツボネ",
+        "latin": "Tsubone"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "amane",
+      "name": {
+        "original_lang": "ja",
+        "original": "アマネ",
+        "latin": "Amane"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "hishita",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヒシタ",
+        "latin": "Hishita"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "mitsuba",
+      "name": {
+        "original_lang": "ja",
+        "original": "ミツバ",
+        "latin": "Mitsuba"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "yasuha",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヤスハ",
+        "latin": "Yasuha"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "kasuga",
+      "name": {
+        "original_lang": "ja",
+        "original": "カスガ",
+        "latin": "Kasuga"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "zebro",
+      "name": {
+        "original_lang": "ja",
+        "original": "ゼブロ",
+        "latin": "Zebro",
+        "official": {
+          "ko": "제브로"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_zebro.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_02.html",
+        "source_ref": "s13",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "seaquant",
+      "name": {
+        "original_lang": "ja",
+        "original": "シークアント",
+        "latin": "Seaquant",
+        "official": {
+          "ko": "시크언트"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_secant.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_02.html",
+        "source_ref": "s13",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "bounty-hunter-zoldyck-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "賞金首ハンター（大男）",
+        "latin": "Bounty hunter (big man)"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true
+    },
+    {
+      "id": "kokol",
+      "name": {
+        "original_lang": "ja",
+        "original": "ココル",
+        "latin": "Kokol"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "zenji",
+      "name": {
+        "original_lang": "ja",
+        "original": "ゼンジ",
+        "latin": "Zenji",
+        "official": {
+          "ko": "젠지"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_zenji.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_04.html",
+        "source_ref": "s14",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "bean",
+      "name": {
+        "original_lang": "ja",
+        "original": "ビーン",
+        "latin": "Bean",
+        "official": {
+          "ko": "빈"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_been.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_04.html",
+        "source_ref": "s14",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "beret-assassin-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "ベレー帽の殺し屋",
+        "latin": "Beret-wearing assassin"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true
+    },
+    {
+      "id": "fukuro",
+      "name": {
+        "original_lang": "ja",
+        "original": "梟（ふくろう）",
+        "latin": "Owl",
+        "official": {
+          "ko": "올빼미"
+        },
+        "aliases": {
+          "ja": [
+            "フクロウ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_fukurou.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_04.html",
+        "source_ref": "s14",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "mimizu",
+      "name": {
+        "original_lang": "ja",
+        "original": "蚯蚓（みみず）",
+        "latin": "Mimizu",
+        "official": {
+          "ko": "지렁이"
+        },
+        "aliases": {
+          "ja": [
+            "ミミズ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_mimizu.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_04.html",
+        "source_ref": "s14",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "yamainu",
+      "name": {
+        "original_lang": "ja",
+        "original": "病犬（やまいぬ）",
+        "latin": "Yamainu",
+        "aliases": {
+          "ja": [
+            "ヤマイヌ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_yamainu.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_04.html",
+        "source_ref": "s14",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "yamaarashi",
+      "name": {
+        "original_lang": "ja",
+        "original": "豪猪（やまあらし）",
+        "latin": "Yamaarashi",
+        "official": {
+          "ko": "산미치광이"
+        },
+        "aliases": {
+          "ja": [
+            "ヤマアラシ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_yamaarashi.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_04.html",
+        "source_ref": "s14",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "hiru",
+      "name": {
+        "original_lang": "ja",
+        "original": "蛭（ひる）",
+        "latin": "Hiru",
+        "aliases": {
+          "ja": [
+            "ヒル"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_hiru.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_04.html",
+        "source_ref": "s14",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "light-nostrade",
+      "name": {
+        "original_lang": "ja",
+        "original": "ライト＝ノストラード",
+        "latin": "Light Nostrade",
+        "official": {
+          "ko": "라이트 노스트라드"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_nosutorad.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_04.html",
+        "source_ref": "s14",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "neon-nostrade",
+      "name": {
+        "original_lang": "ja",
+        "original": "ネオン＝ノストラード",
+        "latin": "Neon Nostrade",
+        "official": {
+          "ko": "네온 노스트라드"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_neon.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_04.html",
+        "source_ref": "s14",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "eliza",
+      "name": {
+        "original_lang": "ja",
+        "original": "エリザ",
+        "latin": "Eliza",
+        "official": {
+          "ko": "엘리자"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_eriza.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_04.html",
+        "source_ref": "s14",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "old-butler-nostrade-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "老執事（ノストラード家）",
+        "latin": "Old butler (Nostrade family)"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true
+    },
+    {
+      "id": "dalzollene",
+      "name": {
+        "original_lang": "ja",
+        "original": "ダルツォルネ",
+        "latin": "Dalzollene",
+        "official": {
+          "ko": "다르초르네"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_dartuorne.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_04.html",
+        "source_ref": "s14",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "senritsu",
+      "name": {
+        "original_lang": "ja",
+        "original": "センリツ",
+        "latin": "Senritsu",
+        "official": {
+          "ko": "센리츠"
+        },
+        "aliases": {
+          "en": [
+            "Melody"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_senritsu.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_04.html",
+        "source_ref": "s14",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "basho",
+      "name": {
+        "original_lang": "ja",
+        "original": "バショウ",
+        "latin": "Basho",
+        "official": {
+          "ko": "바쇼"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_bashou.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_04.html",
+        "source_ref": "s14",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "squala",
+      "name": {
+        "original_lang": "ja",
+        "original": "スクワラ",
+        "latin": "Squala",
+        "official": {
+          "ko": "스크와라"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_scwara.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_04.html",
+        "source_ref": "s14",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "vezze",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヴェーゼ",
+        "latin": "Vezze",
+        "official": {
+          "ko": "베제"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_veze.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_04.html",
+        "source_ref": "s14",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "tocino",
+      "name": {
+        "original_lang": "ja",
+        "original": "シャッチモーノ＝トチーノ",
+        "latin": "Tocino",
+        "official": {
+          "ko": "사치모노 도치노"
+        },
+        "aliases": {
+          "ja": [
+            "トチーノ"
+          ],
+          "en": [
+            "Shachimono Tocino"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_tochino.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_04.html",
+        "source_ref": "s14",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "ivlenkov",
+      "name": {
+        "original_lang": "ja",
+        "original": "イワレンコフ",
+        "latin": "Ivlenkov"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_iwarencov.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_04.html",
+        "source_ref": "s14",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "zepile",
+      "name": {
+        "original_lang": "ja",
+        "original": "ゼパイル",
+        "latin": "Zepile",
+        "official": {
+          "ko": "제파일"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_zepail.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_04.html",
+        "source_ref": "s14",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "skinhead-man-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "スキンヘッドの男",
+        "latin": "Skinhead man"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true
+    },
+    {
+      "id": "chrollo-lucilfer",
+      "name": {
+        "original_lang": "ja",
+        "original": "クロロ＝ルシルフル",
+        "latin": "Chrollo Lucilfer",
+        "official": {
+          "ko": "클로로 루실루플"
+        },
+        "aliases": {
+          "ko": [
+            "클로로 루실후르"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/genei_kuro.jpg",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/genei.html",
+        "source_ref": "s15",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "nobunaga-hazama",
+      "name": {
+        "original_lang": "ja",
+        "original": "ノブナガ＝ハザマ",
+        "latin": "Nobunaga Hazama",
+        "official": {
+          "ko": "노부나가 하자마"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/genei_nob.jpg",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/genei.html",
+        "source_ref": "s15",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "feitan-portor",
+      "name": {
+        "original_lang": "ja",
+        "original": "フェイタン＝ポートオ",
+        "latin": "Feitan Portor",
+        "official": {
+          "ko": "페이탄"
+        },
+        "aliases": {
+          "ja": [
+            "フェイタン"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/genei_fei.jpg",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/genei.html",
+        "source_ref": "s15",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "machi-komacine",
+      "name": {
+        "original_lang": "ja",
+        "original": "マチ＝コマチネ",
+        "latin": "Machi Komacine",
+        "official": {
+          "ko": "마치"
+        },
+        "aliases": {
+          "ja": [
+            "マチ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/genei_machi.jpg",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/genei.html",
+        "source_ref": "s15",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "phinks-magcub",
+      "name": {
+        "original_lang": "ja",
+        "original": "フィンクス＝マグカブ",
+        "latin": "Phinks Magcub",
+        "official": {
+          "ko": "핑크스"
+        },
+        "aliases": {
+          "ja": [
+            "フィンクス"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/genei_fin.jpg",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/genei.html",
+        "source_ref": "s15",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "shalnark",
+      "name": {
+        "original_lang": "ja",
+        "original": "シャルナーク",
+        "latin": "Shalnark",
+        "official": {
+          "ko": "샤르나크"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/genei_shal.jpg",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/genei.html",
+        "source_ref": "s15",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "franklin-bordeaux",
+      "name": {
+        "original_lang": "ja",
+        "original": "フランクリン＝ボルドー",
+        "latin": "Franklin Bordeaux",
+        "official": {
+          "ko": "프랭클린"
+        },
+        "aliases": {
+          "ja": [
+            "フランクリン"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/genei_fra.jpg",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/genei.html",
+        "source_ref": "s15",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "shizuku-murasaki",
+      "name": {
+        "original_lang": "ja",
+        "original": "シズク＝ムラサキ",
+        "latin": "Shizuku Murasaki",
+        "official": {
+          "ko": "시즈크"
+        },
+        "aliases": {
+          "ja": [
+            "シズク"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/genei_shizu.jpg",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/genei.html",
+        "source_ref": "s15",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "deme-chan",
+      "name": {
+        "original_lang": "ja",
+        "original": "デメちゃん",
+        "latin": "Deme-chan",
+        "official": {
+          "ko": "데메"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "pakunoda",
+      "name": {
+        "original_lang": "ja",
+        "original": "パクノダ",
+        "latin": "Pakunoda",
+        "official": {
+          "ko": "파크노다"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/genei_pak.jpg",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/genei.html",
+        "source_ref": "s15",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "bonolenov-ndongo",
+      "name": {
+        "original_lang": "ja",
+        "original": "ボノレノフ＝ンドンゴ",
+        "latin": "Bonolenov Ndongo",
+        "aliases": {
+          "ja": [
+            "ボノレノフ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/genei_bono.jpg",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/genei.html",
+        "source_ref": "s15",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "uvogin",
+      "name": {
+        "original_lang": "ja",
+        "original": "ウボォーギン",
+        "latin": "Uvogin",
+        "official": {
+          "ko": "우보긴"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/genei_ubo.jpg",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/genei.html",
+        "source_ref": "s15",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "kortopi",
+      "name": {
+        "original_lang": "ja",
+        "original": "コルトピ",
+        "latin": "Kortopi",
+        "official": {
+          "ko": "콜트피"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/genei_col.jpg",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/genei.html",
+        "source_ref": "s15",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "biscuit-krueger",
+      "name": {
+        "original_lang": "ja",
+        "original": "ビスケット＝クルーガー",
+        "latin": "Biscuit Krueger",
+        "official": {
+          "ko": "비스케"
+        },
+        "aliases": {
+          "ja": [
+            "ビスケ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011",
+        "episode": 62
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_bisuke.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "tsezguerra",
+      "name": {
+        "original_lang": "ja",
+        "original": "ツェズゲラ",
+        "latin": "Tsezguerra",
+        "official": {
+          "ko": "체즈게라"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_tsezgera.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "barry",
+      "name": {
+        "original_lang": "ja",
+        "original": "バリー",
+        "latin": "Barry",
+        "official": {
+          "ko": "바리"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_bary.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "rodriot",
+      "name": {
+        "original_lang": "ja",
+        "original": "ロドリオット",
+        "latin": "Rodriot",
+        "official": {
+          "ko": "로드리어트"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_rodoriot.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "kess",
+      "name": {
+        "original_lang": "ja",
+        "original": "ケスー",
+        "latin": "Kess",
+        "official": {
+          "ko": "케스"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_kesu.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "goreinu",
+      "name": {
+        "original_lang": "ja",
+        "original": "ゴレイヌ",
+        "latin": "Goreinu",
+        "official": {
+          "ko": "고레이누"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_goreinu.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "genthru",
+      "name": {
+        "original_lang": "ja",
+        "original": "ゲンスルー",
+        "latin": "Genthru",
+        "official": {
+          "ko": "겐스루"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_gensuru.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "bara",
+      "name": {
+        "original_lang": "ja",
+        "original": "バラ",
+        "latin": "Bara",
+        "official": {
+          "ko": "바라"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_bara.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "sub",
+      "name": {
+        "original_lang": "ja",
+        "original": "サブ",
+        "latin": "Sub",
+        "official": {
+          "ko": "서브"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_sabu.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "nickes",
+      "name": {
+        "original_lang": "ja",
+        "original": "ニッケス",
+        "latin": "Nickes",
+        "official": {
+          "ko": "니케스"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_nickes.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "abengane",
+      "name": {
+        "original_lang": "ja",
+        "original": "アベンガネ",
+        "latin": "Abengane",
+        "official": {
+          "ko": "아벤가네"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_abengane.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "puhat",
+      "name": {
+        "original_lang": "ja",
+        "original": "プーハット",
+        "latin": "Puhat",
+        "official": {
+          "ko": "푸하트"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_puhat.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "jispa",
+      "name": {
+        "original_lang": "ja",
+        "original": "ジスパー",
+        "latin": "Jispa",
+        "official": {
+          "ko": "지스퍼"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_zispar.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "assam",
+      "name": {
+        "original_lang": "ja",
+        "original": "アッサム",
+        "latin": "Assam",
+        "official": {
+          "ko": "아삼"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_assam.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "nomdu",
+      "name": {
+        "original_lang": "ja",
+        "original": "ノームデュー",
+        "latin": "Nomdu"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_nomudu.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "isaku",
+      "name": {
+        "original_lang": "ja",
+        "original": "イサク",
+        "latin": "Isaku",
+        "official": {
+          "ko": "이삭"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_isak.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "kontaci",
+      "name": {
+        "original_lang": "ja",
+        "original": "コンターチ",
+        "latin": "Kontaci"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "razor",
+      "name": {
+        "original_lang": "ja",
+        "original": "レイザー",
+        "latin": "Razor",
+        "official": {
+          "ko": "레이저"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_reiser.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "devil-no-0-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "14人の悪魔（No.0）",
+        "latin": "14 Devils (No. 0)"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true
+    },
+    {
+      "id": "elena",
+      "name": {
+        "original_lang": "ja",
+        "original": "エレナ",
+        "latin": "Elena",
+        "official": {
+          "ko": "엘레나"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "eeta",
+      "name": {
+        "original_lang": "ja",
+        "original": "イータ",
+        "latin": "Eeta",
+        "official": {
+          "ko": "이타"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_eeta.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "dwun",
+      "name": {
+        "original_lang": "ja",
+        "original": "ドゥーン",
+        "latin": "Dwun",
+        "official": {
+          "ko": "듄"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_dwun.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "list",
+      "name": {
+        "original_lang": "ja",
+        "original": "リスト",
+        "latin": "List",
+        "official": {
+          "ko": "리스트"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_list.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "bopobo",
+      "name": {
+        "original_lang": "ja",
+        "original": "ボポボ",
+        "latin": "Bopobo",
+        "official": {
+          "ko": "보포보"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_bopobo.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "pirate-boxer-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "海賊（ボクサー）",
+        "latin": "Pirate (boxer)"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true
+    },
+    {
+      "id": "michael-288",
+      "name": {
+        "original_lang": "ja",
+        "original": "ミハエル",
+        "latin": "Michael"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "shop-clerk-288-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "店員（第288期ハンター試験）",
+        "latin": "Shop clerk (288th Hunter Exam)"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true
+    },
+    {
+      "id": "first-phase-examiner-288-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "第288期一次試験官",
+        "latin": "First phase examiner (288th Hunter Exam)"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true
+    },
+    {
+      "id": "battera",
+      "name": {
+        "original_lang": "ja",
+        "original": "バッテラ",
+        "latin": "Battera",
+        "official": {
+          "ko": "바테라"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_battera.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "binolt",
+      "name": {
+        "original_lang": "ja",
+        "original": "ビノールト",
+        "latin": "Binolt",
+        "official": {
+          "ko": "비노르트"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_binolt.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "motarike",
+      "name": {
+        "original_lang": "ja",
+        "original": "モタリケ",
+        "latin": "Motarike"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_motarike.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "rataza",
+      "name": {
+        "original_lang": "ja",
+        "original": "ラターザ",
+        "latin": "Rataza",
+        "official": {
+          "ko": "라타자"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_rataza.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "gashta-bellam",
+      "name": {
+        "original_lang": "ja",
+        "original": "ガシタ＝ベラム",
+        "latin": "Gashta Bellam",
+        "official": {
+          "ko": "가시타"
+        },
+        "aliases": {
+          "ja": [
+            "ガシタ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_gasita.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "zetsk-bellam",
+      "name": {
+        "original_lang": "ja",
+        "original": "ゼツク＝ベラム",
+        "latin": "Zetsk Bellam",
+        "official": {
+          "ko": "제츠크"
+        },
+        "aliases": {
+          "ja": [
+            "ゼツク"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_zetuku.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "kazsule",
+      "name": {
+        "original_lang": "ja",
+        "original": "カヅスール",
+        "latin": "Kazsule",
+        "official": {
+          "ko": "카즈스루"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_kazsul.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "nick-q",
+      "name": {
+        "original_lang": "ja",
+        "original": "ニック＝キュー",
+        "latin": "Nick Q"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_nickque.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "souheil",
+      "name": {
+        "original_lang": "ja",
+        "original": "スウヘイル",
+        "latin": "Souheil",
+        "official": {
+          "ko": "스우헤일"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_suuheil.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "asta",
+      "name": {
+        "original_lang": "ja",
+        "original": "アスタ",
+        "latin": "Asta",
+        "official": {
+          "ko": "아스타"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_asta.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "amana",
+      "name": {
+        "original_lang": "ja",
+        "original": "アマナ",
+        "latin": "Amana",
+        "official": {
+          "ko": "아마나"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_amana.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "manheim",
+      "name": {
+        "original_lang": "ja",
+        "original": "マンヘイム",
+        "latin": "Manheim",
+        "official": {
+          "ko": "만헤임"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_manheim.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "yabibi",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヤビビ",
+        "latin": "Yabibi"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_yabibi.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "montreux",
+      "name": {
+        "original_lang": "ja",
+        "original": "モントール",
+        "latin": "Montreux"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_montol.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "hanze",
+      "name": {
+        "original_lang": "ja",
+        "original": "ハンゼ",
+        "latin": "Hanze"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_hanze.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "zeho",
+      "name": {
+        "original_lang": "ja",
+        "original": "ゼホ",
+        "latin": "Zeho"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_zeho.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+        "source_ref": "s16",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "sabazushi",
+      "name": {
+        "original_lang": "ja",
+        "original": "サバズシ",
+        "latin": "Sabazushi"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "wong",
+      "name": {
+        "original_lang": "ja",
+        "original": "ウォン（役人）",
+        "latin": "Wong"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "stick-dinner",
+      "name": {
+        "original_lang": "ja",
+        "original": "スティック＝ディナー",
+        "latin": "Stick Dinner",
+        "aliases": {
+          "ja": [
+            "スティック"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_stick.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_06.html",
+        "source_ref": "s17",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "banana-kavaro",
+      "name": {
+        "original_lang": "ja",
+        "original": "バナナ＝カヴァーオ",
+        "latin": "Banana Kavaro",
+        "aliases": {
+          "ja": [
+            "バナナ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_banana.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_06.html",
+        "source_ref": "s17",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "lin-koshi",
+      "name": {
+        "original_lang": "ja",
+        "original": "リン＝コウシ",
+        "latin": "Lin Koshi",
+        "aliases": {
+          "ja": [
+            "リン"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_rin.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_06.html",
+        "source_ref": "s17",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "spinner-clow",
+      "name": {
+        "original_lang": "ja",
+        "original": "スピーナ＝クロウ",
+        "latin": "Spinner Clow",
+        "aliases": {
+          "ja": [
+            "スピン"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_spin.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_06.html",
+        "source_ref": "s17",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "monta-yuras",
+      "name": {
+        "original_lang": "ja",
+        "original": "モンタ＝ユーラス",
+        "latin": "Monta Yuras",
+        "aliases": {
+          "ja": [
+            "モン"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_mon.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_06.html",
+        "source_ref": "s17",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "podungo-lapoy",
+      "name": {
+        "original_lang": "ja",
+        "original": "ポドンゴ＝ラポイ",
+        "latin": "Podungo Lapoy",
+        "aliases": {
+          "ja": [
+            "ポドンゴ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_podongo.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_06.html",
+        "source_ref": "s17",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "morel-mackernasey",
+      "name": {
+        "original_lang": "ja",
+        "original": "モラウ＝マッカーナーシ",
+        "latin": "Morel Mackernasey",
+        "aliases": {
+          "ja": [
+            "モラウ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_morau.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_06.html",
+        "source_ref": "s17",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "knov",
+      "name": {
+        "original_lang": "ja",
+        "original": "ノヴ",
+        "latin": "Knov"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_nov.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_06.html",
+        "source_ref": "s17",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "palm-siberia",
+      "name": {
+        "original_lang": "ja",
+        "original": "パーム＝シベリア",
+        "latin": "Palm Siberia"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_parm.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_06.html",
+        "source_ref": "s17",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "knuckle-bine",
+      "name": {
+        "original_lang": "ja",
+        "original": "ナックル＝バイン",
+        "latin": "Knuckle Bine"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_nuckl.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_06.html",
+        "source_ref": "s17",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "potclean",
+      "name": {
+        "original_lang": "ja",
+        "original": "ポットクリン",
+        "latin": "Potclean"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "shoot-mcmahon",
+      "name": {
+        "original_lang": "ja",
+        "original": "シュート＝マクマホン",
+        "latin": "Shoot McMahon",
+        "aliases": {
+          "ja": [
+            "シュート"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_shuto.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_06.html",
+        "source_ref": "s17",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "masadorudigo",
+      "name": {
+        "original_lang": "ja",
+        "original": "マサドルディーゴ",
+        "latin": "Masadorudigo"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "bizeff",
+      "name": {
+        "original_lang": "ja",
+        "original": "ビゼフ",
+        "latin": "Bizeff"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_bizefu.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_06.html",
+        "source_ref": "s17",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "marcos",
+      "name": {
+        "original_lang": "ja",
+        "original": "マルコス",
+        "latin": "Marcos"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "komugi",
+      "name": {
+        "original_lang": "ja",
+        "original": "コムギ",
+        "latin": "Komugi"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_komugi.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_06.html",
+        "source_ref": "s17",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "kurt",
+      "name": {
+        "original_lang": "ja",
+        "original": "クルト",
+        "latin": "Kurt"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_kuruto.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_06.html",
+        "source_ref": "s17",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "reina",
+      "name": {
+        "original_lang": "ja",
+        "original": "レイナ",
+        "latin": "Reina"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_reina.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_06.html",
+        "source_ref": "s17",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "haruna",
+      "name": {
+        "original_lang": "ja",
+        "original": "ハルナ",
+        "latin": "Haruna"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_haruna.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_06.html",
+        "source_ref": "s17",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "balda",
+      "name": {
+        "original_lang": "ja",
+        "original": "バルダー",
+        "latin": "Balda"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_baruda.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_06.html",
+        "source_ref": "s17",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "pekuba",
+      "name": {
+        "original_lang": "ja",
+        "original": "ペクバ",
+        "latin": "Pekuba"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_pekuba.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/other_06.html",
+        "source_ref": "s17",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "chimera-ant-queen",
+      "name": {
+        "original_lang": "ja",
+        "original": "女王（キメラ＝アント）",
+        "latin": "Chimera Ant Queen",
+        "aliases": {
+          "ja": [
+            "女王"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/kimera_jyouou.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kimera.html",
+        "source_ref": "s18",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "meruem",
+      "name": {
+        "original_lang": "ja",
+        "original": "メルエム",
+        "latin": "Meruem",
+        "aliases": {
+          "ja": [
+            "王"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/kimera_ou.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kimera.html",
+        "source_ref": "s18",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "neferpitou",
+      "name": {
+        "original_lang": "ja",
+        "original": "ネフェルピトー",
+        "latin": "Neferpitou"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/kimera_pito.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kimera.html",
+        "source_ref": "s18",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "shaiapouf",
+      "name": {
+        "original_lang": "ja",
+        "original": "シャウアプフ",
+        "latin": "Shaiapouf"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/kimera_pufu.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kimera.html",
+        "source_ref": "s18",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "menthuthuyoupi",
+      "name": {
+        "original_lang": "ja",
+        "original": "モントゥトゥユピー",
+        "latin": "Menthuthuyoupi"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/kimera_yupi.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kimera.html",
+        "source_ref": "s18",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "colt",
+      "name": {
+        "original_lang": "ja",
+        "original": "コルト",
+        "latin": "Colt"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/kimera_koruto.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kimera.html",
+        "source_ref": "s18",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "cheetu",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヂートゥ",
+        "latin": "Cheetu"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/kimera_dito.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kimera.html",
+        "source_ref": "s18",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "peggy",
+      "name": {
+        "original_lang": "ja",
+        "original": "ペギー",
+        "latin": "Peggy"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/kimera_pegy.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kimera.html",
+        "source_ref": "s18",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "zazan",
+      "name": {
+        "original_lang": "ja",
+        "original": "ザザン",
+        "latin": "Zazan"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/kimera_zazan.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kimera.html",
+        "source_ref": "s18",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "leol",
+      "name": {
+        "original_lang": "ja",
+        "original": "レオル",
+        "latin": "Leol",
+        "aliases": {
+          "ja": [
+            "ハギャ"
+          ],
+          "en": [
+            "Hagya"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/kimera_reol.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kimera.html",
+        "source_ref": "s18",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "bihorn",
+      "name": {
+        "original_lang": "ja",
+        "original": "ビホーン",
+        "latin": "Bihorn"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/kimera_bihon.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kimera.html",
+        "source_ref": "s18",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "brovada",
+      "name": {
+        "original_lang": "ja",
+        "original": "ブロヴーダ",
+        "latin": "Brovada"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/kimera_burovda.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kimera.html",
+        "source_ref": "s18",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "welfin",
+      "name": {
+        "original_lang": "ja",
+        "original": "ウェルフィン",
+        "latin": "Welfin"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/kimera_werufin.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kimera.html",
+        "source_ref": "s18",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "meleoron",
+      "name": {
+        "original_lang": "ja",
+        "original": "メレオロン",
+        "latin": "Meleoron"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/kimera_mereoron.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kimera.html",
+        "source_ref": "s18",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "vital",
+      "name": {
+        "original_lang": "ja",
+        "original": "バイタル",
+        "latin": "Vital"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "crocodile-ant-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "ワニ型（師団長）",
+        "latin": "Crocodile-type ant"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true
+    },
+    {
+      "id": "turtle-ant-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "カメ型（師団長）",
+        "latin": "Turtle-type ant"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true,
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/kimera_kame.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kimera.html",
+        "source_ref": "s18",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "frog-ant-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "カエル型（師団長）",
+        "latin": "Frog-type ant"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true,
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/kimera_kaeru.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kimera.html",
+        "source_ref": "s18",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "octopus-ant-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "タコ型（師団長）",
+        "latin": "Octopus-type ant"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true
+    },
+    {
+      "id": "bear-cub-ant-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "コグマ型（師団長）",
+        "latin": "Bear cub-type ant"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true
+    },
+    {
+      "id": "flutter",
+      "name": {
+        "original_lang": "ja",
+        "original": "フラッタ",
+        "latin": "Flutter"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/kimera_furatta.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kimera.html",
+        "source_ref": "s18",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "hina",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヒナ",
+        "latin": "Hina",
+        "aliases": {
+          "ja": [
+            "ヒリン"
+          ],
+          "en": [
+            "Hirin"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/kimera_hirin.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kimera.html",
+        "source_ref": "s18",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "gomimushi",
+      "name": {
+        "original_lang": "ja",
+        "original": "ゴミムシ",
+        "latin": "Gomimushi"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "ikalgo",
+      "name": {
+        "original_lang": "ja",
+        "original": "イカルゴ",
+        "latin": "Ikalgo"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/kimera_ikarugo.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kimera.html",
+        "source_ref": "s18",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "oroso-brother",
+      "name": {
+        "original_lang": "ja",
+        "original": "オロソ兄",
+        "latin": "Oroso (brother)"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/kimera_orosob.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kimera.html",
+        "source_ref": "s18",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "oroso-sister",
+      "name": {
+        "original_lang": "ja",
+        "original": "オロソ妹",
+        "latin": "Oroso (sister)"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/kimera_orosos.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kimera.html",
+        "source_ref": "s18",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "lammot",
+      "name": {
+        "original_lang": "ja",
+        "original": "ラモット",
+        "latin": "Rammot"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/kimera_ramotto.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kimera.html",
+        "source_ref": "s18",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "pike",
+      "name": {
+        "original_lang": "ja",
+        "original": "パイク",
+        "latin": "Pike"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/kimera_pike.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kimera.html",
+        "source_ref": "s18",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "koumori",
+      "name": {
+        "original_lang": "ja",
+        "original": "コウモリ",
+        "latin": "Bat-type ant"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "yunju",
+      "name": {
+        "original_lang": "ja",
+        "original": "ユンジュ",
+        "latin": "Yunju"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/kimera_yunju.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kimera.html",
+        "source_ref": "s18",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "baro",
+      "name": {
+        "original_lang": "ja",
+        "original": "バロ",
+        "latin": "Baro"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/kimera_balo.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kimera.html",
+        "source_ref": "s18",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "rhino-ant-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "サイ型",
+        "latin": "Rhinoceros-type ant"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true,
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/kimera_sai.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kimera.html",
+        "source_ref": "s18",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "small-beetle-ant-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "小甲虫",
+        "latin": "Small beetle-type ant"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true
+    },
+    {
+      "id": "koala-ant-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "コアラ型",
+        "latin": "Koala-type ant"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true,
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/kimera_koara.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kimera.html",
+        "source_ref": "s18",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "centipede-man-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "ムカデ男",
+        "latin": "Centipede man"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true,
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/kimera_mukade.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kimera.html",
+        "source_ref": "s18",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "mosquito-woman-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "蚊女",
+        "latin": "Mosquito woman"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true,
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/kimera_kaonna.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kimera.html",
+        "source_ref": "s18",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "gyogan",
+      "name": {
+        "original_lang": "ja",
+        "original": "ギョガン",
+        "latin": "Gyogan"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "shark-ant",
+      "name": {
+        "original_lang": "ja",
+        "original": "サメ（イカルゴの部下）",
+        "latin": "Shark"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "koban",
+      "name": {
+        "original_lang": "ja",
+        "original": "コバーン",
+        "latin": "Koban"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "pig-ant-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "ブタ型",
+        "latin": "Pig-type ant"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true,
+      "image": {
+        "url": "https://www.ntv.co.jp/hunterhunter/character/images/kimera_buta.gif",
+        "page_url": "https://www.ntv.co.jp/hunterhunter/character/kimera.html",
+        "source_ref": "s18",
+        "license": "official_promotional",
+        "credit": "© Nippon Television Network Corporation"
+      }
+    },
+    {
+      "id": "zazans-attendants-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "ザザンの侍女",
+        "latin": "Zazan's attendants"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true
+    },
+    {
+      "id": "meteor-city-residents-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "流星街の住民たち",
+        "latin": "Meteor City residents"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true
+    },
+    {
+      "id": "chimera-ant-child",
+      "name": {
+        "original_lang": "ja",
+        "original": "カイト（レイナ）",
+        "latin": "Reborn ant child"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "spoiler": true
+    },
+    {
+      "id": "sanbica-norton",
+      "name": {
+        "original_lang": "ja",
+        "original": "サンビカ＝ノートン",
+        "latin": "Sanbica Norton"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "cutie-beauty",
+      "name": {
+        "original_lang": "ja",
+        "original": "キューティー＝ビューティー",
+        "latin": "Cutie Beauty"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "teradein-neutral",
+      "name": {
+        "original_lang": "ja",
+        "original": "テラデイン＝ニュートラル",
+        "latin": "Teradein Neutral"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "lupe-highland",
+      "name": {
+        "original_lang": "ja",
+        "original": "ルーペ＝ハイランド",
+        "latin": "Lupe Highland"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "bushidora-ambitious",
+      "name": {
+        "original_lang": "ja",
+        "original": "ブシドラ＝アンビシャス",
+        "latin": "Bushidora Ambitious"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      }
+    },
+    {
+      "id": "narrator-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "ナレーション",
+        "latin": "Narrator",
+        "official": {
+          "ko": "해설"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011"
+      },
+      "nameless": true
+    },
+    {
+      "id": "mediation-office-woman-2011",
+      "name": {
+        "original_lang": "ja",
+        "original": "斡旋所の女",
+        "latin": "Woman at the mediation office",
+        "official": {
+          "ko": "알선인"
+        }
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011",
+        "episode": 30
+      },
+      "nameless": true
+    },
+    {
+      "id": "fumi",
+      "name": {
+        "original_lang": "en",
+        "original": "Fumi",
+        "latin": "Fumi"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011",
+        "episode": 48
+      }
+    },
+    {
+      "id": "assassin-2011",
+      "name": {
+        "original_lang": "en",
+        "original": "Assassin",
+        "latin": "Assassin"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011",
+        "episode": 52
+      },
+      "nameless": true
+    },
+    {
+      "id": "assassin-b-2011",
+      "name": {
+        "original_lang": "en",
+        "original": "Assassin B",
+        "latin": "Assassin B"
+      },
+      "first_appearance": {
+        "work": "hunter-x-hunter-2011",
+        "episode": 51
+      },
+      "nameless": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/HUNTER%C3%97HUNTER%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9",
+      "title": "HUNTER×HUNTERの登場人物",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%BE%E3%83%AB%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF%E5%AE%B6",
+      "title": "ゾルディック家",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B9%BB%E5%BD%B1%E6%97%85%E5%9B%A3",
+      "title": "幻影旅団",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s4",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A1%E3%83%A9%EF%BC%9D%E3%82%A2%E3%83%B3%E3%83%88",
+      "title": "キメラ＝アント",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s5",
+      "url": "https://www.ntv.co.jp/hunterhunter/character/gon.html",
+      "title": "キャラクター｜HUNTER×HUNTER｜日本テレビ",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s6",
+      "url": "https://www.ntv.co.jp/hunterhunter/character/kirua.html",
+      "title": "キャラクター｜HUNTER×HUNTER｜日本テレビ",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s7",
+      "url": "https://www.ntv.co.jp/hunterhunter/character/kurapika.html",
+      "title": "キャラクター｜HUNTER×HUNTER｜日本テレビ",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s8",
+      "url": "https://www.ntv.co.jp/hunterhunter/character/reorio.html",
+      "title": "キャラクター｜HUNTER×HUNTER｜日本テレビ",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s9",
+      "url": "https://www.ntv.co.jp/hunterhunter/character/hisoka.html",
+      "title": "キャラクター｜HUNTER×HUNTER｜日本テレビ",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s10",
+      "url": "https://www.ntv.co.jp/hunterhunter/character/other_03.html",
+      "title": "キャラクター｜HUNTER×HUNTER｜日本テレビ",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s11",
+      "url": "https://www.ntv.co.jp/hunterhunter/character/kaito.html",
+      "title": "キャラクター｜HUNTER×HUNTER｜日本テレビ",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s12",
+      "url": "https://www.ntv.co.jp/hunterhunter/character/other_01.html",
+      "title": "キャラクター｜HUNTER×HUNTER｜日本テレビ",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s13",
+      "url": "https://www.ntv.co.jp/hunterhunter/character/other_02.html",
+      "title": "キャラクター｜HUNTER×HUNTER｜日本テレビ",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s14",
+      "url": "https://www.ntv.co.jp/hunterhunter/character/other_04.html",
+      "title": "キャラクター｜HUNTER×HUNTER｜日本テレビ",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s15",
+      "url": "https://www.ntv.co.jp/hunterhunter/character/genei.html",
+      "title": "キャラクター｜HUNTER×HUNTER｜日本テレビ",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s16",
+      "url": "https://www.ntv.co.jp/hunterhunter/character/other_05.html",
+      "title": "キャラクター｜HUNTER×HUNTER｜日本テレビ",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s17",
+      "url": "https://www.ntv.co.jp/hunterhunter/character/other_06.html",
+      "title": "キャラクター｜HUNTER×HUNTER｜日本テレビ",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s18",
+      "url": "https://www.ntv.co.jp/hunterhunter/character/kimera.html",
+      "title": "キャラクター｜HUNTER×HUNTER｜日本テレビ",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s19",
+      "url": "https://ko.wikipedia.org/wiki/%EC%9C%A4%EB%8F%99%EA%B8%B0",
+      "title": "윤동기 - 위키백과",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

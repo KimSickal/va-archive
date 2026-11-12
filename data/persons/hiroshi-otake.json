@@ -1,0 +1,39 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "hiroshi-otake",
+  "name": {
+    "original_lang": "ja",
+    "original": "大竹宏",
+    "latin": "Hiroshi Otake",
+    "aliases": {
+      "ko": [
+        "오오타케 히로시"
+      ]
+    }
+  },
+  "gender": "male",
+  "birth": "1932-03-14",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%AB%B9%E5%AE%8F",
+    "en": "https://en.wikipedia.org/wiki/Hiroshi_%C5%8Ctake",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%98%A4%ED%83%80%EC%BC%80_%ED%9E%88%EB%A1%9C%EC%8B%9C"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%AB%B9%E5%AE%8F",
+      "title": "大竹宏",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

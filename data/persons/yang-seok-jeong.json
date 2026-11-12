@@ -1,0 +1,35 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "yang-seok-jeong",
+  "name": {
+    "original_lang": "ko",
+    "original": "양석정",
+    "latin": "Yang Seok-jeong"
+  },
+  "gender": "male",
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1970-01-18",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%84%9D%EC%A0%95"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%84%9D%EC%A0%95",
+      "title": "양석정",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

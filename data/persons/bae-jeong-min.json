@@ -1,0 +1,36 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "bae-jeong-min",
+  "name": {
+    "original_lang": "ko",
+    "original": "배정민",
+    "latin": "Bae Jeong-min"
+  },
+  "gender": "female",
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1975-03-31",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EB%B0%B0%EC%A0%95%EB%AF%BC",
+    "en": "https://en.wikipedia.org/wiki/Bae_Jeong-min"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B0%B0%EC%A0%95%EB%AF%BC",
+      "title": "배정민",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

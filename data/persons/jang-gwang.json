@@ -1,0 +1,35 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "jang-gwang",
+  "name": {
+    "original_lang": "ko",
+    "original": "장광",
+    "latin": "Jang Gwang"
+  },
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1952-01-05",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EA%B4%91",
+    "en": "https://en.wikipedia.org/wiki/Jang_Gwang"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EC%9E%A5%EA%B4%91",
+      "title": "장광",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

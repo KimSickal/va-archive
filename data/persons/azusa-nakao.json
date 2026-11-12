@@ -1,0 +1,32 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "azusa-nakao",
+  "name": {
+    "original_lang": "ja",
+    "original": "仲尾あづさ",
+    "latin": "Azusa Nakao"
+  },
+  "gender": "female",
+  "birth": "1972-07-07",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%BB%B2%E5%B0%BE%E3%81%82%E3%81%A5%E3%81%95"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BB%B2%E5%B0%BE%E3%81%82%E3%81%A5%E3%81%95",
+      "title": "仲尾あづさ",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

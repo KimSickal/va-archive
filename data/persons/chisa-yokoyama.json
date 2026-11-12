@@ -1,0 +1,39 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "chisa-yokoyama",
+  "name": {
+    "original_lang": "ja",
+    "original": "横山智佐",
+    "latin": "Chisa Yokoyama",
+    "aliases": {
+      "ko": [
+        "요코야마 치사"
+      ]
+    }
+  },
+  "gender": "female",
+  "birth": "1969-12-20",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%A8%AA%E5%B1%B1%E6%99%BA%E4%BD%90",
+    "en": "https://en.wikipedia.org/wiki/Chisa_Yokoyama",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9A%94%EC%BD%94%EC%95%BC%EB%A7%88_%EC%B9%98%EC%82%AC"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A8%AA%E5%B1%B1%E6%99%BA%E4%BD%90",
+      "title": "横山智佐",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

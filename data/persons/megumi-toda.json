@@ -1,0 +1,39 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "megumi-toda",
+  "name": {
+    "original_lang": "ja",
+    "original": "戸田めぐみ",
+    "latin": "Megumi Toda",
+    "aliases": {
+      "ko": [
+        "토다 메구미"
+      ]
+    }
+  },
+  "gender": "female",
+  "birth": "1990-12-08",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%88%B8%E7%94%B0%E3%82%81%E3%81%90%E3%81%BF",
+    "en": "https://en.wikipedia.org/wiki/Megumi_Toda",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%86%A0%EB%8B%A4_%EB%A9%94%EA%B5%AC%EB%AF%B8"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%88%B8%E7%94%B0%E3%82%81%E3%81%90%E3%81%BF",
+      "title": "戸田めぐみ",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

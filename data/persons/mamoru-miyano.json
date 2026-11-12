@@ -1,0 +1,39 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "mamoru-miyano",
+  "name": {
+    "original_lang": "ja",
+    "original": "宮野真守",
+    "latin": "Mamoru Miyano",
+    "aliases": {
+      "ko": [
+        "미야노 마모루"
+      ]
+    }
+  },
+  "gender": "male",
+  "birth": "1983-06-08",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E9%87%8E%E7%9C%9F%E5%AE%88",
+    "en": "https://en.wikipedia.org/wiki/Mamoru_Miyano",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EC%95%BC%EB%85%B8_%EB%A7%88%EB%AA%A8%EB%A3%A8"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E9%87%8E%E7%9C%9F%E5%AE%88",
+      "title": "宮野真守",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

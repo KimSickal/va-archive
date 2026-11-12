@@ -1,0 +1,42 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "romi-park",
+  "name": {
+    "original_lang": "ja",
+    "original": "朴璐美",
+    "latin": "Romi Park",
+    "aliases": {
+      "ja": [
+        "朴ろ美"
+      ],
+      "ko": [
+        "박로미"
+      ]
+    }
+  },
+  "gender": "female",
+  "birth": "1972-01-22",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%9C%B4%E7%92%90%E7%BE%8E",
+    "en": "https://en.wikipedia.org/wiki/Romi_Park",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%B0%95%EB%A1%9C%EB%AF%B8"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%B4%E7%92%90%E7%BE%8E",
+      "title": "朴璐美",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ryota-osaka",
+  "name": {
+    "original_lang": "ja",
+    "original": "逢坂良太",
+    "latin": "Ryota Osaka",
+    "aliases": {
+      "ko": [
+        "오사카 료타"
+      ]
+    }
+  },
+  "gender": "male",
+  "birth": "1986-08-02",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%80%A2%E5%9D%82%E8%89%AF%E5%A4%AA",
+    "en": "https://en.wikipedia.org/wiki/Ry%C5%8Dta_%C5%8Csaka",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%82%AC%EC%B9%B4_%EB%A3%8C%ED%83%80"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%80%A2%E5%9D%82%E8%89%AF%E5%A4%AA",
+      "title": "逢坂良太",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

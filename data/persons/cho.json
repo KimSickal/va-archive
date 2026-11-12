@@ -1,0 +1,42 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "cho",
+  "name": {
+    "original_lang": "ja",
+    "original": "チョー",
+    "latin": "Cho",
+    "aliases": {
+      "ja": [
+        "長嶋茂"
+      ],
+      "ko": [
+        "조"
+      ]
+    }
+  },
+  "gender": "male",
+  "birth": "1957-12-15",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A7%E3%83%BC_(%E4%BF%B3%E5%84%AA)",
+    "en": "https://en.wikipedia.org/wiki/Ch%C5%8D",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%A1%B0_(%EB%B0%B0%EC%9A%B0)"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A7%E3%83%BC_(%E4%BF%B3%E5%84%AA)",
+      "title": "チョー (俳優)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

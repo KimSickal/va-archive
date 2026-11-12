@@ -1,0 +1,35 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "jung-seong-hun",
+  "name": {
+    "original_lang": "ko",
+    "original": "정성훈",
+    "latin": "Jung Seong-hun"
+  },
+  "gender": "male",
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1978-11-01",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%84%B1%ED%9B%88_(%EC%84%B1%EC%9A%B0)"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%84%B1%ED%9B%88_(%EC%84%B1%EC%9A%B0)",
+      "title": "정성훈 (성우)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

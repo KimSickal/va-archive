@@ -1,0 +1,34 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "min-eung-sik",
+  "name": {
+    "original_lang": "ko",
+    "original": "민응식",
+    "latin": "Min Eung-sik"
+  },
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1962-01-28",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EB%AF%BC%EC%9D%91%EC%8B%9D"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EB%AF%BC%EC%9D%91%EC%8B%9D",
+      "title": "민응식",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

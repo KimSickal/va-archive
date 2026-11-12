@@ -1,0 +1,42 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "noriko-hidaka",
+  "name": {
+    "original_lang": "ja",
+    "original": "日髙のり子",
+    "latin": "Noriko Hidaka",
+    "aliases": {
+      "ja": [
+        "日高のり子"
+      ],
+      "ko": [
+        "히다카 노리코"
+      ]
+    }
+  },
+  "gender": "female",
+  "birth": "1962-05-31",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%AB%99%E3%81%AE%E3%82%8A%E5%AD%90",
+    "en": "https://en.wikipedia.org/wiki/Noriko_Hidaka",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%9E%88%EB%8B%A4%EC%B9%B4_%EB%85%B8%EB%A6%AC%EC%BD%94"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%AB%99%E3%81%AE%E3%82%8A%E5%AD%90",
+      "title": "日髙のり子",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

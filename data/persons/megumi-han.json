@@ -1,0 +1,39 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "megumi-han",
+  "name": {
+    "original_lang": "ja",
+    "original": "潘めぐみ",
+    "latin": "Megumi Han",
+    "aliases": {
+      "ko": [
+        "한 메구미"
+      ]
+    }
+  },
+  "gender": "female",
+  "birth": "1989-06-03",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%BD%98%E3%82%81%E3%81%90%E3%81%BF",
+    "en": "https://en.wikipedia.org/wiki/Megumi_Han",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%95%9C_%EB%A9%94%EA%B5%AC%EB%AF%B8"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%BD%98%E3%82%81%E3%81%90%E3%81%BF",
+      "title": "潘めぐみ",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

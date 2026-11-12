@@ -1,0 +1,39 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "aya-hirano",
+  "name": {
+    "original_lang": "ja",
+    "original": "平野綾",
+    "latin": "Aya Hirano",
+    "aliases": {
+      "ko": [
+        "히라노 아야"
+      ]
+    }
+  },
+  "gender": "female",
+  "birth": "1987-10-08",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E9%87%8E%E7%B6%BE",
+    "en": "https://en.wikipedia.org/wiki/Aya_Hirano",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%9E%88%EB%9D%BC%EB%85%B8_%EC%95%84%EC%95%BC"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E9%87%8E%E7%B6%BE",
+      "title": "平野綾",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

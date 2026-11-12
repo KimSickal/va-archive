@@ -1,0 +1,39 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "mikako-takahashi",
+  "name": {
+    "original_lang": "ja",
+    "original": "高橋美佳子",
+    "latin": "Mikako Takahashi",
+    "aliases": {
+      "ko": [
+        "타카하시 미카코"
+      ]
+    }
+  },
+  "gender": "female",
+  "birth": "1980-05-29",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%A9%8B%E7%BE%8E%E4%BD%B3%E5%AD%90",
+    "en": "https://en.wikipedia.org/wiki/Mikako_Takahashi",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%83%80%EC%B9%B4%ED%95%98%EC%8B%9C_%EB%AF%B8%EC%B9%B4%EC%BD%94"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%A9%8B%E7%BE%8E%E4%BD%B3%E5%AD%90",
+      "title": "高橋美佳子",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

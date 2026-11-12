@@ -1,0 +1,32 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "tomoka-kiriyama",
+  "name": {
+    "original_lang": "ja",
+    "original": "桐山智花",
+    "latin": "Tomoka Kiriyama"
+  },
+  "gender": "female",
+  "birth": "1984-06-22",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%A1%90%E5%B1%B1%E6%99%BA%E8%8A%B1"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A1%90%E5%B1%B1%E6%99%BA%E8%8A%B1",
+      "title": "桐山智花",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ha-mi-gyeong",
+  "name": {
+    "original_lang": "ko",
+    "original": "하미경",
+    "latin": "Ha Mi-gyeong"
+  },
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1975-08-09",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%ED%95%98%EB%AF%B8%EA%B2%BD"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%ED%95%98%EB%AF%B8%EA%B2%BD",
+      "title": "하미경",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

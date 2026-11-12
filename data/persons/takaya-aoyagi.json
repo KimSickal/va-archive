@@ -1,0 +1,31 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "takaya-aoyagi",
+  "name": {
+    "original_lang": "ja",
+    "original": "青柳尊哉",
+    "latin": "Takaya Aoyagi"
+  },
+  "birth": "1985-02-06",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%9D%92%E6%9F%B3%E5%B0%8A%E5%93%89"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%9D%92%E6%9F%B3%E5%B0%8A%E5%93%89",
+      "title": "青柳尊哉",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

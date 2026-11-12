@@ -1,0 +1,35 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "eom-tae-guk",
+  "name": {
+    "original_lang": "ko",
+    "original": "엄태국",
+    "latin": "Eom Tae-guk"
+  },
+  "gender": "male",
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1969-01-21",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EC%97%84%ED%83%9C%EA%B5%AD"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EC%97%84%ED%83%9C%EA%B5%AD",
+      "title": "엄태국",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

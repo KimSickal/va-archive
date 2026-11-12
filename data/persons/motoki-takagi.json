@@ -1,0 +1,39 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "motoki-takagi",
+  "name": {
+    "original_lang": "ja",
+    "original": "高城元気",
+    "latin": "Motoki Takagi",
+    "aliases": {
+      "ko": [
+        "타카기 모토키"
+      ]
+    }
+  },
+  "gender": "male",
+  "birth": "1980-10-04",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%9F%8E%E5%85%83%E6%B0%97",
+    "en": "https://en.wikipedia.org/wiki/Motoki_Takagi",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%83%80%EC%B9%B4%EA%B8%B0_%EB%AA%A8%ED%86%A0%ED%82%A4"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%9F%8E%E5%85%83%E6%B0%97",
+      "title": "高城元気",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

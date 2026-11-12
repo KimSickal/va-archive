@@ -1,0 +1,39 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "hidenobu-kiuchi",
+  "name": {
+    "original_lang": "ja",
+    "original": "木内秀信",
+    "latin": "Hidenobu Kiuchi",
+    "aliases": {
+      "ko": [
+        "키우치 히데노부"
+      ]
+    }
+  },
+  "gender": "male",
+  "birth": "1969-02-05",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%9C%A8%E5%86%85%E7%A7%80%E4%BF%A1",
+    "en": "https://en.wikipedia.org/wiki/Hidenobu_Kiuchi",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%82%A4%EC%9A%B0%EC%B9%98_%ED%9E%88%EB%8D%B0%EB%85%B8%EB%B6%80"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%A8%E5%86%85%E7%A7%80%E4%BF%A1",
+      "title": "木内秀信",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

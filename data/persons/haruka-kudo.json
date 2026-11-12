@@ -1,0 +1,39 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "haruka-kudo",
+  "name": {
+    "original_lang": "ja",
+    "original": "工藤晴香",
+    "latin": "Haruka Kudo",
+    "aliases": {
+      "ko": [
+        "쿠도 하루카"
+      ]
+    }
+  },
+  "gender": "female",
+  "birth": "1989-03-16",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%B7%A5%E8%97%A4%E6%99%B4%E9%A6%99",
+    "en": "https://en.wikipedia.org/wiki/Haruka_Kud%C5%8D_(voice_actress)",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%BF%A0%EB%8F%84_%ED%95%98%EB%A3%A8%EC%B9%B4_(%EC%84%B1%EC%9A%B0)"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B7%A5%E8%97%A4%E6%99%B4%E9%A6%99",
+      "title": "工藤晴香",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

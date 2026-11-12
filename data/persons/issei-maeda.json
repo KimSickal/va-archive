@@ -1,0 +1,32 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "issei-maeda",
+  "name": {
+    "original_lang": "ja",
+    "original": "前田一世",
+    "latin": "Issei Maeda"
+  },
+  "gender": "male",
+  "birth": "1974-12-29",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%89%8D%E7%94%B0%E4%B8%80%E4%B8%96"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%89%8D%E7%94%B0%E4%B8%80%E4%B8%96",
+      "title": "前田一世",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}
