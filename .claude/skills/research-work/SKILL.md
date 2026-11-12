@@ -2,7 +2,7 @@
 name: research-work
 description: va-archive 데이터 수집 지침. 지정된 작품의 기본 정보·캐릭터·버전별 배역·성우를 신뢰할 수 있는 출처에서 조사해 스키마에 맞는 JSON으로 스테이징 디렉토리에 작성한다. researcher 에이전트가 사용.
 schema_version: 0.1.0
-skill_version: 0.1.0
+skill_version: 0.2.0
 ---
 
 # research-work
@@ -22,7 +22,8 @@ skill_version: 0.1.0
 - 기존 성우 확인: `data/persons/`에 같은 사람이 이미 있으면 그 ID를 그대로 참조하고 **파일을 새로 만들지 않는다**. (`grep -ril "<원어 이름>" data/persons`)
 - 동명이인이 확실하면 `-2` 대신 출생연도 접미사(`-1985`)를 붙인다.
 - **캐릭터**: 원어 이름의 로마자 kebab-case (예: ゴン=フリークス → `gon-freecss`, 공식 영문 표기가 있으면 그것 기준). 스포일러 캐릭터는 정체가 드러나지 않는 ID.
-- **이름 없는 배역**: `<표기>-<작품 약어>` 예: `villager-a-s1`.
+- **이름 없는 배역**: `<표기>-<작품 약어>` 예: `villager-a-s1`, `hrl-soldier-s2`, `receptionist-2011`.
+- 다른 작품에 이미 등장한 성우는 `data/persons/`와 **다른 스테이징 루트**(`.work/research/*/data/persons/`)를 원어 이름으로 검색해 같은 ID를 쓴다. (사례: 三木眞一郎 → `shinichiro-miki`. `shin-ichiro-miki`처럼 하이픈을 넣지 않는다)
 - **버전**: 원판 `ja`, 한국어 더빙 `ko-<방송사·플랫폼 약어>` (예: `ko-tooniverse`, `ko-aniplus`). 방송사를 모르면 `ko`.
 
 ## 2. 출처 정책 (`docs/06-data-collection.md` 4절)
@@ -52,12 +53,16 @@ skill_version: 0.1.0
 4. 캐릭터: 프랜차이즈 파일에 정의. `first_appearance`(이 사이트에 등록된 작품 중 첫 등장 작품·화), 스포일러 여부(정체·존재 자체가 후반에 밝혀지는 경우만 `spoiler: true`), 이름 없는 배역은 `nameless: true`.
    - 이미지: 공식 사이트 캐릭터 소개 이미지(`official_promotional`)를 우선. URL이 실제로 열리는지 확인된 것만. Tier 3 이미지 금지. 찾지 못하면 생략.
 5. Credit: 크레딧에 오른 **모든 배역**(주연·조연·단역·이름 없는 배역). `role`: main(주연) / supporting(조연) / minor(단역·게스트).
+   - **이름 없는 배역의 원어 표기**: 일본어 크레딧 원문(ja.wikipedia 성우 문서의 출연작 목록이 가장 좋은 출처, 공식 사이트 회차별 캐스트)을 그대로 쓴다. **영어 자료(ANN 등)를 일본어로 역번역하지 않는다.**
+     일본어 출처를 찾지 못하면 실제 출처의 표기(예: ANN 영어 "Soldier A")를 `original_lang: "en"`으로 넣고 Credit을 `"verification": "unverified"`로 둔다. 단, 작품 고유 용어의 명백한 오역(예: 人革連 → "Human Leather")은 성우 개인 문서 등에서 일본어 표기를 다시 찾아본다.
    - 한 캐릭터에 성우가 여럿이면 `part`(replaced/replacement/young/substitute)와 `episodes`, 사유는 `note`.
    - 시크릿 캐스트(성우 공개 자체가 스포일러)는 Credit에 `spoiler: true`.
 6. 성우: 새 성우는 `persons/<id>.json` 작성. 성별은 공개 정보가 있을 때만, 이미지는 위키미디어 커먼즈 등 Tier 1~2 자유 라이선스만(없으면 생략), 위키백과 링크.
 7. `meta`: `researched_at` 오늘, `verification.status` `"unverified"`, `skill_version` 이 파일의 skill_version.
 8. 검증 통과까지 수정: `npx tsx scripts/validate-data.ts --root data --root <root>/data --quiet-warnings`
    - **error 0**이어야 한다. warning은 보고서에 요약.
+
+- 임시 파일은 반드시 `<root>/tmp/`에 둔다. 공용 스크래치 폴더는 다른 에이전트와 충돌한다.
 
 ## 5. 보고서 `<root>/research.json`
 ```json
