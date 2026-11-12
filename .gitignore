@@ -1,0 +1,29 @@
+# dependencies
+node_modules/
+
+# build outputs (CI generates these; never commit)
+dist/
+public/data/db.*.json
+public/data/manifest.json
+
+# agent working files (research/verify reports, staging data)
+.work/
+
+# test outputs
+playwright-report/
+test-results/
+coverage/
+
+# env / editor / OS
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+
+# local Claude Code settings (project skills/agents in .claude/ ARE committed)
+.claude/settings.local.json
