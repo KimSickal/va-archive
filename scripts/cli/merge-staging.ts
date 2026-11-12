@@ -2,6 +2,7 @@
  * 스테이징 데이터를 data/로 병합한다.
  *
  *   npx tsx scripts/cli/merge-staging.ts .work/research/a/data .work/research/b/data
+ *   npx tsx scripts/cli/merge-staging.ts --out .work/preview/data <roots...>   # data/ 대신 다른 곳에 출력
  *
  * - works / franchises: 그대로 복사 (같은 id가 data/에 있으면 덮어씀 — 갱신 모드)
  * - persons: 같은 id가 여러 곳에 있으면 병합
@@ -15,8 +16,10 @@ import { join } from 'node:path';
 import type { Person, Source, VerificationStatus } from '../../src/types/data.ts';
 import { REPO } from '../lib/load.ts';
 
-const DATA = join(REPO, 'data');
-const roots = process.argv.slice(2);
+const argv = process.argv.slice(2);
+const outIdx = argv.indexOf('--out');
+const DATA = outIdx >= 0 ? argv.splice(outIdx, 2)[1] : join(REPO, 'data');
+const roots = argv;
 if (!roots.length) {
   console.error('usage: merge-staging.ts <staging-data-root>...');
   process.exit(1);
@@ -46,7 +49,11 @@ function mergePerson(a: Person, b: Person): Person {
   for (const k of ['gender', 'nationality', 'birth', 'death', 'agencies', 'debut_year'] as const) {
     const va = a[k];
     const vb = b[k];
-    if (va === undefined && vb !== undefined) (out as unknown as Record<string, unknown>)[k] = vb;
+    const o = out as unknown as Record<string, unknown>;
+    if (va === undefined && vb !== undefined) o[k] = vb;
+    // 날짜: 정밀도만 다르고 모순이 없으면 더 정밀한 값을 쓴다 (1980 vs 1980-05-08)
+    else if (typeof va === 'string' && typeof vb === 'string' && (va.startsWith(vb) || vb.startsWith(va)))
+      o[k] = va.length >= vb.length ? va : vb;
     else if (va !== undefined && vb !== undefined && JSON.stringify(va) !== JSON.stringify(vb))
       conflicts.push(`persons/${a.id}.${k}: ${JSON.stringify(va)} vs ${JSON.stringify(vb)} (먼저 나온 값 유지)`);
   }

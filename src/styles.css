@@ -609,3 +609,7 @@ thead th {
     padding: 2px 8px;
   }
 }
+.group-head .muted {
+  font-weight: 400;
+  font-size: 0.85rem;
+}
