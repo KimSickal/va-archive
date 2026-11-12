@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "redirects.schema.json",
+  "title": "ID 리다이렉트",
+  "description": "data/redirects.json. 부득이하게 바뀐 ID의 이전 → 새 ID 매핑 (즐겨찾기·URL 호환).",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["$schema", "persons", "franchises", "works"],
+  "properties": {
+    "$schema": { "const": "schema/redirects.schema.json" },
+    "persons": { "$ref": "#/$defs/Map" },
+    "franchises": { "$ref": "#/$defs/Map" },
+    "works": { "$ref": "#/$defs/Map" }
+  },
+  "$defs": {
+    "Map": {
+      "type": "object",
+      "propertyNames": { "$ref": "common.schema.json#/$defs/Id" },
+      "additionalProperties": { "$ref": "common.schema.json#/$defs/Id" }
+    }
+  }
+}

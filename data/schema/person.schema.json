@@ -1,0 +1,116 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "person.schema.json",
+  "title": "Person (성우)",
+  "description": "data/persons/<id>.json. 출연작은 저장하지 않음 (Work의 Credit에서 역산).",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "$schema",
+    "id",
+    "name",
+    "sources",
+    "meta"
+  ],
+  "properties": {
+    "$schema": {
+      "const": "../schema/person.schema.json"
+    },
+    "id": {
+      "$ref": "common.schema.json#/$defs/Id"
+    },
+    "name": {
+      "$ref": "common.schema.json#/$defs/Name"
+    },
+    "gender": {
+      "enum": [
+        "female",
+        "male",
+        "other"
+      ],
+      "description": "본인이 공개한 정보가 있을 때만"
+    },
+    "nationality": {
+      "type": "array",
+      "items": {
+        "$ref": "common.schema.json#/$defs/CountryCode"
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "birth": {
+      "$ref": "common.schema.json#/$defs/PartialDate",
+      "description": "Tier 1~2 출처가 있을 때만"
+    },
+    "death": {
+      "$ref": "common.schema.json#/$defs/PartialDate"
+    },
+    "agencies": {
+      "description": "소속사 이력 (오래된 순)",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "name"
+        ],
+        "properties": {
+          "name": {
+            "$ref": "common.schema.json#/$defs/Name"
+          },
+          "from": {
+            "$ref": "common.schema.json#/$defs/PartialDate"
+          },
+          "to": {
+            "$ref": "common.schema.json#/$defs/PartialDate"
+          }
+        }
+      }
+    },
+    "debut_year": {
+      "type": "integer",
+      "minimum": 1900,
+      "maximum": 2100
+    },
+    "image": {
+      "$ref": "common.schema.json#/$defs/Image",
+      "description": "선택. 공신력 있는 출처(위키미디어 커먼즈, 소속사 공식 프로필 등)의 이미지만"
+    },
+    "wikipedia": {
+      "$ref": "common.schema.json#/$defs/Wikipedia",
+      "description": "위키백과 문서 (언어판별)"
+    },
+    "links": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "kind",
+          "url"
+        ],
+        "properties": {
+          "kind": {
+            "enum": [
+              "official",
+              "agency",
+              "x",
+              "instagram",
+              "youtube",
+              "other"
+            ]
+          },
+          "url": {
+            "$ref": "common.schema.json#/$defs/Url"
+          }
+        }
+      }
+    },
+    "sources": {
+      "$ref": "common.schema.json#/$defs/Sources"
+    },
+    "meta": {
+      "$ref": "common.schema.json#/$defs/RecordMeta"
+    }
+  }
+}

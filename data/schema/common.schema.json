@@ -1,0 +1,432 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "common.schema.json",
+  "title": "va-archive 공통 정의",
+  "$defs": {
+    "Id": {
+      "description": "불변 식별자. 소문자 로마자 kebab-case.",
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "minLength": 1,
+      "maxLength": 80
+    },
+    "PartialDate": {
+      "description": "알려진 정밀도까지의 날짜: YYYY, YYYY-MM, YYYY-MM-DD.",
+      "type": "string",
+      "pattern": "^\\d{4}(-(0[1-9]|1[0-2])(-(0[1-9]|[12]\\d|3[01]))?)?$"
+    },
+    "FullDate": {
+      "description": "완전한 날짜 YYYY-MM-DD (조사일·검증일 등).",
+      "type": "string",
+      "pattern": "^\\d{4}-(0[1-9]|1[0-2])-(0[1-9]|[12]\\d|3[01])$"
+    },
+    "LangTag": {
+      "description": "BCP 47 언어 태그 (부분집합): 언어[-문자][-지역]. 예: ja, ko, en, zh-Hans, zh-Hant, yue, pt-BR. 중국어(zh)는 문자 표기(Hans/Hant)를 붙인다 (검증 스크립트 확인).",
+      "type": "string",
+      "pattern": "^[a-z]{2,3}(-[A-Z][a-z]{3})?(-([A-Z]{2}|\\d{3}))?$"
+    },
+    "CountryCode": {
+      "description": "ISO 3166-1 alpha-2 국가 코드.",
+      "type": "string",
+      "pattern": "^[A-Z]{2}$"
+    },
+    "SemVer": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$"
+    },
+    "Url": {
+      "type": "string",
+      "pattern": "^https?://\\S+$"
+    },
+    "NonEmptyString": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "\\S"
+    },
+    "Aliases": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/NonEmptyString"
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "Name": {
+      "description": "고유명사(사람·작품·캐릭터·회사 이름). 원어 표기·로마자 필수. official에는 원어 외 언어의 공식 표기만, aliases에는 비공식 통용 표기·구표기·이체자·어순 변형 등 검색용 표기를 넣음(공식 표기가 없어도 가능). official에 original_lang 키는 넣지 않음 (검증 스크립트 확인).",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "original_lang",
+        "original",
+        "latin"
+      ],
+      "properties": {
+        "original_lang": {
+          "$ref": "#/$defs/LangTag",
+          "description": "원어의 언어"
+        },
+        "original": {
+          "$ref": "#/$defs/NonEmptyString",
+          "description": "원어 표기"
+        },
+        "latin": {
+          "$ref": "#/$defs/NonEmptyString",
+          "description": "로마자 표기 (ID 생성 기준)"
+        },
+        "official": {
+          "description": "원어 외 언어의 공식 표기. 키: 언어 태그",
+          "type": "object",
+          "propertyNames": {
+            "$ref": "#/$defs/LangTag"
+          },
+          "additionalProperties": {
+            "$ref": "#/$defs/NonEmptyString"
+          },
+          "minProperties": 1
+        },
+        "aliases": {
+          "description": "검색용 별칭. 키: 언어 태그",
+          "type": "object",
+          "propertyNames": {
+            "$ref": "#/$defs/LangTag"
+          },
+          "additionalProperties": {
+            "$ref": "#/$defs/Aliases"
+          },
+          "minProperties": 1
+        }
+      }
+    },
+    "Text": {
+      "description": "사용자에게 보이는 서술형 텍스트(버전명, 설명, 비고 등). 원문 + 사이트 표시 언어(현재 ja/ko/en) 전부의 번역 필수. 원문 언어가 표시 언어이면 그 언어는 translations에 넣지 않음. 공식 번역이 없어 직접 번역한 언어는 translated에 표시 (translations의 키여야 함, 검증 스크립트 확인).",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "original_lang",
+        "original"
+      ],
+      "properties": {
+        "original_lang": {
+          "$ref": "#/$defs/LangTag",
+          "description": "원문의 언어"
+        },
+        "original": {
+          "$ref": "#/$defs/NonEmptyString",
+          "description": "원문"
+        },
+        "translations": {
+          "type": "object",
+          "propertyNames": {
+            "$ref": "#/$defs/LangTag"
+          },
+          "additionalProperties": {
+            "$ref": "#/$defs/NonEmptyString"
+          },
+          "minProperties": 1
+        },
+        "translated": {
+          "description": "직접 번역한 언어 목록",
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/LangTag"
+          },
+          "minItems": 1,
+          "uniqueItems": true
+        }
+      },
+      "allOf": [
+        {
+          "$comment": "표시 언어 ja: 원문이 ja이면 번역에 넣지 않고, 아니면 번역 필수",
+          "if": {
+            "properties": {
+              "original_lang": {
+                "const": "ja"
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "translations": {
+                "type": "object",
+                "not": {
+                  "required": [
+                    "ja"
+                  ]
+                }
+              }
+            }
+          },
+          "else": {
+            "required": [
+              "translations"
+            ],
+            "properties": {
+              "translations": {
+                "type": "object",
+                "required": [
+                  "ja"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "$comment": "표시 언어 ko: 원문이 ko이면 번역에 넣지 않고, 아니면 번역 필수",
+          "if": {
+            "properties": {
+              "original_lang": {
+                "const": "ko"
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "translations": {
+                "type": "object",
+                "not": {
+                  "required": [
+                    "ko"
+                  ]
+                }
+              }
+            }
+          },
+          "else": {
+            "required": [
+              "translations"
+            ],
+            "properties": {
+              "translations": {
+                "type": "object",
+                "required": [
+                  "ko"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "$comment": "표시 언어 en: 원문이 en이면 번역에 넣지 않고, 아니면 번역 필수",
+          "if": {
+            "properties": {
+              "original_lang": {
+                "const": "en"
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "translations": {
+                "type": "object",
+                "not": {
+                  "required": [
+                    "en"
+                  ]
+                }
+              }
+            }
+          },
+          "else": {
+            "required": [
+              "translations"
+            ],
+            "properties": {
+              "translations": {
+                "type": "object",
+                "required": [
+                  "en"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    "Wikipedia": {
+      "description": "해당 대상의 위키백과 문서. 키: 위키백과 언어판 코드(ja, ko, en, zh 등), 값: 문서 URL. 키와 URL 서브도메인 일치는 검증 스크립트가 확인.",
+      "type": "object",
+      "propertyNames": {
+        "type": "string",
+        "pattern": "^[a-z]{2,3}(-[a-z]+)?$"
+      },
+      "additionalProperties": {
+        "type": "string",
+        "pattern": "^https://[a-z-]+\\.wikipedia\\.org/wiki/\\S+$"
+      },
+      "minProperties": 1
+    },
+    "Image": {
+      "description": "외부 이미지 참조 (레포에 파일을 저장하지 않고 원본 URL을 표시). source_ref가 가리키는 출처는 Tier 1~2여야 함 (검증 스크립트가 확인).",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "url",
+        "page_url",
+        "source_ref",
+        "license",
+        "credit"
+      ],
+      "properties": {
+        "url": {
+          "type": "string",
+          "pattern": "^https://\\S+$",
+          "description": "이미지 파일 직접 URL"
+        },
+        "page_url": {
+          "$ref": "#/$defs/Url",
+          "description": "이미지가 게시된 페이지 (위키미디어 파일 페이지, 공식 캐릭터 소개 페이지 등)"
+        },
+        "source_ref": {
+          "type": "string",
+          "pattern": "^s[1-9]\\d*$"
+        },
+        "license": {
+          "enum": [
+            "cc0",
+            "public_domain",
+            "cc_by",
+            "cc_by_sa",
+            "official_promotional",
+            "other"
+          ],
+          "description": "official_promotional: 권리자가 공식 사이트에 게시한 홍보용 이미지"
+        },
+        "credit": {
+          "$ref": "#/$defs/NonEmptyString",
+          "description": "표시할 저작자·라이선스 표기 (원문 그대로, 번역하지 않음)"
+        }
+      }
+    },
+    "Source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "url",
+        "title",
+        "publisher",
+        "tier",
+        "accessed_at"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^s[1-9]\\d*$",
+          "description": "파일 내 유일 (s1, s2, …)"
+        },
+        "url": {
+          "$ref": "#/$defs/Url"
+        },
+        "title": {
+          "$ref": "#/$defs/NonEmptyString",
+          "description": "출처 페이지 제목 원문 (인용 정보이므로 번역하지 않음)"
+        },
+        "publisher": {
+          "enum": [
+            "official",
+            "broadcaster",
+            "agency",
+            "personal_sns",
+            "wikipedia",
+            "wikimedia_commons",
+            "ann",
+            "news",
+            "namuwiki",
+            "mal",
+            "anidb",
+            "fandom",
+            "other"
+          ]
+        },
+        "tier": {
+          "enum": [
+            1,
+            2,
+            3
+          ],
+          "description": "1: 1차 출처, 2: 신뢰 2차, 3: 보조(단독 근거 불가)"
+        },
+        "accessed_at": {
+          "$ref": "#/$defs/FullDate"
+        }
+      }
+    },
+    "Sources": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/Source"
+      },
+      "minItems": 1
+    },
+    "SourceRefs": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^s[1-9]\\d*$"
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "VerificationStatus": {
+      "enum": [
+        "unverified",
+        "verified",
+        "disputed",
+        "user_confirmed"
+      ]
+    },
+    "RecordMeta": {
+      "description": "관리용 메타데이터. notes는 내부용이며 사이트에 표시하지 않으므로 번역하지 않음.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "researched_at",
+        "verification",
+        "skill_version"
+      ],
+      "properties": {
+        "researched_at": {
+          "$ref": "#/$defs/FullDate",
+          "description": "마지막 조사일 (재조사 안내 기준)"
+        },
+        "verification": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "status"
+          ],
+          "properties": {
+            "status": {
+              "$ref": "#/$defs/VerificationStatus"
+            },
+            "verified_at": {
+              "$ref": "#/$defs/FullDate"
+            },
+            "notes": {
+              "$ref": "#/$defs/NonEmptyString"
+            }
+          },
+          "if": {
+            "properties": {
+              "status": {
+                "enum": [
+                  "verified",
+                  "user_confirmed"
+                ]
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "verified_at"
+            ]
+          }
+        },
+        "skill_version": {
+          "$ref": "#/$defs/SemVer",
+          "description": "작성한 수집 스킬 버전"
+        }
+      }
+    }
+  }
+}

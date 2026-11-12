@@ -1,0 +1,333 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "work.schema.json",
+  "title": "Work (작품)",
+  "description": "data/works/<id>.json. 시즌·극장판·OVA·게임 각각이 별개 작품.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "$schema",
+    "id",
+    "franchise_id",
+    "type",
+    "title",
+    "status",
+    "versions",
+    "sources",
+    "meta"
+  ],
+  "properties": {
+    "$schema": {
+      "const": "../schema/work.schema.json"
+    },
+    "id": {
+      "$ref": "common.schema.json#/$defs/Id"
+    },
+    "franchise_id": {
+      "$ref": "common.schema.json#/$defs/Id"
+    },
+    "type": {
+      "enum": [
+        "anime_tv",
+        "anime_movie",
+        "anime_ova",
+        "anime_ona",
+        "anime_special",
+        "game"
+      ]
+    },
+    "title": {
+      "$ref": "common.schema.json#/$defs/Name"
+    },
+    "order": {
+      "type": "number",
+      "description": "프랜차이즈 내 정렬 순서"
+    },
+    "status": {
+      "enum": [
+        "announced",
+        "airing",
+        "finished",
+        "released",
+        "live_service",
+        "ended_service"
+      ],
+      "description": "애니: announced/airing/finished, 게임: announced/released/live_service/ended_service"
+    },
+    "start_date": {
+      "$ref": "common.schema.json#/$defs/PartialDate",
+      "description": "첫 방영일 / 개봉일 / 출시일"
+    },
+    "end_date": {
+      "$ref": "common.schema.json#/$defs/PartialDate",
+      "description": "마지막 방영일. 재조사 안내 기준"
+    },
+    "episodes": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "runtime_min": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "studios": {
+      "$ref": "#/$defs/NameList",
+      "description": "애니 제작사"
+    },
+    "developers": {
+      "$ref": "#/$defs/NameList",
+      "description": "게임 개발사"
+    },
+    "publishers": {
+      "$ref": "#/$defs/NameList",
+      "description": "게임 퍼블리셔 / 애니 배급사"
+    },
+    "wikipedia": {
+      "$ref": "common.schema.json#/$defs/Wikipedia",
+      "description": "위키백과 문서 (언어판별)"
+    },
+    "platforms": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "pc",
+          "ps4",
+          "ps5",
+          "switch",
+          "switch2",
+          "xbox_one",
+          "xbox_series",
+          "ios",
+          "android",
+          "web",
+          "other"
+        ]
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "versions": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/Version"
+      },
+      "minItems": 1,
+      "contains": {
+        "type": "object",
+        "properties": {
+          "kind": {
+            "const": "original"
+          }
+        },
+        "required": [
+          "kind"
+        ]
+      },
+      "minContains": 1
+    },
+    "sources": {
+      "$ref": "common.schema.json#/$defs/Sources"
+    },
+    "meta": {
+      "$ref": "common.schema.json#/$defs/RecordMeta"
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "type": {
+            "const": "game"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "episodes": false,
+          "runtime_min": false,
+          "studios": false,
+          "status": {
+            "enum": [
+              "announced",
+              "released",
+              "live_service",
+              "ended_service"
+            ]
+          }
+        }
+      },
+      "else": {
+        "properties": {
+          "platforms": false,
+          "developers": false,
+          "status": {
+            "enum": [
+              "announced",
+              "airing",
+              "finished"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "type": {
+            "const": "anime_movie"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "episodes": false
+        }
+      }
+    }
+  ],
+  "$defs": {
+    "NameList": {
+      "type": "array",
+      "items": {
+        "$ref": "common.schema.json#/$defs/Name"
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "Version": {
+      "description": "음성 버전: 원판 또는 특정 더빙판.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "language",
+        "kind",
+        "label",
+        "credits"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "common.schema.json#/$defs/Id",
+          "description": "작품 내 유일. 예: ja, ko-tooniverse, ko-netflix"
+        },
+        "language": {
+          "$ref": "common.schema.json#/$defs/LangTag",
+          "description": "음성 언어 (BCP 47. 예: ja, ko, en, zh-Hans, yue)"
+        },
+        "kind": {
+          "enum": [
+            "original",
+            "dub"
+          ]
+        },
+        "label": {
+          "$ref": "common.schema.json#/$defs/Text",
+          "description": "버전명. 예: 한국어 더빙 (애니플러스)"
+        },
+        "distributor": {
+          "$ref": "common.schema.json#/$defs/Name",
+          "description": "더빙 방송사/플랫폼/배급사"
+        },
+        "release_date": {
+          "$ref": "common.schema.json#/$defs/PartialDate"
+        },
+        "last_release_date": {
+          "$ref": "common.schema.json#/$defs/PartialDate",
+          "description": "이 버전의 마지막 공개일 (재조사 안내 기준)"
+        },
+        "credits": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/Credit"
+          }
+        },
+        "source_refs": {
+          "$ref": "common.schema.json#/$defs/SourceRefs"
+        }
+      }
+    },
+    "Credit": {
+      "description": "배역 1건 = (캐릭터, 성우).",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "character",
+        "person",
+        "role",
+        "source_refs"
+      ],
+      "properties": {
+        "character": {
+          "$ref": "common.schema.json#/$defs/Id",
+          "description": "franchise.characters[].id"
+        },
+        "person": {
+          "$ref": "common.schema.json#/$defs/Id",
+          "description": "persons/<id>"
+        },
+        "role": {
+          "enum": [
+            "main",
+            "supporting",
+            "minor"
+          ],
+          "description": "main=주연, supporting=조연, minor=단역(게스트 포함)"
+        },
+        "part": {
+          "enum": [
+            "regular",
+            "replaced",
+            "replacement",
+            "young",
+            "substitute",
+            "other"
+          ],
+          "description": "한 캐릭터에 성우가 여럿일 때 구분. replaced=교체 전, replacement=교체 후, young=아역, substitute=일시 대역"
+        },
+        "episodes": {
+          "description": "담당 회차. 범위 객체 또는 자유 표기 문자열(예: \"1-12, 15\")",
+          "oneOf": [
+            {
+              "type": "object",
+              "additionalProperties": false,
+              "minProperties": 1,
+              "properties": {
+                "from": {
+                  "type": "integer",
+                  "minimum": 1
+                },
+                "to": {
+                  "type": "integer",
+                  "minimum": 1
+                }
+              }
+            },
+            {
+              "type": "string",
+              "pattern": "^\\d+(-\\d+)?(, ?\\d+(-\\d+)?)*$"
+            }
+          ]
+        },
+        "note": {
+          "$ref": "common.schema.json#/$defs/Text",
+          "description": "보충 설명"
+        },
+        "credited_as": {
+          "$ref": "common.schema.json#/$defs/NonEmptyString",
+          "description": "크레딧 표기가 본명과 다를 때. 크레딧 원문 그대로 (번역하지 않음)"
+        },
+        "spoiler": {
+          "type": "boolean",
+          "description": "이 배역의 성우 정보 자체가 스포일러 (시크릿 캐스트 등). 성우를 가림"
+        },
+        "source_refs": {
+          "$ref": "common.schema.json#/$defs/SourceRefs"
+        },
+        "verification": {
+          "$ref": "common.schema.json#/$defs/VerificationStatus",
+          "description": "생략 시 파일 meta 상태를 따름"
+        }
+      }
+    }
+  }
+}
