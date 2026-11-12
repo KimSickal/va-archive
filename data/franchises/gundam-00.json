@@ -1,0 +1,3347 @@
+{
+  "$schema": "../schema/franchise.schema.json",
+  "id": "gundam-00",
+  "title": {
+    "original_lang": "ja",
+    "original": "機動戦士ガンダム00",
+    "latin": "Kido Senshi Gundam Daburu O",
+    "official": {
+      "en": "Mobile Suit Gundam 00"
+    },
+    "aliases": {
+      "ja": [
+        "ガンダムOO",
+        "ガンダムダブルオー"
+      ],
+      "ko": [
+        "기동전사 건담 00",
+        "기동전사 건담 더블오"
+      ],
+      "en": [
+        "Gundam 00",
+        "Gundam Double O"
+      ]
+    }
+  },
+  "original_media": "anime_original",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A000",
+    "ko": "https://ko.wikipedia.org/wiki/%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC_%EA%B1%B4%EB%8B%B4_%EB%8D%94%EB%B8%94_%EC%98%A4",
+    "en": "https://en.wikipedia.org/wiki/Mobile_Suit_Gundam_00"
+  },
+  "characters": [
+    {
+      "id": "setsuna-f-seiei",
+      "name": {
+        "original_lang": "ja",
+        "original": "刹那・F・セイエイ",
+        "latin": "Setsuna F. Seiei",
+        "official": {
+          "en": "Setsuna F. Seiei"
+        },
+        "aliases": {
+          "ja": [
+            "ソラン・イブラヒム"
+          ],
+          "ko": [
+            "세츠나 F. 세이에이"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "ガンダムエクシアなどのガンダムマイスターを務める主人公",
+        "translations": {
+          "ko": "건담 엑시아 등을 조종하는 건담 마이스터이자 주인공",
+          "en": "The protagonist, Gundam Meister of Exia and later units"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 1
+      }
+    },
+    {
+      "id": "neil-dylandy",
+      "name": {
+        "original_lang": "ja",
+        "original": "ニール・ディランディ",
+        "latin": "Neil Dylandy",
+        "official": {
+          "en": "Neil Dylandy"
+        },
+        "aliases": {
+          "ja": [
+            "ロックオン・ストラトス"
+          ],
+          "ko": [
+            "록온 스트라토스"
+          ],
+          "en": [
+            "Lockon Stratos"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "初代ロックオン・ストラトス。ガンダムデュナメスのマイスター",
+        "translations": {
+          "ko": "초대 록온 스트라토스. 건담 듀나메스의 마이스터",
+          "en": "The first Lockon Stratos, Meister of Gundam Dynames"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 1
+      }
+    },
+    {
+      "id": "lyle-dylandy",
+      "name": {
+        "original_lang": "ja",
+        "original": "ライル・ディランディ",
+        "latin": "Lyle Dylandy",
+        "official": {
+          "en": "Lyle Dylandy"
+        },
+        "aliases": {
+          "ja": [
+            "ロックオン・ストラトス"
+          ],
+          "en": [
+            "Lockon Stratos"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "ニールの双子の弟。二代目ロックオン・ストラトス",
+        "translations": {
+          "ko": "닐의 쌍둥이 동생. 2대 록온 스트라토스",
+          "en": "Neil's twin brother and the second Lockon Stratos"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 9
+      }
+    },
+    {
+      "id": "allelujah-haptism",
+      "name": {
+        "original_lang": "ja",
+        "original": "アレルヤ・ハプティズム",
+        "latin": "Allelujah Haptism",
+        "official": {
+          "en": "Allelujah Haptism"
+        },
+        "aliases": {
+          "ko": [
+            "알렐루야 합티즘"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "ガンダムキュリオスのマイスター。超兵の二重人格ハレルヤを持つ",
+        "translations": {
+          "ko": "건담 큐리오스의 마이스터. 초병으로 이중인격 할렐루야를 지닌다",
+          "en": "Meister of Gundam Kyrios, a super soldier with an alter ego named Hallelujah"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 1
+      }
+    },
+    {
+      "id": "tieria-erde",
+      "name": {
+        "original_lang": "ja",
+        "original": "ティエリア・アーデ",
+        "latin": "Tieria Erde",
+        "official": {
+          "en": "Tieria Erde"
+        },
+        "aliases": {
+          "ko": [
+            "티에리아 아데"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "ガンダムヴァーチェのマイスター",
+        "translations": {
+          "ko": "건담 버체의 마이스터",
+          "en": "Meister of Gundam Virtue"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 1
+      }
+    },
+    {
+      "id": "sumeragi-lee-noriega",
+      "name": {
+        "original_lang": "ja",
+        "original": "スメラギ・李・ノリエガ",
+        "latin": "Sumeragi Lee Noriega",
+        "official": {
+          "en": "Sumeragi Lee Noriega"
+        },
+        "aliases": {
+          "ko": [
+            "스메라기 리 노리에가"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "プトレマイオスの戦術予報士",
+        "translations": {
+          "ko": "프톨레마이오스의 전술 예보사",
+          "en": "Tactical forecaster aboard the Ptolemaios"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 1
+      }
+    },
+    {
+      "id": "feldt-grace",
+      "name": {
+        "original_lang": "ja",
+        "original": "フェルト・グレイス",
+        "latin": "Feldt Grace",
+        "official": {
+          "en": "Feldt Grace"
+        },
+        "aliases": {
+          "ko": [
+            "펠트 그레이스"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "プトレマイオスのオペレーター",
+        "translations": {
+          "ko": "프톨레마이오스의 오퍼레이터",
+          "en": "Operator aboard the Ptolemaios"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 1
+      }
+    },
+    {
+      "id": "christina-sierra",
+      "name": {
+        "original_lang": "ja",
+        "original": "クリスティナ・シエラ",
+        "latin": "Christina Sierra",
+        "official": {
+          "en": "Christina Sierra"
+        },
+        "aliases": {
+          "ko": [
+            "크리스티나 시에라"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "プトレマイオスのオペレーター",
+        "translations": {
+          "ko": "프톨레마이오스의 오퍼레이터",
+          "en": "Operator aboard the Ptolemaios"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 1
+      }
+    },
+    {
+      "id": "lichtendahl-tsery",
+      "name": {
+        "original_lang": "ja",
+        "original": "リヒテンダール・ツエーリ",
+        "latin": "Lichtendahl Tsery",
+        "official": {
+          "en": "Lichtendahl Tsery"
+        },
+        "aliases": {
+          "ko": [
+            "리히텐달 츠에리"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "プトレマイオスの操舵手",
+        "translations": {
+          "ko": "프톨레마이오스의 조타수",
+          "en": "Helmsman of the Ptolemaios"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 1
+      }
+    },
+    {
+      "id": "lasse-aeon",
+      "name": {
+        "original_lang": "ja",
+        "original": "ラッセ・アイオン",
+        "latin": "Lasse Aeon",
+        "official": {
+          "en": "Lasse Aeon"
+        },
+        "aliases": {
+          "ko": [
+            "랏세 아이온"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "プトレマイオスの砲撃士",
+        "translations": {
+          "ko": "프톨레마이오스의 포격수",
+          "en": "Gunner aboard the Ptolemaios"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 1
+      }
+    },
+    {
+      "id": "ian-vashti",
+      "name": {
+        "original_lang": "ja",
+        "original": "イアン・ヴァスティ",
+        "latin": "Ian Vashti",
+        "official": {
+          "en": "Ian Vashti"
+        },
+        "aliases": {
+          "ko": [
+            "이안 바스티"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "ソレスタルビーイングの技術者",
+        "translations": {
+          "ko": "솔레스탈 비잉의 기술자",
+          "en": "Celestial Being engineer"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1"
+      }
+    },
+    {
+      "id": "joyce-b-moreno",
+      "name": {
+        "original_lang": "ja",
+        "original": "JB・モレノ",
+        "latin": "JB Moreno",
+        "official": {
+          "en": "Joyce B. Moreno"
+        },
+        "aliases": {
+          "ja": [
+            "ジョイス・モレノ"
+          ],
+          "ko": [
+            "조이스 몰레노"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "プトレマイオスの船医",
+        "translations": {
+          "ko": "프톨레마이오스의 선의",
+          "en": "Ship's doctor of the Ptolemaios"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1"
+      }
+    },
+    {
+      "id": "mileina-vashti",
+      "name": {
+        "original_lang": "ja",
+        "original": "ミレイナ・ヴァスティ",
+        "latin": "Mileina Vashti",
+        "official": {
+          "en": "Mileina Vashti"
+        },
+        "aliases": {
+          "ko": [
+            "밀레이나 바스티"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "イアンの娘。プトレマイオス2のオペレーター",
+        "translations": {
+          "ko": "이안의 딸. 프톨레마이오스 2의 오퍼레이터",
+          "en": "Ian's daughter and an operator of Ptolemaios 2"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2"
+      }
+    },
+    {
+      "id": "anew-returner",
+      "name": {
+        "original_lang": "ja",
+        "original": "アニュー・リターナー",
+        "latin": "Anew Returner",
+        "official": {
+          "en": "Anew Returner"
+        },
+        "aliases": {
+          "ko": [
+            "어뉴 리터너"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "プトレマイオス2に加わる操舵手",
+        "translations": {
+          "ko": "프톨레마이오스 2에 합류하는 조타수",
+          "en": "Helmsman who joins the Ptolemaios 2"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2"
+      }
+    },
+    {
+      "id": "haro",
+      "name": {
+        "original_lang": "ja",
+        "original": "ハロ",
+        "latin": "Haro",
+        "official": {
+          "en": "Haro"
+        },
+        "aliases": {
+          "ko": [
+            "하로"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "ソレスタルビーイングのオレンジ色のハロ",
+        "translations": {
+          "ko": "솔레스탈 비잉의 주황색 하로",
+          "en": "Celestial Being's orange Haro"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 1
+      }
+    },
+    {
+      "id": "red-haro",
+      "name": {
+        "original_lang": "ja",
+        "original": "赤ハロ",
+        "latin": "Aka Haro",
+        "official": {
+          "en": "Red Haro"
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2"
+      }
+    },
+    {
+      "id": "blue-haro",
+      "name": {
+        "original_lang": "ja",
+        "original": "青ハロ",
+        "latin": "Ao Haro",
+        "official": {
+          "en": "Blue Haro"
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-movie"
+      }
+    },
+    {
+      "id": "trinity-haro",
+      "name": {
+        "original_lang": "ja",
+        "original": "HARO",
+        "latin": "HARO",
+        "official": {
+          "en": "HARO"
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "トリニティ所有の紫色のハロ",
+        "translations": {
+          "ko": "트리니티가 소유한 보라색 하로",
+          "en": "The Trinity siblings' purple Haro"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1"
+      }
+    },
+    {
+      "id": "johann-trinity",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヨハン・トリニティ",
+        "latin": "Johann Trinity",
+        "official": {
+          "en": "Johann Trinity"
+        },
+        "aliases": {
+          "ko": [
+            "요한 트리니티"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "トリニティ兄妹の長兄",
+        "translations": {
+          "ko": "트리니티 남매의 장남",
+          "en": "Eldest of the Trinity siblings"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1"
+      }
+    },
+    {
+      "id": "michael-trinity",
+      "name": {
+        "original_lang": "ja",
+        "original": "ミハエル・トリニティ",
+        "latin": "Michael Trinity",
+        "official": {
+          "en": "Michael Trinity"
+        },
+        "aliases": {
+          "ko": [
+            "미하일 트리니티"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "トリニティ兄妹の次兄",
+        "translations": {
+          "ko": "트리니티 남매의 차남",
+          "en": "Second of the Trinity siblings"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1"
+      }
+    },
+    {
+      "id": "nena-trinity",
+      "name": {
+        "original_lang": "ja",
+        "original": "ネーナ・トリニティ",
+        "latin": "Nena Trinity",
+        "official": {
+          "en": "Nena Trinity"
+        },
+        "aliases": {
+          "ko": [
+            "네나 트리니티"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "トリニティ兄妹の末妹",
+        "translations": {
+          "ko": "트리니티 남매의 막내 여동생",
+          "en": "Youngest of the Trinity siblings"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1"
+      }
+    },
+    {
+      "id": "wang-liu-mei",
+      "name": {
+        "original_lang": "ja",
+        "original": "王留美",
+        "latin": "Wang Liu Mei",
+        "official": {
+          "en": "Wang Liu Mei"
+        },
+        "aliases": {
+          "ja": [
+            "ワン・リューミン"
+          ],
+          "ko": [
+            "왕 류밍"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "ソレスタルビーイングを支援するエージェント",
+        "translations": {
+          "ko": "솔레스탈 비잉을 지원하는 에이전트",
+          "en": "An agent supporting Celestial Being"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1"
+      }
+    },
+    {
+      "id": "hong-long",
+      "name": {
+        "original_lang": "ja",
+        "original": "紅龍",
+        "latin": "Hong Long",
+        "official": {
+          "en": "Hong Long"
+        },
+        "aliases": {
+          "ja": [
+            "ホンロン"
+          ],
+          "ko": [
+            "훙룽"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1"
+      }
+    },
+    {
+      "id": "linda-vashti",
+      "name": {
+        "original_lang": "ja",
+        "original": "リンダ・ヴァスティ",
+        "latin": "Linda Vashti",
+        "official": {
+          "en": "Linda Vashti"
+        },
+        "aliases": {
+          "ko": [
+            "린다 바스티"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 9
+      }
+    },
+    {
+      "id": "aeolia-schenberg",
+      "name": {
+        "original_lang": "ja",
+        "original": "イオリア・シュヘンベルグ",
+        "latin": "Aeolia Schenberg",
+        "official": {
+          "en": "Aeolia Schenberg"
+        },
+        "aliases": {
+          "ko": [
+            "이오리아 슈헨베르크"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "ソレスタルビーイングの創設者",
+        "translations": {
+          "ko": "솔레스탈 비잉의 창설자",
+          "en": "Founder of Celestial Being"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 1
+      }
+    },
+    {
+      "id": "alejandro-corner",
+      "name": {
+        "original_lang": "ja",
+        "original": "アレハンドロ・コーナー",
+        "latin": "Alejandro Corner",
+        "official": {
+          "en": "Alejandro Corner"
+        },
+        "aliases": {
+          "ko": [
+            "알레한드로 코너"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "ソレスタルビーイングの監視者の一人",
+        "translations": {
+          "ko": "솔레스탈 비잉의 감시자 중 한 명",
+          "en": "One of Celestial Being's observers"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1"
+      }
+    },
+    {
+      "id": "ragna-harvey",
+      "name": {
+        "original_lang": "ja",
+        "original": "ラグナ・ハーヴェイ",
+        "latin": "Ragna Harvey",
+        "official": {
+          "en": "Ragna Harvey"
+        },
+        "aliases": {
+          "ko": [
+            "라그나 하베"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1"
+      }
+    },
+    {
+      "id": "ribbons-almark",
+      "name": {
+        "original_lang": "ja",
+        "original": "リボンズ・アルマーク",
+        "latin": "Ribbons Almark",
+        "official": {
+          "en": "Ribbons Almark"
+        },
+        "aliases": {
+          "ko": [
+            "리본즈 알마크"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "イノベイターを名乗るイノベイドの指導者",
+        "translations": {
+          "ko": "이노베이터를 자칭하는 이노베이드의 지도자",
+          "en": "Leader of the Innovades who call themselves Innovators"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1"
+      }
+    },
+    {
+      "id": "regene-regetta",
+      "name": {
+        "original_lang": "ja",
+        "original": "リジェネ・レジェッタ",
+        "latin": "Regene Regetta",
+        "official": {
+          "en": "Regene Regetta"
+        },
+        "aliases": {
+          "ko": [
+            "리제네 레젯타"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 25
+      }
+    },
+    {
+      "id": "revive-revival",
+      "name": {
+        "original_lang": "ja",
+        "original": "リヴァイヴ・リバイバル",
+        "latin": "Revive Revival",
+        "official": {
+          "en": "Revive Revival"
+        },
+        "aliases": {
+          "ko": [
+            "리바이브 리바이벌"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2"
+      }
+    },
+    {
+      "id": "hiling-care",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヒリング・ケア",
+        "latin": "Hiling Care",
+        "official": {
+          "en": "Hiling Care"
+        },
+        "aliases": {
+          "ko": [
+            "힐링 케어"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2"
+      }
+    },
+    {
+      "id": "bring-stabity",
+      "name": {
+        "original_lang": "ja",
+        "original": "ブリング・スタビティ",
+        "latin": "Bring Stabity",
+        "official": {
+          "en": "Bring Stabity"
+        },
+        "aliases": {
+          "ko": [
+            "브링 스태비티"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 10
+      }
+    },
+    {
+      "id": "devine-nova",
+      "name": {
+        "original_lang": "ja",
+        "original": "デヴァイン・ノヴァ",
+        "latin": "Devine Nova",
+        "official": {
+          "en": "Devine Nova"
+        },
+        "aliases": {
+          "ko": [
+            "디바인 노바"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 15
+      }
+    },
+    {
+      "id": "innovade-soldier",
+      "name": {
+        "original_lang": "ja",
+        "original": "イノベイド兵",
+        "latin": "Innovade-hei",
+        "aliases": {
+          "en": [
+            "Innovade soldier"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 23
+      },
+      "nameless": true
+    },
+    {
+      "id": "innovade-technician-movie",
+      "name": {
+        "original_lang": "ja",
+        "original": "イノベイド技術担当",
+        "latin": "Innovade gijutsu tanto",
+        "aliases": {
+          "en": [
+            "Innovade technical staff"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-movie"
+      },
+      "nameless": true
+    },
+    {
+      "id": "press-secretary",
+      "name": {
+        "original_lang": "ja",
+        "original": "報道官",
+        "latin": "Hodokan",
+        "aliases": {
+          "en": [
+            "Press secretary"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 25
+      },
+      "nameless": true
+    },
+    {
+      "id": "graham-aker",
+      "name": {
+        "original_lang": "ja",
+        "original": "グラハム・エーカー",
+        "latin": "Graham Aker",
+        "official": {
+          "en": "Graham Aker"
+        },
+        "aliases": {
+          "ja": [
+            "ミスター・ブシドー"
+          ],
+          "ko": [
+            "그라함 에이커"
+          ],
+          "en": [
+            "Mr. Bushido"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "ユニオンのフラッグファイター。ガンダムに執着する",
+        "translations": {
+          "ko": "유니온의 플래그 파이터. 건담에 집착한다",
+          "en": "A Union Flag pilot obsessed with the Gundams"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 1
+      }
+    },
+    {
+      "id": "billy-katagiri",
+      "name": {
+        "original_lang": "ja",
+        "original": "ビリー・カタギリ",
+        "latin": "Billy Katagiri",
+        "official": {
+          "en": "Billy Katagiri"
+        },
+        "aliases": {
+          "ko": [
+            "빌리 카타기리"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "グラハムの親友であるMS技術者",
+        "translations": {
+          "ko": "그라함의 친구인 MS 기술자",
+          "en": "MS engineer and Graham's friend"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 1
+      }
+    },
+    {
+      "id": "ralph-eifman",
+      "name": {
+        "original_lang": "ja",
+        "original": "レイフ・エイフマン",
+        "latin": "Ralph Eifman",
+        "official": {
+          "en": "Ralph Eifman"
+        },
+        "aliases": {
+          "ko": [
+            "레이프 에이프먼"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1"
+      }
+    },
+    {
+      "id": "howard-mason",
+      "name": {
+        "original_lang": "ja",
+        "original": "ハワード・メイスン",
+        "latin": "Howard Mason",
+        "official": {
+          "en": "Howard Mason"
+        },
+        "aliases": {
+          "ko": [
+            "하워드 메이슨"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1"
+      }
+    },
+    {
+      "id": "daryl-dodge",
+      "name": {
+        "original_lang": "ja",
+        "original": "ダリル・ダッジ",
+        "latin": "Daryl Dodge",
+        "official": {
+          "en": "Daryl Dodge"
+        },
+        "aliases": {
+          "ko": [
+            "대릴 도지"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1"
+      }
+    },
+    {
+      "id": "joshua-edwards",
+      "name": {
+        "original_lang": "ja",
+        "original": "ジョシュア・エドワーズ",
+        "latin": "Joshua Edwards",
+        "official": {
+          "en": "Joshua Edwards"
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 14
+      }
+    },
+    {
+      "id": "brian-stegmeyer",
+      "name": {
+        "original_lang": "ja",
+        "original": "ブライアン・ステッグマイヤー",
+        "latin": "Brian Stegmeyer",
+        "official": {
+          "en": "Brian Stegmeyer"
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1"
+      }
+    },
+    {
+      "id": "david-carnegie",
+      "name": {
+        "original_lang": "ja",
+        "original": "デビッド・カーネギー",
+        "latin": "David Carnegie",
+        "official": {
+          "en": "David Carnegie"
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1"
+      }
+    },
+    {
+      "id": "saji-crossroad",
+      "name": {
+        "original_lang": "ja",
+        "original": "沙慈・クロスロード",
+        "latin": "Saji Crossroad",
+        "official": {
+          "en": "Saji Crossroad"
+        },
+        "aliases": {
+          "ko": [
+            "사지 크로스로드"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "経済特区・日本で暮らす学生",
+        "translations": {
+          "ko": "경제특구 일본에 사는 학생",
+          "en": "A student living in the Japan economic zone"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 1
+      }
+    },
+    {
+      "id": "louise-halevy",
+      "name": {
+        "original_lang": "ja",
+        "original": "ルイス・ハレヴィ",
+        "latin": "Louise Halevy",
+        "official": {
+          "en": "Louise Halevy"
+        },
+        "aliases": {
+          "ko": [
+            "루이스 할레비"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "沙慈の恋人である留学生",
+        "translations": {
+          "ko": "사지의 연인인 유학생",
+          "en": "An exchange student and Saji's girlfriend"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1"
+      }
+    },
+    {
+      "id": "kinue-crossroad",
+      "name": {
+        "original_lang": "ja",
+        "original": "絹江・クロスロード",
+        "latin": "Kinue Crossroad",
+        "official": {
+          "en": "Kinue Crossroad"
+        },
+        "aliases": {
+          "ko": [
+            "키누에 크로스로드"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "沙慈の姉でジャーナリスト",
+        "translations": {
+          "ko": "사지의 누나이자 저널리스트",
+          "en": "Saji's older sister, a journalist"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1"
+      }
+    },
+    {
+      "id": "ikeda",
+      "name": {
+        "original_lang": "ja",
+        "original": "池田",
+        "latin": "Ikeda",
+        "official": {
+          "en": "Ikeda"
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 13
+      }
+    },
+    {
+      "id": "patrick-colasour",
+      "name": {
+        "original_lang": "ja",
+        "original": "パトリック・コーラサワー",
+        "latin": "Patrick Colasour",
+        "official": {
+          "en": "Patrick Colasour"
+        },
+        "aliases": {
+          "ko": [
+            "패트릭 콜라사워"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "AEUのエースパイロット",
+        "translations": {
+          "ko": "AEU의 에이스 파일럿",
+          "en": "An AEU ace pilot"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 1
+      }
+    },
+    {
+      "id": "kati-mannequin",
+      "name": {
+        "original_lang": "ja",
+        "original": "カティ・マネキン",
+        "latin": "Kati Mannequin",
+        "official": {
+          "en": "Kati Mannequin"
+        },
+        "aliases": {
+          "ko": [
+            "카티 마네킨"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "AEUの戦術予報士",
+        "translations": {
+          "ko": "AEU의 전술 예보사",
+          "en": "An AEU tactical forecaster"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1"
+      }
+    },
+    {
+      "id": "emilio-ribisi",
+      "name": {
+        "original_lang": "ja",
+        "original": "エミリオ・リビシ",
+        "latin": "Emilio Ribisi",
+        "official": {
+          "en": "Emilio Ribisi"
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 6
+      }
+    },
+    {
+      "id": "sergei-smirnov",
+      "name": {
+        "original_lang": "ja",
+        "original": "セルゲイ・スミルノフ",
+        "latin": "Sergei Smirnov",
+        "official": {
+          "en": "Sergei Smirnov"
+        },
+        "aliases": {
+          "ko": [
+            "세르게이 스미르노프"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "人類革新連盟の軍人",
+        "translations": {
+          "ko": "인류혁신연맹의 군인",
+          "en": "An officer of the Human Reform League"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1"
+      }
+    },
+    {
+      "id": "soma-peries",
+      "name": {
+        "original_lang": "ja",
+        "original": "ソーマ・ピーリス",
+        "latin": "Soma Peries",
+        "official": {
+          "en": "Soma Peries"
+        },
+        "aliases": {
+          "ja": [
+            "マリー・パーファシー"
+          ],
+          "ko": [
+            "소마 피리스"
+          ],
+          "en": [
+            "Marie Parfacy"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "人類革新連盟の超兵",
+        "translations": {
+          "ko": "인류혁신연맹의 초병",
+          "en": "A Human Reform League super soldier"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1"
+      }
+    },
+    {
+      "id": "min",
+      "name": {
+        "original_lang": "ja",
+        "original": "ミン",
+        "latin": "Min",
+        "official": {
+          "en": "Min"
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 9
+      }
+    },
+    {
+      "id": "kim",
+      "name": {
+        "original_lang": "ja",
+        "original": "キム",
+        "latin": "Kim",
+        "official": {
+          "en": "Kim"
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 4
+      }
+    },
+    {
+      "id": "hrl-chairman",
+      "name": {
+        "original_lang": "ja",
+        "original": "国家主席",
+        "latin": "Kokka Shuseki",
+        "aliases": {
+          "en": [
+            "HRL Chairman"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 4
+      },
+      "nameless": true
+    },
+    {
+      "id": "holly-smirnov",
+      "name": {
+        "original_lang": "ja",
+        "original": "ホリー・スミルノフ",
+        "latin": "Holly Smirnov",
+        "official": {
+          "en": "Holly Smirnov"
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 16
+      }
+    },
+    {
+      "id": "mina-carmine",
+      "name": {
+        "original_lang": "ja",
+        "original": "ミーナ・カーマイン",
+        "latin": "Mina Carmine",
+        "official": {
+          "en": "Mina Carmine"
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-movie"
+      }
+    },
+    {
+      "id": "federation-president-1st",
+      "name": {
+        "original_lang": "ja",
+        "original": "地球連邦大統領（初代）",
+        "latin": "Chikyu Renpo Daitoryo (Shodai)",
+        "aliases": {
+          "en": [
+            "Earth Federation President (first)"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 25
+      },
+      "nameless": true
+    },
+    {
+      "id": "federation-president-2nd",
+      "name": {
+        "original_lang": "ja",
+        "original": "地球連邦大統領（二代）",
+        "latin": "Chikyu Renpo Daitoryo (Nidai)",
+        "aliases": {
+          "en": [
+            "Earth Federation President (second)"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 25
+      },
+      "nameless": true
+    },
+    {
+      "id": "pang-herculy",
+      "name": {
+        "original_lang": "ja",
+        "original": "パング・ハーキュリー",
+        "latin": "Pang Herculy",
+        "official": {
+          "en": "Pang Herculy"
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 13
+      }
+    },
+    {
+      "id": "descartes-shaman",
+      "name": {
+        "original_lang": "ja",
+        "original": "デカルト・シャーマン",
+        "latin": "Descartes Shaman",
+        "official": {
+          "en": "Descartes Shaman"
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-movie"
+      }
+    },
+    {
+      "id": "nefer-nagib",
+      "name": {
+        "original_lang": "ja",
+        "original": "ネフェル・ナギーブ",
+        "latin": "Nefer Nagib"
+      },
+      "first_appearance": {
+        "work": "gundam-00-movie"
+      }
+    },
+    {
+      "id": "homer-katagiri",
+      "name": {
+        "original_lang": "ja",
+        "original": "ホーマー・カタギリ",
+        "latin": "Homer Katagiri",
+        "official": {
+          "en": "Homer Katagiri"
+        },
+        "aliases": {
+          "ko": [
+            "호머 카타기리"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2"
+      }
+    },
+    {
+      "id": "arthur-goodman",
+      "name": {
+        "original_lang": "ja",
+        "original": "アーサー・グッドマン",
+        "latin": "Arthur Goodman",
+        "official": {
+          "en": "Arthur Goodman"
+        },
+        "aliases": {
+          "ko": [
+            "아서 굿맨"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2"
+      }
+    },
+    {
+      "id": "lee-zhejiang",
+      "name": {
+        "original_lang": "ja",
+        "original": "リー・ジェジャン",
+        "latin": "Lee Zhejiang",
+        "official": {
+          "en": "Lee Zhejiang"
+        },
+        "aliases": {
+          "ko": [
+            "리 졔쟝"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 1
+      }
+    },
+    {
+      "id": "arba-lindt",
+      "name": {
+        "original_lang": "ja",
+        "original": "アーバ・リント",
+        "latin": "Arba Lindt",
+        "official": {
+          "en": "Arba Lindt"
+        },
+        "aliases": {
+          "ko": [
+            "아바 린트"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 4
+      }
+    },
+    {
+      "id": "barack-zinin",
+      "name": {
+        "original_lang": "ja",
+        "original": "バラック・ジニン",
+        "latin": "Barack Zinin",
+        "official": {
+          "en": "Barack Zinin"
+        },
+        "aliases": {
+          "ko": [
+            "버락 지닌"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 1
+      }
+    },
+    {
+      "id": "araga",
+      "name": {
+        "original_lang": "ja",
+        "original": "アラッガ",
+        "latin": "Araga",
+        "official": {
+          "en": "Araga"
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 1
+      }
+    },
+    {
+      "id": "andrei-smirnov",
+      "name": {
+        "original_lang": "ja",
+        "original": "アンドレイ・スミルノフ",
+        "latin": "Andrei Smirnov",
+        "official": {
+          "en": "Andrei Smirnov"
+        },
+        "aliases": {
+          "ko": [
+            "안드레이 스미르노프"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "セルゲイの息子でアロウズの軍人",
+        "translations": {
+          "ko": "세르게이의 아들이자 아로우즈의 군인",
+          "en": "Sergei's son, an A-Laws officer"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2"
+      }
+    },
+    {
+      "id": "marina-ismail",
+      "name": {
+        "original_lang": "ja",
+        "original": "マリナ・イスマイール",
+        "latin": "Marina Ismail",
+        "official": {
+          "en": "Marina Ismail"
+        },
+        "aliases": {
+          "ko": [
+            "마리나 이스마일"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "アザディスタン王国の第一王女",
+        "translations": {
+          "ko": "아자디스탄 왕국의 제1왕녀",
+          "en": "First princess of the Kingdom of Azadistan"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1"
+      }
+    },
+    {
+      "id": "shirin-bakhtiar",
+      "name": {
+        "original_lang": "ja",
+        "original": "シーリン・バフティヤール",
+        "latin": "Shirin Bakhtiar",
+        "official": {
+          "en": "Shirin Bakhtiar"
+        },
+        "aliases": {
+          "ko": [
+            "시린 박티야르"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1"
+      }
+    },
+    {
+      "id": "massoud-rachmadi",
+      "name": {
+        "original_lang": "ja",
+        "original": "マスード・ラフマディー",
+        "latin": "Massoud Rachmadi",
+        "official": {
+          "en": "Massoud Rachmadi"
+        },
+        "aliases": {
+          "ko": [
+            "마수드 라흐마디"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 12
+      }
+    },
+    {
+      "id": "klaus-grado",
+      "name": {
+        "original_lang": "ja",
+        "original": "クラウス・グラード",
+        "latin": "Klaus Grado",
+        "official": {
+          "en": "Klaus Grado"
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2"
+      }
+    },
+    {
+      "id": "mahal",
+      "name": {
+        "original_lang": "ja",
+        "original": "マハル",
+        "latin": "Mahal",
+        "official": {
+          "en": "Mahal"
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 7
+      }
+    },
+    {
+      "id": "eddie-miyasaka",
+      "name": {
+        "original_lang": "ja",
+        "original": "エディ・ミヤサカ",
+        "latin": "Eddie Miyasaka",
+        "official": {
+          "en": "Eddie Miyasaka"
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 1
+      }
+    },
+    {
+      "id": "yael",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヤエル",
+        "latin": "Yael",
+        "official": {
+          "en": "Yael"
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 14
+      }
+    },
+    {
+      "id": "josef",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヨセフ",
+        "latin": "Josef",
+        "official": {
+          "en": "Josef"
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 15
+      }
+    },
+    {
+      "id": "david",
+      "name": {
+        "original_lang": "ja",
+        "original": "ダビッド",
+        "latin": "David",
+        "official": {
+          "en": "David"
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 18
+      }
+    },
+    {
+      "id": "ali-al-saachez",
+      "name": {
+        "original_lang": "ja",
+        "original": "アリー・アル・サーシェス",
+        "latin": "Ali Al-Saachez",
+        "official": {
+          "en": "Ali Al-Saachez"
+        },
+        "aliases": {
+          "ko": [
+            "알리 알 사셰스"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "戦争を好む傭兵",
+        "translations": {
+          "ko": "전쟁을 즐기는 용병",
+          "en": "A mercenary who loves war"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1"
+      }
+    },
+    {
+      "id": "bolz-assan",
+      "name": {
+        "original_lang": "ja",
+        "original": "ボルス・アッサン",
+        "latin": "Bolz Assan",
+        "official": {
+          "en": "Bolz Assan"
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 5
+      }
+    },
+    {
+      "id": "e-a-ray",
+      "name": {
+        "original_lang": "ja",
+        "original": "E・A・レイ",
+        "latin": "E. A. Ray",
+        "official": {
+          "en": "E. A. Ray"
+        },
+        "aliases": {
+          "ja": [
+            "エターナル・アラン・レイ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-movie"
+      }
+    },
+    {
+      "id": "amia-lee",
+      "name": {
+        "original_lang": "ja",
+        "original": "アーミア・リー",
+        "latin": "Amia Lee"
+      },
+      "first_appearance": {
+        "work": "gundam-00-movie"
+      }
+    },
+    {
+      "id": "henry",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヘンリー",
+        "latin": "Henry",
+        "official": {
+          "en": "Henry"
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 21
+      }
+    },
+    {
+      "id": "louises-mother",
+      "name": {
+        "original_lang": "ja",
+        "original": "ルイスの母",
+        "latin": "Louise no Haha",
+        "aliases": {
+          "en": [
+            "Louise's mother"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1"
+      },
+      "nameless": true
+    },
+    {
+      "id": "narrator",
+      "name": {
+        "original_lang": "ja",
+        "original": "ナレーション",
+        "latin": "Narration",
+        "aliases": {
+          "en": [
+            "Narrator"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1"
+      },
+      "nameless": true
+    },
+    {
+      "id": "attendant-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "アテンダント",
+        "latin": "Atendanto",
+        "aliases": {
+          "en": [
+            "Attendant"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 5
+      },
+      "nameless": true
+    },
+    {
+      "id": "newscaster-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "キャスター",
+        "latin": "Kyasuta",
+        "aliases": {
+          "en": [
+            "News caster"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 7
+      },
+      "nameless": true
+    },
+    {
+      "id": "controller-a-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "管制官A",
+        "latin": "Kanseikan A",
+        "aliases": {
+          "en": [
+            "Controller A"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 1
+      },
+      "nameless": true
+    },
+    {
+      "id": "controller-b-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "管制官B",
+        "latin": "Kanseikan B",
+        "aliases": {
+          "en": [
+            "Controller B"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 1
+      },
+      "nameless": true
+    },
+    {
+      "id": "controller-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "管制官",
+        "latin": "Kanseikan",
+        "aliases": {
+          "en": [
+            "Controller"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 2
+      },
+      "nameless": true
+    },
+    {
+      "id": "marinas-attendant-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "マリナの従者",
+        "latin": "Marina no Jusha",
+        "aliases": {
+          "en": [
+            "Marina's follower"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 12
+      },
+      "nameless": true
+    },
+    {
+      "id": "crew-s1",
+      "name": {
+        "original_lang": "en",
+        "original": "Crew",
+        "latin": "Crew"
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 24
+      },
+      "nameless": true
+    },
+    {
+      "id": "engineer-s1",
+      "name": {
+        "original_lang": "en",
+        "original": "Engineer",
+        "latin": "Engineer"
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 5
+      },
+      "nameless": true
+    },
+    {
+      "id": "italian-assembly-member-s1",
+      "name": {
+        "original_lang": "en",
+        "original": "Italian Assembly Member",
+        "latin": "Italian Assembly Member",
+        "aliases": {
+          "en": [
+            "Italian assembly member"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 2
+      },
+      "nameless": true
+    },
+    {
+      "id": "kinues-colleague-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "絹江の部下",
+        "latin": "Kinue no Buka",
+        "aliases": {
+          "en": [
+            "Kinue's staff"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 2
+      },
+      "nameless": true
+    },
+    {
+      "id": "policeman-s1",
+      "name": {
+        "original_lang": "en",
+        "original": "Policeman",
+        "latin": "Policeman"
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 8
+      },
+      "nameless": true
+    },
+    {
+      "id": "scientist-s1",
+      "name": {
+        "original_lang": "en",
+        "original": "Scientist",
+        "latin": "Scientist"
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 11
+      },
+      "nameless": true
+    },
+    {
+      "id": "soldier-s1",
+      "name": {
+        "original_lang": "en",
+        "original": "Soldier",
+        "latin": "Soldier"
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 6
+      },
+      "nameless": true
+    },
+    {
+      "id": "vice-foreign-minister-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "外務次官",
+        "latin": "Gaimu Jikan",
+        "aliases": {
+          "en": [
+            "Vice Minister of Foreign Affairs"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 4
+      },
+      "nameless": true
+    },
+    {
+      "id": "taribia-prime-minister-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "タリビア首相",
+        "latin": "Taribia Shusho",
+        "aliases": {
+          "en": [
+            "Prime Minister of Taribia"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 4
+      },
+      "nameless": true
+    },
+    {
+      "id": "saachez-subordinate-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "サーシェスの部下",
+        "latin": "Sachesu no Buka",
+        "aliases": {
+          "en": [
+            "al-Saachez's staff"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 7
+      },
+      "nameless": true
+    },
+    {
+      "id": "commander-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "司令官",
+        "latin": "Shireikan",
+        "aliases": {
+          "en": [
+            "Commander"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 11
+      },
+      "nameless": true
+    },
+    {
+      "id": "hrl-platoon-leader-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "人革連小隊長",
+        "latin": "Jinkakuren Shotaicho",
+        "aliases": {
+          "en": [
+            "Commander"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 1
+      },
+      "nameless": true
+    },
+    {
+      "id": "kinues-boss-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "部長",
+        "latin": "Bucho",
+        "aliases": {
+          "en": [
+            "Kinue's boss"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 3
+      },
+      "nameless": true
+    },
+    {
+      "id": "manager-s1",
+      "name": {
+        "original_lang": "en",
+        "original": "Manager",
+        "latin": "Manager"
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 12
+      },
+      "nameless": true
+    },
+    {
+      "id": "marinas-sp-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "マリナのSP",
+        "latin": "Marina no SP",
+        "aliases": {
+          "en": [
+            "Marina's SP"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 13
+      },
+      "nameless": true
+    },
+    {
+      "id": "pilot-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "操舵士",
+        "latin": "Sodashi",
+        "aliases": {
+          "en": [
+            "Pilot"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 10
+      },
+      "nameless": true
+    },
+    {
+      "id": "waitress-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "給仕",
+        "latin": "Kyuji",
+        "aliases": {
+          "en": [
+            "Waitress"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 10
+      },
+      "nameless": true
+    },
+    {
+      "id": "british-assembly-member-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "イギリス議員",
+        "latin": "Igirisu Giin",
+        "aliases": {
+          "en": [
+            "British assembly member"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 2
+      },
+      "nameless": true
+    },
+    {
+      "id": "ragnas-secretary-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "ラグナの秘書",
+        "latin": "Raguna no Hisho",
+        "aliases": {
+          "en": [
+            "Ragna's secretary"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 21
+      },
+      "nameless": true
+    },
+    {
+      "id": "sajis-colleague-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "沙慈の同僚",
+        "latin": "Saji no Doryo",
+        "aliases": {
+          "en": [
+            "Saji's colleague"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 25
+      },
+      "nameless": true
+    },
+    {
+      "id": "captain-s1",
+      "name": {
+        "original_lang": "en",
+        "original": "Captain",
+        "latin": "Captain"
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 1
+      },
+      "nameless": true
+    },
+    {
+      "id": "carrier-captain-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "アメリカ空母艦長",
+        "latin": "Amerika Kubo Kancho",
+        "aliases": {
+          "en": [
+            "Aircraft carrier captain"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 4
+      },
+      "nameless": true
+    },
+    {
+      "id": "mother-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "母親",
+        "latin": "Hahaoya",
+        "aliases": {
+          "en": [
+            "Mother"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 13
+      },
+      "nameless": true
+    },
+    {
+      "id": "water-seller-grandfather-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "水売り少年の祖父",
+        "latin": "Mizuuri Shonen no Sofu",
+        "aliases": {
+          "en": [
+            "Water seller boy's grandfather"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 12
+      },
+      "nameless": true
+    },
+    {
+      "id": "aeu-intelligence-chief-s1",
+      "name": {
+        "original_lang": "en",
+        "original": "AEU Intelligence Chief",
+        "latin": "AEU Intelligence Chief",
+        "aliases": {
+          "en": [
+            "AEU intelligence chief"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1"
+      },
+      "nameless": true
+    },
+    {
+      "id": "un-secretary-general-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "国連事務総長",
+        "latin": "Kokuren Jimusocho",
+        "aliases": {
+          "en": [
+            "United Nations Secretary-General"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 20
+      },
+      "nameless": true
+    },
+    {
+      "id": "newscaster-b-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "キャスター",
+        "latin": "Kyasuta",
+        "aliases": {
+          "en": [
+            "News caster"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 9
+      },
+      "nameless": true
+    },
+    {
+      "id": "foreign-legion-colonel-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "外人部隊大佐",
+        "latin": "Gaijin Butai Taisa",
+        "aliases": {
+          "en": [
+            "Foreign Legion colonel"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 14
+      },
+      "nameless": true
+    },
+    {
+      "id": "officer-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "将校",
+        "latin": "Shoko",
+        "aliases": {
+          "en": [
+            "Officer"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 7
+      },
+      "nameless": true
+    },
+    {
+      "id": "spanish-assembly-member-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "スペイン議員",
+        "latin": "Supein Giin",
+        "aliases": {
+          "en": [
+            "Spanish assembly member"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 2
+      },
+      "nameless": true
+    },
+    {
+      "id": "chief-engineer-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "技術主任",
+        "latin": "Gijutsu Shunin",
+        "aliases": {
+          "en": [
+            "Chief engineer"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 5
+      },
+      "nameless": true
+    },
+    {
+      "id": "german-assembly-member-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "ドイツ議員",
+        "latin": "Doitsu Giin",
+        "aliases": {
+          "en": [
+            "German assembly member"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 2
+      },
+      "nameless": true
+    },
+    {
+      "id": "french-assembly-member-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "フランス議員",
+        "latin": "Furansu Giin",
+        "aliases": {
+          "en": [
+            "French assembly member"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 2
+      },
+      "nameless": true
+    },
+    {
+      "id": "boy-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "少年",
+        "latin": "Shonen",
+        "aliases": {
+          "en": [
+            "Boy"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 11
+      },
+      "nameless": true
+    },
+    {
+      "id": "boy-allelujah-past-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "少年（アレルヤの過去）",
+        "latin": "Shonen (Areruya no Kako)",
+        "aliases": {
+          "en": [
+            "Boy (Allelujah's past)"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 5
+      },
+      "nameless": true
+    },
+    {
+      "id": "boy-setsuna-past-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "少年（刹那の過去）",
+        "latin": "Shonen (Setsuna no Kako)",
+        "aliases": {
+          "en": [
+            "Boy (Setsuna's past)"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 8
+      },
+      "nameless": true
+    },
+    {
+      "id": "informant-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "情報屋",
+        "latin": "Johoya"
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1"
+      },
+      "nameless": true
+    },
+    {
+      "id": "royal-butler-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "王家の老執事",
+        "latin": "Oke no Roshitsuji"
+      },
+      "first_appearance": {
+        "work": "gundam-00-s1",
+        "episode": 8
+      },
+      "nameless": true
+    },
+    {
+      "id": "spokesperson-s2",
+      "name": {
+        "original_lang": "ja",
+        "original": "報道官",
+        "latin": "Hodokan",
+        "aliases": {
+          "en": [
+            "Spokesperson"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 1
+      },
+      "nameless": true
+    },
+    {
+      "id": "federation-soldier-s2",
+      "name": {
+        "original_lang": "ja",
+        "original": "連邦兵士",
+        "latin": "Renpo Heishi",
+        "aliases": {
+          "en": [
+            "Federation soldier"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 5
+      },
+      "nameless": true
+    },
+    {
+      "id": "katharon-executive-s2",
+      "name": {
+        "original_lang": "ja",
+        "original": "カタロン幹部",
+        "latin": "Kataron Kanbu",
+        "aliases": {
+          "en": [
+            "Katharon executive"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 4
+      },
+      "nameless": true
+    },
+    {
+      "id": "laborer-s2",
+      "name": {
+        "original_lang": "ja",
+        "original": "労働者",
+        "latin": "Rodosha",
+        "aliases": {
+          "en": [
+            "Laborer"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 1
+      },
+      "nameless": true
+    },
+    {
+      "id": "katharon-soldier-s2",
+      "name": {
+        "original_lang": "ja",
+        "original": "カタロン兵士",
+        "latin": "Kataron Heishi",
+        "aliases": {
+          "en": [
+            "Katharon soldier"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 5
+      },
+      "nameless": true
+    },
+    {
+      "id": "hrl-soldier-s2",
+      "name": {
+        "original_lang": "ja",
+        "original": "人革兵",
+        "latin": "Jinkakuhei",
+        "aliases": {
+          "en": [
+            "HRL soldier"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 17
+      },
+      "nameless": true
+    },
+    {
+      "id": "cruiser-crew-s2",
+      "name": {
+        "original_lang": "ja",
+        "original": "巡洋艦クルー",
+        "latin": "Junyokan Kuru",
+        "aliases": {
+          "en": [
+            "Cruiser crew"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 17
+      },
+      "nameless": true
+    },
+    {
+      "id": "a-laws-crew-s2",
+      "name": {
+        "original_lang": "en",
+        "original": "Arrows Crew",
+        "latin": "Arrows Crew",
+        "aliases": {
+          "en": [
+            "A-Laws crew"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 22
+      },
+      "nameless": true
+    },
+    {
+      "id": "operator-s2",
+      "name": {
+        "original_lang": "en",
+        "original": "Operator",
+        "latin": "Operator"
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 23
+      },
+      "nameless": true
+    },
+    {
+      "id": "coup-crew-s2",
+      "name": {
+        "original_lang": "ja",
+        "original": "反乱軍クルー",
+        "latin": "Hanrangun Kuru",
+        "aliases": {
+          "en": [
+            "Rebel crew"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 17
+      },
+      "nameless": true
+    },
+    {
+      "id": "regular-army-captain-s2",
+      "name": {
+        "original_lang": "ja",
+        "original": "正規軍艦長",
+        "latin": "Seikigun Kancho",
+        "aliases": {
+          "en": [
+            "Regular army captain"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 16
+      },
+      "nameless": true
+    },
+    {
+      "id": "katharon-member-s2",
+      "name": {
+        "original_lang": "ja",
+        "original": "カタロン職員",
+        "latin": "Kataron Shokuin",
+        "aliases": {
+          "en": [
+            "Katharon staff"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 6
+      },
+      "nameless": true
+    },
+    {
+      "id": "a-laws-lieutenant-s2",
+      "name": {
+        "original_lang": "ja",
+        "original": "アロウズ副官",
+        "latin": "Arouzu Fukukan",
+        "aliases": {
+          "en": [
+            "A-Laws lieutenant"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 22
+      },
+      "nameless": true
+    },
+    {
+      "id": "katharon-crew-s2",
+      "name": {
+        "original_lang": "ja",
+        "original": "カタロンクルー",
+        "latin": "Kataron Kuru",
+        "aliases": {
+          "en": [
+            "Katharon crew"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 13
+      },
+      "nameless": true
+    },
+    {
+      "id": "katharon-captain-s2",
+      "name": {
+        "original_lang": "ja",
+        "original": "カタロン艦長",
+        "latin": "Kataron Kancho",
+        "aliases": {
+          "en": [
+            "Katharon captain"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 1
+      },
+      "nameless": true
+    },
+    {
+      "id": "carrier-crew-s2",
+      "name": {
+        "original_lang": "ja",
+        "original": "空母クルー",
+        "latin": "Kubo Kuru",
+        "aliases": {
+          "en": [
+            "Aircraft carrier crew"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 3
+      },
+      "nameless": true
+    },
+    {
+      "id": "adjutant-s2",
+      "name": {
+        "original_lang": "ja",
+        "original": "副官",
+        "latin": "Fukukan",
+        "aliases": {
+          "en": [
+            "Adjutant"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 17
+      },
+      "nameless": true
+    },
+    {
+      "id": "a-laws-soldier-s2",
+      "name": {
+        "original_lang": "en",
+        "original": "Arrows Soldier",
+        "latin": "Arrows Soldier",
+        "aliases": {
+          "en": [
+            "A-Laws soldier"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 2
+      },
+      "nameless": true
+    },
+    {
+      "id": "crew-s2",
+      "name": {
+        "original_lang": "en",
+        "original": "Crew",
+        "latin": "Crew"
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 9
+      },
+      "nameless": true
+    },
+    {
+      "id": "observer-s2",
+      "name": {
+        "original_lang": "en",
+        "original": "Observer",
+        "latin": "Observer"
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 3
+      },
+      "nameless": true
+    },
+    {
+      "id": "soldier-s2",
+      "name": {
+        "original_lang": "en",
+        "original": "Soldier",
+        "latin": "Soldier"
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 7
+      },
+      "nameless": true
+    },
+    {
+      "id": "boy-s2",
+      "name": {
+        "original_lang": "ja",
+        "original": "少年",
+        "latin": "Shonen",
+        "aliases": {
+          "en": [
+            "Boy"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 9
+      },
+      "nameless": true
+    },
+    {
+      "id": "ash",
+      "name": {
+        "original_lang": "ja",
+        "original": "アッシュ",
+        "latin": "Ash"
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2",
+        "episode": 23
+      }
+    },
+    {
+      "id": "kenny",
+      "name": {
+        "original_lang": "ja",
+        "original": "ケニー",
+        "latin": "Kenny"
+      },
+      "first_appearance": {
+        "work": "gundam-00-s2"
+      }
+    },
+    {
+      "id": "defense-secretary-movie",
+      "name": {
+        "original_lang": "ja",
+        "original": "防衛長官",
+        "latin": "Boei Chokan",
+        "aliases": {
+          "en": [
+            "Secretary of Defense"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-movie"
+      },
+      "nameless": true
+    },
+    {
+      "id": "chief-of-staff-chairman-movie",
+      "name": {
+        "original_lang": "ja",
+        "original": "参謀議長",
+        "latin": "Sanbo Gicho",
+        "aliases": {
+          "en": [
+            "Chairman of the Chiefs of Staff"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-movie"
+      },
+      "nameless": true
+    },
+    {
+      "id": "chief-presidential-aide-movie",
+      "name": {
+        "original_lang": "ja",
+        "original": "主席補佐官",
+        "latin": "Shuseki Hosakan",
+        "aliases": {
+          "en": [
+            "Chief presidential aide"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-movie"
+      },
+      "nameless": true
+    },
+    {
+      "id": "presidential-aide-movie",
+      "name": {
+        "original_lang": "ja",
+        "original": "補佐官",
+        "latin": "Hosakan",
+        "aliases": {
+          "en": [
+            "Presidential aide"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-movie"
+      },
+      "nameless": true
+    },
+    {
+      "id": "technical-officer-movie",
+      "name": {
+        "original_lang": "ja",
+        "original": "技術士官",
+        "latin": "Gijutsu Shikan",
+        "aliases": {
+          "en": [
+            "Technical officer"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-movie"
+      },
+      "nameless": true
+    },
+    {
+      "id": "adjutant-movie",
+      "name": {
+        "original_lang": "ja",
+        "original": "副官",
+        "latin": "Fukukan",
+        "aliases": {
+          "en": [
+            "Adjutant"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-movie"
+      },
+      "nameless": true
+    },
+    {
+      "id": "newscaster-movie",
+      "name": {
+        "original_lang": "ja",
+        "original": "キャスター",
+        "latin": "Kyasuta",
+        "aliases": {
+          "en": [
+            "Newscaster"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "gundam-00-movie"
+      },
+      "nameless": true
+    },
+    {
+      "id": "assembly-member-movie",
+      "name": {
+        "original_lang": "ja",
+        "original": "議員",
+        "latin": "Giin"
+      },
+      "first_appearance": {
+        "work": "gundam-00-movie"
+      },
+      "nameless": true
+    },
+    {
+      "id": "assembly-member-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "議員",
+        "latin": "Giin"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "gundam-00-s1"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A000%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9",
+      "title": "機動戦士ガンダム00の登場人物",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A000",
+      "title": "機動戦士ガンダム00",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s4",
+      "url": "https://web.archive.org/web/20250918032311/https://www.gundam00.net/tv/staffcast/",
+      "title": "STAFF & CAST ｜ 機動戦士ガンダム００ [ダブルオー]",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s5",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC_%EA%B1%B4%EB%8B%B4_%EB%8D%94%EB%B8%94_%EC%98%A4",
+      "title": "기동전사 건담 더블 오",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

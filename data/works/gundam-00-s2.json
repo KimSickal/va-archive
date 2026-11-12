@@ -1,0 +1,1323 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "gundam-00-s2",
+  "franchise_id": "gundam-00",
+  "type": "anime_tv",
+  "title": {
+    "original_lang": "ja",
+    "original": "機動戦士ガンダム00 セカンドシーズン",
+    "latin": "Kido Senshi Gundam Daburu O Sekando Shizun",
+    "official": {
+      "en": "Mobile Suit Gundam 00 Second Season"
+    },
+    "aliases": {
+      "ko": [
+        "기동전사 건담 00 세컨드 시즌"
+      ]
+    }
+  },
+  "order": 2,
+  "status": "finished",
+  "start_date": "2008-10-05",
+  "end_date": "2009-03-29",
+  "episodes": 25,
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "サンライズ",
+      "latin": "Sunrise",
+      "official": {
+        "en": "Sunrise"
+      }
+    }
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2008-10-05",
+      "credits": [
+        {
+          "character": "setsuna-f-seiei",
+          "person": "mamoru-miyano",
+          "role": "main",
+          "part": "regular",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "setsuna-f-seiei",
+          "person": "yuka-nishigaki",
+          "role": "minor",
+          "part": "young",
+          "episodes": {
+            "from": 15,
+            "to": 15
+          },
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "lyle-dylandy",
+          "person": "shinichiro-miki",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "neil-dylandy",
+          "person": "shinichiro-miki",
+          "role": "minor",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "allelujah-haptism",
+          "person": "hiroyuki-yoshino",
+          "role": "main",
+          "part": "regular",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "allelujah-haptism",
+          "person": "masako-jo",
+          "role": "minor",
+          "part": "young",
+          "episodes": "3-4, 7",
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "tieria-erde",
+          "person": "hiroshi-kamiya",
+          "role": "main",
+          "part": "regular",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "tieria-erde",
+          "person": "akiko-tanaka",
+          "role": "minor",
+          "part": "other",
+          "note": {
+            "original_lang": "ja",
+            "original": "女装時の声",
+            "translations": {
+              "ko": "여장 시의 목소리",
+              "en": "Voice while disguised as a woman"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "graham-aker",
+          "person": "yuichi-nakamura",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "ミスター・ブシドーとして登場",
+            "translations": {
+              "ko": "미스터 부시도로 등장",
+              "en": "Appears as Mr. Bushido"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "sumeragi-lee-noriega",
+          "person": "yoko-honna",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "feldt-grace",
+          "person": "ayahi-takagaki",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "lasse-aeon",
+          "person": "hiroki-tochi",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "ian-vashti",
+          "person": "hideyuki-umezu",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "mileina-vashti",
+          "person": "haruka-tomatsu",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "anew-returner",
+          "person": "ryoko-shiraishi",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "press-secretary",
+          "person": "ryoko-shiraishi",
+          "role": "minor",
+          "episodes": {
+            "from": 25,
+            "to": 25
+          },
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "haro",
+          "person": "arisa-ogasawara",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "red-haro",
+          "person": "minami-takayama",
+          "role": "minor",
+          "episodes": {
+            "from": 20,
+            "to": 20
+          },
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "nena-trinity",
+          "person": "rie-kugimiya",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "wang-liu-mei",
+          "person": "kei-shindo",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "hong-long",
+          "person": "kenji-takahashi",
+          "role": "supporting",
+          "episodes": "2, 6, 8, 13, 16, 19, 21",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "linda-vashti",
+          "person": "risa-hayamizu",
+          "role": "minor",
+          "episodes": "9-11, 22-24",
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "ribbons-almark",
+          "person": "toru-furuya",
+          "role": "supporting",
+          "credited_as": "蒼月昇",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "regene-regetta",
+          "person": "romi-park",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "revive-revival",
+          "person": "mitsuki-saiga",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "hiling-care",
+          "person": "miyuki-kawasho",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "bring-stabity",
+          "person": "ryotaro-okiayu",
+          "role": "supporting",
+          "episodes": "10-12, 14",
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "devine-nova",
+          "person": "ryotaro-okiayu",
+          "role": "supporting",
+          "episodes": {
+            "from": 15,
+            "to": 17
+          },
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "innovade-soldier",
+          "person": "ryotaro-okiayu",
+          "role": "minor",
+          "episodes": {
+            "from": 23,
+            "to": 23
+          },
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "billy-katagiri",
+          "person": "yuji-ueda",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "saji-crossroad",
+          "person": "miyu-irino",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "louise-halevy",
+          "person": "chiwa-saito",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "ikeda",
+          "person": "go-shinomiya",
+          "role": "minor",
+          "episodes": "10-12, 14-15",
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "patrick-colasour",
+          "person": "kenji-hamada",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "kati-mannequin",
+          "person": "minami-takayama",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "emilio-ribisi",
+          "person": "yasuyuki-kase",
+          "role": "minor",
+          "episodes": {
+            "from": 6,
+            "to": 6
+          },
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "sergei-smirnov",
+          "person": "unsho-ishizuka",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "soma-peries",
+          "person": "arisa-ogasawara",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "kim",
+          "person": "kenji-hamada",
+          "role": "minor",
+          "episodes": {
+            "from": 16,
+            "to": 16
+          },
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "holly-smirnov",
+          "person": "akiko-tanaka",
+          "role": "minor",
+          "episodes": {
+            "from": 16,
+            "to": 17
+          },
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "federation-president-1st",
+          "person": "seiji-sasaki",
+          "role": "minor",
+          "episodes": {
+            "from": 3,
+            "to": 3
+          },
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "federation-president-2nd",
+          "person": "toshiko-fujita",
+          "role": "minor",
+          "episodes": {
+            "from": 25,
+            "to": 25
+          },
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "pang-herculy",
+          "person": "yusaku-yara",
+          "role": "minor",
+          "episodes": {
+            "from": 13,
+            "to": 17
+          },
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "homer-katagiri",
+          "person": "ryuzaburo-otomo",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "arthur-goodman",
+          "person": "hisao-egawa",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "lee-zhejiang",
+          "person": "go-shinomiya",
+          "role": "minor",
+          "episodes": "1-3, 9",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "arba-lindt",
+          "person": "kazuki-yao",
+          "role": "minor",
+          "episodes": "4-10, 13",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "barack-zinin",
+          "person": "tetsu-inada",
+          "role": "minor",
+          "episodes": "1-2, 5-7, 9, 11",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "araga",
+          "person": "isshin-chiba",
+          "role": "minor",
+          "episodes": {
+            "from": 1,
+            "to": 1
+          },
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "andrei-smirnov",
+          "person": "tetsu-shiratori",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "marina-ismail",
+          "person": "ayumi-tsunematsu",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "shirin-bakhtiar",
+          "person": "michiko-neya",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "klaus-grado",
+          "person": "tokuyoshi-kawashima",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "mahal",
+          "person": "biichi-sato",
+          "role": "minor",
+          "episodes": "7, 10",
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "eddie-miyasaka",
+          "person": "yuki-hayashi",
+          "role": "minor",
+          "episodes": {
+            "from": 1,
+            "to": 1
+          },
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "yael",
+          "person": "kei-shindo",
+          "role": "minor",
+          "episodes": "14, 22, 25",
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "josef",
+          "person": "rie-kugimiya",
+          "role": "minor",
+          "episodes": "15, 18",
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "david",
+          "person": "minami-takayama",
+          "role": "minor",
+          "episodes": {
+            "from": 18,
+            "to": 18
+          },
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "ali-al-saachez",
+          "person": "keiji-fujiwara",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "narrator",
+          "person": "toru-furuya",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s4"
+          ]
+        },
+        {
+          "character": "aeolia-schenberg",
+          "person": "chikao-otsuka",
+          "role": "minor",
+          "source_refs": [
+            "s4"
+          ]
+        },
+        {
+          "character": "spokesperson-s2",
+          "person": "akiko-tanaka",
+          "role": "minor",
+          "episodes": "1, 5-6, 8, 14",
+          "source_refs": [
+            "s1",
+            "s6"
+          ]
+        },
+        {
+          "character": "federation-soldier-s2",
+          "person": "fuminori-komatsu",
+          "role": "minor",
+          "episodes": {
+            "from": 5,
+            "to": 5
+          },
+          "source_refs": [
+            "s1",
+            "s14"
+          ]
+        },
+        {
+          "character": "federation-soldier-s2",
+          "person": "yohei-nishina",
+          "role": "minor",
+          "episodes": {
+            "from": 5,
+            "to": 5
+          },
+          "source_refs": [
+            "s1",
+            "s13"
+          ]
+        },
+        {
+          "character": "katharon-executive-s2",
+          "person": "go-shinomiya",
+          "role": "minor",
+          "episodes": {
+            "from": 4,
+            "to": 5
+          },
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "katharon-executive-s2",
+          "person": "seiji-sasaki",
+          "role": "minor",
+          "episodes": "4-6, 10-12, 14-15",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "katharon-executive-s2",
+          "person": "yuki-hayashi",
+          "role": "minor",
+          "episodes": "10, 12, 14, 18",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "laborer-s2",
+          "person": "jun-konno",
+          "role": "minor",
+          "episodes": {
+            "from": 1,
+            "to": 1
+          },
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "katharon-soldier-s2",
+          "person": "keisuke-kojima",
+          "role": "minor",
+          "episodes": {
+            "from": 5,
+            "to": 5
+          },
+          "source_refs": [
+            "s1",
+            "s12"
+          ]
+        },
+        {
+          "character": "katharon-soldier-s2",
+          "person": "kiyoshi-katsunuma",
+          "role": "minor",
+          "episodes": {
+            "from": 5,
+            "to": 5
+          },
+          "source_refs": [
+            "s1",
+            "s11"
+          ]
+        },
+        {
+          "character": "katharon-soldier-s2",
+          "person": "naoya-nakanishi",
+          "role": "minor",
+          "episodes": {
+            "from": 5,
+            "to": 5
+          },
+          "source_refs": [
+            "s1",
+            "s10"
+          ]
+        },
+        {
+          "character": "katharon-soldier-s2",
+          "person": "yuki-hayashi",
+          "role": "minor",
+          "episodes": {
+            "from": 5,
+            "to": 6
+          },
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "hrl-soldier-s2",
+          "person": "kenichi-hoshino",
+          "role": "minor",
+          "episodes": {
+            "from": 17,
+            "to": 17
+          },
+          "source_refs": [
+            "s1",
+            "s17"
+          ]
+        },
+        {
+          "character": "cruiser-crew-s2",
+          "person": "kenji-sugimura",
+          "role": "minor",
+          "episodes": {
+            "from": 17,
+            "to": 17
+          },
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "cruiser-crew-s2",
+          "person": "kensuke-sato",
+          "role": "minor",
+          "episodes": {
+            "from": 17,
+            "to": 17
+          },
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "a-laws-crew-s2",
+          "person": "kenji-takahashi",
+          "role": "minor",
+          "episodes": {
+            "from": 22,
+            "to": 22
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "operator-s2",
+          "person": "kenji-takahashi",
+          "role": "minor",
+          "episodes": {
+            "from": 23,
+            "to": 23
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "coup-crew-s2",
+          "person": "kenji-takahashi",
+          "role": "minor",
+          "episodes": {
+            "from": 17,
+            "to": 17
+          },
+          "source_refs": [
+            "s1",
+            "s7"
+          ]
+        },
+        {
+          "character": "coup-crew-s2",
+          "person": "tokuyoshi-kawashima",
+          "role": "minor",
+          "episodes": {
+            "from": 17,
+            "to": 17
+          },
+          "source_refs": [
+            "s1",
+            "s8"
+          ]
+        },
+        {
+          "character": "regular-army-captain-s2",
+          "person": "masao-komaya",
+          "role": "minor",
+          "episodes": {
+            "from": 16,
+            "to": 16
+          },
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "katharon-member-s2",
+          "person": "mitsuki-saiga",
+          "role": "minor",
+          "episodes": {
+            "from": 6,
+            "to": 6
+          },
+          "source_refs": [
+            "s1",
+            "s9"
+          ]
+        },
+        {
+          "character": "a-laws-lieutenant-s2",
+          "person": "rintaro-nishi",
+          "role": "minor",
+          "episodes": {
+            "from": 22,
+            "to": 22
+          },
+          "source_refs": [
+            "s1",
+            "s5"
+          ]
+        },
+        {
+          "character": "katharon-crew-s2",
+          "person": "ryotaro-okiayu",
+          "role": "minor",
+          "episodes": {
+            "from": 13,
+            "to": 13
+          },
+          "source_refs": [
+            "s1",
+            "s18"
+          ]
+        },
+        {
+          "character": "katharon-crew-s2",
+          "person": "yuki-hayashi",
+          "role": "minor",
+          "episodes": {
+            "from": 13,
+            "to": 13
+          },
+          "source_refs": [
+            "s1",
+            "s16"
+          ]
+        },
+        {
+          "character": "katharon-captain-s2",
+          "person": "shinya-fukumatsu",
+          "role": "minor",
+          "episodes": {
+            "from": 1,
+            "to": 1
+          },
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "katharon-captain-s2",
+          "person": "seiji-sasaki",
+          "role": "minor",
+          "episodes": {
+            "from": 13,
+            "to": 13
+          },
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "katharon-captain-s2",
+          "person": "shinsuke-nagashima",
+          "role": "minor",
+          "episodes": {
+            "from": 22,
+            "to": 22
+          },
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "carrier-crew-s2",
+          "person": "takanori-hoshino",
+          "role": "minor",
+          "episodes": {
+            "from": 3,
+            "to": 3
+          },
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "carrier-crew-s2",
+          "person": "yuki-hayashi",
+          "role": "minor",
+          "episodes": {
+            "from": 4,
+            "to": 4
+          },
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "adjutant-s2",
+          "person": "yuichi-nakamura",
+          "role": "minor",
+          "episodes": {
+            "from": 17,
+            "to": 17
+          },
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "a-laws-soldier-s2",
+          "person": "yuki-hayashi",
+          "role": "minor",
+          "episodes": {
+            "from": 2,
+            "to": 2
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "crew-s2",
+          "person": "yuki-hayashi",
+          "role": "minor",
+          "episodes": {
+            "from": 9,
+            "to": 9
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "observer-s2",
+          "person": "yuki-hayashi",
+          "role": "minor",
+          "episodes": {
+            "from": 3,
+            "to": 3
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "soldier-s2",
+          "person": "yuki-hayashi",
+          "role": "minor",
+          "episodes": {
+            "from": 7,
+            "to": 7
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "boy-s2",
+          "person": "yuki-kodaira",
+          "role": "minor",
+          "episodes": {
+            "from": 9,
+            "to": 9
+          },
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "ash",
+          "person": "yuichi-nakamura",
+          "role": "minor",
+          "episodes": {
+            "from": 23,
+            "to": 24
+          },
+          "source_refs": [
+            "s1",
+            "s15"
+          ]
+        },
+        {
+          "character": "kenny",
+          "person": "yuki-hayashi",
+          "role": "minor",
+          "source_refs": [
+            "s16"
+          ]
+        }
+      ],
+      "last_release_date": "2009-03-29"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10157",
+      "title": "Mobile Suit Gundam 00 Second Season (TV) - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A000%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9",
+      "title": "機動戦士ガンダム00の登場人物",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A000",
+      "title": "機動戦士ガンダム00",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s4",
+      "url": "https://web.archive.org/web/20250918032311/https://www.gundam00.net/tv/staffcast/",
+      "title": "STAFF & CAST ｜ 機動戦士ガンダム００ [ダブルオー]",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s5",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%87%9C%E5%A4%AA%E6%9C%97",
+      "title": "西凜太朗",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s6",
+      "url": "https://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%AD%E6%99%B6%E5%AD%90_%28%E5%A3%B0%E5%84%AA%29",
+      "title": "田中晶子 (声優)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s7",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%A9%8B%E7%A0%94%E4%BA%8C",
+      "title": "高橋研二",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s8",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%B3%B6%E5%BE%97%E6%84%9B",
+      "title": "川島得愛",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s9",
+      "url": "https://ja.wikipedia.org/wiki/%E6%96%8E%E8%B3%80%E3%81%BF%E3%81%A4%E3%81%8D",
+      "title": "斎賀みつき",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s10",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%A5%BF%E5%B0%9A%E4%B9%9F",
+      "title": "中西尚也",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s11",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8B%9D%E6%B2%BC%E7%B4%80%E7%BE%A9",
+      "title": "勝沼紀義",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s12",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B3%B6%E6%95%AC%E4%BB%8B",
+      "title": "小島敬介",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s13",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BB%81%E7%A7%91%E6%B4%8B%E5%B9%B3",
+      "title": "仁科洋平",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s14",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9D%BE%E5%8F%B2%E6%B3%95",
+      "title": "小松史法",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s15",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E6%82%A0%E4%B8%80",
+      "title": "中村悠一",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s16",
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%A9%E5%BF%97%E5%8B%87%E7%B4%80",
+      "title": "早志勇紀",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s17",
+      "url": "https://ja.wikipedia.org/wiki/%E6%98%9F%E9%87%8E%E5%81%A5%E4%B8%80_(%E5%A3%B0%E5%84%AA)",
+      "title": "星野健一 (声優) - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s18",
+      "url": "https://ja.wikipedia.org/wiki/%E7%BD%AE%E9%AE%8E%E9%BE%8D%E5%A4%AA%E9%83%8E",
+      "title": "置鮎龍太郎 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

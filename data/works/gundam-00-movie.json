@@ -1,0 +1,562 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "gundam-00-movie",
+  "franchise_id": "gundam-00",
+  "type": "anime_movie",
+  "title": {
+    "original_lang": "ja",
+    "original": "劇場版 機動戦士ガンダム00 -A wakening of the Trailblazer-",
+    "latin": "Gekijoban Kido Senshi Gundam Daburu O: A wakening of the Trailblazer",
+    "official": {
+      "en": "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer"
+    },
+    "aliases": {
+      "ko": [
+        "극장판 기동전사 건담 00 A wakening of the Trailblazer"
+      ]
+    }
+  },
+  "order": 3,
+  "status": "finished",
+  "start_date": "2010-09-18",
+  "runtime_min": 120,
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "サンライズ",
+      "latin": "Sunrise",
+      "official": {
+        "en": "Sunrise"
+      }
+    }
+  ],
+  "publishers": [
+    {
+      "original_lang": "ja",
+      "original": "松竹",
+      "latin": "Shochiku",
+      "official": {
+        "en": "Shochiku"
+      }
+    }
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%8A%87%E5%A0%B4%E7%89%88_%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A000_-A_wakening_of_the_Trailblazer-",
+    "ko": "https://ko.wikipedia.org/wiki/%EA%B7%B9%EC%9E%A5%ED%8C%90_%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC_%EA%B1%B4%EB%8B%B400",
+    "en": "https://en.wikipedia.org/wiki/Mobile_Suit_Gundam_00_the_Movie:_A_Wakening_of_the_Trailblazer"
+  },
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2010-09-18",
+      "credits": [
+        {
+          "character": "setsuna-f-seiei",
+          "person": "mamoru-miyano",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s3",
+            "s4"
+          ]
+        },
+        {
+          "character": "lyle-dylandy",
+          "person": "shinichiro-miki",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s3",
+            "s4"
+          ]
+        },
+        {
+          "character": "allelujah-haptism",
+          "person": "hiroyuki-yoshino",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s3",
+            "s4"
+          ]
+        },
+        {
+          "character": "tieria-erde",
+          "person": "hiroshi-kamiya",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s3",
+            "s4"
+          ]
+        },
+        {
+          "character": "sumeragi-lee-noriega",
+          "person": "yoko-honna",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "character": "lasse-aeon",
+          "person": "hiroki-tochi",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "character": "feldt-grace",
+          "person": "ayahi-takagaki",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "character": "mileina-vashti",
+          "person": "haruka-tomatsu",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "character": "soma-peries",
+          "person": "arisa-ogasawara",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "character": "haro",
+          "person": "arisa-ogasawara",
+          "role": "supporting",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "blue-haro",
+          "person": "arise-sato",
+          "role": "minor",
+          "source_refs": [
+            "s2",
+            "s7"
+          ]
+        },
+        {
+          "character": "kati-mannequin",
+          "person": "minami-takayama",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "character": "patrick-colasour",
+          "person": "kenji-hamada",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "character": "graham-aker",
+          "person": "yuichi-nakamura",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "character": "billy-katagiri",
+          "person": "yuji-ueda",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "character": "mina-carmine",
+          "person": "rie-kugimiya",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "character": "saji-crossroad",
+          "person": "miyu-irino",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "character": "louise-halevy",
+          "person": "chiwa-saito",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "character": "aeolia-schenberg",
+          "person": "tsutomu-isobe",
+          "role": "minor",
+          "note": {
+            "original_lang": "ja",
+            "original": "西暦2091年時のイオリア",
+            "translations": {
+              "ko": "서력 2091년 시점의 이오리아",
+              "en": "Aeolia as of 2091 AD"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1",
+            "s3",
+            "s2"
+          ]
+        },
+        {
+          "character": "e-a-ray",
+          "person": "toru-furuya",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "character": "federation-president-2nd",
+          "person": "toshiko-fujita",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s3",
+            "s2"
+          ]
+        },
+        {
+          "character": "marina-ismail",
+          "person": "ayumi-tsunematsu",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "character": "shirin-bakhtiar",
+          "person": "michiko-neya",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "character": "klaus-grado",
+          "person": "tokuyoshi-kawashima",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "character": "andrei-smirnov",
+          "person": "tetsu-shiratori",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "character": "ian-vashti",
+          "person": "hideyuki-umezu",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "character": "linda-vashti",
+          "person": "risa-hayamizu",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "character": "lichtendahl-tsery",
+          "person": "masataka-azuma",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "character": "christina-sierra",
+          "person": "arise-sato",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "character": "alejandro-corner",
+          "person": "yasunori-matsumoto",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "character": "innovade-technician-movie",
+          "person": "ryotaro-okiayu",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "character": "defense-secretary-movie",
+          "person": "takashi-taniguchi",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "character": "chief-of-staff-chairman-movie",
+          "person": "masayuki-omoro",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "character": "press-secretary",
+          "person": "ryoko-shiraishi",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "character": "chief-presidential-aide-movie",
+          "person": "shinsuke-nagashima",
+          "role": "minor",
+          "source_refs": [
+            "s3"
+          ]
+        },
+        {
+          "character": "presidential-aide-movie",
+          "person": "fuminori-komatsu",
+          "role": "minor",
+          "source_refs": [
+            "s3"
+          ]
+        },
+        {
+          "character": "ikeda",
+          "person": "go-shinomiya",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "character": "technical-officer-movie",
+          "person": "koji-yusa",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "character": "adjutant-movie",
+          "person": "mitsuru-ogata",
+          "role": "minor",
+          "source_refs": [
+            "s3"
+          ]
+        },
+        {
+          "character": "descartes-shaman",
+          "person": "ryo-katsuji",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s3",
+            "s4"
+          ]
+        },
+        {
+          "character": "kim",
+          "person": "kenji-hamada",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "newscaster-movie",
+          "person": "michiko-komatsu",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s5"
+          ]
+        },
+        {
+          "character": "nefer-nagib",
+          "person": "yuka-nishigaki",
+          "role": "minor",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "amia-lee",
+          "person": "yuka-nishigaki",
+          "role": "minor",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "setsuna-f-seiei",
+          "person": "yuka-nishigaki",
+          "role": "minor",
+          "part": "young",
+          "source_refs": [
+            "s6"
+          ]
+        },
+        {
+          "character": "assembly-member-movie",
+          "person": "yuka-nishigaki",
+          "role": "minor",
+          "source_refs": [
+            "s6"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10744",
+      "title": "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A000%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9",
+      "title": "機動戦士ガンダム00の登場人物",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8A%87%E5%A0%B4%E7%89%88_%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A000_-A_wakening_of_the_Trailblazer-",
+      "title": "劇場版 機動戦士ガンダム00 -A wakening of the Trailblazer-",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s4",
+      "url": "https://web.archive.org/web/20170329235519/http://www.gundam00.net/movie/staffcast/index.html",
+      "title": "スタッフ＆キャスト-STAFF & CAST-｜劇場版 機動戦士ガンダム00  -A wakening of the Trailblazer-",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s5",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9D%BE%E7%BE%8E%E6%99%BA%E5%AD%90",
+      "title": "小松美智子",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s6",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%A2%BB%E7%94%B1%E9%A6%99",
+      "title": "西墻由香",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s7",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E6%9C%89%E4%B8%96",
+      "title": "佐藤有世 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}
