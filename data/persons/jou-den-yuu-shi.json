@@ -1,0 +1,44 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "jou-den-yuu-shi",
+  "slug": "yuko-ueda",
+  "name": {
+    "original_lang": "ja",
+    "original": "上田ゆう子",
+    "latin": "Yuko Ueda",
+    "aliases": {
+      "ja": [
+        "うえだゆうこ"
+      ],
+      "en": [
+        "Ueda Yuko"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1971",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E7%94%B0%E3%82%86%E3%81%86%E5%AD%90"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E7%94%B0%E3%82%86%E3%81%86%E5%AD%90",
+      "title": "上田ゆう子 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

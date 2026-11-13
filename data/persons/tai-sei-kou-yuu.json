@@ -1,0 +1,44 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "tai-sei-kou-yuu",
+  "slug": "kosuke-onishi",
+  "name": {
+    "original_lang": "ja",
+    "original": "大西弘祐",
+    "latin": "Kosuke Onishi",
+    "aliases": {
+      "ja": [
+        "おおにしこうすけ"
+      ],
+      "en": [
+        "Onishi Kosuke"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1991",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%A5%BF%E5%BC%98%E7%A5%90"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%A5%BF%E5%BC%98%E7%A5%90",
+      "title": "大西弘祐 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

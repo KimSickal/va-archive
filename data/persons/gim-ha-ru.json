@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "gim-ha-ru",
+  "slug": "kim-ha-ru",
+  "name": {
+    "original_lang": "ko",
+    "original": "김하루",
+    "latin": "Kim Ha-ru",
+    "aliases": {
+      "en": [
+        "Ha-ru Kim"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1986-06-05",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%95%98%EB%A3%A8"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%95%98%EB%A3%A8",
+      "title": "김하루 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

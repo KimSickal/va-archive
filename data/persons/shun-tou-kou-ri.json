@@ -1,0 +1,44 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shun-tou-kou-ri",
+  "slug": "mitsutoshi-shundo",
+  "name": {
+    "original_lang": "ja",
+    "original": "俊藤光利",
+    "latin": "Mitsutoshi Shundo",
+    "aliases": {
+      "ja": [
+        "しゅんどうみつとし"
+      ],
+      "en": [
+        "Shundo Mitsutoshi"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1974",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%BF%8A%E8%97%A4%E5%85%89%E5%88%A9"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BF%8A%E8%97%A4%E5%85%89%E5%88%A9",
+      "title": "俊藤光利 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

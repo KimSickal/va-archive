@@ -1,0 +1,57 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ka-sei-ken-go",
+  "slug": "kengo-kawanishi",
+  "name": {
+    "original_lang": "ja",
+    "original": "河西健吾",
+    "latin": "Kengo Kawanishi",
+    "aliases": {
+      "ja": [
+        "かわにしけんご"
+      ],
+      "ko": [
+        "카와니시 켄고"
+      ],
+      "en": [
+        "Kawanishi Kengo"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1985",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%B2%B3%E8%A5%BF%E5%81%A5%E5%90%BE",
+    "en": "https://en.wikipedia.org/wiki/Kengo_Kawanishi",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%B9%B4%EC%99%80%EB%8B%88%EC%8B%9C_%EC%BC%84%EA%B3%A0"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B2%B3%E8%A5%BF%E5%81%A5%E5%90%BE",
+      "title": "河西健吾 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://en.wikipedia.org/wiki/Kengo_Kawanishi",
+      "title": "Kengo Kawanishi - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

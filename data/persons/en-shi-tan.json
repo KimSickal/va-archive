@@ -1,0 +1,43 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "en-shi-tan",
+  "slug": "shitan-en",
+  "name": {
+    "original_lang": "ja",
+    "original": "閻子丹",
+    "latin": "Shitan En",
+    "aliases": {
+      "ja": [
+        "えんしたん"
+      ],
+      "en": [
+        "En Shitan"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%96%BB%E5%AD%90%E4%B8%B9"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%96%BB%E5%AD%90%E4%B8%B9",
+      "title": "閻子丹 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

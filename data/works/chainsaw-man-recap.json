@@ -1,0 +1,236 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "chainsaw-man-recap",
+  "franchise_id": "chainsaw-man",
+  "type": "anime_special",
+  "title": {
+    "original_lang": "ja",
+    "original": "チェンソーマン 総集篇",
+    "latin": "Chainsaw Man Soshuhen",
+    "official": {
+      "en": "Chainsaw Man – The Compilation"
+    },
+    "aliases": {
+      "ja": [
+        "そうしゅうへん"
+      ],
+      "ko": [
+        "체인소 맨 총집편"
+      ],
+      "en": [
+        "Chainsaw Man Compilation"
+      ]
+    }
+  },
+  "order": 2,
+  "status": "finished",
+  "start_date": "2025-09-05",
+  "episodes": 2,
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "MAPPA",
+      "latin": "MAPPA",
+      "official": {
+        "ko": "MAPPA",
+        "en": "MAPPA"
+      }
+    }
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2025-09-05",
+      "credits": [
+        {
+          "character": "denji",
+          "person": "ko-koku-kiku-shi-kai",
+          "role": "main",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "pochita",
+          "person": "sei-taku-shi-shoku",
+          "role": "supporting",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "makima",
+          "person": "nan-boku-tomori",
+          "role": "main",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "aki-hayakawa",
+          "person": "han-den-shou-go",
+          "role": "main",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "power",
+          "person": "fairuzuai",
+          "role": "main",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "himeno",
+          "person": "i-rai-matsu-chi-ya",
+          "role": "supporting",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "kobeni-higashiyama",
+          "person": "kou-kyou-ka-rin",
+          "role": "supporting",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "hirokazu-arai",
+          "person": "hachi-dai-taku",
+          "role": "supporting",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "kishibe",
+          "person": "shin-den-ken-ji-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "angel-devil",
+          "person": "dai-den-shin-rei",
+          "role": "supporting",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "beam",
+          "person": "ka-kou-ka-ju",
+          "role": "supporting",
+          "source_refs": [
+            "s1"
+          ],
+          "note": {
+            "original_lang": "ja",
+            "original": "ABEMA番組ページでの表記は「サメの魔人」",
+            "translations": {
+              "ko": "ABEMA 방송 페이지 표기는 「サメの魔人」(상어의 마인)",
+              "en": "Listed as 「サメの魔人」 (\"Shark Fiend\") on the ABEMA program page"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          }
+        },
+        {
+          "character": "violence-fiend",
+          "person": "dai-den-seki-ya",
+          "role": "supporting",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "spider-devil",
+          "person": "go-tou-sa-sho-ri",
+          "role": "supporting",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "akane-sawatari",
+          "person": "tai-chi-you",
+          "role": "supporting",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "samurai-sword",
+          "person": "hin-ya-tai-ki",
+          "role": "supporting",
+          "source_refs": [
+            "s1"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://abema.tv/channels/abema-anime-2/slots/8rZ7FdJVGWd143",
+      "title": "チェンソーマン 総集篇【無料ビデオ1週間】 | ABEMA",
+      "publisher": "broadcaster",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%9E%E3%83%B3_%28%E3%82%A2%E3%83%8B%E3%83%A1%29",
+      "title": "チェンソーマン (アニメ) - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://chainsawman.dog/movie_reze/compilation/",
+      "title": "COMPILATION | 劇場版『チェンソーマン レゼ篇』公式サイト",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s4",
+      "url": "https://www.animenewsnetwork.com/news/2025-08-26/crunchyroll-to-stream-2-part-chainsaw-man-anime-compilation-film-in-september/.228104",
+      "title": "Crunchyroll to Stream 2-Part Chainsaw Man Anime Compilation Film in September",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "nan-boku-tomori",
+  "slug": "tomori-kusunoki",
+  "name": {
+    "original_lang": "ja",
+    "original": "楠木ともり",
+    "latin": "Tomori Kusunoki",
+    "aliases": {
+      "ja": [
+        "くすのきともり"
+      ],
+      "ko": [
+        "구스노키 토모리"
+      ],
+      "en": [
+        "Kusunoki Tomori"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1999",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%A5%A0%E6%9C%A8%E3%81%A8%E3%82%82%E3%82%8A",
+    "en": "https://en.wikipedia.org/wiki/Tomori_Kusunoki",
+    "ko": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EC%8A%A4%EB%85%B8%ED%82%A4_%ED%86%A0%EB%AA%A8%EB%A6%AC"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A5%A0%E6%9C%A8%E3%81%A8%E3%82%82%E3%82%8A",
+      "title": "楠木ともり - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://en.wikipedia.org/wiki/Tomori_Kusunoki",
+      "title": "Tomori Kusunoki - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

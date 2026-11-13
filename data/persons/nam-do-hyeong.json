@@ -1,0 +1,48 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "nam-do-hyeong",
+  "slug": "nam-do-hyeong",
+  "name": {
+    "original_lang": "ko",
+    "original": "남도형",
+    "latin": "Nam Do-hyeong",
+    "aliases": {
+      "en": [
+        "Do-hyeong Nam"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1983-04-24",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EB%82%A8%EB%8F%84%ED%98%95",
+    "en": "https://en.wikipedia.org/wiki/Nam_Doh-hyeong"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EB%8F%84%ED%98%95",
+      "title": "남도형 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/namdo8303"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

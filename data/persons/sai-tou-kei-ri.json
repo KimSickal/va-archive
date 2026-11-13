@@ -1,0 +1,44 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sai-tou-kei-ri",
+  "slug": "eri-saito",
+  "name": {
+    "original_lang": "ja",
+    "original": "斎藤恵理",
+    "latin": "Eri Saito",
+    "aliases": {
+      "ja": [
+        "さいとうえり"
+      ],
+      "en": [
+        "Saito Eri"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1973",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%96%8E%E8%97%A4%E6%81%B5%E7%90%86"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%96%8E%E8%97%A4%E6%81%B5%E7%90%86",
+      "title": "斎藤恵理 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

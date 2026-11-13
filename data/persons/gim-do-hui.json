@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "gim-do-hui",
+  "slug": "kim-do-hee",
+  "name": {
+    "original_lang": "ko",
+    "original": "김도희",
+    "latin": "Kim Do-hee",
+    "aliases": {
+      "en": [
+        "Do-hee Kim"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1992-10-26",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EA%B9%80%EB%8F%84%ED%9D%AC_%281992%EB%85%84%29"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EB%8F%84%ED%9D%AC_%281992%EB%85%84%29",
+      "title": "김도희 (1992년) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

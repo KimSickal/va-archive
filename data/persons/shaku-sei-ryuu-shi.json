@@ -1,0 +1,43 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shaku-sei-ryuu-shi",
+  "slug": "takayuki-ishii",
+  "name": {
+    "original_lang": "ja",
+    "original": "石井隆之",
+    "latin": "Takayuki Ishii",
+    "aliases": {
+      "ja": [
+        "いしいたかゆき"
+      ],
+      "en": [
+        "Ishii Takayuki"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E4%BA%95%E9%9A%86%E4%B9%8B_%28%E5%A3%B0%E5%84%AA%29"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E4%BA%95%E9%9A%86%E4%B9%8B_%28%E5%A3%B0%E5%84%AA%29",
+      "title": "石井隆之 (声優) - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

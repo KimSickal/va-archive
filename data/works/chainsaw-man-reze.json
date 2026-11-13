@@ -1,0 +1,353 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "chainsaw-man-reze",
+  "franchise_id": "chainsaw-man",
+  "type": "anime_movie",
+  "title": {
+    "original_lang": "ja",
+    "original": "劇場版 チェンソーマン レゼ篇",
+    "latin": "Gekijoban Chainsaw Man Reze-hen",
+    "official": {
+      "ko": "극장판 체인소 맨: 레제편",
+      "en": "Chainsaw Man – The Movie: Reze Arc"
+    },
+    "aliases": {
+      "ja": [
+        "げきじょうばんちぇんそーまんれぜへん",
+        "チェンソーマン レゼ篇"
+      ],
+      "ko": [
+        "체인소 맨 레제편"
+      ]
+    }
+  },
+  "order": 4,
+  "status": "finished",
+  "start_date": "2025-09-19",
+  "runtime_min": 100,
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "MAPPA",
+      "latin": "MAPPA",
+      "official": {
+        "ko": "MAPPA",
+        "en": "MAPPA"
+      }
+    }
+  ],
+  "publishers": [
+    {
+      "original_lang": "ja",
+      "original": "東宝",
+      "latin": "Toho",
+      "official": {
+        "ko": "도호",
+        "en": "Toho"
+      },
+      "aliases": {
+        "ja": [
+          "とうほう"
+        ]
+      }
+    }
+  ],
+  "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Chainsaw_Man_%E2%80%93_The_Movie%3A_Reze_Arc",
+    "ko": "https://ko.wikipedia.org/wiki/%EA%B7%B9%EC%9E%A5%ED%8C%90_%EC%B2%B4%EC%9D%B8%EC%86%8C_%EB%A7%A8%3A_%EB%A0%88%EC%A0%9C%ED%8E%B8"
+  },
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2025-09-19",
+      "credits": [
+        {
+          "character": "denji",
+          "person": "ko-koku-kiku-shi-kai",
+          "role": "main",
+          "part": "regular",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s3"
+          ]
+        },
+        {
+          "character": "denji",
+          "person": "sei-jou-ma-ri-na",
+          "role": "minor",
+          "part": "young",
+          "source_refs": [
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "reze",
+          "person": "jou-den-rei-na",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s3"
+          ]
+        },
+        {
+          "character": "pochita",
+          "person": "sei-taku-shi-shoku",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "makima",
+          "person": "nan-boku-tomori",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s3"
+          ]
+        },
+        {
+          "character": "aki-hayakawa",
+          "person": "han-den-shou-go",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s3"
+          ]
+        },
+        {
+          "character": "power",
+          "person": "fairuzuai",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s3"
+          ]
+        },
+        {
+          "character": "kobeni-higashiyama",
+          "person": "kou-kyou-ka-rin",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "beam",
+          "person": "ka-kou-ka-ju",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "violence-fiend",
+          "person": "dai-den-seki-ya",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "angel-devil",
+          "person": "dai-den-shin-rei",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "kishibe",
+          "person": "shin-den-ken-ji-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "vice-captain-reze",
+          "person": "kou-kyou-ei-soku",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "nomo",
+          "person": "seki-u-kon-ken-ji",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "mysterious-man-reze",
+          "person": "dai-son-ken-ji",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "typhoon-devil",
+          "person": "ki-ta-son-ei-ri",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "fox-devil",
+          "person": "kou-hi-den-yuu-shi",
+          "role": "minor",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s7"
+          ],
+          "note": {
+            "original_lang": "ja",
+            "original": "映画.comのキャスト表記は「謎の悪魔」",
+            "translations": {
+              "ko": "eiga.com 캐스트 표기는 「謎の悪魔」(정체불명의 악마)",
+              "en": "Credited as 「謎の悪魔」 (\"Mysterious Devil\") in the eiga.com cast list"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          }
+        },
+        {
+          "character": "kato",
+          "person": "haku-shaku-ken-to",
+          "role": "minor",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "tanabe",
+          "person": "boku-dai-ta-rou",
+          "role": "minor",
+          "source_refs": [
+            "s2",
+            "s5"
+          ]
+        },
+        {
+          "character": "masaki-ando",
+          "person": "hou-kou-kou",
+          "role": "minor",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "nimichi-master-reze",
+          "person": "shou-ya-ken-ichi",
+          "role": "minor",
+          "source_refs": [
+            "s2"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://chainsawman.dog/movie_reze/character/",
+      "title": "CHARACTER | 劇場版『チェンソーマン レゼ篇』公式サイト",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://times.abema.tv/articles/-/10034161",
+      "title": "アニメ『チェンソーマン』声優一覧｜全キャスト91人を網羅",
+      "publisher": "news",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://en.wikipedia.org/wiki/Chainsaw_Man_%E2%80%93_The_Movie%3A_Reze_Arc",
+      "title": "Chainsaw Man – The Movie: Reze Arc - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s4",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E9%BA%BB%E9%87%8C%E5%A5%88",
+      "title": "井上麻里奈 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s5",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%A8%E5%86%85%E5%A4%AA%E9%83%8E",
+      "title": "木内太郎 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s6",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%9E%E3%83%B3_%28%E3%82%A2%E3%83%8B%E3%83%A1%29",
+      "title": "チェンソーマン (アニメ) - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s7",
+      "url": "https://eiga.com/movie/100938/",
+      "title": "チェンソーマン レゼ篇 : 作品情報・キャスト・あらすじ - 映画.com",
+      "publisher": "news",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

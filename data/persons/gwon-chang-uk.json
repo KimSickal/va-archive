@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "gwon-chang-uk",
+  "slug": "kwon-chang-uk",
+  "name": {
+    "original_lang": "ko",
+    "original": "권창욱",
+    "latin": "Kwon Chang-uk",
+    "aliases": {
+      "en": [
+        "Chang-uk Kwon"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1984-07-21",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EA%B6%8C%EC%B0%BD%EC%9A%B1"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B6%8C%EC%B0%BD%EC%9A%B1",
+      "title": "권창욱 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

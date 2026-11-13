@@ -1,0 +1,44 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "tan-ji-hon-tai-ju",
+  "slug": "daiki-kajimoto",
+  "name": {
+    "original_lang": "ja",
+    "original": "鍛治本大樹",
+    "latin": "Daiki Kajimoto",
+    "aliases": {
+      "ja": [
+        "かじもとだいき"
+      ],
+      "en": [
+        "Kajimoto Daiki"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1983",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%8D%9B%E6%B2%BB%E6%9C%AC%E5%A4%A7%E6%A8%B9"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%8D%9B%E6%B2%BB%E6%9C%AC%E5%A4%A7%E6%A8%B9",
+      "title": "鍛治本大樹 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

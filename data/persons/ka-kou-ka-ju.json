@@ -1,0 +1,57 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ka-kou-ka-ju",
+  "slug": "natsuki-hanae",
+  "name": {
+    "original_lang": "ja",
+    "original": "花江夏樹",
+    "latin": "Natsuki Hanae",
+    "aliases": {
+      "ja": [
+        "はなえなつき"
+      ],
+      "ko": [
+        "하나에 나츠키"
+      ],
+      "en": [
+        "Hanae Natsuki"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1991",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E8%8A%B1%E6%B1%9F%E5%A4%8F%E6%A8%B9",
+    "en": "https://en.wikipedia.org/wiki/Natsuki_Hanae",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%95%98%EB%82%98%EC%97%90_%EB%82%98%EC%B8%A0%ED%82%A4"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8A%B1%E6%B1%9F%E5%A4%8F%E6%A8%B9",
+      "title": "花江夏樹 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://en.wikipedia.org/wiki/Natsuki_Hanae",
+      "title": "Natsuki Hanae - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

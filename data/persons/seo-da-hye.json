@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "seo-da-hye",
+  "slug": "seo-da-hye",
+  "name": {
+    "original_lang": "ko",
+    "original": "서다혜",
+    "latin": "Seo Da-hye",
+    "aliases": {
+      "en": [
+        "Da-hye Seo"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1990-09-30",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EC%84%9C%EB%8B%A4%ED%98%9C"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EB%8B%A4%ED%98%9C",
+      "title": "서다혜 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

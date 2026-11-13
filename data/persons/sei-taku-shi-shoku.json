@@ -1,0 +1,57 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sei-taku-shi-shoku",
+  "slug": "shiori-izawa",
+  "name": {
+    "original_lang": "ja",
+    "original": "井澤詩織",
+    "latin": "Shiori Izawa",
+    "aliases": {
+      "ja": [
+        "いざわしおり"
+      ],
+      "ko": [
+        "이자와 시오리"
+      ],
+      "en": [
+        "Izawa Shiori"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1987",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%BA%95%E6%BE%A4%E8%A9%A9%E7%B9%94",
+    "en": "https://en.wikipedia.org/wiki/Shiori_Izawa",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%9E%90%EC%99%80_%EC%8B%9C%EC%98%A4%EB%A6%AC"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%95%E6%BE%A4%E8%A9%A9%E7%B9%94",
+      "title": "井澤詩織 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://en.wikipedia.org/wiki/Shiori_Izawa",
+      "title": "Shiori Izawa - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

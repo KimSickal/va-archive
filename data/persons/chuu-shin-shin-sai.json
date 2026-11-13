@@ -1,0 +1,43 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "chuu-shin-shin-sai",
+  "slug": "mana-nakatomi",
+  "name": {
+    "original_lang": "ja",
+    "original": "中臣真菜",
+    "latin": "Mana Nakatomi",
+    "aliases": {
+      "ja": [
+        "なかとみまな"
+      ],
+      "en": [
+        "Nakatomi Mana"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%87%A3%E7%9C%9F%E8%8F%9C"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%87%A3%E7%9C%9F%E8%8F%9C",
+      "title": "中臣真菜 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

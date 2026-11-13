@@ -1,0 +1,57 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shin-den-ken-ji-rou",
+  "slug": "kenjiro-tsuda",
+  "name": {
+    "original_lang": "ja",
+    "original": "津田健次郎",
+    "latin": "Kenjiro Tsuda",
+    "aliases": {
+      "ja": [
+        "つだけんじろう"
+      ],
+      "ko": [
+        "츠다 켄지로"
+      ],
+      "en": [
+        "Tsuda Kenjiro"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1971",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%B4%A5%E7%94%B0%E5%81%A5%E6%AC%A1%E9%83%8E",
+    "en": "https://en.wikipedia.org/wiki/Kenjiro_Tsuda",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%B8%A0%EB%8B%A4_%EC%BC%84%EC%A7%80%EB%A1%9C"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B4%A5%E7%94%B0%E5%81%A5%E6%AC%A1%E9%83%8E",
+      "title": "津田健次郎 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://en.wikipedia.org/wiki/Kenjiro_Tsuda",
+      "title": "Kenjiro Tsuda - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "hin-kou-ryou-dai",
+  "slug": "ayano-hamaguchi",
+  "name": {
+    "original_lang": "ja",
+    "original": "濱口綾乃",
+    "latin": "Ayano Hamaguchi",
+    "aliases": {
+      "ja": [
+        "はまぐちあやの"
+      ],
+      "en": [
+        "Hamaguchi Ayano"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%BF%B1%E5%8F%A3%E7%B6%BE%E4%B9%83"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%BF%B1%E5%8F%A3%E7%B6%BE%E4%B9%83",
+      "title": "濱口綾乃 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

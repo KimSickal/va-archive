@@ -1,0 +1,57 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "dai-son-ken-ji",
+  "slug": "kenji-nomura",
+  "name": {
+    "original_lang": "ja",
+    "original": "乃村健次",
+    "latin": "Kenji Nomura",
+    "aliases": {
+      "ja": [
+        "のむらけんじ"
+      ],
+      "ko": [
+        "노무라 켄지"
+      ],
+      "en": [
+        "Nomura Kenji"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1970",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%B9%83%E6%9D%91%E5%81%A5%E6%AC%A1",
+    "en": "https://en.wikipedia.org/wiki/Kenji_Nomura",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%85%B8%EB%AC%B4%EB%9D%BC_%EC%BC%84%EC%A7%80"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B9%83%E6%9D%91%E5%81%A5%E6%AC%A1",
+      "title": "乃村健次 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://en.wikipedia.org/wiki/Kenji_Nomura",
+      "title": "Kenji Nomura - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

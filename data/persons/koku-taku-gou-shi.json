@@ -1,0 +1,44 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "koku-taku-gou-shi",
+  "slug": "tsuyoshi-kurosawa",
+  "name": {
+    "original_lang": "ja",
+    "original": "黒澤剛史",
+    "latin": "Tsuyoshi Kurosawa",
+    "aliases": {
+      "ja": [
+        "くろさわつよし"
+      ],
+      "en": [
+        "Kurosawa Tsuyoshi"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1980",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%BB%92%E6%BE%A4%E5%89%9B%E5%8F%B2"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E6%BE%A4%E5%89%9B%E5%8F%B2",
+      "title": "黒澤剛史 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

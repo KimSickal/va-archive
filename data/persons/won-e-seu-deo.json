@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "won-e-seu-deo",
+  "slug": "won-esther",
+  "name": {
+    "original_lang": "ko",
+    "original": "원에스더",
+    "latin": "Won Esther",
+    "aliases": {
+      "en": [
+        "Esther Won"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1987-03-04",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9B%90%EC%97%90%EC%8A%A4%EB%8D%94"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EC%9B%90%EC%97%90%EC%8A%A4%EB%8D%94",
+      "title": "원에스더 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "chainsaw-man-chainsaw-biyori",
+  "franchise_id": "chainsaw-man",
+  "type": "anime_special",
+  "title": {
+    "original_lang": "ja",
+    "original": "ちぇんそーびより",
+    "latin": "Chainsaw Biyori",
+    "official": {
+      "en": "Chainsaw Days"
+    },
+    "aliases": {
+      "ja": [
+        "チェンソーびより"
+      ]
+    }
+  },
+  "order": 3,
+  "status": "finished",
+  "start_date": "2025-09-05",
+  "episodes": 2,
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "MAPPA",
+      "latin": "MAPPA",
+      "official": {
+        "ko": "MAPPA",
+        "en": "MAPPA"
+      }
+    }
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2025-09-05",
+      "credits": [
+        {
+          "character": "denji",
+          "person": "ko-koku-kiku-shi-kai",
+          "role": "main",
+          "part": "regular",
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "denji",
+          "person": "sei-jou-ma-ri-na",
+          "role": "supporting",
+          "part": "young",
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "pochita",
+          "person": "sei-taku-shi-shoku",
+          "role": "main",
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "aki-hayakawa",
+          "person": "han-den-shou-go",
+          "role": "main",
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "power",
+          "person": "fairuzuai",
+          "role": "main",
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "himeno",
+          "person": "i-rai-matsu-chi-ya",
+          "role": "supporting",
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "comedian-biyori",
+          "person": "kin-tou-kou-toku",
+          "role": "minor",
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "woman-biyori",
+          "person": "shou-gen-yuu",
+          "role": "minor",
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://anium.jp/anime/253",
+      "title": "ちぇんそーびより",
+      "publisher": "other",
+      "tier": 3,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%9E%E3%83%B3_%28%E3%82%A2%E3%83%8B%E3%83%A1%29",
+      "title": "チェンソーマン (アニメ) - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://www.animenewsnetwork.com/news/2025-08-26/crunchyroll-to-stream-2-part-chainsaw-man-anime-compilation-film-in-september/.228104",
+      "title": "Crunchyroll to Stream 2-Part Chainsaw Man Anime Compilation Film in September",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

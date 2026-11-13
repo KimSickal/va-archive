@@ -1,0 +1,43 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "tou-sei-jun",
+  "slug": "hayato-fujii",
+  "name": {
+    "original_lang": "ja",
+    "original": "藤井隼",
+    "latin": "Hayato Fujii",
+    "aliases": {
+      "ja": [
+        "ふじいはやと"
+      ],
+      "en": [
+        "Fujii Hayato"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E8%97%A4%E4%BA%95%E9%9A%BC"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E8%97%A4%E4%BA%95%E9%9A%BC",
+      "title": "藤井隼 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

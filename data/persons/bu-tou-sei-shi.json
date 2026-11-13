@@ -1,0 +1,44 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "bu-tou-sei-shi",
+  "slug": "tadashi-muto",
+  "name": {
+    "original_lang": "ja",
+    "original": "武藤正史",
+    "latin": "Tadashi Muto",
+    "aliases": {
+      "ja": [
+        "むとうただし"
+      ],
+      "en": [
+        "Muto Tadashi"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1970",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%97%A4%E6%AD%A3%E5%8F%B2"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%97%A4%E6%AD%A3%E5%8F%B2",
+      "title": "武藤正史 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

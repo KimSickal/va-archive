@@ -1,0 +1,43 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sa-kyuu-kan-gen-ki",
+  "slug": "motoki-sakuma",
+  "name": {
+    "original_lang": "ja",
+    "original": "佐久間元輝",
+    "latin": "Motoki Sakuma",
+    "aliases": {
+      "ja": [
+        "さくまもとき"
+      ],
+      "en": [
+        "Sakuma Motoki"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%BD%90%E4%B9%85%E9%96%93%E5%85%83%E8%BC%9D"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E4%B9%85%E9%96%93%E5%85%83%E8%BC%9D",
+      "title": "佐久間元輝 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

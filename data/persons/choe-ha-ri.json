@@ -1,0 +1,44 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "choe-ha-ri",
+  "slug": "choi-ha-ri",
+  "name": {
+    "original_lang": "ko",
+    "original": "최하리",
+    "latin": "Choi Ha-ri",
+    "aliases": {
+      "en": [
+        "Ha-ri Choi"
+      ],
+      "ko": [
+        "최정윤"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1990-02-06",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EC%B5%9C%EC%A0%95%EC%9C%A4_%28%EC%84%B1%EC%9A%B0%29"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EC%B5%9C%EC%A0%95%EC%9C%A4_%28%EC%84%B1%EC%9A%B0%29",
+      "title": "최정윤 (성우) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

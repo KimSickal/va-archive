@@ -1,0 +1,57 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "seki-u-kon-ken-ji",
+  "slug": "kenji-akabane",
+  "name": {
+    "original_lang": "ja",
+    "original": "赤羽根健治",
+    "latin": "Kenji Akabane",
+    "aliases": {
+      "ja": [
+        "あかばねけんじ"
+      ],
+      "ko": [
+        "아카바네 켄지"
+      ],
+      "en": [
+        "Akabane Kenji"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1984",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E8%B5%A4%E7%BE%BD%E6%A0%B9%E5%81%A5%E6%B2%BB",
+    "en": "https://en.wikipedia.org/wiki/Kenji_Akabane",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%B9%B4%EB%B0%94%EB%84%A4_%EC%BC%84%EC%A7%80"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E8%B5%A4%E7%BE%BD%E6%A0%B9%E5%81%A5%E6%B2%BB",
+      "title": "赤羽根健治 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://en.wikipedia.org/wiki/Kenji_Akabane",
+      "title": "Kenji Akabane - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

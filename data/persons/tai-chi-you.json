@@ -1,0 +1,56 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "tai-chi-you",
+  "slug": "yo-taichi",
+  "name": {
+    "original_lang": "ja",
+    "original": "大地葉",
+    "latin": "Yo Taichi",
+    "aliases": {
+      "ja": [
+        "たいちよう"
+      ],
+      "ko": [
+        "타이치 요"
+      ],
+      "en": [
+        "Taichi Yo"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9C%B0%E8%91%89",
+    "en": "https://en.wikipedia.org/wiki/Y%C5%8D_Taichi",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%83%80%EC%9D%B4%EC%B9%98_%EC%9A%94_%28%EC%84%B1%EC%9A%B0%29"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9C%B0%E8%91%89",
+      "title": "大地葉 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://en.wikipedia.org/wiki/Y%C5%8D_Taichi",
+      "title": "Yō Taichi - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

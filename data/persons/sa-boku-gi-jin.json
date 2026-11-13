@@ -1,0 +1,44 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sa-boku-gi-jin",
+  "slug": "yoshihito-sasaki",
+  "name": {
+    "original_lang": "ja",
+    "original": "佐々木義人",
+    "latin": "Yoshihito Sasaki",
+    "aliases": {
+      "ja": [
+        "ささきよしひと"
+      ],
+      "en": [
+        "Sasaki Yoshihito"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1982",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%BD%90%E3%80%85%E6%9C%A8%E7%BE%A9%E4%BA%BA_%28%E5%A3%B0%E5%84%AA%29"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E3%80%85%E6%9C%A8%E7%BE%A9%E4%BA%BA_%28%E5%A3%B0%E5%84%AA%29",
+      "title": "佐々木義人 (声優) - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

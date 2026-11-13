@@ -1,0 +1,44 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "hei-sei-ki-tai",
+  "slug": "takahiro-hirai",
+  "name": {
+    "original_lang": "ja",
+    "original": "平井貴大",
+    "latin": "Takahiro Hirai",
+    "aliases": {
+      "ja": [
+        "ひらいたかひろ"
+      ],
+      "en": [
+        "Hirai Takahiro"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1995",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E4%BA%95%E8%B2%B4%E5%A4%A7"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E4%BA%95%E8%B2%B4%E5%A4%A7",
+      "title": "平井貴大 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

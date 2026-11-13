@@ -1,0 +1,43 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "koku-fu-shou-getsu",
+  "slug": "satsuki-kokubu",
+  "name": {
+    "original_lang": "ja",
+    "original": "國府咲月",
+    "latin": "Satsuki Kokubu",
+    "aliases": {
+      "ja": [
+        "こくぶさつき"
+      ],
+      "en": [
+        "Kokubu Satsuki"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%9C%8B%E5%BA%9C%E5%92%B2%E6%9C%88"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%9C%8B%E5%BA%9C%E5%92%B2%E6%9C%88",
+      "title": "國府咲月 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

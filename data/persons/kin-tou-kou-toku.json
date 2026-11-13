@@ -1,0 +1,44 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kin-tou-kou-toku",
+  "slug": "hironori-kondo",
+  "name": {
+    "original_lang": "ja",
+    "original": "近藤浩徳",
+    "latin": "Hironori Kondo",
+    "aliases": {
+      "ja": [
+        "こんどうひろのり"
+      ],
+      "en": [
+        "Kondo Hironori"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1980",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E8%BF%91%E8%97%A4%E6%B5%A9%E5%BE%B3"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E8%97%A4%E6%B5%A9%E5%BE%B3",
+      "title": "近藤浩徳 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}
