@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "玉川砂記子",
-    "latin": "Sakiko Tamagawa"
+    "latin": "Sakiko Tamagawa",
+    "aliases": {
+      "ja": [
+        "たまがわさきこ"
+      ]
+    }
   },
   "gender": "female",
   "nationality": [

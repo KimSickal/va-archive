@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "磯部勉",
-    "latin": "Tsutomu Isobe"
+    "latin": "Tsutomu Isobe",
+    "aliases": {
+      "ja": [
+        "いそべつとむ"
+      ]
+    }
   },
   "nationality": [
     "JP"

@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "斎藤千和",
-    "latin": "Chiwa Saito"
+    "latin": "Chiwa Saito",
+    "aliases": {
+      "ja": [
+        "さいとうちわ"
+      ]
+    }
   },
   "gender": "female",
   "nationality": [

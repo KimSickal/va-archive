@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "斎賀みつき",
-    "latin": "Mitsuki Saiga"
+    "latin": "Mitsuki Saiga",
+    "aliases": {
+      "ja": [
+        "さいがみつき"
+      ]
+    }
   },
   "gender": "female",
   "nationality": [

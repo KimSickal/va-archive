@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "仲尾あづさ",
-    "latin": "Azusa Nakao"
+    "latin": "Azusa Nakao",
+    "aliases": {
+      "ja": [
+        "なかおあづさ"
+      ]
+    }
   },
   "gender": "female",
   "birth": "1972-07-07",

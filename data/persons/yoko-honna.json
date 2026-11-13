@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "本名陽子",
-    "latin": "Yoko Honna"
+    "latin": "Yoko Honna",
+    "aliases": {
+      "ja": [
+        "ほんなようこ"
+      ]
+    }
   },
   "gender": "female",
   "nationality": [

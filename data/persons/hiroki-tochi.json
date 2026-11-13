@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "東地宏樹",
-    "latin": "Hiroki Tochi"
+    "latin": "Hiroki Tochi",
+    "aliases": {
+      "ja": [
+        "とうちひろき"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [

@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "伝坂勉",
-    "latin": "Tsutomu Densaka"
+    "latin": "Tsutomu Densaka",
+    "aliases": {
+      "ja": [
+        "でんさかつとむ"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [

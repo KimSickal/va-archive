@@ -4,7 +4,13 @@
   "name": {
     "original_lang": "ja",
     "original": "屋良有作",
-    "latin": "Yusaku Yara"
+    "latin": "Yusaku Yara",
+    "aliases": {
+      "ja": [
+        "やらゆうさく",
+        "黒部鉄"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [

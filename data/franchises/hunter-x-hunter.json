@@ -219,8 +219,13 @@
       "id": "crazy-slots",
       "name": {
         "original_lang": "ja",
-        "original": "気狂いピエロ（クレイジースロット）",
-        "latin": "Crazy Slots"
+        "original": "気狂いピエロ",
+        "latin": "Crazy Slots",
+        "aliases": {
+          "ja": [
+            "くれいじーすろっと"
+          ]
+        }
       },
       "first_appearance": {
         "work": "hunter-x-hunter-2011"
@@ -1804,14 +1809,15 @@
       "id": "fukuro",
       "name": {
         "original_lang": "ja",
-        "original": "梟（ふくろう）",
+        "original": "梟",
         "latin": "Owl",
         "official": {
           "ko": "올빼미"
         },
         "aliases": {
           "ja": [
-            "フクロウ"
+            "フクロウ",
+            "ふくろう"
           ]
         }
       },
@@ -1830,14 +1836,15 @@
       "id": "mimizu",
       "name": {
         "original_lang": "ja",
-        "original": "蚯蚓（みみず）",
+        "original": "蚯蚓",
         "latin": "Mimizu",
         "official": {
           "ko": "지렁이"
         },
         "aliases": {
           "ja": [
-            "ミミズ"
+            "ミミズ",
+            "みみず"
           ]
         }
       },
@@ -1856,11 +1863,12 @@
       "id": "yamainu",
       "name": {
         "original_lang": "ja",
-        "original": "病犬（やまいぬ）",
+        "original": "病犬",
         "latin": "Yamainu",
         "aliases": {
           "ja": [
-            "ヤマイヌ"
+            "ヤマイヌ",
+            "やまいぬ"
           ]
         }
       },
@@ -1879,14 +1887,15 @@
       "id": "yamaarashi",
       "name": {
         "original_lang": "ja",
-        "original": "豪猪（やまあらし）",
+        "original": "豪猪",
         "latin": "Yamaarashi",
         "official": {
           "ko": "산미치광이"
         },
         "aliases": {
           "ja": [
-            "ヤマアラシ"
+            "ヤマアラシ",
+            "やまあらし"
           ]
         }
       },
@@ -1905,11 +1914,12 @@
       "id": "hiru",
       "name": {
         "original_lang": "ja",
-        "original": "蛭（ひる）",
+        "original": "蛭",
         "latin": "Hiru",
         "aliases": {
           "ja": [
-            "ヒル"
+            "ヒル",
+            "ひる"
           ]
         }
       },

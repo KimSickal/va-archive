@@ -4,7 +4,13 @@
   "name": {
     "original_lang": "ja",
     "original": "真堂圭",
-    "latin": "Kei Shindo"
+    "latin": "Kei Shindo",
+    "aliases": {
+      "ja": [
+        "しんどうけい",
+        "斉藤圭"
+      ]
+    }
   },
   "gender": "female",
   "nationality": [

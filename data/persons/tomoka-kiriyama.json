@@ -4,7 +4,14 @@
   "name": {
     "original_lang": "ja",
     "original": "桐山智花",
-    "latin": "Tomoka Kiriyama"
+    "latin": "Tomoka Kiriyama",
+    "aliases": {
+      "ja": [
+        "きりやまともか",
+        "金原朋未",
+        "かなはらともみ"
+      ]
+    }
   },
   "gender": "female",
   "birth": "1984-06-22",

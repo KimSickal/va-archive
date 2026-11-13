@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "相橋愛子",
-    "latin": "Aiko Aihashi"
+    "latin": "Aiko Aihashi",
+    "aliases": {
+      "ja": [
+        "あいはしあいこ"
+      ]
+    }
   },
   "gender": "female",
   "birth": "1976-03-10",

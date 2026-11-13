@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "伊藤栄次",
-    "latin": "Eiji Ito"
+    "latin": "Eiji Ito",
+    "aliases": {
+      "ja": [
+        "いとうえいじ"
+      ]
+    }
   },
   "gender": "male",
   "birth": "1961-07-21",

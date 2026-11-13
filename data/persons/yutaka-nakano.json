@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "仲野裕",
-    "latin": "Yutaka Nakano"
+    "latin": "Yutaka Nakano",
+    "aliases": {
+      "ja": [
+        "なかのゆたか"
+      ]
+    }
   },
   "gender": "male",
   "birth": "1951-01-10",

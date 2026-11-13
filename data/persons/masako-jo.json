@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "城雅子",
-    "latin": "Masako Jo"
+    "latin": "Masako Jo",
+    "aliases": {
+      "ja": [
+        "じょうまさこ"
+      ]
+    }
   },
   "gender": "female",
   "nationality": [

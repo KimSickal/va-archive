@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "我妻正崇",
-    "latin": "Masataka Azuma"
+    "latin": "Masataka Azuma",
+    "aliases": {
+      "ja": [
+        "あづままさたか"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [

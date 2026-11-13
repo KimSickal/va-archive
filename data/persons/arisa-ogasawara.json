@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "小笠原亜里沙",
-    "latin": "Arisa Ogasawara"
+    "latin": "Arisa Ogasawara",
+    "aliases": {
+      "ja": [
+        "おがさわらありさ"
+      ]
+    }
   },
   "gender": "female",
   "nationality": [

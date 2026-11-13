@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "天神英貴",
-    "latin": "Hidetaka Tenjin"
+    "latin": "Hidetaka Tenjin",
+    "aliases": {
+      "ja": [
+        "てんじんひでたか"
+      ]
+    }
   },
   "gender": "male",
   "birth": "1973-10-13",

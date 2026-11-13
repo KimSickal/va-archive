@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "佐藤健輔",
-    "latin": "Kensuke Sato"
+    "latin": "Kensuke Sato",
+    "aliases": {
+      "ja": [
+        "さとうけんすけ"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [

@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "鈴木琢磨",
-    "latin": "Takuma Suzuki"
+    "latin": "Takuma Suzuki",
+    "aliases": {
+      "ja": [
+        "すずきたくま"
+      ]
+    }
   },
   "gender": "male",
   "birth": "1961-12-07",

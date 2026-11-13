@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "来宮良子",
-    "latin": "Ryoko Kinomiya"
+    "latin": "Ryoko Kinomiya",
+    "aliases": {
+      "ja": [
+        "きのみやりょうこ"
+      ]
+    }
   },
   "gender": "female",
   "birth": "1931-07-10",

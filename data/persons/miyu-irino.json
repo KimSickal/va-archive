@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "入野自由",
-    "latin": "Miyu Irino"
+    "latin": "Miyu Irino",
+    "aliases": {
+      "ja": [
+        "いりのみゆ"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [

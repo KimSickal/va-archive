@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "置鮎龍太郎",
-    "latin": "Ryotaro Okiayu"
+    "latin": "Ryotaro Okiayu",
+    "aliases": {
+      "ja": [
+        "おきあゆりょうたろう"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [

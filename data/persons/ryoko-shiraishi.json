@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "白石涼子",
-    "latin": "Ryoko Shiraishi"
+    "latin": "Ryoko Shiraishi",
+    "aliases": {
+      "ja": [
+        "しらいしりょうこ"
+      ]
+    }
   },
   "gender": "female",
   "nationality": [

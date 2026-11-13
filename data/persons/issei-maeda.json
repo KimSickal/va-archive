@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "前田一世",
-    "latin": "Issei Maeda"
+    "latin": "Issei Maeda",
+    "aliases": {
+      "ja": [
+        "まえだいっせい"
+      ]
+    }
   },
   "gender": "male",
   "birth": "1974-12-29",

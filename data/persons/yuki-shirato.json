@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "白兎夕季",
-    "latin": "Yuki Shirato"
+    "latin": "Yuki Shirato",
+    "aliases": {
+      "ja": [
+        "しらとゆき"
+      ]
+    }
   },
   "gender": "female",
   "wikipedia": {

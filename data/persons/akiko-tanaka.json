@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "田中晶子",
-    "latin": "Akiko Tanaka"
+    "latin": "Akiko Tanaka",
+    "aliases": {
+      "ja": [
+        "たなかあきこ"
+      ]
+    }
   },
   "gender": "female",
   "nationality": [

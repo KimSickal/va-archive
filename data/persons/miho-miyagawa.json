@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "宮川美保",
-    "latin": "Miho Miyagawa"
+    "latin": "Miho Miyagawa",
+    "aliases": {
+      "ja": [
+        "みやがわみほ"
+      ]
+    }
   },
   "gender": "female",
   "birth": "1977-02-22",

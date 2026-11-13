@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "村上裕哉",
-    "latin": "Yuya Murakami"
+    "latin": "Yuya Murakami",
+    "aliases": {
+      "ja": [
+        "むらかみゆうや"
+      ]
+    }
   },
   "gender": "male",
   "birth": "1984-09-05",

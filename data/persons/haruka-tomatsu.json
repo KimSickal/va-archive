@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "戸松遥",
-    "latin": "Haruka Tomatsu"
+    "latin": "Haruka Tomatsu",
+    "aliases": {
+      "ja": [
+        "とまつはるか"
+      ]
+    }
   },
   "gender": "female",
   "nationality": [

@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "高橋研二",
-    "latin": "Kenji Takahashi"
+    "latin": "Kenji Takahashi",
+    "aliases": {
+      "ja": [
+        "たかはしけんじ"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [

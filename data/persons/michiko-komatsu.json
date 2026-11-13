@@ -4,7 +4,14 @@
   "name": {
     "original_lang": "ja",
     "original": "小松美智子",
-    "latin": "Michiko Komatsu"
+    "latin": "Michiko Komatsu",
+    "aliases": {
+      "ja": [
+        "こまつみちこ",
+        "清水美智子",
+        "しみずみちこ"
+      ]
+    }
   },
   "gender": "female",
   "nationality": [

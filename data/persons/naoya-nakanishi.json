@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "中西尚也",
-    "latin": "Naoya Nakanishi"
+    "latin": "Naoya Nakanishi",
+    "aliases": {
+      "ja": [
+        "なかにしなおや"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [

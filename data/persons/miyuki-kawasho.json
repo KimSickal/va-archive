@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "川庄美雪",
-    "latin": "Miyuki Kawasho"
+    "latin": "Miyuki Kawasho",
+    "aliases": {
+      "ja": [
+        "かわしょうみゆき"
+      ]
+    }
   },
   "gender": "female",
   "nationality": [

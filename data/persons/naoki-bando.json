@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "坂東尚樹",
-    "latin": "Naoki Bando"
+    "latin": "Naoki Bando",
+    "aliases": {
+      "ja": [
+        "ばんどうなおき"
+      ]
+    }
   },
   "gender": "male",
   "birth": "1957-12-12",

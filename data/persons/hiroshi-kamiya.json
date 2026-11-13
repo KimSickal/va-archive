@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "神谷浩史",
-    "latin": "Hiroshi Kamiya"
+    "latin": "Hiroshi Kamiya",
+    "aliases": {
+      "ja": [
+        "かみやひろし"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [

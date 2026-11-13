@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "谷育子",
-    "latin": "Ikuko Tani"
+    "latin": "Ikuko Tani",
+    "aliases": {
+      "ja": [
+        "たにいくこ"
+      ]
+    }
   },
   "gender": "female",
   "birth": "1939-04-09",

@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "河相智哉",
-    "latin": "Tomoya Kawai"
+    "latin": "Tomoya Kawai",
+    "aliases": {
+      "ja": [
+        "かわいともや"
+      ]
+    }
   },
   "gender": "male",
   "wikipedia": {

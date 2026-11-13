@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "横尾博之",
-    "latin": "Hiroyuki Yokoo"
+    "latin": "Hiroyuki Yokoo",
+    "aliases": {
+      "ja": [
+        "よこおひろゆき"
+      ]
+    }
   },
   "gender": "male",
   "birth": "1966-11-13",

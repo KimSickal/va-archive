@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "浜添伸也",
-    "latin": "Shinya Hamazoe"
+    "latin": "Shinya Hamazoe",
+    "aliases": {
+      "ja": [
+        "はまぞえしんや"
+      ]
+    }
   },
   "gender": "male",
   "birth": "1984-09-06",

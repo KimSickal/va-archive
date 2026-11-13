@@ -4,7 +4,13 @@
   "name": {
     "original_lang": "ja",
     "original": "相沢まさき",
-    "latin": "Masaki Aizawa"
+    "latin": "Masaki Aizawa",
+    "aliases": {
+      "ja": [
+        "あいざわまさき",
+        "相沢正輝"
+      ]
+    }
   },
   "gender": "male",
   "birth": "1965-01-19",

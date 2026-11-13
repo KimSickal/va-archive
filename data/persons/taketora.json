@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "武虎",
-    "latin": "Taketora"
+    "latin": "Taketora",
+    "aliases": {
+      "ja": [
+        "たけとら"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [

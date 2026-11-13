@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "森沢芙美",
-    "latin": "Fumi Morisawa"
+    "latin": "Fumi Morisawa",
+    "aliases": {
+      "ja": [
+        "もりさわふみ"
+      ]
+    }
   },
   "gender": "female",
   "wikipedia": {

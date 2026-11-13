@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "梶雅人",
-    "latin": "Masato Kaji"
+    "latin": "Masato Kaji",
+    "aliases": {
+      "ja": [
+        "かじまさと"
+      ]
+    }
   },
   "birth": "1981-06-04",
   "wikipedia": {

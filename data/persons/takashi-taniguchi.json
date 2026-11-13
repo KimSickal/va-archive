@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "谷口節",
-    "latin": "Takashi Taniguchi"
+    "latin": "Takashi Taniguchi",
+    "aliases": {
+      "ja": [
+        "たにぐちたかし"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [

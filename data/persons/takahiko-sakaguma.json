@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "坂熊孝彦",
-    "latin": "Takahiko Sakaguma"
+    "latin": "Takahiko Sakaguma",
+    "aliases": {
+      "ja": [
+        "さかぐまたかひこ"
+      ]
+    }
   },
   "gender": "male",
   "birth": "1978-05-19",

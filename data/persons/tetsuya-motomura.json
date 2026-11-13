@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "元村哲也",
-    "latin": "Tetsuya Motomura"
+    "latin": "Tetsuya Motomura",
+    "aliases": {
+      "ja": [
+        "もとむらてつや"
+      ]
+    }
   },
   "gender": "male",
   "wikipedia": {

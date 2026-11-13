@@ -19,9 +19,10 @@ export interface Intro {
 
 /** 일본어 위키백과 도입부에서 후리가나를 뽑는다 */
 export function extractReading(intro: string): string | null {
-  const m = intro.match(/^[^（(\n]{1,40}[（(]([ぁ-ゖゔー・\s　]+)[、,，）)]/);
+  const m = intro.match(/^[^（(\n]{1,40}[（(]([ぁ-ゖゔァ-ヶー・\s　]+)[、,，）)]/);
   if (!m) return null;
-  const r = m[1].replace(/[\s　・]/g, '');
+  // 가타카나가 섞인 읽기(예: くぼ ユリカ)는 히라가나로 통일
+  const r = m[1].replace(/[\s　・]/g, '').replace(/[ァ-ヶ]/g, (c) => String.fromCharCode(c.charCodeAt(0) - 0x60));
   return r.length >= 2 ? r : null;
 }
 
@@ -38,7 +39,11 @@ async function fetchBatch(lang: string, titles: string[]): Promise<Map<string, s
   }
   if (!res || !res.ok) throw new Error(`${lang} API ${res?.status}`);
   const j = (await res.json()) as {
-    query: { pages: { title: string; extract?: string }[]; redirects?: { from: string; to: string }[]; normalized?: { from: string; to: string }[] };
+    query: {
+      pages: { title: string; extract?: string }[];
+      redirects?: { from: string; to: string }[];
+      normalized?: { from: string; to: string }[];
+    };
   };
   const out = new Map<string, string>();
   const alias = new Map<string, string>();
@@ -83,5 +88,6 @@ export async function fetchIntros(list: string[]): Promise<Intro[]> {
 if (import.meta.url === `file://${process.argv[1]}` && urls.length) {
   const res = await fetchIntros(urls);
   if (asJson) console.log(JSON.stringify(res, null, 2));
-  else for (const r of res) console.log(`${r.title}\t${r.reading ?? '-'}\t${r.intro.slice(0, 120).replace(/\n/g, ' ')}`);
+  else
+    for (const r of res) console.log(`${r.title}\t${r.reading ?? '-'}\t${r.intro.slice(0, 120).replace(/\n/g, ' ')}`);
 }

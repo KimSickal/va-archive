@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "斉藤次郎",
-    "latin": "Jiro Saito"
+    "latin": "Jiro Saito",
+    "aliases": {
+      "ja": [
+        "さいとうじろう"
+      ]
+    }
   },
   "gender": "male",
   "birth": "1965-05-24",

@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "松尾大亮",
-    "latin": "Daisuke Matsuo"
+    "latin": "Daisuke Matsuo",
+    "aliases": {
+      "ja": [
+        "まつおだいすけ"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [

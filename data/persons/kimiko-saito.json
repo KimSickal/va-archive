@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "斉藤貴美子",
-    "latin": "Kimiko Saito"
+    "latin": "Kimiko Saito",
+    "aliases": {
+      "ja": [
+        "さいとうきみこ"
+      ]
+    }
   },
   "gender": "female",
   "birth": "1977-02-12",

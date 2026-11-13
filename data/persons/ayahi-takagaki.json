@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "高垣彩陽",
-    "latin": "Ayahi Takagaki"
+    "latin": "Ayahi Takagaki",
+    "aliases": {
+      "ja": [
+        "たかがきあやひ"
+      ]
+    }
   },
   "gender": "female",
   "nationality": [

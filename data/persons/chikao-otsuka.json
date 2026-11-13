@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "大塚周夫",
-    "latin": "Chikao Otsuka"
+    "latin": "Chikao Otsuka",
+    "aliases": {
+      "ja": [
+        "おおつかちかお"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [

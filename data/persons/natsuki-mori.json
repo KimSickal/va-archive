@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "森夏姫",
-    "latin": "Natsuki Mori"
+    "latin": "Natsuki Mori",
+    "aliases": {
+      "ja": [
+        "もりなつき"
+      ]
+    }
   },
   "gender": "female",
   "nationality": [

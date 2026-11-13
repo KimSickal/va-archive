@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "佐藤有世",
-    "latin": "Arise Sato"
+    "latin": "Arise Sato",
+    "aliases": {
+      "ja": [
+        "さとうありせ"
+      ]
+    }
   },
   "gender": "female",
   "nationality": [

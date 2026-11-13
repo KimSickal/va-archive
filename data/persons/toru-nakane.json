@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "中根徹",
-    "latin": "Toru Nakane"
+    "latin": "Toru Nakane",
+    "aliases": {
+      "ja": [
+        "なかねとおる"
+      ]
+    }
   },
   "birth": "1957-11-06",
   "wikipedia": {

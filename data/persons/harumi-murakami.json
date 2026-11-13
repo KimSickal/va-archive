@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "村上はるみ",
-    "latin": "Harumi Murakami"
+    "latin": "Harumi Murakami",
+    "aliases": {
+      "ja": [
+        "むらかみはるみ"
+      ]
+    }
   },
   "gender": "female",
   "birth": "1958-07-30",

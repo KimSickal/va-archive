@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "青柳尊哉",
-    "latin": "Takaya Aoyagi"
+    "latin": "Takaya Aoyagi",
+    "aliases": {
+      "ja": [
+        "あおやぎたかや"
+      ]
+    }
   },
   "birth": "1985-02-06",
   "wikipedia": {

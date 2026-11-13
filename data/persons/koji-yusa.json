@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "遊佐浩二",
-    "latin": "Koji Yusa"
+    "latin": "Koji Yusa",
+    "aliases": {
+      "ja": [
+        "ゆさこうじ"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [

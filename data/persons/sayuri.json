@@ -4,7 +4,14 @@
   "name": {
     "original_lang": "ja",
     "original": "紗ゆり",
-    "latin": "Sayuri"
+    "latin": "Sayuri",
+    "aliases": {
+      "ja": [
+        "さゆり",
+        "山内小百合",
+        "やまうちさゆり"
+      ]
+    }
   },
   "gender": "female",
   "nationality": [

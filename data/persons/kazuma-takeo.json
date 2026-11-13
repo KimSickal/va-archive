@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "竹尾一真",
-    "latin": "Kazuma Takeo"
+    "latin": "Kazuma Takeo",
+    "aliases": {
+      "ja": [
+        "たけおかずま"
+      ]
+    }
   },
   "birth": "1978-09-12",
   "wikipedia": {

@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "足立友",
-    "latin": "Tomo Adachi"
+    "latin": "Tomo Adachi",
+    "aliases": {
+      "ja": [
+        "あだちとも"
+      ]
+    }
   },
   "gender": "female",
   "nationality": [

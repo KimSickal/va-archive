@@ -4,7 +4,13 @@
   "name": {
     "original_lang": "ja",
     "original": "西村朋紘",
-    "latin": "Tomohiro Nishimura"
+    "latin": "Tomohiro Nishimura",
+    "aliases": {
+      "ja": [
+        "にしむらともひろ",
+        "西村智博"
+      ]
+    }
   },
   "gender": "male",
   "birth": "1961-02-02",

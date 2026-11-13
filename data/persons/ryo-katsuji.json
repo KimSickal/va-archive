@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "勝地涼",
-    "latin": "Ryo Katsuji"
+    "latin": "Ryo Katsuji",
+    "aliases": {
+      "ja": [
+        "かつぢりょう"
+      ]
+    }
   },
   "nationality": [
     "JP"

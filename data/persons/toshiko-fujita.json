@@ -4,7 +4,13 @@
   "name": {
     "original_lang": "ja",
     "original": "藤田淑子",
-    "latin": "Toshiko Fujita"
+    "latin": "Toshiko Fujita",
+    "aliases": {
+      "ja": [
+        "ふじたとしこ",
+        "藤田とし子"
+      ]
+    }
   },
   "gender": "female",
   "nationality": [

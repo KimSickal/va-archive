@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "小西克幸",
-    "latin": "Katsuyuki Konishi"
+    "latin": "Katsuyuki Konishi",
+    "aliases": {
+      "ja": [
+        "こにしかつゆき"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [

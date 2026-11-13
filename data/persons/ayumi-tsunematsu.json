@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "恒松あゆみ",
-    "latin": "Ayumi Tsunematsu"
+    "latin": "Ayumi Tsunematsu",
+    "aliases": {
+      "ja": [
+        "つねまつあゆみ"
+      ]
+    }
   },
   "gender": "female",
   "nationality": [

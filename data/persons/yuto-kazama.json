@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "風間勇刀",
-    "latin": "Yuto Kazama"
+    "latin": "Yuto Kazama",
+    "aliases": {
+      "ja": [
+        "かざまゆうと"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [

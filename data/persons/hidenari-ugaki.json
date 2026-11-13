@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "宇垣秀成",
-    "latin": "Hidenari Ugaki"
+    "latin": "Hidenari Ugaki",
+    "aliases": {
+      "ja": [
+        "うがきひでなり"
+      ]
+    }
   },
   "gender": "male",
   "nationality": [
