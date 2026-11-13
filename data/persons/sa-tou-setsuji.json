@@ -1,0 +1,45 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sa-tou-setsuji",
+  "slug": "setsuji-sato",
+  "name": {
+    "original_lang": "ja",
+    "original": "佐藤せつじ",
+    "latin": "Setsuji Sato",
+    "official": {
+      "en": "Setsuji Sato"
+    },
+    "aliases": {
+      "ja": [
+        "さとうせつじ"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1974",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E3%81%9B%E3%81%A4%E3%81%98",
+    "en": "https://en.wikipedia.org/wiki/Setsuji_Sat%C5%8D"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E3%81%9B%E3%81%A4%E3%81%98",
+      "title": "佐藤せつじ",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

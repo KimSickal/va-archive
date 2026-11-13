@@ -1,0 +1,4167 @@
+{
+  "$schema": "../schema/franchise.schema.json",
+  "id": "jujutsu-kaisen",
+  "title": {
+    "original_lang": "ja",
+    "original": "呪術廻戦",
+    "latin": "Jujutsu Kaisen",
+    "official": {
+      "en": "Jujutsu Kaisen"
+    },
+    "aliases": {
+      "ja": [
+        "じゅじゅつかいせん"
+      ],
+      "ko": [
+        "주술회전"
+      ]
+    }
+  },
+  "original_media": "manga",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%A3%BC%EC%88%A0%ED%9A%8C%EC%A0%84",
+    "en": "https://en.wikipedia.org/wiki/Jujutsu_Kaisen"
+  },
+  "characters": [
+    {
+      "id": "yuji-itadori",
+      "name": {
+        "original_lang": "ja",
+        "original": "虎杖悠仁",
+        "latin": "Yuji Itadori",
+        "official": {
+          "en": "Yuji Itadori"
+        },
+        "aliases": {
+          "ja": [
+            "いたどりゆうじ"
+          ],
+          "ko": [
+            "이타도리 유지"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 1
+      }
+    },
+    {
+      "id": "megumi-fushiguro",
+      "name": {
+        "original_lang": "ja",
+        "original": "伏黒恵",
+        "latin": "Megumi Fushiguro",
+        "official": {
+          "en": "Megumi Fushiguro"
+        },
+        "aliases": {
+          "ja": [
+            "ふしぐろめぐみ"
+          ],
+          "ko": [
+            "후시구로 메구미"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 1
+      }
+    },
+    {
+      "id": "nobara-kugisaki",
+      "name": {
+        "original_lang": "ja",
+        "original": "釘崎野薔薇",
+        "latin": "Nobara Kugisaki",
+        "official": {
+          "en": "Nobara Kugisaki"
+        },
+        "aliases": {
+          "ja": [
+            "くぎさきのばら"
+          ],
+          "ko": [
+            "쿠기사키 노바라"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 2
+      }
+    },
+    {
+      "id": "satoru-gojo",
+      "name": {
+        "original_lang": "ja",
+        "original": "五条悟",
+        "latin": "Satoru Gojo",
+        "official": {
+          "en": "Satoru Gojo"
+        },
+        "aliases": {
+          "ja": [
+            "ごじょうさとる"
+          ],
+          "ko": [
+            "고죠 사토루"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 1
+      }
+    },
+    {
+      "id": "ryomen-sukuna",
+      "name": {
+        "original_lang": "ja",
+        "original": "両面宿儺",
+        "latin": "Ryomen Sukuna",
+        "official": {
+          "en": "Ryomen Sukuna"
+        },
+        "aliases": {
+          "ja": [
+            "りょうめんすくな"
+          ],
+          "ko": [
+            "료멘 스쿠나"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 1
+      }
+    },
+    {
+      "id": "suguru-geto",
+      "name": {
+        "original_lang": "ja",
+        "original": "夏油傑",
+        "latin": "Suguru Geto",
+        "official": {
+          "en": "Suguru Geto"
+        },
+        "aliases": {
+          "ja": [
+            "げとうすぐる"
+          ],
+          "ko": [
+            "게토 스구루"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 5
+      }
+    },
+    {
+      "id": "shoko-ieiri",
+      "name": {
+        "original_lang": "ja",
+        "original": "家入硝子",
+        "latin": "Shoko Ieiri",
+        "official": {
+          "en": "Shoko Ieiri"
+        },
+        "aliases": {
+          "ja": [
+            "いえいりしょうこ"
+          ],
+          "ko": [
+            "이에이리 쇼코"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 5
+      }
+    },
+    {
+      "id": "mahito",
+      "name": {
+        "original_lang": "ja",
+        "original": "真人",
+        "latin": "Mahito",
+        "official": {
+          "en": "Mahito"
+        },
+        "aliases": {
+          "ja": [
+            "まひと"
+          ],
+          "ko": [
+            "마히토"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1"
+      }
+    },
+    {
+      "id": "kento-nanami",
+      "name": {
+        "original_lang": "ja",
+        "original": "七海建人",
+        "latin": "Kento Nanami",
+        "official": {
+          "en": "Kento Nanami"
+        },
+        "aliases": {
+          "ja": [
+            "ななみけんと"
+          ],
+          "ko": [
+            "나나미 켄토"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 8
+      }
+    },
+    {
+      "id": "wasuke-itadori",
+      "name": {
+        "original_lang": "ja",
+        "original": "虎杖倭助",
+        "latin": "Wasuke Itadori",
+        "official": {
+          "en": "Wasuke Itadori"
+        },
+        "aliases": {
+          "ja": [
+            "いたどりわすけ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 1
+      }
+    },
+    {
+      "id": "jogo",
+      "name": {
+        "original_lang": "ja",
+        "original": "漏瑚",
+        "latin": "Jogo",
+        "official": {
+          "en": "Jogo"
+        },
+        "aliases": {
+          "ja": [
+            "じょうご"
+          ],
+          "ko": [
+            "죠고"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 5
+      }
+    },
+    {
+      "id": "masamichi-yaga",
+      "name": {
+        "original_lang": "ja",
+        "original": "夜蛾正道",
+        "latin": "Masamichi Yaga",
+        "official": {
+          "en": "Masamichi Yaga"
+        },
+        "aliases": {
+          "ja": [
+            "やがまさみち"
+          ],
+          "ko": [
+            "야가 마사미치"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 2
+      }
+    },
+    {
+      "id": "kiyotaka-ijichi",
+      "name": {
+        "original_lang": "ja",
+        "original": "伊地知潔高",
+        "latin": "Kiyotaka Ijichi",
+        "official": {
+          "en": "Kiyotaka Ijichi"
+        },
+        "aliases": {
+          "ja": [
+            "いじちきよたか"
+          ],
+          "ko": [
+            "이지치 키요타카"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 3
+      }
+    },
+    {
+      "id": "maki-zenin",
+      "name": {
+        "original_lang": "ja",
+        "original": "禪院真希",
+        "latin": "Maki Zenin",
+        "official": {
+          "en": "Maki Zen'in"
+        },
+        "aliases": {
+          "ja": [
+            "ぜんいんまき"
+          ],
+          "ko": [
+            "젠인 마키"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 5
+      }
+    },
+    {
+      "id": "toge-inumaki",
+      "name": {
+        "original_lang": "ja",
+        "original": "狗巻棘",
+        "latin": "Toge Inumaki",
+        "official": {
+          "en": "Toge Inumaki"
+        },
+        "aliases": {
+          "ja": [
+            "いぬまきとげ"
+          ],
+          "ko": [
+            "이누마키 토게"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1"
+      }
+    },
+    {
+      "id": "panda",
+      "name": {
+        "original_lang": "ja",
+        "original": "パンダ",
+        "latin": "Panda",
+        "official": {
+          "en": "Panda"
+        },
+        "aliases": {
+          "ko": [
+            "판다"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 5
+      }
+    },
+    {
+      "id": "hanami",
+      "name": {
+        "original_lang": "ja",
+        "original": "花御",
+        "latin": "Hanami",
+        "official": {
+          "en": "Hanami"
+        },
+        "aliases": {
+          "ja": [
+            "はなみ"
+          ],
+          "ko": [
+            "하나미"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 5
+      }
+    },
+    {
+      "id": "tsumiki-fushiguro",
+      "name": {
+        "original_lang": "ja",
+        "original": "伏黒津美紀",
+        "latin": "Tsumiki Fushiguro",
+        "official": {
+          "en": "Tsumiki Fushiguro"
+        },
+        "aliases": {
+          "ja": [
+            "ふしぐろつみき"
+          ],
+          "ko": [
+            "후시구로 츠미키"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 5
+      }
+    },
+    {
+      "id": "junpei-yoshino",
+      "name": {
+        "original_lang": "ja",
+        "original": "吉野順平",
+        "latin": "Junpei Yoshino",
+        "official": {
+          "en": "Junpei Yoshino"
+        },
+        "aliases": {
+          "ja": [
+            "よしのじゅんぺい"
+          ],
+          "ko": [
+            "요시노 준페이"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1"
+      }
+    },
+    {
+      "id": "nagi-yoshino",
+      "name": {
+        "original_lang": "ja",
+        "original": "吉野凪",
+        "latin": "Nagi Yoshino",
+        "official": {
+          "en": "Nagi Yoshino"
+        },
+        "aliases": {
+          "ja": [
+            "よしのなぎ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1"
+      }
+    },
+    {
+      "id": "yoshinobu-gakuganji",
+      "name": {
+        "original_lang": "ja",
+        "original": "楽巌寺嘉伸",
+        "latin": "Yoshinobu Gakuganji",
+        "official": {
+          "en": "Yoshinobu Gakuganji"
+        },
+        "aliases": {
+          "ja": [
+            "がくがんじよしのぶ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 8
+      }
+    },
+    {
+      "id": "utahime-iori",
+      "name": {
+        "original_lang": "ja",
+        "original": "庵歌姫",
+        "latin": "Utahime Iori",
+        "official": {
+          "en": "Utahime Iori"
+        },
+        "aliases": {
+          "ja": [
+            "いおりうたひめ"
+          ],
+          "ko": [
+            "이오리 우타히메"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1"
+      }
+    },
+    {
+      "id": "aoi-todo",
+      "name": {
+        "original_lang": "ja",
+        "original": "東堂葵",
+        "latin": "Aoi Todo",
+        "official": {
+          "en": "Aoi Todo"
+        },
+        "aliases": {
+          "ja": [
+            "とうどうあおい"
+          ],
+          "ko": [
+            "토도 아오이"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 8
+      }
+    },
+    {
+      "id": "noritoshi-kamo",
+      "name": {
+        "original_lang": "ja",
+        "original": "加茂憲紀",
+        "latin": "Noritoshi Kamo",
+        "official": {
+          "en": "Noritoshi Kamo"
+        },
+        "aliases": {
+          "ja": [
+            "かものりとし"
+          ],
+          "ko": [
+            "카모 노리토시"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 19
+      }
+    },
+    {
+      "id": "noritoshi-kamo-mother",
+      "name": {
+        "original_lang": "ja",
+        "original": "加茂憲紀の母",
+        "latin": "Kamo Noritoshi no Haha",
+        "aliases": {
+          "ja": [
+            "かものりとしのはは"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 19
+      },
+      "nameless": true
+    },
+    {
+      "id": "momo-nishimiya",
+      "name": {
+        "original_lang": "ja",
+        "original": "西宮桃",
+        "latin": "Momo Nishimiya",
+        "official": {
+          "en": "Momo Nishimiya"
+        },
+        "aliases": {
+          "ja": [
+            "にしみやもも"
+          ],
+          "ko": [
+            "니시미야 모모"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 14
+      }
+    },
+    {
+      "id": "mai-zenin",
+      "name": {
+        "original_lang": "ja",
+        "original": "禪院真依",
+        "latin": "Mai Zenin",
+        "official": {
+          "en": "Mai Zen'in"
+        },
+        "aliases": {
+          "ja": [
+            "ぜんいんまい"
+          ],
+          "ko": [
+            "젠인 마이"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 8
+      }
+    },
+    {
+      "id": "kasumi-miwa",
+      "name": {
+        "original_lang": "ja",
+        "original": "三輪霞",
+        "latin": "Kasumi Miwa",
+        "official": {
+          "en": "Kasumi Miwa"
+        },
+        "aliases": {
+          "ja": [
+            "みわかすみ"
+          ],
+          "ko": [
+            "미와 카스미"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1"
+      }
+    },
+    {
+      "id": "kokichi-muta",
+      "name": {
+        "original_lang": "ja",
+        "original": "与幸吉",
+        "latin": "Kokichi Muta",
+        "official": {
+          "en": "Kokichi Muta"
+        },
+        "aliases": {
+          "ja": [
+            "究極メカ丸",
+            "むたこうきち"
+          ],
+          "ko": [
+            "무타 코키치"
+          ],
+          "en": [
+            "Ultimate Mechamaru"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1"
+      }
+    },
+    {
+      "id": "mei-mei",
+      "name": {
+        "original_lang": "ja",
+        "original": "冥冥",
+        "latin": "Mei Mei",
+        "official": {
+          "en": "Mei Mei"
+        },
+        "aliases": {
+          "ja": [
+            "めいめい"
+          ],
+          "ko": [
+            "메이메이"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1"
+      }
+    },
+    {
+      "id": "naobito-zenin",
+      "name": {
+        "original_lang": "ja",
+        "original": "禪院直毘人",
+        "latin": "Naobito Zenin",
+        "official": {
+          "en": "Naobito Zen'in"
+        },
+        "aliases": {
+          "ja": [
+            "ぜんいんなおびと"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1"
+      }
+    },
+    {
+      "id": "yuki-tsukumo",
+      "name": {
+        "original_lang": "ja",
+        "original": "九十九由基",
+        "latin": "Yuki Tsukumo",
+        "official": {
+          "en": "Yuki Tsukumo"
+        },
+        "aliases": {
+          "ja": [
+            "つくもゆき"
+          ],
+          "ko": [
+            "츠쿠모 유키"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 20
+      }
+    },
+    {
+      "id": "takuma-ino",
+      "name": {
+        "original_lang": "ja",
+        "original": "猪野琢真",
+        "latin": "Takuma Ino",
+        "official": {
+          "en": "Takuma Ino"
+        },
+        "aliases": {
+          "ja": [
+            "いのたくま"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 12
+      }
+    },
+    {
+      "id": "akari-nitta",
+      "name": {
+        "original_lang": "ja",
+        "original": "新田明",
+        "latin": "Akari Nitta",
+        "official": {
+          "en": "Akari Nitta"
+        },
+        "aliases": {
+          "ja": [
+            "にったあかり"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 22
+      }
+    },
+    {
+      "id": "choso",
+      "name": {
+        "original_lang": "ja",
+        "original": "脹相",
+        "latin": "Choso",
+        "official": {
+          "en": "Choso"
+        },
+        "aliases": {
+          "ja": [
+            "ちょうそう"
+          ],
+          "ko": [
+            "쵸소"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 24
+      }
+    },
+    {
+      "id": "eso",
+      "name": {
+        "original_lang": "ja",
+        "original": "壊相",
+        "latin": "Eso",
+        "official": {
+          "en": "Eso"
+        },
+        "aliases": {
+          "ja": [
+            "えそう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1"
+      }
+    },
+    {
+      "id": "kechizu",
+      "name": {
+        "original_lang": "ja",
+        "original": "血塗",
+        "latin": "Kechizu",
+        "official": {
+          "en": "Kechizu"
+        },
+        "aliases": {
+          "ja": [
+            "けちず"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1"
+      }
+    },
+    {
+      "id": "haruta-shigemo",
+      "name": {
+        "original_lang": "ja",
+        "original": "重面春太",
+        "latin": "Haruta Shigemo",
+        "official": {
+          "en": "Haruta Shigemo"
+        },
+        "aliases": {
+          "ja": [
+            "しげもはるた"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1"
+      }
+    },
+    {
+      "id": "juzo-kumiya",
+      "name": {
+        "original_lang": "ja",
+        "original": "組屋鞣造",
+        "latin": "Juzo Kumiya",
+        "official": {
+          "en": "Juzo Kumiya"
+        },
+        "aliases": {
+          "ja": [
+            "くみやじゅうぞう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1"
+      }
+    },
+    {
+      "id": "takada-chan",
+      "name": {
+        "original_lang": "ja",
+        "original": "高田ちゃん",
+        "latin": "Takada-chan",
+        "official": {
+          "en": "Takada-chan"
+        },
+        "aliases": {
+          "ja": [
+            "たかだちゃん"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1"
+      }
+    },
+    {
+      "id": "bakery-clerk",
+      "name": {
+        "original_lang": "ja",
+        "original": "パン屋の店員",
+        "latin": "Pan'ya no Ten'in",
+        "aliases": {
+          "ja": [
+            "ぱんやのてんいん"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 13
+      },
+      "nameless": true
+    },
+    {
+      "id": "takagi",
+      "name": {
+        "original_lang": "ja",
+        "original": "高木",
+        "latin": "Takagi",
+        "aliases": {
+          "ja": [
+            "たかぎ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 1
+      }
+    },
+    {
+      "id": "sasaki",
+      "name": {
+        "original_lang": "ja",
+        "original": "佐々木先輩",
+        "latin": "Sasaki",
+        "aliases": {
+          "ja": [
+            "ささき"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 1
+      }
+    },
+    {
+      "id": "iguchi",
+      "name": {
+        "original_lang": "ja",
+        "original": "井口先輩",
+        "latin": "Iguchi",
+        "aliases": {
+          "ja": [
+            "いぐち"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 1
+      }
+    },
+    {
+      "id": "student-council-president-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "生徒会長",
+        "latin": "Seitokaicho",
+        "aliases": {
+          "ja": [
+            "せいとかいちょう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 1
+      },
+      "nameless": true
+    },
+    {
+      "id": "student-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "生徒",
+        "latin": "Seito",
+        "aliases": {
+          "ja": [
+            "せいと"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 1
+      },
+      "nameless": true
+    },
+    {
+      "id": "boy-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "少年",
+        "latin": "Shonen",
+        "aliases": {
+          "ja": [
+            "しょうねん"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 3
+      },
+      "nameless": true
+    },
+    {
+      "id": "fan-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "ファン",
+        "latin": "Fan"
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 8
+      },
+      "nameless": true
+    },
+    {
+      "id": "male-student-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "男子生徒",
+        "latin": "Danshi Seito",
+        "aliases": {
+          "ja": [
+            "だんしせいと"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 11
+      },
+      "nameless": true
+    },
+    {
+      "id": "ikezawa",
+      "name": {
+        "original_lang": "ja",
+        "original": "池澤",
+        "latin": "Ikezawa",
+        "aliases": {
+          "ja": [
+            "いけざわ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 23
+      }
+    },
+    {
+      "id": "aida",
+      "name": {
+        "original_lang": "ja",
+        "original": "相田",
+        "latin": "Aida",
+        "aliases": {
+          "ja": [
+            "あいだ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1"
+      }
+    },
+    {
+      "id": "nurse-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "看護師",
+        "latin": "Kangoshi",
+        "aliases": {
+          "ja": [
+            "かんごし"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 1
+      },
+      "nameless": true
+    },
+    {
+      "id": "tadashi-okazaki",
+      "name": {
+        "original_lang": "ja",
+        "original": "岡﨑正",
+        "latin": "Tadashi Okazaki",
+        "aliases": {
+          "ja": [
+            "おかざきただし"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 3
+      }
+    },
+    {
+      "id": "gal-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "ギャル",
+        "latin": "Gyaru"
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 3
+      },
+      "nameless": true
+    },
+    {
+      "id": "little-boy-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "男の子",
+        "latin": "Otoko no Ko",
+        "aliases": {
+          "ja": [
+            "おとこのこ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 3
+      },
+      "nameless": true
+    },
+    {
+      "id": "special-grade-curse-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "特級呪霊",
+        "latin": "Tokkyu Juryo",
+        "aliases": {
+          "ja": [
+            "とっきゅうじゅれい"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 4
+      },
+      "nameless": true
+    },
+    {
+      "id": "scout-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "スカウト",
+        "latin": "Sukauto"
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1"
+      },
+      "nameless": true
+    },
+    {
+      "id": "attendant-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "係員",
+        "latin": "Kakariin",
+        "aliases": {
+          "ja": [
+            "かかりいん"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1"
+      },
+      "nameless": true
+    },
+    {
+      "id": "spider-curse-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "クモ呪霊",
+        "latin": "Kumo Juryo",
+        "aliases": {
+          "ja": [
+            "くもじゅれい"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1"
+      },
+      "nameless": true
+    },
+    {
+      "id": "kaneda",
+      "name": {
+        "original_lang": "ja",
+        "original": "金田",
+        "latin": "Kaneda",
+        "aliases": {
+          "ja": [
+            "かねだ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1"
+      }
+    },
+    {
+      "id": "waitress-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "ウェイトレス",
+        "latin": "Ueitoresu"
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 5
+      },
+      "nameless": true
+    },
+    {
+      "id": "clerk-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "店員",
+        "latin": "Ten'in",
+        "aliases": {
+          "ja": [
+            "てんいん"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 6
+      },
+      "nameless": true
+    },
+    {
+      "id": "customer-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "客",
+        "latin": "Kyaku",
+        "aliases": {
+          "ja": [
+            "きゃく"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 6
+      },
+      "nameless": true
+    },
+    {
+      "id": "prode",
+      "name": {
+        "original_lang": "ja",
+        "original": "プロード",
+        "latin": "Purodo"
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 7
+      }
+    },
+    {
+      "id": "saamu",
+      "name": {
+        "original_lang": "ja",
+        "original": "サァーム",
+        "latin": "Saamu"
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 7
+      }
+    },
+    {
+      "id": "sayama",
+      "name": {
+        "original_lang": "ja",
+        "original": "佐山",
+        "latin": "Sayama",
+        "aliases": {
+          "ja": [
+            "さやま"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 9
+      }
+    },
+    {
+      "id": "nishimura",
+      "name": {
+        "original_lang": "ja",
+        "original": "西村",
+        "latin": "Nishimura",
+        "aliases": {
+          "ja": [
+            "にしむら"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 9
+      }
+    },
+    {
+      "id": "mad-doctor-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "狂気の医者",
+        "latin": "Kyoki no Isha",
+        "aliases": {
+          "ja": [
+            "きょうきのいしゃ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 9
+      },
+      "nameless": true
+    },
+    {
+      "id": "junior-detective-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "後輩刑事",
+        "latin": "Kohai Keiji",
+        "aliases": {
+          "ja": [
+            "こうはいけいじ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 9
+      },
+      "nameless": true
+    },
+    {
+      "id": "employee-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "従業員",
+        "latin": "Jugyoin",
+        "aliases": {
+          "ja": [
+            "じゅうぎょういん"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 9
+      },
+      "nameless": true
+    },
+    {
+      "id": "tsubasa",
+      "name": {
+        "original_lang": "ja",
+        "original": "つばさ",
+        "latin": "Tsubasa"
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1"
+      }
+    },
+    {
+      "id": "honda",
+      "name": {
+        "original_lang": "ja",
+        "original": "本田",
+        "latin": "Honda",
+        "aliases": {
+          "ja": [
+            "ほんだ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1"
+      }
+    },
+    {
+      "id": "flyhead-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "蝿頭",
+        "latin": "Yotou",
+        "aliases": {
+          "ja": [
+            "ようとう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1"
+      },
+      "nameless": true
+    },
+    {
+      "id": "man-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "男性",
+        "latin": "Dansei",
+        "aliases": {
+          "ja": [
+            "だんせい"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1"
+      },
+      "nameless": true
+    },
+    {
+      "id": "jujutsu-high-staff-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "高専スタッフ",
+        "latin": "Kosen Sutaffu",
+        "aliases": {
+          "ja": [
+            "こうせんすたっふ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1"
+      },
+      "nameless": true
+    },
+    {
+      "id": "store-manager-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "店長",
+        "latin": "Tencho",
+        "aliases": {
+          "ja": [
+            "てんちょう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1"
+      },
+      "nameless": true
+    },
+    {
+      "id": "senior-detective-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "先輩刑事",
+        "latin": "Senpai Keiji",
+        "aliases": {
+          "ja": [
+            "せんぱいけいじ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1"
+      },
+      "nameless": true
+    },
+    {
+      "id": "principal-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "校長",
+        "latin": "Kocho",
+        "aliases": {
+          "ja": [
+            "こうちょう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1"
+      },
+      "nameless": true
+    },
+    {
+      "id": "sushi-chef-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "寿司屋大将",
+        "latin": "Sushiya Taisho",
+        "aliases": {
+          "ja": [
+            "すしやたいしょう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1"
+      },
+      "nameless": true
+    },
+    {
+      "id": "sotomura",
+      "name": {
+        "original_lang": "ja",
+        "original": "外村",
+        "latin": "Sotomura",
+        "aliases": {
+          "ja": [
+            "そとむら"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 10
+      }
+    },
+    {
+      "id": "friend-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "友人",
+        "latin": "Yujin",
+        "aliases": {
+          "ja": [
+            "ゆうじん"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 10
+      },
+      "nameless": true
+    },
+    {
+      "id": "ito",
+      "name": {
+        "original_lang": "ja",
+        "original": "伊藤",
+        "latin": "Ito",
+        "aliases": {
+          "ja": [
+            "いとう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 10
+      }
+    },
+    {
+      "id": "voicemail-service-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "留守電サービス",
+        "latin": "Rusuden Sabisu",
+        "aliases": {
+          "ja": [
+            "るすでんさーびす"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 11
+      },
+      "nameless": true
+    },
+    {
+      "id": "takashi-kun",
+      "name": {
+        "original_lang": "ja",
+        "original": "たかしくん",
+        "latin": "Takashi-kun"
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 11
+      }
+    },
+    {
+      "id": "actress-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "女優",
+        "latin": "Joyu",
+        "aliases": {
+          "ja": [
+            "じょゆう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 11
+      },
+      "nameless": true
+    },
+    {
+      "id": "company-president-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "社長",
+        "latin": "Shacho",
+        "aliases": {
+          "ja": [
+            "しゃちょう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 13
+      },
+      "nameless": true
+    },
+    {
+      "id": "kiseru",
+      "name": {
+        "original_lang": "ja",
+        "original": "キセル",
+        "latin": "Kiseru"
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 14
+      }
+    },
+    {
+      "id": "dj-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "DJ",
+        "latin": "DJ"
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 14
+      },
+      "nameless": true
+    },
+    {
+      "id": "announcer-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "アナウンサー",
+        "latin": "Anaunsa"
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1"
+      },
+      "nameless": true
+    },
+    {
+      "id": "female-student-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "女子生徒",
+        "latin": "Joshi Seito",
+        "aliases": {
+          "ja": [
+            "じょしせいと"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1"
+      },
+      "nameless": true
+    },
+    {
+      "id": "woman-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "女性",
+        "latin": "Josei",
+        "aliases": {
+          "ja": [
+            "じょせい"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 18
+      },
+      "nameless": true
+    },
+    {
+      "id": "fujinuma-brother",
+      "name": {
+        "original_lang": "ja",
+        "original": "藤沼（弟）",
+        "latin": "Fujinuma (Otouto)",
+        "aliases": {
+          "ja": [
+            "ふじぬま"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 22
+      }
+    },
+    {
+      "id": "fujinuma-sister",
+      "name": {
+        "original_lang": "ja",
+        "original": "藤沼（姉）",
+        "latin": "Fujinuma (Ane)",
+        "aliases": {
+          "ja": [
+            "ふじぬま"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 22
+      }
+    },
+    {
+      "id": "takeda",
+      "name": {
+        "original_lang": "ja",
+        "original": "武田",
+        "latin": "Takeda",
+        "aliases": {
+          "ja": [
+            "たけだ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 22
+      }
+    },
+    {
+      "id": "delinquent-b-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "不良B",
+        "latin": "Furyo B",
+        "aliases": {
+          "ja": [
+            "ふりょう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 22
+      },
+      "nameless": true
+    },
+    {
+      "id": "voicemail-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "留守電",
+        "latin": "Rusuden",
+        "aliases": {
+          "ja": [
+            "るすでん"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 24
+      },
+      "nameless": true
+    },
+    {
+      "id": "toji-fushiguro",
+      "name": {
+        "original_lang": "ja",
+        "original": "伏黒甚爾",
+        "latin": "Toji Fushiguro",
+        "official": {
+          "en": "Toji Fushiguro"
+        },
+        "aliases": {
+          "ja": [
+            "ふしぐろとうじ"
+          ],
+          "ko": [
+            "후시구로 토지"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu"
+      }
+    },
+    {
+      "id": "riko-amanai",
+      "name": {
+        "original_lang": "ja",
+        "original": "天内理子",
+        "latin": "Riko Amanai",
+        "official": {
+          "en": "Riko Amanai"
+        },
+        "aliases": {
+          "ja": [
+            "あまないりこ"
+          ],
+          "ko": [
+            "아마나이 리코"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu"
+      }
+    },
+    {
+      "id": "misato-kuroi",
+      "name": {
+        "original_lang": "ja",
+        "original": "黒井美里",
+        "latin": "Misato Kuroi",
+        "official": {
+          "en": "Misato Kuroi"
+        },
+        "aliases": {
+          "ja": [
+            "くろいみさと"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu",
+        "episode": 1
+      }
+    },
+    {
+      "id": "shiu-kong",
+      "name": {
+        "original_lang": "ja",
+        "original": "孔時雨",
+        "latin": "Shiu Kong",
+        "official": {
+          "en": "Shiu Kong"
+        },
+        "aliases": {
+          "ja": [
+            "こんしう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu"
+      }
+    },
+    {
+      "id": "yu-haibara",
+      "name": {
+        "original_lang": "ja",
+        "original": "灰原雄",
+        "latin": "Yu Haibara",
+        "official": {
+          "en": "Yu Haibara"
+        },
+        "aliases": {
+          "ja": [
+            "はいばらゆう"
+          ],
+          "ko": [
+            "하이바라 유"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu"
+      }
+    },
+    {
+      "id": "nanako-hasaba",
+      "name": {
+        "original_lang": "ja",
+        "original": "枷場菜々子",
+        "latin": "Nanako Hasaba",
+        "official": {
+          "en": "Nanako Hasaba"
+        },
+        "aliases": {
+          "ja": [
+            "はさばななこ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-movie-0"
+      }
+    },
+    {
+      "id": "mimiko-hasaba",
+      "name": {
+        "original_lang": "ja",
+        "original": "枷場美々子",
+        "latin": "Mimiko Hasaba",
+        "official": {
+          "en": "Mimiko Hasaba"
+        },
+        "aliases": {
+          "ja": [
+            "はさばみみこ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-movie-0"
+      }
+    },
+    {
+      "id": "shigeru-sonoda",
+      "name": {
+        "original_lang": "ja",
+        "original": "園田茂",
+        "latin": "Shigeru Sonoda",
+        "aliases": {
+          "ja": [
+            "そのだしげる"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu"
+      }
+    },
+    {
+      "id": "kokun",
+      "name": {
+        "original_lang": "ja",
+        "original": "コークン",
+        "latin": "Kokun"
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu",
+        "episode": 1
+      }
+    },
+    {
+      "id": "bayer",
+      "name": {
+        "original_lang": "ja",
+        "original": "バイエル",
+        "latin": "Baieru"
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu",
+        "episode": 1
+      }
+    },
+    {
+      "id": "assistant-manager-kg",
+      "name": {
+        "original_lang": "ja",
+        "original": "補助監督",
+        "latin": "Hojo Kantoku",
+        "aliases": {
+          "ja": [
+            "ほじょかんとく"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu",
+        "episode": 1
+      },
+      "nameless": true
+    },
+    {
+      "id": "elderly-curse-user",
+      "name": {
+        "original_lang": "ja",
+        "original": "老齢呪詛師",
+        "latin": "Rorei Jusoshi",
+        "aliases": {
+          "ja": [
+            "ろうれいじゅそし"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu",
+        "episode": 2
+      },
+      "nameless": true
+    },
+    {
+      "id": "paper-bag-curse-user",
+      "name": {
+        "original_lang": "ja",
+        "original": "紙袋呪詛師",
+        "latin": "Kamibukuro Jusoshi",
+        "aliases": {
+          "ja": [
+            "かみぶくろじゅそし"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu",
+        "episode": 2
+      },
+      "nameless": true
+    },
+    {
+      "id": "teacher-kg",
+      "name": {
+        "original_lang": "ja",
+        "original": "教師",
+        "latin": "Kyoshi",
+        "aliases": {
+          "ja": [
+            "きょうし"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu",
+        "episode": 2
+      },
+      "nameless": true
+    },
+    {
+      "id": "student-kg",
+      "name": {
+        "original_lang": "ja",
+        "original": "生徒",
+        "latin": "Seito",
+        "aliases": {
+          "ja": [
+            "せいと"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu",
+        "episode": 2
+      },
+      "nameless": true
+    },
+    {
+      "id": "tv-announcement-kg",
+      "name": {
+        "original_lang": "ja",
+        "original": "TVアナウンス",
+        "latin": "TV Anaunsu"
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu"
+      },
+      "nameless": true
+    },
+    {
+      "id": "believer-kg",
+      "name": {
+        "original_lang": "ja",
+        "original": "信者",
+        "latin": "Shinja",
+        "aliases": {
+          "ja": [
+            "しんじゃ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu",
+        "episode": 3
+      },
+      "nameless": true
+    },
+    {
+      "id": "kuchisake-onna",
+      "name": {
+        "original_lang": "ja",
+        "original": "口裂け女",
+        "latin": "Kuchisake Onna",
+        "aliases": {
+          "ja": [
+            "くちさけおんな"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu"
+      },
+      "nameless": true
+    },
+    {
+      "id": "storage-curse",
+      "name": {
+        "original_lang": "ja",
+        "original": "格納呪霊",
+        "latin": "Kakuno Juryo",
+        "aliases": {
+          "ja": [
+            "かくのうじゅれい"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu",
+        "episode": 4
+      },
+      "nameless": true
+    },
+    {
+      "id": "boat-race-announcement-kg",
+      "name": {
+        "original_lang": "ja",
+        "original": "競艇場アナウンス",
+        "latin": "Kyoteijo Anaunsu",
+        "aliases": {
+          "ja": [
+            "きょうていじょう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu"
+      },
+      "nameless": true
+    },
+    {
+      "id": "villager-kg",
+      "name": {
+        "original_lang": "ja",
+        "original": "村人",
+        "latin": "Murabito",
+        "aliases": {
+          "ja": [
+            "むらびと"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu",
+        "episode": 5
+      },
+      "nameless": true
+    },
+    {
+      "id": "dagon",
+      "name": {
+        "original_lang": "ja",
+        "original": "陀艮",
+        "latin": "Dagon",
+        "official": {
+          "en": "Dagon"
+        },
+        "aliases": {
+          "ja": [
+            "だごん"
+          ],
+          "ko": [
+            "다곤"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen",
+        "episode": 9
+      }
+    },
+    {
+      "id": "uraume",
+      "name": {
+        "original_lang": "ja",
+        "original": "裏梅",
+        "latin": "Uraume",
+        "official": {
+          "en": "Uraume"
+        },
+        "aliases": {
+          "ja": [
+            "うらうめ"
+          ],
+          "ko": [
+            "우라우메"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen",
+        "episode": 5
+      }
+    },
+    {
+      "id": "atsuya-kusakabe",
+      "name": {
+        "original_lang": "ja",
+        "original": "日下部篤也",
+        "latin": "Atsuya Kusakabe",
+        "official": {
+          "en": "Atsuya Kusakabe"
+        },
+        "aliases": {
+          "ja": [
+            "くさかべあつや"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-movie-0"
+      }
+    },
+    {
+      "id": "arata-nitta",
+      "name": {
+        "original_lang": "ja",
+        "original": "新田新",
+        "latin": "Arata Nitta",
+        "official": {
+          "en": "Arata Nitta"
+        },
+        "aliases": {
+          "ja": [
+            "にったあらた"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen",
+        "episode": 15
+      }
+    },
+    {
+      "id": "ui-ui",
+      "name": {
+        "original_lang": "ja",
+        "original": "憂憂",
+        "latin": "Ui Ui",
+        "official": {
+          "en": "Ui Ui"
+        },
+        "aliases": {
+          "ja": [
+            "ういうい"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen",
+        "episode": 3
+      }
+    },
+    {
+      "id": "ogami-grandson",
+      "name": {
+        "original_lang": "ja",
+        "original": "オガミ婆の孫",
+        "latin": "Ogami Baba no Mago",
+        "aliases": {
+          "ja": [
+            "おがみばばのまご"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
+      },
+      "nameless": true
+    },
+    {
+      "id": "civilian-shibuya",
+      "name": {
+        "original_lang": "ja",
+        "original": "一般人",
+        "latin": "Ippanjin",
+        "aliases": {
+          "ja": [
+            "いっぱんじん"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen",
+        "episode": 4
+      },
+      "nameless": true
+    },
+    {
+      "id": "ogami",
+      "name": {
+        "original_lang": "ja",
+        "original": "オガミ婆",
+        "latin": "Ogami Baba",
+        "official": {
+          "en": "Grandma Ogami"
+        },
+        "aliases": {
+          "ja": [
+            "おがみばば"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
+      }
+    },
+    {
+      "id": "jiro-awasaka",
+      "name": {
+        "original_lang": "ja",
+        "original": "粟坂二良",
+        "latin": "Jiro Awasaka",
+        "official": {
+          "en": "Jiro Awasaka"
+        },
+        "aliases": {
+          "ja": [
+            "あわさかじろう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen",
+        "episode": 5
+      }
+    },
+    {
+      "id": "locust-guy",
+      "name": {
+        "original_lang": "ja",
+        "original": "蝗GUY",
+        "latin": "Ko Gai",
+        "official": {
+          "en": "Locust Guy"
+        },
+        "aliases": {
+          "ja": [
+            "こうがい"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
+      }
+    },
+    {
+      "id": "niji-ebina",
+      "name": {
+        "original_lang": "ja",
+        "original": "蛯名仁次",
+        "latin": "Niji Ebina",
+        "aliases": {
+          "ja": [
+            "えびなにじ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
+      }
+    },
+    {
+      "id": "mahoraga",
+      "name": {
+        "original_lang": "ja",
+        "original": "八握剣異戒神将魔虚羅",
+        "latin": "Yatsuka no Tsuka Ikaishinsho Makora",
+        "official": {
+          "en": "Eight-Handled Sword Divergent Sila Divine General Mahoraga"
+        },
+        "aliases": {
+          "ja": [
+            "やつかのつるぎいかいしんしょうまこら"
+          ],
+          "ko": [
+            "마허라"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
+      }
+    },
+    {
+      "id": "earthworm-man",
+      "name": {
+        "original_lang": "ja",
+        "original": "ミミズ人間",
+        "latin": "Mimizu Ningen"
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
+      },
+      "nameless": true
+    },
+    {
+      "id": "yuko-ozawa",
+      "name": {
+        "original_lang": "ja",
+        "original": "小沢優子",
+        "latin": "Yuko Ozawa",
+        "official": {
+          "en": "Yuko Ozawa"
+        },
+        "aliases": {
+          "ja": [
+            "おざわゆうこ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
+      }
+    },
+    {
+      "id": "saori",
+      "name": {
+        "original_lang": "ja",
+        "original": "沙織ちゃん",
+        "latin": "Saori-chan",
+        "aliases": {
+          "ja": [
+            "さおりちゃん"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen",
+        "episode": 14
+      }
+    },
+    {
+      "id": "fumi",
+      "name": {
+        "original_lang": "ja",
+        "original": "ふみ",
+        "latin": "Fumi"
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen",
+        "episode": 14
+      }
+    },
+    {
+      "id": "fumi-father",
+      "name": {
+        "original_lang": "ja",
+        "original": "ふみの父",
+        "latin": "Fumi no Chichi",
+        "aliases": {
+          "ja": [
+            "ふみのちち"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
+      },
+      "nameless": true
+    },
+    {
+      "id": "saori-senpai",
+      "name": {
+        "original_lang": "ja",
+        "original": "沙織の先輩",
+        "latin": "Saori no Senpai",
+        "aliases": {
+          "ja": [
+            "さおりのせんぱい"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
+      },
+      "nameless": true
+    },
+    {
+      "id": "toshihisa-negi",
+      "name": {
+        "original_lang": "ja",
+        "original": "祢木利久",
+        "latin": "Toshihisa Negi",
+        "official": {
+          "en": "Toshihisa Negi"
+        },
+        "aliases": {
+          "ja": [
+            "ねぎとしひさ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen",
+        "episode": 11
+      }
+    },
+    {
+      "id": "negi-faction-member",
+      "name": {
+        "original_lang": "ja",
+        "original": "祢木の一派",
+        "latin": "Negi no Ippa",
+        "aliases": {
+          "ja": [
+            "ねぎのいっぱ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
+      },
+      "nameless": true
+    },
+    {
+      "id": "manami-suda",
+      "name": {
+        "original_lang": "ja",
+        "original": "菅田真奈美",
+        "latin": "Manami Suda",
+        "official": {
+          "en": "Manami Suda"
+        },
+        "aliases": {
+          "ja": [
+            "すだまなみ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-movie-0"
+      }
+    },
+    {
+      "id": "larue",
+      "name": {
+        "original_lang": "ja",
+        "original": "ラルゥ",
+        "latin": "Raru",
+        "official": {
+          "en": "Larue"
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-movie-0"
+      }
+    },
+    {
+      "id": "megumi-mother",
+      "name": {
+        "original_lang": "ja",
+        "original": "伏黒恵の母",
+        "latin": "Fushiguro Megumi no Haha",
+        "aliases": {
+          "ja": [
+            "ふしぐろめぐみのはは"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
+      },
+      "nameless": true
+    },
+    {
+      "id": "father-shibuya",
+      "name": {
+        "original_lang": "ja",
+        "original": "父親",
+        "latin": "Chichioya",
+        "aliases": {
+          "ja": [
+            "ちちおや"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen",
+        "episode": 6
+      },
+      "nameless": true
+    },
+    {
+      "id": "daughter-shibuya",
+      "name": {
+        "original_lang": "ja",
+        "original": "娘",
+        "latin": "Musume",
+        "aliases": {
+          "ja": [
+            "むすめ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen",
+        "episode": 6
+      },
+      "nameless": true
+    },
+    {
+      "id": "human-form-curse",
+      "name": {
+        "original_lang": "ja",
+        "original": "人の姿の呪霊",
+        "latin": "Hito no Sugata no Juryo",
+        "aliases": {
+          "ja": [
+            "ひとのすがたのじゅれい"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
+      },
+      "nameless": true
+    },
+    {
+      "id": "girl-shibuya",
+      "name": {
+        "original_lang": "ja",
+        "original": "少女",
+        "latin": "Shojo",
+        "aliases": {
+          "ja": [
+            "しょうじょ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
+      },
+      "nameless": true
+    },
+    {
+      "id": "yuta-okkotsu",
+      "name": {
+        "original_lang": "ja",
+        "original": "乙骨憂太",
+        "latin": "Yuta Okkotsu",
+        "official": {
+          "en": "Yuta Okkotsu"
+        },
+        "aliases": {
+          "ja": [
+            "おっこつゆうた"
+          ],
+          "ko": [
+            "옷코츠 유타"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-movie-0"
+      }
+    },
+    {
+      "id": "narrator-shibuya",
+      "name": {
+        "original_lang": "ja",
+        "original": "ナレーション",
+        "latin": "Nareshon"
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen",
+        "episode": 2
+      },
+      "nameless": true
+    },
+    {
+      "id": "headquarters-shibuya",
+      "name": {
+        "original_lang": "ja",
+        "original": "総監部",
+        "latin": "Sokanbu",
+        "aliases": {
+          "ja": [
+            "そうかんぶ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
+      },
+      "nameless": true
+    },
+    {
+      "id": "announcer-shibuya",
+      "name": {
+        "original_lang": "ja",
+        "original": "アナウンサー",
+        "latin": "Anaunsa"
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
+      },
+      "nameless": true
+    },
+    {
+      "id": "cameraman-shibuya",
+      "name": {
+        "original_lang": "ja",
+        "original": "カメラマン",
+        "latin": "Kameraman"
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen",
+        "episode": 18
+      },
+      "nameless": true
+    },
+    {
+      "id": "mechamaru-onboard-voice",
+      "name": {
+        "original_lang": "ja",
+        "original": "メカ丸機内音声",
+        "latin": "Mekamaru Kinai Onsei",
+        "aliases": {
+          "ja": [
+            "めかまるきないおんせい"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen",
+        "episode": 1
+      },
+      "nameless": true
+    },
+    {
+      "id": "reporter-shibuya",
+      "name": {
+        "original_lang": "ja",
+        "original": "リポーター",
+        "latin": "Ripota"
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen",
+        "episode": 18
+      },
+      "nameless": true
+    },
+    {
+      "id": "young-person-shibuya",
+      "name": {
+        "original_lang": "ja",
+        "original": "若者",
+        "latin": "Wakamono",
+        "aliases": {
+          "ja": [
+            "わかもの"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen",
+        "episode": 2
+      },
+      "nameless": true
+    },
+    {
+      "id": "transfigured-human-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "改造人間",
+        "latin": "Kaizo Ningen",
+        "aliases": {
+          "ja": [
+            "かいぞうにんげん"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 9
+      },
+      "nameless": true
+    },
+    {
+      "id": "transfigured-human-shibuya",
+      "name": {
+        "original_lang": "ja",
+        "original": "改造人間",
+        "latin": "Kaizo Ningen",
+        "aliases": {
+          "ja": [
+            "かいぞうにんげん"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen",
+        "episode": 8
+      },
+      "nameless": true
+    },
+    {
+      "id": "government-official-shibuya",
+      "name": {
+        "original_lang": "ja",
+        "original": "官公庁職員",
+        "latin": "Kankocho Shokuin",
+        "aliases": {
+          "ja": [
+            "かんこうちょうしょくいん"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen",
+        "episode": 18
+      },
+      "nameless": true
+    },
+    {
+      "id": "hoso-gami",
+      "name": {
+        "original_lang": "ja",
+        "original": "疱瘡神",
+        "latin": "Hosogami",
+        "aliases": {
+          "ja": [
+            "ほうそうがみ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
+      }
+    },
+    {
+      "id": "station-announcement-shibuya",
+      "name": {
+        "original_lang": "ja",
+        "original": "駅のアナウンス",
+        "latin": "Eki no Anaunsu",
+        "aliases": {
+          "ja": [
+            "えき"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
+      },
+      "nameless": true
+    },
+    {
+      "id": "actor-shibuya",
+      "name": {
+        "original_lang": "ja",
+        "original": "俳優",
+        "latin": "Haiyu",
+        "aliases": {
+          "ja": [
+            "はいゆう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
+      },
+      "nameless": true
+    },
+    {
+      "id": "student-shibuya",
+      "name": {
+        "original_lang": "ja",
+        "original": "生徒",
+        "latin": "Seito",
+        "aliases": {
+          "ja": [
+            "せいと"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
+      },
+      "nameless": true
+    },
+    {
+      "id": "cursed-corpse-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "呪骸",
+        "latin": "Jugai",
+        "aliases": {
+          "ja": [
+            "じゅがい"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 6
+      },
+      "nameless": true
+    },
+    {
+      "id": "kenjaku",
+      "name": {
+        "original_lang": "ja",
+        "original": "羂索",
+        "latin": "Kenjaku",
+        "official": {
+          "en": "Kenjaku"
+        },
+        "aliases": {
+          "ja": [
+            "けんじゃく"
+          ],
+          "ko": [
+            "켄자쿠"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s1",
+        "episode": 5
+      },
+      "spoiler": true
+    },
+    {
+      "id": "rika",
+      "name": {
+        "original_lang": "ja",
+        "original": "リカ",
+        "latin": "Rika",
+        "official": {
+          "en": "Rika"
+        },
+        "aliases": {
+          "ko": [
+            "리카"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 1
+      }
+    },
+    {
+      "id": "spectator-s3",
+      "name": {
+        "original_lang": "ja",
+        "original": "観客",
+        "latin": "Kankyaku",
+        "aliases": {
+          "ja": [
+            "かんきゃく"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 3
+      },
+      "nameless": true
+    },
+    {
+      "id": "tengen",
+      "name": {
+        "original_lang": "ja",
+        "original": "天元",
+        "latin": "Tengen",
+        "official": {
+          "en": "Tengen"
+        },
+        "aliases": {
+          "ja": [
+            "てんげん"
+          ],
+          "ko": [
+            "텐겐"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 2
+      }
+    },
+    {
+      "id": "kinji-hakari",
+      "name": {
+        "original_lang": "ja",
+        "original": "秤金次",
+        "latin": "Kinji Hakari",
+        "official": {
+          "en": "Kinji Hakari"
+        },
+        "aliases": {
+          "ja": [
+            "はかりきんじ"
+          ],
+          "ko": [
+            "하카리 킨지"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 5
+      }
+    },
+    {
+      "id": "kirara-hoshi",
+      "name": {
+        "original_lang": "ja",
+        "original": "星綺羅羅",
+        "latin": "Kirara Hoshi",
+        "official": {
+          "en": "Kirara Hoshi"
+        },
+        "aliases": {
+          "ja": [
+            "ほしきらら"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 5
+      }
+    },
+    {
+      "id": "naoya-zenin",
+      "name": {
+        "original_lang": "ja",
+        "original": "禪院直哉",
+        "latin": "Naoya Zenin",
+        "official": {
+          "en": "Naoya Zen'in"
+        },
+        "aliases": {
+          "ja": [
+            "ぜんいんなおや"
+          ],
+          "ko": [
+            "젠인 나오야"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 1
+      }
+    },
+    {
+      "id": "ogi-zenin",
+      "name": {
+        "original_lang": "ja",
+        "original": "禪院扇",
+        "latin": "Ogi Zenin",
+        "official": {
+          "en": "Ogi Zen'in"
+        },
+        "aliases": {
+          "ja": [
+            "ぜんいんおうぎ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 1
+      }
+    },
+    {
+      "id": "jinichi-zenin",
+      "name": {
+        "original_lang": "ja",
+        "original": "禪院甚壱",
+        "latin": "Jinichi Zenin",
+        "official": {
+          "en": "Jinichi Zen'in"
+        },
+        "aliases": {
+          "ja": [
+            "ぜんいんじんいち"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 4
+      }
+    },
+    {
+      "id": "cursed-spirit-s3",
+      "name": {
+        "original_lang": "ja",
+        "original": "呪霊",
+        "latin": "Juryo",
+        "aliases": {
+          "ja": [
+            "じゅれい"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 1
+      },
+      "nameless": true
+    },
+    {
+      "id": "ranta-zenin",
+      "name": {
+        "original_lang": "ja",
+        "original": "禪院蘭太",
+        "latin": "Ranta Zenin",
+        "official": {
+          "en": "Ranta Zen'in"
+        },
+        "aliases": {
+          "ja": [
+            "ぜんいんらんた"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 4
+      }
+    },
+    {
+      "id": "nobuaki-zenin",
+      "name": {
+        "original_lang": "ja",
+        "original": "禪院信朗",
+        "latin": "Nobuaki Zenin",
+        "official": {
+          "en": "Nobuaki Zen'in"
+        },
+        "aliases": {
+          "ja": [
+            "ぜんいんのぶあき"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 4
+      }
+    },
+    {
+      "id": "maki-mai-mother",
+      "name": {
+        "original_lang": "ja",
+        "original": "真希と真依の母",
+        "latin": "Maki to Mai no Haha",
+        "aliases": {
+          "ja": [
+            "まきとまいのはは"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-movie-0"
+      },
+      "nameless": true
+    },
+    {
+      "id": "jin-itadori",
+      "name": {
+        "original_lang": "ja",
+        "original": "虎杖仁",
+        "latin": "Jin Itadori",
+        "official": {
+          "en": "Jin Itadori"
+        },
+        "aliases": {
+          "ja": [
+            "いたどりじん"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 1
+      }
+    },
+    {
+      "id": "kaori-itadori",
+      "name": {
+        "original_lang": "ja",
+        "original": "虎杖香織",
+        "latin": "Kaori Itadori",
+        "official": {
+          "en": "Kaori Itadori"
+        },
+        "aliases": {
+          "ja": [
+            "いたどりかおり"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 2
+      }
+    },
+    {
+      "id": "furudate",
+      "name": {
+        "original_lang": "ja",
+        "original": "フルダテ",
+        "latin": "Furudate"
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 1
+      }
+    },
+    {
+      "id": "miguel-oduol",
+      "name": {
+        "original_lang": "ja",
+        "original": "ミゲル・オドゥオール",
+        "latin": "Miguel Oduol",
+        "official": {
+          "en": "Miguel Oduol"
+        },
+        "aliases": {
+          "ko": [
+            "미겔"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-movie-0"
+      }
+    },
+    {
+      "id": "fumihiko-takaba",
+      "name": {
+        "original_lang": "ja",
+        "original": "髙羽史彦",
+        "latin": "Fumihiko Takaba",
+        "official": {
+          "en": "Fumihiko Takaba"
+        },
+        "aliases": {
+          "ja": [
+            "たかばふみひこ"
+          ],
+          "ko": [
+            "타카바 후미히코"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 3
+      }
+    },
+    {
+      "id": "senior-comedian",
+      "name": {
+        "original_lang": "ja",
+        "original": "先輩芸人",
+        "latin": "Senpai Geinin",
+        "aliases": {
+          "ja": [
+            "せんぱいげいにん"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 3
+      },
+      "nameless": true
+    },
+    {
+      "id": "kogane",
+      "name": {
+        "original_lang": "ja",
+        "original": "コガネ",
+        "latin": "Kogane",
+        "official": {
+          "en": "Kogane"
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 6
+      }
+    },
+    {
+      "id": "hajime-kashimo",
+      "name": {
+        "original_lang": "ja",
+        "original": "鹿紫雲一",
+        "latin": "Hajime Kashimo",
+        "official": {
+          "en": "Hajime Kashimo"
+        },
+        "aliases": {
+          "ja": [
+            "かしもはじめ"
+          ],
+          "ko": [
+            "카시모 하지메"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 6
+      }
+    },
+    {
+      "id": "rin-amai",
+      "name": {
+        "original_lang": "ja",
+        "original": "甘井凛",
+        "latin": "Rin Amai",
+        "official": {
+          "en": "Rin Amai"
+        },
+        "aliases": {
+          "ja": [
+            "あまいりん"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 7
+      }
+    },
+    {
+      "id": "remi",
+      "name": {
+        "original_lang": "ja",
+        "original": "麗美",
+        "latin": "Remi",
+        "official": {
+          "en": "Remi"
+        },
+        "aliases": {
+          "ja": [
+            "れみ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 7
+      }
+    },
+    {
+      "id": "hanyu",
+      "name": {
+        "original_lang": "ja",
+        "original": "羽生",
+        "latin": "Hanyu",
+        "aliases": {
+          "ja": [
+            "はにゅう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 7
+      }
+    },
+    {
+      "id": "haba",
+      "name": {
+        "original_lang": "ja",
+        "original": "羽場",
+        "latin": "Haba",
+        "aliases": {
+          "ja": [
+            "はば"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 7
+      }
+    },
+    {
+      "id": "hiromi-higuruma",
+      "name": {
+        "original_lang": "ja",
+        "original": "日車寛見",
+        "latin": "Hiromi Higuruma",
+        "official": {
+          "en": "Hiromi Higuruma"
+        },
+        "aliases": {
+          "ja": [
+            "ひぐるまひろみ"
+          ],
+          "ko": [
+            "히구루마 히로미"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 8
+      }
+    },
+    {
+      "id": "reggie-star",
+      "name": {
+        "original_lang": "ja",
+        "original": "レジィ・スター",
+        "latin": "Rejii Suta",
+        "official": {
+          "en": "Reggie Star"
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 8
+      }
+    },
+    {
+      "id": "shimizu",
+      "name": {
+        "original_lang": "ja",
+        "original": "清水",
+        "latin": "Shimizu",
+        "aliases": {
+          "ja": [
+            "しみず"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 8
+      }
+    },
+    {
+      "id": "keita-oe",
+      "name": {
+        "original_lang": "ja",
+        "original": "大江圭太",
+        "latin": "Keita Oe",
+        "aliases": {
+          "ja": [
+            "おおえけいた"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 8
+      }
+    },
+    {
+      "id": "takagi-s3",
+      "name": {
+        "original_lang": "ja",
+        "original": "高木",
+        "latin": "Takagi",
+        "aliases": {
+          "ja": [
+            "たかぎ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 8
+      }
+    },
+    {
+      "id": "judgeman",
+      "name": {
+        "original_lang": "ja",
+        "original": "ジャッジマン",
+        "latin": "Jajjiman",
+        "official": {
+          "en": "Judgeman"
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 9
+      }
+    },
+    {
+      "id": "yoshizawa",
+      "name": {
+        "original_lang": "ja",
+        "original": "吉沢",
+        "latin": "Yoshizawa",
+        "aliases": {
+          "ja": [
+            "よしざわ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 9
+      }
+    },
+    {
+      "id": "iori-hazenoki",
+      "name": {
+        "original_lang": "ja",
+        "original": "黄櫨祈",
+        "latin": "Iori Hazenoki",
+        "official": {
+          "en": "Iori Hazenoki"
+        },
+        "aliases": {
+          "ja": [
+            "はぜのきいおり"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 10
+      }
+    },
+    {
+      "id": "chizuru-hari",
+      "name": {
+        "original_lang": "ja",
+        "original": "針千鈞",
+        "latin": "Chizuru Hari",
+        "official": {
+          "en": "Chizuru Hari"
+        },
+        "aliases": {
+          "ja": [
+            "針千釣",
+            "はりちづる"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 10
+      }
+    },
+    {
+      "id": "ryu-ishigori",
+      "name": {
+        "original_lang": "ja",
+        "original": "石流龍",
+        "latin": "Ryu Ishigori",
+        "official": {
+          "en": "Ryu Ishigori"
+        },
+        "aliases": {
+          "ja": [
+            "いしごおりりゅう"
+          ],
+          "ko": [
+            "이시고리 류"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 12
+      }
+    },
+    {
+      "id": "takako-uro",
+      "name": {
+        "original_lang": "ja",
+        "original": "烏鷺亨子",
+        "latin": "Takako Uro",
+        "official": {
+          "en": "Takako Uro"
+        },
+        "aliases": {
+          "ja": [
+            "うろたかこ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 12
+      }
+    },
+    {
+      "id": "kurourushi",
+      "name": {
+        "original_lang": "ja",
+        "original": "黒沐死",
+        "latin": "Kurourushi",
+        "official": {
+          "en": "Kurourushi"
+        },
+        "aliases": {
+          "ja": [
+            "くろうるし"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 12
+      }
+    },
+    {
+      "id": "takeru",
+      "name": {
+        "original_lang": "ja",
+        "original": "タケル",
+        "latin": "Takeru"
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 5
+      }
+    },
+    {
+      "id": "kusakabe-sister",
+      "name": {
+        "original_lang": "ja",
+        "original": "日下部の妹",
+        "latin": "Kusakabe no Imouto",
+        "aliases": {
+          "ja": [
+            "くさかべのいもうと"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 5
+      },
+      "nameless": true
+    },
+    {
+      "id": "assassin-s3",
+      "name": {
+        "original_lang": "ja",
+        "original": "刺客",
+        "latin": "Shikaku",
+        "aliases": {
+          "ja": [
+            "しかく"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 5
+      },
+      "nameless": true
+    },
+    {
+      "id": "club-member-s3",
+      "name": {
+        "original_lang": "ja",
+        "original": "クラブのメンバー",
+        "latin": "Kurabu no Menba"
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 5
+      },
+      "nameless": true
+    },
+    {
+      "id": "lookout-s3",
+      "name": {
+        "original_lang": "ja",
+        "original": "見張り",
+        "latin": "Mihari",
+        "aliases": {
+          "ja": [
+            "みはり"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 6
+      },
+      "nameless": true
+    },
+    {
+      "id": "announcer-s3",
+      "name": {
+        "original_lang": "ja",
+        "original": "アナウンサー",
+        "latin": "Anaunsa"
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 8
+      },
+      "nameless": true
+    },
+    {
+      "id": "kukuru-unit-member-s3",
+      "name": {
+        "original_lang": "ja",
+        "original": "躯倶留隊",
+        "latin": "Kukurutai",
+        "aliases": {
+          "ja": [
+            "くくるたい"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 4
+      },
+      "nameless": true
+    },
+    {
+      "id": "audience-s3",
+      "name": {
+        "original_lang": "ja",
+        "original": "観客達",
+        "latin": "Kankyakutachi",
+        "aliases": {
+          "ja": [
+            "かんきゃくたち"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 5
+      },
+      "nameless": true
+    },
+    {
+      "id": "civilian-s3",
+      "name": {
+        "original_lang": "ja",
+        "original": "一般人",
+        "latin": "Ippanjin",
+        "aliases": {
+          "ja": [
+            "いっぱんじん"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 12
+      },
+      "nameless": true
+    },
+    {
+      "id": "judge-s3",
+      "name": {
+        "original_lang": "ja",
+        "original": "裁判官",
+        "latin": "Saibankan",
+        "aliases": {
+          "ja": [
+            "さいばんかん"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 8
+      },
+      "nameless": true
+    },
+    {
+      "id": "client-s3",
+      "name": {
+        "original_lang": "ja",
+        "original": "依頼人",
+        "latin": "Irainin",
+        "aliases": {
+          "ja": [
+            "いらいにん"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 8
+      },
+      "nameless": true
+    },
+    {
+      "id": "high-school-student-s3",
+      "name": {
+        "original_lang": "ja",
+        "original": "高校生",
+        "latin": "Kokosei",
+        "aliases": {
+          "ja": [
+            "こうこうせい"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 8
+      },
+      "nameless": true
+    },
+    {
+      "id": "girl-s3",
+      "name": {
+        "original_lang": "ja",
+        "original": "女の子",
+        "latin": "Onna no Ko",
+        "aliases": {
+          "ja": [
+            "おんなのこ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
+        "episode": 8
+      },
+      "nameless": true
+    },
+    {
+      "id": "ken-san",
+      "name": {
+        "original_lang": "ja",
+        "original": "ケンさん",
+        "latin": "Ken-san"
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
+      }
+    },
+    {
+      "id": "rika-orimoto",
+      "name": {
+        "original_lang": "ja",
+        "original": "祈本里香",
+        "latin": "Rika Orimoto",
+        "official": {
+          "en": "Rika Orimoto"
+        },
+        "aliases": {
+          "ja": [
+            "おりもとりか"
+          ],
+          "ko": [
+            "오리모토 리카"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-movie-0"
+      }
+    },
+    {
+      "id": "okkotsu-classmate-movie0",
+      "name": {
+        "original_lang": "ja",
+        "original": "乙骨の同級生",
+        "latin": "Okkotsu no Dokyusei",
+        "aliases": {
+          "ja": [
+            "おっこつのどうきゅうせい"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-movie-0"
+      },
+      "nameless": true
+    },
+    {
+      "id": "kanamori",
+      "name": {
+        "original_lang": "ja",
+        "original": "金森",
+        "latin": "Kanamori",
+        "aliases": {
+          "ja": [
+            "かなもり"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-movie-0"
+      }
+    },
+    {
+      "id": "saito-daughter-movie0",
+      "name": {
+        "original_lang": "ja",
+        "original": "斉藤娘",
+        "latin": "Saito Musume",
+        "aliases": {
+          "ja": [
+            "さいとうむすめ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-movie-0"
+      },
+      "nameless": true
+    },
+    {
+      "id": "saito-mother-movie0",
+      "name": {
+        "original_lang": "ja",
+        "original": "斉藤母",
+        "latin": "Saito Haha",
+        "aliases": {
+          "ja": [
+            "さいとうはは"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-movie-0"
+      },
+      "nameless": true
+    },
+    {
+      "id": "sorcerer-movie0",
+      "name": {
+        "original_lang": "ja",
+        "original": "呪術師",
+        "latin": "Jujutsushi",
+        "aliases": {
+          "ja": [
+            "じゅじゅつし"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-movie-0"
+      },
+      "nameless": true
+    },
+    {
+      "id": "headquarters-movie0",
+      "name": {
+        "original_lang": "ja",
+        "original": "総監部",
+        "latin": "Sokanbu",
+        "aliases": {
+          "ja": [
+            "そうかんぶ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-movie-0"
+      },
+      "nameless": true
+    },
+    {
+      "id": "passerby-movie0",
+      "name": {
+        "original_lang": "ja",
+        "original": "通行人",
+        "latin": "Tsukonin",
+        "aliases": {
+          "ja": [
+            "つうこうにん"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-movie-0"
+      },
+      "nameless": true
+    },
+    {
+      "id": "noritoshi-kamo-meiji",
+      "name": {
+        "original_lang": "ja",
+        "original": "加茂憲倫",
+        "latin": "Noritoshi Kamo",
+        "official": {
+          "en": "Noritoshi Kamo"
+        },
+        "aliases": {
+          "ja": [
+            "かものりとし"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-game-phantom-parade"
+      },
+      "spoiler": true
+    },
+    {
+      "id": "saki-rindo",
+      "name": {
+        "original_lang": "ja",
+        "original": "竜胆サキ",
+        "latin": "Saki Rindo",
+        "official": {
+          "en": "Saki Rindo"
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-game-phantom-parade"
+      }
+    },
+    {
+      "id": "kaito-yuki",
+      "name": {
+        "original_lang": "ja",
+        "original": "結木海斗",
+        "latin": "Kaito Yuki",
+        "official": {
+          "en": "Kaito Yuki"
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-game-phantom-parade"
+      }
+    },
+    {
+      "id": "kensuke-nagino",
+      "name": {
+        "original_lang": "ja",
+        "original": "奈木野健介",
+        "latin": "Kensuke Nagino",
+        "official": {
+          "en": "Kensuke Nagino"
+        }
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-game-phantom-parade"
+      }
+    },
+    {
+      "id": "hidaka-shirakura",
+      "name": {
+        "original_lang": "ja",
+        "original": "白倉飛鷹",
+        "latin": "Hidaka Shirakura"
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-game-phantom-parade"
+      }
+    },
+    {
+      "id": "eiji-urushi",
+      "name": {
+        "original_lang": "ja",
+        "original": "漆英司",
+        "latin": "Eiji Urushi"
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-game-phantom-parade"
+      }
+    },
+    {
+      "id": "ritsu-mitsufuji",
+      "name": {
+        "original_lang": "ja",
+        "original": "光藤律",
+        "latin": "Ritsu Mitsufuji"
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-game-phantom-parade"
+      }
+    },
+    {
+      "id": "towa",
+      "name": {
+        "original_lang": "ja",
+        "original": "トワ",
+        "latin": "Towa"
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-game-phantom-parade"
+      }
+    },
+    {
+      "id": "narrator-pp",
+      "name": {
+        "original_lang": "ja",
+        "original": "ナレーション",
+        "latin": "Nareshon"
+      },
+      "first_appearance": {
+        "work": "jujutsu-kaisen-game-phantom-parade"
+      },
+      "nameless": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6",
+      "title": "呪術廻戦",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6_%28%E3%82%A2%E3%83%8B%E3%83%A1%29",
+      "title": "呪術廻戦 (アニメ)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

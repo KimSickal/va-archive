@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shou-taku-a-ri",
+  "slug": "ari-ozawa",
+  "name": {
+    "original_lang": "ja",
+    "original": "小澤亜李",
+    "latin": "Ari Ozawa",
+    "official": {
+      "en": "Ari Ozawa"
+    },
+    "aliases": {
+      "ja": [
+        "おざわあり"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1992",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%BE%A4%E4%BA%9C%E6%9D%8E",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%9E%90%EC%99%80_%EC%95%84%EB%A6%AC",
+    "en": "https://en.wikipedia.org/wiki/Ari_Ozawa"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%BE%A4%E4%BA%9C%E6%9D%8E",
+      "title": "小澤亜李",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

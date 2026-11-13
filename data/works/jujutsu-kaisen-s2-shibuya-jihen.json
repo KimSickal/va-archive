@@ -1,0 +1,2196 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "jujutsu-kaisen-s2-shibuya-jihen",
+  "franchise_id": "jujutsu-kaisen",
+  "type": "anime_tv",
+  "title": {
+    "original_lang": "ja",
+    "original": "呪術廻戦「渋谷事変」",
+    "latin": "Jujutsu Kaisen \"Shibuya Jihen\"",
+    "official": {
+      "en": "Jujutsu Kaisen: Shibuya Incident"
+    },
+    "aliases": {
+      "ja": [
+        "呪術廻戦 第2期 渋谷事変",
+        "しぶやじへん"
+      ],
+      "ko": [
+        "주술회전 2기 시부야 사변"
+      ]
+    }
+  },
+  "order": 5,
+  "status": "finished",
+  "start_date": "2023-08-31",
+  "end_date": "2023-12-28",
+  "episodes": 18,
+  "runtime_min": 24,
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "MAPPA",
+      "latin": "MAPPA",
+      "official": {
+        "en": "MAPPA"
+      }
+    }
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2023-08-31",
+      "credits": [
+        {
+          "character": "yuji-itadori",
+          "person": "ka-boku-shun-mi",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s3",
+            "s4"
+          ]
+        },
+        {
+          "character": "megumi-fushiguro",
+          "person": "dai-den-yuu-ba",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s5"
+          ]
+        },
+        {
+          "character": "nobara-kugisaki",
+          "person": "rai-ko-ma-sa-bi",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s6"
+          ]
+        },
+        {
+          "character": "satoru-gojo",
+          "person": "chuu-son-yuu-ichi",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s7"
+          ]
+        },
+        {
+          "character": "satoru-gojo",
+          "person": "i-rai-matsu-chi-ya",
+          "role": "minor",
+          "part": "young",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s8"
+          ]
+        },
+        {
+          "character": "ryomen-sukuna",
+          "person": "shu-hou-bu-jun-ichi",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s9"
+          ]
+        },
+        {
+          "character": "suguru-geto",
+          "person": "ou-sei-kou-kou",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "渋谷事変への出演はANN（TV 2）のキャスト掲載と作品内容による。声優ja.wikipediaは第2期を一括表記",
+            "translations": {
+              "ko": "시부야 사변 출연은 ANN(TV 2) 캐스트 기재와 작품 내용에 근거. 성우 ja.wikipedia는 2기 일괄 표기",
+              "en": "Appearance in the Shibuya Incident is based on the ANN (TV 2) cast listing and the story; the VA's ja.wikipedia lists Season 2 as one entry"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1",
+            "s4",
+            "s10"
+          ]
+        },
+        {
+          "character": "shoko-ieiri",
+          "person": "en-tou-ryou",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s11"
+          ]
+        },
+        {
+          "character": "dagon",
+          "person": "en-tou-ryou",
+          "role": "minor",
+          "part": "young",
+          "source_refs": [
+            "s11"
+          ]
+        },
+        {
+          "character": "mahito",
+          "person": "tou-ki-shin-chou",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s12"
+          ]
+        },
+        {
+          "character": "kento-nanami",
+          "person": "shin-den-ken-ji-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s13"
+          ]
+        },
+        {
+          "character": "jogo",
+          "person": "sen-you-han",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s14"
+          ]
+        },
+        {
+          "character": "wasuke-itadori",
+          "person": "sen-you-han",
+          "role": "minor",
+          "source_refs": [
+            "s4",
+            "s14"
+          ]
+        },
+        {
+          "character": "dagon",
+          "person": "san-taku-ken-ta",
+          "role": "supporting",
+          "source_refs": [
+            "s15"
+          ]
+        },
+        {
+          "character": "hanami",
+          "person": "den-chuu-ton-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s16"
+          ]
+        },
+        {
+          "character": "choso",
+          "person": "rou-sen-tai-fu",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s17"
+          ]
+        },
+        {
+          "character": "kechizu",
+          "person": "san-kou-shou-hei",
+          "role": "minor",
+          "source_refs": [
+            "s4",
+            "s18"
+          ]
+        },
+        {
+          "character": "uraume",
+          "person": "sai-ga-mitsuki",
+          "role": "supporting",
+          "episodes": {
+            "from": 5
+          },
+          "source_refs": [
+            "s4",
+            "s19"
+          ]
+        },
+        {
+          "character": "haruta-shigemo",
+          "person": "u-ta-ya-shou",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s20"
+          ]
+        },
+        {
+          "character": "kiyotaka-ijichi",
+          "person": "gan-den-kou-ou",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s21"
+          ]
+        },
+        {
+          "character": "atsuya-kusakabe",
+          "person": "san-boku-shin-ichi-rou",
+          "role": "supporting",
+          "episodes": {
+            "from": 2
+          },
+          "source_refs": [
+            "s4",
+            "s22"
+          ]
+        },
+        {
+          "character": "takuma-ino",
+          "person": "rin-yuu",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s23"
+          ]
+        },
+        {
+          "character": "akari-nitta",
+          "person": "toku-sei-sei-kuu",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s24"
+          ]
+        },
+        {
+          "character": "arata-nitta",
+          "person": "sen-ri-ryou-ta",
+          "role": "supporting",
+          "episodes": {
+            "from": 15
+          },
+          "source_refs": [
+            "s4",
+            "s25"
+          ]
+        },
+        {
+          "character": "mei-mei",
+          "person": "san-shaku-kin-dai",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "渋谷事変への出演はANN（TV 2）のキャスト掲載と作品内容による。声優ja.wikipediaは第2期を一括表記",
+            "translations": {
+              "ko": "시부야 사변 출연은 ANN(TV 2) 캐스트 기재와 작품 내용에 근거. 성우 ja.wikipedia는 2기 일괄 표기",
+              "en": "Appearance in the Shibuya Incident is based on the ANN (TV 2) cast listing and the story; the VA's ja.wikipedia lists Season 2 as one entry"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1",
+            "s4",
+            "s26"
+          ]
+        },
+        {
+          "character": "ui-ui",
+          "person": "san-hei-yuu-fu-shi",
+          "role": "supporting",
+          "episodes": {
+            "from": 3
+          },
+          "source_refs": [
+            "s1",
+            "s4",
+            "s27"
+          ]
+        },
+        {
+          "character": "naobito-zenin",
+          "person": "chuu-den-jou-ji",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s28"
+          ]
+        },
+        {
+          "character": "maki-zenin",
+          "person": "shou-shou-mi-ka-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s29"
+          ]
+        },
+        {
+          "character": "mai-zenin",
+          "person": "sei-jou-ma-ri-na",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s30"
+          ]
+        },
+        {
+          "character": "toge-inumaki",
+          "person": "dai-san-kou-ki",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s31"
+          ]
+        },
+        {
+          "character": "panda",
+          "person": "kan-chi-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s32"
+          ]
+        },
+        {
+          "character": "yoshinobu-gakuganji",
+          "person": "baku-jin",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s33"
+          ]
+        },
+        {
+          "character": "aoi-todo",
+          "person": "boku-son-bou",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s34"
+          ]
+        },
+        {
+          "character": "noritoshi-kamo",
+          "person": "nichi-ya-sou",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s35"
+          ]
+        },
+        {
+          "character": "momo-nishimiya",
+          "person": "tei-kyuu-ri-kei",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s36"
+          ]
+        },
+        {
+          "character": "kasumi-miwa",
+          "person": "seki-ki-sen-ka",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s37"
+          ]
+        },
+        {
+          "character": "kokichi-muta",
+          "person": "shou-kou-tei-shou",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s38"
+          ]
+        },
+        {
+          "character": "toji-fushiguro",
+          "person": "shi-an-bu-jin",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "渋谷事変への出演はANN（TV 2）のキャスト掲載と作品内容による。声優ja.wikipediaは第2期を一括表記",
+            "translations": {
+              "ko": "시부야 사변 출연은 ANN(TV 2) 캐스트 기재와 작품 내용에 근거. 성우 ja.wikipedia는 2기 일괄 표기",
+              "en": "Appearance in the Shibuya Incident is based on the ANN (TV 2) cast listing and the story; the VA's ja.wikipedia lists Season 2 as one entry"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1",
+            "s4",
+            "s39"
+          ]
+        },
+        {
+          "character": "ogami-grandson",
+          "person": "shi-an-bu-jin",
+          "role": "minor",
+          "source_refs": [
+            "s39"
+          ]
+        },
+        {
+          "character": "ogami-grandson",
+          "person": "men-kan-ryuu-shi-kai",
+          "role": "minor",
+          "source_refs": [
+            "s4",
+            "s40"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "men-kan-ryuu-shi-kai",
+          "role": "minor",
+          "source_refs": [
+            "s40"
+          ]
+        },
+        {
+          "character": "ogami",
+          "person": "tou-taku-jun",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s41"
+          ]
+        },
+        {
+          "character": "jiro-awasaka",
+          "person": "kou-den-minoru",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s42"
+          ]
+        },
+        {
+          "character": "locust-guy",
+          "person": "kanuka-kou-mei",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s43"
+          ]
+        },
+        {
+          "character": "niji-ebina",
+          "person": "kin-tou-kou-toku",
+          "role": "minor",
+          "source_refs": [
+            "s4",
+            "s44"
+          ]
+        },
+        {
+          "character": "mahoraga",
+          "person": "chuu-mu-ki-kou",
+          "role": "minor",
+          "source_refs": [
+            "s45"
+          ]
+        },
+        {
+          "character": "earthworm-man",
+          "person": "kou-sei-katsunori",
+          "role": "minor",
+          "source_refs": [
+            "s46"
+          ]
+        },
+        {
+          "character": "yuko-ozawa",
+          "person": "ai-bi",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s47"
+          ]
+        },
+        {
+          "character": "saori",
+          "person": "matsu-hei-ri-kei",
+          "role": "minor",
+          "source_refs": [
+            "s4",
+            "s48"
+          ]
+        },
+        {
+          "character": "fumi",
+          "person": "ki-azusa",
+          "role": "minor",
+          "source_refs": [
+            "s4",
+            "s49"
+          ]
+        },
+        {
+          "character": "fumi-father",
+          "person": "kan-kou-shi",
+          "role": "minor",
+          "source_refs": [
+            "s50"
+          ]
+        },
+        {
+          "character": "saori-senpai",
+          "person": "dai-san-seki-jitsu",
+          "role": "minor",
+          "source_refs": [
+            "s51"
+          ]
+        },
+        {
+          "character": "takada-chan",
+          "person": "koku-taku-tomoyo",
+          "role": "minor",
+          "source_refs": [
+            "s4",
+            "s52"
+          ]
+        },
+        {
+          "character": "junpei-yoshino",
+          "person": "san-koku-shou-sei",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s53"
+          ]
+        },
+        {
+          "character": "toshihisa-negi",
+          "person": "sei-jou-gou",
+          "role": "minor",
+          "source_refs": [
+            "s4",
+            "s54"
+          ]
+        },
+        {
+          "character": "negi-faction-member",
+          "person": "han-tai-to",
+          "role": "minor",
+          "source_refs": [
+            "s55"
+          ]
+        },
+        {
+          "character": "manami-suda",
+          "person": "i-tou-sei",
+          "role": "minor",
+          "source_refs": [
+            "s4",
+            "s56"
+          ]
+        },
+        {
+          "character": "larue",
+          "person": "soku-sui-shou",
+          "role": "minor",
+          "source_refs": [
+            "s4",
+            "s57"
+          ]
+        },
+        {
+          "character": "megumi-mother",
+          "person": "mei-chou-ka-shoku",
+          "role": "minor",
+          "source_refs": [
+            "s4",
+            "s58"
+          ]
+        },
+        {
+          "character": "father-shibuya",
+          "person": "dai-son-ken-ji",
+          "role": "minor",
+          "source_refs": [
+            "s59"
+          ]
+        },
+        {
+          "character": "daughter-shibuya",
+          "person": "sei-jou-hono-ka",
+          "role": "minor",
+          "source_refs": [
+            "s60"
+          ]
+        },
+        {
+          "character": "human-form-curse",
+          "person": "kou-den-kou-shi",
+          "role": "minor",
+          "source_refs": [
+            "s61"
+          ]
+        },
+        {
+          "character": "girl-shibuya",
+          "person": "shin-ya-ayumi",
+          "role": "minor",
+          "source_refs": [
+            "s62"
+          ]
+        },
+        {
+          "character": "yuta-okkotsu",
+          "person": "sho-hou-kei-bi",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s63"
+          ]
+        },
+        {
+          "character": "narrator-shibuya",
+          "person": "sakaki-gen-ryou-shi",
+          "role": "minor",
+          "source_refs": [
+            "s64"
+          ]
+        },
+        {
+          "character": "headquarters-shibuya",
+          "person": "go-ou-shi-rou",
+          "role": "minor",
+          "source_refs": [
+            "s65"
+          ]
+        },
+        {
+          "character": "headquarters-shibuya",
+          "person": "kichi-fu-ei-ji",
+          "role": "minor",
+          "source_refs": [
+            "s66"
+          ]
+        },
+        {
+          "character": "announcer-shibuya",
+          "person": "jaku-rin-yuu",
+          "role": "minor",
+          "source_refs": [
+            "s67"
+          ]
+        },
+        {
+          "character": "cameraman-shibuya",
+          "person": "kou-ya-ken-ta-rou",
+          "role": "minor",
+          "source_refs": [
+            "s68"
+          ]
+        },
+        {
+          "character": "mechamaru-onboard-voice",
+          "person": "kutsu-rou-sa-ya",
+          "role": "minor",
+          "source_refs": [
+            "s69"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "kutsu-rou-sa-ya",
+          "role": "minor",
+          "source_refs": [
+            "s69"
+          ]
+        },
+        {
+          "character": "reporter-shibuya",
+          "person": "kutsu-rou-sa-ya",
+          "role": "minor",
+          "source_refs": [
+            "s69"
+          ]
+        },
+        {
+          "character": "young-person-shibuya",
+          "person": "shou-sou-mi-yuu",
+          "role": "minor",
+          "source_refs": [
+            "s70"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "shou-sou-mi-yuu",
+          "role": "minor",
+          "source_refs": [
+            "s70"
+          ]
+        },
+        {
+          "character": "young-person-shibuya",
+          "person": "ki-san-yuu-ji",
+          "role": "minor",
+          "source_refs": [
+            "s71"
+          ]
+        },
+        {
+          "character": "young-person-shibuya",
+          "person": "bu-den-ta-ichi",
+          "role": "minor",
+          "source_refs": [
+            "s72"
+          ]
+        },
+        {
+          "character": "young-person-shibuya",
+          "person": "taku-jou-sen-shun",
+          "role": "minor",
+          "source_refs": [
+            "s73"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "taku-jou-sen-shun",
+          "role": "minor",
+          "source_refs": [
+            "s73"
+          ]
+        },
+        {
+          "character": "young-person-shibuya",
+          "person": "etsu-go-oku-kosuke",
+          "role": "minor",
+          "source_refs": [
+            "s74"
+          ]
+        },
+        {
+          "character": "young-person-shibuya",
+          "person": "setsu-sei-ayumi",
+          "role": "minor",
+          "source_refs": [
+            "s75"
+          ]
+        },
+        {
+          "character": "transfigured-human-shibuya",
+          "person": "setsu-sei-ayumi",
+          "role": "minor",
+          "source_refs": [
+            "s75"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "setsu-sei-ayumi",
+          "role": "minor",
+          "source_refs": [
+            "s75"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "yuu-koku-kai-rei",
+          "role": "minor",
+          "source_refs": [
+            "s76"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "hin-kou-ryou-dai",
+          "role": "minor",
+          "source_refs": [
+            "s77"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "sa-kyuu-kan-gen-ki",
+          "role": "minor",
+          "source_refs": [
+            "s78"
+          ]
+        },
+        {
+          "character": "transfigured-human-shibuya",
+          "person": "sa-kyuu-kan-gen-ki",
+          "role": "minor",
+          "source_refs": [
+            "s78"
+          ]
+        },
+        {
+          "character": "government-official-shibuya",
+          "person": "sa-kyuu-kan-gen-ki",
+          "role": "minor",
+          "source_refs": [
+            "s78"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "wa-yuu-ki",
+          "role": "minor",
+          "source_refs": [
+            "s79"
+          ]
+        },
+        {
+          "character": "government-official-shibuya",
+          "person": "wa-yuu-ki",
+          "role": "minor",
+          "source_refs": [
+            "s79"
+          ]
+        },
+        {
+          "character": "government-official-shibuya",
+          "person": "itousatoru",
+          "role": "minor",
+          "source_refs": [
+            "s80"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "itousatoru",
+          "role": "minor",
+          "source_refs": [
+            "s80"
+          ]
+        },
+        {
+          "character": "government-official-shibuya",
+          "person": "san-hei-yuu-ju",
+          "role": "minor",
+          "source_refs": [
+            "s81"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "san-hei-yuu-ju",
+          "role": "minor",
+          "source_refs": [
+            "s81"
+          ]
+        },
+        {
+          "character": "government-official-shibuya",
+          "person": "sui-shin-chiko",
+          "role": "minor",
+          "source_refs": [
+            "s82"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "sui-shin-chiko",
+          "role": "minor",
+          "source_refs": [
+            "s82"
+          ]
+        },
+        {
+          "character": "government-official-shibuya",
+          "person": "kou-kyou-shin-ya",
+          "role": "minor",
+          "source_refs": [
+            "s83"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "kou-kyou-shin-ya",
+          "role": "minor",
+          "source_refs": [
+            "s83"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "san-ka-taiki",
+          "role": "minor",
+          "source_refs": [
+            "s84"
+          ]
+        },
+        {
+          "character": "government-official-shibuya",
+          "person": "san-ka-taiki",
+          "role": "minor",
+          "source_refs": [
+            "s84"
+          ]
+        },
+        {
+          "character": "hoso-gami",
+          "person": "son-sei-yuu-ji",
+          "role": "minor",
+          "source_refs": [
+            "s85"
+          ]
+        },
+        {
+          "character": "transfigured-human-shibuya",
+          "person": "sei-shi-jou-jun",
+          "role": "minor",
+          "source_refs": [
+            "s86"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "sei-shi-jou-jun",
+          "role": "minor",
+          "source_refs": [
+            "s86"
+          ]
+        },
+        {
+          "character": "transfigured-human-shibuya",
+          "person": "kou-son-mei-kou",
+          "role": "minor",
+          "source_refs": [
+            "s87"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "kou-son-mei-kou",
+          "role": "minor",
+          "source_refs": [
+            "s87"
+          ]
+        },
+        {
+          "character": "transfigured-human-shibuya",
+          "person": "shin-sou-ken-ta",
+          "role": "minor",
+          "source_refs": [
+            "s88"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "shin-sou-ken-ta",
+          "role": "minor",
+          "source_refs": [
+            "s88"
+          ]
+        },
+        {
+          "character": "transfigured-human-shibuya",
+          "person": "ka-ya-matsu-chi",
+          "role": "minor",
+          "source_refs": [
+            "s89"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "ka-ya-matsu-chi",
+          "role": "minor",
+          "source_refs": [
+            "s89"
+          ]
+        },
+        {
+          "character": "transfigured-human-shibuya",
+          "person": "hin-den-you-hei",
+          "role": "minor",
+          "source_refs": [
+            "s90"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "hin-den-you-hei",
+          "role": "minor",
+          "source_refs": [
+            "s90"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "den-chuu-da-jitsu",
+          "role": "minor",
+          "source_refs": [
+            "s91"
+          ]
+        },
+        {
+          "character": "transfigured-human-shibuya",
+          "person": "den-chuu-da-jitsu",
+          "role": "minor",
+          "source_refs": [
+            "s91"
+          ]
+        },
+        {
+          "character": "station-announcement-shibuya",
+          "person": "haku-koku-tai-kai",
+          "role": "minor",
+          "source_refs": [
+            "s92"
+          ]
+        },
+        {
+          "character": "transfigured-human-shibuya",
+          "person": "haku-koku-tai-kai",
+          "role": "minor",
+          "source_refs": [
+            "s92"
+          ]
+        },
+        {
+          "character": "actor-shibuya",
+          "person": "ibu-yuu-ri-an",
+          "role": "minor",
+          "source_refs": [
+            "s93"
+          ]
+        },
+        {
+          "character": "actor-shibuya",
+          "person": "seki-han-kyuu-shi",
+          "role": "minor",
+          "source_refs": [
+            "s94"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "shin-boku-shun-ichi",
+          "role": "minor",
+          "source_refs": [
+            "s95"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "jou-sei-tetsu-hei",
+          "role": "minor",
+          "source_refs": [
+            "s96"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "tai-haku-ki-ki",
+          "role": "minor",
+          "source_refs": [
+            "s97"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "an-den-riku-shi",
+          "role": "minor",
+          "source_refs": [
+            "s98"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "sei-yuu-ju",
+          "role": "minor",
+          "source_refs": [
+            "s99"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "getsu-jou-nichi-ka",
+          "role": "minor",
+          "source_refs": [
+            "s100"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "shou-kou-you-hei",
+          "role": "minor",
+          "source_refs": [
+            "s101"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "shou-hon-sa-ra",
+          "role": "minor",
+          "source_refs": [
+            "s102"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "kou-tou-kou-sai",
+          "role": "minor",
+          "source_refs": [
+            "s103"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "bon-shi-gen-kou",
+          "role": "minor",
+          "source_refs": [
+            "s104"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "shaku-shu-yuu-ki",
+          "role": "minor",
+          "source_refs": [
+            "s105"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "ya-sen-ga-shi",
+          "role": "minor",
+          "source_refs": [
+            "s106"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "ren-sou-yuu-da",
+          "role": "minor",
+          "source_refs": [
+            "s107"
+          ]
+        },
+        {
+          "character": "civilian-shibuya",
+          "person": "koku-boku-you-jin",
+          "role": "minor",
+          "source_refs": [
+            "s108"
+          ]
+        },
+        {
+          "character": "student-shibuya",
+          "person": "kou-rai-yuu-ya",
+          "role": "minor",
+          "source_refs": [
+            "s109"
+          ]
+        },
+        {
+          "character": "student-shibuya",
+          "person": "shin-ya-taku-jitsu",
+          "role": "minor",
+          "source_refs": [
+            "s110"
+          ]
+        },
+        {
+          "character": "nanako-hasaba",
+          "person": "shou-den-satsu-sui",
+          "role": "minor",
+          "note": {
+            "original_lang": "ja",
+            "original": "声優ja.wikipediaは第2期『懐玉・玉折/渋谷事変』を一括表記。渋谷事変での登場（虎杖に宿儺の指を取り込ませる場面）はja.wikipedia『呪術廻戦』の渋谷事変編の記述による",
+            "translations": {
+              "ko": "성우 ja.wikipedia는 2기 『회옥·옥절/시부야 사변』을 일괄 표기. 시부야 사변 등장(이타도리에게 스쿠나의 손가락을 먹이는 장면)은 ja.wikipedia 『주술회전』의 시부야 사변 편 서술에 근거",
+              "en": "The VA's ja.wikipedia lists Season 2 (Hidden Inventory/Shibuya Incident) as one entry; the Shibuya Incident appearance (feeding Sukuna's fingers to Itadori) is based on the Shibuya Incident arc description in ja.wikipedia 'Jujutsu Kaisen'"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s111",
+            "s4"
+          ]
+        },
+        {
+          "character": "mimiko-hasaba",
+          "person": "shou-den-ri-go",
+          "role": "minor",
+          "note": {
+            "original_lang": "ja",
+            "original": "声優ja.wikipediaは第2期『懐玉・玉折/渋谷事変』を一括表記。渋谷事変での登場（虎杖に宿儺の指を取り込ませる場面）はja.wikipedia『呪術廻戦』の渋谷事変編の記述による",
+            "translations": {
+              "ko": "성우 ja.wikipedia는 2기 『회옥·옥절/시부야 사변』을 일괄 표기. 시부야 사변 등장(이타도리에게 스쿠나의 손가락을 먹이는 장면)은 ja.wikipedia 『주술회전』의 시부야 사변 편 서술에 근거",
+              "en": "The VA's ja.wikipedia lists Season 2 (Hidden Inventory/Shibuya Incident) as one entry; the Shibuya Incident appearance (feeding Sukuna's fingers to Itadori) is based on the Shibuya Incident arc description in ja.wikipedia 'Jujutsu Kaisen'"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s112",
+            "s4"
+          ]
+        }
+      ],
+      "last_release_date": "2023-12-28"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25346",
+      "title": "Jujutsu Kaisen (TV 2) - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6_%28%E3%82%A2%E3%83%8B%E3%83%A1%29",
+      "title": "呪術廻戦 (アニメ)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A6%8E%E6%9C%A8%E6%B7%B3%E5%BC%A5",
+      "title": "榎木淳弥",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s4",
+      "url": "https://ja.wikipedia.org/wiki/%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6",
+      "title": "呪術廻戦",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s5",
+      "url": "https://ja.wikipedia.org/wiki/%E5%86%85%E7%94%B0%E9%9B%84%E9%A6%AC",
+      "title": "内田雄馬",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s6",
+      "url": "https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E9%BA%BB%E6%B2%99%E7%BE%8E",
+      "title": "瀬戸麻沙美",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s7",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E6%82%A0%E4%B8%80",
+      "title": "中村悠一",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s8",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E7%80%AC%E8%8C%89%E8%8E%89%E4%B9%9F",
+      "title": "伊瀬茉莉也",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s9",
+      "url": "https://ja.wikipedia.org/wiki/%E8%AB%8F%E8%A8%AA%E9%83%A8%E9%A0%86%E4%B8%80",
+      "title": "諏訪部順一",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s10",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AB%BB%E4%BA%95%E5%AD%9D%E5%AE%8F",
+      "title": "櫻井孝宏",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s11",
+      "url": "https://ja.wikipedia.org/wiki/%E9%81%A0%E8%97%A4%E7%B6%BE",
+      "title": "遠藤綾",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s12",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%EF%A8%91%E4%BF%A1%E9%95%B7",
+      "title": "島﨑信長",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s13",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B4%A5%E7%94%B0%E5%81%A5%E6%AC%A1%E9%83%8E",
+      "title": "津田健次郎",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s14",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8D%83%E8%91%89%E7%B9%81",
+      "title": "千葉繁",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s15",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%AE%85%E5%81%A5%E5%A4%AA",
+      "title": "三宅健太",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s16",
+      "url": "https://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%AD%E6%95%A6%E5%AD%90_%28%E5%A3%B0%E5%84%AA%29",
+      "title": "田中敦子 (声優)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s17",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B5%AA%E5%B7%9D%E5%A4%A7%E8%BC%94",
+      "title": "浪川大輔",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s18",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E5%8B%9D%E5%B9%B3",
+      "title": "山口勝平",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s19",
+      "url": "https://ja.wikipedia.org/wiki/%E6%96%8E%E8%B3%80%E3%81%BF%E3%81%A4%E3%81%8D",
+      "title": "斎賀みつき",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s20",
+      "url": "https://ja.wikipedia.org/wiki/%E7%BE%BD%E5%A4%9A%E9%87%8E%E6%B8%89",
+      "title": "羽多野渉",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s21",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E7%94%B0%E5%85%89%E5%A4%AE",
+      "title": "岩田光央",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s22",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E6%9C%A8%E7%9C%9E%E4%B8%80%E9%83%8E",
+      "title": "三木眞一郎",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s23",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9E%97%E5%8B%87_%28%E5%A3%B0%E5%84%AA%29",
+      "title": "林勇 (声優)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s24",
+      "url": "https://ja.wikipedia.org/wiki/%E5%BE%B3%E4%BA%95%E9%9D%92%E7%A9%BA",
+      "title": "徳井青空",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s25",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B5%85%E5%88%A9%E9%81%BC%E5%A4%AA",
+      "title": "浅利遼太",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s26",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E7%9F%B3%E7%90%B4%E4%B9%83",
+      "title": "三石琴乃",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s27",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E7%93%B6%E7%94%B1%E5%B8%83%E5%AD%90",
+      "title": "三瓶由布子",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s28",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E7%94%B0%E8%AD%B2%E6%B2%BB",
+      "title": "中田譲治",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s29",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9D%BE%E6%9C%AA%E5%8F%AF%E5%AD%90",
+      "title": "小松未可子",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s30",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E9%BA%BB%E9%87%8C%E5%A5%88",
+      "title": "井上麻里奈",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s31",
+      "url": "https://ja.wikipedia.org/wiki/%E5%86%85%E5%B1%B1%E6%98%82%E8%BC%9D",
+      "title": "内山昂輝",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s32",
+      "url": "https://ja.wikipedia.org/wiki/%E9%96%A2%E6%99%BA%E4%B8%80",
+      "title": "関智一",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s33",
+      "url": "https://ja.wikipedia.org/wiki/%E9%BA%A6%E4%BA%BA",
+      "title": "麦人",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s34",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%9D%91%E6%98%B4",
+      "title": "木村昴",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s35",
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%87%8E%E8%81%A1",
+      "title": "日野聡",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s36",
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%98%E5%AE%AE%E7%90%86%E6%81%B5",
+      "title": "釘宮理恵",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s37",
+      "url": "https://ja.wikipedia.org/wiki/%E8%B5%A4%EF%A8%91%E5%8D%83%E5%A4%8F",
+      "title": "赤﨑千夏",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s38",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B2%A1%E7%A6%8E%E4%B8%9E",
+      "title": "松岡禎丞",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s39",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AD%90%E5%AE%89%E6%AD%A6%E4%BA%BA",
+      "title": "子安武人",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s40",
+      "url": "https://ja.wikipedia.org/wiki/%E7%B6%BF%E8%B2%AB%E7%AB%9C%E4%B9%8B%E4%BB%8B",
+      "title": "綿貫竜之介",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s41",
+      "url": "https://ja.wikipedia.org/wiki/%E5%94%90%E6%B2%A2%E6%BD%A4",
+      "title": "唐沢潤",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s42",
+      "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E7%94%B0%E3%81%BF%E3%81%AE%E3%82%8B",
+      "title": "広田みのる",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s43",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%AC%E3%81%8B%E5%85%89%E6%98%8E",
+      "title": "かぬか光明",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s44",
+      "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E8%97%A4%E6%B5%A9%E5%BE%B3",
+      "title": "近藤浩徳",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s45",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%8B%99%E8%B2%B4%E5%B9%B8",
+      "title": "中務貴幸",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s46",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%A1%E4%BA%95%E3%82%AB%E3%83%84%E3%83%8E%E3%83%AA",
+      "title": "岡井カツノリ",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s47",
+      "url": "https://ja.wikipedia.org/wiki/%E6%84%9B%E7%BE%8E",
+      "title": "愛美",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s48",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%AB%E6%9F%84%E9%87%8C%E6%81%B5",
+      "title": "末柄里恵",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s49",
+      "url": "https://ja.wikipedia.org/wiki/%E8%91%B5%E3%81%82%E3%81%9A%E3%81%95",
+      "title": "葵あずさ",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s50",
+      "url": "https://ja.wikipedia.org/wiki/%E9%96%A2%E5%B9%B8%E5%8F%B8",
+      "title": "関幸司",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s51",
+      "url": "https://ja.wikipedia.org/wiki/%E5%86%85%E5%B1%B1%E5%A4%95%E5%AE%9F",
+      "title": "内山夕実",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s52",
+      "url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E6%B2%A2%E3%81%A8%E3%82%82%E3%82%88",
+      "title": "黒沢ともよ",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s53",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E8%B0%B7%E7%A5%A5%E7%94%9F",
+      "title": "山谷祥生",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s54",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E5%89%9B_%28%E5%A3%B0%E5%84%AA%29",
+      "title": "井上剛 (声優)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s55",
+      "url": "https://ja.wikipedia.org/wiki/%E5%9D%82%E6%B3%B0%E6%96%97",
+      "title": "坂泰斗",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s56",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E9%9D%99",
+      "title": "伊藤静",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s57",
+      "url": "https://ja.wikipedia.org/wiki/%E9%80%9F%E6%B0%B4%E5%A5%A8",
+      "title": "速水奨",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s58",
+      "url": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%A1%9A%E4%BD%B3%E7%B9%94",
+      "title": "名塚佳織",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s59",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B9%83%E6%9D%91%E5%81%A5%E6%AC%A1",
+      "title": "乃村健次",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s60",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E3%81%BB%E3%81%AE%E8%8A%B1",
+      "title": "井上ほの花",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s61",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%A1%E7%94%B0%E5%B9%B8%E5%AD%90",
+      "title": "岡田幸子",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s62",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9C%9F%E9%87%8E%E3%81%82%E3%82%86%E3%81%BF",
+      "title": "真野あゆみ",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s63",
+      "url": "https://ja.wikipedia.org/wiki/%E7%B7%92%E6%96%B9%E6%81%B5%E7%BE%8E",
+      "title": "緒方恵美",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s64",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A6%8A%E5%8E%9F%E8%89%AF%E5%AD%90",
+      "title": "榊原良子",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s65",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%94%E7%8E%8B%E5%9B%9B%E9%83%8E",
+      "title": "五王四郎",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s66",
+      "url": "https://ja.wikipedia.org/wiki/%E5%90%89%E5%AF%8C%E8%8B%B1%E6%B2%BB",
+      "title": "吉富英治",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s67",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8B%A5%E6%9E%97%E4%BD%91",
+      "title": "若林佑",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s68",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AB%98%E9%87%8E%E6%86%B2%E5%A4%AA%E6%9C%97",
+      "title": "高野憲太朗",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s69",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A0%80%E7%B1%A0%E6%B2%99%E8%80%B6",
+      "title": "堀籠沙耶",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s70",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%80%89%E5%BC%A5%E5%84%AA",
+      "title": "小倉弥優",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s71",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%80%E5%B1%B1%E9%9B%84%E6%85%88",
+      "title": "亀山雄慈",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s72",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E7%94%B0%E5%A4%AA%E4%B8%80_%28%E5%A3%B0%E5%84%AA%29",
+      "title": "武田太一 (声優)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s73",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B2%A2%E5%9F%8E%E5%8D%83%E6%98%A5",
+      "title": "沢城千春",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s74",
+      "url": "https://ja.wikipedia.org/wiki/%E8%B6%8A%E5%BE%8C%E5%B1%8B%E3%82%B3%E3%83%BC%E3%82%B9%E3%82%B1",
+      "title": "越後屋コースケ",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s75",
+      "url": "https://ja.wikipedia.org/wiki/%E6%8A%98%E4%BA%95%E3%81%82%E3%82%86%E3%81%BF",
+      "title": "折井あゆみ",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s76",
+      "url": "https://ja.wikipedia.org/wiki/%E7%86%8A%E8%B0%B7%E6%B5%B7%E9%BA%97",
+      "title": "熊谷海麗",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s77",
+      "url": "https://ja.wikipedia.org/wiki/%E6%BF%B1%E5%8F%A3%E7%B6%BE%E4%B9%83",
+      "title": "濱口綾乃",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s78",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E4%B9%85%E9%96%93%E5%85%83%E8%BC%9D",
+      "title": "佐久間元輝",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s79",
+      "url": "https://ja.wikipedia.org/wiki/%E5%92%8C%E5%84%AA%E5%B8%8C",
+      "title": "和優希",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s80",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%84%E3%81%A8%E3%81%86%E3%81%95%E3%81%A8%E3%82%8B",
+      "title": "いとうさとる",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s81",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E7%93%B6%E9%9B%84%E6%A8%B9",
+      "title": "三瓶雄樹",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s82",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E6%A3%AE%E3%81%A1%E3%81%93",
+      "title": "水森ちこ",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s83",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%A9%8B%E4%BC%B8%E4%B9%9F_%28%E5%A3%B0%E5%84%AA%29",
+      "title": "高橋伸也 (声優)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s84",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E4%B8%8B%E3%82%BF%E3%82%A4%E3%82%AD",
+      "title": "山下タイキ",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s85",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%91%E4%BA%95%E9%9B%84%E6%B2%BB",
+      "title": "村井雄治",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s86",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B9%8B%E4%B8%8A%E6%BD%A4",
+      "title": "井之上潤",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s87",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%A1%E6%9D%91%E6%98%8E%E9%A6%99",
+      "title": "岡村明香",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s88",
+      "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%80%89%E5%81%A5%E5%A4%AA",
+      "title": "新倉健太",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s89",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B2%B3%E9%87%8E%E8%8C%89%E8%8E%89",
+      "title": "河野茉莉",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s90",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E7%94%B0%E6%B4%8B%E5%B9%B3",
+      "title": "浜田洋平",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s91",
+      "url": "https://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%AD%E9%82%A3%E5%AE%9F",
+      "title": "田中那実",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s92",
+      "url": "https://ja.wikipedia.org/wiki/%E7%B2%95%E8%B0%B7%E5%A4%A7%E4%BB%8B",
+      "title": "粕谷大介",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s93",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%96%E5%84%AA%E9%87%8C%E5%AE%89",
+      "title": "イブ優里安",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s94",
+      "url": "https://ja.wikipedia.org/wiki/%E8%B5%A4%E5%9D%82%E6%9F%BE%E4%B9%8B",
+      "title": "赤坂柾之",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s95",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9C%9F%E6%9C%A8%E9%A7%BF%E4%B8%80",
+      "title": "真木駿一",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s96",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E8%A5%BF%E5%93%B2%E5%B9%B3",
+      "title": "上西哲平",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s97",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B3%8A%E8%B2%B4%E6%8F%AE",
+      "title": "大泊貴揮",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s98",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%89%E7%94%B0%E9%99%B8%E7%9F%A2",
+      "title": "安田陸矢",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s99",
+      "url": "https://ja.wikipedia.org/wiki/%E6%98%9F%E7%A5%90%E6%A8%B9",
+      "title": "星祐樹",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s100",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%88%E5%9F%8E%E6%97%A5%E8%8A%B1",
+      "title": "月城日花",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s101",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B2%A1%E6%B4%8B%E5%B9%B3",
+      "title": "松岡洋平",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s102",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%9C%AC%E6%B2%99%E7%BE%85",
+      "title": "松本沙羅",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s103",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E9%A0%AD%E5%AE%8F%E5%93%89",
+      "title": "江頭宏哉",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s104",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9B%86%E5%AD%90%E5%8E%9F%E5%BA%B7",
+      "title": "盆子原康",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s105",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E7%8B%A9%E5%8B%87%E6%B0%97",
+      "title": "石狩勇気",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s106",
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%8E%E5%B7%9D%E9%9B%85%E5%8F%B2",
+      "title": "野川雅史",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s107",
+      "url": "https://ja.wikipedia.org/wiki/%E9%8E%8C%E5%80%89%E6%9C%89%E9%82%A3",
+      "title": "鎌倉有那",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s108",
+      "url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E6%9C%A8%E9%99%BD%E4%BA%BA",
+      "title": "黒木陽人",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s109",
+      "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E7%80%AC%E8%A3%95%E4%B9%9F",
+      "title": "広瀬裕也",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s110",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9C%9F%E9%87%8E%E6%8B%93%E5%AE%9F",
+      "title": "真野拓実",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s111",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E7%94%B0%E9%A2%AF%E6%B0%B4",
+      "title": "松田颯水",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s112",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E7%94%B0%E5%88%A9%E5%86%B4",
+      "title": "松田利冴",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

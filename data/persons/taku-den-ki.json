@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "taku-den-ki",
+  "slug": "hime-sawada",
+  "name": {
+    "original_lang": "ja",
+    "original": "澤田姫",
+    "latin": "Hime Sawada",
+    "aliases": {
+      "ja": [
+        "さわだひめ"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%BE%A4%E7%94%B0%E5%A7%AB"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%BE%A4%E7%94%B0%E5%A7%AB",
+      "title": "澤田姫",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

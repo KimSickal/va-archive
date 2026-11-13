@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "seki-han-kyuu-shi",
+  "slug": "masayuki-akasaka",
+  "name": {
+    "original_lang": "ja",
+    "original": "赤坂柾之",
+    "latin": "Masayuki Akasaka",
+    "aliases": {
+      "ja": [
+        "あかさかまさゆき"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1992",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E8%B5%A4%E5%9D%82%E6%9F%BE%E4%B9%8B"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E8%B5%A4%E5%9D%82%E6%9F%BE%E4%B9%8B",
+      "title": "赤坂柾之",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

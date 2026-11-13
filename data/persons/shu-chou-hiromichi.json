@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shu-chou-hiromichi",
+  "slug": "hiromichi-tezuka",
+  "name": {
+    "original_lang": "ja",
+    "original": "手塚ヒロミチ",
+    "latin": "Hiromichi Tezuka",
+    "aliases": {
+      "ja": [
+        "てづかひろみち"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%89%8B%E5%A1%9A%E3%83%92%E3%83%AD%E3%83%9F%E3%83%81"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%89%8B%E5%A1%9A%E3%83%92%E3%83%AD%E3%83%9F%E3%83%81",
+      "title": "手塚ヒロミチ",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ou-sei-kou-kou",
+  "slug": "takahiro-sakurai",
+  "name": {
+    "original_lang": "ja",
+    "original": "櫻井孝宏",
+    "latin": "Takahiro Sakurai",
+    "official": {
+      "en": "Takahiro Sakurai"
+    },
+    "aliases": {
+      "ja": [
+        "さくらいたかひろ"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1974",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%AB%BB%E4%BA%95%E5%AD%9D%E5%AE%8F",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%BF%A0%EB%9D%BC%EC%9D%B4_%ED%83%80%EC%B9%B4%ED%9E%88%EB%A1%9C",
+    "en": "https://en.wikipedia.org/wiki/Takahiro_Sakurai"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AB%BB%E4%BA%95%E5%AD%9D%E5%AE%8F",
+      "title": "櫻井孝宏",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

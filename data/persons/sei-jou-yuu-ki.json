@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sei-jou-yuu-ki",
+  "slug": "yuki-inoue",
+  "name": {
+    "original_lang": "ja",
+    "original": "井上雄貴",
+    "latin": "Yuki Inoue",
+    "aliases": {
+      "ja": [
+        "いのうえゆうき"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1995",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E9%9B%84%E8%B2%B4"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E9%9B%84%E8%B2%B4",
+      "title": "井上雄貴",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ka-boku-shun-mi",
+  "slug": "junya-enoki",
+  "name": {
+    "original_lang": "ja",
+    "original": "榎木淳弥",
+    "latin": "Junya Enoki",
+    "official": {
+      "en": "Junya Enoki"
+    },
+    "aliases": {
+      "ja": [
+        "えのきじゅんや"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1988",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%A6%8E%E6%9C%A8%E6%B7%B3%E5%BC%A5",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%97%90%EB%85%B8%ED%82%A4_%EC%A4%80%EC%95%BC",
+    "en": "https://en.wikipedia.org/wiki/Junya_Enoki"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A6%8E%E6%9C%A8%E6%B7%B3%E5%BC%A5",
+      "title": "榎木淳弥",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "jujutsu-kaisen-movie-kaigyoku-gyokusetsu",
+  "franchise_id": "jujutsu-kaisen",
+  "type": "anime_movie",
+  "title": {
+    "original_lang": "ja",
+    "original": "劇場版総集編 呪術廻戦 懐玉・玉折",
+    "latin": "Gekijoban Soshuhen Jujutsu Kaisen Kaigyoku / Gyokusetsu",
+    "official": {
+      "en": "JUJUTSU KAISEN: Hidden Inventory / Premature Death – The Movie"
+    }
+  },
+  "order": 9,
+  "status": "finished",
+  "start_date": "2025-05-30",
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "MAPPA",
+      "latin": "MAPPA",
+      "official": {
+        "en": "MAPPA"
+      }
+    }
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2025-05-30",
+      "credits": [
+        {
+          "character": "satoru-gojo",
+          "person": "chuu-son-yuu-ichi",
+          "role": "main",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "suguru-geto",
+          "person": "ou-sei-kou-kou",
+          "role": "main",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "toji-fushiguro",
+          "person": "shi-an-bu-jin",
+          "role": "main",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "riko-amanai",
+          "person": "ei-rai-anna",
+          "role": "main",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "shoko-ieiri",
+          "person": "en-tou-ryou",
+          "role": "supporting",
+          "source_refs": [
+            "s1"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=33377",
+      "title": "JUJUTSU KAISEN: Hidden Inventory / Premature Death – The Movie - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kin-kou-ri",
+  "slug": "kim-hyang-ri",
+  "name": {
+    "original_lang": "ja",
+    "original": "金香里",
+    "latin": "Kim Hyang-ri",
+    "official": {
+      "ko": "김향리"
+    },
+    "aliases": {
+      "ja": [
+        "きむひゃんり"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1990",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%87%91%E9%A6%99%E9%87%8C",
+    "ko": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%96%A5%EB%A6%AC"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%91%E9%A6%99%E9%87%8C",
+      "title": "金香里",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%96%A5%EB%A6%AC",
+      "title": "김향리",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

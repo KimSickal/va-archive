@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sei-sui-ri-sa",
+  "slug": "risa-shimizu",
+  "name": {
+    "original_lang": "ja",
+    "original": "清水理沙",
+    "latin": "Risa Shimizu",
+    "official": {
+      "en": "Risa Shimizu"
+    },
+    "aliases": {
+      "ja": [
+        "しみずりさ"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1988",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%B8%85%E6%B0%B4%E7%90%86%E6%B2%99",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%8B%9C%EB%AF%B8%EC%A6%88_%EB%A6%AC%EC%82%AC_%28%EC%84%B1%EC%9A%B0%29",
+    "en": "https://en.wikipedia.org/wiki/Risa_Shimizu_%28actress%29"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%85%E6%B0%B4%E7%90%86%E6%B2%99",
+      "title": "清水理沙",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

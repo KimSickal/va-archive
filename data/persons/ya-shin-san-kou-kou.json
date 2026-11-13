@@ -1,0 +1,45 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ya-shin-san-kou-kou",
+  "slug": "yukihiro-nozuyama",
+  "name": {
+    "original_lang": "ja",
+    "original": "野津山幸宏",
+    "latin": "Yukihiro Nozuyama",
+    "official": {
+      "en": "Yukihiro Nozuyama"
+    },
+    "aliases": {
+      "ja": [
+        "のづやまゆきひろ"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1996",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%87%8E%E6%B4%A5%E5%B1%B1%E5%B9%B8%E5%AE%8F",
+    "en": "https://en.wikipedia.org/wiki/Yukihiro_Nozuyama"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%8E%E6%B4%A5%E5%B1%B1%E5%B9%B8%E5%AE%8F",
+      "title": "野津山幸宏",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

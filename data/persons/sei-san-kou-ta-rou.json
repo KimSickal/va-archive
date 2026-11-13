@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sei-san-kou-ta-rou",
+  "slug": "koutaro-nishiyama",
+  "name": {
+    "original_lang": "ja",
+    "original": "西山宏太朗",
+    "latin": "Koutaro Nishiyama",
+    "official": {
+      "en": "Koutaro Nishiyama"
+    },
+    "aliases": {
+      "ja": [
+        "にしやまこうたろう"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1991",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B1%B1%E5%AE%8F%E5%A4%AA%E6%9C%97",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%8B%88%EC%8B%9C%EC%95%BC%EB%A7%88_%EC%BD%94%ED%83%80%EB%A1%9C",
+    "en": "https://en.wikipedia.org/wiki/Koutaro_Nishiyama"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B1%B1%E5%AE%8F%E5%A4%AA%E6%9C%97",
+      "title": "西山宏太朗",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

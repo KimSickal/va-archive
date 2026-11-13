@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "san-kou-chi-kou",
+  "slug": "tomohiro-yamaguchi",
+  "name": {
+    "original_lang": "ja",
+    "original": "山口智広",
+    "latin": "Tomohiro Yamaguchi",
+    "aliases": {
+      "ja": [
+        "やまぐちともひろ"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1987",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E6%99%BA%E5%BA%83"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E6%99%BA%E5%BA%83",
+      "title": "山口智広",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

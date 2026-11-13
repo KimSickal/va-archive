@@ -1,0 +1,45 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "nichi-kou-mi-nan",
+  "slug": "minami-hinata",
+  "name": {
+    "original_lang": "ja",
+    "original": "日向未南",
+    "latin": "Minami Hinata",
+    "official": {
+      "en": "Minami Hinata"
+    },
+    "aliases": {
+      "ja": [
+        "ひなたみなみ"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%97%A5%E5%90%91%E6%9C%AA%E5%8D%97",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%9E%88%EB%82%98%ED%83%80_%EB%AF%B8%EB%82%98%EB%AF%B8",
+    "en": "https://en.wikipedia.org/wiki/Minami_Hinata"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E5%90%91%E6%9C%AA%E5%8D%97",
+      "title": "日向未南",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

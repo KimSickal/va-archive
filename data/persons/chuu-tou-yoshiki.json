@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "chuu-tou-yoshiki",
+  "slug": "yoshiki-nakajima",
+  "name": {
+    "original_lang": "ja",
+    "original": "中島ヨシキ",
+    "latin": "Yoshiki Nakajima",
+    "official": {
+      "en": "Yoshiki Nakajima"
+    },
+    "aliases": {
+      "ja": [
+        "なかじまよしき"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1993",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B3%B6%E3%83%A8%E3%82%B7%E3%82%AD",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%82%98%EC%B9%B4%EC%A7%80%EB%A7%88_%EC%9A%94%EC%8B%9C%ED%82%A4_%28%EC%84%B1%EC%9A%B0%29",
+    "en": "https://en.wikipedia.org/wiki/Yoshiki_Nakajima"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B3%B6%E3%83%A8%E3%82%B7%E3%82%AD",
+      "title": "中島ヨシキ",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

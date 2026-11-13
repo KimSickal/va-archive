@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kin-bi-tetsu-fu",
+  "slug": "tetsuo-kanao",
+  "name": {
+    "original_lang": "ja",
+    "original": "金尾哲夫",
+    "latin": "Tetsuo Kanao",
+    "official": {
+      "en": "Tetsuo Kanao"
+    },
+    "aliases": {
+      "ja": [
+        "かなおてつお"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1950",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%87%91%E5%B0%BE%E5%93%B2%E5%A4%AB",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%B9%B4%EB%82%98%EC%98%A4_%ED%85%8C%EC%B8%A0%EC%98%A4",
+    "en": "https://en.wikipedia.org/wiki/Tetsuo_Kanao"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%91%E5%B0%BE%E5%93%B2%E5%A4%AB",
+      "title": "金尾哲夫",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

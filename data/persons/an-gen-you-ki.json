@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "an-gen-you-ki",
+  "slug": "hiroki-yasumoto",
+  "name": {
+    "original_lang": "ja",
+    "original": "安元洋貴",
+    "latin": "Hiroki Yasumoto",
+    "official": {
+      "en": "Hiroki Yasumoto"
+    },
+    "aliases": {
+      "ja": [
+        "やすもとひろき"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1977",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%AE%89%E5%85%83%E6%B4%8B%E8%B2%B4",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%95%BC%EC%8A%A4%EB%AA%A8%ED%86%A0_%ED%9E%88%EB%A1%9C%ED%82%A4",
+    "en": "https://en.wikipedia.org/wiki/Hiroki_Yasumoto"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%89%E5%85%83%E6%B4%8B%E8%B2%B4",
+      "title": "安元洋貴",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

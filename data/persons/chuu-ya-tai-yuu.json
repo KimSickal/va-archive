@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "chuu-ya-tai-yuu",
+  "slug": "taisuke-nakano",
+  "name": {
+    "original_lang": "ja",
+    "original": "中野泰佑",
+    "latin": "Taisuke Nakano",
+    "aliases": {
+      "ja": [
+        "なかのたいすけ"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%87%8E%E6%B3%B0%E4%BD%91"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%87%8E%E6%B3%B0%E4%BD%91",
+      "title": "中野泰佑",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "gyo-ken",
+  "slug": "uoken",
+  "name": {
+    "original_lang": "ja",
+    "original": "魚建",
+    "latin": "Uoken",
+    "aliases": {
+      "ja": [
+        "うおけん"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1965",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%AD%9A%E5%BB%BA",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9A%B0%EC%98%A4%EC%BC%84"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AD%9A%E5%BB%BA",
+      "title": "魚建",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

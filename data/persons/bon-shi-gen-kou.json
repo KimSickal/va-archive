@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "bon-shi-gen-kou",
+  "slug": "ko-bonkobara",
+  "name": {
+    "original_lang": "ja",
+    "original": "盆子原康",
+    "latin": "Ko Bonkobara",
+    "aliases": {
+      "ja": [
+        "ぼんこばらこう"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%9B%86%E5%AD%90%E5%8E%9F%E5%BA%B7"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9B%86%E5%AD%90%E5%8E%9F%E5%BA%B7",
+      "title": "盆子原康",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

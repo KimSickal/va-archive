@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "hai-shin-shi-kai",
+  "slug": "shinnosuke-ogami",
+  "name": {
+    "original_lang": "ja",
+    "original": "拝真之介",
+    "latin": "Shinnosuke Ogami",
+    "aliases": {
+      "ja": [
+        "おがみしんのすけ"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1986",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%8B%9D%E7%9C%9F%E4%B9%8B%E4%BB%8B"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%8B%9D%E7%9C%9F%E4%B9%8B%E4%BB%8B",
+      "title": "拝真之介",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

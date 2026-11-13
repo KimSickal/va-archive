@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "u-chou-yuu",
+  "slug": "yu-hatori",
+  "name": {
+    "original_lang": "ja",
+    "original": "羽鳥佑",
+    "latin": "Yu Hatori",
+    "aliases": {
+      "ja": [
+        "はとりゆう"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%BE%BD%E9%B3%A5%E4%BD%91"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%BE%BD%E9%B3%A5%E4%BD%91",
+      "title": "羽鳥佑",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

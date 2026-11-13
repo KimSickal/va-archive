@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "matsu-hei-ri-kei",
+  "slug": "rie-suegara",
+  "name": {
+    "original_lang": "ja",
+    "original": "末柄里恵",
+    "latin": "Rie Suegara",
+    "official": {
+      "en": "Rie Suegara"
+    },
+    "aliases": {
+      "ja": [
+        "すえがらりえ"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1990",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%9C%AB%E6%9F%84%E9%87%8C%E6%81%B5",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%8A%A4%EC%97%90%EA%B0%80%EB%9D%BC_%EB%A6%AC%EC%97%90",
+    "en": "https://en.wikipedia.org/wiki/Rie_Suegara"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%AB%E6%9F%84%E9%87%8C%E6%81%B5",
+      "title": "末柄里恵",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

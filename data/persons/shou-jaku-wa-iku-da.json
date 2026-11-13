@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shou-jaku-wa-iku-da",
+  "slug": "wakana-kowaka",
+  "name": {
+    "original_lang": "ja",
+    "original": "小若和郁那",
+    "latin": "Wakana Kowaka",
+    "aliases": {
+      "ja": [
+        "こわかわかな"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E8%8B%A5%E5%92%8C%E9%83%81%E9%82%A3"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E8%8B%A5%E5%92%8C%E9%83%81%E9%82%A3",
+      "title": "小若和郁那",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

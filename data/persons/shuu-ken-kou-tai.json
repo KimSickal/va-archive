@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shuu-ken-kou-tai",
+  "slug": "takahiro-sumi",
+  "name": {
+    "original_lang": "ja",
+    "original": "鷲見昂大",
+    "latin": "Takahiro Sumi",
+    "aliases": {
+      "ja": [
+        "すみたかひろ"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%B7%B2%E8%A6%8B%E6%98%82%E5%A4%A7"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%B7%B2%E8%A6%8B%E6%98%82%E5%A4%A7",
+      "title": "鷲見昂大",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

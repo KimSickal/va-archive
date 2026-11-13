@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "i-tou-sei",
+  "slug": "shizuka-ito",
+  "name": {
+    "original_lang": "ja",
+    "original": "伊藤静",
+    "latin": "Shizuka Ito",
+    "official": {
+      "en": "Shizuka Ito"
+    },
+    "aliases": {
+      "ja": [
+        "いとうしずか"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1980",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E9%9D%99",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9D%B4%ED%86%A0_%EC%8B%9C%EC%A6%88%EC%B9%B4",
+    "en": "https://en.wikipedia.org/wiki/Shizuka_It%C5%8D"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E9%9D%99",
+      "title": "伊藤静",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

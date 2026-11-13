@@ -1,0 +1,820 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu",
+  "franchise_id": "jujutsu-kaisen",
+  "type": "anime_tv",
+  "title": {
+    "original_lang": "ja",
+    "original": "呪術廻戦「懐玉・玉折」",
+    "latin": "Jujutsu Kaisen \"Kaigyoku / Gyokusetsu\"",
+    "official": {
+      "en": "Jujutsu Kaisen: Hidden Inventory / Premature Death"
+    },
+    "aliases": {
+      "ja": [
+        "呪術廻戦 第2期 懐玉・玉折",
+        "かいぎょくぎょくせつ"
+      ],
+      "ko": [
+        "주술회전 2기 회옥·옥절"
+      ]
+    }
+  },
+  "order": 4,
+  "status": "finished",
+  "start_date": "2023-07-06",
+  "end_date": "2023-08-03",
+  "episodes": 5,
+  "runtime_min": 24,
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "MAPPA",
+      "latin": "MAPPA",
+      "official": {
+        "en": "MAPPA"
+      }
+    }
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2023-07-06",
+      "credits": [
+        {
+          "character": "satoru-gojo",
+          "person": "chuu-son-yuu-ichi",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s3",
+            "s4"
+          ]
+        },
+        {
+          "character": "suguru-geto",
+          "person": "ou-sei-kou-kou",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s5"
+          ]
+        },
+        {
+          "character": "shoko-ieiri",
+          "person": "en-tou-ryou",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s6"
+          ]
+        },
+        {
+          "character": "toji-fushiguro",
+          "person": "shi-an-bu-jin",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s7"
+          ]
+        },
+        {
+          "character": "riko-amanai",
+          "person": "ei-rai-anna",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s8"
+          ]
+        },
+        {
+          "character": "misato-kuroi",
+          "person": "sei-sui-ri-sa",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s9"
+          ]
+        },
+        {
+          "character": "shiu-kong",
+          "person": "an-gen-you-ki",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s10"
+          ]
+        },
+        {
+          "character": "masamichi-yaga",
+          "person": "koku-den-suu-shi",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "懐玉・玉折への振り分けは、出典（声優ja.wikipedia、第2期を一括表記）の第2期初出演日コメントによる",
+            "translations": {
+              "ko": "회옥·옥절로의 배정은 출처(성우 ja.wikipedia, 2기 일괄 표기)의 2기 첫 출연일 주석에 근거",
+              "en": "Placement in Hidden Inventory is based on the first-appearance date comment in the VA's ja.wikipedia (which lists Season 2 as one entry)"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1",
+            "s4",
+            "s11"
+          ]
+        },
+        {
+          "character": "mei-mei",
+          "person": "san-shaku-kin-dai",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s12"
+          ]
+        },
+        {
+          "character": "utahime-iori",
+          "person": "nichi-ryuu-you-shi",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "懐玉・玉折への振り分けは、出典（声優ja.wikipedia、第2期を一括表記）の第2期初出演日コメントによる",
+            "translations": {
+              "ko": "회옥·옥절로의 배정은 출처(성우 ja.wikipedia, 2기 일괄 표기)의 2기 첫 출연일 주석에 근거",
+              "en": "Placement in Hidden Inventory is based on the first-appearance date comment in the VA's ja.wikipedia (which lists Season 2 as one entry)"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1",
+            "s4",
+            "s13"
+          ]
+        },
+        {
+          "character": "kento-nanami",
+          "person": "shin-den-ken-ji-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s14"
+          ]
+        },
+        {
+          "character": "yu-haibara",
+          "person": "bi-gen-gaku-jin",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s15"
+          ]
+        },
+        {
+          "character": "yuki-tsukumo",
+          "person": "nichi-kou-nori-shi",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "懐玉・玉折への振り分けは、出典（声優ja.wikipedia、第2期を一括表記）の第2期初出演日コメントによる",
+            "translations": {
+              "ko": "회옥·옥절로의 배정은 출처(성우 ja.wikipedia, 2기 일괄 표기)의 2기 첫 출연일 주석에 근거",
+              "en": "Placement in Hidden Inventory is based on the first-appearance date comment in the VA's ja.wikipedia (which lists Season 2 as one entry)"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s4",
+            "s16"
+          ]
+        },
+        {
+          "character": "tsumiki-fushiguro",
+          "person": "sou-ken-sa-shoku",
+          "role": "minor",
+          "note": {
+            "original_lang": "ja",
+            "original": "懐玉・玉折への振り分けは、出典（声優ja.wikipedia、第2期を一括表記）の第2期初出演日コメントによる",
+            "translations": {
+              "ko": "회옥·옥절로의 배정은 출처(성우 ja.wikipedia, 2기 일괄 표기)의 2기 첫 출연일 주석에 근거",
+              "en": "Placement in Hidden Inventory is based on the first-appearance date comment in the VA's ja.wikipedia (which lists Season 2 as one entry)"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s4",
+            "s17"
+          ]
+        },
+        {
+          "character": "megumi-fushiguro",
+          "person": "tou-gen-ka-kai",
+          "role": "minor",
+          "part": "young",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s18"
+          ]
+        },
+        {
+          "character": "yuji-itadori",
+          "person": "ka-boku-shun-mi",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s19"
+          ]
+        },
+        {
+          "character": "megumi-fushiguro",
+          "person": "dai-den-yuu-ba",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s20"
+          ]
+        },
+        {
+          "character": "nobara-kugisaki",
+          "person": "rai-ko-ma-sa-bi",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s4",
+            "s21"
+          ]
+        },
+        {
+          "character": "nanako-hasaba",
+          "person": "shou-den-satsu-sui",
+          "role": "minor",
+          "source_refs": [
+            "s22"
+          ]
+        },
+        {
+          "character": "mimiko-hasaba",
+          "person": "shou-den-ri-go",
+          "role": "minor",
+          "source_refs": [
+            "s23"
+          ]
+        },
+        {
+          "character": "shigeru-sonoda",
+          "person": "shou-ya-shun-kai",
+          "role": "minor",
+          "source_refs": [
+            "s4",
+            "s24"
+          ]
+        },
+        {
+          "character": "kokun",
+          "person": "ki-oku-bu-wa-ki",
+          "role": "minor",
+          "source_refs": [
+            "s4",
+            "s25"
+          ]
+        },
+        {
+          "character": "bayer",
+          "person": "toku-hon-kyou-bin",
+          "role": "minor",
+          "source_refs": [
+            "s4",
+            "s26"
+          ]
+        },
+        {
+          "character": "assistant-manager-kg",
+          "person": "yuu-koku-kai-rei",
+          "role": "minor",
+          "source_refs": [
+            "s27"
+          ]
+        },
+        {
+          "character": "elderly-curse-user",
+          "person": "han-tou-shou-ju",
+          "role": "minor",
+          "source_refs": [
+            "s4",
+            "s28"
+          ]
+        },
+        {
+          "character": "paper-bag-curse-user",
+          "person": "tou-gen-sei-yuu",
+          "role": "minor",
+          "source_refs": [
+            "s4",
+            "s29"
+          ]
+        },
+        {
+          "character": "teacher-kg",
+          "person": "tou-dou-shin-i",
+          "role": "minor",
+          "source_refs": [
+            "s30"
+          ]
+        },
+        {
+          "character": "student-kg",
+          "person": "kutsu-rou-sa-ya",
+          "role": "minor",
+          "source_refs": [
+            "s31"
+          ]
+        },
+        {
+          "character": "student-kg",
+          "person": "shou-sou-mi-yuu",
+          "role": "minor",
+          "source_refs": [
+            "s32"
+          ]
+        },
+        {
+          "character": "student-kg",
+          "person": "san-ho-sen-kou",
+          "role": "minor",
+          "source_refs": [
+            "s33"
+          ]
+        },
+        {
+          "character": "student-kg",
+          "person": "ryou-sen-ka-sai",
+          "role": "minor",
+          "source_refs": [
+            "s34"
+          ]
+        },
+        {
+          "character": "tv-announcement-kg",
+          "person": "san-kou-chi-kou",
+          "role": "minor",
+          "source_refs": [
+            "s35"
+          ]
+        },
+        {
+          "character": "believer-kg",
+          "person": "san-kou-yoku",
+          "role": "minor",
+          "source_refs": [
+            "s36"
+          ]
+        },
+        {
+          "character": "believer-kg",
+          "person": "chuu-ya-tai-yuu",
+          "role": "minor",
+          "source_refs": [
+            "s37"
+          ]
+        },
+        {
+          "character": "kuchisake-onna",
+          "person": "kisohiroko",
+          "role": "minor",
+          "source_refs": [
+            "s38"
+          ]
+        },
+        {
+          "character": "storage-curse",
+          "person": "juu-koku-sai-dai",
+          "role": "minor",
+          "source_refs": [
+            "s39"
+          ]
+        },
+        {
+          "character": "boat-race-announcement-kg",
+          "person": "son-sei-yuu-ji",
+          "role": "minor",
+          "note": {
+            "original_lang": "ja",
+            "original": "懐玉・玉折への振り分けは、出典（声優ja.wikipedia、第2期を一括表記）の第2期初出演日コメントによる",
+            "translations": {
+              "ko": "회옥·옥절로의 배정은 출처(성우 ja.wikipedia, 2기 일괄 표기)의 2기 첫 출연일 주석에 근거",
+              "en": "Placement in Hidden Inventory is based on the first-appearance date comment in the VA's ja.wikipedia (which lists Season 2 as one entry)"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s40"
+          ]
+        },
+        {
+          "character": "villager-kg",
+          "person": "shin-san-a-shi",
+          "role": "minor",
+          "source_refs": [
+            "s41"
+          ]
+        },
+        {
+          "character": "villager-kg",
+          "person": "sa-kyuu-kan-gen-ki",
+          "role": "minor",
+          "source_refs": [
+            "s42"
+          ]
+        }
+      ],
+      "last_release_date": "2023-08-03"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25346",
+      "title": "Jujutsu Kaisen (TV 2) - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6_%28%E3%82%A2%E3%83%8B%E3%83%A1%29",
+      "title": "呪術廻戦 (アニメ)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E6%82%A0%E4%B8%80",
+      "title": "中村悠一",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s4",
+      "url": "https://ja.wikipedia.org/wiki/%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6",
+      "title": "呪術廻戦",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s5",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AB%BB%E4%BA%95%E5%AD%9D%E5%AE%8F",
+      "title": "櫻井孝宏",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s6",
+      "url": "https://ja.wikipedia.org/wiki/%E9%81%A0%E8%97%A4%E7%B6%BE",
+      "title": "遠藤綾",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s7",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AD%90%E5%AE%89%E6%AD%A6%E4%BA%BA",
+      "title": "子安武人",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s8",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B0%B8%E7%80%AC%E3%82%A2%E3%83%B3%E3%83%8A",
+      "title": "永瀬アンナ",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s9",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%85%E6%B0%B4%E7%90%86%E6%B2%99",
+      "title": "清水理沙",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s10",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%89%E5%85%83%E6%B4%8B%E8%B2%B4",
+      "title": "安元洋貴",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s11",
+      "url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E7%94%B0%E5%B4%87%E7%9F%A2",
+      "title": "黒田崇矢",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s12",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E7%9F%B3%E7%90%B4%E4%B9%83",
+      "title": "三石琴乃",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s13",
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AC%A0%E9%99%BD%E5%AD%90",
+      "title": "日笠陽子",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s14",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B4%A5%E7%94%B0%E5%81%A5%E6%AC%A1%E9%83%8E",
+      "title": "津田健次郎",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s15",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A2%B6%E5%8E%9F%E5%B2%B3%E4%BA%BA",
+      "title": "梶原岳人",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s16",
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%AB%99%E3%81%AE%E3%82%8A%E5%AD%90",
+      "title": "日髙のり子",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s17",
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%A9%E8%A6%8B%E6%B2%99%E7%B9%94",
+      "title": "早見沙織",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s18",
+      "url": "https://ja.wikipedia.org/wiki/%E8%97%A4%E5%8E%9F%E5%A4%8F%E6%B5%B7",
+      "title": "藤原夏海",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s19",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A6%8E%E6%9C%A8%E6%B7%B3%E5%BC%A5",
+      "title": "榎木淳弥",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s20",
+      "url": "https://ja.wikipedia.org/wiki/%E5%86%85%E7%94%B0%E9%9B%84%E9%A6%AC",
+      "title": "内田雄馬",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s21",
+      "url": "https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E9%BA%BB%E6%B2%99%E7%BE%8E",
+      "title": "瀬戸麻沙美",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s22",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E7%94%B0%E9%A2%AF%E6%B0%B4",
+      "title": "松田颯水",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s23",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E7%94%B0%E5%88%A9%E5%86%B4",
+      "title": "松田利冴",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s24",
+      "url": "https://ja.wikipedia.org/wiki/%E5%92%B2%E9%87%8E%E4%BF%8A%E4%BB%8B",
+      "title": "咲野俊介",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s25",
+      "url": "https://ja.wikipedia.org/wiki/%E5%96%9C%E5%B1%8B%E6%AD%A6%E5%92%8C%E8%BC%9D",
+      "title": "喜屋武和輝",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s26",
+      "url": "https://ja.wikipedia.org/wiki/%E5%BE%B3%E6%9C%AC%E6%81%AD%E6%95%8F",
+      "title": "徳本恭敏",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s27",
+      "url": "https://ja.wikipedia.org/wiki/%E7%86%8A%E8%B0%B7%E6%B5%B7%E9%BA%97",
+      "title": "熊谷海麗",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s28",
+      "url": "https://ja.wikipedia.org/wiki/%E5%9D%82%E6%9D%B1%E5%B0%9A%E6%A8%B9",
+      "title": "坂東尚樹",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s29",
+      "url": "https://ja.wikipedia.org/wiki/%E8%97%A4%E5%8E%9F%E8%81%96%E4%BE%91",
+      "title": "藤原聖侑",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s30",
+      "url": "https://ja.wikipedia.org/wiki/%E8%97%A4%E5%A0%82%E7%9C%9F%E8%A1%A3",
+      "title": "藤堂真衣",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s31",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A0%80%E7%B1%A0%E6%B2%99%E8%80%B6",
+      "title": "堀籠沙耶",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s32",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%80%89%E5%BC%A5%E5%84%AA",
+      "title": "小倉弥優",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s33",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E6%B5%A6%E5%8D%83%E5%B9%B8",
+      "title": "三浦千幸",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s34",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8F%B1%E5%B7%9D%E8%8A%B1%E8%8F%9C",
+      "title": "菱川花菜",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s35",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E6%99%BA%E5%BA%83",
+      "title": "山口智広",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s36",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%A5%BD%E7%BF%BC",
+      "title": "三好翼",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s37",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%87%8E%E6%B3%B0%E4%BD%91",
+      "title": "中野泰佑",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s38",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%8D%E3%81%9D%E3%81%B2%E3%82%8D%E3%81%93",
+      "title": "きそひろこ",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s39",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%8B%E8%B0%B7%E5%BD%A9%E4%B9%83",
+      "title": "渋谷彩乃",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s40",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%91%E4%BA%95%E9%9B%84%E6%B2%BB",
+      "title": "村井雄治",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s41",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9C%9F%E5%B1%B1%E4%BA%9C%E5%AD%90",
+      "title": "真山亜子",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s42",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E4%B9%85%E9%96%93%E5%85%83%E8%BC%9D",
+      "title": "佐久間元輝",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "jujutsu-kaisen-game-jutsuda",
+  "franchise_id": "jujutsu-kaisen",
+  "type": "game",
+  "title": {
+    "original_lang": "ja",
+    "original": "呪術廻戦タイピング 術打",
+    "latin": "Jujutsu Kaisen Typing Jutsuda",
+    "aliases": {
+      "ja": [
+        "じゅつだ"
+      ]
+    }
+  },
+  "order": 7,
+  "status": "released",
+  "start_date": "2023-12-08",
+  "developers": [
+    {
+      "original_lang": "ja",
+      "original": "山屋商店",
+      "latin": "Yamaya Shoten"
+    }
+  ],
+  "platforms": [
+    "pc",
+    "other"
+  ],
+  "publishers": [
+    {
+      "original_lang": "ja",
+      "original": "リオ",
+      "latin": "Rio"
+    }
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2023-12-08",
+      "credits": [
+        {
+          "character": "satoru-gojo",
+          "person": "chuu-son-yuu-ichi",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s3"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6_%28%E3%82%A2%E3%83%8B%E3%83%A1%29",
+      "title": "呪術廻戦 (アニメ)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://riocompany.jp/soft_title/jujutsukaisen-jutsuda/",
+      "title": "HOME | 呪術廻戦タイピング 術打",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E6%82%A0%E4%B8%80",
+      "title": "中村悠一",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

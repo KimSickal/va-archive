@@ -1,0 +1,45 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "chuu-den-jou-ji",
+  "slug": "jouji-nakata",
+  "name": {
+    "original_lang": "ja",
+    "original": "中田譲治",
+    "latin": "Jouji Nakata",
+    "official": {
+      "en": "Jouji Nakata"
+    },
+    "aliases": {
+      "ja": [
+        "なかたじょうじ"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E7%94%B0%E8%AD%B2%E6%B2%BB",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%82%98%EC%B9%B4%ED%83%80_%EC%A3%A0%EC%A7%80",
+    "en": "https://en.wikipedia.org/wiki/Jouji_Nakata"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E7%94%B0%E8%AD%B2%E6%B2%BB",
+      "title": "中田譲治",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ou-tei-yuu-sa",
+  "slug": "arisa-sakuraba",
+  "name": {
+    "original_lang": "ja",
+    "original": "櫻庭有紗",
+    "latin": "Arisa Sakuraba",
+    "aliases": {
+      "ja": [
+        "さくらばありさ"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%AB%BB%E5%BA%AD%E6%9C%89%E7%B4%97"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AB%BB%E5%BA%AD%E6%9C%89%E7%B4%97",
+      "title": "櫻庭有紗",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

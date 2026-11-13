@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "en-ki-mi-kei",
+  "slug": "mie-sonozaki",
+  "name": {
+    "original_lang": "ja",
+    "original": "園崎未恵",
+    "latin": "Mie Sonozaki",
+    "official": {
+      "en": "Mie Sonozaki"
+    },
+    "aliases": {
+      "ja": [
+        "そのざきみえ"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1973",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%9C%92%E5%B4%8E%E6%9C%AA%E6%81%B5",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%86%8C%EB%85%B8%EC%9E%90%ED%82%A4_%EB%AF%B8%EC%97%90",
+    "en": "https://en.wikipedia.org/wiki/Mie_Sonozaki"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%9C%92%E5%B4%8E%E6%9C%AA%E6%81%B5",
+      "title": "園崎未恵",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

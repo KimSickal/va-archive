@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "rin-gen-megumi",
+  "slug": "megumi-hayashibara",
+  "name": {
+    "original_lang": "ja",
+    "original": "林原めぐみ",
+    "latin": "Megumi Hayashibara",
+    "official": {
+      "en": "Megumi Hayashibara"
+    },
+    "aliases": {
+      "ja": [
+        "はやしばらめぐみ"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1967",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%9E%97%E5%8E%9F%E3%82%81%E3%81%90%E3%81%BF",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%95%98%EC%95%BC%EC%8B%9C%EB%B0%94%EB%9D%BC_%EB%A9%94%EA%B5%AC%EB%AF%B8",
+    "en": "https://en.wikipedia.org/wiki/Megumi_Hayashibara"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9E%97%E5%8E%9F%E3%82%81%E3%81%90%E3%81%BF",
+      "title": "林原めぐみ",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

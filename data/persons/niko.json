@@ -1,0 +1,37 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "niko",
+  "slug": "neeko",
+  "name": {
+    "original_lang": "ja",
+    "original": "ニーコ",
+    "latin": "Neeko"
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1983",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%BC%E3%82%B3",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%8B%88%EC%BD%94_%28%EC%84%B1%EC%9A%B0%29"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%BC%E3%82%B3",
+      "title": "ニーコ",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

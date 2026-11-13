@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "bi-yuu-ki",
+  "slug": "yuki-kaji",
+  "name": {
+    "original_lang": "ja",
+    "original": "梶裕貴",
+    "latin": "Yuki Kaji",
+    "official": {
+      "en": "Yuki Kaji"
+    },
+    "aliases": {
+      "ja": [
+        "かじゆうき"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1985",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%A2%B6%E8%A3%95%E8%B2%B4",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%B9%B4%EC%A7%80_%EC%9C%A0%EC%9A%B0%ED%82%A4",
+    "en": "https://en.wikipedia.org/wiki/Yuki_Kaji"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A2%B6%E8%A3%95%E8%B2%B4",
+      "title": "梶裕貴",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

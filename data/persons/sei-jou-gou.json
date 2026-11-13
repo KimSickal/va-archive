@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sei-jou-gou",
+  "slug": "go-inoue",
+  "name": {
+    "original_lang": "ja",
+    "original": "井上剛",
+    "latin": "Go Inoue",
+    "aliases": {
+      "ja": [
+        "いのうえごう"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1978",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E5%89%9B_%28%E5%A3%B0%E5%84%AA%29"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E5%89%9B_%28%E5%A3%B0%E5%84%AA%29",
+      "title": "井上剛 (声優)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

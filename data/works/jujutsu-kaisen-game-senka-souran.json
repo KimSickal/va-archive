@@ -1,0 +1,698 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "jujutsu-kaisen-game-senka-souran",
+  "franchise_id": "jujutsu-kaisen",
+  "type": "game",
+  "title": {
+    "original_lang": "ja",
+    "original": "呪術廻戦 戦華双乱",
+    "latin": "Jujutsu Kaisen Senka Soran",
+    "official": {
+      "en": "Jujutsu Kaisen Cursed Clash"
+    },
+    "aliases": {
+      "ja": [
+        "せんかそうらん"
+      ],
+      "ko": [
+        "주술회전 전화쌍란"
+      ]
+    }
+  },
+  "order": 8,
+  "status": "released",
+  "start_date": "2024-02-01",
+  "developers": [
+    {
+      "original_lang": "ja",
+      "original": "バイキング",
+      "latin": "Byking",
+      "official": {
+        "en": "Byking"
+      }
+    },
+    {
+      "original_lang": "ja",
+      "original": "ジェムドロップ",
+      "latin": "Gemdrops",
+      "official": {
+        "en": "Gemdrops"
+      }
+    }
+  ],
+  "platforms": [
+    "switch",
+    "ps5",
+    "ps4",
+    "xbox_series",
+    "xbox_one",
+    "pc"
+  ],
+  "publishers": [
+    {
+      "original_lang": "ja",
+      "original": "バンダイナムコエンターテインメント",
+      "latin": "Bandai Namco Entertainment",
+      "official": {
+        "en": "Bandai Namco Entertainment"
+      }
+    }
+  ],
+  "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Jujutsu_Kaisen:_Cursed_Clash"
+  },
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2024-02-01",
+      "credits": [
+        {
+          "character": "satoru-gojo",
+          "person": "chuu-son-yuu-ichi",
+          "role": "main",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "mai-zenin",
+          "person": "sei-jou-ma-ri-na",
+          "role": "supporting",
+          "source_refs": [
+            "s3"
+          ]
+        },
+        {
+          "character": "toge-inumaki",
+          "person": "dai-san-kou-ki",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ]
+        },
+        {
+          "character": "megumi-fushiguro",
+          "person": "dai-den-yuu-ba",
+          "role": "main",
+          "source_refs": [
+            "s5"
+          ]
+        },
+        {
+          "character": "jogo",
+          "person": "sen-you-han",
+          "role": "supporting",
+          "source_refs": [
+            "s6"
+          ]
+        },
+        {
+          "character": "wasuke-itadori",
+          "person": "sen-you-han",
+          "role": "supporting",
+          "source_refs": [
+            "s6"
+          ]
+        },
+        {
+          "character": "mei-mei",
+          "person": "san-shaku-kin-dai",
+          "role": "supporting",
+          "source_refs": [
+            "s7"
+          ]
+        },
+        {
+          "character": "maki-zenin",
+          "person": "shou-shou-mi-ka-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s8"
+          ]
+        },
+        {
+          "character": "kechizu",
+          "person": "san-kou-shou-hei",
+          "role": "supporting",
+          "source_refs": [
+            "s9"
+          ]
+        },
+        {
+          "character": "junpei-yoshino",
+          "person": "san-koku-shou-sei",
+          "role": "supporting",
+          "source_refs": [
+            "s10"
+          ]
+        },
+        {
+          "character": "kiyotaka-ijichi",
+          "person": "gan-den-kou-ou",
+          "role": "supporting",
+          "source_refs": [
+            "s11"
+          ]
+        },
+        {
+          "character": "mahito",
+          "person": "tou-ki-shin-chou",
+          "role": "supporting",
+          "source_refs": [
+            "s12"
+          ]
+        },
+        {
+          "character": "akari-nitta",
+          "person": "toku-sei-sei-kuu",
+          "role": "supporting",
+          "source_refs": [
+            "s13"
+          ]
+        },
+        {
+          "character": "utahime-iori",
+          "person": "nichi-ryuu-you-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s14"
+          ]
+        },
+        {
+          "character": "noritoshi-kamo",
+          "person": "nichi-ya-sou",
+          "role": "supporting",
+          "source_refs": [
+            "s15"
+          ]
+        },
+        {
+          "character": "aoi-todo",
+          "person": "boku-son-bou",
+          "role": "supporting",
+          "source_refs": [
+            "s16"
+          ]
+        },
+        {
+          "character": "kokichi-muta",
+          "person": "shou-kou-tei-shou",
+          "role": "supporting",
+          "source_refs": [
+            "s17"
+          ]
+        },
+        {
+          "character": "yuji-itadori",
+          "person": "ka-boku-shun-mi",
+          "role": "main",
+          "source_refs": [
+            "s18"
+          ]
+        },
+        {
+          "character": "eso",
+          "person": "kai-san-shuu-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s19"
+          ]
+        },
+        {
+          "character": "suguru-geto",
+          "person": "ou-sei-kou-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s20"
+          ]
+        },
+        {
+          "character": "kento-nanami",
+          "person": "shin-den-ken-ji-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s21"
+          ]
+        },
+        {
+          "character": "choso",
+          "person": "rou-sen-tai-fu",
+          "role": "supporting",
+          "source_refs": [
+            "s22"
+          ]
+        },
+        {
+          "character": "nobara-kugisaki",
+          "person": "rai-ko-ma-sa-bi",
+          "role": "main",
+          "source_refs": [
+            "s23"
+          ]
+        },
+        {
+          "character": "hanami",
+          "person": "den-chuu-ton-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s24"
+          ]
+        },
+        {
+          "character": "yuta-okkotsu",
+          "person": "sho-hou-kei-bi",
+          "role": "supporting",
+          "source_refs": [
+            "s25"
+          ]
+        },
+        {
+          "character": "rika-orimoto",
+          "person": "ka-taku-kou-sai",
+          "role": "supporting",
+          "source_refs": [
+            "s26"
+          ]
+        },
+        {
+          "character": "ryomen-sukuna",
+          "person": "shu-hou-bu-jun-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s27"
+          ]
+        },
+        {
+          "character": "kasumi-miwa",
+          "person": "seki-ki-sen-ka",
+          "role": "supporting",
+          "source_refs": [
+            "s28"
+          ]
+        },
+        {
+          "character": "shoko-ieiri",
+          "person": "en-tou-ryou",
+          "role": "supporting",
+          "source_refs": [
+            "s29"
+          ]
+        },
+        {
+          "character": "nagi-yoshino",
+          "person": "ya-den-jun-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s30"
+          ]
+        },
+        {
+          "character": "momo-nishimiya",
+          "person": "tei-kyuu-ri-kei",
+          "role": "supporting",
+          "source_refs": [
+            "s31"
+          ]
+        },
+        {
+          "character": "panda",
+          "person": "kan-chi-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s32"
+          ]
+        },
+        {
+          "character": "yoshinobu-gakuganji",
+          "person": "baku-jin",
+          "role": "supporting",
+          "source_refs": [
+            "s33"
+          ]
+        },
+        {
+          "character": "masamichi-yaga",
+          "person": "koku-den-suu-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s34"
+          ]
+        },
+        {
+          "character": "toji-fushiguro",
+          "person": "shi-an-bu-jin",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "有料DLC「懐玉・玉折」で追加",
+            "translations": {
+              "ko": "유료 DLC 「회옥·옥절」로 추가",
+              "en": "Added in the paid DLC 'Hidden Inventory / Premature Death'"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s35",
+            "s36"
+          ]
+        },
+        {
+          "character": "naobito-zenin",
+          "person": "chuu-den-jou-ji",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "有料DLCで追加されたプレイアブルキャラクター（en.wikipedia）。担当声優はゲーム固有の出典なし、アニメと同じ配役と推定",
+            "translations": {
+              "ko": "유료 DLC로 추가된 플레이어블 캐릭터(en.wikipedia). 담당 성우는 게임 고유 출처 없음, 애니메이션과 같은 배역으로 추정",
+              "en": "Playable paid-DLC character (en.wikipedia); no game-specific source for the voice actor, presumed same as the anime"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "verification": "unverified",
+          "source_refs": [
+            "s36"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6_%28%E3%82%A2%E3%83%8B%E3%83%A1%29",
+      "title": "呪術廻戦 (アニメ)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E6%82%A0%E4%B8%80",
+      "title": "中村悠一",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E9%BA%BB%E9%87%8C%E5%A5%88",
+      "title": "井上麻里奈",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s4",
+      "url": "https://ja.wikipedia.org/wiki/%E5%86%85%E5%B1%B1%E6%98%82%E8%BC%9D",
+      "title": "内山昂輝",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s5",
+      "url": "https://ja.wikipedia.org/wiki/%E5%86%85%E7%94%B0%E9%9B%84%E9%A6%AC",
+      "title": "内田雄馬",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s6",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8D%83%E8%91%89%E7%B9%81",
+      "title": "千葉繁",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s7",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E7%9F%B3%E7%90%B4%E4%B9%83",
+      "title": "三石琴乃",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s8",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9D%BE%E6%9C%AA%E5%8F%AF%E5%AD%90",
+      "title": "小松未可子",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s9",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E5%8B%9D%E5%B9%B3",
+      "title": "山口勝平",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s10",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E8%B0%B7%E7%A5%A5%E7%94%9F",
+      "title": "山谷祥生",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s11",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E7%94%B0%E5%85%89%E5%A4%AE",
+      "title": "岩田光央",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s12",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%EF%A8%91%E4%BF%A1%E9%95%B7",
+      "title": "島﨑信長",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s13",
+      "url": "https://ja.wikipedia.org/wiki/%E5%BE%B3%E4%BA%95%E9%9D%92%E7%A9%BA",
+      "title": "徳井青空",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s14",
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AC%A0%E9%99%BD%E5%AD%90",
+      "title": "日笠陽子",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s15",
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%87%8E%E8%81%A1",
+      "title": "日野聡",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s16",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%9D%91%E6%98%B4",
+      "title": "木村昴",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s17",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B2%A1%E7%A6%8E%E4%B8%9E",
+      "title": "松岡禎丞",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s18",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A6%8E%E6%9C%A8%E6%B7%B3%E5%BC%A5",
+      "title": "榎木淳弥",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s19",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AA%9C%E5%B1%B1%E4%BF%AE%E4%B9%8B",
+      "title": "檜山修之",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s20",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AB%BB%E4%BA%95%E5%AD%9D%E5%AE%8F",
+      "title": "櫻井孝宏",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s21",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B4%A5%E7%94%B0%E5%81%A5%E6%AC%A1%E9%83%8E",
+      "title": "津田健次郎",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s22",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B5%AA%E5%B7%9D%E5%A4%A7%E8%BC%94",
+      "title": "浪川大輔",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s23",
+      "url": "https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E9%BA%BB%E6%B2%99%E7%BE%8E",
+      "title": "瀬戸麻沙美",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s24",
+      "url": "https://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%AD%E6%95%A6%E5%AD%90_%28%E5%A3%B0%E5%84%AA%29",
+      "title": "田中敦子 (声優)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s25",
+      "url": "https://ja.wikipedia.org/wiki/%E7%B7%92%E6%96%B9%E6%81%B5%E7%BE%8E",
+      "title": "緒方恵美",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s26",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8A%B1%E6%BE%A4%E9%A6%99%E8%8F%9C",
+      "title": "花澤香菜",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s27",
+      "url": "https://ja.wikipedia.org/wiki/%E8%AB%8F%E8%A8%AA%E9%83%A8%E9%A0%86%E4%B8%80",
+      "title": "諏訪部順一",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s28",
+      "url": "https://ja.wikipedia.org/wiki/%E8%B5%A4%EF%A8%91%E5%8D%83%E5%A4%8F",
+      "title": "赤﨑千夏",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s29",
+      "url": "https://ja.wikipedia.org/wiki/%E9%81%A0%E8%97%A4%E7%B6%BE",
+      "title": "遠藤綾",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s30",
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%8E%E7%94%B0%E9%A0%86%E5%AD%90",
+      "title": "野田順子",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s31",
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%98%E5%AE%AE%E7%90%86%E6%81%B5",
+      "title": "釘宮理恵",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s32",
+      "url": "https://ja.wikipedia.org/wiki/%E9%96%A2%E6%99%BA%E4%B8%80",
+      "title": "関智一",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s33",
+      "url": "https://ja.wikipedia.org/wiki/%E9%BA%A6%E4%BA%BA",
+      "title": "麦人",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s34",
+      "url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E7%94%B0%E5%B4%87%E7%9F%A2",
+      "title": "黒田崇矢",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s35",
+      "url": "https://dengekionline.com/article/202405/5582",
+      "title": "『呪術廻戦 戦華双乱』有料DLC『懐玉・玉折』で伏黒甚爾参戦。無料アプデでは西宮桃、禪院真依が追加",
+      "publisher": "news",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s36",
+      "url": "https://en.wikipedia.org/wiki/Jujutsu_Kaisen:_Cursed_Clash",
+      "title": "Jujutsu Kaisen: Cursed Clash",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

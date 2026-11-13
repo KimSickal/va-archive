@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ka-ya-matsu-chi",
+  "slug": "mari-kawano",
+  "name": {
+    "original_lang": "ja",
+    "original": "河野茉莉",
+    "latin": "Mari Kawano",
+    "aliases": {
+      "ja": [
+        "かわのまり"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%B2%B3%E9%87%8E%E8%8C%89%E8%8E%89"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B2%B3%E9%87%8E%E8%8C%89%E8%8E%89",
+      "title": "河野茉莉",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "tei-kou-shou-hyaku-gou",
+  "slug": "sayuri-sadaoka",
+  "name": {
+    "original_lang": "ja",
+    "original": "定岡小百合",
+    "latin": "Sayuri Sadaoka",
+    "official": {
+      "en": "Sayuri Sadaoka"
+    },
+    "aliases": {
+      "ja": [
+        "さだおかさゆり"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1955",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%AE%9A%E5%B2%A1%E5%B0%8F%E7%99%BE%E5%90%88",
+    "en": "https://en.wikipedia.org/wiki/Sayuri_Sadaoka"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%9A%E5%B2%A1%E5%B0%8F%E7%99%BE%E5%90%88",
+      "title": "定岡小百合",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

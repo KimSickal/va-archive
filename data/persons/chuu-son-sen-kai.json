@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "chuu-son-sen-kai",
+  "slug": "chie-nakamura",
+  "name": {
+    "original_lang": "ja",
+    "original": "中村千絵",
+    "latin": "Chie Nakamura",
+    "official": {
+      "en": "Chie Nakamura"
+    },
+    "aliases": {
+      "ja": [
+        "なかむらちえ"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1978",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E5%8D%83%E7%B5%B5",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%82%98%EC%B9%B4%EB%AC%B4%EB%9D%BC_%EC%B9%98%EC%97%90",
+    "en": "https://en.wikipedia.org/wiki/Chie_Nakamura"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E5%8D%83%E7%B5%B5",
+      "title": "中村千絵",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

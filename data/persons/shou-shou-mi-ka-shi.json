@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shou-shou-mi-ka-shi",
+  "slug": "mikako-komatsu",
+  "name": {
+    "original_lang": "ja",
+    "original": "小松未可子",
+    "latin": "Mikako Komatsu",
+    "official": {
+      "en": "Mikako Komatsu"
+    },
+    "aliases": {
+      "ja": [
+        "こまつみかこ"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1988",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9D%BE%E6%9C%AA%E5%8F%AF%E5%AD%90",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%BD%94%EB%A7%88%EC%B8%A0_%EB%AF%B8%EC%B9%B4%EC%BD%94",
+    "en": "https://en.wikipedia.org/wiki/Mikako_Komatsu"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9D%BE%E6%9C%AA%E5%8F%AF%E5%AD%90",
+      "title": "小松未可子",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

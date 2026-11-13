@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "tou-dou-shin-i",
+  "slug": "mai-todo",
+  "name": {
+    "original_lang": "ja",
+    "original": "藤堂真衣",
+    "latin": "Mai Todo",
+    "aliases": {
+      "ja": [
+        "とうどうまい"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1985",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E8%97%A4%E5%A0%82%E7%9C%9F%E8%A1%A3"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E8%97%A4%E5%A0%82%E7%9C%9F%E8%A1%A3",
+      "title": "藤堂真衣",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

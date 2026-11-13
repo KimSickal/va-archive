@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ai-bi",
+  "slug": "aimi",
+  "name": {
+    "original_lang": "ja",
+    "original": "愛美",
+    "latin": "Aimi",
+    "official": {
+      "en": "Aimi"
+    },
+    "aliases": {
+      "ja": [
+        "あいみ"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1991",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%84%9B%E7%BE%8E",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%9D%B4%EB%AF%B8_%28%EC%84%B1%EC%9A%B0%29",
+    "en": "https://en.wikipedia.org/wiki/Aimi_%28actress%29"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%84%9B%E7%BE%8E",
+      "title": "愛美",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

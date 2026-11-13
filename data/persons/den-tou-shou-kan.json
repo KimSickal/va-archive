@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "den-tou-shou-kan",
+  "slug": "akihiro-tajima",
+  "name": {
+    "original_lang": "ja",
+    "original": "田島章寛",
+    "latin": "Akihiro Tajima",
+    "aliases": {
+      "ja": [
+        "たじまあきひろ"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1989",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%94%B0%E5%B3%B6%E7%AB%A0%E5%AF%9B"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%94%B0%E5%B3%B6%E7%AB%A0%E5%AF%9B",
+      "title": "田島章寛",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

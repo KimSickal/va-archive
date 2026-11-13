@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "tou-gen-sei-yuu",
+  "slug": "seiyu-fujiwara",
+  "name": {
+    "original_lang": "ja",
+    "original": "藤原聖侑",
+    "latin": "Seiyu Fujiwara",
+    "aliases": {
+      "ja": [
+        "ふじわらせいゆう"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1996",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E8%97%A4%E5%8E%9F%E8%81%96%E4%BE%91"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E8%97%A4%E5%8E%9F%E8%81%96%E4%BE%91",
+      "title": "藤原聖侑",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

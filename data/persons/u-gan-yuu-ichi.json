@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "u-gan-yuu-ichi",
+  "slug": "yuichi-karasuma",
+  "name": {
+    "original_lang": "ja",
+    "original": "烏丸祐一",
+    "latin": "Yuichi Karasuma",
+    "aliases": {
+      "ja": [
+        "からすまゆういち"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%83%8F%E4%B8%B8%E7%A5%90%E4%B8%80"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%83%8F%E4%B8%B8%E7%A5%90%E4%B8%80",
+      "title": "烏丸祐一",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

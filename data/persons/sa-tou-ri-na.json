@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sa-tou-ri-na",
+  "slug": "rina-sato",
+  "name": {
+    "original_lang": "ja",
+    "original": "佐藤利奈",
+    "latin": "Rina Sato",
+    "aliases": {
+      "ja": [
+        "さとうりな"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1981-05-02",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E5%88%A9%E5%A5%88"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E5%88%A9%E5%A5%88",
+      "title": "佐藤利奈 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

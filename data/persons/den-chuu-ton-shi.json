@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "den-chuu-ton-shi",
+  "slug": "atsuko-tanaka",
+  "name": {
+    "original_lang": "ja",
+    "original": "田中敦子",
+    "latin": "Atsuko Tanaka",
+    "official": {
+      "en": "Atsuko Tanaka"
+    },
+    "aliases": {
+      "ja": [
+        "たなかあつこ"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1962",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%AD%E6%95%A6%E5%AD%90_%28%E5%A3%B0%E5%84%AA%29",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%83%80%EB%82%98%EC%B9%B4_%EC%95%84%EC%B8%A0%EC%BD%94",
+    "en": "https://en.wikipedia.org/wiki/Atsuko_Tanaka"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%AD%E6%95%A6%E5%AD%90_%28%E5%A3%B0%E5%84%AA%29",
+      "title": "田中敦子 (声優)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

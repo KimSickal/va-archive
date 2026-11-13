@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "tou-ki-shin-chou",
+  "slug": "nobunaga-shimazaki",
+  "name": {
+    "original_lang": "ja",
+    "original": "島﨑信長",
+    "latin": "Nobunaga Shimazaki",
+    "official": {
+      "en": "Nobunaga Shimazaki"
+    },
+    "aliases": {
+      "ja": [
+        "しまざきのぶなが"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1988",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%B3%B6%EF%A8%91%E4%BF%A1%E9%95%B7",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%8B%9C%EB%A7%88%EC%9E%90%ED%82%A4_%EB%85%B8%EB%B6%80%EB%82%98%EA%B0%80",
+    "en": "https://en.wikipedia.org/wiki/Nobunaga_Shimazaki"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%EF%A8%91%E4%BF%A1%E9%95%B7",
+      "title": "島﨑信長",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

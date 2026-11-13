@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ya-den-jun-shi",
+  "slug": "junko-noda",
+  "name": {
+    "original_lang": "ja",
+    "original": "野田順子",
+    "latin": "Junko Noda",
+    "official": {
+      "en": "Junko Noda"
+    },
+    "aliases": {
+      "ja": [
+        "のだじゅんこ"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1971",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%87%8E%E7%94%B0%E9%A0%86%E5%AD%90",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%85%B8%EB%8B%A4_%EC%A4%80%EC%BD%94",
+    "en": "https://en.wikipedia.org/wiki/Junko_Noda"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%8E%E7%94%B0%E9%A0%86%E5%AD%90",
+      "title": "野田順子",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

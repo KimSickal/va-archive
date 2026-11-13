@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "bi-gen-gaku-jin",
+  "slug": "gakuto-kajiwara",
+  "name": {
+    "original_lang": "ja",
+    "original": "梶原岳人",
+    "latin": "Gakuto Kajiwara",
+    "official": {
+      "en": "Gakuto Kajiwara"
+    },
+    "aliases": {
+      "ja": [
+        "かじわらがくと"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1994",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%A2%B6%E5%8E%9F%E5%B2%B3%E4%BA%BA",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%B9%B4%EC%A7%80%EC%99%80%EB%9D%BC_%EA%B0%80%EC%BF%A0%ED%86%A0",
+    "en": "https://en.wikipedia.org/wiki/Gakuto_Kajiwara"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A2%B6%E5%8E%9F%E5%B2%B3%E4%BA%BA",
+      "title": "梶原岳人",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

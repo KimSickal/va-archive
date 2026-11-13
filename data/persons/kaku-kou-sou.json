@@ -1,0 +1,42 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kaku-kou-sou",
+  "slug": "satoshi-tsuruoka",
+  "name": {
+    "original_lang": "ja",
+    "original": "鶴岡聡",
+    "latin": "Satoshi Tsuruoka",
+    "aliases": {
+      "ja": [
+        "つるおかさとし"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1978",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%B6%B4%E5%B2%A1%E8%81%A1",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%B8%A0%EB%A3%A8%EC%98%A4%EC%B9%B4_%EC%82%AC%ED%86%A0%EC%8B%9C"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%B6%B4%E5%B2%A1%E8%81%A1",
+      "title": "鶴岡聡",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

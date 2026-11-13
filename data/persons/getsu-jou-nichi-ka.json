@@ -1,0 +1,45 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "getsu-jou-nichi-ka",
+  "slug": "hika-tsukishiro",
+  "name": {
+    "original_lang": "ja",
+    "original": "月城日花",
+    "latin": "Hika Tsukishiro",
+    "official": {
+      "en": "Hika Tsukishiro"
+    },
+    "aliases": {
+      "ja": [
+        "つきしろひか"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "2004",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%9C%88%E5%9F%8E%E6%97%A5%E8%8A%B1",
+    "en": "https://en.wikipedia.org/wiki/Hika_Tsukishiro"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%88%E5%9F%8E%E6%97%A5%E8%8A%B1",
+      "title": "月城日花",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

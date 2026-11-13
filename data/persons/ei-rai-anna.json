@@ -1,0 +1,45 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ei-rai-anna",
+  "slug": "anna-nagase",
+  "name": {
+    "original_lang": "ja",
+    "original": "永瀬アンナ",
+    "latin": "Anna Nagase",
+    "official": {
+      "en": "Anna Nagase"
+    },
+    "aliases": {
+      "ja": [
+        "ながせあんな"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "2005",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%B0%B8%E7%80%AC%E3%82%A2%E3%83%B3%E3%83%8A",
+    "en": "https://en.wikipedia.org/wiki/Anna_Nagase"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B0%B8%E7%80%AC%E3%82%A2%E3%83%B3%E3%83%8A",
+      "title": "永瀬アンナ",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

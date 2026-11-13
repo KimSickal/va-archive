@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "soku-sui-shou",
+  "slug": "show-hayami",
+  "name": {
+    "original_lang": "ja",
+    "original": "速水奨",
+    "latin": "Show Hayami",
+    "official": {
+      "en": "Show Hayami"
+    },
+    "aliases": {
+      "ja": [
+        "はやみしょう"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1958",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%80%9F%E6%B0%B4%E5%A5%A8",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%95%98%EC%95%BC%EB%AF%B8_%EC%87%BC",
+    "en": "https://en.wikipedia.org/wiki/Show_Hayami"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%80%9F%E6%B0%B4%E5%A5%A8",
+      "title": "速水奨",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

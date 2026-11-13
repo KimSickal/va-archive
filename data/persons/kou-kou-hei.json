@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kou-kou-hei",
+  "slug": "binbin-takaoka",
+  "name": {
+    "original_lang": "ja",
+    "original": "高岡瓶々",
+    "latin": "Binbin Takaoka",
+    "official": {
+      "en": "Binbin Takaoka"
+    },
+    "aliases": {
+      "ja": [
+        "たかおかびんびん"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1963",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B2%A1%E7%93%B6%E3%80%85",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%83%80%EC%B9%B4%EC%98%A4%EC%B9%B4_%EB%B9%88%EB%B9%88",
+    "en": "https://en.wikipedia.org/wiki/Binbin_Takaoka"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B2%A1%E7%93%B6%E3%80%85",
+      "title": "高岡瓶々",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

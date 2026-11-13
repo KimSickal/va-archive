@@ -1,0 +1,44 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "tou-den-na-ou",
+  "slug": "nao-fujita",
+  "name": {
+    "original_lang": "ja",
+    "original": "藤田奈央",
+    "latin": "Nao Fujita",
+    "official": {
+      "en": "Nao Fujita"
+    },
+    "aliases": {
+      "ja": [
+        "ふじたなお"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E8%97%A4%E7%94%B0%E5%A5%88%E5%A4%AE",
+    "en": "https://en.wikipedia.org/wiki/Nao_Fujita"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E8%97%A4%E7%94%B0%E5%A5%88%E5%A4%AE",
+      "title": "藤田奈央",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

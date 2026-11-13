@@ -1,0 +1,45 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sa-tou-gen",
+  "slug": "gen-sato",
+  "name": {
+    "original_lang": "ja",
+    "original": "佐藤元",
+    "latin": "Gen Sato",
+    "official": {
+      "en": "Gen Sato"
+    },
+    "aliases": {
+      "ja": [
+        "さとうげん"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1997",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E5%85%83_%28%E5%A3%B0%E5%84%AA%29",
+    "en": "https://en.wikipedia.org/wiki/Gen_Sat%C5%8D"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E5%85%83_%28%E5%A3%B0%E5%84%AA%29",
+      "title": "佐藤元 (声優)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

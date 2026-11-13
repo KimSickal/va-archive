@@ -1,0 +1,45 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "gyuu-san-mo",
+  "slug": "shigeru-ushiyama",
+  "name": {
+    "original_lang": "ja",
+    "original": "牛山茂",
+    "latin": "Shigeru Ushiyama",
+    "official": {
+      "en": "Shigeru Ushiyama"
+    },
+    "aliases": {
+      "ja": [
+        "うしやましげる"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1952",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%89%9B%E5%B1%B1%E8%8C%82",
+    "en": "https://en.wikipedia.org/wiki/Shigeru_Ushiyama"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%89%9B%E5%B1%B1%E8%8C%82",
+      "title": "牛山茂",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}
