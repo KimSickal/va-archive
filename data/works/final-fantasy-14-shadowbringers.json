@@ -795,10 +795,10 @@
           "role": "supporting",
           "note": {
             "original_lang": "ko",
-            "original": "출처에 확장팩 구분이 없어 일본어 데이터상 이 캐릭터가 처음 음성 출연하는 확장팩에만 기재",
+            "original": "출처에 확장팩 구분이 없어 일본어 데이터상 이 캐릭터가 처음 음성 출연하는 확장팩에 근거 출처를 기재; 이후 확장팩의 배역은 같은 성우로 추정(continued_cast)",
             "translations": {
-              "ja": "出典に拡張パッケージの区別がないため、日本語データでこのキャラクターが最初にボイス出演する拡張パッケージにのみ記載",
-              "en": "Source does not say which expansion; listed only under the first expansion where the character is voiced in the Japanese data"
+              "ja": "出典に拡張パッケージの区別がないため、日本語データでこのキャラクターが最初にボイス出演する拡張パッケージに出典を記載。以降の拡張パッケージの配役は同じ声優と推定（continued_cast）",
+              "en": "Source does not say which expansion; the source is cited under the first expansion where the character is voiced in the Japanese data, and later expansions assume the same actor (continued_cast)"
             },
             "translated": [
               "ja",
@@ -808,6 +808,326 @@
           "source_refs": [
             "s40"
           ]
+        },
+        {
+          "character": "gu-raha-tia",
+          "person": "min-seung-u",
+          "role": "main",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s39"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "emetoseruku",
+          "person": "sin-yong-u",
+          "role": "main",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "arubato",
+          "person": "gim-myeong-jun",
+          "role": "main",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s36"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "minfiria-uodo",
+          "person": "jeong-mi-suk",
+          "role": "supporting",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s42",
+            "s36"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "arufino-ruveyuru",
+          "person": "gim-yeong-seon",
+          "role": "main",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s43",
+            "s36"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "arize-ruveyuru",
+          "person": "an-yeong-mi",
+          "role": "main",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s44",
+            "s36"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "sankureddo-uotasu",
+          "person": "bak-seong-tae",
+          "role": "main",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s45",
+            "s36"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "ya-shutora-ruru",
+          "person": "gim-hyeon-sim",
+          "role": "main",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s36"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "urienje-ogyure",
+          "person": "gim-guk-jin",
+          "role": "main",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s36"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "tataru-taru",
+          "person": "gim-ha-yeong",
+          "role": "supporting",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s36"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "kururu-maia-barudeshion",
+          "person": "yun-a-yeong",
+          "role": "supporting",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s36"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "ida",
+          "person": "gim-ha-yeong",
+          "role": "minor",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s36"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "shido-nan-garondo",
+          "person": "gim-seung-jun",
+          "role": "minor",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s36"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "biggusu",
+          "person": "gim-so-hyeong",
+          "role": "minor",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s36"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "uejji",
+          "person": "gim-yeong-chan",
+          "role": "minor",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s46"
+          ],
+          "verification": "unverified",
+          "note": {
+            "original_lang": "ko",
+            "original": "출처 충돌: 한국어 위키백과 김영찬 문서는 웨지, 인벤 성우 정리는 김소형으로 기재 (신생 에오르제아 배역의 충돌이 그대로 이어짐)",
+            "translations": {
+              "ja": "出典の不一致：韓国語版Wikipedia（キム・ヨンチャン）はウェッジ役と記載、インベンの声優まとめはキム・ソヒョンと記載（新生エオルゼアの配役の不一致を引き継ぐ）",
+              "en": "Sources disagree: Korean Wikipedia (Kim Yeong-chan) lists Wedge; the Inven cast list gives Kim So-hyeong (carried over from the A Realm Reborn credit)"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          }
+        },
+        {
+          "character": "nanamo-uru-namo",
+          "person": "an-yeong-mi",
+          "role": "minor",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s44",
+            "s36"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "rauban-arudin",
+          "person": "choe-han",
+          "role": "minor",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s47",
+            "s36"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "kanu-e-senna",
+          "person": "bak-hui-eun",
+          "role": "minor",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s36"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "meruuibu-burufisuuin",
+          "person": "jeong-yu-mi",
+          "role": "minor",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s36"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "aimeriku-do-boreru",
+          "person": "gang-ho-cheol",
+          "role": "minor",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s48",
+            "s36"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "esutinian-varino",
+          "person": "gwon-seong-hyeok",
+          "role": "minor",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s36"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "ashien-eridibusu",
+          "person": "choe-seung-hun",
+          "role": "supporting",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s36"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "zenosu-ie-garuvasu",
+          "person": "nam-do-hyeong",
+          "role": "supporting",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s49",
+            "s36"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "varisu-zosu-garuvasu",
+          "person": "song-jun-seok",
+          "role": "minor",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s36"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "nero-toru-sukaeua",
+          "person": "gim-guk-jin",
+          "role": "minor",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s36"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "forudora-remu-rupusu",
+          "person": "im-yun-seon",
+          "role": "minor",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s36"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "buranherutsu",
+          "person": "so-jeong-hwan",
+          "role": "minor",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s36"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "ramimi",
+          "person": "jo-hyeon-jeong",
+          "role": "minor",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s36"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "ja-rumare",
+          "person": "gim-hyeon-sim",
+          "role": "minor",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s36"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "naiyuberu",
+          "person": "choe-jae-ho",
+          "role": "minor",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s36"
+          ],
+          "verification": "unverified"
         }
       ],
       "source_refs": [
@@ -1136,15 +1456,87 @@
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s41",
+      "url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%9A%A9%EC%9A%B0_%28%EC%84%B1%EC%9A%B0%29",
+      "title": "신용우 (성우) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s42",
+      "url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EB%AF%B8%EC%88%99",
+      "title": "정미숙 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s43",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%98%81%EC%84%A0_%28%EC%84%B1%EC%9A%B0%29",
+      "title": "김영선 (성우) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s44",
+      "url": "https://ko.wikipedia.org/wiki/%EC%95%88%EC%98%81%EB%AF%B8_%28%EC%84%B1%EC%9A%B0%29",
+      "title": "안영미 (성우) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s45",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B0%95%EC%84%B1%ED%83%9C",
+      "title": "박성태 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s46",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%98%81%EC%B0%AC_%28%EC%84%B1%EC%9A%B0%29",
+      "title": "김영찬 (성우) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s47",
+      "url": "https://ko.wikipedia.org/wiki/%EC%B5%9C%ED%95%9C",
+      "title": "최한 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s48",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B0%95%ED%98%B8%EC%B2%A0",
+      "title": "강호철 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s49",
+      "url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EB%8F%84%ED%98%95",
+      "title": "남도형 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
     }
   ],
   "meta": {
-    "researched_at": "2026-11-13",
+    "researched_at": "2026-11-14",
     "verification": {
       "status": "verified",
       "notes": "Patches 5.0-5.58 folded into this work. Scope: MSQ + patch MSQ only (5.0 role quests included in Shadowbringers). Alliance/normal raids, side stories, job/role quests (except 5.0), collabs and battle voices are deferred.",
       "verified_at": "2026-11-14"
     },
-    "skill_version": "0.5.1"
+    "skill_version": "0.7.0"
   }
 }

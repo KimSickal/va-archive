@@ -838,6 +838,99 @@
             "s26"
           ],
           "verification": "unverified"
+        },
+        {
+          "character": "erenviru",
+          "person": "gim-sin-u",
+          "role": "main",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s28"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "arufino-ruveyuru",
+          "person": "gim-yeong-seon",
+          "role": "main",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s29",
+            "s21"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "arize-ruveyuru",
+          "person": "an-yeong-mi",
+          "role": "main",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s30",
+            "s21"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "sankureddo-uotasu",
+          "person": "bak-seong-tae",
+          "role": "supporting",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s31",
+            "s21"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "ya-shutora-ruru",
+          "person": "gim-hyeon-sim",
+          "role": "supporting",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s21"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "urienje-ogyure",
+          "person": "gim-guk-jin",
+          "role": "supporting",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s21"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "gu-raha-tia",
+          "person": "min-seung-u",
+          "role": "supporting",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s26"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "esutinian-varino",
+          "person": "gwon-seong-hyeok",
+          "role": "supporting",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s21"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "kururu-maia-barudeshion",
+          "person": "yun-a-yeong",
+          "role": "supporting",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s21"
+          ],
+          "verification": "unverified"
         }
       ],
       "source_refs": [
@@ -1063,15 +1156,47 @@
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s28",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%8B%A0%EC%9A%B0_%28%EC%84%B1%EC%9A%B0%29",
+      "title": "김신우 (성우) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s29",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%98%81%EC%84%A0_%28%EC%84%B1%EC%9A%B0%29",
+      "title": "김영선 (성우) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s30",
+      "url": "https://ko.wikipedia.org/wiki/%EC%95%88%EC%98%81%EB%AF%B8_%28%EC%84%B1%EC%9A%B0%29",
+      "title": "안영미 (성우) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s31",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B0%95%EC%84%B1%ED%83%9C",
+      "title": "박성태 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
     }
   ],
   "meta": {
-    "researched_at": "2026-11-13",
+    "researched_at": "2026-11-14",
     "verification": {
       "status": "verified",
       "notes": "Patches 7.0-7.5 folded into this work. Scope: MSQ + patch MSQ only (5.0 role quests included in Shadowbringers). Alliance/normal raids, side stories, job/role quests (except 5.0), collabs and battle voices are deferred.",
       "verified_at": "2026-11-14"
     },
-    "skill_version": "0.5.1"
+    "skill_version": "0.7.0"
   }
 }

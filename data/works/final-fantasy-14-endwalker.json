@@ -692,10 +692,10 @@
           "role": "supporting",
           "note": {
             "original_lang": "ko",
-            "original": "출처에 확장팩 구분이 없어 일본어 데이터상 이 캐릭터가 처음 음성 출연하는 확장팩에만 기재",
+            "original": "출처에 확장팩 구분이 없어 일본어 데이터상 이 캐릭터가 처음 음성 출연하는 확장팩에 근거 출처를 기재; 이후 확장팩의 배역은 같은 성우로 추정(continued_cast)",
             "translations": {
-              "ja": "出典に拡張パッケージの区別がないため、日本語データでこのキャラクターが最初にボイス出演する拡張パッケージにのみ記載",
-              "en": "Source does not say which expansion; listed only under the first expansion where the character is voiced in the Japanese data"
+              "ja": "出典に拡張パッケージの区別がないため、日本語データでこのキャラクターが最初にボイス出演する拡張パッケージに出典を記載。以降の拡張パッケージの配役は同じ声優と推定（continued_cast）",
+              "en": "Source does not say which expansion; the source is cited under the first expansion where the character is voiced in the Japanese data, and later expansions assume the same actor (continued_cast)"
             },
             "translated": [
               "ja",
@@ -705,6 +705,252 @@
           "source_refs": [
             "s47"
           ]
+        },
+        {
+          "character": "arufino-ruveyuru",
+          "person": "gim-yeong-seon",
+          "role": "main",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s48",
+            "s42"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "arize-ruveyuru",
+          "person": "an-yeong-mi",
+          "role": "main",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s49",
+            "s42"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "sankureddo-uotasu",
+          "person": "bak-seong-tae",
+          "role": "main",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s50",
+            "s42"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "ya-shutora-ruru",
+          "person": "gim-hyeon-sim",
+          "role": "main",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s42"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "urienje-ogyure",
+          "person": "gim-guk-jin",
+          "role": "main",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s42"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "gu-raha-tia",
+          "person": "min-seung-u",
+          "role": "main",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s46"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "esutinian-varino",
+          "person": "gwon-seong-hyeok",
+          "role": "main",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s42"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "tataru-taru",
+          "person": "gim-ha-yeong",
+          "role": "supporting",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s42"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "kururu-maia-barudeshion",
+          "person": "yun-a-yeong",
+          "role": "supporting",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s42"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "ida",
+          "person": "gim-ha-yeong",
+          "role": "minor",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s42"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "shido-nan-garondo",
+          "person": "gim-seung-jun",
+          "role": "supporting",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s42"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "nanamo-uru-namo",
+          "person": "an-yeong-mi",
+          "role": "minor",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s49",
+            "s42"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "kanu-e-senna",
+          "person": "bak-hui-eun",
+          "role": "minor",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s42"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "arutoareru-do-forutan",
+          "person": "gim-myeong-jun",
+          "role": "minor",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s42"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "emaneran-do-forutan",
+          "person": "sim-gyu-hyeok",
+          "role": "minor",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s42"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "onorowa-banrarudowa",
+          "person": "bang-yeon-ji",
+          "role": "minor",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s42"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "haiderin",
+          "person": "son-jeong-a",
+          "role": "supporting",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s42"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "hyutorodaeusu",
+          "person": "i-gyeong-tae",
+          "role": "supporting",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s51"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "emetoseruku",
+          "person": "sin-yong-u",
+          "role": "supporting",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s52"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "ashien-rahaburea",
+          "person": "gim-yeong-chan",
+          "role": "supporting",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s53",
+            "s42"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "ashien-eridibusu",
+          "person": "choe-seung-hun",
+          "role": "minor",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s42"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "zenosu-ie-garuvasu",
+          "person": "nam-do-hyeong",
+          "role": "main",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s54",
+            "s42"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "rukia-go-yuniusu",
+          "person": "jo-hyeon-jeong",
+          "role": "supporting",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s42"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "gaiusu-van-baesaru",
+          "person": "si-yeong-jun",
+          "role": "supporting",
+          "assumption": "continued_cast",
+          "source_refs": [
+            "s42"
+          ],
+          "verification": "unverified"
         }
       ],
       "source_refs": [
@@ -1090,15 +1336,71 @@
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s48",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%98%81%EC%84%A0_%28%EC%84%B1%EC%9A%B0%29",
+      "title": "김영선 (성우) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s49",
+      "url": "https://ko.wikipedia.org/wiki/%EC%95%88%EC%98%81%EB%AF%B8_%28%EC%84%B1%EC%9A%B0%29",
+      "title": "안영미 (성우) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s50",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B0%95%EC%84%B1%ED%83%9C",
+      "title": "박성태 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s51",
+      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EA%B2%BD%ED%83%9C_%28%EC%84%B1%EC%9A%B0%29",
+      "title": "이경태 (성우) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s52",
+      "url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%9A%A9%EC%9A%B0_%28%EC%84%B1%EC%9A%B0%29",
+      "title": "신용우 (성우) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s53",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%98%81%EC%B0%AC_%28%EC%84%B1%EC%9A%B0%29",
+      "title": "김영찬 (성우) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s54",
+      "url": "https://ko.wikipedia.org/wiki/%EB%82%A8%EB%8F%84%ED%98%95",
+      "title": "남도형 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
     }
   ],
   "meta": {
-    "researched_at": "2026-11-13",
+    "researched_at": "2026-11-14",
     "verification": {
       "status": "verified",
       "notes": "Patches 6.0-6.58 folded into this work. Scope: MSQ + patch MSQ only (5.0 role quests included in Shadowbringers). Alliance/normal raids, side stories, job/role quests (except 5.0), collabs and battle voices are deferred.",
       "verified_at": "2026-11-14"
     },
-    "skill_version": "0.5.1"
+    "skill_version": "0.7.0"
   }
 }

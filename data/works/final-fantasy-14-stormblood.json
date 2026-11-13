@@ -911,10 +911,10 @@
           "role": "supporting",
           "note": {
             "original_lang": "ko",
-            "original": "출처에 확장팩 구분이 없어 일본어 데이터상 이 캐릭터가 처음 음성 출연하는 확장팩에만 기재",
+            "original": "출처에 확장팩 구분이 없어 일본어 데이터상 이 캐릭터가 처음 음성 출연하는 확장팩에 근거 출처를 기재; 이후 확장팩의 배역은 같은 성우로 추정(continued_cast)",
             "translations": {
-              "ja": "出典に拡張パッケージの区別がないため、日本語データでこのキャラクターが最初にボイス出演する拡張パッケージにのみ記載",
-              "en": "Source does not say which expansion; listed only under the first expansion where the character is voiced in the Japanese data"
+              "ja": "出典に拡張パッケージの区別がないため、日本語データでこのキャラクターが最初にボイス出演する拡張パッケージに出典を記載。以降の拡張パッケージの配役は同じ声優と推定（continued_cast）",
+              "en": "Source does not say which expansion; the source is cited under the first expansion where the character is voiced in the Japanese data, and later expansions assume the same actor (continued_cast)"
             },
             "translated": [
               "ja",
@@ -940,10 +940,10 @@
           "role": "minor",
           "note": {
             "original_lang": "ko",
-            "original": "출처에 확장팩 구분이 없어 일본어 데이터상 이 캐릭터가 처음 음성 출연하는 확장팩에만 기재",
+            "original": "출처에 확장팩 구분이 없어 일본어 데이터상 이 캐릭터가 처음 음성 출연하는 확장팩에 근거 출처를 기재; 이후 확장팩의 배역은 같은 성우로 추정(continued_cast)",
             "translations": {
-              "ja": "出典に拡張パッケージの区別がないため、日本語データでこのキャラクターが最初にボイス出演する拡張パッケージにのみ記載",
-              "en": "Source does not say which expansion; listed only under the first expansion where the character is voiced in the Japanese data"
+              "ja": "出典に拡張パッケージの区別がないため、日本語データでこのキャラクターが最初にボイス出演する拡張パッケージに出典を記載。以降の拡張パッケージの配役は同じ声優と推定（continued_cast）",
+              "en": "Source does not say which expansion; the source is cited under the first expansion where the character is voiced in the Japanese data, and later expansions assume the same actor (continued_cast)"
             },
             "translated": [
               "ja",
