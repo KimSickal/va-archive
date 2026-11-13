@@ -26,20 +26,27 @@
           "ko": "일본어 원판",
           "en": "Japanese original"
         },
-        "translated": ["ko", "en"]
+        "translated": [
+          "ko",
+          "en"
+        ]
       },
       "credits": [
         {
           "character": "yui",
           "person": "sei-ya-ki",
           "role": "main",
-          "source_refs": ["s1"]
+          "source_refs": [
+            "s1"
+          ]
         },
         {
-          "character": "master",
+          "character": "masuta",
           "person": "koku-taku-ren",
           "role": "supporting",
-          "source_refs": ["s1"]
+          "source_refs": [
+            "s1"
+          ]
         }
       ]
     },
@@ -54,14 +61,19 @@
           "ja": "韓国語吹替（라프텔）",
           "en": "Korean dub (라프텔)"
         },
-        "translated": ["ja", "en"]
+        "translated": [
+          "ja",
+          "en"
+        ]
       },
       "credits": [
         {
           "character": "yui",
           "person": "han-ji-u",
           "role": "main",
-          "source_refs": ["s1"]
+          "source_refs": [
+            "s1"
+          ]
         }
       ]
     }

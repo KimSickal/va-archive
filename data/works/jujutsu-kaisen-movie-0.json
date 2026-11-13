@@ -66,7 +66,7 @@
       "release_date": "2021-12-24",
       "credits": [
         {
-          "character": "yuta-okkotsu",
+          "character": "otsu-kotsu-yuu-ta",
           "person": "sho-hou-kei-bi",
           "role": "main",
           "source_refs": [
@@ -76,7 +76,7 @@
           ]
         },
         {
-          "character": "rika-orimoto",
+          "character": "ki-hon-ri-kou",
           "person": "ka-taku-kou-sai",
           "role": "main",
           "source_refs": [
@@ -86,7 +86,7 @@
           ]
         },
         {
-          "character": "maki-zenin",
+          "character": "zen-in-shin-ki",
           "person": "shou-shou-mi-ka-shi",
           "role": "main",
           "source_refs": [
@@ -96,7 +96,7 @@
           ]
         },
         {
-          "character": "toge-inumaki",
+          "character": "kou-kan-kyoku",
           "person": "dai-san-kou-ki",
           "role": "main",
           "source_refs": [
@@ -116,7 +116,7 @@
           ]
         },
         {
-          "character": "satoru-gojo",
+          "character": "go-jou-go",
           "person": "chuu-son-yuu-ichi",
           "role": "main",
           "source_refs": [
@@ -126,7 +126,7 @@
           ]
         },
         {
-          "character": "suguru-geto",
+          "character": "ka-yu-ketsu",
           "person": "ou-sei-kou-kou",
           "role": "main",
           "source_refs": [
@@ -136,7 +136,7 @@
           ]
         },
         {
-          "character": "masamichi-yaga",
+          "character": "ya-ga-sei-dou",
           "person": "koku-den-suu-shi",
           "role": "supporting",
           "source_refs": [
@@ -145,7 +145,7 @@
           ]
         },
         {
-          "character": "shoko-ieiri",
+          "character": "ka-nyuu-shou-shi",
           "person": "en-tou-ryou",
           "role": "supporting",
           "source_refs": [
@@ -154,7 +154,7 @@
           ]
         },
         {
-          "character": "kiyotaka-ijichi",
+          "character": "i-chi-chi-ketsu-kou",
           "person": "gan-den-kou-ou",
           "role": "supporting",
           "source_refs": [
@@ -163,7 +163,7 @@
           ]
         },
         {
-          "character": "atsuya-kusakabe",
+          "character": "nichi-ka-bu-toku-ya",
           "person": "san-boku-shin-ichi-rou",
           "role": "supporting",
           "source_refs": [
@@ -181,7 +181,7 @@
           ]
         },
         {
-          "character": "kento-nanami",
+          "character": "shichi-kai-ken-jin",
           "person": "shin-den-ken-ji-rou",
           "role": "minor",
           "source_refs": [
@@ -190,7 +190,7 @@
           ]
         },
         {
-          "character": "takuma-ino",
+          "character": "cho-ya-taku-shin",
           "person": "rin-yuu",
           "role": "minor",
           "source_refs": [
@@ -199,7 +199,7 @@
           ]
         },
         {
-          "character": "akari-nitta",
+          "character": "shin-den-mei",
           "person": "toku-sei-sei-kuu",
           "role": "minor",
           "source_refs": [
@@ -208,7 +208,7 @@
           ]
         },
         {
-          "character": "aoi-todo",
+          "character": "tou-dou-ki",
           "person": "boku-son-bou",
           "role": "minor",
           "source_refs": [
@@ -217,7 +217,7 @@
           ]
         },
         {
-          "character": "mai-zenin",
+          "character": "zen-in-shin-i",
           "person": "sei-jou-ma-ri-na",
           "role": "minor",
           "source_refs": [
@@ -226,7 +226,7 @@
           ]
         },
         {
-          "character": "noritoshi-kamo",
+          "character": "ka-mo-ken-ki",
           "person": "nichi-ya-sou",
           "role": "minor",
           "source_refs": [
@@ -235,7 +235,7 @@
           ]
         },
         {
-          "character": "momo-nishimiya",
+          "character": "sei-kyuu-tou",
           "person": "tei-kyuu-ri-kei",
           "role": "minor",
           "source_refs": [
@@ -244,7 +244,7 @@
           ]
         },
         {
-          "character": "kasumi-miwa",
+          "character": "san-rin-ka",
           "person": "seki-ki-sen-ka",
           "role": "minor",
           "source_refs": [
@@ -253,7 +253,7 @@
           ]
         },
         {
-          "character": "kokichi-muta",
+          "character": "yo-kou-kichi",
           "person": "shou-kou-tei-shou",
           "role": "minor",
           "source_refs": [
@@ -262,7 +262,7 @@
           ]
         },
         {
-          "character": "miguel-oduol",
+          "character": "migeru-oduoru",
           "person": "san-ji-kou-ichi",
           "role": "supporting",
           "source_refs": [
@@ -272,7 +272,7 @@
           ]
         },
         {
-          "character": "larue",
+          "character": "raru",
           "person": "soku-sui-shou",
           "role": "supporting",
           "source_refs": [
@@ -282,7 +282,7 @@
           ]
         },
         {
-          "character": "manami-suda",
+          "character": "kan-den-shin-na-bi",
           "person": "i-tou-sei",
           "role": "supporting",
           "source_refs": [
@@ -292,7 +292,7 @@
           ]
         },
         {
-          "character": "nanako-hasaba",
+          "character": "ka-jou-sai-shi",
           "person": "shou-den-satsu-sui",
           "role": "supporting",
           "source_refs": [
@@ -301,7 +301,7 @@
           ]
         },
         {
-          "character": "mimiko-hasaba",
+          "character": "ka-jou-bi-shi",
           "person": "shou-den-ri-go",
           "role": "supporting",
           "source_refs": [
@@ -310,7 +310,7 @@
           ]
         },
         {
-          "character": "maki-mai-mother",
+          "character": "shin-ki-to-shin-i-no-bo",
           "person": "nichi-ya-yuu-ri-ka",
           "role": "minor",
           "source_refs": [
@@ -318,7 +318,7 @@
           ]
         },
         {
-          "character": "okkotsu-classmate-movie0",
+          "character": "otsu-kotsu-no-dou-kyuu-sei",
           "person": "san-ka-taiki",
           "role": "minor",
           "source_refs": [
@@ -326,7 +326,7 @@
           ]
         },
         {
-          "character": "kanamori",
+          "character": "kin-shin",
           "person": "kou-kou-hei",
           "role": "minor",
           "source_refs": [
@@ -334,7 +334,7 @@
           ]
         },
         {
-          "character": "saito-daughter-movie0",
+          "character": "sei-tou-jou",
           "person": "choku-den-ki-na",
           "role": "minor",
           "source_refs": [
@@ -342,7 +342,7 @@
           ]
         },
         {
-          "character": "saito-mother-movie0",
+          "character": "sei-tou-bo",
           "person": "tou-sei-sei-shi",
           "role": "minor",
           "source_refs": [
@@ -350,7 +350,7 @@
           ]
         },
         {
-          "character": "sorcerer-movie0",
+          "character": "ju-jutsu-shi",
           "person": "i-den-sai-shin",
           "role": "minor",
           "source_refs": [
@@ -358,7 +358,7 @@
           ]
         },
         {
-          "character": "sorcerer-movie0",
+          "character": "ju-jutsu-shi",
           "person": "dai-den-shuu-ichi",
           "role": "minor",
           "source_refs": [
@@ -366,7 +366,7 @@
           ]
         },
         {
-          "character": "sorcerer-movie0",
+          "character": "ju-jutsu-shi",
           "person": "den-sho-you-kou",
           "role": "minor",
           "source_refs": [
@@ -374,7 +374,7 @@
           ]
         },
         {
-          "character": "sorcerer-movie0",
+          "character": "ju-jutsu-shi",
           "person": "tou-sei-jun",
           "role": "minor",
           "source_refs": [
@@ -382,7 +382,7 @@
           ]
         },
         {
-          "character": "sorcerer-movie0",
+          "character": "ju-jutsu-shi",
           "person": "tou-shou-hei",
           "role": "minor",
           "source_refs": [
@@ -390,7 +390,7 @@
           ]
         },
         {
-          "character": "headquarters-movie0",
+          "character": "sou-kan-bu-2",
           "person": "kichi-fu-ei-ji",
           "role": "minor",
           "source_refs": [
@@ -398,7 +398,7 @@
           ]
         },
         {
-          "character": "headquarters-movie0",
+          "character": "sou-kan-bu-2",
           "person": "kou-sei-shuu",
           "role": "minor",
           "source_refs": [
@@ -406,7 +406,7 @@
           ]
         },
         {
-          "character": "headquarters-movie0",
+          "character": "sou-kan-bu-2",
           "person": "san-hon-kou",
           "role": "minor",
           "source_refs": [
@@ -414,7 +414,7 @@
           ]
         },
         {
-          "character": "passerby-movie0",
+          "character": "tsuu-kou-jin",
           "person": "sei-shi-jou-jun",
           "role": "minor",
           "source_refs": [
@@ -422,7 +422,7 @@
           ]
         },
         {
-          "character": "passerby-movie0",
+          "character": "tsuu-kou-jin",
           "person": "tai-sei-kou-yuu",
           "role": "minor",
           "source_refs": [
@@ -430,7 +430,7 @@
           ]
         },
         {
-          "character": "passerby-movie0",
+          "character": "tsuu-kou-jin",
           "person": "ya-rai-iku-ni",
           "role": "minor",
           "source_refs": [
@@ -438,7 +438,7 @@
           ]
         },
         {
-          "character": "passerby-movie0",
+          "character": "tsuu-kou-jin",
           "person": "kan-kyuu-kou-kou",
           "role": "minor",
           "source_refs": [
@@ -446,7 +446,7 @@
           ]
         },
         {
-          "character": "passerby-movie0",
+          "character": "tsuu-kou-jin",
           "person": "a-bu-sai-teki-shi",
           "role": "minor",
           "source_refs": [

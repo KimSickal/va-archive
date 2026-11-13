@@ -56,7 +56,7 @@
       "release_date": "2023-08-31",
       "credits": [
         {
-          "character": "yuji-itadori",
+          "character": "ko-jou-yuu-jin",
           "person": "ka-boku-shun-mi",
           "role": "main",
           "source_refs": [
@@ -66,7 +66,7 @@
           ]
         },
         {
-          "character": "megumi-fushiguro",
+          "character": "fuku-koku-kei",
           "person": "dai-den-yuu-ba",
           "role": "main",
           "source_refs": [
@@ -76,7 +76,7 @@
           ]
         },
         {
-          "character": "nobara-kugisaki",
+          "character": "tei-ki-ya-shoku-bi",
           "person": "rai-ko-ma-sa-bi",
           "role": "main",
           "source_refs": [
@@ -86,7 +86,7 @@
           ]
         },
         {
-          "character": "satoru-gojo",
+          "character": "go-jou-go",
           "person": "chuu-son-yuu-ichi",
           "role": "main",
           "source_refs": [
@@ -96,7 +96,7 @@
           ]
         },
         {
-          "character": "satoru-gojo",
+          "character": "go-jou-go",
           "person": "i-rai-matsu-chi-ya",
           "role": "minor",
           "part": "young",
@@ -107,7 +107,7 @@
           ]
         },
         {
-          "character": "ryomen-sukuna",
+          "character": "ryou-men-shuku-da",
           "person": "shu-hou-bu-jun-ichi",
           "role": "main",
           "source_refs": [
@@ -117,7 +117,7 @@
           ]
         },
         {
-          "character": "suguru-geto",
+          "character": "ka-yu-ketsu",
           "person": "ou-sei-kou-kou",
           "role": "supporting",
           "note": {
@@ -139,7 +139,7 @@
           ]
         },
         {
-          "character": "shoko-ieiri",
+          "character": "ka-nyuu-shou-shi",
           "person": "en-tou-ryou",
           "role": "supporting",
           "source_refs": [
@@ -149,7 +149,7 @@
           ]
         },
         {
-          "character": "dagon",
+          "character": "da-kon",
           "person": "en-tou-ryou",
           "role": "minor",
           "part": "young",
@@ -158,7 +158,7 @@
           ]
         },
         {
-          "character": "mahito",
+          "character": "shin-jin",
           "person": "tou-ki-shin-chou",
           "role": "supporting",
           "source_refs": [
@@ -168,7 +168,7 @@
           ]
         },
         {
-          "character": "kento-nanami",
+          "character": "shichi-kai-ken-jin",
           "person": "shin-den-ken-ji-rou",
           "role": "supporting",
           "source_refs": [
@@ -178,7 +178,7 @@
           ]
         },
         {
-          "character": "jogo",
+          "character": "rou-ko",
           "person": "sen-you-han",
           "role": "supporting",
           "source_refs": [
@@ -188,7 +188,7 @@
           ]
         },
         {
-          "character": "wasuke-itadori",
+          "character": "ko-jou-i-jo",
           "person": "sen-you-han",
           "role": "minor",
           "source_refs": [
@@ -197,7 +197,7 @@
           ]
         },
         {
-          "character": "dagon",
+          "character": "da-kon",
           "person": "san-taku-ken-ta",
           "role": "supporting",
           "source_refs": [
@@ -205,7 +205,7 @@
           ]
         },
         {
-          "character": "hanami",
+          "character": "ka-gyo",
           "person": "den-chuu-ton-shi",
           "role": "supporting",
           "source_refs": [
@@ -215,7 +215,7 @@
           ]
         },
         {
-          "character": "choso",
+          "character": "chou-shou",
           "person": "rou-sen-tai-fu",
           "role": "supporting",
           "source_refs": [
@@ -225,7 +225,7 @@
           ]
         },
         {
-          "character": "kechizu",
+          "character": "ketsu-to",
           "person": "san-kou-shou-hei",
           "role": "minor",
           "source_refs": [
@@ -234,19 +234,16 @@
           ]
         },
         {
-          "character": "uraume",
+          "character": "ri-bai",
           "person": "sai-ga-mitsuki",
           "role": "supporting",
-          "episodes": {
-            "from": 5
-          },
           "source_refs": [
             "s4",
             "s19"
           ]
         },
         {
-          "character": "haruta-shigemo",
+          "character": "chou-men-shun-ta",
           "person": "u-ta-ya-shou",
           "role": "supporting",
           "source_refs": [
@@ -255,7 +252,7 @@
           ]
         },
         {
-          "character": "kiyotaka-ijichi",
+          "character": "i-chi-chi-ketsu-kou",
           "person": "gan-den-kou-ou",
           "role": "supporting",
           "source_refs": [
@@ -265,19 +262,16 @@
           ]
         },
         {
-          "character": "atsuya-kusakabe",
+          "character": "nichi-ka-bu-toku-ya",
           "person": "san-boku-shin-ichi-rou",
           "role": "supporting",
-          "episodes": {
-            "from": 2
-          },
           "source_refs": [
             "s4",
             "s22"
           ]
         },
         {
-          "character": "takuma-ino",
+          "character": "cho-ya-taku-shin",
           "person": "rin-yuu",
           "role": "supporting",
           "source_refs": [
@@ -286,7 +280,7 @@
           ]
         },
         {
-          "character": "akari-nitta",
+          "character": "shin-den-mei",
           "person": "toku-sei-sei-kuu",
           "role": "supporting",
           "source_refs": [
@@ -295,12 +289,9 @@
           ]
         },
         {
-          "character": "arata-nitta",
+          "character": "shin-den-shin",
           "person": "sen-ri-ryou-ta",
           "role": "supporting",
-          "episodes": {
-            "from": 15
-          },
           "source_refs": [
             "s4",
             "s25"
@@ -329,12 +320,9 @@
           ]
         },
         {
-          "character": "ui-ui",
+          "character": "yuu-yuu",
           "person": "san-hei-yuu-fu-shi",
           "role": "supporting",
-          "episodes": {
-            "from": 3
-          },
           "source_refs": [
             "s1",
             "s4",
@@ -342,7 +330,7 @@
           ]
         },
         {
-          "character": "naobito-zenin",
+          "character": "zen-in-choku-hi-jin",
           "person": "chuu-den-jou-ji",
           "role": "supporting",
           "source_refs": [
@@ -351,7 +339,7 @@
           ]
         },
         {
-          "character": "maki-zenin",
+          "character": "zen-in-shin-ki",
           "person": "shou-shou-mi-ka-shi",
           "role": "supporting",
           "source_refs": [
@@ -361,7 +349,7 @@
           ]
         },
         {
-          "character": "mai-zenin",
+          "character": "zen-in-shin-i",
           "person": "sei-jou-ma-ri-na",
           "role": "supporting",
           "source_refs": [
@@ -371,7 +359,7 @@
           ]
         },
         {
-          "character": "toge-inumaki",
+          "character": "kou-kan-kyoku",
           "person": "dai-san-kou-ki",
           "role": "supporting",
           "source_refs": [
@@ -391,7 +379,7 @@
           ]
         },
         {
-          "character": "yoshinobu-gakuganji",
+          "character": "gaku-gan-ji-ka-shin",
           "person": "baku-jin",
           "role": "supporting",
           "source_refs": [
@@ -401,7 +389,7 @@
           ]
         },
         {
-          "character": "aoi-todo",
+          "character": "tou-dou-ki",
           "person": "boku-son-bou",
           "role": "supporting",
           "source_refs": [
@@ -411,7 +399,7 @@
           ]
         },
         {
-          "character": "noritoshi-kamo",
+          "character": "ka-mo-ken-ki",
           "person": "nichi-ya-sou",
           "role": "supporting",
           "source_refs": [
@@ -420,7 +408,7 @@
           ]
         },
         {
-          "character": "momo-nishimiya",
+          "character": "sei-kyuu-tou",
           "person": "tei-kyuu-ri-kei",
           "role": "supporting",
           "source_refs": [
@@ -430,7 +418,7 @@
           ]
         },
         {
-          "character": "kasumi-miwa",
+          "character": "san-rin-ka",
           "person": "seki-ki-sen-ka",
           "role": "supporting",
           "source_refs": [
@@ -440,7 +428,7 @@
           ]
         },
         {
-          "character": "kokichi-muta",
+          "character": "yo-kou-kichi",
           "person": "shou-kou-tei-shou",
           "role": "supporting",
           "source_refs": [
@@ -450,7 +438,7 @@
           ]
         },
         {
-          "character": "toji-fushiguro",
+          "character": "fuku-koku-shin-ji",
           "person": "shi-an-bu-jin",
           "role": "supporting",
           "note": {
@@ -472,7 +460,7 @@
           ]
         },
         {
-          "character": "ogami-grandson",
+          "character": "ogami-ba-no-son",
           "person": "shi-an-bu-jin",
           "role": "minor",
           "source_refs": [
@@ -480,7 +468,7 @@
           ]
         },
         {
-          "character": "ogami-grandson",
+          "character": "ogami-ba-no-son",
           "person": "men-kan-ryuu-shi-kai",
           "role": "minor",
           "source_refs": [
@@ -489,7 +477,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "men-kan-ryuu-shi-kai",
           "role": "minor",
           "source_refs": [
@@ -497,7 +485,7 @@
           ]
         },
         {
-          "character": "ogami",
+          "character": "ogami-ba",
           "person": "tou-taku-jun",
           "role": "supporting",
           "source_refs": [
@@ -506,7 +494,7 @@
           ]
         },
         {
-          "character": "jiro-awasaka",
+          "character": "zoku-han-ni-ryou",
           "person": "kou-den-minoru",
           "role": "supporting",
           "source_refs": [
@@ -515,7 +503,7 @@
           ]
         },
         {
-          "character": "locust-guy",
+          "character": "kou-guy",
           "person": "kanuka-kou-mei",
           "role": "supporting",
           "source_refs": [
@@ -524,7 +512,7 @@
           ]
         },
         {
-          "character": "niji-ebina",
+          "character": "ebi-mei-jin-ji",
           "person": "kin-tou-kou-toku",
           "role": "minor",
           "source_refs": [
@@ -533,7 +521,7 @@
           ]
         },
         {
-          "character": "mahoraga",
+          "character": "hachi-aku-ken-i-kai-shin-shou-ma-kyo-ra",
           "person": "chuu-mu-ki-kou",
           "role": "minor",
           "source_refs": [
@@ -541,7 +529,7 @@
           ]
         },
         {
-          "character": "earthworm-man",
+          "character": "mimizu-jin-kan",
           "person": "kou-sei-katsunori",
           "role": "minor",
           "source_refs": [
@@ -549,7 +537,7 @@
           ]
         },
         {
-          "character": "yuko-ozawa",
+          "character": "shou-taku-yuu-shi",
           "person": "ai-bi",
           "role": "minor",
           "source_refs": [
@@ -559,7 +547,7 @@
           ]
         },
         {
-          "character": "saori",
+          "character": "sa-shoku-chan",
           "person": "matsu-hei-ri-kei",
           "role": "minor",
           "source_refs": [
@@ -577,7 +565,7 @@
           ]
         },
         {
-          "character": "fumi-father",
+          "character": "fumino-fu",
           "person": "kan-kou-shi",
           "role": "minor",
           "source_refs": [
@@ -585,7 +573,7 @@
           ]
         },
         {
-          "character": "saori-senpai",
+          "character": "sa-shoku-no-sen-hai",
           "person": "dai-san-seki-jitsu",
           "role": "minor",
           "source_refs": [
@@ -593,7 +581,7 @@
           ]
         },
         {
-          "character": "takada-chan",
+          "character": "kou-den-chan",
           "person": "koku-taku-tomoyo",
           "role": "minor",
           "source_refs": [
@@ -602,7 +590,7 @@
           ]
         },
         {
-          "character": "junpei-yoshino",
+          "character": "kichi-ya-jun-hei",
           "person": "san-koku-shou-sei",
           "role": "minor",
           "source_refs": [
@@ -612,7 +600,7 @@
           ]
         },
         {
-          "character": "toshihisa-negi",
+          "character": "dei-boku-ri-kyuu",
           "person": "sei-jou-gou",
           "role": "minor",
           "source_refs": [
@@ -621,7 +609,7 @@
           ]
         },
         {
-          "character": "negi-faction-member",
+          "character": "dei-boku-no-ichi-ha",
           "person": "han-tai-to",
           "role": "minor",
           "source_refs": [
@@ -629,7 +617,7 @@
           ]
         },
         {
-          "character": "manami-suda",
+          "character": "kan-den-shin-na-bi",
           "person": "i-tou-sei",
           "role": "minor",
           "source_refs": [
@@ -638,7 +626,7 @@
           ]
         },
         {
-          "character": "larue",
+          "character": "raru",
           "person": "soku-sui-shou",
           "role": "minor",
           "source_refs": [
@@ -647,7 +635,7 @@
           ]
         },
         {
-          "character": "megumi-mother",
+          "character": "fuku-koku-kei-no-bo",
           "person": "mei-chou-ka-shoku",
           "role": "minor",
           "source_refs": [
@@ -656,7 +644,7 @@
           ]
         },
         {
-          "character": "father-shibuya",
+          "character": "fu-shin",
           "person": "dai-son-ken-ji",
           "role": "minor",
           "source_refs": [
@@ -664,7 +652,7 @@
           ]
         },
         {
-          "character": "daughter-shibuya",
+          "character": "jou",
           "person": "sei-jou-hono-ka",
           "role": "minor",
           "source_refs": [
@@ -672,7 +660,7 @@
           ]
         },
         {
-          "character": "human-form-curse",
+          "character": "jin-no-shi-no-ju-rei",
           "person": "kou-den-kou-shi",
           "role": "minor",
           "source_refs": [
@@ -680,7 +668,7 @@
           ]
         },
         {
-          "character": "girl-shibuya",
+          "character": "shou-jo",
           "person": "shin-ya-ayumi",
           "role": "minor",
           "source_refs": [
@@ -688,7 +676,7 @@
           ]
         },
         {
-          "character": "yuta-okkotsu",
+          "character": "otsu-kotsu-yuu-ta",
           "person": "sho-hou-kei-bi",
           "role": "minor",
           "source_refs": [
@@ -698,7 +686,7 @@
           ]
         },
         {
-          "character": "narrator-shibuya",
+          "character": "nareshon",
           "person": "sakaki-gen-ryou-shi",
           "role": "minor",
           "source_refs": [
@@ -706,7 +694,7 @@
           ]
         },
         {
-          "character": "headquarters-shibuya",
+          "character": "sou-kan-bu",
           "person": "go-ou-shi-rou",
           "role": "minor",
           "source_refs": [
@@ -714,7 +702,7 @@
           ]
         },
         {
-          "character": "headquarters-shibuya",
+          "character": "sou-kan-bu",
           "person": "kichi-fu-ei-ji",
           "role": "minor",
           "source_refs": [
@@ -722,7 +710,7 @@
           ]
         },
         {
-          "character": "announcer-shibuya",
+          "character": "anaunsa-2",
           "person": "jaku-rin-yuu",
           "role": "minor",
           "source_refs": [
@@ -730,7 +718,7 @@
           ]
         },
         {
-          "character": "cameraman-shibuya",
+          "character": "kameraman",
           "person": "kou-ya-ken-ta-rou",
           "role": "minor",
           "source_refs": [
@@ -738,7 +726,7 @@
           ]
         },
         {
-          "character": "mechamaru-onboard-voice",
+          "character": "meka-gan-ki-dai-on-sei",
           "person": "kutsu-rou-sa-ya",
           "role": "minor",
           "source_refs": [
@@ -746,7 +734,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "kutsu-rou-sa-ya",
           "role": "minor",
           "source_refs": [
@@ -754,7 +742,7 @@
           ]
         },
         {
-          "character": "reporter-shibuya",
+          "character": "ripota",
           "person": "kutsu-rou-sa-ya",
           "role": "minor",
           "source_refs": [
@@ -762,7 +750,7 @@
           ]
         },
         {
-          "character": "young-person-shibuya",
+          "character": "jaku-sha",
           "person": "shou-sou-mi-yuu",
           "role": "minor",
           "source_refs": [
@@ -770,7 +758,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "shou-sou-mi-yuu",
           "role": "minor",
           "source_refs": [
@@ -778,7 +766,7 @@
           ]
         },
         {
-          "character": "young-person-shibuya",
+          "character": "jaku-sha",
           "person": "ki-san-yuu-ji",
           "role": "minor",
           "source_refs": [
@@ -786,7 +774,7 @@
           ]
         },
         {
-          "character": "young-person-shibuya",
+          "character": "jaku-sha",
           "person": "bu-den-ta-ichi",
           "role": "minor",
           "source_refs": [
@@ -794,7 +782,7 @@
           ]
         },
         {
-          "character": "young-person-shibuya",
+          "character": "jaku-sha",
           "person": "taku-jou-sen-shun",
           "role": "minor",
           "source_refs": [
@@ -802,7 +790,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "taku-jou-sen-shun",
           "role": "minor",
           "source_refs": [
@@ -810,7 +798,7 @@
           ]
         },
         {
-          "character": "young-person-shibuya",
+          "character": "jaku-sha",
           "person": "etsu-go-oku-kosuke",
           "role": "minor",
           "source_refs": [
@@ -818,7 +806,7 @@
           ]
         },
         {
-          "character": "young-person-shibuya",
+          "character": "jaku-sha",
           "person": "setsu-sei-ayumi",
           "role": "minor",
           "source_refs": [
@@ -826,7 +814,7 @@
           ]
         },
         {
-          "character": "transfigured-human-shibuya",
+          "character": "kai-zou-jin-kan-2",
           "person": "setsu-sei-ayumi",
           "role": "minor",
           "source_refs": [
@@ -834,7 +822,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "setsu-sei-ayumi",
           "role": "minor",
           "source_refs": [
@@ -842,7 +830,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "yuu-koku-kai-rei",
           "role": "minor",
           "source_refs": [
@@ -850,7 +838,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "hin-kou-ryou-dai",
           "role": "minor",
           "source_refs": [
@@ -858,7 +846,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "sa-kyuu-kan-gen-ki",
           "role": "minor",
           "source_refs": [
@@ -866,7 +854,7 @@
           ]
         },
         {
-          "character": "transfigured-human-shibuya",
+          "character": "kai-zou-jin-kan-2",
           "person": "sa-kyuu-kan-gen-ki",
           "role": "minor",
           "source_refs": [
@@ -874,7 +862,7 @@
           ]
         },
         {
-          "character": "government-official-shibuya",
+          "character": "kan-kou-chou-shoku-in",
           "person": "sa-kyuu-kan-gen-ki",
           "role": "minor",
           "source_refs": [
@@ -882,7 +870,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "wa-yuu-ki",
           "role": "minor",
           "source_refs": [
@@ -890,7 +878,7 @@
           ]
         },
         {
-          "character": "government-official-shibuya",
+          "character": "kan-kou-chou-shoku-in",
           "person": "wa-yuu-ki",
           "role": "minor",
           "source_refs": [
@@ -898,7 +886,7 @@
           ]
         },
         {
-          "character": "government-official-shibuya",
+          "character": "kan-kou-chou-shoku-in",
           "person": "itousatoru",
           "role": "minor",
           "source_refs": [
@@ -906,7 +894,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "itousatoru",
           "role": "minor",
           "source_refs": [
@@ -914,7 +902,7 @@
           ]
         },
         {
-          "character": "government-official-shibuya",
+          "character": "kan-kou-chou-shoku-in",
           "person": "san-hei-yuu-ju",
           "role": "minor",
           "source_refs": [
@@ -922,7 +910,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "san-hei-yuu-ju",
           "role": "minor",
           "source_refs": [
@@ -930,7 +918,7 @@
           ]
         },
         {
-          "character": "government-official-shibuya",
+          "character": "kan-kou-chou-shoku-in",
           "person": "sui-shin-chiko",
           "role": "minor",
           "source_refs": [
@@ -938,7 +926,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "sui-shin-chiko",
           "role": "minor",
           "source_refs": [
@@ -946,7 +934,7 @@
           ]
         },
         {
-          "character": "government-official-shibuya",
+          "character": "kan-kou-chou-shoku-in",
           "person": "kou-kyou-shin-ya",
           "role": "minor",
           "source_refs": [
@@ -954,7 +942,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "kou-kyou-shin-ya",
           "role": "minor",
           "source_refs": [
@@ -962,7 +950,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "san-ka-taiki",
           "role": "minor",
           "source_refs": [
@@ -970,7 +958,7 @@
           ]
         },
         {
-          "character": "government-official-shibuya",
+          "character": "kan-kou-chou-shoku-in",
           "person": "san-ka-taiki",
           "role": "minor",
           "source_refs": [
@@ -978,7 +966,7 @@
           ]
         },
         {
-          "character": "hoso-gami",
+          "character": "hou-sou-shin",
           "person": "son-sei-yuu-ji",
           "role": "minor",
           "source_refs": [
@@ -986,7 +974,7 @@
           ]
         },
         {
-          "character": "transfigured-human-shibuya",
+          "character": "kai-zou-jin-kan-2",
           "person": "sei-shi-jou-jun",
           "role": "minor",
           "source_refs": [
@@ -994,7 +982,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "sei-shi-jou-jun",
           "role": "minor",
           "source_refs": [
@@ -1002,7 +990,7 @@
           ]
         },
         {
-          "character": "transfigured-human-shibuya",
+          "character": "kai-zou-jin-kan-2",
           "person": "kou-son-mei-kou",
           "role": "minor",
           "source_refs": [
@@ -1010,7 +998,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "kou-son-mei-kou",
           "role": "minor",
           "source_refs": [
@@ -1018,7 +1006,7 @@
           ]
         },
         {
-          "character": "transfigured-human-shibuya",
+          "character": "kai-zou-jin-kan-2",
           "person": "shin-sou-ken-ta",
           "role": "minor",
           "source_refs": [
@@ -1026,7 +1014,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "shin-sou-ken-ta",
           "role": "minor",
           "source_refs": [
@@ -1034,7 +1022,7 @@
           ]
         },
         {
-          "character": "transfigured-human-shibuya",
+          "character": "kai-zou-jin-kan-2",
           "person": "ka-ya-matsu-chi",
           "role": "minor",
           "source_refs": [
@@ -1042,7 +1030,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "ka-ya-matsu-chi",
           "role": "minor",
           "source_refs": [
@@ -1050,7 +1038,7 @@
           ]
         },
         {
-          "character": "transfigured-human-shibuya",
+          "character": "kai-zou-jin-kan-2",
           "person": "hin-den-you-hei",
           "role": "minor",
           "source_refs": [
@@ -1058,7 +1046,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "hin-den-you-hei",
           "role": "minor",
           "source_refs": [
@@ -1066,7 +1054,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "den-chuu-da-jitsu",
           "role": "minor",
           "source_refs": [
@@ -1074,7 +1062,7 @@
           ]
         },
         {
-          "character": "transfigured-human-shibuya",
+          "character": "kai-zou-jin-kan-2",
           "person": "den-chuu-da-jitsu",
           "role": "minor",
           "source_refs": [
@@ -1082,7 +1070,7 @@
           ]
         },
         {
-          "character": "station-announcement-shibuya",
+          "character": "eki-noanaunsu",
           "person": "haku-koku-tai-kai",
           "role": "minor",
           "source_refs": [
@@ -1090,7 +1078,7 @@
           ]
         },
         {
-          "character": "transfigured-human-shibuya",
+          "character": "kai-zou-jin-kan-2",
           "person": "haku-koku-tai-kai",
           "role": "minor",
           "source_refs": [
@@ -1098,7 +1086,7 @@
           ]
         },
         {
-          "character": "actor-shibuya",
+          "character": "hai-yuu",
           "person": "ibu-yuu-ri-an",
           "role": "minor",
           "source_refs": [
@@ -1106,7 +1094,7 @@
           ]
         },
         {
-          "character": "actor-shibuya",
+          "character": "hai-yuu",
           "person": "seki-han-kyuu-shi",
           "role": "minor",
           "source_refs": [
@@ -1114,7 +1102,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "shin-boku-shun-ichi",
           "role": "minor",
           "source_refs": [
@@ -1122,7 +1110,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "jou-sei-tetsu-hei",
           "role": "minor",
           "source_refs": [
@@ -1130,7 +1118,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "tai-haku-ki-ki",
           "role": "minor",
           "source_refs": [
@@ -1138,7 +1126,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "an-den-riku-shi",
           "role": "minor",
           "source_refs": [
@@ -1146,7 +1134,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "sei-yuu-ju",
           "role": "minor",
           "source_refs": [
@@ -1154,7 +1142,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "getsu-jou-nichi-ka",
           "role": "minor",
           "source_refs": [
@@ -1162,7 +1150,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "shou-kou-you-hei",
           "role": "minor",
           "source_refs": [
@@ -1170,7 +1158,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "shou-hon-sa-ra",
           "role": "minor",
           "source_refs": [
@@ -1178,7 +1166,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "kou-tou-kou-sai",
           "role": "minor",
           "source_refs": [
@@ -1186,7 +1174,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "bon-shi-gen-kou",
           "role": "minor",
           "source_refs": [
@@ -1194,7 +1182,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "shaku-shu-yuu-ki",
           "role": "minor",
           "source_refs": [
@@ -1202,7 +1190,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "ya-sen-ga-shi",
           "role": "minor",
           "source_refs": [
@@ -1210,7 +1198,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "ren-sou-yuu-da",
           "role": "minor",
           "source_refs": [
@@ -1218,7 +1206,7 @@
           ]
         },
         {
-          "character": "civilian-shibuya",
+          "character": "ichi-han-jin",
           "person": "koku-boku-you-jin",
           "role": "minor",
           "source_refs": [
@@ -1226,7 +1214,7 @@
           ]
         },
         {
-          "character": "student-shibuya",
+          "character": "sei-to-3",
           "person": "kou-rai-yuu-ya",
           "role": "minor",
           "source_refs": [
@@ -1234,7 +1222,7 @@
           ]
         },
         {
-          "character": "student-shibuya",
+          "character": "sei-to-3",
           "person": "shin-ya-taku-jitsu",
           "role": "minor",
           "source_refs": [
@@ -1242,7 +1230,7 @@
           ]
         },
         {
-          "character": "nanako-hasaba",
+          "character": "ka-jou-sai-shi",
           "person": "shou-den-satsu-sui",
           "role": "minor",
           "note": {
@@ -1263,7 +1251,7 @@
           ]
         },
         {
-          "character": "mimiko-hasaba",
+          "character": "ka-jou-bi-shi",
           "person": "shou-den-ri-go",
           "role": "minor",
           "note": {

@@ -51,7 +51,7 @@
       "last_release_date": "2022-02-13",
       "credits": [
         {
-          "character": "tanjiro-kamado",
+          "character": "sou-mon-tan-ji-rou",
           "person": "ka-kou-ka-ju",
           "role": "main",
           "source_refs": [
@@ -60,7 +60,7 @@
           ]
         },
         {
-          "character": "nezuko-kamado",
+          "character": "sou-mon-dei-tou-shi",
           "person": "ki-tou-mei-ri",
           "role": "main",
           "source_refs": [
@@ -69,7 +69,7 @@
           ]
         },
         {
-          "character": "zenitsu-agatsuma",
+          "character": "ga-sai-zen-itsu",
           "person": "ka-ya-kou",
           "role": "main",
           "source_refs": [
@@ -78,7 +78,7 @@
           ]
         },
         {
-          "character": "inosuke-hashibira",
+          "character": "shi-hei-i-shi-jo",
           "person": "shou-kou-tei-shou",
           "role": "main",
           "source_refs": [
@@ -87,7 +87,7 @@
           ]
         },
         {
-          "character": "tengen-uzui",
+          "character": "u-zui-ten-gen",
           "person": "shou-sei-koku-kou",
           "role": "main",
           "source_refs": [
@@ -96,7 +96,7 @@
           ]
         },
         {
-          "character": "daki",
+          "character": "da-ki",
           "person": "taku-jou-miyuki",
           "role": "supporting",
           "source_refs": [
@@ -104,7 +104,7 @@
           ]
         },
         {
-          "character": "gyutaro",
+          "character": "ki-fu-ta-rou",
           "person": "hou-han-ryou-ta",
           "role": "supporting",
           "source_refs": [
@@ -112,7 +112,7 @@
           ]
         },
         {
-          "character": "kanao-tsuyuri",
+          "character": "ritsu-ka-raku-kanao",
           "person": "jou-den-rei-na",
           "role": "supporting",
           "source_refs": [
@@ -120,7 +120,7 @@
           ]
         },
         {
-          "character": "hanafuda-swordsman",
+          "character": "kei-koku-en-ichi",
           "person": "sei-jou-wa-gen",
           "role": "supporting",
           "source_refs": [
@@ -128,7 +128,7 @@
           ]
         },
         {
-          "character": "daki-sash",
+          "character": "da-ki-no-tai-no-ki",
           "person": "i-tou-sei",
           "role": "minor",
           "source_refs": [
@@ -136,7 +136,7 @@
           ]
         },
         {
-          "character": "amane-ubuyashiki",
+          "character": "san-oku-fu-amane",
           "person": "sa-tou-ri-na",
           "role": "supporting",
           "source_refs": [
@@ -144,7 +144,7 @@
           ]
         },
         {
-          "character": "takeo-kamado",
+          "character": "sou-mon-chiku-yuu",
           "person": "tai-chi-you",
           "role": "supporting",
           "source_refs": [
@@ -152,7 +152,7 @@
           ]
         },
         {
-          "character": "murata",
+          "character": "son-den",
           "person": "kyuu-den-kou-ki",
           "role": "supporting",
           "source_refs": [
@@ -160,7 +160,7 @@
           ]
         },
         {
-          "character": "doma",
+          "character": "dou-ma",
           "person": "kyuu-ya-shin-shu",
           "role": "supporting",
           "source_refs": [
@@ -168,7 +168,7 @@
           ]
         },
         {
-          "character": "hanako-kamado",
+          "character": "sou-mon-ka-shi",
           "person": "shou-gen-kou-bi",
           "role": "supporting",
           "source_refs": [
@@ -176,7 +176,7 @@
           ]
         },
         {
-          "character": "shinjuro-rengoku",
+          "character": "ren-goku-ten-ju-rou",
           "person": "shou-san-ryoku-ya",
           "role": "supporting",
           "source_refs": [
@@ -184,7 +184,7 @@
           ]
         },
         {
-          "character": "nichika-ubuyashiki",
+          "character": "san-oku-fu-nichika",
           "person": "shou-taku-a-ri",
           "role": "supporting",
           "source_refs": [
@@ -192,7 +192,7 @@
           ]
         },
         {
-          "character": "kiyo-terauchi",
+          "character": "ji-dai-kiyo",
           "person": "san-ka-shichi-kai",
           "role": "supporting",
           "source_refs": [
@@ -200,7 +200,7 @@
           ]
         },
         {
-          "character": "matsuemon",
+          "character": "ten-ou-ji-shou-u-ei-mon",
           "person": "san-ki-takumi",
           "role": "supporting",
           "source_refs": [
@@ -208,7 +208,7 @@
           ]
         },
         {
-          "character": "kiriya-ubuyashiki",
+          "character": "san-oku-fu-ki-ri-sai",
           "person": "yuu-boku-heki",
           "role": "supporting",
           "source_refs": [
@@ -216,7 +216,7 @@
           ]
         },
         {
-          "character": "koinatsu",
+          "character": "ri-ka",
           "person": "sai-tou-sen-wa",
           "role": "supporting",
           "source_refs": [
@@ -224,7 +224,7 @@
           ]
         },
         {
-          "character": "kyojuro-rengoku",
+          "character": "ren-goku-kyou-ju-rou",
           "person": "nichi-ya-sou",
           "role": "supporting",
           "source_refs": [
@@ -232,7 +232,7 @@
           ]
         },
         {
-          "character": "muscle-mouse",
+          "character": "mukimukinezumi",
           "person": "boku-son-bou",
           "role": "supporting",
           "source_refs": [
@@ -240,7 +240,7 @@
           ]
         },
         {
-          "character": "suma",
+          "character": "shu-ma",
           "person": "tou-san-na-ou",
           "role": "supporting",
           "source_refs": [
@@ -248,7 +248,7 @@
           ]
         },
         {
-          "character": "naho-takada",
+          "character": "kou-den-naho",
           "person": "sou-gen-yuu-ki",
           "role": "supporting",
           "source_refs": [
@@ -256,7 +256,7 @@
           ]
         },
         {
-          "character": "kie-kamado",
+          "character": "sou-mon-ki-shi",
           "person": "sou-tou-hou-shi",
           "role": "supporting",
           "source_refs": [
@@ -264,7 +264,7 @@
           ]
         },
         {
-          "character": "kagaya-ubuyashiki",
+          "character": "san-oku-fu-you-sai",
           "person": "shin-sen-chi-shi",
           "role": "supporting",
           "source_refs": [
@@ -272,7 +272,7 @@
           ]
         },
         {
-          "character": "senjuro-rengoku",
+          "character": "ren-goku-sen-ju-rou",
           "person": "ka-boku-shun-mi",
           "role": "supporting",
           "source_refs": [
@@ -280,7 +280,7 @@
           ]
         },
         {
-          "character": "giyu-tomioka",
+          "character": "fu-kou-gi-yuu",
           "person": "ou-sei-kou-kou",
           "role": "supporting",
           "source_refs": [
@@ -288,7 +288,7 @@
           ]
         },
         {
-          "character": "aoi-kanzaki",
+          "character": "shin-ki-aoi",
           "person": "kou-gen-yuu-ri",
           "role": "supporting",
           "source_refs": [
@@ -296,7 +296,7 @@
           ]
         },
         {
-          "character": "hotaru-haganezuka",
+          "character": "kou-tetsu-chou-kei",
           "person": "rou-sen-tai-fu",
           "role": "supporting",
           "source_refs": [
@@ -312,7 +312,7 @@
           ]
         },
         {
-          "character": "kamuro",
+          "character": "toku",
           "person": "den-chuu-ki-shi",
           "role": "minor",
           "source_refs": [
@@ -320,7 +320,7 @@
           ]
         },
         {
-          "character": "sumi-nakahara",
+          "character": "chuu-gen-sumi",
           "person": "shin-ya-ayumi",
           "role": "supporting",
           "source_refs": [
@@ -336,7 +336,7 @@
           ]
         },
         {
-          "character": "akaza",
+          "character": "i-ka-za",
           "person": "shaku-den-shou",
           "role": "supporting",
           "source_refs": [
@@ -344,7 +344,7 @@
           ]
         },
         {
-          "character": "hinatsuru",
+          "character": "suu-kaku",
           "person": "shu-ki-ton-bi",
           "role": "supporting",
           "source_refs": [
@@ -352,7 +352,7 @@
           ]
         },
         {
-          "character": "hinaki-ubuyashiki",
+          "character": "san-oku-fu-hinaki",
           "person": "ka-shu-yumiri",
           "role": "supporting",
           "source_refs": [
@@ -360,7 +360,7 @@
           ]
         },
         {
-          "character": "obanai-iguro",
+          "character": "i-koku-shou-ba-dai",
           "person": "rei-son-ken-ichi",
           "role": "supporting",
           "source_refs": [
@@ -368,7 +368,7 @@
           ]
         },
         {
-          "character": "muzan-kibutsuji",
+          "character": "ki-bu-tsuji-mu-san",
           "person": "kan-shun-gen",
           "role": "supporting",
           "source_refs": [
@@ -376,7 +376,7 @@
           ]
         },
         {
-          "character": "kakushi",
+          "character": "in",
           "person": "kou-kyou-shin-ya",
           "role": "minor",
           "source_refs": [
@@ -412,194 +412,153 @@
       ],
       "credits": [
         {
-          "character": "tanjiro-kamado",
+          "character": "sou-mon-tan-ji-rou",
           "person": "i-gyeong-tae",
           "role": "main",
-          "episodes": {
-            "from": 1,
-            "to": 11
-          },
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "nezuko-kamado",
+          "character": "sou-mon-dei-tou-shi",
           "person": "i-i-ro",
           "role": "main",
-          "episodes": "1, 3-4, 6-8, 10-11",
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "zenitsu-agatsuma",
+          "character": "ga-sai-zen-itsu",
           "person": "seok-seung-hun",
           "role": "main",
-          "episodes": "1-3, 5-6, 8-11",
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "inosuke-hashibira",
+          "character": "shi-hei-i-shi-jo",
           "person": "min-seung-u",
           "role": "main",
-          "episodes": {
-            "from": 1,
-            "to": 11
-          },
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kanao-tsuyuri",
+          "character": "ritsu-ka-raku-kanao",
           "person": "gim-sun-mi",
           "role": "minor",
-          "episodes": {
-            "from": 1,
-            "to": 1
-          },
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kyojuro-rengoku",
+          "character": "ren-goku-kyou-ju-rou",
           "person": "bak-jun-hyeong",
           "role": "supporting",
-          "episodes": "1, 8",
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "tengen-uzui",
+          "character": "u-zui-ten-gen",
           "person": "gim-jang",
           "role": "main",
-          "episodes": "1-2, 4-11",
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "matsuemon",
+          "character": "ten-ou-ji-shou-u-ei-mon",
           "person": "gim-so-hyeong",
           "role": "minor",
-          "episodes": {
-            "from": 1,
-            "to": 1
-          },
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kagaya-ubuyashiki",
+          "character": "san-oku-fu-you-sai",
           "person": "sin-yong-u",
           "role": "supporting",
-          "episodes": "1, 8, 11",
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "aoi-kanzaki",
+          "character": "shin-ki-aoi",
           "person": "jang-mi",
           "role": "supporting",
-          "episodes": {
-            "from": 1,
-            "to": 2
-          },
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kiyo-terauchi",
+          "character": "ji-dai-kiyo",
           "person": "gim-seo-hyeon",
           "role": "supporting",
-          "episodes": "1-2, 5",
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "sumi-nakahara",
+          "character": "chuu-gen-sumi",
           "person": "mi-so",
           "role": "supporting",
-          "episodes": {
-            "from": 1,
-            "to": 2
-          },
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "naho-takada",
+          "character": "kou-den-naho",
           "person": "jang-chae-yeon",
           "role": "supporting",
-          "episodes": {
-            "from": 1,
-            "to": 2
-          },
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "senjuro-rengoku",
+          "character": "ren-goku-sen-ju-rou",
           "person": "bak-seong-yeong",
           "role": "minor",
-          "episodes": {
-            "from": 1,
-            "to": 1
-          },
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "shinjuro-rengoku",
+          "character": "ren-goku-ten-ju-rou",
           "person": "i-sang-beom",
           "role": "supporting",
-          "episodes": "1, 6",
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "muzan-kibutsuji",
+          "character": "ki-bu-tsuji-mu-san",
           "person": "gim-seung-jun",
           "role": "supporting",
-          "episodes": "1, 3, 6",
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "akaza",
+          "character": "i-ka-za",
           "person": "nam-do-hyeong",
           "role": "supporting",
-          "episodes": "1, 11",
           "source_refs": [
             "s43"
           ],
@@ -609,30 +568,24 @@
           "character": "makio",
           "person": "jeong-yu-jeong",
           "role": "supporting",
-          "episodes": "2-3, 5-6, 8-11",
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "koinatsu",
+          "character": "ri-ka",
           "person": "yun-a-yeong",
           "role": "supporting",
-          "episodes": "2, 4",
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "giyu-tomioka",
+          "character": "fu-kou-gi-yuu",
           "person": "jeong-jae-heon",
           "role": "minor",
-          "episodes": {
-            "from": 3,
-            "to": 3
-          },
           "source_refs": [
             "s43"
           ],
@@ -642,199 +595,141 @@
           "character": "omitsu",
           "person": "an-hyeon-seo",
           "role": "minor",
-          "episodes": {
-            "from": 3,
-            "to": 3
-          },
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "daki",
+          "character": "da-ki",
           "person": "jo-gyeong-i",
           "role": "supporting",
-          "episodes": {
-            "from": 3,
-            "to": 11
-          },
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "muscle-mouse",
+          "character": "mukimukinezumi",
           "person": "won-jong-jun",
           "role": "supporting",
-          "episodes": {
-            "from": 4,
-            "to": 6
-          },
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "suma",
+          "character": "shu-ma",
           "person": "gim-hyeon-ji",
           "role": "supporting",
-          "episodes": "5-6, 8-11",
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "hinatsuru",
+          "character": "suu-kaku",
           "person": "gim-yul",
           "role": "supporting",
-          "episodes": "5, 8-11",
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "hanako-kamado",
+          "character": "sou-mon-ka-shi",
           "person": "chae-rim",
           "role": "minor",
-          "episodes": {
-            "from": 6,
-            "to": 6
-          },
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "takeo-kamado",
+          "character": "sou-mon-chiku-yuu",
           "person": "bak-i-seo",
           "role": "minor",
-          "episodes": {
-            "from": 6,
-            "to": 6
-          },
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "inspector",
+          "character": "ken-sa-kan",
           "person": "choe-han",
           "role": "minor",
-          "episodes": {
-            "from": 6,
-            "to": 6
-          },
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kie-kamado",
+          "character": "sou-mon-ki-shi",
           "person": "i-hyeon-jin",
           "role": "supporting",
-          "episodes": {
-            "from": 7,
-            "to": 8
-          },
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "gyutaro",
+          "character": "ki-fu-ta-rou",
           "person": "gang-seong-u",
           "role": "supporting",
-          "episodes": {
-            "from": 7,
-            "to": 11
-          },
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "obanai-iguro",
+          "character": "i-koku-shou-ba-dai",
           "person": "seo-ban-seok",
           "role": "minor",
-          "episodes": {
-            "from": 11,
-            "to": 11
-          },
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "amane-ubuyashiki",
+          "character": "san-oku-fu-amane",
           "person": "yun-mi-na",
           "role": "minor",
-          "episodes": {
-            "from": 11,
-            "to": 11
-          },
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kiriya-ubuyashiki",
+          "character": "san-oku-fu-ki-ri-sai",
           "person": "i-ju-eun",
           "role": "minor",
-          "episodes": {
-            "from": 11,
-            "to": 11
-          },
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "hinaki-ubuyashiki",
+          "character": "san-oku-fu-hinaki",
           "person": "gim-do-hui",
           "role": "minor",
-          "episodes": {
-            "from": 11,
-            "to": 11
-          },
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "nichika-ubuyashiki",
+          "character": "san-oku-fu-nichika",
           "person": "gang-eun-ae",
           "role": "minor",
-          "episodes": {
-            "from": 11,
-            "to": 11
-          },
           "source_refs": [
             "s43"
           ],
           "verification": "unverified"
         },
         {
-          "character": "doma",
+          "character": "dou-ma",
           "person": "gim-myeong-jun",
           "role": "minor",
-          "episodes": {
-            "from": 11,
-            "to": 11
-          },
           "source_refs": [
             "s43"
           ],

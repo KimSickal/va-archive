@@ -31,8 +31,8 @@ describe('search', () => {
     expect(search(db, 'ホシノアオイ')[0].entry.id).toBe(id('aoi-hoshino'));
   });
   it('hides spoiler characters unless exact match, then masks', () => {
-    expect(search(db, 'ゼ').some((h) => h.entry.id.endsWith('masked-knight'))).toBe(false);
-    const exact = search(db, 'ゼノ').find((h) => h.entry.id.endsWith('masked-knight'));
+    expect(search(db, 'ゼ').some((h) => h.entry.id.endsWith('/zeno'))).toBe(false);
+    const exact = search(db, 'ゼノ').find((h) => h.entry.id.endsWith('/zeno'));
     expect(exact?.masked).toBe(true);
   });
 });
@@ -40,12 +40,12 @@ describe('search', () => {
 describe('person', () => {
   it('groups multiple roles in one work', () => {
     const g = personCredits(db, id('ren-kurosawa')).find((x) => x.work.id === 'star-knights-s1');
-    expect(g?.credits.map((c) => c.credit.character).sort()).toEqual(['kai', 'masked-knight']);
+    expect(g?.credits.map((c) => c.credit.character).sort()).toEqual(['kai', 'zeno']);
   });
 });
 
 describe('work cast table', () => {
-  it('puts replaced and replacement VA in the same row, sorted by episode', () => {
+  it('puts replaced and replacement VA in the same row, replaced first', () => {
     const kai = castTable(db, 'star-knights-s1').find((r) => r.character.id === 'kai')!;
     expect(kai.byVersion[0].map((c) => slug(c.person))).toEqual(['ren-kurosawa', 'taro-yamada']);
   });
@@ -96,16 +96,6 @@ describe('staleness', () => {
   });
 });
 
-import { episodesLabel } from '../src/components/common.tsx';
-describe('episodesLabel', () => {
-  it('formats ranges', () => {
-    expect(episodesLabel({ from: 40, to: 40 })).toBe('40화');
-    expect(episodesLabel({ from: 1, to: 6 })).toBe('1–6화');
-    expect(episodesLabel({ from: 7 })).toBe('7화~');
-    expect(episodesLabel('36-38, 40')).toBe('36-38, 40화');
-  });
-});
-
 describe('person ids', () => {
   it('URL slug, internal id and old id all resolve to the same person', async () => {
     const { resolveId } = await import('../src/data/queries.ts');
@@ -127,11 +117,5 @@ describe('cross-franchise characters (spin-off / crossover)', () => {
   it('the spin-off is a different franchise for favorites comparison', () => {
     const ja = compareWithFavorites(db, 'star-knights-academy', ['star-knights']).find((s) => s.lang === 'ja')!;
     expect(ja.rows[0].franchise).toBe('star-knights');
-  });
-});
-
-describe('episodesLabel for game patches', () => {
-  it('formats patch ranges', () => {
-    expect(episodesLabel('6.1-6.5')).toBe('패치 6.1-6.5');
   });
 });

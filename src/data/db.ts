@@ -20,7 +20,6 @@ export interface CreditRef {
 export interface FirstVoiced {
   work: string;
   vi: number;
-  episode?: number;
 }
 
 export interface SearchEntry {

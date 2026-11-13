@@ -56,7 +56,7 @@
       "release_date": "2026-01-09",
       "credits": [
         {
-          "character": "yuji-itadori",
+          "character": "ko-jou-yuu-jin",
           "person": "ka-boku-shun-mi",
           "role": "main",
           "source_refs": [
@@ -66,7 +66,7 @@
           ]
         },
         {
-          "character": "megumi-fushiguro",
+          "character": "fuku-koku-kei",
           "person": "dai-den-yuu-ba",
           "role": "main",
           "source_refs": [
@@ -76,7 +76,7 @@
           ]
         },
         {
-          "character": "nobara-kugisaki",
+          "character": "tei-ki-ya-shoku-bi",
           "person": "rai-ko-ma-sa-bi",
           "role": "supporting",
           "source_refs": [
@@ -85,7 +85,7 @@
           ]
         },
         {
-          "character": "satoru-gojo",
+          "character": "go-jou-go",
           "person": "chuu-son-yuu-ichi",
           "role": "supporting",
           "source_refs": [
@@ -95,7 +95,7 @@
           ]
         },
         {
-          "character": "ryomen-sukuna",
+          "character": "ryou-men-shuku-da",
           "person": "shu-hou-bu-jun-ichi",
           "role": "supporting",
           "source_refs": [
@@ -105,7 +105,7 @@
           ]
         },
         {
-          "character": "kenjaku",
+          "character": "ken-saku",
           "person": "ou-sei-kou-kou",
           "role": "supporting",
           "source_refs": [
@@ -114,7 +114,7 @@
           ]
         },
         {
-          "character": "yuta-okkotsu",
+          "character": "otsu-kotsu-yuu-ta",
           "person": "sho-hou-kei-bi",
           "role": "main",
           "source_refs": [
@@ -133,7 +133,7 @@
           ]
         },
         {
-          "character": "shoko-ieiri",
+          "character": "ka-nyuu-shou-shi",
           "person": "en-tou-ryou",
           "role": "supporting",
           "source_refs": [
@@ -142,7 +142,7 @@
           ]
         },
         {
-          "character": "kento-nanami",
+          "character": "shichi-kai-ken-jin",
           "person": "shin-den-ken-ji-rou",
           "role": "minor",
           "source_refs": [
@@ -151,7 +151,7 @@
           ]
         },
         {
-          "character": "masamichi-yaga",
+          "character": "ya-ga-sei-dou",
           "person": "koku-den-suu-shi",
           "role": "supporting",
           "source_refs": [
@@ -160,7 +160,7 @@
           ]
         },
         {
-          "character": "kiyotaka-ijichi",
+          "character": "i-chi-chi-ketsu-kou",
           "person": "gan-den-kou-ou",
           "role": "supporting",
           "source_refs": [
@@ -169,7 +169,7 @@
           ]
         },
         {
-          "character": "spectator-s3",
+          "character": "kan-kyaku",
           "person": "gan-den-kou-ou",
           "role": "minor",
           "source_refs": [
@@ -177,7 +177,7 @@
           ]
         },
         {
-          "character": "maki-zenin",
+          "character": "zen-in-shin-ki",
           "person": "shou-shou-mi-ka-shi",
           "role": "supporting",
           "source_refs": [
@@ -187,7 +187,7 @@
           ]
         },
         {
-          "character": "mai-zenin",
+          "character": "zen-in-shin-i",
           "person": "sei-jou-ma-ri-na",
           "role": "supporting",
           "source_refs": [
@@ -207,7 +207,7 @@
           ]
         },
         {
-          "character": "yoshinobu-gakuganji",
+          "character": "gaku-gan-ji-ka-shin",
           "person": "baku-jin",
           "role": "supporting",
           "source_refs": [
@@ -216,7 +216,7 @@
           ]
         },
         {
-          "character": "aoi-todo",
+          "character": "tou-dou-ki",
           "person": "boku-son-bou",
           "role": "minor",
           "source_refs": [
@@ -225,7 +225,7 @@
           ]
         },
         {
-          "character": "momo-nishimiya",
+          "character": "sei-kyuu-tou",
           "person": "tei-kyuu-ri-kei",
           "role": "minor",
           "source_refs": [
@@ -234,7 +234,7 @@
           ]
         },
         {
-          "character": "yuki-tsukumo",
+          "character": "kyuu-juu-kyuu-yuu-ki",
           "person": "nichi-kou-nori-shi",
           "role": "supporting",
           "source_refs": [
@@ -244,7 +244,7 @@
           ]
         },
         {
-          "character": "takuma-ino",
+          "character": "cho-ya-taku-shin",
           "person": "rin-yuu",
           "role": "minor",
           "source_refs": [
@@ -253,7 +253,7 @@
           ]
         },
         {
-          "character": "akari-nitta",
+          "character": "shin-den-mei",
           "person": "toku-sei-sei-kuu",
           "role": "minor",
           "source_refs": [
@@ -262,7 +262,7 @@
           ]
         },
         {
-          "character": "choso",
+          "character": "chou-shou",
           "person": "rou-sen-tai-fu",
           "role": "supporting",
           "source_refs": [
@@ -272,7 +272,7 @@
           ]
         },
         {
-          "character": "tsumiki-fushiguro",
+          "character": "fuku-koku-shin-bi-ki",
           "person": "sou-ken-sa-shoku",
           "role": "minor",
           "source_refs": [
@@ -281,7 +281,7 @@
           ]
         },
         {
-          "character": "atsuya-kusakabe",
+          "character": "nichi-ka-bu-toku-ya",
           "person": "san-boku-shin-ichi-rou",
           "role": "supporting",
           "source_refs": [
@@ -290,7 +290,7 @@
           ]
         },
         {
-          "character": "tengen",
+          "character": "ten-gen",
           "person": "sakaki-gen-ryou-shi",
           "role": "supporting",
           "source_refs": [
@@ -300,7 +300,7 @@
           ]
         },
         {
-          "character": "kinji-hakari",
+          "character": "shou-kin-ji",
           "person": "chuu-sei-wa-sai",
           "role": "supporting",
           "source_refs": [
@@ -310,7 +310,7 @@
           ]
         },
         {
-          "character": "kirara-hoshi",
+          "character": "sei-ki-ra-ra",
           "person": "sakaki-gen-yuu-ki",
           "role": "supporting",
           "source_refs": [
@@ -320,12 +320,9 @@
           ]
         },
         {
-          "character": "naoya-zenin",
+          "character": "zen-in-choku-sai",
           "person": "yuu-sa-kou-ni",
           "role": "supporting",
-          "episodes": {
-            "from": 1
-          },
           "source_refs": [
             "s1",
             "s4",
@@ -333,7 +330,7 @@
           ]
         },
         {
-          "character": "naoya-zenin",
+          "character": "zen-in-choku-sai",
           "person": "nichi-kou-mi-nan",
           "role": "minor",
           "part": "young",
@@ -344,7 +341,7 @@
           ]
         },
         {
-          "character": "ogi-zenin",
+          "character": "zen-in-sen",
           "person": "en-bu-kei-ichi",
           "role": "supporting",
           "source_refs": [
@@ -353,7 +350,7 @@
           ]
         },
         {
-          "character": "jinichi-zenin",
+          "character": "zen-in-shin-ichi",
           "person": "haku-yuu-kan-shi",
           "role": "supporting",
           "source_refs": [
@@ -362,7 +359,7 @@
           ]
         },
         {
-          "character": "cursed-spirit-s3",
+          "character": "ju-rei",
           "person": "haku-yuu-kan-shi",
           "role": "minor",
           "source_refs": [
@@ -370,7 +367,7 @@
           ]
         },
         {
-          "character": "ranta-zenin",
+          "character": "zen-in-ran-ta",
           "person": "sen-you-shou-ya",
           "role": "minor",
           "source_refs": [
@@ -379,7 +376,7 @@
           ]
         },
         {
-          "character": "nobuaki-zenin",
+          "character": "zen-in-shin-rou",
           "person": "den-sho-you-kou",
           "role": "minor",
           "source_refs": [
@@ -388,7 +385,7 @@
           ]
         },
         {
-          "character": "maki-mai-mother",
+          "character": "shin-ki-to-shin-i-no-bo",
           "person": "nichi-ya-yuu-ri-ka",
           "role": "minor",
           "source_refs": [
@@ -396,7 +393,7 @@
           ]
         },
         {
-          "character": "jin-itadori",
+          "character": "ko-jou-jin",
           "person": "hou-ei-ri-kou",
           "role": "minor",
           "source_refs": [
@@ -405,7 +402,7 @@
           ]
         },
         {
-          "character": "kaori-itadori",
+          "character": "ko-jou-kou-shoku",
           "person": "rin-gen-megumi",
           "role": "minor",
           "source_refs": [
@@ -422,7 +419,7 @@
           ]
         },
         {
-          "character": "miguel-oduol",
+          "character": "migeru-oduoru",
           "person": "san-ji-kou-ichi",
           "role": "minor",
           "source_refs": [
@@ -431,7 +428,7 @@
           ]
         },
         {
-          "character": "fumihiko-takaba",
+          "character": "kou-u-shi-gen",
           "person": "kaku-kou-sou",
           "role": "supporting",
           "source_refs": [
@@ -441,7 +438,7 @@
           ]
         },
         {
-          "character": "senior-comedian",
+          "character": "sen-hai-gei-jin",
           "person": "san-den-shin-ichi",
           "role": "minor",
           "source_refs": [
@@ -452,9 +449,6 @@
           "character": "kogane",
           "person": "niko",
           "role": "supporting",
-          "episodes": {
-            "from": 6
-          },
           "source_refs": [
             "s1",
             "s4",
@@ -462,7 +456,7 @@
           ]
         },
         {
-          "character": "hajime-kashimo",
+          "character": "roku-shi-un-ichi",
           "person": "boku-son-ryou-hei",
           "role": "supporting",
           "source_refs": [
@@ -472,7 +466,7 @@
           ]
         },
         {
-          "character": "rin-amai",
+          "character": "kan-sei-rin",
           "person": "sei-tou-sou-ba",
           "role": "minor",
           "source_refs": [
@@ -481,7 +475,7 @@
           ]
         },
         {
-          "character": "remi",
+          "character": "rei-bi",
           "person": "shou-taku-a-ri",
           "role": "minor",
           "source_refs": [
@@ -490,7 +484,7 @@
           ]
         },
         {
-          "character": "hanyu",
+          "character": "u-sei",
           "person": "chiku-dai-jun-shi",
           "role": "minor",
           "source_refs": [
@@ -499,7 +493,7 @@
           ]
         },
         {
-          "character": "haba",
+          "character": "u-jou",
           "person": "chiku-hon-ei-shi",
           "role": "minor",
           "source_refs": [
@@ -508,12 +502,9 @@
           ]
         },
         {
-          "character": "hiromi-higuruma",
+          "character": "nichi-sha-kan-ken",
           "person": "san-den-chi-wa",
           "role": "supporting",
-          "episodes": {
-            "from": 8
-          },
           "source_refs": [
             "s1",
             "s4",
@@ -521,12 +512,9 @@
           ]
         },
         {
-          "character": "reggie-star",
+          "character": "reji-suta",
           "person": "sei-san-jou",
           "role": "supporting",
-          "episodes": {
-            "from": 8
-          },
           "source_refs": [
             "s1",
             "s4",
@@ -534,7 +522,7 @@
           ]
         },
         {
-          "character": "shimizu",
+          "character": "sei-sui",
           "person": "shin-den-bi-ha",
           "role": "minor",
           "source_refs": [
@@ -542,7 +530,7 @@
           ]
         },
         {
-          "character": "keita-oe",
+          "character": "tai-kou-kei-ta",
           "person": "sa-tou-gen",
           "role": "minor",
           "source_refs": [
@@ -550,7 +538,7 @@
           ]
         },
         {
-          "character": "takagi-s3",
+          "character": "kou-boku-2",
           "person": "yuu-koku-kai-rei",
           "role": "minor",
           "source_refs": [
@@ -558,18 +546,15 @@
           ]
         },
         {
-          "character": "judgeman",
+          "character": "jajjiman",
           "person": "en-ki-mi-kei",
           "role": "supporting",
-          "episodes": {
-            "from": 9
-          },
           "source_refs": [
             "s56"
           ]
         },
         {
-          "character": "yoshizawa",
+          "character": "kichi-taku",
           "person": "gyo-ken",
           "role": "minor",
           "source_refs": [
@@ -577,7 +562,7 @@
           ]
         },
         {
-          "character": "iori-hazenoki",
+          "character": "kou-ro-ki",
           "person": "hou-han-ryou-ta",
           "role": "supporting",
           "source_refs": [
@@ -586,7 +571,7 @@
           ]
         },
         {
-          "character": "chizuru-hari",
+          "character": "shin-sen-kin",
           "person": "kou-kai-shun-shi",
           "role": "minor",
           "source_refs": [
@@ -595,7 +580,7 @@
           ]
         },
         {
-          "character": "ryu-ishigori",
+          "character": "shaku-ryuu-ryuu",
           "person": "tou-chi-kou-ju",
           "role": "supporting",
           "source_refs": [
@@ -604,7 +589,7 @@
           ]
         },
         {
-          "character": "takako-uro",
+          "character": "u-ro-kyou-shi",
           "person": "sui-ju-na",
           "role": "supporting",
           "source_refs": [
@@ -613,7 +598,7 @@
           ]
         },
         {
-          "character": "kurourushi",
+          "character": "koku-boku-shi",
           "person": "ya-shin-san-kou-kou",
           "role": "minor",
           "source_refs": [
@@ -630,7 +615,7 @@
           ]
         },
         {
-          "character": "kusakabe-sister",
+          "character": "nichi-ka-bu-no-mai",
           "person": "hou-taku-yurika",
           "role": "minor",
           "source_refs": [
@@ -638,7 +623,7 @@
           ]
         },
         {
-          "character": "assassin-s3",
+          "character": "shi-kyaku",
           "person": "kou-ya-ken-ta-rou",
           "role": "minor",
           "source_refs": [
@@ -646,7 +631,7 @@
           ]
         },
         {
-          "character": "club-member-s3",
+          "character": "kurabunomenba",
           "person": "abesouichi",
           "role": "minor",
           "source_refs": [
@@ -654,7 +639,7 @@
           ]
         },
         {
-          "character": "lookout-s3",
+          "character": "ken-chou-ri",
           "person": "abesouichi",
           "role": "minor",
           "source_refs": [
@@ -662,7 +647,7 @@
           ]
         },
         {
-          "character": "announcer-s3",
+          "character": "anaunsa-3",
           "person": "abesouichi",
           "role": "minor",
           "source_refs": [
@@ -670,7 +655,7 @@
           ]
         },
         {
-          "character": "club-member-s3",
+          "character": "kurabunomenba",
           "person": "den-tou-shou-kan",
           "role": "minor",
           "source_refs": [
@@ -678,7 +663,7 @@
           ]
         },
         {
-          "character": "lookout-s3",
+          "character": "ken-chou-ri",
           "person": "sa-za-shou-gan",
           "role": "minor",
           "source_refs": [
@@ -686,7 +671,7 @@
           ]
         },
         {
-          "character": "cursed-spirit-s3",
+          "character": "ju-rei",
           "person": "tou-gen-sei-yuu",
           "role": "minor",
           "source_refs": [
@@ -694,7 +679,7 @@
           ]
         },
         {
-          "character": "kukuru-unit-member-s3",
+          "character": "ku-ku-ryuu-tai",
           "person": "tou-gen-sei-yuu",
           "role": "minor",
           "source_refs": [
@@ -702,7 +687,7 @@
           ]
         },
         {
-          "character": "lookout-s3",
+          "character": "ken-chou-ri",
           "person": "tou-gen-sei-yuu",
           "role": "minor",
           "source_refs": [
@@ -710,7 +695,7 @@
           ]
         },
         {
-          "character": "cursed-spirit-s3",
+          "character": "ju-rei",
           "person": "en-shi-tan",
           "role": "minor",
           "source_refs": [
@@ -718,7 +703,7 @@
           ]
         },
         {
-          "character": "kukuru-unit-member-s3",
+          "character": "ku-ku-ryuu-tai",
           "person": "en-shi-tan",
           "role": "minor",
           "source_refs": [
@@ -726,7 +711,7 @@
           ]
         },
         {
-          "character": "kukuru-unit-member-s3",
+          "character": "ku-ku-ryuu-tai",
           "person": "hou-kou-kou",
           "role": "minor",
           "source_refs": [
@@ -734,7 +719,7 @@
           ]
         },
         {
-          "character": "audience-s3",
+          "character": "kan-kyaku-tatsu",
           "person": "ki-san-yuu-ji",
           "role": "minor",
           "source_refs": [
@@ -742,7 +727,7 @@
           ]
         },
         {
-          "character": "audience-s3",
+          "character": "kan-kyaku-tatsu",
           "person": "ko-tou-ki-mei",
           "role": "minor",
           "source_refs": [
@@ -750,7 +735,7 @@
           ]
         },
         {
-          "character": "audience-s3",
+          "character": "kan-kyaku-tatsu",
           "person": "do-sei-sei-shou",
           "role": "minor",
           "source_refs": [
@@ -758,7 +743,7 @@
           ]
         },
         {
-          "character": "audience-s3",
+          "character": "kan-kyaku-tatsu",
           "person": "shou-kutsu-shin-sei",
           "role": "minor",
           "source_refs": [
@@ -766,7 +751,7 @@
           ]
         },
         {
-          "character": "audience-s3",
+          "character": "kan-kyaku-tatsu",
           "person": "boku-son-ta-hi",
           "role": "minor",
           "source_refs": [
@@ -774,7 +759,7 @@
           ]
         },
         {
-          "character": "audience-s3",
+          "character": "kan-kyaku-tatsu",
           "person": "tou-shou-hei",
           "role": "minor",
           "source_refs": [
@@ -782,7 +767,7 @@
           ]
         },
         {
-          "character": "audience-s3",
+          "character": "kan-kyaku-tatsu",
           "person": "chou-kou-ryuu-ho",
           "role": "minor",
           "source_refs": [
@@ -790,7 +775,7 @@
           ]
         },
         {
-          "character": "civilian-s3",
+          "character": "ichi-han-jin-2",
           "person": "ko-tou-ki-mei",
           "role": "minor",
           "source_refs": [
@@ -798,7 +783,7 @@
           ]
         },
         {
-          "character": "civilian-s3",
+          "character": "ichi-han-jin-2",
           "person": "den-chuu-ki-shi",
           "role": "minor",
           "source_refs": [
@@ -806,7 +791,7 @@
           ]
         },
         {
-          "character": "judge-s3",
+          "character": "sai-han-kan",
           "person": "kobatakemasafumi",
           "role": "minor",
           "source_refs": [
@@ -814,7 +799,7 @@
           ]
         },
         {
-          "character": "client-s3",
+          "character": "i-rai-jin",
           "person": "sa-kyuu-kan-gen-ki",
           "role": "minor",
           "source_refs": [
@@ -822,7 +807,7 @@
           ]
         },
         {
-          "character": "high-school-student-s3",
+          "character": "kou-kou-sei",
           "person": "bu-den-ta-ichi",
           "role": "minor",
           "source_refs": [
@@ -830,7 +815,7 @@
           ]
         },
         {
-          "character": "high-school-student-s3",
+          "character": "kou-kou-sei",
           "person": "sa-boku-taku-shin",
           "role": "minor",
           "source_refs": [
@@ -838,7 +823,7 @@
           ]
         },
         {
-          "character": "high-school-student-s3",
+          "character": "kou-kou-sei",
           "person": "hon-kyou-tai-fu",
           "role": "minor",
           "source_refs": [
@@ -846,7 +831,7 @@
           ]
         },
         {
-          "character": "high-school-student-s3",
+          "character": "kou-kou-sei",
           "person": "gi-son-yuu",
           "role": "minor",
           "source_refs": [
@@ -854,7 +839,7 @@
           ]
         },
         {
-          "character": "girl-s3",
+          "character": "jo-no-shi",
           "person": "haku-sa-sa-han",
           "role": "minor",
           "source_refs": [
@@ -862,7 +847,7 @@
           ]
         },
         {
-          "character": "ken-san",
+          "character": "kensan",
           "person": "kendokobayashi",
           "role": "minor",
           "source_refs": [

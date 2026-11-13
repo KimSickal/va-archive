@@ -60,7 +60,7 @@
       "last_release_date": "2024-06-13",
       "credits": [
         {
-          "character": "laios-touden",
+          "character": "raiosu-toden",
           "person": "yuu-koku-ken-ta-rou",
           "role": "main",
           "part": "regular",
@@ -72,21 +72,17 @@
           ]
         },
         {
-          "character": "laios-touden",
+          "character": "raiosu-toden",
           "person": "i-den-sai-shin",
           "role": "minor",
           "part": "young",
-          "episodes": {
-            "from": 3,
-            "to": 3
-          },
           "source_refs": [
             "s3",
             "s55"
           ]
         },
         {
-          "character": "marcille-donato",
+          "character": "marushiru-donato",
           "person": "sen-hon-boku-sai-ka",
           "role": "main",
           "source_refs": [
@@ -97,7 +93,7 @@
           ]
         },
         {
-          "character": "chilchuck-tims",
+          "character": "chiruchakku-timuzu",
           "person": "haku-mei-nichi-sai",
           "role": "main",
           "source_refs": [
@@ -124,10 +120,6 @@
           "person": "tai-wai-ken-ta",
           "role": "minor",
           "part": "young",
-          "episodes": {
-            "from": 22,
-            "to": 22
-          },
           "source_refs": [
             "s2",
             "s3",
@@ -135,7 +127,7 @@
           ]
         },
         {
-          "character": "falin-touden",
+          "character": "farin-toden",
           "person": "sou-ken-sa-shoku",
           "role": "main",
           "source_refs": [
@@ -178,7 +170,7 @@
           ]
         },
         {
-          "character": "kabru",
+          "character": "kaburu",
           "person": "ka-tou-shou",
           "role": "supporting",
           "source_refs": [
@@ -200,7 +192,7 @@
           ]
         },
         {
-          "character": "mickbell-tomas",
+          "character": "mikkuberu-tomazu",
           "person": "fu-den-bi-yuu",
           "role": "supporting",
           "source_refs": [
@@ -222,7 +214,7 @@
           ]
         },
         {
-          "character": "holm",
+          "character": "horumu-kuranomu",
           "person": "kou-rai-yuu-ya",
           "role": "supporting",
           "source_refs": [
@@ -233,7 +225,7 @@
           ]
         },
         {
-          "character": "daya",
+          "character": "daia",
           "person": "ka-son-kei",
           "role": "supporting",
           "source_refs": [
@@ -284,7 +276,7 @@
           ]
         },
         {
-          "character": "sissel",
+          "character": "shisuru",
           "person": "shou-rin-yuu",
           "role": "supporting",
           "source_refs": [
@@ -295,13 +287,9 @@
           ]
         },
         {
-          "character": "mithrun",
+          "character": "misurun",
           "person": "dai-san-kou-ki",
           "role": "supporting",
-          "episodes": {
-            "from": 21,
-            "to": 21
-          },
           "source_refs": [
             "s3",
             "s4",
@@ -310,10 +298,9 @@
           ]
         },
         {
-          "character": "yaad",
+          "character": "yaado-merini",
           "person": "son-rai-ho",
           "role": "supporting",
-          "episodes": "21-22",
           "source_refs": [
             "s3",
             "s4",
@@ -322,23 +309,18 @@
           ]
         },
         {
-          "character": "tansu-floke",
+          "character": "tansu-furokka",
           "person": "sei-jou-wa-gen",
           "role": "minor",
-          "episodes": "8-10, 14, 21",
           "source_refs": [
             "s3",
             "s9"
           ]
         },
         {
-          "character": "yarn-floke",
+          "character": "yan-furokka",
           "person": "sho-ka-hitomi",
           "role": "minor",
-          "episodes": {
-            "from": 9,
-            "to": 9
-          },
           "source_refs": [
             "s3",
             "s60"
@@ -348,7 +330,6 @@
           "character": "kaka",
           "person": "kou-kyou-ryou-fu",
           "role": "minor",
-          "episodes": "9-10",
           "source_refs": [
             "s3",
             "s64"
@@ -358,7 +339,6 @@
           "character": "kiki",
           "person": "chou-koku-sen-iku-bi",
           "role": "minor",
-          "episodes": "9-10",
           "source_refs": [
             "s3",
             "s59"
@@ -368,23 +348,15 @@
           "character": "doni",
           "person": "ya-jou-shou",
           "role": "minor",
-          "episodes": {
-            "from": 2,
-            "to": 2
-          },
           "source_refs": [
             "s3",
             "s43"
           ]
         },
         {
-          "character": "fionil",
+          "character": "fioniru",
           "person": "shin-den-ryou-ka",
           "role": "minor",
-          "episodes": {
-            "from": 2,
-            "to": 2
-          },
           "source_refs": [
             "s3",
             "s27"
@@ -394,7 +366,6 @@
           "character": "dandan",
           "person": "rin-kou-shi",
           "role": "minor",
-          "episodes": "3, 21",
           "source_refs": [
             "s2",
             "s69",
@@ -402,52 +373,36 @@
           ]
         },
         {
-          "character": "lycion",
+          "character": "rishion",
           "person": "gan-bi-daisuke",
           "role": "minor",
-          "episodes": {
-            "from": 21,
-            "to": 21
-          },
           "source_refs": [
             "s3",
             "s11"
           ]
         },
         {
-          "character": "pattadol",
+          "character": "pattadoru",
           "person": "i-rai-matsu-chi-ya",
           "role": "minor",
-          "episodes": {
-            "from": 21,
-            "to": 21
-          },
           "source_refs": [
             "s3",
             "s20"
           ]
         },
         {
-          "character": "cithis",
+          "character": "shisuhisu-ofuri",
           "person": "bu-den-ka",
           "role": "minor",
-          "episodes": {
-            "from": 21,
-            "to": 21
-          },
           "source_refs": [
             "s3",
             "s19"
           ]
         },
         {
-          "character": "fleki",
+          "character": "fureki",
           "person": "shou-gen-yuu",
           "role": "minor",
-          "episodes": {
-            "from": 21,
-            "to": 21
-          },
           "source_refs": [
             "s3",
             "s63"
@@ -457,10 +412,6 @@
           "character": "otta",
           "person": "kiku-chi-kokoro",
           "role": "minor",
-          "episodes": {
-            "from": 21,
-            "to": 21
-          },
           "source_refs": [
             "s3",
             "s18"
@@ -470,72 +421,51 @@
           "character": "zon",
           "person": "go-tou-kou-yuu",
           "role": "minor",
-          "episodes": {
-            "from": 4,
-            "to": 4
-          },
           "source_refs": [
             "s3",
             "s30"
           ]
         },
         {
-          "character": "leed",
+          "character": "rido",
           "person": "son-rai-teki-yo",
           "role": "minor",
-          "episodes": {
-            "from": 13,
-            "to": 13
-          },
           "source_refs": [
             "s3",
             "s34"
           ]
         },
         {
-          "character": "delgal",
+          "character": "derugaru-merini",
           "person": "shi-son-chi-kou",
           "role": "minor",
-          "episodes": {
-            "from": 6,
-            "to": 6
-          },
           "source_refs": [
             "s3",
             "s13"
           ]
         },
         {
-          "character": "freinag",
+          "character": "furinagu-merini",
           "person": "tai-chou-hou-chuu",
           "role": "minor",
-          "episodes": {
-            "from": 6,
-            "to": 6
-          },
           "source_refs": [
             "s3",
             "s81"
           ]
         },
         {
-          "character": "island-lord",
+          "character": "tou-shu",
           "person": "hi-den-ten-dan",
           "role": "minor",
-          "episodes": "10, 21",
           "source_refs": [
             "s3",
             "s8"
           ]
         },
         {
-          "character": "gillin",
+          "character": "girin",
           "person": "kou-boku-shou",
           "role": "minor",
-          "episodes": {
-            "from": 23,
-            "to": 23
-          },
           "source_refs": [
             "s3",
             "s10"
@@ -545,92 +475,67 @@
           "character": "totan",
           "person": "ren-gaku-tai",
           "role": "minor",
-          "episodes": {
-            "from": 23,
-            "to": 23
-          },
           "source_refs": [
             "s3",
             "s17"
           ]
         },
         {
-          "character": "invar",
+          "character": "inba",
           "person": "kiku-chi-tsuu-bu",
           "role": "minor",
-          "episodes": {
-            "from": 23,
-            "to": 23
-          },
           "source_refs": [
             "s3",
             "s70"
           ]
         },
         {
-          "character": "noor",
+          "character": "nuru",
           "person": "kyuu-den-kou-toku",
           "role": "minor",
-          "episodes": {
-            "from": 23,
-            "to": 23
-          },
           "source_refs": [
             "s3",
             "s15"
           ]
         },
         {
-          "character": "brigan",
+          "character": "burigan",
           "person": "shin-boku-shun-ichi",
           "role": "minor",
-          "episodes": {
-            "from": 23,
-            "to": 23
-          },
           "source_refs": [
             "s3",
             "s51"
           ]
         },
         {
-          "character": "laios-father",
+          "character": "raiosuno-fu",
           "person": "chuu-son-wa-sei",
           "role": "minor",
-          "episodes": "11, 19",
           "source_refs": [
             "s3",
             "s49"
           ]
         },
         {
-          "character": "laios-mother",
+          "character": "raiosuno-bo",
           "person": "tou-den-ai-ya",
           "role": "minor",
-          "episodes": {
-            "from": 19,
-            "to": 19
-          },
           "source_refs": [
             "s3",
             "s66"
           ]
         },
         {
-          "character": "marcille-mother",
+          "character": "marushiruno-bo",
           "person": "yuu-koku-kai-rei",
           "role": "minor",
-          "episodes": {
-            "from": 2,
-            "to": 2
-          },
           "source_refs": [
             "s3",
             "s32"
           ]
         },
         {
-          "character": "narrator-s1",
+          "character": "nareshon",
           "person": "san-jou-tetsu",
           "role": "minor",
           "source_refs": [
@@ -639,140 +544,99 @@
           ]
         },
         {
-          "character": "rookie-adventurer-s1",
+          "character": "mei-kyuu-sho-shin-sha",
           "person": "shin-boku-shun-ichi",
           "role": "minor",
-          "episodes": {
-            "from": 1,
-            "to": 1
-          },
           "source_refs": [
             "s3",
             "s51"
           ]
         },
         {
-          "character": "gold-stripper-leader-s1",
+          "character": "kin-haku-girida",
           "person": "kichi-hon-gen-ki",
           "role": "minor",
-          "episodes": "3, 19",
           "source_refs": [
             "s3",
             "s26"
           ]
         },
         {
-          "character": "gold-stripper-dwarf-s1",
+          "character": "kin-haku-gidowafu",
           "person": "shou-sen-yuu-ki",
           "role": "minor",
-          "episodes": {
-            "from": 3,
-            "to": 3
-          },
           "source_refs": [
             "s3",
             "s36"
           ]
         },
         {
-          "character": "bodyguard-s1e4",
+          "character": "you-shin-bou",
           "person": "den-sho-you-kou",
           "role": "minor",
-          "episodes": {
-            "from": 4,
-            "to": 4
-          },
           "source_refs": [
             "s3",
             "s53"
           ]
         },
         {
-          "character": "shopkeeper-s1e4",
+          "character": "ten-shu",
           "person": "yuu-ju",
           "role": "minor",
-          "episodes": {
-            "from": 4,
-            "to": 4
-          },
           "source_refs": [
             "s3",
             "s79"
           ]
         },
         {
-          "character": "female-orc-s1e4",
+          "character": "jo-oku",
           "person": "gan-san-naomi",
           "role": "minor",
-          "episodes": {
-            "from": 4,
-            "to": 4
-          },
           "source_refs": [
             "s3",
             "s40"
           ]
         },
         {
-          "character": "male-orc-s1e4",
+          "character": "dan-oku",
           "person": "chuu-mu-ki-kou",
           "role": "minor",
-          "episodes": {
-            "from": 4,
-            "to": 4
-          },
           "source_refs": [
             "s3",
             "s41"
           ]
         },
         {
-          "character": "orc-child-s1e4",
+          "character": "shi-oku",
           "person": "in-han-ri-kai",
           "role": "minor",
-          "episodes": {
-            "from": 4,
-            "to": 4
-          },
           "source_refs": [
             "s3",
             "s61"
           ]
         },
         {
-          "character": "man-s1e5",
+          "character": "dan",
           "person": "men-kan-ryuu-shi-kai",
           "role": "minor",
-          "episodes": {
-            "from": 5,
-            "to": 5
-          },
           "source_refs": [
             "s3",
             "s42"
           ]
         },
         {
-          "character": "man-s1e6",
+          "character": "dan-2",
           "person": "shin-boku-shun-ichi",
           "role": "minor",
-          "episodes": {
-            "from": 6,
-            "to": 6
-          },
           "source_refs": [
             "s3",
             "s51"
           ]
         },
         {
-          "character": "queen-s1e6",
+          "character": "ou-hi",
           "person": "sui-shin-chiko",
           "role": "minor",
-          "episodes": {
-            "from": 6,
-            "to": 6
-          },
           "credited_as": "杉村ちか子",
           "source_refs": [
             "s3",
@@ -780,329 +644,234 @@
           ]
         },
         {
-          "character": "maid-s1e6",
+          "character": "ji-jo",
           "person": "ya-son-kou-sai-shi",
           "role": "minor",
-          "episodes": {
-            "from": 6,
-            "to": 6
-          },
           "source_refs": [
             "s3",
             "s31"
           ]
         },
         {
-          "character": "corpse-collector-a-s1",
+          "character": "shi-tei-kai-shuu-oku-a",
           "person": "shin-boku-shun-ichi",
           "role": "minor",
-          "episodes": "7, 14",
           "source_refs": [
             "s3",
             "s51"
           ]
         },
         {
-          "character": "corpse-collector-b-s1",
+          "character": "shi-tei-kai-shuu-oku-b",
           "person": "son-sei-yuu-ji",
           "role": "minor",
-          "episodes": "7, 14",
           "source_refs": [
             "s3",
             "s57"
           ]
         },
         {
-          "character": "mermaid-s1",
+          "character": "jin-gyo",
           "person": "sou-ken-sa-shoku",
           "role": "minor",
-          "episodes": {
-            "from": 7,
-            "to": 7
-          },
           "source_refs": [
             "s3",
             "s23"
           ]
         },
         {
-          "character": "teacher-s1e8",
+          "character": "sen-sei",
           "person": "sa-tou-hana",
           "role": "minor",
-          "episodes": {
-            "from": 8,
-            "to": 8
-          },
           "source_refs": [
             "s3",
             "s39"
           ]
         },
         {
-          "character": "student-1-s1e8",
+          "character": "sei-to-1",
           "person": "ji-taku-hyaku-ka",
           "role": "minor",
-          "episodes": {
-            "from": 8,
-            "to": 8
-          },
           "source_refs": [
             "s3",
             "s78"
           ]
         },
         {
-          "character": "student-2-s1e8",
+          "character": "sei-to-2",
           "person": "hachi-shin-ketsu-kou",
           "role": "minor",
-          "episodes": {
-            "from": 8,
-            "to": 8
-          },
           "source_refs": [
             "s3",
             "s67"
           ]
         },
         {
-          "character": "student-3-s1e8",
+          "character": "sei-to-3",
           "person": "en-ya-hikaru",
           "role": "minor",
-          "episodes": {
-            "from": 8,
-            "to": 8
-          },
           "source_refs": [
             "s3",
             "s82"
           ]
         },
         {
-          "character": "receptionist-s1e10",
+          "character": "ju-fu",
           "person": "shin-sou-ken-ta",
           "role": "minor",
-          "episodes": {
-            "from": 10,
-            "to": 10
-          },
           "source_refs": [
             "s3",
             "s73"
           ]
         },
         {
-          "character": "villager-1-s1e11",
+          "character": "son-jin-1",
           "person": "shaku-koku-shi-gou",
           "role": "minor",
-          "episodes": {
-            "from": 11,
-            "to": 11
-          },
           "source_refs": [
             "s3",
             "s68"
           ]
         },
         {
-          "character": "villager-2-s1e11",
+          "character": "son-jin-2",
           "person": "tou-den-kan-gen",
           "role": "minor",
-          "episodes": {
-            "from": 11,
-            "to": 11
-          },
           "source_refs": [
             "s3",
             "s76"
           ]
         },
         {
-          "character": "villager-3-s1e11",
+          "character": "son-jin-3",
           "person": "tai-koku-ri-bi",
           "role": "minor",
-          "episodes": {
-            "from": 11,
-            "to": 11
-          },
           "source_refs": [
             "s3",
             "s29"
           ]
         },
         {
-          "character": "orc-a-s1e13",
+          "character": "oku-a",
           "person": "men-kan-ryuu-shi-kai",
           "role": "minor",
-          "episodes": {
-            "from": 13,
-            "to": 13
-          },
           "source_refs": [
             "s3",
             "s42"
           ]
         },
         {
-          "character": "orc-b-s1e13",
+          "character": "oku-b",
           "person": "shin-boku-shun-ichi",
           "role": "minor",
-          "episodes": {
-            "from": 13,
-            "to": 13
-          },
           "source_refs": [
             "s3",
             "s51"
           ]
         },
         {
-          "character": "orc-c-s1e13",
+          "character": "oku-c",
           "person": "chuu-mu-ki-kou",
           "role": "minor",
-          "episodes": {
-            "from": 13,
-            "to": 13
-          },
           "source_refs": [
             "s3",
             "s41"
           ]
         },
         {
-          "character": "dryad-1-s1",
+          "character": "doraiado-1",
           "person": "yuu-koku-kai-rei",
           "role": "minor",
-          "episodes": {
-            "from": 15,
-            "to": 15
-          },
           "source_refs": [
             "s3",
             "s32"
           ]
         },
         {
-          "character": "dryad-2-s1",
+          "character": "doraiado-2",
           "person": "tou-den-ai-ya",
           "role": "minor",
-          "episodes": {
-            "from": 15,
-            "to": 15
-          },
           "source_refs": [
             "s3",
             "s66"
           ]
         },
         {
-          "character": "dryad-3-s1",
+          "character": "doraiado-3",
           "person": "sakaki-gen-yuu-ki",
           "role": "minor",
-          "episodes": {
-            "from": 15,
-            "to": 15
-          },
           "source_refs": [
             "s3",
             "s72"
           ]
         },
         {
-          "character": "hag-s1",
+          "character": "san-bo",
           "person": "nichi-ryuu-you-shi",
           "role": "minor",
-          "episodes": {
-            "from": 19,
-            "to": 19
-          },
           "source_refs": [
             "s3",
             "s24"
           ]
         },
         {
-          "character": "villager-1-s1e21",
+          "character": "son-jin-1-2",
           "person": "hou-den-tai-mu",
           "role": "minor",
-          "episodes": {
-            "from": 21,
-            "to": 21
-          },
           "source_refs": [
             "s3",
             "s56"
           ]
         },
         {
-          "character": "villager-2-s1e21",
+          "character": "son-jin-2-2",
           "person": "chuu-son-kanna",
           "role": "minor",
-          "episodes": {
-            "from": 21,
-            "to": 21
-          },
           "source_refs": [
             "s3",
             "s74"
           ]
         },
         {
-          "character": "villager-3-s1e21",
+          "character": "son-jin-3-2",
           "person": "shou-rin-tai-ki",
           "role": "minor",
-          "episodes": {
-            "from": 21,
-            "to": 21
-          },
           "source_refs": [
             "s3",
             "s47"
           ]
         },
         {
-          "character": "villager-4-s1e21",
+          "character": "son-jin-4",
           "person": "itousatoru",
           "role": "minor",
-          "episodes": {
-            "from": 21,
-            "to": 21
-          },
           "source_refs": [
             "s3",
             "s25"
           ]
         },
         {
-          "character": "villager-5-s1e21",
+          "character": "son-jin-5",
           "person": "rin-zui-ki",
           "role": "minor",
-          "episodes": {
-            "from": 21,
-            "to": 21
-          },
           "source_refs": [
             "s3",
             "s75"
           ]
         },
         {
-          "character": "villager-6-s1e21",
+          "character": "son-jin-6",
           "person": "ka-koku-bi-ki",
           "role": "minor",
-          "episodes": {
-            "from": 21,
-            "to": 21
-          },
           "source_refs": [
             "s3",
             "s65"
           ]
         },
         {
-          "character": "villager-7-s1e21",
+          "character": "son-jin-7",
           "person": "tou-den-ai-ya",
           "role": "minor",
-          "episodes": "21-22",
           "source_refs": [
             "s3",
             "s66"

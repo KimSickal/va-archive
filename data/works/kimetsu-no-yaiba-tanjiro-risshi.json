@@ -59,14 +59,10 @@
       "last_release_date": "2019-09-28",
       "credits": [
         {
-          "character": "tanjiro-kamado",
+          "character": "sou-mon-tan-ji-rou",
           "person": "ka-kou-ka-ju",
           "role": "main",
           "part": "regular",
-          "episodes": {
-            "from": 1,
-            "to": 26
-          },
           "source_refs": [
             "s3",
             "s4",
@@ -98,10 +94,9 @@
           ]
         },
         {
-          "character": "nezuko-kamado",
+          "character": "sou-mon-dei-tou-shi",
           "person": "ki-tou-mei-ri",
           "role": "main",
-          "episodes": "1-2, 6-10, 12-15, 19, 21-23, 25",
           "source_refs": [
             "s3",
             "s30",
@@ -123,10 +118,9 @@
           ]
         },
         {
-          "character": "giyu-tomioka",
+          "character": "fu-kou-gi-yuu",
           "person": "ou-sei-kou-kou",
           "role": "supporting",
-          "episodes": "1-2, 14-15, 18-22, 26",
           "source_refs": [
             "s3",
             "s31",
@@ -142,10 +136,9 @@
           ]
         },
         {
-          "character": "kie-kamado",
+          "character": "sou-mon-ki-shi",
           "person": "sou-tou-hou-shi",
           "role": "supporting",
-          "episodes": "1, 19",
           "source_refs": [
             "s3",
             "s32",
@@ -153,10 +146,9 @@
           ]
         },
         {
-          "character": "shigeru-kamado",
+          "character": "sou-mon-mo",
           "person": "hon-to-fuu",
           "role": "supporting",
-          "episodes": "1, 4",
           "source_refs": [
             "s3",
             "s33",
@@ -164,49 +156,36 @@
           ]
         },
         {
-          "character": "takeo-kamado",
+          "character": "sou-mon-chiku-yuu",
           "person": "tai-chi-you",
           "role": "minor",
-          "episodes": {
-            "from": 1,
-            "to": 1
-          },
           "source_refs": [
             "s3",
             "s34"
           ]
         },
         {
-          "character": "hanako-kamado",
+          "character": "sou-mon-ka-shi",
           "person": "shou-gen-kou-bi",
           "role": "minor",
-          "episodes": {
-            "from": 1,
-            "to": 1
-          },
           "source_refs": [
             "s3",
             "s35"
           ]
         },
         {
-          "character": "saburo",
+          "character": "san-rou",
           "person": "terasomamasaki",
           "role": "minor",
-          "episodes": {
-            "from": 1,
-            "to": 1
-          },
           "source_refs": [
             "s3",
             "s36"
           ]
         },
         {
-          "character": "kakushi",
+          "character": "in",
           "person": "kou-kyou-shin-ya",
           "role": "minor",
-          "episodes": "1-2, 6, 8, 13-15, 21, 26",
           "source_refs": [
             "s3",
             "s37",
@@ -222,10 +201,9 @@
           ]
         },
         {
-          "character": "kakushi",
+          "character": "in",
           "person": "gai-ki-yuu-ryou",
           "role": "minor",
-          "episodes": "1, 7-8, 11, 20-21",
           "source_refs": [
             "s3",
             "s39",
@@ -237,10 +215,9 @@
           ]
         },
         {
-          "character": "kakushi",
+          "character": "in",
           "person": "chou-koku-sen-hou-mei",
           "role": "minor",
-          "episodes": "1, 4, 8, 16, 20-21",
           "source_refs": [
             "s3",
             "s40",
@@ -252,10 +229,9 @@
           ]
         },
         {
-          "character": "zenitsu-agatsuma",
+          "character": "ga-sai-zen-itsu",
           "person": "ka-ya-kou",
           "role": "main",
-          "episodes": "5, 10-19, 21, 23-26",
           "source_refs": [
             "s5",
             "s41",
@@ -277,10 +253,9 @@
           ]
         },
         {
-          "character": "matsuemon",
+          "character": "ten-ou-ji-shou-u-ei-mon",
           "person": "san-ki-takumi",
           "role": "supporting",
-          "episodes": "5, 7, 10-12, 14-15, 25-26",
           "source_refs": [
             "s5",
             "s42",
@@ -295,13 +270,9 @@
           ]
         },
         {
-          "character": "tamayo",
+          "character": "shu-se",
           "person": "han-hon-shin-ryou",
           "role": "supporting",
-          "episodes": {
-            "from": 8,
-            "to": 10
-          },
           "source_refs": [
             "s5",
             "s43",
@@ -310,13 +281,9 @@
           ]
         },
         {
-          "character": "yushiro",
+          "character": "yu-shi-rou",
           "person": "san-ka-tai-ki",
           "role": "supporting",
-          "episodes": {
-            "from": 8,
-            "to": 10
-          },
           "source_refs": [
             "s5",
             "s44",
@@ -325,13 +292,9 @@
           ]
         },
         {
-          "character": "yahaba",
+          "character": "shi-ha-u",
           "person": "fuku-san-jun",
           "role": "supporting",
-          "episodes": {
-            "from": 8,
-            "to": 10
-          },
           "source_refs": [
             "s5",
             "s45",
@@ -340,13 +303,9 @@
           ]
         },
         {
-          "character": "susamaru",
+          "character": "shu-sa-gan",
           "person": "shou-shou-mi-ka-shi",
           "role": "supporting",
-          "episodes": {
-            "from": 8,
-            "to": 10
-          },
           "source_refs": [
             "s5",
             "s46",
@@ -355,10 +314,9 @@
           ]
         },
         {
-          "character": "inosuke-hashibira",
+          "character": "shi-hei-i-shi-jo",
           "person": "shou-kou-tei-shou",
           "role": "main",
-          "episodes": "11-19, 21, 23-26",
           "source_refs": [
             "s6",
             "s47",
@@ -378,10 +336,9 @@
           ]
         },
         {
-          "character": "chuntaro",
+          "character": "chun-ta-rou",
           "person": "shaku-ken-bu-sai-kou",
           "role": "supporting",
-          "episodes": "11, 15-17, 21, 25",
           "source_refs": [
             "s6",
             "s48",
@@ -393,13 +350,9 @@
           ]
         },
         {
-          "character": "shoichi",
+          "character": "sei-ichi",
           "person": "shi-rai-kou-kou",
           "role": "supporting",
-          "episodes": {
-            "from": 11,
-            "to": 14
-          },
           "source_refs": [
             "s6",
             "s49",
@@ -409,13 +362,9 @@
           ]
         },
         {
-          "character": "teruko",
+          "character": "teru-shi",
           "person": "kou-shou-bi-ho",
           "role": "supporting",
-          "episodes": {
-            "from": 11,
-            "to": 14
-          },
           "source_refs": [
             "s6",
             "s50",
@@ -425,13 +374,9 @@
           ]
         },
         {
-          "character": "kyogai",
+          "character": "kyou-gai",
           "person": "shu-hou-bu-jun-ichi",
           "role": "supporting",
-          "episodes": {
-            "from": 11,
-            "to": 13
-          },
           "source_refs": [
             "s6",
             "s51",
@@ -440,10 +385,9 @@
           ]
         },
         {
-          "character": "sakonji-urokodaki",
+          "character": "rin-sou-sa-kin-ji",
           "person": "tai-chou-hou-chuu",
           "role": "supporting",
-          "episodes": "2-6, 12, 22-23",
           "source_refs": [
             "s7",
             "s52",
@@ -457,13 +401,9 @@
           ]
         },
         {
-          "character": "kiyoshi",
+          "character": "sei",
           "person": "do-ki-jun-ichi",
           "role": "supporting",
-          "episodes": {
-            "from": 12,
-            "to": 14
-          },
           "source_refs": [
             "s7",
             "s53",
@@ -472,10 +412,9 @@
           ]
         },
         {
-          "character": "muzan-kibutsuji",
+          "character": "ki-bu-tsuji-mu-san",
           "person": "kan-shun-gen",
           "role": "supporting",
-          "episodes": "7-8, 12, 21, 26",
           "source_refs": [
             "s7",
             "s54",
@@ -486,36 +425,27 @@
           ]
         },
         {
-          "character": "mansion-demon-2",
+          "character": "oku-fu-no-ki-2",
           "person": "shin-en-son-jo",
           "role": "minor",
-          "episodes": {
-            "from": 12,
-            "to": 12
-          },
           "source_refs": [
             "s7",
             "s55"
           ]
         },
         {
-          "character": "tsuzumi-mansion-demon",
+          "character": "ko-oku-fu-no-ki",
           "person": "sen-gen-kei-kyuu",
           "role": "minor",
-          "episodes": {
-            "from": 12,
-            "to": 12
-          },
           "source_refs": [
             "s7",
             "s56"
           ]
         },
         {
-          "character": "wisteria-house-old-woman",
+          "character": "o-ba-san",
           "person": "koku-iku-shi",
           "role": "minor",
-          "episodes": "14-15, 18",
           "source_refs": [
             "s9",
             "s57",
@@ -524,10 +454,9 @@
           ]
         },
         {
-          "character": "kagaya-ubuyashiki",
+          "character": "san-oku-fu-you-sai",
           "person": "shin-sen-chi-shi",
           "role": "supporting",
-          "episodes": "5, 15, 22-23, 26",
           "source_refs": [
             "s10",
             "s58",
@@ -538,10 +467,9 @@
           ]
         },
         {
-          "character": "shinobu-kocho",
+          "character": "ko-chou-shinobu",
           "person": "sou-ken-sa-shoku",
           "role": "supporting",
-          "episodes": "15, 18-26",
           "source_refs": [
             "s10",
             "s59",
@@ -557,10 +485,9 @@
           ]
         },
         {
-          "character": "murata",
+          "character": "son-den",
           "person": "kyuu-den-kou-ki",
           "role": "supporting",
-          "episodes": "15-16, 20, 24",
           "source_refs": [
             "s10",
             "s60",
@@ -573,7 +500,6 @@
           "character": "rui",
           "person": "dai-san-kou-ki",
           "role": "supporting",
-          "episodes": "15-16, 18-21",
           "source_refs": [
             "s10",
             "s61",
@@ -585,10 +511,9 @@
           ]
         },
         {
-          "character": "spider-demon-mother",
+          "character": "bo-chi-shu",
           "person": "shou-sei-sui-a-bi",
           "role": "supporting",
-          "episodes": "15-16, 20",
           "source_refs": [
             "s10",
             "s62",
@@ -597,13 +522,9 @@
           ]
         },
         {
-          "character": "spider-demon-son",
+          "character": "kei-chi-shu",
           "person": "shin-kyuu-ho-shou-ta-rou",
           "role": "supporting",
-          "episodes": {
-            "from": 16,
-            "to": 17
-          },
           "source_refs": [
             "s11",
             "s63",
@@ -611,26 +532,18 @@
           ]
         },
         {
-          "character": "ozaki",
+          "character": "bi-ki",
           "person": "tou-jou-nichi-sa-shi",
           "role": "minor",
-          "episodes": {
-            "from": 16,
-            "to": 16
-          },
           "source_refs": [
             "s11",
             "s64"
           ]
         },
         {
-          "character": "jigoro-kuwajima",
+          "character": "sou-tou-ji-go-rou",
           "person": "sen-you-han",
           "role": "supporting",
-          "episodes": {
-            "from": 17,
-            "to": 18
-          },
           "credited_as": "善逸の師匠",
           "source_refs": [
             "s12",
@@ -639,13 +552,9 @@
           ]
         },
         {
-          "character": "kaigaku",
+          "character": "kai-gaku",
           "person": "sei-koku-ka-sei",
           "role": "minor",
-          "episodes": {
-            "from": 17,
-            "to": 17
-          },
           "credited_as": "善逸の兄弟子",
           "source_refs": [
             "s12",
@@ -653,13 +562,9 @@
           ]
         },
         {
-          "character": "spider-demon-daughter",
+          "character": "shi-chi-shu",
           "person": "haku-shaku-ryou-shi",
           "role": "supporting",
-          "episodes": {
-            "from": 17,
-            "to": 20
-          },
           "source_refs": [
             "s12",
             "s67",
@@ -669,13 +574,9 @@
           ]
         },
         {
-          "character": "spider-demon-father",
+          "character": "fu-chi-shu",
           "person": "tou-den-tetsu",
           "role": "supporting",
-          "episodes": {
-            "from": 17,
-            "to": 18
-          },
           "source_refs": [
             "s12",
             "s68",
@@ -683,13 +584,9 @@
           ]
         },
         {
-          "character": "mysterious-woman",
+          "character": "shi-hei-kin-you",
           "person": "nou-tou-ma-bi-shi",
           "role": "minor",
-          "episodes": {
-            "from": 18,
-            "to": 18
-          },
           "credited_as": "謎の女性",
           "source_refs": [
             "s13",
@@ -697,14 +594,10 @@
           ]
         },
         {
-          "character": "tanjiro-kamado",
+          "character": "sou-mon-tan-ji-rou",
           "person": "sa-tou-sou-bi",
           "role": "supporting",
           "part": "young",
-          "episodes": {
-            "from": 19,
-            "to": 19
-          },
           "credited_as": "竈門炭治郎(幼少期)",
           "source_refs": [
             "s14",
@@ -712,23 +605,18 @@
           ]
         },
         {
-          "character": "tanjuro-kamado",
+          "character": "sou-mon-tan-juu-rou",
           "person": "san-boku-shin-ichi-rou",
           "role": "minor",
-          "episodes": {
-            "from": 19,
-            "to": 19
-          },
           "source_refs": [
             "s14",
             "s71"
           ]
         },
         {
-          "character": "goto",
+          "character": "go-tou",
           "person": "ko-sen-shin",
           "role": "supporting",
-          "episodes": "19, 21-23",
           "source_refs": [
             "s14",
             "s72",
@@ -738,10 +626,9 @@
           ]
         },
         {
-          "character": "kakushi",
+          "character": "in",
           "person": "tou-jou-nichi-sa-shi",
           "role": "minor",
-          "episodes": "19, 21-23",
           "source_refs": [
             "s14",
             "s64",
@@ -751,23 +638,18 @@
           ]
         },
         {
-          "character": "temple-demon",
+          "character": "o-dou-no-ki",
           "person": "ryoku-sen-kou",
           "role": "minor",
-          "episodes": {
-            "from": 2,
-            "to": 2
-          },
           "source_refs": [
             "s15",
             "s73"
           ]
         },
         {
-          "character": "kanao-tsuyuri",
+          "character": "ritsu-ka-raku-kanao",
           "person": "jou-den-rei-na",
           "role": "supporting",
-          "episodes": "21, 25-26",
           "source_refs": [
             "s17",
             "s74",
@@ -776,78 +658,54 @@
           ]
         },
         {
-          "character": "kasugai-crow",
+          "character": "kasugai-a",
           "person": "kou-boku-shou",
           "role": "minor",
-          "episodes": {
-            "from": 21,
-            "to": 21
-          },
           "source_refs": [
             "s17",
             "s75"
           ]
         },
         {
-          "character": "kasugai-crow",
+          "character": "kasugai-a",
           "person": "kai-san-shuu-shi",
           "role": "minor",
-          "episodes": {
-            "from": 21,
-            "to": 21
-          },
           "source_refs": [
             "s17",
             "s76"
           ]
         },
         {
-          "character": "rui-mother",
+          "character": "rui-no-bo",
           "person": "sou-koku-ka-shi",
           "role": "minor",
-          "episodes": {
-            "from": 21,
-            "to": 21
-          },
           "source_refs": [
             "s17",
             "s77"
           ]
         },
         {
-          "character": "rui-father",
+          "character": "rui-no-fu",
           "person": "ritsu-ka-shin-shi-kai",
           "role": "minor",
-          "episodes": {
-            "from": 21,
-            "to": 21
-          },
           "source_refs": [
             "s17",
             "s78"
           ]
         },
         {
-          "character": "kakushi",
+          "character": "in",
           "person": "sei-sui-sai-kou",
           "role": "minor",
-          "episodes": {
-            "from": 21,
-            "to": 21
-          },
           "source_refs": [
             "s17",
             "s79"
           ]
         },
         {
-          "character": "kyojuro-rengoku",
+          "character": "ren-goku-kyou-ju-rou",
           "person": "nichi-ya-sou",
           "role": "supporting",
-          "episodes": {
-            "from": 22,
-            "to": 24
-          },
           "source_refs": [
             "s18",
             "s80",
@@ -856,13 +714,9 @@
           ]
         },
         {
-          "character": "tengen-uzui",
+          "character": "u-zui-ten-gen",
           "person": "shou-sei-koku-kou",
           "role": "supporting",
-          "episodes": {
-            "from": 22,
-            "to": 23
-          },
           "source_refs": [
             "s18",
             "s81",
@@ -870,13 +724,9 @@
           ]
         },
         {
-          "character": "muichiro-tokito",
+          "character": "ji-tou-mu-ichi-rou",
           "person": "ka-sei-ken-go",
           "role": "supporting",
-          "episodes": {
-            "from": 22,
-            "to": 23
-          },
           "source_refs": [
             "s18",
             "s82",
@@ -884,13 +734,9 @@
           ]
         },
         {
-          "character": "mitsuri-kanroji",
+          "character": "kan-ro-ji-mitsu-ri",
           "person": "ka-taku-kou-sai",
           "role": "supporting",
-          "episodes": {
-            "from": 22,
-            "to": 23
-          },
           "source_refs": [
             "s18",
             "s83",
@@ -898,13 +744,9 @@
           ]
         },
         {
-          "character": "obanai-iguro",
+          "character": "i-koku-shou-ba-dai",
           "person": "rei-son-ken-ichi",
           "role": "supporting",
-          "episodes": {
-            "from": 22,
-            "to": 23
-          },
           "source_refs": [
             "s18",
             "s84",
@@ -912,13 +754,9 @@
           ]
         },
         {
-          "character": "sanemi-shinazugawa",
+          "character": "fu-shi-sen-jitsu-mi",
           "person": "kan-chi-ichi",
           "role": "supporting",
-          "episodes": {
-            "from": 22,
-            "to": 23
-          },
           "source_refs": [
             "s18",
             "s85",
@@ -926,13 +764,9 @@
           ]
         },
         {
-          "character": "gyomei-himejima",
+          "character": "hi-mei-sho-kou-mei",
           "person": "san-den-chi-wa",
           "role": "supporting",
-          "episodes": {
-            "from": 22,
-            "to": 23
-          },
           "source_refs": [
             "s18",
             "s86",
@@ -940,13 +774,9 @@
           ]
         },
         {
-          "character": "hinaki-ubuyashiki",
+          "character": "san-oku-fu-hinaki",
           "person": "ka-shu-yumiri",
           "role": "supporting",
-          "episodes": {
-            "from": 22,
-            "to": 23
-          },
           "source_refs": [
             "s18",
             "s87",
@@ -954,13 +784,9 @@
           ]
         },
         {
-          "character": "nichika-ubuyashiki",
+          "character": "san-oku-fu-nichika",
           "person": "shou-taku-a-ri",
           "role": "supporting",
-          "episodes": {
-            "from": 22,
-            "to": 23
-          },
           "source_refs": [
             "s18",
             "s88",
@@ -968,13 +794,9 @@
           ]
         },
         {
-          "character": "aoi-kanzaki",
+          "character": "shin-ki-aoi",
           "person": "kou-gen-yuu-ri",
           "role": "supporting",
-          "episodes": {
-            "from": 23,
-            "to": 26
-          },
           "source_refs": [
             "s19",
             "s89",
@@ -984,13 +806,9 @@
           ]
         },
         {
-          "character": "kiyo-terauchi",
+          "character": "ji-dai-kiyo",
           "person": "san-ka-shichi-kai",
           "role": "supporting",
-          "episodes": {
-            "from": 23,
-            "to": 26
-          },
           "source_refs": [
             "s19",
             "s90",
@@ -1000,10 +818,9 @@
           ]
         },
         {
-          "character": "hotaru-haganezuka",
+          "character": "kou-tetsu-chou-kei",
           "person": "rou-sen-tai-fu",
           "role": "supporting",
-          "episodes": "5, 24-25",
           "source_refs": [
             "s20",
             "s91",
@@ -1012,13 +829,9 @@
           ]
         },
         {
-          "character": "sumi-nakahara",
+          "character": "chuu-gen-sumi",
           "person": "shin-ya-ayumi",
           "role": "supporting",
-          "episodes": {
-            "from": 24,
-            "to": 26
-          },
           "source_refs": [
             "s20",
             "s92",
@@ -1027,13 +840,9 @@
           ]
         },
         {
-          "character": "naho-takada",
+          "character": "kou-den-naho",
           "person": "sou-gen-yuu-ki",
           "role": "supporting",
-          "episodes": {
-            "from": 24,
-            "to": 26
-          },
           "source_refs": [
             "s20",
             "s93",
@@ -1042,39 +851,27 @@
           ]
         },
         {
-          "character": "kanae-kocho",
+          "character": "ko-chou-kanae",
           "person": "bou-ya-ai-i",
           "role": "minor",
-          "episodes": {
-            "from": 25,
-            "to": 25
-          },
           "source_refs": [
             "s21",
             "s94"
           ]
         },
         {
-          "character": "kozo-kanamori",
+          "character": "tetsu-ketsu-shin-kou-zou",
           "person": "chiku-hon-ei-shi",
           "role": "minor",
-          "episodes": {
-            "from": 25,
-            "to": 25
-          },
           "source_refs": [
             "s21",
             "s95"
           ]
         },
         {
-          "character": "enmu",
+          "character": "en-mu",
           "person": "hei-sen-tai-fu",
           "role": "minor",
-          "episodes": {
-            "from": 26,
-            "to": 26
-          },
           "credited_as": "下弦の壱",
           "source_refs": [
             "s22",
@@ -1082,65 +879,45 @@
           ]
         },
         {
-          "character": "kamanue",
+          "character": "fu-ya",
           "person": "nan-tai-ten",
           "role": "minor",
-          "episodes": {
-            "from": 26,
-            "to": 26
-          },
           "source_refs": [
             "s22",
             "s97"
           ]
         },
         {
-          "character": "rokuro",
+          "character": "roku-ro",
           "person": "ho-shi-sou-ichi-rou",
           "role": "minor",
-          "episodes": {
-            "from": 26,
-            "to": 26
-          },
           "source_refs": [
             "s22",
             "s98"
           ]
         },
         {
-          "character": "wakuraba",
+          "character": "byou-you",
           "person": "shoku-den-ka-na",
           "role": "minor",
-          "episodes": {
-            "from": 26,
-            "to": 26
-          },
           "source_refs": [
             "s22",
             "s99"
           ]
         },
         {
-          "character": "mukago",
+          "character": "rei-yo-shi",
           "person": "kenn",
           "role": "minor",
-          "episodes": {
-            "from": 26,
-            "to": 26
-          },
           "source_refs": [
             "s22",
             "s100"
           ]
         },
         {
-          "character": "sabito",
+          "character": "sei-to",
           "person": "bi-yuu-ki",
           "role": "supporting",
-          "episodes": {
-            "from": 3,
-            "to": 4
-          },
           "source_refs": [
             "s23",
             "s101",
@@ -1148,13 +925,9 @@
           ]
         },
         {
-          "character": "makomo",
+          "character": "shin-ko",
           "person": "ka-wai-a-i",
           "role": "supporting",
-          "episodes": {
-            "from": 3,
-            "to": 4
-          },
           "source_refs": [
             "s23",
             "s102",
@@ -1162,13 +935,9 @@
           ]
         },
         {
-          "character": "kiriya-ubuyashiki",
+          "character": "san-oku-fu-ki-ri-sai",
           "person": "yuu-boku-heki",
           "role": "supporting",
-          "episodes": {
-            "from": 4,
-            "to": 5
-          },
           "credited_as": "案内人・黒髪",
           "source_refs": [
             "s24",
@@ -1177,13 +946,9 @@
           ]
         },
         {
-          "character": "kanata-ubuyashiki",
+          "character": "san-oku-fu-kanata",
           "person": "sei-taku-shi-shoku",
           "role": "supporting",
-          "episodes": {
-            "from": 4,
-            "to": 5
-          },
           "credited_as": "案内人・白髪",
           "source_refs": [
             "s24",
@@ -1192,14 +957,10 @@
           ]
         },
         {
-          "character": "hand-demon",
+          "character": "shu-ki",
           "person": "shi-an-bu-jin",
           "role": "supporting",
           "part": "regular",
-          "episodes": {
-            "from": 4,
-            "to": 5
-          },
           "source_refs": [
             "s24",
             "s105",
@@ -1207,27 +968,19 @@
           ]
         },
         {
-          "character": "genya-shinazugawa",
+          "character": "fu-shi-sen-gen-mi",
           "person": "kou-hon-shin-gen",
           "role": "minor",
-          "episodes": {
-            "from": 5,
-            "to": 5
-          },
           "source_refs": [
             "s25",
             "s106"
           ]
         },
         {
-          "character": "hand-demon",
+          "character": "shu-ki",
           "person": "hou-ki-ai-sei",
           "role": "minor",
           "part": "young",
-          "episodes": {
-            "from": 5,
-            "to": 5
-          },
           "credited_as": "手鬼(幼少期)",
           "source_refs": [
             "s25",
@@ -1235,26 +988,18 @@
           ]
         },
         {
-          "character": "hand-demon-brother",
+          "character": "shu-ki-no-kei",
           "person": "shou-shi-shin-kin",
           "role": "minor",
-          "episodes": {
-            "from": 5,
-            "to": 5
-          },
           "source_refs": [
             "s25",
             "s108"
           ]
         },
         {
-          "character": "kazumi",
+          "character": "wa-shi",
           "person": "shu-sei-kou-tai",
           "role": "supporting",
-          "episodes": {
-            "from": 6,
-            "to": 7
-          },
           "source_refs": [
             "s26",
             "s109",
@@ -1265,23 +1010,15 @@
           "character": "tokie",
           "person": "fu-kou-bi-sa-shi",
           "role": "minor",
-          "episodes": {
-            "from": 6,
-            "to": 6
-          },
           "source_refs": [
             "s26",
             "s110"
           ]
         },
         {
-          "character": "swamp-demon",
+          "character": "shou-no-ki",
           "person": "boku-son-ryou-hei",
           "role": "supporting",
-          "episodes": {
-            "from": 6,
-            "to": 7
-          },
           "source_refs": [
             "s26",
             "s111",
@@ -1289,13 +1026,9 @@
           ]
         },
         {
-          "character": "muzan-wife",
+          "character": "ki-bu-tsuji-no-sai",
           "person": "kai-kou-yuu-shi",
           "role": "supporting",
-          "episodes": {
-            "from": 7,
-            "to": 8
-          },
           "source_refs": [
             "s27",
             "s112",
@@ -1303,13 +1036,9 @@
           ]
         },
         {
-          "character": "muzan-daughter",
+          "character": "ki-bu-tsuji-no-jou",
           "person": "haku-shaku-sei-kou",
           "role": "supporting",
-          "episodes": {
-            "from": 7,
-            "to": 8
-          },
           "source_refs": [
             "s27",
             "s113",
@@ -1317,13 +1046,9 @@
           ]
         },
         {
-          "character": "udon-vendor",
+          "character": "udon-oku-no-ten-shu",
           "person": "gan-den-kou-ou",
           "role": "minor",
-          "episodes": {
-            "from": 7,
-            "to": 8
-          },
           "source_refs": [
             "s27",
             "s114",
@@ -1331,13 +1056,9 @@
           ]
         },
         {
-          "character": "yocchan",
+          "character": "yotchan",
           "person": "shu-chou-hiromichi",
           "role": "minor",
-          "episodes": {
-            "from": 8,
-            "to": 8
-          },
           "source_refs": [
             "s28",
             "s115"
@@ -1373,265 +1094,201 @@
       ],
       "credits": [
         {
-          "character": "tanjiro-kamado",
+          "character": "sou-mon-tan-ji-rou",
           "person": "i-gyeong-tae",
           "role": "main",
           "part": "regular",
-          "episodes": {
-            "from": 1,
-            "to": 26
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "nezuko-kamado",
+          "character": "sou-mon-dei-tou-shi",
           "person": "i-i-ro",
           "role": "main",
-          "episodes": "1-2, 6-10, 12-15, 19, 21-23, 25",
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "giyu-tomioka",
+          "character": "fu-kou-gi-yuu",
           "person": "jeong-jae-heon",
           "role": "supporting",
-          "episodes": "1-2, 14-15, 17-19, 21-22, 26",
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kie-kamado",
+          "character": "sou-mon-ki-shi",
           "person": "i-hyeon-jin",
           "role": "supporting",
-          "episodes": "1, 19",
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "shigeru-kamado",
+          "character": "sou-mon-mo",
           "person": "yu-hye-ji",
           "role": "supporting",
-          "episodes": "1, 4",
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "takeo-kamado",
+          "character": "sou-mon-chiku-yuu",
           "person": "bak-i-seo",
           "role": "minor",
-          "episodes": {
-            "from": 1,
-            "to": 1
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "hanako-kamado",
+          "character": "sou-mon-ka-shi",
           "person": "chae-rim",
           "role": "minor",
-          "episodes": {
-            "from": 1,
-            "to": 1
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "saburo",
+          "character": "san-rou",
           "person": "so-jeong-hwan",
           "role": "minor",
-          "episodes": {
-            "from": 1,
-            "to": 1
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "sakonji-urokodaki",
+          "character": "rin-sou-sa-kin-ji",
           "person": "song-jun-seok",
           "role": "supporting",
-          "episodes": "2-6, 12, 22-23",
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "temple-demon",
+          "character": "o-dou-no-ki",
           "person": "jeong-seong-hun",
           "role": "minor",
-          "episodes": {
-            "from": 2,
-            "to": 2
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "sabito",
+          "character": "sei-to",
           "person": "gim-hyeon-uk",
           "role": "supporting",
-          "episodes": {
-            "from": 3,
-            "to": 4
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "makomo",
+          "character": "shin-ko",
           "person": "gang-sae-bom",
           "role": "supporting",
-          "episodes": {
-            "from": 3,
-            "to": 4
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kiriya-ubuyashiki",
+          "character": "san-oku-fu-ki-ri-sai",
           "person": "i-ju-eun",
           "role": "supporting",
-          "episodes": {
-            "from": 4,
-            "to": 5
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kanata-ubuyashiki",
+          "character": "san-oku-fu-kanata",
           "person": "jang-ye-na",
           "role": "supporting",
-          "episodes": {
-            "from": 4,
-            "to": 5
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "hand-demon",
+          "character": "shu-ki",
           "person": "gim-gi-cheol",
           "role": "supporting",
           "part": "regular",
-          "episodes": {
-            "from": 4,
-            "to": 5
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "zenitsu-agatsuma",
+          "character": "ga-sai-zen-itsu",
           "person": "seok-seung-hun",
           "role": "main",
-          "episodes": "5, 10-19, 21, 23-26",
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "genya-shinazugawa",
+          "character": "fu-shi-sen-gen-mi",
           "person": "bak-min-gi",
           "role": "minor",
-          "episodes": {
-            "from": 5,
-            "to": 5
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "hotaru-haganezuka",
+          "character": "kou-tetsu-chou-kei",
           "person": "i-hyeon",
           "role": "supporting",
-          "episodes": "5, 24-25",
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kagaya-ubuyashiki",
+          "character": "san-oku-fu-you-sai",
           "person": "sin-yong-u",
           "role": "supporting",
-          "episodes": "5, 15, 22-23, 26",
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "hand-demon",
+          "character": "shu-ki",
           "person": "gim-a-rong",
           "role": "minor",
           "part": "young",
-          "episodes": {
-            "from": 5,
-            "to": 5
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "hand-demon-brother",
+          "character": "shu-ki-no-kei",
           "person": "i-dal-rae",
           "role": "minor",
-          "episodes": {
-            "from": 5,
-            "to": 5
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kazumi",
+          "character": "wa-shi",
           "person": "jeong-ui-taek",
           "role": "minor",
-          "episodes": {
-            "from": 6,
-            "to": 6
-          },
           "source_refs": [
             "s116"
           ],
@@ -1641,236 +1298,177 @@
           "character": "tokie",
           "person": "gwon-da-ye",
           "role": "minor",
-          "episodes": {
-            "from": 6,
-            "to": 6
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "swamp-demon",
+          "character": "shou-no-ki",
           "person": "jang-seo-hwa",
           "role": "supporting",
-          "episodes": {
-            "from": 6,
-            "to": 7
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "matsuemon",
+          "character": "ten-ou-ji-shou-u-ei-mon",
           "person": "gim-so-hyeong",
           "role": "supporting",
-          "episodes": "7, 10-12, 14-15, 25-26",
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "muzan-wife",
+          "character": "ki-bu-tsuji-no-sai",
           "person": "gim-ga-ryeong",
           "role": "supporting",
-          "episodes": {
-            "from": 7,
-            "to": 8
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "muzan-daughter",
+          "character": "ki-bu-tsuji-no-jou",
           "person": "gim-yun-chae",
           "role": "supporting",
-          "episodes": {
-            "from": 7,
-            "to": 8
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "udon-vendor",
+          "character": "udon-oku-no-ten-shu",
           "person": "hong-seung-hyo",
           "role": "minor",
-          "episodes": {
-            "from": 7,
-            "to": 8
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "muzan-kibutsuji",
+          "character": "ki-bu-tsuji-mu-san",
           "person": "gim-seung-jun",
           "role": "supporting",
-          "episodes": "7-8, 12, 21, 26",
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "tamayo",
+          "character": "shu-se",
           "person": "yeo-min-jeong",
           "role": "supporting",
-          "episodes": {
-            "from": 8,
-            "to": 10
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "yushiro",
+          "character": "yu-shi-rou",
           "person": "sim-gyu-hyeok",
           "role": "supporting",
-          "episodes": {
-            "from": 8,
-            "to": 10
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "yahaba",
+          "character": "shi-ha-u",
           "person": "jeong-ju-won",
           "role": "supporting",
-          "episodes": {
-            "from": 8,
-            "to": 10
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "susamaru",
+          "character": "shu-sa-gan",
           "person": "seo-da-hye",
           "role": "supporting",
-          "episodes": {
-            "from": 8,
-            "to": 10
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "inosuke-hashibira",
+          "character": "shi-hei-i-shi-jo",
           "person": "min-seung-u",
           "role": "main",
-          "episodes": "11-19, 21, 23-26",
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "chuntaro",
+          "character": "chun-ta-rou",
           "person": "jeong-hae-eun",
           "role": "supporting",
-          "episodes": "11, 15-17, 21, 25",
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "shoichi",
+          "character": "sei-ichi",
           "person": "gim-dong-hyeon",
           "role": "supporting",
-          "episodes": {
-            "from": 11,
-            "to": 14
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "teruko",
+          "character": "teru-shi",
           "person": "i-se-re-na",
           "role": "supporting",
-          "episodes": {
-            "from": 11,
-            "to": 14
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kyogai",
+          "character": "kyou-gai",
           "person": "sim-seung-han",
           "role": "supporting",
-          "episodes": {
-            "from": 11,
-            "to": 13
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kiyoshi",
+          "character": "sei",
           "person": "gim-yun-gi",
           "role": "supporting",
-          "episodes": {
-            "from": 12,
-            "to": 14
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "wisteria-house-old-woman",
+          "character": "o-ba-san",
           "person": "seong-seon-nyeo",
           "role": "minor",
-          "episodes": "14-15, 18",
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "shinobu-kocho",
+          "character": "ko-chou-shinobu",
           "person": "gim-ha-ru",
           "role": "supporting",
-          "episodes": "15, 18-26",
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "murata",
+          "character": "son-den",
           "person": "gim-min-ju",
           "role": "supporting",
-          "episodes": "15-16, 20, 24",
           "source_refs": [
             "s116"
           ],
@@ -1880,493 +1478,349 @@
           "character": "rui",
           "person": "i-sang-ho",
           "role": "supporting",
-          "episodes": "15-16, 18-21",
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "spider-demon-mother",
+          "character": "bo-chi-shu",
           "person": "gim-sae-hae",
           "role": "supporting",
-          "episodes": "15-16, 20",
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "spider-demon-son",
+          "character": "kei-chi-shu",
           "person": "bang-seong-jun",
           "role": "supporting",
-          "episodes": {
-            "from": 16,
-            "to": 17
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "jigoro-kuwajima",
+          "character": "sou-tou-ji-go-rou",
           "person": "yu-hae-mu",
           "role": "supporting",
-          "episodes": {
-            "from": 17,
-            "to": 18
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kaigaku",
+          "character": "kai-gaku",
           "person": "gwon-chang-uk",
           "role": "minor",
-          "episodes": {
-            "from": 17,
-            "to": 17
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "spider-demon-daughter",
+          "character": "shi-chi-shu",
           "person": "i-sae-byeok",
           "role": "supporting",
-          "episodes": {
-            "from": 17,
-            "to": 20
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "spider-demon-father",
+          "character": "fu-chi-shu",
           "person": "si-yeong-jun",
           "role": "supporting",
-          "episodes": {
-            "from": 17,
-            "to": 18
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "mysterious-woman",
+          "character": "shi-hei-kin-you",
           "person": "song-ha-rim",
           "role": "minor",
-          "episodes": {
-            "from": 18,
-            "to": 18
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "tanjiro-kamado",
+          "character": "sou-mon-tan-ji-rou",
           "person": "son-jeong-min",
           "role": "supporting",
           "part": "young",
-          "episodes": {
-            "from": 19,
-            "to": 19
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "tanjuro-kamado",
+          "character": "sou-mon-tan-juu-rou",
           "person": "im-chae-heon",
           "role": "minor",
-          "episodes": {
-            "from": 19,
-            "to": 19
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kakushi",
+          "character": "in",
           "person": "sin-gyeong-seon",
           "role": "minor",
-          "episodes": "19, 21-23",
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kanao-tsuyuri",
+          "character": "ritsu-ka-raku-kanao",
           "person": "gim-sun-mi",
           "role": "supporting",
-          "episodes": "21, 25-26",
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kasugai-crow",
+          "character": "kasugai-a",
           "person": "an-jang-hyeok",
           "role": "minor",
-          "episodes": {
-            "from": 21,
-            "to": 21
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kasugai-crow",
+          "character": "kasugai-a",
           "person": "hong-beom-gi",
           "role": "minor",
-          "episodes": {
-            "from": 21,
-            "to": 21
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "rui-mother",
+          "character": "rui-no-bo",
           "person": "i-sae-a",
           "role": "minor",
-          "episodes": {
-            "from": 21,
-            "to": 21
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "rui-father",
+          "character": "rui-no-fu",
           "person": "bak-yo-han",
           "role": "minor",
-          "episodes": {
-            "from": 21,
-            "to": 21
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kakushi",
+          "character": "in",
           "person": "son-seon-yeong",
           "role": "minor",
-          "episodes": {
-            "from": 21,
-            "to": 23
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kakushi",
+          "character": "in",
           "person": "gim-byeong-hyeon",
           "role": "minor",
-          "episodes": {
-            "from": 21,
-            "to": 21
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kakushi",
+          "character": "in",
           "person": "i-dong-yun",
           "role": "minor",
-          "episodes": {
-            "from": 21,
-            "to": 21
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kyojuro-rengoku",
+          "character": "ren-goku-kyou-ju-rou",
           "person": "bak-jun-hyeong",
           "role": "supporting",
-          "episodes": {
-            "from": 22,
-            "to": 24
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "tengen-uzui",
+          "character": "u-zui-ten-gen",
           "person": "gim-jang",
           "role": "supporting",
-          "episodes": {
-            "from": 22,
-            "to": 23
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "muichiro-tokito",
+          "character": "ji-tou-mu-ichi-rou",
           "person": "im-chae-bin",
           "role": "supporting",
-          "episodes": {
-            "from": 22,
-            "to": 23
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "mitsuri-kanroji",
+          "character": "kan-ro-ji-mitsu-ri",
           "person": "choe-ha-ri",
           "role": "supporting",
-          "episodes": {
-            "from": 22,
-            "to": 23
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "obanai-iguro",
+          "character": "i-koku-shou-ba-dai",
           "person": "seo-ban-seok",
           "role": "supporting",
-          "episodes": {
-            "from": 22,
-            "to": 23
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "sanemi-shinazugawa",
+          "character": "fu-shi-sen-jitsu-mi",
           "person": "bak-seong-tae",
           "role": "supporting",
-          "episodes": {
-            "from": 22,
-            "to": 23
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "gyomei-himejima",
+          "character": "hi-mei-sho-kou-mei",
           "person": "gu-ja-hyeong",
           "role": "supporting",
-          "episodes": {
-            "from": 22,
-            "to": 23
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "hinaki-ubuyashiki",
+          "character": "san-oku-fu-hinaki",
           "person": "gim-do-hui",
           "role": "supporting",
-          "episodes": {
-            "from": 22,
-            "to": 23
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "nichika-ubuyashiki",
+          "character": "san-oku-fu-nichika",
           "person": "gang-eun-ae",
           "role": "supporting",
-          "episodes": {
-            "from": 22,
-            "to": 23
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "aoi-kanzaki",
+          "character": "shin-ki-aoi",
           "person": "jang-mi",
           "role": "supporting",
-          "episodes": {
-            "from": 23,
-            "to": 26
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kiyo-terauchi",
+          "character": "ji-dai-kiyo",
           "person": "gim-seo-hyeon",
           "role": "supporting",
-          "episodes": {
-            "from": 23,
-            "to": 26
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "sumi-nakahara",
+          "character": "chuu-gen-sumi",
           "person": "mi-so",
           "role": "supporting",
-          "episodes": {
-            "from": 24,
-            "to": 26
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "naho-takada",
+          "character": "kou-den-naho",
           "person": "jang-chae-yeon",
           "role": "supporting",
-          "episodes": {
-            "from": 24,
-            "to": 26
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kanae-kocho",
+          "character": "ko-chou-kanae",
           "person": "i-ji-hyeon",
           "role": "minor",
-          "episodes": {
-            "from": 25,
-            "to": 25
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kozo-kanamori",
+          "character": "tetsu-ketsu-shin-kou-zou",
           "person": "bak-jun-won",
           "role": "minor",
-          "episodes": {
-            "from": 25,
-            "to": 25
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "enmu",
+          "character": "en-mu",
           "person": "jeon-gwang-ju",
           "role": "minor",
-          "episodes": {
-            "from": 26,
-            "to": 26
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kamanue",
+          "character": "fu-ya",
           "person": "choe-nak-yun",
           "role": "minor",
-          "episodes": {
-            "from": 26,
-            "to": 26
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "rokuro",
+          "character": "roku-ro",
           "person": "song-gi-won",
           "role": "minor",
-          "episodes": {
-            "from": 26,
-            "to": 26
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "wakuraba",
+          "character": "byou-you",
           "person": "yu-yeong",
           "role": "minor",
-          "episodes": {
-            "from": 26,
-            "to": 26
-          },
           "source_refs": [
             "s116"
           ],
           "verification": "unverified"
         },
         {
-          "character": "mukago",
+          "character": "rei-yo-shi",
           "person": "jeong-ui-jin",
           "role": "minor",
-          "episodes": {
-            "from": 26,
-            "to": 26
-          },
           "source_refs": [
             "s116"
           ],

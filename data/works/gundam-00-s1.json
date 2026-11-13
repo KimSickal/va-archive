@@ -51,7 +51,7 @@
       "release_date": "2007-10-06",
       "credits": [
         {
-          "character": "setsuna-f-seiei",
+          "character": "satsu-da-f-seiei",
           "person": "kyuu-ya-shin-shu",
           "role": "main",
           "part": "regular",
@@ -62,18 +62,17 @@
           ]
         },
         {
-          "character": "setsuna-f-seiei",
+          "character": "satsu-da-f-seiei",
           "person": "sei-shou-yuu-kou",
           "role": "minor",
           "part": "young",
-          "episodes": "1, 7-8",
           "source_refs": [
             "s1",
             "s2"
           ]
         },
         {
-          "character": "neil-dylandy",
+          "character": "niru-dirandi",
           "person": "san-boku-shin-ichi-rou",
           "role": "main",
           "source_refs": [
@@ -83,20 +82,16 @@
           ]
         },
         {
-          "character": "lyle-dylandy",
+          "character": "rairu-dirandi",
           "person": "san-boku-shin-ichi-rou",
           "role": "minor",
-          "episodes": {
-            "from": 9,
-            "to": 9
-          },
           "source_refs": [
             "s1",
             "s2"
           ]
         },
         {
-          "character": "allelujah-haptism",
+          "character": "areruya-haputizumu",
           "person": "kichi-ya-yuu-kou",
           "role": "main",
           "part": "regular",
@@ -107,21 +102,17 @@
           ]
         },
         {
-          "character": "allelujah-haptism",
+          "character": "areruya-haputizumu",
           "person": "jou-ga-shi",
           "role": "minor",
           "part": "young",
-          "episodes": {
-            "from": 11,
-            "to": 11
-          },
           "source_refs": [
             "s1",
             "s2"
           ]
         },
         {
-          "character": "tieria-erde",
+          "character": "tieria-ade",
           "person": "shin-koku-kou-shi",
           "role": "main",
           "source_refs": [
@@ -131,7 +122,7 @@
           ]
         },
         {
-          "character": "graham-aker",
+          "character": "gurahamu-eka",
           "person": "chuu-son-yuu-ichi",
           "role": "main",
           "source_refs": [
@@ -141,7 +132,7 @@
           ]
         },
         {
-          "character": "sumeragi-lee-noriega",
+          "character": "sumeragi-ri-noriega",
           "person": "hon-mei-you-shi",
           "role": "supporting",
           "source_refs": [
@@ -151,7 +142,7 @@
           ]
         },
         {
-          "character": "feldt-grace",
+          "character": "feruto-gureisu",
           "person": "kou-en-sai-you",
           "role": "supporting",
           "source_refs": [
@@ -161,7 +152,7 @@
           ]
         },
         {
-          "character": "christina-sierra",
+          "character": "kurisutina-shiera",
           "person": "sa-tou-yuu-se",
           "role": "supporting",
           "source_refs": [
@@ -171,7 +162,7 @@
           ]
         },
         {
-          "character": "lichtendahl-tsery",
+          "character": "rihitendaru-tsueri",
           "person": "ga-sai-sei-suu",
           "role": "supporting",
           "source_refs": [
@@ -181,7 +172,7 @@
           ]
         },
         {
-          "character": "lasse-aeon",
+          "character": "rasse-aion",
           "person": "tou-chi-kou-ju",
           "role": "supporting",
           "source_refs": [
@@ -191,7 +182,7 @@
           ]
         },
         {
-          "character": "ian-vashti",
+          "character": "ian-vasuti",
           "person": "bai-shin-shuu-kou",
           "role": "supporting",
           "source_refs": [
@@ -200,13 +191,9 @@
           ]
         },
         {
-          "character": "joyce-b-moreno",
+          "character": "jb-moreno",
           "person": "shi-kyuu-gou",
           "role": "minor",
-          "episodes": {
-            "from": 22,
-            "to": 22
-          },
           "source_refs": [
             "s1",
             "s2"
@@ -223,7 +210,7 @@
           ]
         },
         {
-          "character": "trinity-haro",
+          "character": "haro-2",
           "person": "nyuu-ya-shi-yuu",
           "role": "supporting",
           "source_refs": [
@@ -231,7 +218,7 @@
           ]
         },
         {
-          "character": "johann-trinity",
+          "character": "yohan-toriniti",
           "person": "shou-sei-koku-kou",
           "role": "supporting",
           "source_refs": [
@@ -240,7 +227,7 @@
           ]
         },
         {
-          "character": "michael-trinity",
+          "character": "mihaeru-toriniti",
           "person": "rou-sen-tai-fu",
           "role": "supporting",
           "source_refs": [
@@ -249,7 +236,7 @@
           ]
         },
         {
-          "character": "nena-trinity",
+          "character": "nena-toriniti",
           "person": "tei-kyuu-ri-kei",
           "role": "supporting",
           "source_refs": [
@@ -258,7 +245,7 @@
           ]
         },
         {
-          "character": "wang-liu-mei",
+          "character": "ou-ryuu-bi",
           "person": "shin-dou-kei",
           "role": "supporting",
           "source_refs": [
@@ -268,7 +255,7 @@
           ]
         },
         {
-          "character": "hong-long",
+          "character": "ku-ryuu",
           "person": "kou-kyou-ken-ni",
           "role": "supporting",
           "source_refs": [
@@ -278,10 +265,9 @@
           ]
         },
         {
-          "character": "aeolia-schenberg",
+          "character": "ioria-shuhenberugu",
           "person": "tai-chou-shuu-fu",
           "role": "supporting",
-          "episodes": "1, 22",
           "source_refs": [
             "s1",
             "s2",
@@ -289,7 +275,7 @@
           ]
         },
         {
-          "character": "alejandro-corner",
+          "character": "arehandoro-kona",
           "person": "shou-hon-ho-ten",
           "role": "supporting",
           "source_refs": [
@@ -299,7 +285,7 @@
           ]
         },
         {
-          "character": "ragna-harvey",
+          "character": "raguna-havei",
           "person": "fukumatsu-shin-sa",
           "role": "supporting",
           "source_refs": [
@@ -308,7 +294,7 @@
           ]
         },
         {
-          "character": "ribbons-almark",
+          "character": "ribonzu-arumaku",
           "person": "ko-koku-tetsu",
           "role": "supporting",
           "credited_as": "蒼月昇",
@@ -318,20 +304,16 @@
           ]
         },
         {
-          "character": "regene-regetta",
+          "character": "rijene-rejetta",
           "person": "boku-ro-bi",
           "role": "minor",
-          "episodes": {
-            "from": 25,
-            "to": 25
-          },
           "source_refs": [
             "s1",
             "s2"
           ]
         },
         {
-          "character": "billy-katagiri",
+          "character": "biri-katagiri",
           "person": "uedayuuji",
           "role": "supporting",
           "source_refs": [
@@ -341,7 +323,7 @@
           ]
         },
         {
-          "character": "ralph-eifman",
+          "character": "reifu-eifuman",
           "person": "do-shi-kou-ya",
           "role": "supporting",
           "source_refs": [
@@ -350,7 +332,7 @@
           ]
         },
         {
-          "character": "howard-mason",
+          "character": "hawado-meisun",
           "person": "kou-kyou-ken-ni",
           "role": "supporting",
           "source_refs": [
@@ -359,7 +341,7 @@
           ]
         },
         {
-          "character": "daryl-dodge",
+          "character": "dariru-dajji",
           "person": "sei-rin-ta-rou",
           "role": "supporting",
           "source_refs": [
@@ -368,20 +350,16 @@
           ]
         },
         {
-          "character": "joshua-edwards",
+          "character": "joshua-edowazu",
           "person": "kin-ya-jun",
           "role": "minor",
-          "episodes": {
-            "from": 14,
-            "to": 15
-          },
           "source_refs": [
             "s1",
             "s2"
           ]
         },
         {
-          "character": "brian-stegmeyer",
+          "character": "buraian-suteggumaiya",
           "person": "shou-shitsu-sei-kou",
           "role": "minor",
           "source_refs": [
@@ -390,7 +368,7 @@
           ]
         },
         {
-          "character": "david-carnegie",
+          "character": "debiddo-kanegi",
           "person": "ma-sei-chi-kyuu",
           "role": "minor",
           "source_refs": [
@@ -399,7 +377,7 @@
           ]
         },
         {
-          "character": "saji-crossroad",
+          "character": "sa-ji-kurosurodo",
           "person": "nyuu-ya-shi-yuu",
           "role": "supporting",
           "source_refs": [
@@ -409,7 +387,7 @@
           ]
         },
         {
-          "character": "louise-halevy",
+          "character": "ruisu-harevi",
           "person": "sai-tou-sen-wa",
           "role": "supporting",
           "source_refs": [
@@ -419,7 +397,7 @@
           ]
         },
         {
-          "character": "kinue-crossroad",
+          "character": "ken-kou-kurosurodo",
           "person": "en-tou-ryou",
           "role": "supporting",
           "source_refs": [
@@ -429,17 +407,16 @@
           ]
         },
         {
-          "character": "ikeda",
+          "character": "chi-den",
           "person": "shi-kyuu-gou",
           "role": "minor",
-          "episodes": "13, 20",
           "source_refs": [
             "s1",
             "s2"
           ]
         },
         {
-          "character": "patrick-colasour",
+          "character": "patorikku-korasawa",
           "person": "hin-den-ken-ni",
           "role": "supporting",
           "source_refs": [
@@ -449,7 +426,7 @@
           ]
         },
         {
-          "character": "kati-mannequin",
+          "character": "kati-manekin",
           "person": "kou-san-minami",
           "role": "supporting",
           "source_refs": [
@@ -458,7 +435,7 @@
           ]
         },
         {
-          "character": "sergei-smirnov",
+          "character": "serugei-sumirunofu",
           "person": "shaku-chou-un-shou",
           "role": "supporting",
           "source_refs": [
@@ -468,7 +445,7 @@
           ]
         },
         {
-          "character": "soma-peries",
+          "character": "soma-pirisu",
           "person": "shou-ryuu-gen-a-ri-sa",
           "role": "supporting",
           "source_refs": [
@@ -480,33 +457,24 @@
           "character": "min",
           "person": "tai-gen-suu",
           "role": "minor",
-          "episodes": {
-            "from": 9,
-            "to": 10
-          },
           "source_refs": [
             "s1",
             "s2"
           ]
         },
         {
-          "character": "kim",
+          "character": "kimu",
           "person": "hin-den-ken-ni",
           "role": "minor",
-          "episodes": {
-            "from": 4,
-            "to": 4
-          },
           "source_refs": [
             "s1",
             "s2"
           ]
         },
         {
-          "character": "hrl-chairman",
+          "character": "koku-ka-shu-seki",
           "person": "fukumatsu-shin-sa",
           "role": "minor",
-          "episodes": "4, 14-16, 19, 21",
           "source_refs": [
             "s1",
             "s2",
@@ -514,13 +482,9 @@
           ]
         },
         {
-          "character": "federation-president-1st",
+          "character": "chi-kyuu-ren-hou-tai-tou-ryou-sho-dai",
           "person": "sa-boku-sei-ni",
           "role": "minor",
-          "episodes": {
-            "from": 25,
-            "to": 25
-          },
           "source_refs": [
             "s1",
             "s2",
@@ -540,7 +504,7 @@
           }
         },
         {
-          "character": "marina-ismail",
+          "character": "marina-isumairu",
           "person": "kou-shou-ayumi",
           "role": "supporting",
           "source_refs": [
@@ -550,7 +514,7 @@
           ]
         },
         {
-          "character": "shirin-bakhtiar",
+          "character": "shirin-bafutiyaru",
           "person": "kon-koku-bi-chi-shi",
           "role": "supporting",
           "source_refs": [
@@ -559,20 +523,16 @@
           ]
         },
         {
-          "character": "massoud-rachmadi",
+          "character": "masudo-rafumadi",
           "person": "fukumatsu-shin-sa",
           "role": "minor",
-          "episodes": {
-            "from": 12,
-            "to": 13
-          },
           "source_refs": [
             "s1",
             "s2"
           ]
         },
         {
-          "character": "ali-al-saachez",
+          "character": "ari-aru-sashesu",
           "person": "tou-gen-kei-ji",
           "role": "supporting",
           "source_refs": [
@@ -581,32 +541,24 @@
           ]
         },
         {
-          "character": "bolz-assan",
+          "character": "borusu-assan",
           "person": "kutsu-sen-jin",
           "role": "minor",
-          "episodes": {
-            "from": 5,
-            "to": 5
-          },
           "source_refs": [
             "s1",
             "s2"
           ]
         },
         {
-          "character": "henry",
+          "character": "henri",
           "person": "shou-bi-tai-ryou",
           "role": "minor",
-          "episodes": {
-            "from": 21,
-            "to": 21
-          },
           "source_refs": [
             "s1"
           ]
         },
         {
-          "character": "louises-mother",
+          "character": "ruisuno-bo",
           "person": "gyoku-sen-sa-ki-shi",
           "role": "minor",
           "credited_as": "玉川紗己子",
@@ -616,7 +568,7 @@
           ]
         },
         {
-          "character": "narrator",
+          "character": "nareshon",
           "person": "ko-koku-tetsu",
           "role": "minor",
           "source_refs": [
@@ -625,341 +577,244 @@
           ]
         },
         {
-          "character": "attendant-s1",
+          "character": "atendanto",
           "person": "sen-rai-shou-shi",
           "role": "minor",
-          "episodes": {
-            "from": 5,
-            "to": 5
-          },
           "source_refs": [
             "s1",
             "s13"
           ]
         },
         {
-          "character": "newscaster-s1",
+          "character": "kyasuta",
           "person": "kou-shou-ayumi",
           "role": "minor",
-          "episodes": {
-            "from": 7,
-            "to": 7
-          },
           "source_refs": [
             "s1",
             "s14"
           ]
         },
         {
-          "character": "newscaster-b-s1",
+          "character": "kyasuta-2",
           "person": "soku-ritsu-yuu",
           "role": "minor",
-          "episodes": {
-            "from": 9,
-            "to": 9
-          },
           "source_refs": [
             "s1",
             "s15"
           ]
         },
         {
-          "character": "controller-a-s1",
+          "character": "kan-sei-kan-a",
           "person": "shi-kyuu-gou",
           "role": "minor",
-          "episodes": {
-            "from": 1,
-            "to": 1
-          },
           "source_refs": [
             "s1"
           ]
         },
         {
-          "character": "controller-b-s1",
+          "character": "kan-sei-kan-b",
           "person": "hou-han-ryoku",
           "role": "minor",
-          "episodes": {
-            "from": 1,
-            "to": 1
-          },
           "source_refs": [
             "s1"
           ]
         },
         {
-          "character": "controller-s1",
+          "character": "kan-sei-kan",
           "person": "hin-den-ken-ni",
           "role": "minor",
-          "episodes": {
-            "from": 2,
-            "to": 2
-          },
           "source_refs": [
             "s1"
           ]
         },
         {
-          "character": "marinas-attendant-s1",
+          "character": "marinano-juu-sha",
           "person": "shou-bi-tai-ryou",
           "role": "minor",
-          "episodes": {
-            "from": 12,
-            "to": 13
-          },
           "source_refs": [
             "s1"
           ]
         },
         {
-          "character": "crew-s1",
+          "character": "crew",
           "person": "shi-kyuu-gou",
           "role": "minor",
-          "episodes": {
-            "from": 24,
-            "to": 24
-          },
           "source_refs": [
             "s1"
           ],
           "verification": "unverified"
         },
         {
-          "character": "engineer-s1",
+          "character": "engineer",
           "person": "shi-kyuu-gou",
           "role": "minor",
-          "episodes": {
-            "from": 5,
-            "to": 5
-          },
           "source_refs": [
             "s1"
           ],
           "verification": "unverified"
         },
         {
-          "character": "italian-assembly-member-s1",
+          "character": "italian-assembly-member",
           "person": "shi-kyuu-gou",
           "role": "minor",
-          "episodes": "2, 6, 14, 18",
           "source_refs": [
             "s1"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kinues-colleague-s1",
+          "character": "ken-kou-no-bu-ka",
           "person": "shi-kyuu-gou",
           "role": "minor",
-          "episodes": "2-3, 6, 12, 15, 17, 19",
           "source_refs": [
             "s1",
             "s7"
           ]
         },
         {
-          "character": "policeman-s1",
+          "character": "policeman",
           "person": "shi-kyuu-gou",
           "role": "minor",
-          "episodes": {
-            "from": 8,
-            "to": 8
-          },
           "source_refs": [
             "s1"
           ],
           "verification": "unverified"
         },
         {
-          "character": "scientist-s1",
+          "character": "scientist",
           "person": "shi-kyuu-gou",
           "role": "minor",
-          "episodes": {
-            "from": 11,
-            "to": 11
-          },
           "source_refs": [
             "s1"
           ],
           "verification": "unverified"
         },
         {
-          "character": "soldier-s1",
+          "character": "soldier",
           "person": "shi-kyuu-gou",
           "role": "minor",
-          "episodes": {
-            "from": 9,
-            "to": 9
-          },
           "source_refs": [
             "s1"
           ],
           "verification": "unverified"
         },
         {
-          "character": "soldier-s1",
+          "character": "soldier",
           "person": "fukumatsu-shin-sa",
           "role": "minor",
-          "episodes": {
-            "from": 6,
-            "to": 7
-          },
           "source_refs": [
             "s1"
           ],
           "verification": "unverified"
         },
         {
-          "character": "vice-foreign-minister-s1",
+          "character": "gai-mu-ji-kan",
           "person": "shi-kyuu-gou",
           "role": "minor",
-          "episodes": {
-            "from": 4,
-            "to": 4
-          },
           "source_refs": [
             "s1",
             "s7"
           ]
         },
         {
-          "character": "vice-foreign-minister-s1",
+          "character": "gai-mu-ji-kan",
           "person": "shi-son-chi-kou",
           "role": "minor",
-          "episodes": {
-            "from": 6,
-            "to": 6
-          },
           "source_refs": [
             "s1",
             "s8"
           ]
         },
         {
-          "character": "taribia-prime-minister-s1",
+          "character": "taribia-shu-shou",
           "person": "u-en-shuu-sei",
           "role": "minor",
-          "episodes": {
-            "from": 4,
-            "to": 4
-          },
           "source_refs": [
             "s1"
           ]
         },
         {
-          "character": "saachez-subordinate-s1",
+          "character": "sashesuno-bu-ka",
           "person": "tou-chi-kou-ju",
           "role": "minor",
-          "episodes": "7, 13",
           "source_refs": [
             "s1"
           ]
         },
         {
-          "character": "saachez-subordinate-s1",
+          "character": "sashesuno-bu-ka",
           "person": "sei-rin-ta-rou",
           "role": "minor",
-          "episodes": {
-            "from": 7,
-            "to": 7
-          },
           "source_refs": [
             "s1"
           ]
         },
         {
-          "character": "hrl-platoon-leader-s1",
+          "character": "jin-kaku-ren-shou-tai-chou",
           "person": "shou-koku-shin-ou-ten",
           "role": "minor",
-          "episodes": {
-            "from": 1,
-            "to": 1
-          },
           "source_refs": [
             "s1",
             "s18"
           ]
         },
         {
-          "character": "commander-s1",
+          "character": "shi-rei-kan",
           "person": "hin-den-ken-ni",
           "role": "minor",
-          "episodes": {
-            "from": 11,
-            "to": 11
-          },
           "source_refs": [
             "s1",
             "s9"
           ]
         },
         {
-          "character": "kinues-boss-s1",
+          "character": "bu-chou",
           "person": "kutsu-sen-jin",
           "role": "minor",
-          "episodes": "3, 6-7, 9",
           "source_refs": [
             "s1",
             "s11"
           ]
         },
         {
-          "character": "manager-s1",
+          "character": "manager",
           "person": "kutsu-sen-jin",
           "role": "minor",
-          "episodes": "12, 14, 21",
           "source_refs": [
             "s1"
           ],
           "verification": "unverified"
         },
         {
-          "character": "marinas-sp-s1",
+          "character": "marinano-sp",
           "person": "kin-ya-jun",
           "role": "minor",
-          "episodes": {
-            "from": 13,
-            "to": 13
-          },
           "source_refs": [
             "s1"
           ]
         },
         {
-          "character": "pilot-s1",
+          "character": "sou-ta-shi",
           "person": "kin-ya-jun",
           "role": "minor",
-          "episodes": {
-            "from": 10,
-            "to": 10
-          },
           "source_refs": [
             "s1",
             "s5"
           ]
         },
         {
-          "character": "pilot-s1",
+          "character": "sou-ta-shi",
           "person": "ko-tou-sei-kou",
           "role": "minor",
-          "episodes": {
-            "from": 10,
-            "to": 10
-          },
           "source_refs": [
             "s1",
             "s6"
           ]
         },
         {
-          "character": "waitress-s1",
+          "character": "kyuu-shi",
           "person": "tai-son-ka-na",
           "role": "minor",
-          "episodes": {
-            "from": 10,
-            "to": 10
-          },
           "credited_as": "大村香奈子",
           "source_refs": [
             "s1",
@@ -967,104 +822,75 @@
           ]
         },
         {
-          "character": "british-assembly-member-s1",
+          "character": "igirisu-gi-in",
           "person": "hin-den-ken-ni",
           "role": "minor",
-          "episodes": "2, 6-7, 19",
           "source_refs": [
             "s1"
           ]
         },
         {
-          "character": "ragnas-secretary-s1",
+          "character": "ragunano-hi-sho",
           "person": "kou-kyou-ken-ni",
           "role": "minor",
-          "episodes": {
-            "from": 21,
-            "to": 21
-          },
           "source_refs": [
             "s1"
           ]
         },
         {
-          "character": "sajis-colleague-s1",
+          "character": "sa-ji-no-dou-ryou",
           "person": "kou-kyou-ken-ni",
           "role": "minor",
-          "episodes": {
-            "from": 25,
-            "to": 25
-          },
           "source_refs": [
             "s1"
           ]
         },
         {
-          "character": "captain-s1",
+          "character": "captain",
           "person": "fukumatsu-shin-sa",
           "role": "minor",
-          "episodes": {
-            "from": 1,
-            "to": 2
-          },
           "source_refs": [
             "s1"
           ],
           "verification": "unverified"
         },
         {
-          "character": "captain-s1",
+          "character": "captain",
           "person": "han-kou-kou-ichi",
           "role": "minor",
-          "episodes": {
-            "from": 15,
-            "to": 15
-          },
           "source_refs": [
             "s1"
           ],
           "verification": "unverified"
         },
         {
-          "character": "carrier-captain-s1",
+          "character": "amerika-kuu-bo-kan-chou",
           "person": "han-kou-kou-ichi",
           "role": "minor",
-          "episodes": {
-            "from": 4,
-            "to": 4
-          },
           "source_refs": [
             "s1",
             "s17"
           ]
         },
         {
-          "character": "mother-s1",
+          "character": "bo-shin",
           "person": "shin-ka-ki",
           "role": "minor",
-          "episodes": {
-            "from": 13,
-            "to": 13
-          },
           "source_refs": [
             "s1"
           ]
         },
         {
-          "character": "water-seller-grandfather-s1",
+          "character": "sui-bai-ri-shou-nen-no-so-fu",
           "person": "kyuu-taku-sei",
           "role": "minor",
-          "episodes": {
-            "from": 12,
-            "to": 12
-          },
           "source_refs": [
             "s1",
             "s16"
           ]
         },
         {
-          "character": "aeu-intelligence-chief-s1",
+          "character": "aeu-intelligence-chief",
           "person": "do-shi-kou-ya",
           "role": "minor",
           "source_refs": [
@@ -1073,119 +899,88 @@
           "verification": "unverified"
         },
         {
-          "character": "un-secretary-general-s1",
+          "character": "koku-ren-ji-mu-sou-chou",
           "person": "tou-den-tetsu",
           "role": "minor",
-          "episodes": {
-            "from": 20,
-            "to": 20
-          },
           "source_refs": [
             "s1"
           ]
         },
         {
-          "character": "foreign-legion-colonel-s1",
+          "character": "gai-jin-bu-tai-tai-sa",
           "person": "den-han-ben",
           "role": "minor",
-          "episodes": {
-            "from": 14,
-            "to": 14
-          },
           "source_refs": [
             "s1"
           ]
         },
         {
-          "character": "officer-s1",
+          "character": "shou-kou",
           "person": "den-han-ben",
           "role": "minor",
-          "episodes": {
-            "from": 7,
-            "to": 7
-          },
           "source_refs": [
             "s1",
             "s12"
           ]
         },
         {
-          "character": "spanish-assembly-member-s1",
+          "character": "supein-gi-in",
           "person": "shaku-chou-un-shou",
           "role": "minor",
-          "episodes": "2, 6-7, 19",
           "source_refs": [
             "s1"
           ]
         },
         {
-          "character": "chief-engineer-s1",
+          "character": "gi-jutsu-shu-nin",
           "person": "fuu-kan-yuu-tou",
           "role": "minor",
-          "episodes": {
-            "from": 5,
-            "to": 5
-          },
           "source_refs": [
             "s1"
           ]
         },
         {
-          "character": "german-assembly-member-s1",
+          "character": "doitsu-gi-in",
           "person": "uedayuuji",
           "role": "minor",
-          "episodes": "2, 6, 19",
           "source_refs": [
             "s1"
           ]
         },
         {
-          "character": "french-assembly-member-s1",
+          "character": "furansu-gi-in",
           "person": "sei-shou-yuu-kou",
           "role": "minor",
-          "episodes": "2, 6-7, 14, 19",
           "source_refs": [
             "s1"
           ]
         },
         {
-          "character": "boy-s1",
+          "character": "shou-nen",
           "person": "shou-hei-yuu-ki",
           "role": "minor",
-          "episodes": {
-            "from": 11,
-            "to": 11
-          },
           "source_refs": [
             "s1"
           ]
         },
         {
-          "character": "boy-allelujah-past-s1",
+          "character": "shou-nen-areruyano-ka-kyo",
           "person": "shou-hei-yuu-ki",
           "role": "minor",
-          "episodes": {
-            "from": 5,
-            "to": 5
-          },
           "source_refs": [
             "s1"
           ]
         },
         {
-          "character": "boy-setsuna-past-s1",
+          "character": "shou-nen-satsu-da-no-ka-kyo",
           "person": "shou-hei-yuu-ki",
           "role": "minor",
-          "episodes": {
-            "from": 8,
-            "to": 8
-          },
           "source_refs": [
             "s1"
           ]
         },
         {
-          "character": "informant-s1",
+          "character": "jou-hou-oku",
           "person": "tou-den-tetsu",
           "role": "minor",
           "source_refs": [
@@ -1193,19 +988,15 @@
           ]
         },
         {
-          "character": "royal-butler-s1",
+          "character": "ou-ka-no-rou-shitsu-ji",
           "person": "do-shi-kou-ya",
           "role": "minor",
-          "episodes": {
-            "from": 8,
-            "to": 8
-          },
           "source_refs": [
             "s22"
           ]
         },
         {
-          "character": "assembly-member-s1",
+          "character": "gi-in-2",
           "person": "sei-shou-yuu-kou",
           "role": "minor",
           "source_refs": [

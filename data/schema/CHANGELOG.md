@@ -6,6 +6,13 @@
 - minor: 선택 필드·enum 값 추가
 - patch: 설명·문서 수정
 
+## 0.4.0 — 2026-11-14
+- `Name.latin` 선택 항목으로 변경: 공식 표기·출처의 읽기가 있을 때만 적고 모르면 생략 (성우·캐릭터·작품 제목 공통). 성우 slug는 `latin`이 없으면 내부 ID
+- 캐릭터 ID 규칙: 원어 표기의 결정적 로마자 변환(+ 프랜차이즈 안에서 겹치면 `-N`). 스포일러 캐릭터도 같은 규칙 (가림은 화면에서만). 검증 스크립트가 확인
+- 삭제: `Credit.episodes`(담당 회차·게임 패치 범위), `Character.first_appearance.episode`
+- 추가: `Credit.assumption` (`continued_cast` | `full_run`, 규칙에 따른 추정 배역 표시, 데이터 전용)
+- 마이그레이션: `scripts/migrations/0.4.0.ts` — 캐릭터 ID 재생성(대응표 `archive/character-id-map-0.4.0.json`), 회차 삭제 전 `archive/episodes-2026-11-14.json`에 보관 (git 태그 `archive/episodes-2026-11-14`는 삭제 직전 상태)
+
 ## 0.3.1 — 2026-11-14
 - Credit.episodes 문자열에 게임 패치 범위 허용 ("6.1-6.5", "5.3")
 

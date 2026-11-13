@@ -48,7 +48,7 @@
       "release_date": "2019-03-29",
       "credits": [
         {
-          "character": "tanjiro-kamado",
+          "character": "sou-mon-tan-ji-rou",
           "person": "ka-kou-ka-ju",
           "role": "main",
           "source_refs": [
@@ -62,7 +62,7 @@
           ]
         },
         {
-          "character": "nezuko-kamado",
+          "character": "sou-mon-dei-tou-shi",
           "person": "ki-tou-mei-ri",
           "role": "main",
           "source_refs": [
@@ -73,7 +73,7 @@
           ]
         },
         {
-          "character": "zenitsu-agatsuma",
+          "character": "ga-sai-zen-itsu",
           "person": "ka-ya-kou",
           "role": "main",
           "source_refs": [
@@ -83,7 +83,7 @@
           ]
         },
         {
-          "character": "inosuke-hashibira",
+          "character": "shi-hei-i-shi-jo",
           "person": "shou-kou-tei-shou",
           "role": "main",
           "source_refs": [
@@ -91,7 +91,7 @@
           ]
         },
         {
-          "character": "giyu-tomioka",
+          "character": "fu-kou-gi-yuu",
           "person": "ou-sei-kou-kou",
           "role": "supporting",
           "source_refs": [
@@ -102,7 +102,7 @@
           ]
         },
         {
-          "character": "sakonji-urokodaki",
+          "character": "rin-sou-sa-kin-ji",
           "person": "tai-chou-hou-chuu",
           "role": "supporting",
           "source_refs": [
@@ -115,7 +115,7 @@
           ]
         },
         {
-          "character": "sabito",
+          "character": "sei-to",
           "person": "bi-yuu-ki",
           "role": "supporting",
           "source_refs": [
@@ -126,7 +126,7 @@
           ]
         },
         {
-          "character": "makomo",
+          "character": "shin-ko",
           "person": "ka-wai-a-i",
           "role": "supporting",
           "source_refs": [
@@ -137,7 +137,7 @@
           ]
         },
         {
-          "character": "genya-shinazugawa",
+          "character": "fu-shi-sen-gen-mi",
           "person": "kou-hon-shin-gen",
           "role": "supporting",
           "source_refs": [
@@ -147,7 +147,7 @@
           ]
         },
         {
-          "character": "kagaya-ubuyashiki",
+          "character": "san-oku-fu-you-sai",
           "person": "shin-sen-chi-shi",
           "role": "supporting",
           "source_refs": [
@@ -157,7 +157,7 @@
           ]
         },
         {
-          "character": "kiriya-ubuyashiki",
+          "character": "san-oku-fu-ki-ri-sai",
           "person": "yuu-boku-heki",
           "role": "supporting",
           "credited_as": "案内人・黒髪",
@@ -169,7 +169,7 @@
           ]
         },
         {
-          "character": "kanata-ubuyashiki",
+          "character": "san-oku-fu-kanata",
           "person": "sei-taku-shi-shoku",
           "role": "supporting",
           "credited_as": "案内人・白髪",
@@ -181,7 +181,7 @@
           ]
         },
         {
-          "character": "hotaru-haganezuka",
+          "character": "kou-tetsu-chou-kei",
           "person": "rou-sen-tai-fu",
           "role": "supporting",
           "source_refs": [
@@ -191,7 +191,7 @@
           ]
         },
         {
-          "character": "matsuemon",
+          "character": "ten-ou-ji-shou-u-ei-mon",
           "person": "san-ki-takumi",
           "role": "supporting",
           "source_refs": [
@@ -201,7 +201,7 @@
           ]
         },
         {
-          "character": "temple-demon",
+          "character": "o-dou-no-ki",
           "person": "ryoku-sen-kou",
           "role": "supporting",
           "source_refs": [
@@ -211,7 +211,7 @@
           ]
         },
         {
-          "character": "hand-demon",
+          "character": "shu-ki",
           "person": "shi-an-bu-jin",
           "role": "supporting",
           "part": "regular",
@@ -223,7 +223,7 @@
           ]
         },
         {
-          "character": "kie-kamado",
+          "character": "sou-mon-ki-shi",
           "person": "sou-tou-hou-shi",
           "role": "supporting",
           "source_refs": [
@@ -232,7 +232,7 @@
           ]
         },
         {
-          "character": "shigeru-kamado",
+          "character": "sou-mon-mo",
           "person": "hon-to-fuu",
           "role": "supporting",
           "source_refs": [
@@ -242,7 +242,7 @@
           ]
         },
         {
-          "character": "takeo-kamado",
+          "character": "sou-mon-chiku-yuu",
           "person": "tai-chi-you",
           "role": "supporting",
           "source_refs": [
@@ -251,7 +251,7 @@
           ]
         },
         {
-          "character": "hanako-kamado",
+          "character": "sou-mon-ka-shi",
           "person": "shou-gen-kou-bi",
           "role": "supporting",
           "source_refs": [
@@ -260,7 +260,7 @@
           ]
         },
         {
-          "character": "saburo",
+          "character": "san-rou",
           "person": "terasomamasaki",
           "role": "supporting",
           "source_refs": [
@@ -269,7 +269,7 @@
           ]
         },
         {
-          "character": "kakushi",
+          "character": "in",
           "person": "kou-kyou-shin-ya",
           "role": "minor",
           "source_refs": [
@@ -280,7 +280,7 @@
           ]
         },
         {
-          "character": "kakushi",
+          "character": "in",
           "person": "gai-ki-yuu-ryou",
           "role": "minor",
           "source_refs": [
@@ -289,7 +289,7 @@
           ]
         },
         {
-          "character": "kakushi",
+          "character": "in",
           "person": "chou-koku-sen-hou-mei",
           "role": "minor",
           "source_refs": [
@@ -299,7 +299,7 @@
           ]
         },
         {
-          "character": "hand-demon",
+          "character": "shu-ki",
           "person": "hou-ki-ai-sei",
           "role": "supporting",
           "part": "young",
@@ -310,7 +310,7 @@
           ]
         },
         {
-          "character": "hand-demon-brother",
+          "character": "shu-ki-no-kei",
           "person": "shou-shi-shin-kin",
           "role": "supporting",
           "source_refs": [
@@ -348,7 +348,7 @@
       ],
       "credits": [
         {
-          "character": "inosuke-hashibira",
+          "character": "shi-hei-i-shi-jo",
           "person": "min-seung-u",
           "role": "main",
           "source_refs": [
@@ -356,7 +356,7 @@
           ]
         },
         {
-          "character": "tanjiro-kamado",
+          "character": "sou-mon-tan-ji-rou",
           "person": "i-gyeong-tae",
           "role": "main",
           "part": "regular",
@@ -366,7 +366,7 @@
           ]
         },
         {
-          "character": "nezuko-kamado",
+          "character": "sou-mon-dei-tou-shi",
           "person": "i-i-ro",
           "role": "main",
           "note": {
@@ -387,7 +387,7 @@
           "verification": "unverified"
         },
         {
-          "character": "giyu-tomioka",
+          "character": "fu-kou-gi-yuu",
           "person": "jeong-jae-heon",
           "role": "supporting",
           "note": {
@@ -408,7 +408,7 @@
           "verification": "unverified"
         },
         {
-          "character": "kie-kamado",
+          "character": "sou-mon-ki-shi",
           "person": "i-hyeon-jin",
           "role": "supporting",
           "note": {
@@ -429,7 +429,7 @@
           "verification": "unverified"
         },
         {
-          "character": "shigeru-kamado",
+          "character": "sou-mon-mo",
           "person": "yu-hye-ji",
           "role": "supporting",
           "note": {
@@ -450,7 +450,7 @@
           "verification": "unverified"
         },
         {
-          "character": "takeo-kamado",
+          "character": "sou-mon-chiku-yuu",
           "person": "bak-i-seo",
           "role": "minor",
           "note": {
@@ -471,7 +471,7 @@
           "verification": "unverified"
         },
         {
-          "character": "hanako-kamado",
+          "character": "sou-mon-ka-shi",
           "person": "chae-rim",
           "role": "minor",
           "note": {
@@ -492,7 +492,7 @@
           "verification": "unverified"
         },
         {
-          "character": "saburo",
+          "character": "san-rou",
           "person": "so-jeong-hwan",
           "role": "minor",
           "note": {
@@ -513,7 +513,7 @@
           "verification": "unverified"
         },
         {
-          "character": "sakonji-urokodaki",
+          "character": "rin-sou-sa-kin-ji",
           "person": "song-jun-seok",
           "role": "supporting",
           "note": {
@@ -534,7 +534,7 @@
           "verification": "unverified"
         },
         {
-          "character": "temple-demon",
+          "character": "o-dou-no-ki",
           "person": "jeong-seong-hun",
           "role": "minor",
           "note": {
@@ -555,7 +555,7 @@
           "verification": "unverified"
         },
         {
-          "character": "sabito",
+          "character": "sei-to",
           "person": "gim-hyeon-uk",
           "role": "supporting",
           "note": {
@@ -576,7 +576,7 @@
           "verification": "unverified"
         },
         {
-          "character": "makomo",
+          "character": "shin-ko",
           "person": "gang-sae-bom",
           "role": "supporting",
           "note": {
@@ -597,7 +597,7 @@
           "verification": "unverified"
         },
         {
-          "character": "kiriya-ubuyashiki",
+          "character": "san-oku-fu-ki-ri-sai",
           "person": "i-ju-eun",
           "role": "supporting",
           "note": {
@@ -618,7 +618,7 @@
           "verification": "unverified"
         },
         {
-          "character": "kanata-ubuyashiki",
+          "character": "san-oku-fu-kanata",
           "person": "jang-ye-na",
           "role": "supporting",
           "note": {
@@ -639,7 +639,7 @@
           "verification": "unverified"
         },
         {
-          "character": "hand-demon",
+          "character": "shu-ki",
           "person": "gim-gi-cheol",
           "role": "supporting",
           "part": "regular",
@@ -661,7 +661,7 @@
           "verification": "unverified"
         },
         {
-          "character": "zenitsu-agatsuma",
+          "character": "ga-sai-zen-itsu",
           "person": "seok-seung-hun",
           "role": "main",
           "source_refs": [
@@ -670,7 +670,7 @@
           ]
         },
         {
-          "character": "genya-shinazugawa",
+          "character": "fu-shi-sen-gen-mi",
           "person": "bak-min-gi",
           "role": "minor",
           "note": {
@@ -691,7 +691,7 @@
           "verification": "unverified"
         },
         {
-          "character": "hotaru-haganezuka",
+          "character": "kou-tetsu-chou-kei",
           "person": "i-hyeon",
           "role": "supporting",
           "note": {
@@ -712,7 +712,7 @@
           "verification": "unverified"
         },
         {
-          "character": "kagaya-ubuyashiki",
+          "character": "san-oku-fu-you-sai",
           "person": "sin-yong-u",
           "role": "supporting",
           "note": {
@@ -733,7 +733,7 @@
           "verification": "unverified"
         },
         {
-          "character": "hand-demon",
+          "character": "shu-ki",
           "person": "gim-a-rong",
           "role": "minor",
           "part": "young",
@@ -755,7 +755,7 @@
           "verification": "unverified"
         },
         {
-          "character": "hand-demon-brother",
+          "character": "shu-ki-no-kei",
           "person": "i-dal-rae",
           "role": "minor",
           "note": {

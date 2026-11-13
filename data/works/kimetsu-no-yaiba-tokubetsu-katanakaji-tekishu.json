@@ -42,7 +42,7 @@
       "release_date": "2024-05-04",
       "credits": [
         {
-          "character": "tanjiro-kamado",
+          "character": "sou-mon-tan-ji-rou",
           "person": "ka-kou-ka-ju",
           "role": "main",
           "source_refs": [
@@ -50,7 +50,7 @@
           ]
         },
         {
-          "character": "nezuko-kamado",
+          "character": "sou-mon-dei-tou-shi",
           "person": "ki-tou-mei-ri",
           "role": "main",
           "source_refs": [
@@ -58,7 +58,7 @@
           ]
         },
         {
-          "character": "muichiro-tokito",
+          "character": "ji-tou-mu-ichi-rou",
           "person": "ka-sei-ken-go",
           "role": "supporting",
           "source_refs": [
@@ -66,7 +66,7 @@
           ]
         },
         {
-          "character": "mitsuri-kanroji",
+          "character": "kan-ro-ji-mitsu-ri",
           "person": "ka-taku-kou-sai",
           "role": "supporting",
           "source_refs": [
@@ -74,7 +74,7 @@
           ]
         },
         {
-          "character": "genya-shinazugawa",
+          "character": "fu-shi-sen-gen-mi",
           "person": "kou-hon-shin-gen",
           "role": "supporting",
           "source_refs": [
@@ -82,7 +82,7 @@
           ]
         },
         {
-          "character": "hantengu",
+          "character": "han-ten-kou",
           "person": "ko-sen-tou-shi-fu",
           "role": "supporting",
           "source_refs": [
@@ -90,7 +90,7 @@
           ]
         },
         {
-          "character": "gyokko",
+          "character": "gyoku-ko",
           "person": "chou-kai-kou-fu",
           "role": "supporting",
           "source_refs": [
@@ -98,7 +98,7 @@
           ]
         },
         {
-          "character": "zenitsu-agatsuma",
+          "character": "ga-sai-zen-itsu",
           "person": "ka-ya-kou",
           "role": "main",
           "note": {
@@ -122,7 +122,7 @@
           "verification": "unverified"
         },
         {
-          "character": "inosuke-hashibira",
+          "character": "shi-hei-i-shi-jo",
           "person": "shou-kou-tei-shou",
           "role": "main",
           "note": {
@@ -146,7 +146,7 @@
           "verification": "unverified"
         },
         {
-          "character": "kanao-tsuyuri",
+          "character": "ritsu-ka-raku-kanao",
           "person": "jou-den-rei-na",
           "role": "minor",
           "note": {
@@ -170,7 +170,7 @@
           "verification": "unverified"
         },
         {
-          "character": "matsuemon",
+          "character": "ten-ou-ji-shou-u-ei-mon",
           "person": "san-ki-takumi",
           "role": "minor",
           "note": {
@@ -194,7 +194,7 @@
           "verification": "unverified"
         },
         {
-          "character": "tengen-uzui",
+          "character": "u-zui-ten-gen",
           "person": "shou-sei-koku-kou",
           "role": "minor",
           "note": {
@@ -218,7 +218,7 @@
           "verification": "unverified"
         },
         {
-          "character": "kagaya-ubuyashiki",
+          "character": "san-oku-fu-you-sai",
           "person": "shin-sen-chi-shi",
           "role": "supporting",
           "note": {
@@ -244,7 +244,7 @@
           "verification": "unverified"
         },
         {
-          "character": "amane-ubuyashiki",
+          "character": "san-oku-fu-amane",
           "person": "sa-tou-ri-na",
           "role": "supporting",
           "note": {
@@ -269,7 +269,7 @@
           "verification": "unverified"
         },
         {
-          "character": "hotaru-haganezuka",
+          "character": "kou-tetsu-chou-kei",
           "person": "rou-sen-tai-fu",
           "role": "supporting",
           "note": {
@@ -298,7 +298,7 @@
           "verification": "unverified"
         },
         {
-          "character": "kotetsu",
+          "character": "shou-tetsu",
           "person": "son-rai-ho",
           "role": "supporting",
           "note": {
@@ -330,7 +330,7 @@
           "verification": "unverified"
         },
         {
-          "character": "tecchin-tecchikawahara",
+          "character": "tetsu-chi-ka-gen-tetsu-chin",
           "person": "oku-ryou-yuu-saku",
           "role": "supporting",
           "note": {
@@ -355,7 +355,7 @@
           "verification": "unverified"
         },
         {
-          "character": "aoi-kanzaki",
+          "character": "shin-ki-aoi",
           "person": "kou-gen-yuu-ri",
           "role": "minor",
           "note": {
@@ -379,7 +379,7 @@
           "verification": "unverified"
         },
         {
-          "character": "kiyo-terauchi",
+          "character": "ji-dai-kiyo",
           "person": "san-ka-shichi-kai",
           "role": "minor",
           "note": {
@@ -403,7 +403,7 @@
           "verification": "unverified"
         },
         {
-          "character": "sumi-nakahara",
+          "character": "chuu-gen-sumi",
           "person": "shin-ya-ayumi",
           "role": "minor",
           "note": {
@@ -427,7 +427,7 @@
           "verification": "unverified"
         },
         {
-          "character": "naho-takada",
+          "character": "kou-den-naho",
           "person": "sou-gen-yuu-ki",
           "role": "minor",
           "note": {
@@ -451,7 +451,7 @@
           "verification": "unverified"
         },
         {
-          "character": "goto",
+          "character": "go-tou",
           "person": "ko-sen-shin",
           "role": "minor",
           "note": {
@@ -475,7 +475,7 @@
           "verification": "unverified"
         },
         {
-          "character": "hanafuda-swordsman",
+          "character": "kei-koku-en-ichi",
           "person": "sei-jou-wa-gen",
           "role": "minor",
           "credited_as": "剣士",
@@ -499,7 +499,7 @@
           "verification": "unverified"
         },
         {
-          "character": "sumiyoshi",
+          "character": "tan-kichi",
           "person": "ya-tou-yuu-shi",
           "role": "minor",
           "note": {
@@ -523,7 +523,7 @@
           "verification": "unverified"
         },
         {
-          "character": "muzan-kibutsuji",
+          "character": "ki-bu-tsuji-mu-san",
           "person": "kan-shun-gen",
           "role": "minor",
           "note": {
@@ -547,7 +547,7 @@
           "verification": "unverified"
         },
         {
-          "character": "kokushibo",
+          "character": "koku-shi-bou",
           "person": "chi-nen-ryuu-ta-rou",
           "role": "minor",
           "note": {
@@ -571,7 +571,7 @@
           "verification": "unverified"
         },
         {
-          "character": "doma",
+          "character": "dou-ma",
           "person": "kyuu-ya-shin-shu",
           "role": "minor",
           "note": {
@@ -595,7 +595,7 @@
           "verification": "unverified"
         },
         {
-          "character": "akaza",
+          "character": "i-ka-za",
           "person": "shaku-den-shou",
           "role": "minor",
           "note": {
@@ -619,7 +619,7 @@
           "verification": "unverified"
         },
         {
-          "character": "nakime",
+          "character": "mei-jo",
           "person": "sei-jou-ma-ri-na",
           "role": "minor",
           "note": {
@@ -642,7 +642,7 @@
           "verification": "unverified"
         },
         {
-          "character": "kasugai-crow",
+          "character": "kasugai-a",
           "person": "tei-kyuu-ri-kei",
           "role": "minor",
           "note": {
@@ -666,7 +666,7 @@
           "verification": "unverified"
         },
         {
-          "character": "kozo-kanamori",
+          "character": "tetsu-ketsu-shin-kou-zou",
           "person": "chiku-hon-ei-shi",
           "role": "supporting",
           "note": {
@@ -695,7 +695,7 @@
           "verification": "unverified"
         },
         {
-          "character": "sekido",
+          "character": "seki-do",
           "person": "bai-gen-yuu-ichi-rou",
           "role": "supporting",
           "note": {
@@ -722,7 +722,7 @@
           "verification": "unverified"
         },
         {
-          "character": "karaku",
+          "character": "ka-gaku",
           "person": "shaku-sen-kai-jin",
           "role": "supporting",
           "note": {
@@ -749,7 +749,7 @@
           "verification": "unverified"
         },
         {
-          "character": "urogi",
+          "character": "kuu-ki",
           "person": "bu-dai-shun-fu",
           "role": "supporting",
           "note": {
@@ -776,7 +776,7 @@
           "verification": "unverified"
         },
         {
-          "character": "aizetsu",
+          "character": "ai-zetsu",
           "person": "sei-tou-sou-ba",
           "role": "supporting",
           "note": {
@@ -802,7 +802,7 @@
           "verification": "unverified"
         },
         {
-          "character": "kasugai-crow",
+          "character": "kasugai-a",
           "person": "kutsu-kou-yuu-i",
           "role": "minor",
           "note": {

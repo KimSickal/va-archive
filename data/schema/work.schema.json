@@ -210,31 +210,7 @@
         },
         "part": {
           "enum": ["regular", "replaced", "replacement", "young", "substitute", "other"],
-          "description": "한 캐릭터에 성우가 여럿일 때 구분. replaced=교체 전, replacement=교체 후, young=아역, substitute=일시 대역"
-        },
-        "episodes": {
-          "description": "담당 회차. 범위 객체 또는 자유 표기 문자열(예: \"1-12, 15\"). 게임은 패치 범위(예: \"6.1-6.5\", \"5.3\")",
-          "oneOf": [
-            {
-              "type": "object",
-              "additionalProperties": false,
-              "minProperties": 1,
-              "properties": {
-                "from": {
-                  "type": "integer",
-                  "minimum": 1
-                },
-                "to": {
-                  "type": "integer",
-                  "minimum": 1
-                }
-              }
-            },
-            {
-              "type": "string",
-              "pattern": "^(\\d+(-\\d+)?(, ?\\d+(-\\d+)?)*|\\d+\\.\\d+(-\\d+\\.\\d+)?(, ?\\d+\\.\\d+(-\\d+\\.\\d+)?)*)$"
-            }
-          ]
+          "description": "한 캐릭터에 성우가 여럿일 때 구분. replaced=교체 전, replacement=교체 후, young=아역, substitute=일시 대역. 교체 시점은 출처에 분명히 적혀 있을 때만 note에 출처 표현 그대로 적는다"
         },
         "note": {
           "$ref": "common.schema.json#/$defs/Text",
@@ -254,6 +230,10 @@
         "verification": {
           "$ref": "common.schema.json#/$defs/VerificationStatus",
           "description": "생략 시 파일 meta 상태를 따름"
+        },
+        "assumption": {
+          "enum": ["continued_cast", "full_run"],
+          "description": "출처로 직접 확인하지 않고 규칙에 따라 추정해 넣은 배역 (데이터 전용, 사이트에 표시하지 않음). continued_cast=이전 작품·확장팩과 같은 성우가 계속 맡았다고 추정(교체 언급이 없을 때), full_run=더빙 방영 범위가 불확실해 전 회차 방영으로 추정"
         }
       }
     }

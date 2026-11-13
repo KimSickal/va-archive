@@ -44,7 +44,7 @@
       "properties": {
         "id": {
           "$ref": "common.schema.json#/$defs/Id",
-          "description": "프랜차이즈 내 유일. 스포일러 캐릭터는 정체가 드러나지 않는 ID 사용"
+          "description": "프랜차이즈 내 유일. 원어 표기(name.original)를 결정적으로 로마자 변환한 값(scripts/lib/romanize.ts, 72자 초과분은 토큰 경계에서 자름) + 같은 기본형이 겹치면 -2, -3… (검증 스크립트 확인). URL에도 그대로 쓴다"
         },
         "name": {
           "$ref": "common.schema.json#/$defs/Name"
@@ -61,11 +61,6 @@
           "properties": {
             "work": {
               "$ref": "common.schema.json#/$defs/Id"
-            },
-            "episode": {
-              "type": "integer",
-              "minimum": 1,
-              "description": "첫 등장 화 (TV/OVA 등)"
             }
           }
         },
@@ -75,7 +70,7 @@
         },
         "spoiler": {
           "type": "boolean",
-          "description": "true면 이름·설명·이미지를 '스포일러'로 가림. 성우는 그대로 표시"
+          "description": "true면 배역 목록·검색 등에서 이름·설명·이미지를 '스포일러'로 가림. 성우는 그대로 표시"
         },
         "image": {
           "$ref": "common.schema.json#/$defs/Image",

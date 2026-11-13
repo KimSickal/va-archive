@@ -65,8 +65,8 @@ interface Db {
     worksByPerson: Record<PersonId, WorkId[]>;
     // 프랜차이즈 → 작품 ID (start_date 순)
     worksByFranchise: Record<FranchiseId, WorkId[]>;
-    // 캐릭터("franchiseId/characterId") → 언어 → 첫 음성 출연 {work, version, episode?}
-    firstVoicedByCharacter: Record<string, Record<Lang, { work: WorkId; version: string; episode?: number }>>;
+    // 캐릭터("franchiseId/characterId") → 언어 → 첫 음성 출연 {work, version}
+    firstVoicedByCharacter: Record<string, Record<Lang, { work: WorkId; version: string }>>;
     // 작품별 "마지막 공개일" (재조사 안내용, 아래 5절)
     lastReleaseByWork: Record<WorkId, string | null>;
   };
@@ -77,7 +77,7 @@ interface Db {
 interface CreditRef {
   work: WorkId; version: string; lang: Lang;
   franchise: FranchiseId; character: string;
-  role?: string; part?: string; episodes?: unknown; note?: string;
+  role?: string; part?: string; note?: string;
 }
 
 interface SearchEntry {

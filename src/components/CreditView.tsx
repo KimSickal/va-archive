@@ -4,15 +4,11 @@ import { displayName, displayText } from '../data/i18n-data';
 import type { ResolvedCredit } from '../data/queries';
 import { t } from '../i18n/ko';
 import type { Credit } from '../types/data';
-import { episodesLabel, Spoiler, TextView, VerificationBadge } from './common';
+import { Spoiler, TextView, VerificationBadge } from './common';
 
-/** part · 회차 · 비고를 한 줄로 */
+/** part · 비고를 한 줄로 */
 export function CreditMeta({ credit, showRole = false }: { credit: Credit; showRole?: boolean }) {
-  const bits = [
-    showRole ? t.role[credit.role] : '',
-    credit.part ? t.part[credit.part] : '',
-    episodesLabel(credit.episodes),
-  ].filter(Boolean);
+  const bits = [showRole ? t.role[credit.role] : '', credit.part ? t.part[credit.part] : ''].filter(Boolean);
   return (
     <span className="credit-meta">
       {bits.length > 0 && <span className="muted">{bits.join(' · ')}</span>}

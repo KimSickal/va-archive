@@ -1,7 +1,9 @@
 /**
  * 조회·비교 로직. 모두 (db, args) => result 형태의 순수 함수 (docs/02-architecture.md 4절).
  */
-import type { Character, Credit, Version, Work } from '../types/data';
+import type { Character, Credit, Part, Version, Work } from '../types/data';
+
+const PART_RANK: Record<Part, number> = { regular: 0, replaced: 1, replacement: 2, young: 3, substitute: 4, other: 5 };
 import { charKey, resolveCharRef } from './charRef';
 import { partialDateEnd } from './dates';
 import type { CreditRef, Db, SearchEntry } from './db';
@@ -133,14 +135,10 @@ export function castTable(db: Db, workId: string): CastRow[] {
       rows.set(key, row);
     }
   });
-  const epStart = (c: Credit) =>
-    typeof c.episodes === 'object'
-      ? (c.episodes.from ?? 0)
-      : c.episodes
-        ? Number(String(c.episodes).match(/^\d+/)?.[0] ?? 0)
-        : 0;
+  // 한 칸에 성우가 여럿이면 교체 전 → 교체 후 순 (같은 구분끼리는 파일 순서)
   for (const r of rows.values())
-    for (const list of Object.values(r.byVersion)) list.sort((a, b) => epStart(a) - epStart(b));
+    for (const list of Object.values(r.byVersion))
+      list.sort((a, b) => PART_RANK[a.part ?? 'regular'] - PART_RANK[b.part ?? 'regular']);
   return [...rows.values()]
     .sort((a, b) => ROLE_RANK[a.role] - ROLE_RANK[b.role] || a.firstSeen - b.firstSeen)
     .map(({ firstSeen: _f, ...r }) => r);

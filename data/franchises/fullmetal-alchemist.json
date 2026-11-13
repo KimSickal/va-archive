@@ -18,7 +18,7 @@
   },
   "characters": [
     {
-      "id": "edward-elric",
+      "id": "edowado-erurikku",
       "name": {
         "original_lang": "ja",
         "original": "エドワード・エルリック",
@@ -55,7 +55,7 @@
       }
     },
     {
-      "id": "alphonse-elric",
+      "id": "arufonsu-erurikku",
       "name": {
         "original_lang": "ja",
         "original": "アルフォンス・エルリック",
@@ -92,7 +92,7 @@
       }
     },
     {
-      "id": "winry-rockbell",
+      "id": "uinri-rokkuberu",
       "name": {
         "original_lang": "ja",
         "original": "ウィンリィ・ロックベル",
@@ -125,7 +125,7 @@
       }
     },
     {
-      "id": "roy-mustang",
+      "id": "roi-masutangu",
       "name": {
         "original_lang": "ja",
         "original": "ロイ・マスタング",
@@ -161,7 +161,7 @@
       }
     },
     {
-      "id": "riza-hawkeye",
+      "id": "riza-hokuai",
       "name": {
         "original_lang": "ja",
         "original": "リザ・ホークアイ",
@@ -194,7 +194,7 @@
       }
     },
     {
-      "id": "alex-louis-armstrong",
+      "id": "arekkusu-rui-amusutorongu",
       "name": {
         "original_lang": "ja",
         "original": "アレックス・ルイ・アームストロング",
@@ -227,7 +227,7 @@
       }
     },
     {
-      "id": "maes-hughes",
+      "id": "masu-hyuzu",
       "name": {
         "original_lang": "ja",
         "original": "マース・ヒューズ",
@@ -260,7 +260,7 @@
       }
     },
     {
-      "id": "lust",
+      "id": "rasuto",
       "name": {
         "original_lang": "ja",
         "original": "ラスト",
@@ -293,7 +293,7 @@
       }
     },
     {
-      "id": "gluttony",
+      "id": "guratoni",
       "name": {
         "original_lang": "ja",
         "original": "グラトニー",
@@ -326,7 +326,7 @@
       }
     },
     {
-      "id": "envy",
+      "id": "envi",
       "name": {
         "original_lang": "ja",
         "original": "エンヴィー",
@@ -359,7 +359,7 @@
       }
     },
     {
-      "id": "scar",
+      "id": "suka",
       "name": {
         "original_lang": "ja",
         "original": "スカー",
@@ -397,7 +397,7 @@
       }
     },
     {
-      "id": "pinako-rockbell",
+      "id": "pinako-rokkuberu",
       "name": {
         "original_lang": "ja",
         "original": "ピナコ・ロックベル",
@@ -430,7 +430,7 @@
       }
     },
     {
-      "id": "trisha-elric",
+      "id": "torisha-erurikku",
       "name": {
         "original_lang": "ja",
         "original": "トリシャ・エルリック",
@@ -463,7 +463,7 @@
       }
     },
     {
-      "id": "gracia-hughes",
+      "id": "gureishia-hyuzu",
       "name": {
         "original_lang": "ja",
         "original": "グレイシア・ヒューズ",
@@ -498,7 +498,7 @@
       }
     },
     {
-      "id": "elicia-hughes",
+      "id": "erishia-hyuzu",
       "name": {
         "original_lang": "ja",
         "original": "エリシア・ヒューズ",
@@ -534,7 +534,7 @@
       }
     },
     {
-      "id": "tim-marcoh",
+      "id": "timu-maruko",
       "name": {
         "original_lang": "ja",
         "original": "ティム・マルコー",
@@ -567,7 +567,7 @@
       }
     },
     {
-      "id": "jean-havoc",
+      "id": "jan-habokku",
       "name": {
         "original_lang": "ja",
         "original": "ジャン・ハボック",
@@ -605,7 +605,7 @@
       }
     },
     {
-      "id": "heymans-breda",
+      "id": "haimansu-bureda",
       "name": {
         "original_lang": "ja",
         "original": "ハイマンス・ブレダ",
@@ -638,7 +638,7 @@
       }
     },
     {
-      "id": "maria-ross",
+      "id": "maria-rosu",
       "name": {
         "original_lang": "ja",
         "original": "マリア・ロス",
@@ -671,7 +671,7 @@
       }
     },
     {
-      "id": "denny-brosh",
+      "id": "deni-burosshu",
       "name": {
         "original_lang": "ja",
         "original": "デニー・ブロッシュ",
@@ -706,7 +706,7 @@
       }
     },
     {
-      "id": "sheska",
+      "id": "shesuka",
       "name": {
         "original_lang": "ja",
         "original": "シェスカ",
@@ -741,7 +741,7 @@
       }
     },
     {
-      "id": "barry-the-chopper",
+      "id": "bari-za-choppa",
       "name": {
         "original_lang": "ja",
         "original": "バリー・ザ・チョッパー",
@@ -776,7 +776,7 @@
       }
     },
     {
-      "id": "slicer",
+      "id": "suraisa",
       "name": {
         "original_lang": "ja",
         "original": "スライサー",
@@ -847,7 +847,7 @@
       }
     },
     {
-      "id": "izumi-curtis",
+      "id": "izumi-katisu",
       "name": {
         "original_lang": "ja",
         "original": "イズミ・カーティス",
@@ -880,7 +880,7 @@
       }
     },
     {
-      "id": "sig-curtis",
+      "id": "shigu-katisu",
       "name": {
         "original_lang": "ja",
         "original": "シグ・カーティス",
@@ -915,7 +915,7 @@
       }
     },
     {
-      "id": "greed",
+      "id": "gurido",
       "name": {
         "original_lang": "ja",
         "original": "グリード",
@@ -948,7 +948,7 @@
       }
     },
     {
-      "id": "king-bradley",
+      "id": "kingu-buraddorei",
       "name": {
         "original_lang": "ja",
         "original": "キング・ブラッドレイ",
@@ -986,7 +986,7 @@
       }
     },
     {
-      "id": "ling-yao",
+      "id": "rin-yao",
       "name": {
         "original_lang": "ja",
         "original": "リン・ヤオ",
@@ -1019,7 +1019,7 @@
       }
     },
     {
-      "id": "lan-fan",
+      "id": "ranfan",
       "name": {
         "original_lang": "ja",
         "original": "ランファン",
@@ -1090,7 +1090,7 @@
       }
     },
     {
-      "id": "may-chang",
+      "id": "mei-chan",
       "name": {
         "original_lang": "ja",
         "original": "メイ・チャン",
@@ -1123,7 +1123,7 @@
       }
     },
     {
-      "id": "xiao-mei",
+      "id": "shaomei",
       "name": {
         "original_lang": "ja",
         "original": "シャオメイ",
@@ -1161,7 +1161,7 @@
       }
     },
     {
-      "id": "van-hohenheim",
+      "id": "van-hoenhaimu",
       "name": {
         "original_lang": "ja",
         "original": "ヴァン・ホーエンハイム",
@@ -1194,7 +1194,7 @@
       }
     },
     {
-      "id": "scars-brother",
+      "id": "sukano-kei",
       "name": {
         "original_lang": "ja",
         "original": "スカーの兄",
@@ -1218,8 +1218,7 @@
         ]
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 22
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true,
       "image": {
@@ -1231,7 +1230,7 @@
       }
     },
     {
-      "id": "yuriy-rockbell",
+      "id": "yuri-rokkuberu",
       "name": {
         "original_lang": "ja",
         "original": "ユーリ・ロックベル",
@@ -1250,8 +1249,7 @@
         ]
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 18
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "image": {
         "url": "https://www.hagaren.jp/fa/characters/images01/detail/36.jpg",
@@ -1262,7 +1260,7 @@
       }
     },
     {
-      "id": "sara-rockbell",
+      "id": "sara-rokkuberu",
       "name": {
         "original_lang": "ja",
         "original": "サラ・ロックベル",
@@ -1281,8 +1279,7 @@
         ]
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 18
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "image": {
         "url": "https://www.hagaren.jp/fa/characters/images01/detail/36.jpg",
@@ -1293,7 +1290,7 @@
       }
     },
     {
-      "id": "father",
+      "id": "o-fu-you",
       "name": {
         "original_lang": "ja",
         "original": "お父様",
@@ -1331,7 +1328,7 @@
       }
     },
     {
-      "id": "selim-bradley",
+      "id": "serimu-buraddorei",
       "name": {
         "original_lang": "ja",
         "original": "セリム・ブラッドレイ",
@@ -1369,7 +1366,7 @@
       }
     },
     {
-      "id": "pride",
+      "id": "puraido",
       "name": {
         "original_lang": "ja",
         "original": "プライド",
@@ -1396,7 +1393,7 @@
       "spoiler": true
     },
     {
-      "id": "solf-j-kimblee",
+      "id": "zorufu-j-kinburi",
       "name": {
         "original_lang": "ja",
         "original": "ゾルフ・J・キンブリー",
@@ -1429,7 +1426,7 @@
       }
     },
     {
-      "id": "roys-master",
+      "id": "roino-shi-shou",
       "name": {
         "original_lang": "ja",
         "original": "ロイの師匠",
@@ -1457,8 +1454,7 @@
         ]
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 30
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true,
       "image": {
@@ -1470,7 +1466,7 @@
       }
     },
     {
-      "id": "knox",
+      "id": "nokkusu",
       "name": {
         "original_lang": "ja",
         "original": "ノックス",
@@ -1503,7 +1499,7 @@
       }
     },
     {
-      "id": "olivier-mira-armstrong",
+      "id": "orivie-mira-amusutorongu",
       "name": {
         "original_lang": "ja",
         "original": "オリヴィエ・ミラ・アームストロング",
@@ -1536,7 +1532,7 @@
       }
     },
     {
-      "id": "miles",
+      "id": "mairuzu",
       "name": {
         "original_lang": "ja",
         "original": "マイルズ",
@@ -1569,7 +1565,7 @@
       }
     },
     {
-      "id": "buccaneer",
+      "id": "bakkania",
       "name": {
         "original_lang": "ja",
         "original": "バッカニア",
@@ -1607,7 +1603,7 @@
       }
     },
     {
-      "id": "sloth",
+      "id": "surousu",
       "name": {
         "original_lang": "ja",
         "original": "スロウス",
@@ -1640,7 +1636,7 @@
       }
     },
     {
-      "id": "grumman",
+      "id": "guraman",
       "name": {
         "original_lang": "ja",
         "original": "グラマン",
@@ -1676,7 +1672,7 @@
       }
     },
     {
-      "id": "raven",
+      "id": "reibun",
       "name": {
         "original_lang": "ja",
         "original": "レイブン",
@@ -1711,7 +1707,7 @@
       }
     },
     {
-      "id": "kain-fuery",
+      "id": "kein-fuyuri",
       "name": {
         "original_lang": "ja",
         "original": "ケイン・フュリー",
@@ -1725,7 +1721,7 @@
       }
     },
     {
-      "id": "vato-falman",
+      "id": "vato-faruman",
       "name": {
         "original_lang": "ja",
         "original": "ヴァトー・ファルマン",
@@ -1739,7 +1735,7 @@
       }
     },
     {
-      "id": "shou-tucker",
+      "id": "shou-takka",
       "name": {
         "original_lang": "ja",
         "original": "ショウ・タッカー",
@@ -1753,7 +1749,7 @@
       }
     },
     {
-      "id": "nina-tucker",
+      "id": "nina-takka",
       "name": {
         "original_lang": "ja",
         "original": "ニーナ・タッカー",
@@ -1765,12 +1761,11 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 4
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
-      "id": "rose",
+      "id": "roze",
       "name": {
         "original_lang": "ja",
         "original": "ロゼ",
@@ -1789,7 +1784,7 @@
       }
     },
     {
-      "id": "cornello",
+      "id": "konero",
       "name": {
         "original_lang": "ja",
         "original": "コーネロ",
@@ -1801,24 +1796,22 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 3
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
-      "id": "cray",
+      "id": "kurei",
       "name": {
         "original_lang": "ja",
         "original": "クレイ",
         "latin": "Cray"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 3
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
-      "id": "basque-grand",
+      "id": "basuku-guran",
       "name": {
         "original_lang": "ja",
         "original": "バスク・グラン",
@@ -1830,12 +1823,11 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 4
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
-      "id": "mrs-bradley",
+      "id": "buraddorei-fu-jin",
       "name": {
         "original_lang": "ja",
         "original": "ブラッドレイ夫人",
@@ -1856,7 +1848,7 @@
       "nameless": true
     },
     {
-      "id": "madame-christmas",
+      "id": "madamu-kurisumasu",
       "name": {
         "original_lang": "ja",
         "original": "マダム・クリスマス",
@@ -1872,7 +1864,7 @@
       }
     },
     {
-      "id": "rebecca-catalina",
+      "id": "rebekka-katarina",
       "name": {
         "original_lang": "ja",
         "original": "レベッカ・カタリナ",
@@ -1895,8 +1887,7 @@
         "latin": "Vanessa"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 31
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
@@ -1912,12 +1903,11 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 11
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
-      "id": "dominic-lecourt",
+      "id": "dominiku-rekoruto",
       "name": {
         "original_lang": "ja",
         "original": "ドミニク・レコルト",
@@ -1929,36 +1919,33 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 11
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
-      "id": "ridel-lecourt",
+      "id": "ridoru-rekoruto",
       "name": {
         "original_lang": "ja",
         "original": "リドル・レコルト",
         "latin": "Ridel LeCourt"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 11
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
-      "id": "satella-lecourt",
+      "id": "satera-rekoruto",
       "name": {
         "original_lang": "ja",
         "original": "サテラ・レコルト",
         "latin": "Satella LeCourt"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 11
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
-      "id": "garfiel",
+      "id": "gafiru",
       "name": {
         "original_lang": "ja",
         "original": "ガーフィール",
@@ -1981,12 +1968,11 @@
         "latin": "Tetsu"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 23
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
-      "id": "mason",
+      "id": "meisun",
       "name": {
         "original_lang": "ja",
         "original": "メイスン",
@@ -1998,12 +1984,11 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 13
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
-      "id": "dolcetto",
+      "id": "doruchetto",
       "name": {
         "original_lang": "ja",
         "original": "ドルチェット",
@@ -2013,8 +1998,7 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 13
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
@@ -2028,12 +2012,11 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 13
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
-      "id": "martel",
+      "id": "materu",
       "name": {
         "original_lang": "ja",
         "original": "マーテル",
@@ -2043,8 +2026,7 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 13
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
@@ -2060,12 +2042,11 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 13
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
-      "id": "heinkel",
+      "id": "hainkeru",
       "name": {
         "original_lang": "ja",
         "original": "ハインケル",
@@ -2081,7 +2062,7 @@
       }
     },
     {
-      "id": "darius",
+      "id": "dariusu",
       "name": {
         "original_lang": "ja",
         "original": "ダリウス",
@@ -2097,7 +2078,7 @@
       }
     },
     {
-      "id": "jerso",
+      "id": "jeruso",
       "name": {
         "original_lang": "ja",
         "original": "ジェルソ",
@@ -2113,7 +2094,7 @@
       }
     },
     {
-      "id": "zampano",
+      "id": "zanpano",
       "name": {
         "original_lang": "ja",
         "original": "ザンパノ",
@@ -2127,7 +2108,7 @@
       }
     },
     {
-      "id": "isaac-mcdougal",
+      "id": "aizakku-makudugaru",
       "name": {
         "original_lang": "ja",
         "original": "アイザック・マクドゥーガル",
@@ -2142,12 +2123,11 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 1
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
-      "id": "giolio-comanche",
+      "id": "jorio-komanchi",
       "name": {
         "original_lang": "ja",
         "original": "ジョリオ・コマンチ",
@@ -2159,12 +2139,11 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 15
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
-      "id": "henry-douglas",
+      "id": "henri-dagurasu",
       "name": {
         "original_lang": "ja",
         "original": "ヘンリ・ダグラス",
@@ -2176,12 +2155,11 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 16
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
-      "id": "focker",
+      "id": "fokka",
       "name": {
         "original_lang": "ja",
         "original": "フォッカー",
@@ -2193,12 +2171,11 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 10
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
-      "id": "fessler",
+      "id": "fesura",
       "name": {
         "original_lang": "ja",
         "original": "フェスラー",
@@ -2210,12 +2187,11 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 29
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
-      "id": "storch",
+      "id": "shutoruhi",
       "name": {
         "original_lang": "ja",
         "original": "シュトルヒ",
@@ -2227,12 +2203,11 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 25
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
-      "id": "yakovlev",
+      "id": "yakoburefu",
       "name": {
         "original_lang": "ja",
         "original": "ヤコブレフ",
@@ -2244,12 +2219,11 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 25
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
-      "id": "clemin",
+      "id": "kuremin",
       "name": {
         "original_lang": "ja",
         "original": "クレミン",
@@ -2260,7 +2234,7 @@
       }
     },
     {
-      "id": "gardner",
+      "id": "gadona",
       "name": {
         "original_lang": "ja",
         "original": "ガードナー",
@@ -2271,7 +2245,7 @@
       }
     },
     {
-      "id": "edison",
+      "id": "ejison",
       "name": {
         "original_lang": "ja",
         "original": "エジソン",
@@ -2282,7 +2256,7 @@
       }
     },
     {
-      "id": "fox",
+      "id": "fokkusu",
       "name": {
         "original_lang": "ja",
         "original": "フォックス",
@@ -2293,15 +2267,14 @@
       }
     },
     {
-      "id": "gertner",
+      "id": "gerutona",
       "name": {
         "original_lang": "ja",
         "original": "ゲルトナー",
         "latin": "Gertner"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 38
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
@@ -2317,12 +2290,11 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 46
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
-      "id": "charlie",
+      "id": "chari",
       "name": {
         "original_lang": "ja",
         "original": "チャーリー",
@@ -2349,7 +2321,7 @@
       }
     },
     {
-      "id": "henschel",
+      "id": "hensheru",
       "name": {
         "original_lang": "ja",
         "original": "ヘンシェル",
@@ -2361,12 +2333,11 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 36
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
-      "id": "liam-roach",
+      "id": "riamu-rochi",
       "name": {
         "original_lang": "ja",
         "original": "リアム・ローチ",
@@ -2382,7 +2353,7 @@
       }
     },
     {
-      "id": "mick-murray",
+      "id": "mikku-marei",
       "name": {
         "original_lang": "ja",
         "original": "ミック・マーレイ",
@@ -2398,7 +2369,7 @@
       }
     },
     {
-      "id": "karley",
+      "id": "kari",
       "name": {
         "original_lang": "ja",
         "original": "カーリー",
@@ -2414,19 +2385,18 @@
       }
     },
     {
-      "id": "neil",
+      "id": "niru",
       "name": {
         "original_lang": "ja",
         "original": "ニール",
         "latin": "Neil"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 35
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
-      "id": "bobby",
+      "id": "bobi",
       "name": {
         "original_lang": "ja",
         "original": "ボビー",
@@ -2438,12 +2408,11 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 34
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
-      "id": "ivan",
+      "id": "aivan",
       "name": {
         "original_lang": "ja",
         "original": "アイヴァン",
@@ -2454,19 +2423,18 @@
       }
     },
     {
-      "id": "eric",
+      "id": "erikku",
       "name": {
         "original_lang": "ja",
         "original": "エリック",
         "latin": "Eric"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 52
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
-      "id": "philip-gargantos-armstrong",
+      "id": "firippu-garugantosu-amusutorongu",
       "name": {
         "original_lang": "ja",
         "original": "フィリップ・ガルガントス・アームストロング",
@@ -2478,12 +2446,11 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 45
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
-      "id": "catherine-elle-armstrong",
+      "id": "kyasurin-eru-amusutorongu",
       "name": {
         "original_lang": "ja",
         "original": "キャスリン・エル・アームストロング",
@@ -2495,8 +2462,7 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 38
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
@@ -2512,24 +2478,22 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 18
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
-      "id": "heath",
+      "id": "hisu",
       "name": {
         "original_lang": "ja",
         "original": "ヒース",
         "latin": "Heath"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 58
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
-      "id": "gustav",
+      "id": "gusutafu",
       "name": {
         "original_lang": "ja",
         "original": "グスタフ",
@@ -2540,55 +2504,51 @@
       }
     },
     {
-      "id": "casper",
+      "id": "kasupa",
       "name": {
         "original_lang": "ja",
         "original": "カスパー",
         "latin": "Casper"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 54
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
-      "id": "frank",
+      "id": "furanku",
       "name": {
         "original_lang": "ja",
         "original": "フランク",
         "latin": "Frank"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 55
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
-      "id": "flanagan",
+      "id": "furanagan",
       "name": {
         "original_lang": "ja",
         "original": "フラナガン",
         "latin": "Flanagan"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 52
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
-      "id": "bliss",
+      "id": "burisu",
       "name": {
         "original_lang": "ja",
         "original": "ブリス",
         "latin": "Bliss"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 62
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
-      "id": "han",
+      "id": "misuta-han",
       "name": {
         "original_lang": "ja",
         "original": "ミスター・ハン",
@@ -2600,12 +2560,11 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 18
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
-      "id": "mrs-armstrong",
+      "id": "amusutorongu-fu-jin",
       "name": {
         "original_lang": "ja",
         "original": "アームストロング夫人",
@@ -2617,13 +2576,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 45
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "king-of-xerxes",
+      "id": "kuserukusesu-ou",
       "name": {
         "original_lang": "ja",
         "original": "クセルクセス王",
@@ -2641,13 +2599,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 40
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "scars-master",
+      "id": "shi-fu",
       "name": {
         "original_lang": "ja",
         "original": "師父",
@@ -2667,7 +2624,7 @@
       "nameless": true
     },
     {
-      "id": "knoxs-wife",
+      "id": "nokkusu-sai",
       "name": {
         "original_lang": "ja",
         "original": "ノックス妻",
@@ -2682,13 +2639,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 31
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "knoxs-son",
+      "id": "nokkusu-soku-shi",
       "name": {
         "original_lang": "ja",
         "original": "ノックス息子",
@@ -2703,13 +2659,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 31
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "gold-toothed-doctor",
+      "id": "kin-shi-i-sha",
       "name": {
         "original_lang": "ja",
         "original": "金歯医者",
@@ -2726,7 +2681,7 @@
       "nameless": true
     },
     {
-      "id": "flower-shop-lady",
+      "id": "ka-oku-noobachan",
       "name": {
         "original_lang": "ja",
         "original": "花屋のおばちゃん",
@@ -2738,13 +2693,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 36
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "briggs-doctor",
+      "id": "jo-i",
       "name": {
         "original_lang": "ja",
         "original": "女医",
@@ -2756,13 +2710,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 34
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "broshs-little-sister",
+      "id": "burosshuno-mai",
       "name": {
         "original_lang": "ja",
         "original": "ブロッシュの妹",
@@ -2774,13 +2727,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 49
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "broshs-little-brother",
+      "id": "burosshuno-tei",
       "name": {
         "original_lang": "ja",
         "original": "ブロッシュの弟",
@@ -2792,13 +2744,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 49
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "boy-fmab-ep9",
+      "id": "shou-nen",
       "name": {
         "original_lang": "ja",
         "original": "少年",
@@ -2810,13 +2761,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 9
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "narrator-fmab",
+      "id": "nareshon",
       "name": {
         "original_lang": "ja",
         "original": "ナレーション",
@@ -2833,7 +2783,7 @@
       "nameless": true
     },
     {
-      "id": "boy-b-fmab-ep9",
+      "id": "dan-no-shi-b",
       "name": {
         "original_lang": "ja",
         "original": "男の子B",
@@ -2845,13 +2795,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 9
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "soldier-c-fmab-ep41",
+      "id": "hei-shi-c",
       "name": {
         "original_lang": "ja",
         "original": "兵士C",
@@ -2863,13 +2812,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 41
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "ishbalan-boy-fmab-ep18",
+      "id": "shou-nen-2",
       "name": {
         "original_lang": "ja",
         "original": "少年",
@@ -2881,156 +2829,144 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 18
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "doctor-fmab-ep11",
+      "id": "doctor",
       "name": {
         "original_lang": "en",
         "original": "Doctor",
         "latin": "Doctor"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 11
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "face-b-fmab-ep26",
+      "id": "face-b",
       "name": {
         "original_lang": "en",
         "original": "Face B",
         "latin": "Face B"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 26
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "fellow-countryman-fmab-ep22",
+      "id": "fellow-countryman",
       "name": {
         "original_lang": "en",
         "original": "Fellow Countryman",
         "latin": "Fellow Countryman"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 22
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "man-a-fmab-ep12",
+      "id": "man-a",
       "name": {
         "original_lang": "en",
         "original": "Man A",
         "latin": "Man A"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 12
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "military-a-fmab-ep14",
+      "id": "military-a",
       "name": {
         "original_lang": "en",
         "original": "Military A",
         "latin": "Military A"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 14
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "military-policeman-b-fmab-ep1",
+      "id": "military-policeman-b",
       "name": {
         "original_lang": "en",
         "original": "Military Policeman B",
         "latin": "Military Policeman B"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 1
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "order-member-b-fmab-ep3",
+      "id": "order-member-b",
       "name": {
         "original_lang": "en",
         "original": "Order Member B",
         "latin": "Order Member B"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 3
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "prison-guard-a-fmab-ep8",
+      "id": "prison-guard-a",
       "name": {
         "original_lang": "en",
         "original": "Prison Guard A",
         "latin": "Prison Guard A"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 8
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "subordinate-fmab-ep2",
+      "id": "subordinate",
       "name": {
         "original_lang": "en",
         "original": "Subordinate",
         "latin": "Subordinate"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 2
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "villager-a-fmab-ep6",
+      "id": "villager-a",
       "name": {
         "original_lang": "en",
         "original": "Villager A",
         "latin": "Villager A"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 6
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "doctor-fmab-ep35",
+      "id": "doctor-2",
       "name": {
         "original_lang": "en",
         "original": "Doctor",
         "latin": "Doctor"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 35
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "military-policeman-a-fmab-ep22",
+      "id": "ken-hei-a",
       "name": {
         "original_lang": "ja",
         "original": "憲兵A",
@@ -3042,13 +2978,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 22
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "producer-fmab-ep53",
+      "id": "purodeyusa",
       "name": {
         "original_lang": "ja",
         "original": "プロデューサー",
@@ -3060,13 +2995,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 53
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "white-coat-fmab-ep26",
+      "id": "haku-i",
       "name": {
         "original_lang": "ja",
         "original": "白衣",
@@ -3078,13 +3012,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 26
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "guard-soldier-b-fmab-ep17",
+      "id": "kei-bi-hei-b",
       "name": {
         "original_lang": "ja",
         "original": "警備兵B",
@@ -3096,13 +3029,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 17
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "military-policeman-a-fmab-ep23",
+      "id": "ken-hei-a-2",
       "name": {
         "original_lang": "ja",
         "original": "憲兵A",
@@ -3114,13 +3046,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 23
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "sheskas-superior-fmab-ep16",
+      "id": "shesukano-jou-kan",
       "name": {
         "original_lang": "ja",
         "original": "シェスカの上官",
@@ -3132,26 +3063,24 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 16
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "photographer-fmab-ep36",
+      "id": "photographer",
       "name": {
         "original_lang": "en",
         "original": "Photographer",
         "latin": "Photographer"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 36
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "military-policeman-a-fmab-ep32",
+      "id": "ken-hei-a-3",
       "name": {
         "original_lang": "ja",
         "original": "憲兵A",
@@ -3163,13 +3092,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 32
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "commander-fmab-ep56",
+      "id": "tai-chou",
       "name": {
         "original_lang": "ja",
         "original": "隊長",
@@ -3181,26 +3109,24 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 56
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "branch-manager-fmab-ep44",
+      "id": "branch-manager",
       "name": {
         "original_lang": "en",
         "original": "Branch Manager",
         "latin": "Branch Manager"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 44
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "commander-fmab-ep32",
+      "id": "tai-chou-2",
       "name": {
         "original_lang": "ja",
         "original": "隊長",
@@ -3212,26 +3138,24 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 32
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "face-a-fmab-ep26",
+      "id": "face-a",
       "name": {
         "original_lang": "en",
         "original": "Face A",
         "latin": "Face A"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 26
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "guard-soldier-a-fmab-ep17",
+      "id": "kei-bi-hei-a",
       "name": {
         "original_lang": "ja",
         "original": "警備兵A",
@@ -3243,26 +3167,24 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 17
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "sergeant-fmab-ep56",
+      "id": "sergeant",
       "name": {
         "original_lang": "en",
         "original": "Sergeant",
         "latin": "Sergeant"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 56
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "slum-dweller-fmab-ep53",
+      "id": "suramu-juu-min",
       "name": {
         "original_lang": "ja",
         "original": "スラム住民",
@@ -3274,13 +3196,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 53
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "engineer-fmab-ep33",
+      "id": "ki-kan-shi-b",
       "name": {
         "original_lang": "ja",
         "original": "機関士B",
@@ -3292,13 +3213,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 33
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "second-officer-fmab-ep40",
+      "id": "fuku-kan",
       "name": {
         "original_lang": "ja",
         "original": "副官",
@@ -3310,13 +3230,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 40
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "radio-voice-fmab-ep23",
+      "id": "mu-sen-no-sei",
       "name": {
         "original_lang": "ja",
         "original": "無線の声",
@@ -3328,13 +3247,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 23
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "subordinate-fmab-ep10",
+      "id": "bu-ka",
       "name": {
         "original_lang": "ja",
         "original": "部下",
@@ -3346,13 +3264,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 10
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "military-policeman-a-fmab-ep1",
+      "id": "ken-hei-a-4",
       "name": {
         "original_lang": "ja",
         "original": "憲兵A",
@@ -3364,13 +3281,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 1
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "order-member-a-fmab-ep3",
+      "id": "kyou-dan-in-a",
       "name": {
         "original_lang": "ja",
         "original": "教団員A",
@@ -3382,13 +3298,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 3
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "soldier-fmab-ep35",
+      "id": "hei-shi",
       "name": {
         "original_lang": "ja",
         "original": "兵士",
@@ -3400,13 +3315,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 35
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "soldier-a-fmab-ep38",
+      "id": "hei-shi-a",
       "name": {
         "original_lang": "ja",
         "original": "兵士A",
@@ -3418,13 +3332,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 38
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "lady-fmab-ep47",
+      "id": "obasan",
       "name": {
         "original_lang": "ja",
         "original": "おばさん",
@@ -3436,13 +3349,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 47
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "villager-c-fmab-ep6",
+      "id": "son-jin-c",
       "name": {
         "original_lang": "ja",
         "original": "村人C",
@@ -3454,13 +3366,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 6
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "station-attendant-fmab-ep32",
+      "id": "eki-in",
       "name": {
         "original_lang": "ja",
         "original": "駅員",
@@ -3472,13 +3383,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 32
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "man-b-fmab-ep12",
+      "id": "dan-b",
       "name": {
         "original_lang": "ja",
         "original": "男B",
@@ -3490,13 +3400,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 12
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "prison-guard-b-fmab-ep8",
+      "id": "kan-shu-b",
       "name": {
         "original_lang": "ja",
         "original": "看守B",
@@ -3508,13 +3417,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 8
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "briggs-soldier-fmab-ep36",
+      "id": "burigguzu-hei-b",
       "name": {
         "original_lang": "ja",
         "original": "ブリッグズ兵B",
@@ -3526,13 +3434,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 36
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "engineer-b-fmab-ep11",
+      "id": "gi-shi-b",
       "name": {
         "original_lang": "ja",
         "original": "技師B",
@@ -3544,13 +3451,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 11
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "military-policeman-fmab-ep7",
+      "id": "ken-hei",
       "name": {
         "original_lang": "ja",
         "original": "憲兵",
@@ -3562,13 +3468,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 7
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "soldier-b-fmab-ep41",
+      "id": "hei-shi-b",
       "name": {
         "original_lang": "ja",
         "original": "兵士B",
@@ -3580,13 +3485,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 41
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "man-c-fmab-ep12",
+      "id": "dan-c",
       "name": {
         "original_lang": "ja",
         "original": "男C",
@@ -3598,13 +3502,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 12
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "military-policeman-d-fmab-ep1",
+      "id": "ken-hei-d",
       "name": {
         "original_lang": "ja",
         "original": "憲兵D",
@@ -3616,13 +3519,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 1
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "order-member-c-fmab-ep3",
+      "id": "kyou-dan-in-c",
       "name": {
         "original_lang": "ja",
         "original": "教団員C",
@@ -3634,26 +3536,24 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 3
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "proctor-fmab-ep2",
+      "id": "proctor",
       "name": {
         "original_lang": "en",
         "original": "Proctor",
         "latin": "Proctor"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 2
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "soldier-fmab-ep7",
+      "id": "hei-shi-2",
       "name": {
         "original_lang": "ja",
         "original": "兵士",
@@ -3665,13 +3565,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 7
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "villager-b-fmab-ep6",
+      "id": "son-jin-b",
       "name": {
         "original_lang": "ja",
         "original": "村人B",
@@ -3683,26 +3582,24 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 6
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "briggs-soldier-fmab-ep37",
+      "id": "briggs-soldier",
       "name": {
         "original_lang": "en",
         "original": "Briggs Soldier",
         "latin": "Briggs Soldier"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 37
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "citizen-fmab-ep51",
+      "id": "shi-min",
       "name": {
         "original_lang": "ja",
         "original": "市民",
@@ -3714,13 +3611,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 51
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "ishvalan-fmab-ep43",
+      "id": "ishuvaru-jin",
       "name": {
         "original_lang": "ja",
         "original": "イシュヴァール人",
@@ -3732,13 +3628,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 43
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "worker-fmab-ep34",
+      "id": "saku-gyou-in",
       "name": {
         "original_lang": "ja",
         "original": "作業員",
@@ -3750,13 +3645,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 34
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "receptionist-fmab-ep44",
+      "id": "sou-kou-jou",
       "name": {
         "original_lang": "ja",
         "original": "窓口嬢",
@@ -3768,39 +3662,36 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 44
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "housewife-fmab-ep29",
+      "id": "housewife",
       "name": {
         "original_lang": "en",
         "original": "Housewife",
         "latin": "Housewife"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 29
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "executive-fmab-ep25",
+      "id": "executive",
       "name": {
         "original_lang": "en",
         "original": "Executive",
         "latin": "Executive"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 25
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "high-official-fmab",
+      "id": "kou-kan",
       "name": {
         "original_lang": "ja",
         "original": "高官",
@@ -3817,7 +3708,7 @@
       "nameless": true
     },
     {
-      "id": "the-employee-fmab",
+      "id": "kou-in",
       "name": {
         "original_lang": "ja",
         "original": "工員",
@@ -3834,20 +3725,19 @@
       "nameless": true
     },
     {
-      "id": "worker-fmab-ep26",
+      "id": "worker",
       "name": {
         "original_lang": "en",
         "original": "Worker",
         "latin": "Worker"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 26
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "soldier-fmab-ep33",
+      "id": "hei-shi-3",
       "name": {
         "original_lang": "ja",
         "original": "兵士",
@@ -3859,13 +3749,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 33
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "boy-a-fmab-ep9",
+      "id": "dan-no-shi-a",
       "name": {
         "original_lang": "ja",
         "original": "男の子A",
@@ -3877,13 +3766,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 9
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "engineer-a-fmab-ep11",
+      "id": "gi-shi-a",
       "name": {
         "original_lang": "ja",
         "original": "技師A",
@@ -3895,13 +3783,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 11
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "soldier-fmab-ep45",
+      "id": "gun-jin",
       "name": {
         "original_lang": "ja",
         "original": "軍人",
@@ -3913,13 +3800,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 45
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "trader-a-fmab-ep56",
+      "id": "shou-jin-a",
       "name": {
         "original_lang": "ja",
         "original": "商人A",
@@ -3931,13 +3817,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 56
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "employee-fmab-ep55",
+      "id": "jo-sei-shoku-in-b",
       "name": {
         "original_lang": "ja",
         "original": "女性職員B",
@@ -3949,39 +3834,36 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 55
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "older-man-fmab-ep3",
+      "id": "older-man",
       "name": {
         "original_lang": "en",
         "original": "Older Man",
         "latin": "Older Man"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 3
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "store-owner-fmab-ep42",
+      "id": "store-owner",
       "name": {
         "original_lang": "en",
         "original": "Store Owner",
         "latin": "Store Owner"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 42
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "cadreman-fmab-ep33",
+      "id": "kan-bu-a",
       "name": {
         "original_lang": "ja",
         "original": "幹部A",
@@ -3993,13 +3875,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 33
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "military-policeman-c-fmab-ep23",
+      "id": "ken-hei-c",
       "name": {
         "original_lang": "ja",
         "original": "憲兵C",
@@ -4011,13 +3892,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 23
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "briggs-soldier-fmab-ep62",
+      "id": "burigguzu-hei",
       "name": {
         "original_lang": "ja",
         "original": "ブリッグズ兵",
@@ -4029,13 +3909,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 62
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "commander-of-the-main-gate-fmab-ep53",
+      "id": "sei-mon-tai-chou",
       "name": {
         "original_lang": "ja",
         "original": "正門隊長",
@@ -4047,13 +3926,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 53
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "briggs-soldier-a-fmab-ep58",
+      "id": "burigguzu-hei-a",
       "name": {
         "original_lang": "ja",
         "original": "ブリッグズ兵A",
@@ -4065,13 +3943,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 58
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "ishvalian-a-fmab-ep61",
+      "id": "ishuvaru-jin-a",
       "name": {
         "original_lang": "ja",
         "original": "イシュヴァール人A",
@@ -4083,13 +3960,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 61
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "ishvalian-b-fmab-ep60",
+      "id": "ishuvaru-jin-b",
       "name": {
         "original_lang": "ja",
         "original": "イシュヴァール人B",
@@ -4101,13 +3977,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 60
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "tank-officer-fmab-ep35",
+      "id": "sen-sha-hei",
       "name": {
         "original_lang": "ja",
         "original": "戦車兵",
@@ -4119,13 +3994,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 35
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "trader-b-fmab-ep56",
+      "id": "shou-jin-b",
       "name": {
         "original_lang": "ja",
         "original": "商人B",
@@ -4137,13 +4011,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 56
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "central-soldier-fmab-ep50",
+      "id": "chuu-ou-gun-hei-shi",
       "name": {
         "original_lang": "ja",
         "original": "中央軍兵士",
@@ -4155,13 +4028,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 50
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "ishvalan-fmab-ep53",
+      "id": "ishuvaru-jin-2",
       "name": {
         "original_lang": "ja",
         "original": "イシュヴァール人",
@@ -4173,13 +4045,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 53
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "owner-fmab-ep40",
+      "id": "shu-jin",
       "name": {
         "original_lang": "ja",
         "original": "主人",
@@ -4191,13 +4062,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 40
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "engineer-fmab-ep33-2",
+      "id": "ki-kan-shi-a",
       "name": {
         "original_lang": "ja",
         "original": "機関士A",
@@ -4209,13 +4079,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 33
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "a-guard-soldier-fmab-ep19",
+      "id": "kei-bi-hei",
       "name": {
         "original_lang": "ja",
         "original": "警備兵",
@@ -4227,13 +4096,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 19
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "ishvalian-a-fmab-ep60",
+      "id": "ishuvaru-jin-a-2",
       "name": {
         "original_lang": "ja",
         "original": "イシュヴァール人A",
@@ -4245,13 +4113,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 60
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "executive-b-fmab-ep33",
+      "id": "kan-bu-b",
       "name": {
         "original_lang": "ja",
         "original": "幹部B",
@@ -4263,13 +4130,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 33
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "master-of-ceremonies-fmab-ep53",
+      "id": "kyasuta",
       "name": {
         "original_lang": "ja",
         "original": "キャスター",
@@ -4281,13 +4147,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 53
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "military-policeman-c-fmab-ep1",
+      "id": "ken-hei-c-2",
       "name": {
         "original_lang": "ja",
         "original": "憲兵C",
@@ -4299,13 +4164,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 1
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "officer-fmab-ep36",
+      "id": "shi-kan",
       "name": {
         "original_lang": "ja",
         "original": "士官",
@@ -4317,13 +4181,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 36
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "station-attendant-fmab-ep64",
+      "id": "eki-in-2",
       "name": {
         "original_lang": "ja",
         "original": "駅員",
@@ -4335,13 +4198,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 64
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "girl-fmab-ep27",
+      "id": "shou-jo",
       "name": {
         "original_lang": "ja",
         "original": "少女",
@@ -4353,13 +4215,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 27
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "woman-fmab-ep37",
+      "id": "jo",
       "name": {
         "original_lang": "ja",
         "original": "女",
@@ -4371,13 +4232,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 37
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "commander-fmab-ep42",
+      "id": "shi-rei-kan",
       "name": {
         "original_lang": "ja",
         "original": "司令官",
@@ -4389,13 +4249,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 42
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "leader-fmab-ep18",
+      "id": "rida",
       "name": {
         "original_lang": "ja",
         "original": "リーダー",
@@ -4407,13 +4266,12 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 18
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "front-desk-clerk-fmab-ep8",
+      "id": "ju-fu-jou",
       "name": {
         "original_lang": "ja",
         "original": "受付嬢",
@@ -4425,39 +4283,36 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 8
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "briggs-soldier-fmab-ep36-2",
+      "id": "briggs-soldier-2",
       "name": {
         "original_lang": "en",
         "original": "Briggs Soldier",
         "latin": "Briggs Soldier"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 36
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "briggs-soldier-b-fmab-ep58",
+      "id": "briggs-soldier-b",
       "name": {
         "original_lang": "en",
         "original": "Briggs Soldier B",
         "latin": "Briggs Soldier B"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 58
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "central-soldier-fmab-ep52",
+      "id": "chuu-ou-gun-hei-shi-2",
       "name": {
         "original_lang": "ja",
         "original": "中央軍兵士",
@@ -4469,169 +4324,156 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 52
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "farmer-fmab-ep47",
+      "id": "farmer",
       "name": {
         "original_lang": "en",
         "original": "Farmer",
         "latin": "Farmer"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 47
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "ishvalian-b-fmab-ep61",
+      "id": "ishvalian-b",
       "name": {
         "original_lang": "en",
         "original": "Ishvalian B",
         "latin": "Ishvalian B"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 61
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "man-fmab-ep45",
+      "id": "man",
       "name": {
         "original_lang": "en",
         "original": "Man",
         "latin": "Man"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 45
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "military-b-fmab-ep14",
+      "id": "military-b",
       "name": {
         "original_lang": "en",
         "original": "Military B",
         "latin": "Military B"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 14
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "military-personnel-fmab-ep16",
+      "id": "military-personnel",
       "name": {
         "original_lang": "en",
         "original": "Military Personnel",
         "latin": "Military Personnel"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 16
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "military-policeman-fmab-ep29",
+      "id": "military-policeman",
       "name": {
         "original_lang": "en",
         "original": "Military Policeman",
         "latin": "Military Policeman"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 29
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "military-policeman-b-fmab-ep22",
+      "id": "military-policeman-b-2",
       "name": {
         "original_lang": "en",
         "original": "Military Policeman B",
         "latin": "Military Policeman B"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 22
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "military-policeman-e-fmab-ep1",
+      "id": "military-policeman-e",
       "name": {
         "original_lang": "en",
         "original": "Military Policeman E",
         "latin": "Military Policeman E"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 1
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "officer-fmab-ep2",
+      "id": "officer",
       "name": {
         "original_lang": "en",
         "original": "Officer",
         "latin": "Officer"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 2
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "order-member-d-fmab-ep3",
+      "id": "order-member-d",
       "name": {
         "original_lang": "en",
         "original": "Order Member D",
         "latin": "Order Member D"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 3
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "pilot-fmab-ep56",
+      "id": "pilot",
       "name": {
         "original_lang": "en",
         "original": "Pilot",
         "latin": "Pilot"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 56
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "post-officer-fmab-ep30",
+      "id": "post-officer",
       "name": {
         "original_lang": "en",
         "original": "Post Officer",
         "latin": "Post Officer"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 30
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "researcher-fmab-ep51",
+      "id": "ken-kyuu-in",
       "name": {
         "original_lang": "ja",
         "original": "研究員",
@@ -4643,52 +4485,48 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 51
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "soldier-a-fmab-ep41",
+      "id": "soldier-a",
       "name": {
         "original_lang": "en",
         "original": "Soldier A",
         "latin": "Soldier A"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 41
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "soldier-b-fmab-ep38",
+      "id": "soldier-b",
       "name": {
         "original_lang": "en",
         "original": "Soldier B",
         "latin": "Soldier B"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 38
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "villager-fmab-ep5",
+      "id": "villager",
       "name": {
         "original_lang": "en",
         "original": "Villager",
         "latin": "Villager"
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 5
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
     {
-      "id": "woman-fmab-ep45",
+      "id": "jo-2",
       "name": {
         "original_lang": "ja",
         "original": "女",
@@ -4700,8 +4538,7 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 45
+        "work": "fullmetal-alchemist-brotherhood"
       },
       "nameless": true
     },
@@ -4734,8 +4571,7 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 55
+        "work": "fullmetal-alchemist-brotherhood"
       }
     },
     {
@@ -4751,8 +4587,7 @@
         }
       },
       "first_appearance": {
-        "work": "fullmetal-alchemist-brotherhood",
-        "episode": 55
+        "work": "fullmetal-alchemist-brotherhood"
       }
     }
   ],

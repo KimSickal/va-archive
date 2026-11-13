@@ -67,7 +67,7 @@
       "release_date": "2024-07-02",
       "credits": [
         {
-          "character": "wuk-lamat",
+          "character": "ukuramato",
           "person": "ka-san-den-ryou-ka",
           "role": "main",
           "source_refs": [
@@ -77,7 +77,7 @@
           ]
         },
         {
-          "character": "erenville",
+          "character": "erenviru",
           "person": "an-den-riku-shi",
           "role": "main",
           "source_refs": [
@@ -87,7 +87,7 @@
           ]
         },
         {
-          "character": "koana",
+          "character": "kona",
           "person": "shaku-sen-kai-jin",
           "role": "main",
           "source_refs": [
@@ -97,7 +97,7 @@
           ]
         },
         {
-          "character": "zoraal-ja",
+          "character": "zoraja",
           "person": "shou-ya-tai-fu",
           "role": "supporting",
           "source_refs": [
@@ -107,7 +107,7 @@
           "verification": "unverified"
         },
         {
-          "character": "bakool-ja-ja",
+          "character": "bakujaja",
           "person": "bu-dai-shun-fu",
           "role": "supporting",
           "source_refs": [
@@ -117,7 +117,7 @@
           "verification": "unverified"
         },
         {
-          "character": "gulool-ja-ja",
+          "character": "gurujaja",
           "person": "shou-den-ken-ichi-rou",
           "role": "supporting",
           "source_refs": [
@@ -127,7 +127,7 @@
           ]
         },
         {
-          "character": "sphene",
+          "character": "sufen",
           "person": "lynn",
           "role": "supporting",
           "source_refs": [
@@ -137,7 +137,7 @@
           "verification": "unverified"
         },
         {
-          "character": "cahciua",
+          "character": "kafukiwa",
           "person": "shi-saku-sa-yuu-ri",
           "role": "supporting",
           "source_refs": [
@@ -147,7 +147,7 @@
           "verification": "unverified"
         },
         {
-          "character": "otis-velona",
+          "character": "otisu",
           "person": "do-den-tai",
           "role": "supporting",
           "source_refs": [
@@ -157,7 +157,7 @@
           "verification": "unverified"
         },
         {
-          "character": "gulool-ja",
+          "character": "guruja",
           "person": "kan-kon-dou",
           "role": "supporting",
           "source_refs": [
@@ -167,7 +167,7 @@
           ]
         },
         {
-          "character": "sareel-ja",
+          "character": "sareja",
           "person": "hi-den-ten-dan",
           "role": "minor",
           "source_refs": [
@@ -177,7 +177,7 @@
           "verification": "unverified"
         },
         {
-          "character": "alphinaud-leveilleur",
+          "character": "arufino-ruveyuru",
           "person": "ritsu-ka-shin-shi-kai",
           "role": "main",
           "source_refs": [
@@ -188,7 +188,7 @@
           ]
         },
         {
-          "character": "alisaie-leveilleur",
+          "character": "arize-ruveyuru",
           "person": "son-sen-ri-i",
           "role": "main",
           "source_refs": [
@@ -199,7 +199,7 @@
           ]
         },
         {
-          "character": "thancred-waters",
+          "character": "sankureddo-uotasu",
           "person": "chuu-son-yuu-ichi",
           "role": "supporting",
           "source_refs": [
@@ -210,7 +210,7 @@
           ]
         },
         {
-          "character": "yshtola-rhul",
+          "character": "ya-shutora-ruru",
           "person": "bou-ya-ai-i",
           "role": "supporting",
           "source_refs": [
@@ -221,7 +221,7 @@
           ]
         },
         {
-          "character": "urianger-augurelt",
+          "character": "urienje-ogyure",
           "person": "kenn",
           "role": "supporting",
           "source_refs": [
@@ -232,7 +232,7 @@
           ]
         },
         {
-          "character": "graha-tia",
+          "character": "gu-raha-tia",
           "person": "dai-den-yuu-ba",
           "role": "supporting",
           "source_refs": [
@@ -243,7 +243,7 @@
           ]
         },
         {
-          "character": "estinien-varlineau",
+          "character": "esutinian-varino",
           "person": "hin-den-ken-ni",
           "role": "supporting",
           "source_refs": [
@@ -254,7 +254,7 @@
           ]
         },
         {
-          "character": "krile-maya-baldesion",
+          "character": "kururu-maia-barudeshion",
           "person": "nan-jou-ai-dai",
           "role": "supporting",
           "source_refs": [
@@ -265,7 +265,7 @@
           ]
         },
         {
-          "character": "galuf-baldesion",
+          "character": "garafu-barudeshion",
           "person": "ri-kon-ken-ta-rou",
           "role": "minor",
           "source_refs": [
@@ -274,7 +274,7 @@
           "verification": "unverified"
         },
         {
-          "character": "hunmu-rruk",
+          "character": "funmuruku",
           "person": "ri-kon-ken-ta-rou",
           "role": "minor",
           "source_refs": [
@@ -283,7 +283,7 @@
           ]
         },
         {
-          "character": "tobli",
+          "character": "toburi",
           "person": "ri-kon-ken-ta-rou",
           "role": "minor",
           "source_refs": [
@@ -292,7 +292,7 @@
           "verification": "unverified"
         },
         {
-          "character": "zereel-ja",
+          "character": "zereja",
           "person": "hin-den-ken-ni",
           "role": "minor",
           "source_refs": [
@@ -301,7 +301,7 @@
           "verification": "unverified"
         },
         {
-          "character": "miilal-ja",
+          "character": "miraja",
           "person": "shuu-ho-sa-ei-shi",
           "role": "minor",
           "source_refs": [
@@ -310,7 +310,7 @@
           "verification": "unverified"
         },
         {
-          "character": "zanuhali",
+          "character": "zanuhari",
           "person": "shuu-ho-sa-ei-shi",
           "role": "minor",
           "source_refs": [
@@ -319,7 +319,7 @@
           "verification": "unverified"
         },
         {
-          "character": "naahe",
+          "character": "nahe",
           "person": "ten-ki-kou-hei",
           "role": "minor",
           "source_refs": [
@@ -328,7 +328,7 @@
           "verification": "unverified"
         },
         {
-          "character": "zekowa",
+          "character": "dekowa",
           "person": "ten-ki-kou-hei",
           "role": "minor",
           "source_refs": [
@@ -337,7 +337,7 @@
           "verification": "unverified"
         },
         {
-          "character": "nitowikwe",
+          "character": "nitouike",
           "person": "tou-gen-ka-kai",
           "role": "minor",
           "source_refs": [
@@ -346,7 +346,7 @@
           "verification": "unverified"
         },
         {
-          "character": "shale",
+          "character": "sheru",
           "person": "tou-gen-ka-kai",
           "role": "minor",
           "source_refs": [
@@ -355,7 +355,7 @@
           "verification": "unverified"
         },
         {
-          "character": "wawlika",
+          "character": "warika",
           "person": "kan-kyuu-kou-kou",
           "role": "minor",
           "source_refs": [
@@ -364,7 +364,7 @@
           "verification": "unverified"
         },
         {
-          "character": "gurfurlur",
+          "character": "gufuru",
           "person": "sei-tou-ji-rou",
           "role": "minor",
           "source_refs": [
@@ -373,7 +373,7 @@
           "verification": "unverified"
         },
         {
-          "character": "wuk-evu",
+          "character": "ukebu",
           "person": "sei-tou-ji-rou",
           "role": "minor",
           "source_refs": [
@@ -382,7 +382,7 @@
           "verification": "unverified"
         },
         {
-          "character": "bruk-evu",
+          "character": "burukebu",
           "person": "do-den-tai",
           "role": "minor",
           "source_refs": [
@@ -391,7 +391,7 @@
           "verification": "unverified"
         },
         {
-          "character": "bol-noq",
+          "character": "boronokku",
           "person": "fu-kou-tai-suu",
           "role": "minor",
           "source_refs": [
@@ -400,7 +400,7 @@
           ]
         },
         {
-          "character": "vorporlor",
+          "character": "voporo",
           "person": "san-hon-kou",
           "role": "minor",
           "source_refs": [
@@ -418,7 +418,7 @@
           "verification": "unverified"
         },
         {
-          "character": "robor",
+          "character": "roboru",
           "person": "gyoku-sei-yuu-ki",
           "role": "minor",
           "source_refs": [
@@ -427,7 +427,7 @@
           "verification": "unverified"
         },
         {
-          "character": "alayla",
+          "character": "araira",
           "person": "tai-gen-sayaka",
           "role": "minor",
           "source_refs": [
@@ -436,7 +436,7 @@
           "verification": "unverified"
         },
         {
-          "character": "wihuwte",
+          "character": "uifute",
           "person": "gyoku-sei-yuu-ki",
           "role": "minor",
           "source_refs": [
@@ -445,7 +445,7 @@
           "verification": "unverified"
         },
         {
-          "character": "zurmurwur",
+          "character": "zumuu",
           "person": "gyoku-sei-yuu-ki",
           "role": "minor",
           "source_refs": [
@@ -454,7 +454,7 @@
           "verification": "unverified"
         },
         {
-          "character": "shenza",
+          "character": "shenda",
           "person": "san-ka-tai-ki",
           "role": "minor",
           "source_refs": [
@@ -463,7 +463,7 @@
           "verification": "unverified"
         },
         {
-          "character": "zawpya",
+          "character": "dapya",
           "person": "sei-jou-gou",
           "role": "minor",
           "source_refs": [
@@ -472,7 +472,7 @@
           "verification": "unverified"
         },
         {
-          "character": "genolt",
+          "character": "genoruto",
           "person": "sei-jou-gou",
           "role": "minor",
           "source_refs": [
@@ -481,7 +481,7 @@
           "verification": "unverified"
         },
         {
-          "character": "linuhanu",
+          "character": "rinuhanu",
           "person": "sei-jou-gou",
           "role": "minor",
           "source_refs": [
@@ -490,7 +490,7 @@
           "verification": "unverified"
         },
         {
-          "character": "pepoane",
+          "character": "pepone",
           "person": "hi-den-ten-dan",
           "role": "minor",
           "source_refs": [
@@ -499,7 +499,7 @@
           "verification": "unverified"
         },
         {
-          "character": "nostalgia",
+          "character": "nosutarujia",
           "person": "gan-sei-ei-bi-ri",
           "role": "minor",
           "source_refs": [
@@ -508,7 +508,7 @@
           "verification": "unverified"
         },
         {
-          "character": "wayakkwe",
+          "character": "wayakke",
           "person": "gan-sei-ei-bi-ri",
           "role": "minor",
           "source_refs": [
@@ -517,7 +517,7 @@
           "verification": "unverified"
         },
         {
-          "character": "mablu",
+          "character": "maburu",
           "person": "gan-sei-ei-bi-ri",
           "role": "minor",
           "source_refs": [
@@ -526,7 +526,7 @@
           "verification": "unverified"
         },
         {
-          "character": "geode",
+          "character": "jiodo",
           "person": "hin-jou-fuu-on",
           "role": "minor",
           "source_refs": [
@@ -535,7 +535,7 @@
           ]
         },
         {
-          "character": "ecaate",
+          "character": "ekate",
           "person": "gen-kou-shou-shi",
           "role": "minor",
           "source_refs": [
@@ -544,7 +544,7 @@
           "verification": "unverified"
         },
         {
-          "character": "namikka",
+          "character": "namika",
           "person": "kon-sen-you-shi",
           "role": "minor",
           "source_refs": [
@@ -553,7 +553,7 @@
           "verification": "unverified"
         },
         {
-          "character": "mahuwsa",
+          "character": "mafusa",
           "person": "kan-aria",
           "role": "minor",
           "source_refs": [
@@ -562,34 +562,31 @@
           "verification": "unverified"
         },
         {
-          "character": "calyx",
+          "character": "karyukusu",
           "person": "yuu-boku-heki",
           "role": "supporting",
           "source_refs": [
             "s18"
           ],
-          "verification": "unverified",
-          "episodes": "7.2-7.5"
+          "verification": "unverified"
         },
         {
-          "character": "zelenia",
+          "character": "zerenia",
           "person": "bu-den-ka",
           "role": "minor",
           "source_refs": [
             "s18"
           ],
-          "verification": "unverified",
-          "episodes": "7.1-7.5"
+          "verification": "unverified"
         },
         {
-          "character": "milos",
+          "character": "mirosu",
           "person": "bu-den-ka",
           "role": "minor",
           "source_refs": [
             "s18"
           ],
-          "verification": "unverified",
-          "episodes": "7.1-7.5"
+          "verification": "unverified"
         },
         {
           "character": "enuo",
@@ -598,38 +595,34 @@
           "source_refs": [
             "s18"
           ],
-          "verification": "unverified",
-          "episodes": "7.1-7.5"
+          "verification": "unverified"
         },
         {
-          "character": "halmarut",
+          "character": "harumaruto",
           "person": "sou-ken-sa-shoku",
           "role": "minor",
           "source_refs": [
             "s18"
           ],
-          "verification": "unverified",
-          "episodes": "7.1-7.5"
+          "verification": "unverified"
         },
         {
-          "character": "visna",
+          "character": "visuna",
           "person": "teki-ya-you-getsu",
           "role": "minor",
           "source_refs": [
             "s16",
             "s18"
-          ],
-          "episodes": "7.5"
+          ]
         },
         {
-          "character": "ketill",
+          "character": "ketiru",
           "person": "tou-gen-sei-yuu",
           "role": "minor",
           "source_refs": [
             "s18"
           ],
-          "verification": "unverified",
-          "episodes": "7.5"
+          "verification": "unverified"
         }
       ]
     },
@@ -660,7 +653,7 @@
       "release_date": "2024-12-03",
       "credits": [
         {
-          "character": "wuk-lamat",
+          "character": "ukuramato",
           "person": "i-dal-rae",
           "role": "main",
           "note": {
@@ -680,7 +673,7 @@
           ]
         },
         {
-          "character": "koana",
+          "character": "kona",
           "person": "hong-hu-baek",
           "role": "main",
           "note": {
@@ -701,7 +694,7 @@
           "verification": "unverified"
         },
         {
-          "character": "zoraal-ja",
+          "character": "zoraja",
           "person": "yun-yong-sik",
           "role": "supporting",
           "note": {
@@ -722,7 +715,7 @@
           "verification": "unverified"
         },
         {
-          "character": "bakool-ja-ja",
+          "character": "bakujaja",
           "person": "han-sin",
           "role": "supporting",
           "note": {
@@ -743,7 +736,7 @@
           "verification": "unverified"
         },
         {
-          "character": "gulool-ja-ja",
+          "character": "gurujaja",
           "person": "song-jun-seok",
           "role": "supporting",
           "note": {
@@ -764,7 +757,7 @@
           "verification": "unverified"
         },
         {
-          "character": "cahciua",
+          "character": "kafukiwa",
           "person": "bak-si-yun",
           "role": "supporting",
           "note": {
@@ -785,7 +778,7 @@
           "verification": "unverified"
         },
         {
-          "character": "sareel-ja",
+          "character": "sareja",
           "person": "yun-yong-sik",
           "role": "minor",
           "note": {
@@ -806,7 +799,7 @@
           "verification": "unverified"
         },
         {
-          "character": "hunmu-rruk",
+          "character": "funmuruku",
           "person": "bak-jun-won",
           "role": "minor",
           "note": {
@@ -826,7 +819,7 @@
           ]
         },
         {
-          "character": "wuk-evu",
+          "character": "ukebu",
           "person": "sa-seong-ung",
           "role": "minor",
           "note": {

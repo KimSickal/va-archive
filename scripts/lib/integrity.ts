@@ -2,7 +2,7 @@ import { partialDateEnd, partialDateStart } from '../../src/data/dates.ts';
 import { charKey, resolveCharRef } from '../../src/data/charRef.ts';
 import { normalize } from '../../src/data/normalize.ts';
 import type { Image, Name, Source, Text, Wikipedia, Work } from '../../src/types/data.ts';
-import { expectedSlugs, personIdScheme } from './ids.ts';
+import { characterIdBase, expectedSlugs, personIdScheme } from './ids.ts';
 import type { Dataset, Issue } from './load.ts';
 import { internalIdBase, MissingHanTableError } from './romanize.ts';
 
@@ -157,6 +157,13 @@ export function checkIntegrity(ds: Dataset, issues: Issue[]): void {
       const where = `characters[${c.id}]`;
       if (ids.has(c.id)) err(f, `캐릭터 id 중복: ${c.id}`);
       ids.add(c.id);
+      try {
+        const base = characterIdBase(c.name);
+        if (c.id !== base && !(c.id.startsWith(`${base}-`) && /^\d+$/.test(c.id.slice(base.length + 1))))
+          err(f, `${where}: 캐릭터 ID가 규칙과 다름 (기대: ${base} 또는 ${base}-N)`);
+      } catch (e) {
+        if (!(e instanceof MissingHanTableError)) throw e;
+      }
       checkName(f, `${where}.name`, c.name);
       checkText(f, `${where}.description`, c.description);
       checkImage(f, where, c.image, src);
@@ -164,8 +171,6 @@ export function checkIntegrity(ds: Dataset, issues: Issue[]): void {
       if (c.first_appearance) {
         const w = ds.works.get(c.first_appearance.work);
         if (!w) err(f, `${where}.first_appearance: 존재하지 않는 작품 ${c.first_appearance.work}`);
-        else if (c.first_appearance.episode && w.episodes && c.first_appearance.episode > w.episodes)
-          err(f, `${where}.first_appearance.episode ${c.first_appearance.episode} > 작품 화수 ${w.episodes}`);
       }
     }
   }
@@ -218,11 +223,9 @@ export function checkIntegrity(ds: Dataset, issues: Issue[]): void {
         if (!ds.persons.has(c.person)) err(f, `${cw}: 존재하지 않는 성우 ${c.person}`);
         checkRefs(f, cw, c.source_refs, src);
         checkText(f, `${cw}.note`, c.note);
-        const combo = JSON.stringify([c.character, c.person, c.part ?? 'regular', c.episodes ?? null]);
-        if (combos.has(combo)) err(f, `${cw}: 같은 (캐릭터, 성우, part, episodes) 배역 중복`);
+        const combo = JSON.stringify([c.character, c.person, c.part ?? 'regular']);
+        if (combos.has(combo)) err(f, `${cw}: 같은 (캐릭터, 성우, part) 배역 중복`);
         combos.add(combo);
-        if (typeof c.episodes === 'object' && c.episodes.from && c.episodes.to && c.episodes.from > c.episodes.to)
-          err(f, `${cw}: episodes.from > to`);
         const key = charKey(ck);
         usedChars.add(key);
         usedPersons.add(c.person);

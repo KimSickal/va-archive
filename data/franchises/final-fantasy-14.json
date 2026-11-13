@@ -28,7 +28,7 @@
   },
   "characters": [
     {
-      "id": "alphinaud-leveilleur",
+      "id": "arufino-ruveyuru",
       "name": {
         "original_lang": "ja",
         "original": "アルフィノ・ルヴェユール",
@@ -43,7 +43,7 @@
       }
     },
     {
-      "id": "aymeric-de-borel",
+      "id": "aimeriku-do-boreru",
       "name": {
         "original_lang": "ja",
         "original": "アイメリク・ド・ボーレル",
@@ -58,7 +58,7 @@
       }
     },
     {
-      "id": "biggs",
+      "id": "biggusu",
       "name": {
         "original_lang": "ja",
         "original": "ビッグス",
@@ -73,7 +73,7 @@
       }
     },
     {
-      "id": "cid-garlond",
+      "id": "shido-nan-garondo",
       "name": {
         "original_lang": "ja",
         "original": "シド・ナン・ガーロンド",
@@ -88,7 +88,7 @@
       }
     },
     {
-      "id": "eynzahr-slafyrsyn",
+      "id": "einzaru-surafirushin",
       "name": {
         "original_lang": "ja",
         "original": "エインザル・スラフィルシン",
@@ -103,7 +103,7 @@
       }
     },
     {
-      "id": "gaius-van-baelsar",
+      "id": "gaiusu-van-baesaru",
       "name": {
         "original_lang": "ja",
         "original": "ガイウス・ヴァン・バエサル",
@@ -133,7 +133,7 @@
       }
     },
     {
-      "id": "haurchefant-greystone",
+      "id": "orushufan-gureisuton",
       "name": {
         "original_lang": "ja",
         "original": "オルシュファン・グレイストーン",
@@ -148,7 +148,7 @@
       }
     },
     {
-      "id": "hydaelyn",
+      "id": "haiderin",
       "name": {
         "original_lang": "ja",
         "original": "ハイデリン",
@@ -163,7 +163,7 @@
       }
     },
     {
-      "id": "ilberd-feare",
+      "id": "iruberudo-fia",
       "name": {
         "original_lang": "ja",
         "original": "イルベルド・フィア",
@@ -178,7 +178,7 @@
       }
     },
     {
-      "id": "kan-e-senna",
+      "id": "kanu-e-senna",
       "name": {
         "original_lang": "ja",
         "original": "カヌ・エ・センナ",
@@ -193,7 +193,7 @@
       }
     },
     {
-      "id": "lahabrea",
+      "id": "ashien-rahaburea",
       "name": {
         "original_lang": "ja",
         "original": "アシエン・ラハブレア",
@@ -208,7 +208,7 @@
       }
     },
     {
-      "id": "livia-sas-junius",
+      "id": "riuia-sasu-yuniusu",
       "name": {
         "original_lang": "ja",
         "original": "リウィア・サス・ユニウス",
@@ -223,7 +223,7 @@
       }
     },
     {
-      "id": "lolorito-nanarito",
+      "id": "rororito-nanarito",
       "name": {
         "original_lang": "ja",
         "original": "ロロリト・ナナリト",
@@ -238,7 +238,7 @@
       }
     },
     {
-      "id": "louisoix-leveilleur",
+      "id": "ruizowa-ruveyuru",
       "name": {
         "original_lang": "ja",
         "original": "ルイゾワ・ルヴェユール",
@@ -253,7 +253,7 @@
       }
     },
     {
-      "id": "merlwyb-bloefhiswyn",
+      "id": "meruuibu-burufisuuin",
       "name": {
         "original_lang": "ja",
         "original": "メルウィブ・ブルーフィスウィン",
@@ -268,7 +268,7 @@
       }
     },
     {
-      "id": "minfilia-warde",
+      "id": "minfiria-uodo",
       "name": {
         "original_lang": "ja",
         "original": "ミンフィリア・ウォード",
@@ -288,7 +288,7 @@
       }
     },
     {
-      "id": "moenbryda-wilfsunnwyn",
+      "id": "munburida-uirufusunuin",
       "name": {
         "original_lang": "ja",
         "original": "ムーンブリダ・ウィルフスンウィン",
@@ -303,7 +303,7 @@
       }
     },
     {
-      "id": "nabriales",
+      "id": "ashien-napuriaresu",
       "name": {
         "original_lang": "ja",
         "original": "アシエン・ナプリアレス",
@@ -318,7 +318,7 @@
       }
     },
     {
-      "id": "nanamo-ul-namo",
+      "id": "nanamo-uru-namo",
       "name": {
         "original_lang": "ja",
         "original": "ナナモ・ウル・ナモ",
@@ -333,7 +333,7 @@
       }
     },
     {
-      "id": "nero-tol-scaeva",
+      "id": "nero-toru-sukaeua",
       "name": {
         "original_lang": "ja",
         "original": "ネロ・トル・スカエウァ",
@@ -348,7 +348,7 @@
       }
     },
     {
-      "id": "papalymo-totolymo",
+      "id": "paparimo-totorimo",
       "name": {
         "original_lang": "ja",
         "original": "パパリモ・トトリモ",
@@ -378,7 +378,7 @@
       }
     },
     {
-      "id": "ramuh",
+      "id": "ramuu",
       "name": {
         "original_lang": "ja",
         "original": "ラムウ",
@@ -393,7 +393,7 @@
       }
     },
     {
-      "id": "raubahn-aldynn",
+      "id": "rauban-arudin",
       "name": {
         "original_lang": "ja",
         "original": "ラウバーン・アルディン",
@@ -408,7 +408,7 @@
       }
     },
     {
-      "id": "rhitahtyn-sas-arvina",
+      "id": "rittoatin-sasu-aruvina",
       "name": {
         "original_lang": "ja",
         "original": "リットアティン・サス・アルヴィナ",
@@ -453,7 +453,7 @@
       }
     },
     {
-      "id": "teledji-adeledji",
+      "id": "tereji-adereji",
       "name": {
         "original_lang": "ja",
         "original": "テレジ・アデレジ",
@@ -468,7 +468,7 @@
       }
     },
     {
-      "id": "thancred-waters",
+      "id": "sankureddo-uotasu",
       "name": {
         "original_lang": "ja",
         "original": "サンクレッド・ウォータース",
@@ -483,7 +483,7 @@
       }
     },
     {
-      "id": "urianger-augurelt",
+      "id": "urienje-ogyure",
       "name": {
         "original_lang": "ja",
         "original": "ウリエンジェ・オギュレ",
@@ -498,7 +498,7 @@
       }
     },
     {
-      "id": "varis-zos-galvus",
+      "id": "varisu-zosu-garuvasu",
       "name": {
         "original_lang": "ja",
         "original": "ヴァリス・ゾス・ガルヴァス",
@@ -513,7 +513,7 @@
       }
     },
     {
-      "id": "wedge",
+      "id": "uejji",
       "name": {
         "original_lang": "ja",
         "original": "ウェッジ",
@@ -528,7 +528,7 @@
       }
     },
     {
-      "id": "yda-hext",
+      "id": "ida",
       "name": {
         "original_lang": "ja",
         "original": "イダ",
@@ -557,7 +557,7 @@
       }
     },
     {
-      "id": "ysayle-dangoulain",
+      "id": "izeru-danguran",
       "name": {
         "original_lang": "ja",
         "original": "イゼル・ダングラン",
@@ -572,7 +572,7 @@
       }
     },
     {
-      "id": "yshtola-rhul",
+      "id": "ya-shutora-ruru",
       "name": {
         "original_lang": "ja",
         "original": "ヤ・シュトラ・ルル",
@@ -587,7 +587,7 @@
       }
     },
     {
-      "id": "yugiri-mistwalker",
+      "id": "yuugiri",
       "name": {
         "original_lang": "ja",
         "original": "ユウギリ",
@@ -610,7 +610,7 @@
       }
     },
     {
-      "id": "alisaie-leveilleur",
+      "id": "arize-ruveyuru",
       "name": {
         "original_lang": "ja",
         "original": "アリゼー・ルヴェユール",
@@ -625,7 +625,7 @@
       }
     },
     {
-      "id": "ardbert",
+      "id": "arubato",
       "name": {
         "original_lang": "ja",
         "original": "アルバート",
@@ -640,7 +640,7 @@
       }
     },
     {
-      "id": "artoirel-de-fortemps",
+      "id": "arutoareru-do-forutan",
       "name": {
         "original_lang": "ja",
         "original": "アルトアレール・ド・フォルタン",
@@ -655,7 +655,7 @@
       }
     },
     {
-      "id": "branden",
+      "id": "buranherutsu",
       "name": {
         "original_lang": "ja",
         "original": "ブランヘルツ",
@@ -678,7 +678,7 @@
       }
     },
     {
-      "id": "charibert-de-leusignac",
+      "id": "shariberu-do-rujinyakku",
       "name": {
         "original_lang": "ja",
         "original": "シャリベル・ド・ルジニャック",
@@ -693,7 +693,7 @@
       }
     },
     {
-      "id": "edmont-de-fortemps",
+      "id": "edomon-do-forutan",
       "name": {
         "original_lang": "ja",
         "original": "エドモン・ド・フォルタン",
@@ -713,7 +713,7 @@
       }
     },
     {
-      "id": "elidibus",
+      "id": "ashien-eridibusu",
       "name": {
         "original_lang": "ja",
         "original": "アシエン・エリディブス",
@@ -728,7 +728,7 @@
       }
     },
     {
-      "id": "emmanellain-de-fortemps",
+      "id": "emaneran-do-forutan",
       "name": {
         "original_lang": "ja",
         "original": "エマネラン・ド・フォルタン",
@@ -743,7 +743,7 @@
       }
     },
     {
-      "id": "estinien-varlineau",
+      "id": "esutinian-varino",
       "name": {
         "original_lang": "ja",
         "original": "エスティニアン・ヴァーリノ",
@@ -758,7 +758,7 @@
       }
     },
     {
-      "id": "grinnaux-de-dzemael",
+      "id": "gurino-do-zemeru",
       "name": {
         "original_lang": "ja",
         "original": "グリノー・ド・ゼーメル",
@@ -772,7 +772,7 @@
       }
     },
     {
-      "id": "grynewaht",
+      "id": "gurinwato",
       "name": {
         "original_lang": "ja",
         "original": "グリーンワート",
@@ -787,7 +787,7 @@
       }
     },
     {
-      "id": "hilda-ware",
+      "id": "hiruda",
       "name": {
         "original_lang": "ja",
         "original": "ヒルダ",
@@ -802,7 +802,7 @@
       }
     },
     {
-      "id": "honoroit-banlardois",
+      "id": "onorowa-banrarudowa",
       "name": {
         "original_lang": "ja",
         "original": "オノロワ・バンラルドワ",
@@ -817,7 +817,7 @@
       }
     },
     {
-      "id": "igeyorhm",
+      "id": "ashien-igeorumu",
       "name": {
         "original_lang": "ja",
         "original": "アシエン・イゲオルム",
@@ -832,7 +832,7 @@
       }
     },
     {
-      "id": "krile-maya-baldesion",
+      "id": "kururu-maia-barudeshion",
       "name": {
         "original_lang": "ja",
         "original": "クルル・マイア・バルデシオン",
@@ -847,7 +847,7 @@
       }
     },
     {
-      "id": "lamitt",
+      "id": "ramimi",
       "name": {
         "original_lang": "ja",
         "original": "ラミミ",
@@ -870,7 +870,7 @@
       }
     },
     {
-      "id": "lucia-junius",
+      "id": "rukia-go-yuniusu",
       "name": {
         "original_lang": "ja",
         "original": "ルキア・ゴー・ユニウス",
@@ -900,7 +900,7 @@
       }
     },
     {
-      "id": "midgardsormr",
+      "id": "midogaruzuorumu",
       "name": {
         "original_lang": "ja",
         "original": "ミドガルズオルム",
@@ -915,7 +915,7 @@
       }
     },
     {
-      "id": "nyelbert",
+      "id": "naiyuberu",
       "name": {
         "original_lang": "ja",
         "original": "ナイユベール",
@@ -953,7 +953,7 @@
       }
     },
     {
-      "id": "regula-van-hydrus",
+      "id": "regura-van-hyudorusu",
       "name": {
         "original_lang": "ja",
         "original": "レグラ・ヴァン・ヒュドルス",
@@ -968,7 +968,7 @@
       }
     },
     {
-      "id": "renda-rae",
+      "id": "ja-rumare",
       "name": {
         "original_lang": "ja",
         "original": "ジャ・ルマレ",
@@ -991,7 +991,7 @@
       }
     },
     {
-      "id": "thordan-vii",
+      "id": "torudan-7-se",
       "name": {
         "original_lang": "ja",
         "original": "トールダン7世",
@@ -1006,7 +1006,7 @@
       }
     },
     {
-      "id": "vidofnir",
+      "id": "vizovuniru",
       "name": {
         "original_lang": "ja",
         "original": "ヴィゾーヴニル",
@@ -1021,7 +1021,7 @@
       }
     },
     {
-      "id": "zephirin-de-valhourdin",
+      "id": "zefiran-do-varurudan",
       "name": {
         "original_lang": "ja",
         "original": "ゼフィラン・ド・ヴァルールダン",
@@ -1036,7 +1036,7 @@
       }
     },
     {
-      "id": "arenvald-lentinus",
+      "id": "arenvarudo-rentinusu",
       "name": {
         "original_lang": "ja",
         "original": "アレンヴァルド・レンティヌス",
@@ -1051,7 +1051,7 @@
       }
     },
     {
-      "id": "asahi-sas-brutus",
+      "id": "asahi-sasu-burutusu",
       "name": {
         "original_lang": "ja",
         "original": "アサヒ・サス・ブルトゥス",
@@ -1066,7 +1066,7 @@
       }
     },
     {
-      "id": "aulus-mal-asina",
+      "id": "aurusu-maru-ashina",
       "name": {
         "original_lang": "ja",
         "original": "アウルス・マル・アシナ",
@@ -1081,7 +1081,7 @@
       }
     },
     {
-      "id": "cirina-mol",
+      "id": "shirina",
       "name": {
         "original_lang": "ja",
         "original": "シリナ",
@@ -1104,7 +1104,7 @@
       }
     },
     {
-      "id": "conrad-kemp",
+      "id": "konraddo",
       "name": {
         "original_lang": "ja",
         "original": "コンラッド",
@@ -1119,7 +1119,7 @@
       }
     },
     {
-      "id": "emet-selch",
+      "id": "emetoseruku",
       "name": {
         "original_lang": "ja",
         "original": "エメトセルク",
@@ -1143,7 +1143,7 @@
       }
     },
     {
-      "id": "fordola-rem-lupis",
+      "id": "forudora-remu-rupusu",
       "name": {
         "original_lang": "ja",
         "original": "フォルドラ・レム・ルプス",
@@ -1158,7 +1158,7 @@
       }
     },
     {
-      "id": "gosetsu",
+      "id": "gousetsu",
       "name": {
         "original_lang": "ja",
         "original": "ゴウセツ",
@@ -1178,7 +1178,7 @@
       }
     },
     {
-      "id": "graha-tia",
+      "id": "gu-raha-tia",
       "name": {
         "original_lang": "ja",
         "original": "グ・ラハ・ティア",
@@ -1203,7 +1203,7 @@
       }
     },
     {
-      "id": "hancock-fitzgerald",
+      "id": "hankokku",
       "name": {
         "original_lang": "ja",
         "original": "ハンコック",
@@ -1218,7 +1218,7 @@
       }
     },
     {
-      "id": "hien-rijin",
+      "id": "hien",
       "name": {
         "original_lang": "ja",
         "original": "ヒエン",
@@ -1241,7 +1241,7 @@
       }
     },
     {
-      "id": "isse-shibunuri",
+      "id": "isse",
       "name": {
         "original_lang": "ja",
         "original": "イッセ",
@@ -1256,7 +1256,7 @@
       }
     },
     {
-      "id": "lakshmi",
+      "id": "rakushumi",
       "name": {
         "original_lang": "ja",
         "original": "ラクシュミ",
@@ -1271,7 +1271,7 @@
       }
     },
     {
-      "id": "magnai-oronir",
+      "id": "magunai",
       "name": {
         "original_lang": "ja",
         "original": "マグナイ",
@@ -1294,7 +1294,7 @@
       }
     },
     {
-      "id": "maxima-quo-priscus",
+      "id": "makishima-ko-purisukusu",
       "name": {
         "original_lang": "ja",
         "original": "マキシマ・クォ・プリスクス",
@@ -1308,7 +1308,7 @@
       }
     },
     {
-      "id": "meffrid-noward",
+      "id": "meffuriddo",
       "name": {
         "original_lang": "ja",
         "original": "メッフリッド",
@@ -1323,7 +1323,7 @@
       }
     },
     {
-      "id": "mnaago-rahz",
+      "id": "me-nago",
       "name": {
         "original_lang": "ja",
         "original": "メ・ナーゴ",
@@ -1346,7 +1346,7 @@
       }
     },
     {
-      "id": "rasho",
+      "id": "rashou",
       "name": {
         "original_lang": "ja",
         "original": "ラショウ",
@@ -1361,7 +1361,7 @@
       }
     },
     {
-      "id": "sadu-dotharl",
+      "id": "sadu",
       "name": {
         "original_lang": "ja",
         "original": "サドゥ",
@@ -1399,7 +1399,7 @@
       }
     },
     {
-      "id": "susano",
+      "id": "susanoo",
       "name": {
         "original_lang": "ja",
         "original": "スサノオ",
@@ -1428,7 +1428,7 @@
       }
     },
     {
-      "id": "temulun-mol",
+      "id": "temurun",
       "name": {
         "original_lang": "ja",
         "original": "テムルン",
@@ -1466,7 +1466,7 @@
       }
     },
     {
-      "id": "zenos-yae-galvus",
+      "id": "zenosu-ie-garuvasu",
       "name": {
         "original_lang": "ja",
         "original": "ゼノス・イェー・ガルヴァス",
@@ -1481,7 +1481,7 @@
       }
     },
     {
-      "id": "almet",
+      "id": "arume",
       "name": {
         "original_lang": "ja",
         "original": "アルメ",
@@ -1500,7 +1500,7 @@
       }
     },
     {
-      "id": "beq-lugg",
+      "id": "beku-ragu",
       "name": {
         "original_lang": "ja",
         "original": "ベーク＝ラグ",
@@ -1519,7 +1519,7 @@
       }
     },
     {
-      "id": "chai-nuzz",
+      "id": "chai-nuzu",
       "name": {
         "original_lang": "ja",
         "original": "チャイ・ヌズ",
@@ -1538,7 +1538,7 @@
       }
     },
     {
-      "id": "cymet",
+      "id": "shaime",
       "name": {
         "original_lang": "ja",
         "original": "シャイメ",
@@ -1557,7 +1557,7 @@
       }
     },
     {
-      "id": "dulia-chai",
+      "id": "duria-chai",
       "name": {
         "original_lang": "ja",
         "original": "ドゥリア・チャイ",
@@ -1576,7 +1576,7 @@
       }
     },
     {
-      "id": "fandaniel",
+      "id": "ashien-fadanieru",
       "name": {
         "original_lang": "ja",
         "original": "アシエン・ファダニエル",
@@ -1590,7 +1590,7 @@
       }
     },
     {
-      "id": "feo-ul",
+      "id": "feo-uru",
       "name": {
         "original_lang": "ja",
         "original": "フェオ＝ウル",
@@ -1604,7 +1604,7 @@
       }
     },
     {
-      "id": "fourchenault-leveilleur",
+      "id": "furushuno-ruveyuru",
       "name": {
         "original_lang": "ja",
         "original": "フルシュノ・ルヴェユール",
@@ -1618,7 +1618,7 @@
       }
     },
     {
-      "id": "kai-shirr",
+      "id": "kai-shiru",
       "name": {
         "original_lang": "ja",
         "original": "カイ・シル",
@@ -1632,7 +1632,7 @@
       }
     },
     {
-      "id": "lyna",
+      "id": "raina",
       "name": {
         "original_lang": "ja",
         "original": "ライナ",
@@ -1651,7 +1651,7 @@
       }
     },
     {
-      "id": "ranjit",
+      "id": "ranjito",
       "name": {
         "original_lang": "ja",
         "original": "ランジート",
@@ -1665,7 +1665,7 @@
       }
     },
     {
-      "id": "runar",
+      "id": "runaru",
       "name": {
         "original_lang": "ja",
         "original": "ルナル",
@@ -1679,7 +1679,7 @@
       }
     },
     {
-      "id": "ryne",
+      "id": "rin",
       "name": {
         "original_lang": "ja",
         "original": "リーン",
@@ -1707,7 +1707,7 @@
       }
     },
     {
-      "id": "tesleen",
+      "id": "tesurin",
       "name": {
         "original_lang": "ja",
         "original": "テスリーン",
@@ -1735,7 +1735,7 @@
       }
     },
     {
-      "id": "uimet",
+      "id": "uime",
       "name": {
         "original_lang": "ja",
         "original": "ウィメ",
@@ -1754,7 +1754,7 @@
       }
     },
     {
-      "id": "vauthry",
+      "id": "don-vausuri",
       "name": {
         "original_lang": "ja",
         "original": "ドン・ヴァウスリー",
@@ -1768,7 +1768,7 @@
       }
     },
     {
-      "id": "a-ruhn-senna",
+      "id": "a-run-senna",
       "name": {
         "original_lang": "ja",
         "original": "ア・ルン・センナ",
@@ -1782,7 +1782,7 @@
       }
     },
     {
-      "id": "ahewann",
+      "id": "ahiwan",
       "name": {
         "original_lang": "ja",
         "original": "アヒワーン",
@@ -1796,7 +1796,7 @@
       }
     },
     {
-      "id": "ameliance-leveilleur",
+      "id": "ameriansu-ruveyuru",
       "name": {
         "original_lang": "ja",
         "original": "アメリアンス・ルヴェユール",
@@ -1810,7 +1810,7 @@
       }
     },
     {
-      "id": "barbariccia",
+      "id": "barubarishia",
       "name": {
         "original_lang": "ja",
         "original": "バルバリシア",
@@ -1824,7 +1824,7 @@
       }
     },
     {
-      "id": "barnier-clarke",
+      "id": "barunie-kuraku",
       "name": {
         "original_lang": "ja",
         "original": "バルニエ・クラーク",
@@ -1838,7 +1838,7 @@
       }
     },
     {
-      "id": "cagnazzo",
+      "id": "kainattso",
       "name": {
         "original_lang": "ja",
         "original": "カイナッツォ",
@@ -1866,7 +1866,7 @@
       }
     },
     {
-      "id": "erenville",
+      "id": "erenviru",
       "name": {
         "original_lang": "ja",
         "original": "エレンヴィル",
@@ -1881,7 +1881,7 @@
       }
     },
     {
-      "id": "golbez",
+      "id": "gorubeza",
       "name": {
         "original_lang": "ja",
         "original": "ゴルベーザ",
@@ -1895,7 +1895,7 @@
       }
     },
     {
-      "id": "growingway",
+      "id": "gurouinguuei",
       "name": {
         "original_lang": "ja",
         "original": "グローウィングウェイ",
@@ -1909,7 +1909,7 @@
       }
     },
     {
-      "id": "hermes",
+      "id": "herumesu",
       "name": {
         "original_lang": "ja",
         "original": "ヘルメス",
@@ -1923,7 +1923,7 @@
       }
     },
     {
-      "id": "hythlodaeus",
+      "id": "hyutorodaeusu",
       "name": {
         "original_lang": "ja",
         "original": "ヒュトロダエウス",
@@ -1938,7 +1938,7 @@
       }
     },
     {
-      "id": "jullus-pyr-norbanus",
+      "id": "yurusu-piru-norubanusu",
       "name": {
         "original_lang": "ja",
         "original": "ユルス・ピル・ノルバヌス",
@@ -1952,7 +1952,7 @@
       }
     },
     {
-      "id": "kokkol-dankkol",
+      "id": "kukuro-dankuro",
       "name": {
         "original_lang": "ja",
         "original": "ククロ・ダンクロ",
@@ -1966,7 +1966,7 @@
       }
     },
     {
-      "id": "livingway",
+      "id": "rivinguuei",
       "name": {
         "original_lang": "ja",
         "original": "リヴィングウェイ",
@@ -1980,7 +1980,7 @@
       }
     },
     {
-      "id": "mappingway",
+      "id": "mappinguuei",
       "name": {
         "original_lang": "ja",
         "original": "マッピングウェイ",
@@ -1994,7 +1994,7 @@
       }
     },
     {
-      "id": "matsya",
+      "id": "matosha",
       "name": {
         "original_lang": "ja",
         "original": "マトシャ",
@@ -2008,7 +2008,7 @@
       }
     },
     {
-      "id": "meteion",
+      "id": "metion",
       "name": {
         "original_lang": "ja",
         "original": "メーティオン",
@@ -2022,7 +2022,7 @@
       }
     },
     {
-      "id": "montichaigne",
+      "id": "montishenyu",
       "name": {
         "original_lang": "ja",
         "original": "モンティシェーニュ",
@@ -2036,7 +2036,7 @@
       }
     },
     {
-      "id": "nidhana",
+      "id": "niddana",
       "name": {
         "original_lang": "ja",
         "original": "ニッダーナ",
@@ -2050,7 +2050,7 @@
       }
     },
     {
-      "id": "puddingway",
+      "id": "pudinguuei",
       "name": {
         "original_lang": "ja",
         "original": "プディングウェイ",
@@ -2064,7 +2064,7 @@
       }
     },
     {
-      "id": "quintus-van-cinna",
+      "id": "kuintusu-van-kinna",
       "name": {
         "original_lang": "ja",
         "original": "クイントゥス・ヴァン・キンナ",
@@ -2078,7 +2078,7 @@
       }
     },
     {
-      "id": "rubicante",
+      "id": "rubikante",
       "name": {
         "original_lang": "ja",
         "original": "ルビカンテ",
@@ -2092,7 +2092,7 @@
       }
     },
     {
-      "id": "scarmiglione",
+      "id": "sukarumiryone",
       "name": {
         "original_lang": "ja",
         "original": "スカルミリョーネ",
@@ -2106,7 +2106,7 @@
       }
     },
     {
-      "id": "singingway",
+      "id": "shinginguuei",
       "name": {
         "original_lang": "ja",
         "original": "シンギングウェイ",
@@ -2120,7 +2120,7 @@
       }
     },
     {
-      "id": "sleepingway",
+      "id": "suripinguuei",
       "name": {
         "original_lang": "ja",
         "original": "スリーピングウェイ",
@@ -2134,7 +2134,7 @@
       }
     },
     {
-      "id": "venat",
+      "id": "venesu",
       "name": {
         "original_lang": "ja",
         "original": "ヴェーネス",
@@ -2148,7 +2148,7 @@
       }
     },
     {
-      "id": "vrtra",
+      "id": "vuritora",
       "name": {
         "original_lang": "ja",
         "original": "ヴリトラ",
@@ -2181,7 +2181,7 @@
       }
     },
     {
-      "id": "alayla",
+      "id": "araira",
       "name": {
         "original_lang": "ja",
         "original": "アライラ",
@@ -2195,7 +2195,7 @@
       }
     },
     {
-      "id": "bakool-ja-ja",
+      "id": "bakujaja",
       "name": {
         "original_lang": "ja",
         "original": "バクージャジャ",
@@ -2214,7 +2214,7 @@
       }
     },
     {
-      "id": "bol-noq",
+      "id": "boronokku",
       "name": {
         "original_lang": "ja",
         "original": "ボロノック",
@@ -2228,7 +2228,7 @@
       }
     },
     {
-      "id": "bruk-evu",
+      "id": "burukebu",
       "name": {
         "original_lang": "ja",
         "original": "ブルケブ",
@@ -2242,7 +2242,7 @@
       }
     },
     {
-      "id": "cahciua",
+      "id": "kafukiwa",
       "name": {
         "original_lang": "ja",
         "original": "カフキワ",
@@ -2261,7 +2261,7 @@
       }
     },
     {
-      "id": "calyx",
+      "id": "karyukusu",
       "name": {
         "original_lang": "ja",
         "original": "カリュクス",
@@ -2275,7 +2275,7 @@
       }
     },
     {
-      "id": "ecaate",
+      "id": "ekate",
       "name": {
         "original_lang": "ja",
         "original": "エカーテ",
@@ -2303,7 +2303,7 @@
       }
     },
     {
-      "id": "galuf-baldesion",
+      "id": "garafu-barudeshion",
       "name": {
         "original_lang": "ja",
         "original": "ガラフ・バルデシオン",
@@ -2317,7 +2317,7 @@
       }
     },
     {
-      "id": "genolt",
+      "id": "genoruto",
       "name": {
         "original_lang": "ja",
         "original": "ゲノルト",
@@ -2331,7 +2331,7 @@
       }
     },
     {
-      "id": "geode",
+      "id": "jiodo",
       "name": {
         "original_lang": "ja",
         "original": "ジオード",
@@ -2345,7 +2345,7 @@
       }
     },
     {
-      "id": "gulool-ja",
+      "id": "guruja",
       "name": {
         "original_lang": "ja",
         "original": "グルージャ",
@@ -2359,7 +2359,7 @@
       }
     },
     {
-      "id": "gulool-ja-ja",
+      "id": "gurujaja",
       "name": {
         "original_lang": "ja",
         "original": "グルージャジャ",
@@ -2378,7 +2378,7 @@
       }
     },
     {
-      "id": "gurfurlur",
+      "id": "gufuru",
       "name": {
         "original_lang": "ja",
         "original": "グーフールー",
@@ -2392,7 +2392,7 @@
       }
     },
     {
-      "id": "halmarut",
+      "id": "harumaruto",
       "name": {
         "original_lang": "ja",
         "original": "ハルマルト",
@@ -2406,7 +2406,7 @@
       }
     },
     {
-      "id": "hunmu-rruk",
+      "id": "funmuruku",
       "name": {
         "original_lang": "ja",
         "original": "フンムルク",
@@ -2435,7 +2435,7 @@
       }
     },
     {
-      "id": "ketill",
+      "id": "ketiru",
       "name": {
         "original_lang": "ja",
         "original": "ケティル",
@@ -2449,7 +2449,7 @@
       }
     },
     {
-      "id": "koana",
+      "id": "kona",
       "name": {
         "original_lang": "ja",
         "original": "コーナ",
@@ -2468,7 +2468,7 @@
       }
     },
     {
-      "id": "linuhanu",
+      "id": "rinuhanu",
       "name": {
         "original_lang": "ja",
         "original": "リヌハヌ",
@@ -2482,7 +2482,7 @@
       }
     },
     {
-      "id": "mablu",
+      "id": "maburu",
       "name": {
         "original_lang": "ja",
         "original": "マーブル",
@@ -2496,7 +2496,7 @@
       }
     },
     {
-      "id": "mahuwsa",
+      "id": "mafusa",
       "name": {
         "original_lang": "ja",
         "original": "マフーサ",
@@ -2510,7 +2510,7 @@
       }
     },
     {
-      "id": "miilal-ja",
+      "id": "miraja",
       "name": {
         "original_lang": "ja",
         "original": "ミーラジャ",
@@ -2524,7 +2524,7 @@
       }
     },
     {
-      "id": "milos",
+      "id": "mirosu",
       "name": {
         "original_lang": "ja",
         "original": "ミロス",
@@ -2538,7 +2538,7 @@
       }
     },
     {
-      "id": "naahe",
+      "id": "nahe",
       "name": {
         "original_lang": "ja",
         "original": "ナーヘ",
@@ -2552,7 +2552,7 @@
       }
     },
     {
-      "id": "namikka",
+      "id": "namika",
       "name": {
         "original_lang": "ja",
         "original": "ナミーカ",
@@ -2566,7 +2566,7 @@
       }
     },
     {
-      "id": "nitowikwe",
+      "id": "nitouike",
       "name": {
         "original_lang": "ja",
         "original": "ニトウィケ",
@@ -2580,7 +2580,7 @@
       }
     },
     {
-      "id": "nostalgia",
+      "id": "nosutarujia",
       "name": {
         "original_lang": "ja",
         "original": "ノスタルジア",
@@ -2594,7 +2594,7 @@
       }
     },
     {
-      "id": "otis-velona",
+      "id": "otisu",
       "name": {
         "original_lang": "ja",
         "original": "オーティス",
@@ -2616,7 +2616,7 @@
       }
     },
     {
-      "id": "pepoane",
+      "id": "pepone",
       "name": {
         "original_lang": "ja",
         "original": "ペポーネ",
@@ -2630,7 +2630,7 @@
       }
     },
     {
-      "id": "robor",
+      "id": "roboru",
       "name": {
         "original_lang": "ja",
         "original": "ロボル",
@@ -2644,7 +2644,7 @@
       }
     },
     {
-      "id": "sareel-ja",
+      "id": "sareja",
       "name": {
         "original_lang": "ja",
         "original": "サレージャ",
@@ -2663,7 +2663,7 @@
       }
     },
     {
-      "id": "shale",
+      "id": "sheru",
       "name": {
         "original_lang": "ja",
         "original": "シェール",
@@ -2677,7 +2677,7 @@
       }
     },
     {
-      "id": "shenza",
+      "id": "shenda",
       "name": {
         "original_lang": "ja",
         "original": "シェンダ",
@@ -2691,7 +2691,7 @@
       }
     },
     {
-      "id": "sphene",
+      "id": "sufen",
       "name": {
         "original_lang": "ja",
         "original": "スフェーン",
@@ -2713,7 +2713,7 @@
       }
     },
     {
-      "id": "tobli",
+      "id": "toburi",
       "name": {
         "original_lang": "ja",
         "original": "トーブリ",
@@ -2727,7 +2727,7 @@
       }
     },
     {
-      "id": "visna",
+      "id": "visuna",
       "name": {
         "original_lang": "ja",
         "original": "ヴィスナ",
@@ -2741,7 +2741,7 @@
       }
     },
     {
-      "id": "vorporlor",
+      "id": "voporo",
       "name": {
         "original_lang": "ja",
         "original": "ヴォーポーロー",
@@ -2755,7 +2755,7 @@
       }
     },
     {
-      "id": "wawlika",
+      "id": "warika",
       "name": {
         "original_lang": "ja",
         "original": "ワーリカ",
@@ -2769,7 +2769,7 @@
       }
     },
     {
-      "id": "wayakkwe",
+      "id": "wayakke",
       "name": {
         "original_lang": "ja",
         "original": "ワヤッケ",
@@ -2783,7 +2783,7 @@
       }
     },
     {
-      "id": "wihuwte",
+      "id": "uifute",
       "name": {
         "original_lang": "ja",
         "original": "ウィフーテ",
@@ -2797,7 +2797,7 @@
       }
     },
     {
-      "id": "wuk-evu",
+      "id": "ukebu",
       "name": {
         "original_lang": "ja",
         "original": "ウケブ",
@@ -2816,7 +2816,7 @@
       }
     },
     {
-      "id": "wuk-lamat",
+      "id": "ukuramato",
       "name": {
         "original_lang": "ja",
         "original": "ウクラマト",
@@ -2831,7 +2831,7 @@
       }
     },
     {
-      "id": "zanuhali",
+      "id": "zanuhari",
       "name": {
         "original_lang": "ja",
         "original": "ザヌハリ",
@@ -2845,7 +2845,7 @@
       }
     },
     {
-      "id": "zawpya",
+      "id": "dapya",
       "name": {
         "original_lang": "ja",
         "original": "ダーピャ",
@@ -2859,7 +2859,7 @@
       }
     },
     {
-      "id": "zekowa",
+      "id": "dekowa",
       "name": {
         "original_lang": "ja",
         "original": "デコワ",
@@ -2873,7 +2873,7 @@
       }
     },
     {
-      "id": "zelenia",
+      "id": "zerenia",
       "name": {
         "original_lang": "ja",
         "original": "ゼレニア",
@@ -2887,7 +2887,7 @@
       }
     },
     {
-      "id": "zereel-ja",
+      "id": "zereja",
       "name": {
         "original_lang": "ja",
         "original": "ゼレージャ",
@@ -2901,7 +2901,7 @@
       }
     },
     {
-      "id": "zoraal-ja",
+      "id": "zoraja",
       "name": {
         "original_lang": "ja",
         "original": "ゾラージャ",
@@ -2920,7 +2920,7 @@
       }
     },
     {
-      "id": "zurmurwur",
+      "id": "zumuu",
       "name": {
         "original_lang": "ja",
         "original": "ズームーウー",

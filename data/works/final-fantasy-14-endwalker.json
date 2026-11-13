@@ -67,7 +67,7 @@
       "release_date": "2021-12-07",
       "credits": [
         {
-          "character": "alphinaud-leveilleur",
+          "character": "arufino-ruveyuru",
           "person": "ritsu-ka-shin-shi-kai",
           "role": "main",
           "source_refs": [
@@ -78,7 +78,7 @@
           ]
         },
         {
-          "character": "alisaie-leveilleur",
+          "character": "arize-ruveyuru",
           "person": "son-sen-ri-i",
           "role": "main",
           "source_refs": [
@@ -89,7 +89,7 @@
           ]
         },
         {
-          "character": "thancred-waters",
+          "character": "sankureddo-uotasu",
           "person": "chuu-son-yuu-ichi",
           "role": "main",
           "source_refs": [
@@ -100,7 +100,7 @@
           ]
         },
         {
-          "character": "yshtola-rhul",
+          "character": "ya-shutora-ruru",
           "person": "bou-ya-ai-i",
           "role": "main",
           "source_refs": [
@@ -111,7 +111,7 @@
           ]
         },
         {
-          "character": "urianger-augurelt",
+          "character": "urienje-ogyure",
           "person": "kenn",
           "role": "main",
           "source_refs": [
@@ -122,7 +122,7 @@
           ]
         },
         {
-          "character": "graha-tia",
+          "character": "gu-raha-tia",
           "person": "dai-den-yuu-ba",
           "role": "main",
           "source_refs": [
@@ -133,7 +133,7 @@
           ]
         },
         {
-          "character": "estinien-varlineau",
+          "character": "esutinian-varino",
           "person": "hin-den-ken-ni",
           "role": "main",
           "source_refs": [
@@ -144,7 +144,7 @@
           ]
         },
         {
-          "character": "ryne",
+          "character": "rin",
           "person": "shi-no-rai-ka-da",
           "role": "supporting",
           "source_refs": [
@@ -165,7 +165,7 @@
           ]
         },
         {
-          "character": "krile-maya-baldesion",
+          "character": "kururu-maia-barudeshion",
           "person": "nan-jou-ai-dai",
           "role": "supporting",
           "source_refs": [
@@ -176,7 +176,7 @@
           ]
         },
         {
-          "character": "yda-hext",
+          "character": "ida",
           "person": "en-tou-ryou",
           "role": "minor",
           "source_refs": [
@@ -187,7 +187,7 @@
           ]
         },
         {
-          "character": "cid-garlond",
+          "character": "shido-nan-garondo",
           "person": "shou-san-ryoku-ya",
           "role": "supporting",
           "source_refs": [
@@ -198,7 +198,7 @@
           ]
         },
         {
-          "character": "nanamo-ul-namo",
+          "character": "nanamo-uru-namo",
           "person": "i-rai-matsu-chi-ya",
           "role": "minor",
           "source_refs": [
@@ -208,7 +208,7 @@
           ]
         },
         {
-          "character": "kan-e-senna",
+          "character": "kanu-e-senna",
           "person": "den-chuu-ri-kei",
           "role": "minor",
           "source_refs": [
@@ -219,7 +219,7 @@
           ]
         },
         {
-          "character": "artoirel-de-fortemps",
+          "character": "arutoareru-do-forutan",
           "person": "sai-jou-shi-sei",
           "role": "minor",
           "source_refs": [
@@ -228,7 +228,7 @@
           ]
         },
         {
-          "character": "emmanellain-de-fortemps",
+          "character": "emaneran-do-forutan",
           "person": "kou-ri-ken-go",
           "role": "minor",
           "source_refs": [
@@ -237,7 +237,7 @@
           ]
         },
         {
-          "character": "honoroit-banlardois",
+          "character": "onorowa-banrarudowa",
           "person": "son-chuu-chi",
           "role": "minor",
           "source_refs": [
@@ -246,7 +246,7 @@
           "verification": "unverified"
         },
         {
-          "character": "venat",
+          "character": "venesu",
           "person": "sei-jou-ki-kyuu-shi",
           "role": "supporting",
           "source_refs": [
@@ -256,7 +256,7 @@
           ]
         },
         {
-          "character": "hydaelyn",
+          "character": "haiderin",
           "person": "sei-jou-ki-kyuu-shi",
           "role": "supporting",
           "part": "replacement",
@@ -278,7 +278,7 @@
           ]
         },
         {
-          "character": "hythlodaeus",
+          "character": "hyutorodaeusu",
           "person": "ho-shi-sou-ichi-rou",
           "role": "supporting",
           "source_refs": [
@@ -288,7 +288,7 @@
           ]
         },
         {
-          "character": "emet-selch",
+          "character": "emetoseruku",
           "person": "kou-kyou-kou-ju",
           "role": "supporting",
           "source_refs": [
@@ -299,7 +299,7 @@
           ]
         },
         {
-          "character": "lahabrea",
+          "character": "ashien-rahaburea",
           "person": "chi-den-shuu-ichi",
           "role": "supporting",
           "source_refs": [
@@ -309,7 +309,7 @@
           ]
         },
         {
-          "character": "elidibus",
+          "character": "ashien-eridibusu",
           "person": "shaku-den-shou",
           "role": "minor",
           "source_refs": [
@@ -318,7 +318,7 @@
           ]
         },
         {
-          "character": "meteion",
+          "character": "metion",
           "person": "shu-ki-ton-bi",
           "role": "main",
           "source_refs": [
@@ -328,7 +328,7 @@
           ]
         },
         {
-          "character": "hermes",
+          "character": "herumesu",
           "person": "shou-kou-tei-shou",
           "role": "supporting",
           "source_refs": [
@@ -338,7 +338,7 @@
           ]
         },
         {
-          "character": "zenos-yae-galvus",
+          "character": "zenosu-ie-garuvasu",
           "person": "chou-kai-kou-fu",
           "role": "main",
           "source_refs": [
@@ -349,7 +349,7 @@
           ]
         },
         {
-          "character": "fandaniel",
+          "character": "ashien-fadanieru",
           "person": "ryuu-den-shun-ichi",
           "role": "supporting",
           "source_refs": [
@@ -358,7 +358,7 @@
           ]
         },
         {
-          "character": "fourchenault-leveilleur",
+          "character": "furushuno-ruveyuru",
           "person": "kutsu-dai-ken-yuu",
           "role": "supporting",
           "source_refs": [
@@ -368,7 +368,7 @@
           "verification": "unverified"
         },
         {
-          "character": "ameliance-leveilleur",
+          "character": "ameriansu-ruveyuru",
           "person": "den-chuu-ri-kei",
           "role": "supporting",
           "source_refs": [
@@ -378,7 +378,7 @@
           ]
         },
         {
-          "character": "vrtra",
+          "character": "vuritora",
           "person": "fuku-tou-jun",
           "role": "supporting",
           "source_refs": [
@@ -388,7 +388,7 @@
           ]
         },
         {
-          "character": "ahewann",
+          "character": "ahiwan",
           "person": "sei-san-jou",
           "role": "minor",
           "source_refs": [
@@ -398,7 +398,7 @@
           "verification": "unverified"
         },
         {
-          "character": "nidhana",
+          "character": "niddana",
           "person": "tai-chi-you",
           "role": "supporting",
           "source_refs": [
@@ -408,7 +408,7 @@
           "verification": "unverified"
         },
         {
-          "character": "matsya",
+          "character": "matosha",
           "person": "shoku-den-sen-jin",
           "role": "minor",
           "source_refs": [
@@ -418,7 +418,7 @@
           ]
         },
         {
-          "character": "montichaigne",
+          "character": "montishenyu",
           "person": "sei-san-jou",
           "role": "minor",
           "source_refs": [
@@ -427,7 +427,7 @@
           "verification": "unverified"
         },
         {
-          "character": "barnier-clarke",
+          "character": "barunie-kuraku",
           "person": "sei-ya-juu-shou",
           "role": "minor",
           "source_refs": [
@@ -436,7 +436,7 @@
           ]
         },
         {
-          "character": "jullus-pyr-norbanus",
+          "character": "yurusu-piru-norubanusu",
           "person": "rei-boku-ryou-ta",
           "role": "supporting",
           "source_refs": [
@@ -445,7 +445,7 @@
           ]
         },
         {
-          "character": "quintus-van-cinna",
+          "character": "kuintusu-van-kinna",
           "person": "kou-tou-kou-sai",
           "role": "minor",
           "source_refs": [
@@ -454,7 +454,7 @@
           "verification": "unverified"
         },
         {
-          "character": "lucia-junius",
+          "character": "rukia-go-yuniusu",
           "person": "tai-gen-sayaka",
           "role": "supporting",
           "source_refs": [
@@ -464,7 +464,7 @@
           ]
         },
         {
-          "character": "kokkol-dankkol",
+          "character": "kukuro-dankuro",
           "person": "shou-den-ken-ichi-rou",
           "role": "minor",
           "source_refs": [
@@ -473,7 +473,7 @@
           "verification": "unverified"
         },
         {
-          "character": "livingway",
+          "character": "rivinguuei",
           "person": "shuu-ki-ryou",
           "role": "supporting",
           "source_refs": [
@@ -483,7 +483,7 @@
           ]
         },
         {
-          "character": "puddingway",
+          "character": "pudinguuei",
           "person": "kou-tou-zui-kei",
           "role": "minor",
           "source_refs": [
@@ -493,7 +493,7 @@
           ]
         },
         {
-          "character": "mappingway",
+          "character": "mappinguuei",
           "person": "ka-san-den-ryou-ka",
           "role": "minor",
           "source_refs": [
@@ -503,7 +503,7 @@
           ]
         },
         {
-          "character": "growingway",
+          "character": "gurouinguuei",
           "person": "do-sei-sei-shou",
           "role": "minor",
           "source_refs": [
@@ -513,7 +513,7 @@
           ]
         },
         {
-          "character": "singingway",
+          "character": "shinginguuei",
           "person": "shu-ki-ton-bi",
           "role": "minor",
           "source_refs": [
@@ -522,7 +522,7 @@
           ]
         },
         {
-          "character": "sleepingway",
+          "character": "suripinguuei",
           "person": "fuku-tou-jun",
           "role": "minor",
           "source_refs": [
@@ -532,15 +532,14 @@
           ]
         },
         {
-          "character": "erenville",
+          "character": "erenviru",
           "person": "an-den-riku-shi",
           "role": "supporting",
           "source_refs": [
             "s1",
             "s37",
             "s38"
-          ],
-          "episodes": "6.1-6.58"
+          ]
         },
         {
           "character": "zero",
@@ -549,18 +548,16 @@
           "source_refs": [
             "s37"
           ],
-          "verification": "unverified",
-          "episodes": "6.2-6.5"
+          "verification": "unverified"
         },
         {
-          "character": "golbez",
+          "character": "gorubeza",
           "person": "sei-ya-ki-ki",
           "role": "supporting",
           "source_refs": [
             "s26",
             "s37"
-          ],
-          "episodes": "6.2-6.5"
+          ]
         },
         {
           "character": "durante",
@@ -569,51 +566,46 @@
           "source_refs": [
             "s26",
             "s37"
-          ],
-          "episodes": "6.1-6.58"
+          ]
         },
         {
-          "character": "barbariccia",
+          "character": "barubarishia",
           "person": "sen-sen-yuu",
           "role": "minor",
           "source_refs": [
             "s37"
           ],
-          "verification": "unverified",
-          "episodes": "6.2"
+          "verification": "unverified"
         },
         {
-          "character": "rubicante",
+          "character": "rubikante",
           "person": "terasomamasaki",
           "role": "minor",
           "source_refs": [
             "s37"
           ],
-          "verification": "unverified",
-          "episodes": "6.1-6.58"
+          "verification": "unverified"
         },
         {
-          "character": "cagnazzo",
+          "character": "kainattso",
           "person": "chuu-tou-taku-ya",
           "role": "minor",
           "source_refs": [
             "s37"
           ],
-          "verification": "unverified",
-          "episodes": "6.1-6.58"
+          "verification": "unverified"
         },
         {
-          "character": "scarmiglione",
+          "character": "sukarumiryone",
           "person": "hoku-taku-ryoku",
           "role": "minor",
           "source_refs": [
             "s13",
             "s37"
-          ],
-          "episodes": "6.1-6.58"
+          ]
         },
         {
-          "character": "a-ruhn-senna",
+          "character": "a-run-senna",
           "person": "ten-ki-kou-hei",
           "role": "minor",
           "source_refs": [
@@ -624,7 +616,7 @@
           ]
         },
         {
-          "character": "gaius-van-baelsar",
+          "character": "gaiusu-van-baesaru",
           "person": "tai-chou-mei-fu",
           "role": "supporting",
           "note": {
@@ -674,7 +666,7 @@
       "release_date": "2022-05-10",
       "credits": [
         {
-          "character": "vrtra",
+          "character": "vuritora",
           "person": "i-hyeon",
           "role": "supporting",
           "note": {
@@ -695,10 +687,9 @@
           "verification": "unverified"
         },
         {
-          "character": "erenville",
+          "character": "erenviru",
           "person": "gim-sin-u",
           "role": "supporting",
-          "episodes": "6.1-6.58",
           "note": {
             "original_lang": "ko",
             "original": "출처에 확장팩 구분이 없어 일본어 데이터상 이 캐릭터가 처음 음성 출연하는 확장팩에만 기재",

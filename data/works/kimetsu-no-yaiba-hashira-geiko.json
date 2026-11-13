@@ -51,7 +51,7 @@
       "last_release_date": "2024-06-30",
       "credits": [
         {
-          "character": "tanjiro-kamado",
+          "character": "sou-mon-tan-ji-rou",
           "person": "ka-kou-ka-ju",
           "role": "main",
           "source_refs": [
@@ -60,7 +60,7 @@
           ]
         },
         {
-          "character": "nezuko-kamado",
+          "character": "sou-mon-dei-tou-shi",
           "person": "ki-tou-mei-ri",
           "role": "main",
           "source_refs": [
@@ -69,7 +69,7 @@
           ]
         },
         {
-          "character": "zenitsu-agatsuma",
+          "character": "ga-sai-zen-itsu",
           "person": "ka-ya-kou",
           "role": "main",
           "source_refs": [
@@ -78,7 +78,7 @@
           ]
         },
         {
-          "character": "inosuke-hashibira",
+          "character": "shi-hei-i-shi-jo",
           "person": "shou-kou-tei-shou",
           "role": "main",
           "source_refs": [
@@ -87,7 +87,7 @@
           ]
         },
         {
-          "character": "giyu-tomioka",
+          "character": "fu-kou-gi-yuu",
           "person": "ou-sei-kou-kou",
           "role": "main",
           "source_refs": [
@@ -96,7 +96,7 @@
           ]
         },
         {
-          "character": "tengen-uzui",
+          "character": "u-zui-ten-gen",
           "person": "shou-sei-koku-kou",
           "role": "supporting",
           "source_refs": [
@@ -105,7 +105,7 @@
           ]
         },
         {
-          "character": "muichiro-tokito",
+          "character": "ji-tou-mu-ichi-rou",
           "person": "ka-sei-ken-go",
           "role": "supporting",
           "source_refs": [
@@ -114,7 +114,7 @@
           ]
         },
         {
-          "character": "shinobu-kocho",
+          "character": "ko-chou-shinobu",
           "person": "sou-ken-sa-shoku",
           "role": "supporting",
           "source_refs": [
@@ -123,7 +123,7 @@
           ]
         },
         {
-          "character": "mitsuri-kanroji",
+          "character": "kan-ro-ji-mitsu-ri",
           "person": "ka-taku-kou-sai",
           "role": "supporting",
           "source_refs": [
@@ -132,7 +132,7 @@
           ]
         },
         {
-          "character": "obanai-iguro",
+          "character": "i-koku-shou-ba-dai",
           "person": "rei-son-ken-ichi",
           "role": "supporting",
           "source_refs": [
@@ -141,7 +141,7 @@
           ]
         },
         {
-          "character": "sanemi-shinazugawa",
+          "character": "fu-shi-sen-jitsu-mi",
           "person": "kan-chi-ichi",
           "role": "supporting",
           "source_refs": [
@@ -150,7 +150,7 @@
           ]
         },
         {
-          "character": "gyomei-himejima",
+          "character": "hi-mei-sho-kou-mei",
           "person": "san-den-chi-wa",
           "role": "supporting",
           "source_refs": [
@@ -159,7 +159,7 @@
           ]
         },
         {
-          "character": "kanao-tsuyuri",
+          "character": "ritsu-ka-raku-kanao",
           "person": "jou-den-rei-na",
           "role": "supporting",
           "source_refs": [
@@ -167,7 +167,7 @@
           ]
         },
         {
-          "character": "kasugai-crow",
+          "character": "kasugai-a",
           "person": "chuu-bi-ryuu-sei",
           "role": "minor",
           "source_refs": [
@@ -175,7 +175,7 @@
           ]
         },
         {
-          "character": "nakime",
+          "character": "mei-jo",
           "person": "sei-jou-ma-ri-na",
           "role": "supporting",
           "source_refs": [
@@ -183,7 +183,7 @@
           ]
         },
         {
-          "character": "amane-ubuyashiki",
+          "character": "san-oku-fu-amane",
           "person": "sa-tou-ri-na",
           "role": "supporting",
           "source_refs": [
@@ -191,7 +191,7 @@
           ]
         },
         {
-          "character": "takeuchi",
+          "character": "chiku-dai",
           "person": "sen-you-shou-ya",
           "role": "supporting",
           "source_refs": [
@@ -199,7 +199,7 @@
           ]
         },
         {
-          "character": "goto",
+          "character": "go-tou",
           "person": "ko-sen-shin",
           "role": "supporting",
           "source_refs": [
@@ -207,7 +207,7 @@
           ]
         },
         {
-          "character": "tamayo",
+          "character": "shu-se",
           "person": "han-hon-shin-ryou",
           "role": "supporting",
           "source_refs": [
@@ -215,7 +215,7 @@
           ]
         },
         {
-          "character": "kasugai-crow",
+          "character": "kasugai-a",
           "person": "kutsu-dai-ken-yuu",
           "role": "minor",
           "source_refs": [
@@ -223,7 +223,7 @@
           ]
         },
         {
-          "character": "kasugai-crow",
+          "character": "kasugai-a",
           "person": "kutsu-kou-yuu-i",
           "role": "minor",
           "source_refs": [
@@ -231,7 +231,7 @@
           ]
         },
         {
-          "character": "kakushi",
+          "character": "in",
           "person": "gai-ki-yuu-ryou",
           "role": "minor",
           "source_refs": [
@@ -239,7 +239,7 @@
           ]
         },
         {
-          "character": "temple-children",
+          "character": "ji-no-shi-domotachi",
           "person": "ten-kai-yuu-ri-na",
           "role": "minor",
           "source_refs": [
@@ -247,7 +247,7 @@
           ]
         },
         {
-          "character": "murata",
+          "character": "son-den",
           "person": "kyuu-den-kou-ki",
           "role": "supporting",
           "source_refs": [
@@ -255,7 +255,7 @@
           ]
         },
         {
-          "character": "nichika-ubuyashiki",
+          "character": "san-oku-fu-nichika",
           "person": "shou-taku-a-ri",
           "role": "supporting",
           "source_refs": [
@@ -263,7 +263,7 @@
           ]
         },
         {
-          "character": "kiyo-terauchi",
+          "character": "ji-dai-kiyo",
           "person": "san-ka-shichi-kai",
           "role": "supporting",
           "source_refs": [
@@ -271,7 +271,7 @@
           ]
         },
         {
-          "character": "yushiro",
+          "character": "yu-shi-rou",
           "person": "san-ka-tai-ki",
           "role": "supporting",
           "source_refs": [
@@ -279,7 +279,7 @@
           ]
         },
         {
-          "character": "matsuemon",
+          "character": "ten-ou-ji-shou-u-ei-mon",
           "person": "san-ki-takumi",
           "role": "supporting",
           "source_refs": [
@@ -287,7 +287,7 @@
           ]
         },
         {
-          "character": "temple-children",
+          "character": "ji-no-shi-domotachi",
           "person": "san-kon-ki",
           "role": "minor",
           "source_refs": [
@@ -295,7 +295,7 @@
           ]
         },
         {
-          "character": "genya-shinazugawa",
+          "character": "fu-shi-sen-gen-mi",
           "person": "kou-hon-shin-gen",
           "role": "supporting",
           "source_refs": [
@@ -303,7 +303,7 @@
           ]
         },
         {
-          "character": "kiriya-ubuyashiki",
+          "character": "san-oku-fu-ki-ri-sai",
           "person": "yuu-boku-heki",
           "role": "supporting",
           "source_refs": [
@@ -311,7 +311,7 @@
           ]
         },
         {
-          "character": "shigeru-kamado",
+          "character": "sou-mon-mo",
           "person": "hon-to-fuu",
           "role": "supporting",
           "source_refs": [
@@ -319,7 +319,7 @@
           ]
         },
         {
-          "character": "suma",
+          "character": "shu-ma",
           "person": "tou-san-na-ou",
           "role": "supporting",
           "source_refs": [
@@ -327,7 +327,7 @@
           ]
         },
         {
-          "character": "naho-takada",
+          "character": "kou-den-naho",
           "person": "sou-gen-yuu-ki",
           "role": "supporting",
           "source_refs": [
@@ -335,7 +335,7 @@
           ]
         },
         {
-          "character": "sabito",
+          "character": "sei-to",
           "person": "bi-yuu-ki",
           "role": "supporting",
           "source_refs": [
@@ -343,7 +343,7 @@
           ]
         },
         {
-          "character": "kagaya-ubuyashiki",
+          "character": "san-oku-fu-you-sai",
           "person": "shin-sen-chi-shi",
           "role": "supporting",
           "source_refs": [
@@ -351,7 +351,7 @@
           ]
         },
         {
-          "character": "temple-children",
+          "character": "ji-no-shi-domotachi",
           "person": "sakaki-gen-yuu-ki",
           "role": "minor",
           "source_refs": [
@@ -359,7 +359,7 @@
           ]
         },
         {
-          "character": "aoi-kanzaki",
+          "character": "shin-ki-aoi",
           "person": "kou-gen-yuu-ri",
           "role": "supporting",
           "source_refs": [
@@ -367,7 +367,7 @@
           ]
         },
         {
-          "character": "hotaru-haganezuka",
+          "character": "kou-tetsu-chou-kei",
           "person": "rou-sen-tai-fu",
           "role": "supporting",
           "source_refs": [
@@ -375,7 +375,7 @@
           ]
         },
         {
-          "character": "kakushi",
+          "character": "in",
           "person": "sei-sui-sai-kou",
           "role": "minor",
           "source_refs": [
@@ -383,7 +383,7 @@
           ]
         },
         {
-          "character": "temple-children",
+          "character": "ji-no-shi-domotachi",
           "person": "den-gan-toku-shi",
           "role": "minor",
           "source_refs": [
@@ -391,7 +391,7 @@
           ]
         },
         {
-          "character": "sumi-nakahara",
+          "character": "chuu-gen-sumi",
           "person": "shin-ya-ayumi",
           "role": "supporting",
           "source_refs": [
@@ -407,7 +407,7 @@
           ]
         },
         {
-          "character": "chuntaro",
+          "character": "chun-ta-rou",
           "person": "shaku-ken-bu-sai-kou",
           "role": "supporting",
           "source_refs": [
@@ -415,7 +415,7 @@
           ]
         },
         {
-          "character": "hinatsuru",
+          "character": "suu-kaku",
           "person": "shu-ki-ton-bi",
           "role": "supporting",
           "source_refs": [
@@ -423,7 +423,7 @@
           ]
         },
         {
-          "character": "temple-children",
+          "character": "ji-no-shi-domotachi",
           "person": "tou-en-kou",
           "role": "minor",
           "source_refs": [
@@ -431,7 +431,7 @@
           ]
         },
         {
-          "character": "kozo-kanamori",
+          "character": "tetsu-ketsu-shin-kou-zou",
           "person": "chiku-hon-ei-shi",
           "role": "supporting",
           "source_refs": [
@@ -439,7 +439,7 @@
           ]
         },
         {
-          "character": "temple-children",
+          "character": "ji-no-shi-domotachi",
           "person": "sei-koku-ka-sei",
           "role": "minor",
           "source_refs": [
@@ -447,7 +447,7 @@
           ]
         },
         {
-          "character": "hinaki-ubuyashiki",
+          "character": "san-oku-fu-hinaki",
           "person": "ka-shu-yumiri",
           "role": "supporting",
           "source_refs": [
@@ -455,7 +455,7 @@
           ]
         },
         {
-          "character": "temple-children",
+          "character": "ji-no-shi-domotachi",
           "person": "tou-gen-ka-kai",
           "role": "minor",
           "source_refs": [
@@ -463,7 +463,7 @@
           ]
         },
         {
-          "character": "kasugai-crow",
+          "character": "kasugai-a",
           "person": "soku-sui-shou",
           "role": "minor",
           "source_refs": [
@@ -471,7 +471,7 @@
           ]
         },
         {
-          "character": "kasugai-crow",
+          "character": "kasugai-a",
           "person": "tei-kyuu-ri-kei",
           "role": "minor",
           "source_refs": [
@@ -479,7 +479,7 @@
           ]
         },
         {
-          "character": "muzan-kibutsuji",
+          "character": "ki-bu-tsuji-mu-san",
           "person": "kan-shun-gen",
           "role": "supporting",
           "source_refs": [
@@ -487,7 +487,7 @@
           ]
         },
         {
-          "character": "temple-children",
+          "character": "ji-no-shi-domotachi",
           "person": "shu-tou-shi-na",
           "role": "minor",
           "source_refs": [
@@ -495,7 +495,7 @@
           ]
         },
         {
-          "character": "temple-children",
+          "character": "ji-no-shi-domotachi",
           "person": "kou-ryuu-chi-you",
           "role": "minor",
           "source_refs": [
@@ -503,7 +503,7 @@
           ]
         },
         {
-          "character": "kakushi",
+          "character": "in",
           "person": "kou-kyou-shin-ya",
           "role": "minor",
           "source_refs": [
@@ -539,248 +539,207 @@
       ],
       "credits": [
         {
-          "character": "tanjiro-kamado",
+          "character": "sou-mon-tan-ji-rou",
           "person": "i-gyeong-tae",
           "role": "main",
-          "episodes": {
-            "from": 1,
-            "to": 8
-          },
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "nezuko-kamado",
+          "character": "sou-mon-dei-tou-shi",
           "person": "i-i-ro",
           "role": "main",
-          "episodes": "1, 7",
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "zenitsu-agatsuma",
+          "character": "ga-sai-zen-itsu",
           "person": "seok-seung-hun",
           "role": "main",
-          "episodes": "1, 5-7",
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "inosuke-hashibira",
+          "character": "shi-hei-i-shi-jo",
           "person": "min-seung-u",
           "role": "main",
-          "episodes": "1-2, 5-8",
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kanao-tsuyuri",
+          "character": "ritsu-ka-raku-kanao",
           "person": "gim-sun-mi",
           "role": "supporting",
-          "episodes": "1-2, 8",
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "genya-shinazugawa",
+          "character": "fu-shi-sen-gen-mi",
           "person": "bak-min-gi",
           "role": "supporting",
-          "episodes": "1, 5-8",
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "giyu-tomioka",
+          "character": "fu-kou-gi-yuu",
           "person": "jeong-jae-heon",
           "role": "main",
-          "episodes": "1-3, 7-8",
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "tengen-uzui",
+          "character": "u-zui-ten-gen",
           "person": "gim-jang",
           "role": "supporting",
-          "episodes": "1, 3",
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "muichiro-tokito",
+          "character": "ji-tou-mu-ichi-rou",
           "person": "im-chae-bin",
           "role": "supporting",
-          "episodes": "1, 3-4, 8",
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "shinobu-kocho",
+          "character": "ko-chou-shinobu",
           "person": "gim-ha-ru",
           "role": "supporting",
-          "episodes": "1-2, 8",
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "mitsuri-kanroji",
+          "character": "kan-ro-ji-mitsu-ri",
           "person": "choe-ha-ri",
           "role": "supporting",
-          "episodes": "1, 4-5, 8",
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "obanai-iguro",
+          "character": "i-koku-shou-ba-dai",
           "person": "seo-ban-seok",
           "role": "supporting",
-          "episodes": "1, 3-5, 8",
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "sanemi-shinazugawa",
+          "character": "fu-shi-sen-jitsu-mi",
           "person": "bak-seong-tae",
           "role": "supporting",
-          "episodes": "1, 3-5, 7-8",
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "gyomei-himejima",
+          "character": "hi-mei-sho-kou-mei",
           "person": "gu-ja-hyeong",
           "role": "supporting",
-          "episodes": "1, 5-8",
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "matsuemon",
+          "character": "ten-ou-ji-shou-u-ei-mon",
           "person": "gim-so-hyeong",
           "role": "supporting",
-          "episodes": "1, 3-7",
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kagaya-ubuyashiki",
+          "character": "san-oku-fu-you-sai",
           "person": "sin-yong-u",
           "role": "supporting",
-          "episodes": "1-2, 7-8",
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "amane-ubuyashiki",
+          "character": "san-oku-fu-amane",
           "person": "yun-mi-na",
           "role": "supporting",
-          "episodes": "1, 8",
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kiriya-ubuyashiki",
+          "character": "san-oku-fu-ki-ri-sai",
           "person": "i-ju-eun",
           "role": "minor",
-          "episodes": {
-            "from": 1,
-            "to": 1
-          },
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "tamayo",
+          "character": "shu-se",
           "person": "yeo-min-jeong",
           "role": "supporting",
-          "episodes": "1-2, 8",
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "hotaru-haganezuka",
+          "character": "kou-tetsu-chou-kei",
           "person": "i-hyeon",
           "role": "minor",
-          "episodes": {
-            "from": 1,
-            "to": 1
-          },
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kiyo-terauchi",
+          "character": "ji-dai-kiyo",
           "person": "gim-seo-hyeon",
           "role": "minor",
-          "episodes": {
-            "from": 1,
-            "to": 1
-          },
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "sumi-nakahara",
+          "character": "chuu-gen-sumi",
           "person": "mi-so",
           "role": "minor",
-          "episodes": {
-            "from": 1,
-            "to": 1
-          },
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "naho-takada",
+          "character": "kou-den-naho",
           "person": "jang-chae-yeon",
           "role": "minor",
-          "episodes": {
-            "from": 1,
-            "to": 1
-          },
           "source_refs": [
             "s60"
           ],
@@ -790,206 +749,150 @@
           "character": "makio",
           "person": "jeong-yu-jeong",
           "role": "supporting",
-          "episodes": "1, 3",
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "suma",
+          "character": "shu-ma",
           "person": "gim-hyeon-ji",
           "role": "supporting",
-          "episodes": "1, 3",
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "hinatsuru",
+          "character": "suu-kaku",
           "person": "gim-yul",
           "role": "supporting",
-          "episodes": "1, 3",
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "goto",
+          "character": "go-tou",
           "person": "sin-gyeong-seon",
           "role": "minor",
-          "episodes": {
-            "from": 1,
-            "to": 1
-          },
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "sabito",
+          "character": "sei-to",
           "person": "gim-hyeon-uk",
           "role": "minor",
-          "episodes": {
-            "from": 2,
-            "to": 2
-          },
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "yushiro",
+          "character": "yu-shi-rou",
           "person": "sim-gyu-hyeok",
           "role": "minor",
-          "episodes": {
-            "from": 2,
-            "to": 2
-          },
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "aoi-kanzaki",
+          "character": "shin-ki-aoi",
           "person": "jang-mi",
           "role": "minor",
-          "episodes": {
-            "from": 2,
-            "to": 2
-          },
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kozo-kanamori",
+          "character": "tetsu-ketsu-shin-kou-zou",
           "person": "bak-jun-won",
           "role": "minor",
-          "episodes": {
-            "from": 4,
-            "to": 4
-          },
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "shigeru-kamado",
+          "character": "sou-mon-mo",
           "person": "yu-hye-ji",
           "role": "minor",
-          "episodes": {
-            "from": 5,
-            "to": 5
-          },
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "murata",
+          "character": "son-den",
           "person": "gim-min-ju",
           "role": "supporting",
-          "episodes": "6, 8",
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "muzan-kibutsuji",
+          "character": "ki-bu-tsuji-mu-san",
           "person": "gim-seung-jun",
           "role": "supporting",
-          "episodes": {
-            "from": 6,
-            "to": 8
-          },
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "nakime",
+          "character": "mei-jo",
           "person": "gang-si-hyeon",
           "role": "minor",
-          "episodes": {
-            "from": 6,
-            "to": 6
-          },
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "chuntaro",
+          "character": "chun-ta-rou",
           "person": "jeong-hae-eun",
           "role": "minor",
-          "episodes": {
-            "from": 7,
-            "to": 7
-          },
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kaigaku",
+          "character": "kai-gaku",
           "person": "gwon-chang-uk",
           "role": "minor",
-          "episodes": {
-            "from": 7,
-            "to": 7
-          },
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "kyojuro-rengoku",
+          "character": "ren-goku-kyou-ju-rou",
           "person": "bak-jun-hyeong",
           "role": "minor",
-          "episodes": {
-            "from": 8,
-            "to": 8
-          },
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "hinaki-ubuyashiki",
+          "character": "san-oku-fu-hinaki",
           "person": "gim-do-hui",
           "role": "minor",
-          "episodes": {
-            "from": 8,
-            "to": 8
-          },
           "source_refs": [
             "s60"
           ],
           "verification": "unverified"
         },
         {
-          "character": "nichika-ubuyashiki",
+          "character": "san-oku-fu-nichika",
           "person": "gang-eun-ae",
           "role": "minor",
-          "episodes": {
-            "from": 8,
-            "to": 8
-          },
           "source_refs": [
             "s60"
           ],

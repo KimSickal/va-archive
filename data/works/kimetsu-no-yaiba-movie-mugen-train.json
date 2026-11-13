@@ -70,7 +70,7 @@
       "release_date": "2020-10-16",
       "credits": [
         {
-          "character": "tanjiro-kamado",
+          "character": "sou-mon-tan-ji-rou",
           "person": "ka-kou-ka-ju",
           "role": "main",
           "source_refs": [
@@ -79,7 +79,7 @@
           ]
         },
         {
-          "character": "nezuko-kamado",
+          "character": "sou-mon-dei-tou-shi",
           "person": "ki-tou-mei-ri",
           "role": "main",
           "source_refs": [
@@ -88,7 +88,7 @@
           ]
         },
         {
-          "character": "zenitsu-agatsuma",
+          "character": "ga-sai-zen-itsu",
           "person": "ka-ya-kou",
           "role": "main",
           "source_refs": [
@@ -97,7 +97,7 @@
           ]
         },
         {
-          "character": "inosuke-hashibira",
+          "character": "shi-hei-i-shi-jo",
           "person": "shou-kou-tei-shou",
           "role": "main",
           "source_refs": [
@@ -106,7 +106,7 @@
           ]
         },
         {
-          "character": "kyojuro-rengoku",
+          "character": "ren-goku-kyou-ju-rou",
           "person": "nichi-ya-sou",
           "role": "main",
           "source_refs": [
@@ -116,7 +116,7 @@
           "part": "regular"
         },
         {
-          "character": "enmu",
+          "character": "en-mu",
           "person": "hei-sen-tai-fu",
           "role": "supporting",
           "source_refs": [
@@ -125,7 +125,7 @@
           ]
         },
         {
-          "character": "akaza",
+          "character": "i-ka-za",
           "person": "shaku-den-shou",
           "role": "supporting",
           "source_refs": [
@@ -134,7 +134,7 @@
           ]
         },
         {
-          "character": "ruka-rengoku",
+          "character": "ren-goku-ryuu-ka",
           "person": "hou-kou-megumi",
           "role": "supporting",
           "source_refs": [
@@ -143,7 +143,7 @@
           ]
         },
         {
-          "character": "shinjuro-rengoku",
+          "character": "ren-goku-ten-ju-rou",
           "person": "shou-san-ryoku-ya",
           "role": "supporting",
           "source_refs": [
@@ -152,7 +152,7 @@
           ]
         },
         {
-          "character": "senjuro-rengoku",
+          "character": "ren-goku-sen-ju-rou",
           "person": "ka-boku-shun-mi",
           "role": "supporting",
           "source_refs": [
@@ -161,7 +161,7 @@
           ]
         },
         {
-          "character": "tanjuro-kamado",
+          "character": "sou-mon-tan-juu-rou",
           "person": "san-boku-shin-ichi-rou",
           "role": "supporting",
           "source_refs": [
@@ -170,7 +170,7 @@
           ]
         },
         {
-          "character": "kie-kamado",
+          "character": "sou-mon-ki-shi",
           "person": "sou-tou-hou-shi",
           "role": "supporting",
           "source_refs": [
@@ -179,7 +179,7 @@
           ]
         },
         {
-          "character": "takeo-kamado",
+          "character": "sou-mon-chiku-yuu",
           "person": "tai-chi-you",
           "role": "supporting",
           "source_refs": [
@@ -188,7 +188,7 @@
           ]
         },
         {
-          "character": "hanako-kamado",
+          "character": "sou-mon-ka-shi",
           "person": "shou-gen-kou-bi",
           "role": "supporting",
           "source_refs": [
@@ -197,7 +197,7 @@
           ]
         },
         {
-          "character": "shigeru-kamado",
+          "character": "sou-mon-mo",
           "person": "hon-to-fuu",
           "role": "supporting",
           "source_refs": [
@@ -206,7 +206,7 @@
           ]
         },
         {
-          "character": "rokuta-kamado",
+          "character": "sou-mon-roku-ta",
           "person": "ko-ga-ki",
           "role": "supporting",
           "source_refs": [
@@ -215,7 +215,7 @@
           ]
         },
         {
-          "character": "shinobu-kocho",
+          "character": "ko-chou-shinobu",
           "person": "sou-ken-sa-shoku",
           "role": "supporting",
           "source_refs": [
@@ -224,7 +224,7 @@
           ]
         },
         {
-          "character": "gyomei-himejima",
+          "character": "hi-mei-sho-kou-mei",
           "person": "san-den-chi-wa",
           "role": "supporting",
           "source_refs": [
@@ -232,7 +232,7 @@
           ]
         },
         {
-          "character": "tengen-uzui",
+          "character": "u-zui-ten-gen",
           "person": "shou-sei-koku-kou",
           "role": "supporting",
           "source_refs": [
@@ -241,7 +241,7 @@
           ]
         },
         {
-          "character": "sanemi-shinazugawa",
+          "character": "fu-shi-sen-jitsu-mi",
           "person": "kan-chi-ichi",
           "role": "supporting",
           "source_refs": [
@@ -250,7 +250,7 @@
           ]
         },
         {
-          "character": "obanai-iguro",
+          "character": "i-koku-shou-ba-dai",
           "person": "rei-son-ken-ichi",
           "role": "supporting",
           "source_refs": [
@@ -259,7 +259,7 @@
           ]
         },
         {
-          "character": "giyu-tomioka",
+          "character": "fu-kou-gi-yuu",
           "person": "ou-sei-kou-kou",
           "role": "supporting",
           "source_refs": [
@@ -268,7 +268,7 @@
           ]
         },
         {
-          "character": "kagaya-ubuyashiki",
+          "character": "san-oku-fu-you-sai",
           "person": "shin-sen-chi-shi",
           "role": "supporting",
           "source_refs": [
@@ -277,7 +277,7 @@
           ]
         },
         {
-          "character": "amane-ubuyashiki",
+          "character": "san-oku-fu-amane",
           "person": "sa-tou-ri-na",
           "role": "supporting",
           "source_refs": [
@@ -286,7 +286,7 @@
           ]
         },
         {
-          "character": "train-conductor",
+          "character": "sha-shou",
           "person": "ryuu-kan-shun",
           "role": "minor",
           "source_refs": [
@@ -294,7 +294,7 @@
           ]
         },
         {
-          "character": "tuberculosis-youth",
+          "character": "ketsu-kaku-no-sei-nen",
           "person": "kou-kou-taku-ya",
           "role": "minor",
           "source_refs": [
@@ -303,7 +303,7 @@
           ]
         },
         {
-          "character": "braided-girl",
+          "character": "san-tsu-hen-mino-shou-jo",
           "person": "sen-hon-boku-sai-ka",
           "role": "minor",
           "source_refs": [
@@ -311,7 +311,7 @@
           ]
         },
         {
-          "character": "kyojuro-rengoku",
+          "character": "ren-goku-kyou-ju-rou",
           "person": "i-rai-matsu-chi-ya",
           "role": "minor",
           "part": "young",
@@ -349,7 +349,7 @@
       ],
       "credits": [
         {
-          "character": "tanjiro-kamado",
+          "character": "sou-mon-tan-ji-rou",
           "person": "i-gyeong-tae",
           "role": "main",
           "source_refs": [
@@ -357,7 +357,7 @@
           ]
         },
         {
-          "character": "nezuko-kamado",
+          "character": "sou-mon-dei-tou-shi",
           "person": "gim-yeon-u",
           "role": "main",
           "source_refs": [
@@ -365,7 +365,7 @@
           ]
         },
         {
-          "character": "zenitsu-agatsuma",
+          "character": "ga-sai-zen-itsu",
           "person": "gim-ji-yul",
           "role": "main",
           "source_refs": [
@@ -373,7 +373,7 @@
           ]
         },
         {
-          "character": "inosuke-hashibira",
+          "character": "shi-hei-i-shi-jo",
           "person": "i-ho-san",
           "role": "main",
           "source_refs": [
@@ -381,7 +381,7 @@
           ]
         },
         {
-          "character": "kyojuro-rengoku",
+          "character": "ren-goku-kyou-ju-rou",
           "person": "jang-min-hyeok",
           "role": "main",
           "source_refs": [
@@ -389,7 +389,7 @@
           ]
         },
         {
-          "character": "enmu",
+          "character": "en-mu",
           "person": "gim-hyeon-uk",
           "role": "supporting",
           "source_refs": [
@@ -397,7 +397,7 @@
           ]
         },
         {
-          "character": "akaza",
+          "character": "i-ka-za",
           "person": "jeon-tae-yeol",
           "role": "supporting",
           "source_refs": [
@@ -405,7 +405,7 @@
           ]
         },
         {
-          "character": "shinjuro-rengoku",
+          "character": "ren-goku-ten-ju-rou",
           "person": "pyo-yeong-jae",
           "role": "supporting",
           "source_refs": [
@@ -413,7 +413,7 @@
           ]
         },
         {
-          "character": "ruka-rengoku",
+          "character": "ren-goku-ryuu-ka",
           "person": "gim-bo-na",
           "role": "supporting",
           "source_refs": [
@@ -421,7 +421,7 @@
           ]
         },
         {
-          "character": "senjuro-rengoku",
+          "character": "ren-goku-sen-ju-rou",
           "person": "pyo-yeong-jae",
           "role": "supporting",
           "source_refs": [
@@ -429,7 +429,7 @@
           ]
         },
         {
-          "character": "giyu-tomioka",
+          "character": "fu-kou-gi-yuu",
           "person": "gang-seong-u",
           "role": "supporting",
           "source_refs": [
@@ -437,7 +437,7 @@
           ]
         },
         {
-          "character": "tengen-uzui",
+          "character": "u-zui-ten-gen",
           "person": "yun-yong-sik",
           "role": "supporting",
           "source_refs": [
@@ -445,7 +445,7 @@
           ]
         },
         {
-          "character": "shinobu-kocho",
+          "character": "ko-chou-shinobu",
           "person": "yun-a-yeong",
           "role": "supporting",
           "source_refs": [
@@ -453,7 +453,7 @@
           ]
         },
         {
-          "character": "obanai-iguro",
+          "character": "i-koku-shou-ba-dai",
           "person": "jeon-tae-yeol",
           "role": "supporting",
           "source_refs": [
@@ -461,7 +461,7 @@
           ]
         },
         {
-          "character": "sanemi-shinazugawa",
+          "character": "fu-shi-sen-jitsu-mi",
           "person": "i-chang-min",
           "role": "supporting",
           "source_refs": [
@@ -469,7 +469,7 @@
           ]
         },
         {
-          "character": "gyomei-himejima",
+          "character": "hi-mei-sho-kou-mei",
           "person": "gim-hyeon-uk",
           "role": "supporting",
           "source_refs": [
@@ -477,7 +477,7 @@
           ]
         },
         {
-          "character": "kagaya-ubuyashiki",
+          "character": "san-oku-fu-you-sai",
           "person": "pyo-yeong-jae",
           "role": "supporting",
           "source_refs": [
@@ -485,7 +485,7 @@
           ]
         },
         {
-          "character": "amane-ubuyashiki",
+          "character": "san-oku-fu-amane",
           "person": "bak-si-yun",
           "role": "supporting",
           "source_refs": [
@@ -493,7 +493,7 @@
           ]
         },
         {
-          "character": "tanjuro-kamado",
+          "character": "sou-mon-tan-juu-rou",
           "person": "yun-yong-sik",
           "role": "supporting",
           "source_refs": [
@@ -501,7 +501,7 @@
           ]
         },
         {
-          "character": "kie-kamado",
+          "character": "sou-mon-ki-shi",
           "person": "yun-a-yeong",
           "role": "supporting",
           "source_refs": [
@@ -509,7 +509,7 @@
           ]
         },
         {
-          "character": "shigeru-kamado",
+          "character": "sou-mon-mo",
           "person": "yu-yeong",
           "role": "supporting",
           "source_refs": [
@@ -517,7 +517,7 @@
           ]
         },
         {
-          "character": "takeo-kamado",
+          "character": "sou-mon-chiku-yuu",
           "person": "gim-bo-na",
           "role": "supporting",
           "source_refs": [
@@ -525,7 +525,7 @@
           ]
         },
         {
-          "character": "hanako-kamado",
+          "character": "sou-mon-ka-shi",
           "person": "bak-si-yun",
           "role": "supporting",
           "source_refs": [
@@ -533,7 +533,7 @@
           ]
         },
         {
-          "character": "rokuta-kamado",
+          "character": "sou-mon-roku-ta",
           "person": "jang-mi",
           "role": "supporting",
           "source_refs": [

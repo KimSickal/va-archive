@@ -1,8 +1,8 @@
 ---
 name: research-work
 description: va-archive 데이터 수집 지침. 지정된 작품의 기본 정보·캐릭터·버전별 배역·성우를 신뢰할 수 있는 출처에서 조사해 스키마에 맞는 JSON으로 스테이징 디렉토리에 작성한다. researcher 에이전트가 사용.
-schema_version: 0.3.1
-skill_version: 0.6.0
+schema_version: 0.4.0
+skill_version: 0.7.0
 ---
 
 # research-work
@@ -21,11 +21,14 @@ skill_version: 0.6.0
 - **성우는 직접 ID를 짓지 않는다.** 성우를 배역에 넣기 전에 반드시 실행한다:
   `npx tsx scripts/cli/person-id.ts "<원어 표기>" <원어 언어> [--birth YYYY] [--alias "<다른 표기>"]...`
   - `reuse` → 그 내부 ID를 참조하고 **새 파일을 만들지 않는다** (기존 파일에 정보를 보탤 필요가 있으면 스테이징에 복사해서 수정)
-  - `create` → 그 ID로 `persons/<id>.json` 작성. `slug`는 `latin`의 kebab-case (동명이인 접미사는 병합 때 `assign-slugs`가 붙인다)
+  - `create` → 그 ID로 `persons/<id>.json` 작성. `slug`는 `latin`의 kebab-case, `latin`이 없으면 내부 ID (동명이인 접미사는 병합 때 `assign-slugs`가 붙인다)
   - `conflict` → 파일을 만들지 말고 보고서 `person_conflicts`에 후보와 함께 기록. 배역은 임시로 후보 중 가장 유력한 ID를 쓰고 `uncertain`에도 남긴다 (mediator가 결정)
   - 내부 ID는 원어 표기에서 기계적으로 만들어진다(宮野真守 → `kyuu-ya-shin-shu`). 읽기와 달라 보여도 고치지 않는다.
-- **캐릭터**: 원어 이름의 로마자 kebab-case (예: ゴン=フリークス → `gon-freecss`, 공식 영문 표기가 있으면 그것 기준). 스포일러 캐릭터는 정체가 드러나지 않는 ID.
-- **이름 없는 배역**: `<표기>-<작품 약어>` 예: `villager-a-s1`, `hrl-soldier-s2`, `receptionist-2011`.
+- **캐릭터도 직접 ID를 짓지 않는다.** 캐릭터를 추가하기 전에 실행한다:
+  `npx tsx scripts/cli/character-id.ts "<원어 표기>" <원어 언어> --franchise <프랜차이즈 id>`
+  - `existing <id>` → 같은 원어 표기의 캐릭터가 이미 있다. 같은 캐릭터면 그 ID를 쓴다. 이름만 같은 다른 캐릭터면 그 ID에 `-2`(이미 있으면 다음 번호)를 붙이고 보고서 `uncertain`에 남긴다
+  - `new <id>` → 그 ID로 추가
+  - ID는 원어 표기에서 기계적으로 만들어진다(瑠羽 → `ryuu-u`). 읽기와 달라 보여도, 스포일러 캐릭터라도 고치지 않는다. 이름 없는 배역도 같다(`役名なし 1` → `yaku-mei-nashi-1`). 검증 스크립트가 규칙을 확인한다.
 - `person-id.ts`는 `data/`와 다른 에이전트의 스테이징(`.work/research/*/data/`)을 모든 표기(별칭·옛 예명 포함)로 함께 검색한다.
 - **버전**: 원판 `ja`, 한국어 더빙 `ko-<방송사·플랫폼 약어>` (예: `ko-tooniverse`, `ko-aniplus`). 방송사를 모르면 `ko`.
 
@@ -42,7 +45,7 @@ skill_version: 0.6.0
 - `Source.title`은 페이지 제목 원문, `accessed_at`은 오늘 날짜.
 
 ## 3. 다국어 기재 (`docs/03-data-model.md` 2절)
-- `Name`: `original`(원어)·`latin` 필수. `official`에는 **원어가 아닌 언어의 공식 표기만** (한국어 정식 방영·발매물, 공식 사이트 표기 등). 원어 키는 넣지 않는다.
+- `Name`: `original`(원어) 필수. `latin`(로마자)은 **공식 표기나 출처의 읽기가 있을 때만** 쓰고, 모르면 생략한다(추측 금지). 성우·캐릭터·작품 제목 모두 같다. `official`에는 **원어가 아닌 언어의 공식 표기만** (한국어 정식 방영·발매물, 공식 사이트 표기 등). 원어 키는 넣지 않는다.
   - 한국어 더빙판이 있으면 그 더빙판에서 쓰인 캐릭터 이름이 한국어 공식 표기다.
   - 비공식 통용 표기(일본 성우의 한국어 음차 등)는 `aliases.ko`에. 영어 어순 변형은 `aliases.en`에.
 - `Text`(버전명·설명·비고): `original` + 원문 언어를 뺀 ja/ko/en 번역 전부. 공식 번역이 없으면 직접 번역하고 `translated`에 표시.
@@ -65,12 +68,14 @@ skill_version: 0.6.0
 2. 작품 기본 정보: type, status, 방영/개봉일, 화수/상영시간, 제작사, 위키백과 링크(ja/ko/en 중 존재하는 것).
 3. 버전: 지정된 음성 언어의 원판·더빙판을 모두 찾는다. 같은 언어에 더빙판이 여럿이면 각각 버전.
 4. 캐릭터: 프랜차이즈 파일에 정의. **다른 프랜차이즈(원작)의 캐릭터**(크로스오버·스핀오프·다른 애니화)는 새로 정의하지 말고 Credit에서 `"<원작 franchise id>/<character id>"`로 참조한다 (`docs/03` 5절 "프랜차이즈를 넘나드는 캐릭터"). 원작 프랜차이즈에 그 캐릭터가 없으면 보고서 `home_character_requests`에 남긴다 (오케스트레이터가 원작 프랜차이즈 잠금을 얻은 뒤 추가). 원작 프랜차이즈가 아예 없으면 작업을 멈추고 보고한다.
-   그 밖의 캐릭터: `first_appearance`(이 사이트에 등록된 작품 중 첫 등장 작품·화), 스포일러 여부(정체·존재 자체가 후반에 밝혀지는 경우만 `spoiler: true`), 이름 없는 배역은 `nameless: true`.
+   그 밖의 캐릭터: `first_appearance`(이 사이트에 등록된 작품 중 첫 등장 작품. 회차는 기록하지 않음), 스포일러 여부(정체·존재 자체가 후반에 밝혀지는 경우만 `spoiler: true`), 이름 없는 배역은 `nameless: true`.
    - 이미지: 공식 사이트 캐릭터 소개 이미지(`official_promotional`)를 우선. URL이 실제로 열리는지 확인된 것만. Tier 3 이미지 금지. 찾지 못하면 생략.
 5. Credit: 크레딧에 오른 **모든 배역**(주연·조연·단역·이름 없는 배역). `role`: main(주연) / supporting(조연) / minor(단역·게스트).
    - **이름 없는 배역의 원어 표기**: 일본어 크레딧 원문(ja.wikipedia 성우 문서의 출연작 목록이 가장 좋은 출처, 공식 사이트 회차별 캐스트)을 그대로 쓴다. **영어 자료(ANN 등)를 일본어로 역번역하지 않는다.**
      일본어 출처를 찾지 못하면 실제 출처의 표기(예: ANN 영어 "Soldier A")를 `original_lang: "en"`으로 넣고 Credit을 `"verification": "unverified"`로 둔다. 단, 작품 고유 용어의 명백한 오역(예: 人革連 → "Human Leather")은 성우 개인 문서 등에서 일본어 표기를 다시 찾아본다.
-   - 한 캐릭터에 성우가 여럿이면 `part`(replaced/replacement/young/substitute)와 `episodes`, 사유는 `note`.
+   - 한 캐릭터에 성우가 여럿이면 `part`(replaced/replacement/young/substitute), 사유는 `note`. **담당 회차는 기록하지 않는다.** 작품 안 교체 시점은 출처에 분명히 적혀 있을 때만 `note`에 출처 표현 그대로 (예: "第25話から" / "25화부터" / "From episode 25"). 시점을 찾으려고 따로 조사하지 않는다.
+   - **배역명 없이 크레딧된 출연자**(「役名なし」 등)도 기록한다: 그 작품의 `nameless` 캐릭터 `役名なし n`(n은 그 작품 크레딧 순서, `official.ko` `이름 없는 캐릭터 n`, `official.en` `Unnamed character n`). `role: minor`.
+   - **추정으로 넣는 배역** (`docs/03` 5절 "추정으로 넣는 배역"): 이어지는 작품·확장팩에 같은 캐릭터가 나오고 그 버전의 성우가 바뀌었다는 언급이 어느 출처에도 없으면 이전 성우로 넣고 `"assumption": "continued_cast"`. 더빙판 방영 범위가 불확실하면 작품 전체가 방영된 것으로 보고 `"assumption": "full_run"`. `source_refs`에는 추정의 바탕이 된 출처(이전 작품의 성우 출처, 더빙 방영 사실 출처)를 넣는다.
    - 시크릿 캐스트(성우 공개 자체가 스포일러)는 Credit에 `spoiler: true`.
 6. 성우: 새 성우는 `persons/<id>.json` 작성. 성별은 공개 정보가 있을 때만, 이미지는 위키미디어 커먼즈 등 Tier 1~2 자유 라이선스만(없으면 생략), 위키백과 링크.
 7. `meta`: `researched_at` 오늘, `verification.status` `"unverified"`, `skill_version` 이 파일의 skill_version.
@@ -80,9 +85,9 @@ skill_version: 0.6.0
 - 임시 파일은 반드시 `<root>/tmp/`에 둔다. 공용 스크래치 폴더는 다른 에이전트와 충돌한다.
 
 ## 4-1. 자주 틀리는 것 (2026-11-14 야간 실행 교훈)
-- **ja.wikipedia `{{ep|N}}`는 그 배역의 첫 등장 회차만** 가리킨다. 담당 회차 범위로 기록하지 않는다. 범위가 출처에 없으면 `episodes`를 비우고, 첫 등장은 `first_appearance`에 둔다.
-- **읽기(후리가나)는 수록 조건이 아니다.** 읽기를 몰라도 크레딧된 배역은 기록한다. (`latin`이 필요한데 한자 읽기를 모르는 경우만 `pending_user`)
-- **한국어 더빙 배역을 시즌·확장팩마다 복사하지 않는다.** 시리즈 전체 성우표 하나뿐이면, 시즌별 근거(방송사 엔딩 크레딧 목록, 회차별 기록)를 찾은 것만 넣는다.
+- **회차를 조사하지 않는다** (스키마 0.4.0부터 담당 회차·첫 등장 회차 필드 없음). ja.wikipedia `{{ep|N}}` 등은 배역이 그 작품에 있다는 근거로만 쓴다.
+- **읽기(후리가나)·로마자는 수록 조건이 아니다.** 읽기를 몰라도 크레딧된 배역은 기록하고 `latin`을 비운다.
+- **한국어 더빙 배역을 근거 없이 다른 작품에 복사하지 않는다.** 그 작품에 그 언어 더빙이 있었다는 근거(방영·발매 사실)가 있을 때만 버전을 만들고, 배역은 위 "추정으로 넣는 배역" 규칙(`assumption`)으로 채운다.
 - **영어 자료의 이름을 일본어로 역번역하지 않는다.** 성우 개인 ja.wikipedia 출연 목록에서 일본어 크레딧을 찾는다 (이름 있는 캐릭터도 마찬가지).
 - **출처의 짧은 출연 목록(eiga.com 등 주요 배역만)을 전체 배역으로 쓰지 않는다.** 엔딩 크레딧·공식 캐스트 페이지를 찾는다.
 - **동명이인·다른 직업인과 혼동 주의** (가수·배우와 같은 이름 등). 소속사·출연작으로 확인한다.

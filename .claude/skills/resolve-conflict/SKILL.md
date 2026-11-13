@@ -1,7 +1,7 @@
 ---
 name: resolve-conflict
 description: va-archive 충돌 중재 지침. 병렬 수집 중 생긴 사실 충돌(같은 사람 여부, 동명이인, 출처 간 값 충돌, ID·표기 충돌)을 데이터를 작성하지 않은 제3자로서 근거를 조사해 결정하고, 결정 기록을 남긴 뒤 데이터에 반영한다. 정책 문제는 결정하지 않고 사용자에게 올린다. mediator 에이전트가 사용.
-schema_version: 0.3.1
+schema_version: 0.4.0
 skill_version: 0.1.0
 ---
 
@@ -29,8 +29,8 @@ skill_version: 0.1.0
 |---|---|---|
 | **같은 사람인가** (중복 의심, person-id conflict) | 소속사·위키백과·본인 SNS로 동일인 여부 확인. 활동명 변경·별명의 가능성 확인 | 같은 사람: 남길 ID는 **내부 ID 규칙(원어 → 결정적 변환)에 맞는 쪽**, 둘 다 맞으면 사전순 앞. 다른 쪽 레코드의 출처·별칭을 합치고 배역의 `person`을 바꾸고 파일 삭제, `redirects.persons`에 (지운 ID → 남긴 ID). `kind: same_person` |
 | | | 다른 사람(동명이인): 나중에 생긴 쪽 내부 ID에 동명이인 번호(`-2`…)를 붙이고 참조 갱신, `npx tsx scripts/cli/assign-slugs.ts` 실행. `kind: different_person` (이후 중복 검사에서 제외됨) |
-| **값 충돌** (출생일, 배역의 성우, 회차 등) | 등급 높은 출처 우선, 1차 출처 탐색 | 결론이 나면 그 값으로 고치고 출처 추가. 안 나면 값을 비우거나(프로필 필드) Credit을 `"verification": "disputed"`로 두고 `unresolved`. `kind: field_value` |
-| **ID·표기 충돌** (같은 사람이 다른 ID, 로마자 표기 차이 등) | 공식 표기 확인 | ID는 규칙대로, 로마자 표기는 공식 표기로 통일. `kind: naming` |
+| **값 충돌** (출생일, 배역의 성우 등) | 등급 높은 출처 우선, 1차 출처 탐색 | 결론이 나면 그 값으로 고치고 출처 추가. 안 나면 값을 비우거나(프로필 필드) Credit을 `"verification": "disputed"`로 두고 `unresolved`. `kind: field_value` |
+| **ID·표기 충돌** (같은 사람이 다른 ID, 로마자 표기 차이 등) | 공식 표기 확인 | ID는 규칙대로, 로마자 표기는 공식 표기로 통일(근거가 없으면 비움). `kind: naming` |
 
 ## 3. 결정 기록 `data/decisions/<YYYY-MM-DD>-<요약 slug>.json`
 ```json
