@@ -125,7 +125,8 @@ export function WikiLinks({ wiki }: { wiki: Wikipedia | undefined }) {
 
 export function episodesLabel(e: Episodes | undefined): string {
   if (!e) return '';
-  if (typeof e === 'string') return `${e}화`;
+  // 게임 패치 범위("6.1-6.5")와 회차("1-12, 15")를 구분해 표시
+  if (typeof e === 'string') return /^\d+\.\d/.test(e) ? `패치 ${e}` : `${e}화`;
   if (e.from && e.to) return e.from === e.to ? `${e.from}화` : `${e.from}–${e.to}화`;
   if (e.from) return `${e.from}화~`;
   if (e.to) return `~${e.to}화`;

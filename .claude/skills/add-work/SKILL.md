@@ -1,7 +1,7 @@
 ---
 name: add-work
 description: va-archive 작품 추가·갱신 오케스트레이터. 사용자가 "/add-work <작품명>..."으로 실행한다. 작업 배정·잠금·스크립트 실행·서브에이전트 호출·결과의 기계적 반영만 하고, 데이터 내용은 판단하지 않는다(판단은 researcher/verifier/mediator 에이전트와 사용자). 여러 작품을 병렬로 처리할 수 있다.
-schema_version: 0.3.0
+schema_version: 0.3.1
 skill_version: 0.2.1
 ---
 

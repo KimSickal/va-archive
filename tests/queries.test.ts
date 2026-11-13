@@ -129,3 +129,9 @@ describe('cross-franchise characters (spin-off / crossover)', () => {
     expect(ja.rows[0].franchise).toBe('star-knights');
   });
 });
+
+describe('episodesLabel for game patches', () => {
+  it('formats patch ranges', () => {
+    expect(episodesLabel('6.1-6.5')).toBe('패치 6.1-6.5');
+  });
+});

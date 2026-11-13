@@ -1,7 +1,7 @@
 ---
 name: verify-work
 description: va-archive 데이터 검증 지침. researcher가 작성한 스테이징 데이터를 독립적으로 웹에서 교차 확인하고 이슈 보고서를 작성한다. 데이터 파일은 수정하지 않는다. verifier 에이전트가 사용.
-schema_version: 0.3.0
+schema_version: 0.3.1
 skill_version: 0.5.0
 ---
 

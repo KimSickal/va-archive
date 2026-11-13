@@ -6,6 +6,9 @@
 - minor: 선택 필드·enum 값 추가
 - patch: 설명·문서 수정
 
+## 0.3.1 — 2026-11-14
+- Credit.episodes 문자열에 게임 패치 범위 허용 ("6.1-6.5", "5.3")
+
 ## 0.3.0 — 2026-11-14
 - 크로스오버·스핀오프: 캐릭터는 원작 프랜차이즈 한 곳에 정의하고, 다른 프랜차이즈 작품의 Credit은 `franchise-id/character-id`로 참조한다 (`CharacterRef`). 한 작품은 한 프랜차이즈, 한 캐릭터는 여러 프랜차이즈에 등장 가능
 - Character.first_appearance.work: 다른 프랜차이즈의 작품도 허용

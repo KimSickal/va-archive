@@ -1,7 +1,7 @@
 ---
 name: resolve-conflict
 description: va-archive 충돌 중재 지침. 병렬 수집 중 생긴 사실 충돌(같은 사람 여부, 동명이인, 출처 간 값 충돌, ID·표기 충돌)을 데이터를 작성하지 않은 제3자로서 근거를 조사해 결정하고, 결정 기록을 남긴 뒤 데이터에 반영한다. 정책 문제는 결정하지 않고 사용자에게 올린다. mediator 에이전트가 사용.
-schema_version: 0.3.0
+schema_version: 0.3.1
 skill_version: 0.1.0
 ---
 
