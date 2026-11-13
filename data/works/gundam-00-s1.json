@@ -609,8 +609,10 @@
           "character": "louises-mother",
           "person": "gyoku-sen-sa-ki-shi",
           "role": "minor",
+          "credited_as": "玉川紗己子",
           "source_refs": [
-            "s1"
+            "s1",
+            "s24"
           ]
         },
         {
@@ -1395,6 +1397,14 @@
       "id": "s23",
       "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%A2%BB%E7%94%B1%E9%A6%99",
       "title": "西墻由香 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s24",
+      "url": "https://ja.wikipedia.org/wiki/%E7%8E%89%E5%B7%9D%E7%A0%82%E8%A8%98%E5%AD%90",
+      "title": "玉川砂記子 - Wikipedia",
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-13"

@@ -1873,9 +1873,11 @@
           "character": "rose",
           "person": "yukinosatsuki",
           "role": "supporting",
+          "credited_as": "雪野五月",
           "source_refs": [
             "s3",
-            "s6"
+            "s6",
+            "s87"
           ]
         },
         {
@@ -4286,6 +4288,14 @@
       "id": "s86",
       "url": "https://ko.wikipedia.org/wiki/%EC%98%A8%EC%98%81%EC%82%BC",
       "title": "온영삼 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s87",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%86%E3%81%8D%E3%81%AE%E3%81%95%E3%81%A4%E3%81%8D",
+      "title": "ゆきのさつき - Wikipedia",
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-13"
