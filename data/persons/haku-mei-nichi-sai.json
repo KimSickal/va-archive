@@ -1,0 +1,60 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "haku-mei-nichi-sai",
+  "slug": "asuna-tomari",
+  "name": {
+    "original_lang": "ja",
+    "original": "泊明日菜",
+    "latin": "Asuna Tomari",
+    "aliases": {
+      "ja": [
+        "とまりあすな"
+      ],
+      "ko": [
+        "토마리 아스나"
+      ],
+      "en": [
+        "Tomari Asuna"
+      ]
+    }
+  },
+  "gender": "female",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%B3%8A%E6%98%8E%E6%97%A5%E8%8F%9C",
+    "en": "https://en.wikipedia.org/wiki/Asuna_Tomari"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B3%8A%E6%98%8E%E6%97%A5%E8%8F%9C",
+      "title": "泊明日菜",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=128602",
+      "title": "Asuna TOMARI - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://www.netflix.com/kr/title/81564899",
+      "title": "던전밥 | 넷플릭스 공식 사이트",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

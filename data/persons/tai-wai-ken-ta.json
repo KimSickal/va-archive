@@ -1,0 +1,49 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "tai-wai-ken-ta",
+  "slug": "kenta-okuma",
+  "name": {
+    "original_lang": "ja",
+    "original": "大隈健太",
+    "latin": "Kenta Okuma",
+    "aliases": {
+      "ja": [
+        "おおくまけんた"
+      ],
+      "en": [
+        "Okuma Kenta"
+      ]
+    }
+  },
+  "gender": "male",
+  "birth": "1990",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9A%88%E5%81%A5%E5%A4%AA"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9A%88%E5%81%A5%E5%A4%AA",
+      "title": "大隈健太",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=119742",
+      "title": "Kenta ŌKUMA - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

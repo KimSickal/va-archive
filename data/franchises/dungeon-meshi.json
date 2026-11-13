@@ -1,0 +1,1903 @@
+{
+  "$schema": "../schema/franchise.schema.json",
+  "id": "dungeon-meshi",
+  "title": {
+    "original_lang": "ja",
+    "original": "ダンジョン飯",
+    "latin": "Dungeon Meshi",
+    "official": {
+      "en": "Delicious in Dungeon",
+      "ko": "던전밥"
+    },
+    "aliases": {
+      "ja": [
+        "だんじょんめし"
+      ]
+    }
+  },
+  "original_media": "manga",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3%E9%A3%AF",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%8D%98%EC%A0%84%EB%B0%A5",
+    "en": "https://en.wikipedia.org/wiki/Delicious_in_Dungeon"
+  },
+  "characters": [
+    {
+      "id": "laios-touden",
+      "name": {
+        "original_lang": "ja",
+        "original": "ライオス・トーデン",
+        "latin": "Laios Touden",
+        "official": {
+          "en": "Laios Touden",
+          "ko": "라이오스"
+        },
+        "aliases": {
+          "ja": [
+            "ライオス"
+          ],
+          "ko": [
+            "라이오스 토덴"
+          ],
+          "en": [
+            "Laios"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "魔物食に情熱を燃やすトールマンの戦士。妹ファリンを救うため迷宮に潜るパーティーのリーダー",
+        "translations": {
+          "ko": "마물 요리에 열정을 불태우는 톨맨 전사. 여동생 파린을 구하려 미궁에 들어가는 파티의 리더",
+          "en": "Tallman fighter obsessed with eating monsters; leads the party into the dungeon to rescue his sister Falin"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 1
+      },
+      "image": {
+        "url": "https://delicious-in-dungeon.com/assets/character/1c.png",
+        "page_url": "https://delicious-in-dungeon.com/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "©九井諒子・KADOKAWA刊／「ダンジョン飯」製作委員会"
+      }
+    },
+    {
+      "id": "marcille-donato",
+      "name": {
+        "original_lang": "ja",
+        "original": "マルシル・ドナトー",
+        "latin": "Marcille Donato",
+        "official": {
+          "en": "Marcille Donato",
+          "ko": "마르실"
+        },
+        "aliases": {
+          "ja": [
+            "マルシル"
+          ],
+          "ko": [
+            "마르실 도나토"
+          ],
+          "en": [
+            "Marcille"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "ライオス一行のエルフの魔術師。ファリンの親友",
+        "translations": {
+          "ko": "라이오스 일행의 엘프 마법사. 파린의 친구",
+          "en": "Elf mage of Laios's party and Falin's close friend"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 1
+      },
+      "image": {
+        "url": "https://delicious-in-dungeon.com/assets/character/2c.png",
+        "page_url": "https://delicious-in-dungeon.com/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "©九井諒子・KADOKAWA刊／「ダンジョン飯」製作委員会"
+      }
+    },
+    {
+      "id": "chilchuck-tims",
+      "name": {
+        "original_lang": "ja",
+        "original": "チルチャック・ティムズ",
+        "latin": "Chilchuck Tims",
+        "official": {
+          "en": "Chilchuck Tims",
+          "ko": "칠책"
+        },
+        "aliases": {
+          "ja": [
+            "チルチャック"
+          ],
+          "ko": [
+            "칠책 팀스"
+          ],
+          "en": [
+            "Chilchuck"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "ハーフフットの鍵師。罠の解除や鍵開けを担う",
+        "translations": {
+          "ko": "하프풋 열쇠공. 함정 해제와 자물쇠 따기를 맡는다",
+          "en": "Half-foot locksmith who handles traps and locks"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 1
+      },
+      "image": {
+        "url": "https://delicious-in-dungeon.com/assets/character/3c.png",
+        "page_url": "https://delicious-in-dungeon.com/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "©九井諒子・KADOKAWA刊／「ダンジョン飯」製作委員会"
+      }
+    },
+    {
+      "id": "senshi",
+      "name": {
+        "original_lang": "ja",
+        "original": "センシ",
+        "latin": "Senshi",
+        "official": {
+          "en": "Senshi",
+          "ko": "센시"
+        },
+        "aliases": {
+          "ko": [
+            "센시"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "迷宮で魔物料理を研究するドワーフの戦士",
+        "translations": {
+          "ko": "미궁에서 마물 요리를 연구하는 드워프 전사",
+          "en": "Dwarf warrior who has long studied cooking monsters in the dungeon"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 1
+      },
+      "image": {
+        "url": "https://delicious-in-dungeon.com/assets/character/4c.png",
+        "page_url": "https://delicious-in-dungeon.com/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "©九井諒子・KADOKAWA刊／「ダンジョン飯」製作委員会"
+      }
+    },
+    {
+      "id": "falin-touden",
+      "name": {
+        "original_lang": "ja",
+        "original": "ファリン・トーデン",
+        "latin": "Falin Touden",
+        "official": {
+          "en": "Falin Touden",
+          "ko": "파린"
+        },
+        "aliases": {
+          "ja": [
+            "ファリン"
+          ],
+          "ko": [
+            "파린 토덴"
+          ],
+          "en": [
+            "Falin"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "ライオスの妹の魔術師。レッドドラゴンに食べられる",
+        "translations": {
+          "ko": "라이오스의 여동생인 마법사. 레드 드래곤에게 먹힌다",
+          "en": "Laios's younger sister, a mage eaten by the red dragon"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 1
+      },
+      "image": {
+        "url": "https://delicious-in-dungeon.com/assets/character/5c.png",
+        "page_url": "https://delicious-in-dungeon.com/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "©九井諒子・KADOKAWA刊／「ダンジョン飯」製作委員会"
+      }
+    },
+    {
+      "id": "izutsumi",
+      "name": {
+        "original_lang": "ja",
+        "original": "イヅツミ",
+        "latin": "Izutsumi",
+        "official": {
+          "en": "Izutsumi"
+        },
+        "aliases": {
+          "ja": [
+            "アセビ"
+          ],
+          "ko": [
+            "이즈츠미",
+            "아세비"
+          ],
+          "en": [
+            "Asebi"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "獣と人が混ざった体を持つ東方出身の少女。のちにライオス一行に加わる",
+        "translations": {
+          "ko": "짐승과 사람이 섞인 몸을 가진 동방 출신 소녀. 이후 라이오스 일행에 합류한다",
+          "en": "Eastern girl with a body fused with a beast who later joins Laios's party"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 16
+      },
+      "image": {
+        "url": "https://delicious-in-dungeon.com/assets/character/14c.png",
+        "page_url": "https://delicious-in-dungeon.com/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "©九井諒子・KADOKAWA刊／「ダンジョン飯」製作委員会"
+      }
+    },
+    {
+      "id": "namari",
+      "name": {
+        "original_lang": "ja",
+        "original": "ナマリ",
+        "latin": "Namari",
+        "official": {
+          "en": "Namari"
+        },
+        "aliases": {
+          "ko": [
+            "나마리"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "ライオスの元パーティーメンバーのドワーフの戦士",
+        "translations": {
+          "ko": "라이오스의 전 파티원인 드워프 전사",
+          "en": "Dwarf fighter and former member of Laios's party"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 1
+      },
+      "image": {
+        "url": "https://delicious-in-dungeon.com/assets/character/6c.png",
+        "page_url": "https://delicious-in-dungeon.com/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "©九井諒子・KADOKAWA刊／「ダンジョン飯」製作委員会"
+      }
+    },
+    {
+      "id": "shuro",
+      "name": {
+        "original_lang": "ja",
+        "original": "シュロー",
+        "latin": "Shuro",
+        "official": {
+          "en": "Shuro"
+        },
+        "aliases": {
+          "ja": [
+            "ナカモト・トシロー",
+            "半本俊朗"
+          ],
+          "ko": [
+            "슈로",
+            "나카모토 토시로"
+          ],
+          "en": [
+            "Toshiro Nakamoto"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "東方出身の剣士。ライオスの元パーティーメンバー",
+        "translations": {
+          "ko": "동방 출신 검사. 라이오스의 전 파티원",
+          "en": "Swordsman from the Eastern Islands and former member of Laios's party"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 1
+      },
+      "image": {
+        "url": "https://delicious-in-dungeon.com/assets/character/7c.png",
+        "page_url": "https://delicious-in-dungeon.com/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "©九井諒子・KADOKAWA刊／「ダンジョン飯」製作委員会"
+      }
+    },
+    {
+      "id": "kabru",
+      "name": {
+        "original_lang": "ja",
+        "original": "カブルー",
+        "latin": "Kabru",
+        "official": {
+          "en": "Kabru"
+        },
+        "aliases": {
+          "ko": [
+            "카블루"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "迷宮を探索する別パーティーのリーダー",
+        "translations": {
+          "ko": "미궁을 탐색하는 다른 파티의 리더",
+          "en": "Leader of another party exploring the dungeon"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 5
+      },
+      "image": {
+        "url": "https://delicious-in-dungeon.com/assets/character/8c.png",
+        "page_url": "https://delicious-in-dungeon.com/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "©九井諒子・KADOKAWA刊／「ダンジョン飯」製作委員会"
+      }
+    },
+    {
+      "id": "rinsha-fana",
+      "name": {
+        "original_lang": "ja",
+        "original": "リンシャ・ファナ",
+        "latin": "Rinsha Fana",
+        "official": {
+          "en": "Rinsha Fana"
+        },
+        "aliases": {
+          "ja": [
+            "リンシャ",
+            "リン"
+          ],
+          "ko": [
+            "린샤 파나"
+          ],
+          "en": [
+            "Rin"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "カブルー一行の魔術師",
+        "translations": {
+          "ko": "카블루 일행의 마법사",
+          "en": "Mage of Kabru's party"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 5
+      },
+      "image": {
+        "url": "https://delicious-in-dungeon.com/assets/character/9c.png",
+        "page_url": "https://delicious-in-dungeon.com/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "©九井諒子・KADOKAWA刊／「ダンジョン飯」製作委員会"
+      }
+    },
+    {
+      "id": "mickbell-tomas",
+      "name": {
+        "original_lang": "ja",
+        "original": "ミックベル・トマズ",
+        "latin": "Mickbell Tomas",
+        "official": {
+          "en": "Mickbell Tomas"
+        },
+        "aliases": {
+          "ja": [
+            "ミックベル"
+          ],
+          "ko": [
+            "믹벨 토마즈"
+          ],
+          "en": [
+            "Mickbell"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "カブルー一行のハーフフット",
+        "translations": {
+          "ko": "카블루 일행의 하프풋",
+          "en": "Half-foot member of Kabru's party"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 5
+      },
+      "image": {
+        "url": "https://delicious-in-dungeon.com/assets/character/10c.png",
+        "page_url": "https://delicious-in-dungeon.com/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "©九井諒子・KADOKAWA刊／「ダンジョン飯」製作委員会"
+      }
+    },
+    {
+      "id": "kuro",
+      "name": {
+        "original_lang": "ja",
+        "original": "クロ",
+        "latin": "Kuro",
+        "official": {
+          "en": "Kuro"
+        },
+        "aliases": {
+          "ko": [
+            "쿠로"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "ミックベルに従うコボルト",
+        "translations": {
+          "ko": "믹벨을 따르는 코볼트",
+          "en": "Kobold who accompanies Mickbell"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 5
+      },
+      "image": {
+        "url": "https://delicious-in-dungeon.com/assets/character/11c.png",
+        "page_url": "https://delicious-in-dungeon.com/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "©九井諒子・KADOKAWA刊／「ダンジョン飯」製作委員会"
+      }
+    },
+    {
+      "id": "holm",
+      "name": {
+        "original_lang": "ja",
+        "original": "ホルム・クラノム",
+        "latin": "Holm Kranom",
+        "official": {
+          "en": "Holm"
+        },
+        "aliases": {
+          "ja": [
+            "ホルム"
+          ],
+          "ko": [
+            "홀름 크라놈"
+          ],
+          "en": [
+            "Holm"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "カブルー一行のノームの魔術師",
+        "translations": {
+          "ko": "카블루 일행의 노움 마법사",
+          "en": "Gnome mage of Kabru's party"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 5
+      },
+      "image": {
+        "url": "https://delicious-in-dungeon.com/assets/character/12c.png",
+        "page_url": "https://delicious-in-dungeon.com/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "©九井諒子・KADOKAWA刊／「ダンジョン飯」製作委員会"
+      }
+    },
+    {
+      "id": "daya",
+      "name": {
+        "original_lang": "ja",
+        "original": "ダイア",
+        "latin": "Daya",
+        "official": {
+          "en": "Daya"
+        },
+        "aliases": {
+          "ko": [
+            "다이아"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "カブルー一行のドワーフの僧侶",
+        "translations": {
+          "ko": "카블루 일행의 드워프 성직자",
+          "en": "Dwarf cleric of Kabru's party"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 5
+      },
+      "image": {
+        "url": "https://delicious-in-dungeon.com/assets/character/13c.png",
+        "page_url": "https://delicious-in-dungeon.com/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "©九井諒子・KADOKAWA刊／「ダンジョン飯」製作委員会"
+      }
+    },
+    {
+      "id": "maizuru",
+      "name": {
+        "original_lang": "ja",
+        "original": "マイヅル",
+        "latin": "Maizuru",
+        "official": {
+          "en": "Maizuru"
+        },
+        "aliases": {
+          "ja": [
+            "イヨ"
+          ],
+          "ko": [
+            "마이즈루"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "シュローに仕える東方の術者",
+        "translations": {
+          "ko": "슈로를 섬기는 동방의 술사",
+          "en": "Eastern sorceress who serves Shuro"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 14
+      },
+      "image": {
+        "url": "https://delicious-in-dungeon.com/assets/character/15c.png",
+        "page_url": "https://delicious-in-dungeon.com/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "©九井諒子・KADOKAWA刊／「ダンジョン飯」製作委員会"
+      }
+    },
+    {
+      "id": "hien",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヒエン",
+        "latin": "Hien",
+        "official": {
+          "en": "Hien"
+        },
+        "aliases": {
+          "ja": [
+            "ナカ"
+          ],
+          "ko": [
+            "히엔"
+          ],
+          "en": [
+            "Naka"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "シュローに仕えるくノ一",
+        "translations": {
+          "ko": "슈로를 섬기는 여닌자",
+          "en": "Kunoichi serving Shuro"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 14
+      },
+      "image": {
+        "url": "https://delicious-in-dungeon.com/assets/character/16c.png",
+        "page_url": "https://delicious-in-dungeon.com/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "©九井諒子・KADOKAWA刊／「ダンジョン飯」製作委員会"
+      }
+    },
+    {
+      "id": "benichidori",
+      "name": {
+        "original_lang": "ja",
+        "original": "ベニチドリ",
+        "latin": "Benichidori",
+        "official": {
+          "en": "Benichidori"
+        },
+        "aliases": {
+          "ja": [
+            "マツ"
+          ],
+          "ko": [
+            "베니치도리"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "シュローに仕えるくノ一",
+        "translations": {
+          "ko": "슈로를 섬기는 여닌자",
+          "en": "Kunoichi serving Shuro"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 14
+      },
+      "image": {
+        "url": "https://delicious-in-dungeon.com/assets/character/17c.png",
+        "page_url": "https://delicious-in-dungeon.com/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "©九井諒子・KADOKAWA刊／「ダンジョン飯」製作委員会"
+      }
+    },
+    {
+      "id": "inutade",
+      "name": {
+        "original_lang": "ja",
+        "original": "イヌタデ",
+        "latin": "Inutade",
+        "official": {
+          "en": "Inutade"
+        },
+        "aliases": {
+          "ja": [
+            "タデ",
+            "ヒジョウヒ"
+          ],
+          "ko": [
+            "이누타데"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "シュローの一行に加わる鬼の娘",
+        "translations": {
+          "ko": "슈로 일행에 속한 오니 소녀",
+          "en": "Oni girl in Shuro's group"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 14
+      },
+      "image": {
+        "url": "https://delicious-in-dungeon.com/assets/character/18c.png",
+        "page_url": "https://delicious-in-dungeon.com/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "©九井諒子・KADOKAWA刊／「ダンジョン飯」製作委員会"
+      }
+    },
+    {
+      "id": "sissel",
+      "name": {
+        "original_lang": "ja",
+        "original": "シスル",
+        "latin": "Sissel",
+        "official": {
+          "en": "Sissel"
+        },
+        "aliases": {
+          "ko": [
+            "시슬"
+          ],
+          "en": [
+            "Thistle"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "迷宮に棲む「狂乱の魔術師」",
+        "translations": {
+          "ko": "미궁에 사는 \"광란의 마술사\"",
+          "en": "The \"Mad Mage\" who dwells in the dungeon"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 6
+      },
+      "image": {
+        "url": "https://delicious-in-dungeon.com/assets/character/19c.png",
+        "page_url": "https://delicious-in-dungeon.com/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "©九井諒子・KADOKAWA刊／「ダンジョン飯」製作委員会"
+      }
+    },
+    {
+      "id": "mithrun",
+      "name": {
+        "original_lang": "ja",
+        "original": "ミスルン",
+        "latin": "Mithrun",
+        "official": {
+          "en": "Mithrun"
+        },
+        "aliases": {
+          "ko": [
+            "미스룬"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "エルフのカナリア隊の隊長",
+        "translations": {
+          "ko": "엘프 카나리아대의 대장",
+          "en": "Captain of the elven Canaries"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 21
+      },
+      "image": {
+        "url": "https://delicious-in-dungeon.com/assets/character/20c.png",
+        "page_url": "https://delicious-in-dungeon.com/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "©九井諒子・KADOKAWA刊／「ダンジョン飯」製作委員会"
+      }
+    },
+    {
+      "id": "yaad",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヤアド・メリニ",
+        "latin": "Yaad",
+        "official": {
+          "en": "Yaad"
+        },
+        "aliases": {
+          "ja": [
+            "ヤアド"
+          ],
+          "ko": [
+            "야아드 멜리니",
+            "야아드 멜라니"
+          ]
+        }
+      },
+      "description": {
+        "original_lang": "ja",
+        "original": "黄金郷の現当主",
+        "translations": {
+          "ko": "황금향의 현 당주",
+          "en": "Current ruler of the Golden Country"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 21
+      },
+      "image": {
+        "url": "https://delicious-in-dungeon.com/assets/character/21c.png",
+        "page_url": "https://delicious-in-dungeon.com/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "©九井諒子・KADOKAWA刊／「ダンジョン飯」製作委員会"
+      }
+    },
+    {
+      "id": "tansu-floke",
+      "name": {
+        "original_lang": "ja",
+        "original": "タンス・フロッカ",
+        "latin": "Tansu Floke",
+        "official": {
+          "en": "Tansu Floke"
+        },
+        "aliases": {
+          "ja": [
+            "タンス"
+          ],
+          "ko": [
+            "탄스 플로커"
+          ],
+          "en": [
+            "Tansu"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 8
+      }
+    },
+    {
+      "id": "yarn-floke",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヤーン・フロッカ",
+        "latin": "Yarn Floke",
+        "official": {
+          "en": "Yarn Floke"
+        },
+        "aliases": {
+          "ja": [
+            "ヤーン"
+          ],
+          "ko": [
+            "얀 플로커"
+          ],
+          "en": [
+            "Yarn"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 9
+      }
+    },
+    {
+      "id": "kaka",
+      "name": {
+        "original_lang": "ja",
+        "original": "カカ",
+        "latin": "Kaka",
+        "official": {
+          "en": "Kaka"
+        },
+        "aliases": {
+          "ko": [
+            "카카"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 9
+      }
+    },
+    {
+      "id": "kiki",
+      "name": {
+        "original_lang": "ja",
+        "original": "キキ",
+        "latin": "Kiki",
+        "official": {
+          "en": "Kiki"
+        },
+        "aliases": {
+          "ko": [
+            "키키"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 9
+      }
+    },
+    {
+      "id": "doni",
+      "name": {
+        "original_lang": "ja",
+        "original": "ドニ",
+        "latin": "Doni",
+        "aliases": {
+          "ko": [
+            "도니"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 2
+      }
+    },
+    {
+      "id": "fionil",
+      "name": {
+        "original_lang": "ja",
+        "original": "フィオニル",
+        "latin": "Fionil",
+        "aliases": {
+          "ko": [
+            "피오닐"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 2
+      }
+    },
+    {
+      "id": "dandan",
+      "name": {
+        "original_lang": "ja",
+        "original": "ダンダン",
+        "latin": "Dandan"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 3
+      }
+    },
+    {
+      "id": "cithis",
+      "name": {
+        "original_lang": "ja",
+        "original": "シスヒス・オフリ",
+        "latin": "Cithis",
+        "official": {
+          "en": "Cithis"
+        },
+        "aliases": {
+          "ja": [
+            "シスヒス"
+          ],
+          "ko": [
+            "시스히스 오프리"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 21
+      }
+    },
+    {
+      "id": "pattadol",
+      "name": {
+        "original_lang": "ja",
+        "original": "パッタドル",
+        "latin": "Pattadol",
+        "official": {
+          "en": "Pattadol"
+        },
+        "aliases": {
+          "ko": [
+            "파타돌"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 21
+      }
+    },
+    {
+      "id": "fleki",
+      "name": {
+        "original_lang": "ja",
+        "original": "フレキ",
+        "latin": "Fleki",
+        "official": {
+          "en": "Fleki"
+        },
+        "aliases": {
+          "ko": [
+            "플레키"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 21
+      }
+    },
+    {
+      "id": "lycion",
+      "name": {
+        "original_lang": "ja",
+        "original": "リシオン",
+        "latin": "Lycion",
+        "official": {
+          "en": "Lycion"
+        },
+        "aliases": {
+          "ko": [
+            "리시온"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 21
+      }
+    },
+    {
+      "id": "otta",
+      "name": {
+        "original_lang": "ja",
+        "original": "オッタ",
+        "latin": "Otta",
+        "official": {
+          "en": "Otta"
+        },
+        "aliases": {
+          "ko": [
+            "오타"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 21
+      }
+    },
+    {
+      "id": "zon",
+      "name": {
+        "original_lang": "ja",
+        "original": "ゾン",
+        "latin": "Zon",
+        "aliases": {
+          "ko": [
+            "존"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 4
+      }
+    },
+    {
+      "id": "leed",
+      "name": {
+        "original_lang": "ja",
+        "original": "リド",
+        "latin": "Leed",
+        "aliases": {
+          "ko": [
+            "리드"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 13
+      }
+    },
+    {
+      "id": "delgal",
+      "name": {
+        "original_lang": "ja",
+        "original": "デルガル・メリニ",
+        "latin": "Delgal",
+        "aliases": {
+          "ja": [
+            "デルガル"
+          ],
+          "ko": [
+            "데르갈 멜리니"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 6
+      }
+    },
+    {
+      "id": "freinag",
+      "name": {
+        "original_lang": "ja",
+        "original": "フリナグ・メリニ",
+        "latin": "Freinag",
+        "aliases": {
+          "ja": [
+            "フリナグ"
+          ],
+          "ko": [
+            "프리나그 멜리니"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 6
+      }
+    },
+    {
+      "id": "island-lord",
+      "name": {
+        "original_lang": "ja",
+        "original": "島主",
+        "latin": "Island Lord",
+        "aliases": {
+          "ko": [
+            "섬주"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 10
+      }
+    },
+    {
+      "id": "gillin",
+      "name": {
+        "original_lang": "ja",
+        "original": "ギリン",
+        "latin": "Gillin"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 23
+      }
+    },
+    {
+      "id": "totan",
+      "name": {
+        "original_lang": "ja",
+        "original": "トタン",
+        "latin": "Totan"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 23
+      }
+    },
+    {
+      "id": "invar",
+      "name": {
+        "original_lang": "ja",
+        "original": "インバー",
+        "latin": "Invar"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 23
+      }
+    },
+    {
+      "id": "noor",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヌール",
+        "latin": "Noor"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 23
+      }
+    },
+    {
+      "id": "brigan",
+      "name": {
+        "original_lang": "ja",
+        "original": "ブリガン",
+        "latin": "Brigan"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 23
+      }
+    },
+    {
+      "id": "laios-father",
+      "name": {
+        "original_lang": "ja",
+        "original": "ライオスの父",
+        "latin": "Laios's father"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 11
+      }
+    },
+    {
+      "id": "laios-mother",
+      "name": {
+        "original_lang": "ja",
+        "original": "ライオスの母",
+        "latin": "Laios's mother"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 19
+      }
+    },
+    {
+      "id": "marcille-mother",
+      "name": {
+        "original_lang": "ja",
+        "original": "マルシルの母",
+        "latin": "Marcille's mother"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 2
+      }
+    },
+    {
+      "id": "narrator-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "ナレーション",
+        "latin": "Narrator"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 1
+      },
+      "nameless": true
+    },
+    {
+      "id": "rookie-adventurer-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "迷宮初心者",
+        "latin": "Rookie adventurer"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 1
+      },
+      "nameless": true
+    },
+    {
+      "id": "gold-stripper-leader-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "金剥ぎリーダー",
+        "latin": "Gold stripper leader"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 3
+      },
+      "nameless": true
+    },
+    {
+      "id": "gold-stripper-dwarf-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "金剥ぎドワーフ",
+        "latin": "Gold stripper dwarf"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 3
+      },
+      "nameless": true
+    },
+    {
+      "id": "bodyguard-s1e4",
+      "name": {
+        "original_lang": "ja",
+        "original": "用心棒",
+        "latin": "Bodyguard"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 4
+      },
+      "nameless": true
+    },
+    {
+      "id": "shopkeeper-s1e4",
+      "name": {
+        "original_lang": "ja",
+        "original": "店主",
+        "latin": "Shopkeeper"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 4
+      },
+      "nameless": true
+    },
+    {
+      "id": "female-orc-s1e4",
+      "name": {
+        "original_lang": "ja",
+        "original": "女オーク",
+        "latin": "Female orc"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 4
+      },
+      "nameless": true
+    },
+    {
+      "id": "male-orc-s1e4",
+      "name": {
+        "original_lang": "ja",
+        "original": "男オーク",
+        "latin": "Male orc"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 4
+      },
+      "nameless": true
+    },
+    {
+      "id": "orc-child-s1e4",
+      "name": {
+        "original_lang": "ja",
+        "original": "子オーク",
+        "latin": "Orc child"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 4
+      },
+      "nameless": true
+    },
+    {
+      "id": "man-s1e5",
+      "name": {
+        "original_lang": "ja",
+        "original": "男",
+        "latin": "Man"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 5
+      },
+      "nameless": true
+    },
+    {
+      "id": "man-s1e6",
+      "name": {
+        "original_lang": "ja",
+        "original": "男",
+        "latin": "Man"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 6
+      },
+      "nameless": true
+    },
+    {
+      "id": "queen-s1e6",
+      "name": {
+        "original_lang": "ja",
+        "original": "王妃",
+        "latin": "Queen"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 6
+      },
+      "nameless": true
+    },
+    {
+      "id": "maid-s1e6",
+      "name": {
+        "original_lang": "ja",
+        "original": "侍女",
+        "latin": "Maid"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 6
+      },
+      "nameless": true
+    },
+    {
+      "id": "corpse-collector-a-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "死体回収屋A",
+        "latin": "Corpse collector A"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 7
+      },
+      "nameless": true
+    },
+    {
+      "id": "corpse-collector-b-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "死体回収屋B",
+        "latin": "Corpse collector B"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 7
+      },
+      "nameless": true
+    },
+    {
+      "id": "mermaid-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "人魚",
+        "latin": "Mermaid"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 7
+      },
+      "nameless": true
+    },
+    {
+      "id": "teacher-s1e8",
+      "name": {
+        "original_lang": "ja",
+        "original": "先生",
+        "latin": "Teacher"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 8
+      },
+      "nameless": true
+    },
+    {
+      "id": "student-1-s1e8",
+      "name": {
+        "original_lang": "ja",
+        "original": "生徒1",
+        "latin": "Student 1"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 8
+      },
+      "nameless": true
+    },
+    {
+      "id": "student-2-s1e8",
+      "name": {
+        "original_lang": "ja",
+        "original": "生徒2",
+        "latin": "Student 2"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 8
+      },
+      "nameless": true
+    },
+    {
+      "id": "student-3-s1e8",
+      "name": {
+        "original_lang": "ja",
+        "original": "生徒3",
+        "latin": "Student 3"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 8
+      },
+      "nameless": true
+    },
+    {
+      "id": "receptionist-s1e10",
+      "name": {
+        "original_lang": "ja",
+        "original": "受付",
+        "latin": "Receptionist"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 10
+      },
+      "nameless": true
+    },
+    {
+      "id": "villager-1-s1e11",
+      "name": {
+        "original_lang": "ja",
+        "original": "村人1",
+        "latin": "Villager 1"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 11
+      },
+      "nameless": true
+    },
+    {
+      "id": "villager-2-s1e11",
+      "name": {
+        "original_lang": "ja",
+        "original": "村人2",
+        "latin": "Villager 2"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 11
+      },
+      "nameless": true
+    },
+    {
+      "id": "villager-3-s1e11",
+      "name": {
+        "original_lang": "ja",
+        "original": "村人3",
+        "latin": "Villager 3"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 11
+      },
+      "nameless": true
+    },
+    {
+      "id": "orc-a-s1e13",
+      "name": {
+        "original_lang": "ja",
+        "original": "オークA",
+        "latin": "Orc A"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 13
+      },
+      "nameless": true
+    },
+    {
+      "id": "orc-b-s1e13",
+      "name": {
+        "original_lang": "ja",
+        "original": "オークB",
+        "latin": "Orc B"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 13
+      },
+      "nameless": true
+    },
+    {
+      "id": "orc-c-s1e13",
+      "name": {
+        "original_lang": "ja",
+        "original": "オークC",
+        "latin": "Orc C"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 13
+      },
+      "nameless": true
+    },
+    {
+      "id": "dryad-1-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "ドライアド1",
+        "latin": "Dryad 1"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 15
+      },
+      "nameless": true
+    },
+    {
+      "id": "dryad-2-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "ドライアド2",
+        "latin": "Dryad 2"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 15
+      },
+      "nameless": true
+    },
+    {
+      "id": "dryad-3-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "ドライアド3",
+        "latin": "Dryad 3"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 15
+      },
+      "nameless": true
+    },
+    {
+      "id": "hag-s1",
+      "name": {
+        "original_lang": "ja",
+        "original": "山姥",
+        "latin": "Hag"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 19
+      },
+      "nameless": true
+    },
+    {
+      "id": "villager-1-s1e21",
+      "name": {
+        "original_lang": "ja",
+        "original": "村人1",
+        "latin": "Villager 1"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 21
+      },
+      "nameless": true
+    },
+    {
+      "id": "villager-2-s1e21",
+      "name": {
+        "original_lang": "ja",
+        "original": "村人2",
+        "latin": "Villager 2"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 21
+      },
+      "nameless": true
+    },
+    {
+      "id": "villager-3-s1e21",
+      "name": {
+        "original_lang": "ja",
+        "original": "村人3",
+        "latin": "Villager 3"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 21
+      },
+      "nameless": true
+    },
+    {
+      "id": "villager-4-s1e21",
+      "name": {
+        "original_lang": "ja",
+        "original": "村人4",
+        "latin": "Villager 4"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 21
+      },
+      "nameless": true
+    },
+    {
+      "id": "villager-5-s1e21",
+      "name": {
+        "original_lang": "ja",
+        "original": "村人5",
+        "latin": "Villager 5"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 21
+      },
+      "nameless": true
+    },
+    {
+      "id": "villager-6-s1e21",
+      "name": {
+        "original_lang": "ja",
+        "original": "村人6",
+        "latin": "Villager 6"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 21
+      },
+      "nameless": true
+    },
+    {
+      "id": "villager-7-s1e21",
+      "name": {
+        "original_lang": "ja",
+        "original": "村人7",
+        "latin": "Villager 7"
+      },
+      "first_appearance": {
+        "work": "dungeon-meshi-s1",
+        "episode": 21
+      },
+      "nameless": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://delicious-in-dungeon.com/",
+      "title": "TVアニメ「ダンジョン飯」公式サイト",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3%E9%A3%AF",
+      "title": "ダンジョン飯",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://en.wikipedia.org/wiki/List_of_Delicious_in_Dungeon_characters",
+      "title": "List of Delicious in Dungeon characters",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s4",
+      "url": "https://ko.wikipedia.org/wiki/%EB%8D%98%EC%A0%84%EB%B0%A5",
+      "title": "던전밥",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s5",
+      "url": "https://www.netflix.com/kr/title/81564899",
+      "title": "던전밥 | 넷플릭스 공식 사이트",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

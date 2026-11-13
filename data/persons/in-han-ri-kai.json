@@ -1,0 +1,53 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "in-han-ri-kai",
+  "slug": "rie-hikisaka",
+  "name": {
+    "original_lang": "ja",
+    "original": "引坂理絵",
+    "latin": "Rie Hikisaka",
+    "aliases": {
+      "ja": [
+        "ひきさかりえ"
+      ],
+      "ko": [
+        "히키사카 리에"
+      ],
+      "en": [
+        "Hikisaka Rie"
+      ]
+    }
+  },
+  "gender": "female",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%BC%95%E5%9D%82%E7%90%86%E7%B5%B5",
+    "en": "https://en.wikipedia.org/wiki/Rie_Hikisaka",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%9E%88%ED%82%A4%EC%82%AC%EC%B9%B4_%EB%A6%AC%EC%97%90"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%BC%95%E5%9D%82%E7%90%86%E7%B5%B5",
+      "title": "引坂理絵",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=154557",
+      "title": "Rie HIKISAKA - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

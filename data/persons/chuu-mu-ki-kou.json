@@ -1,0 +1,53 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "chuu-mu-ki-kou",
+  "slug": "takayuki-nakatsukasa",
+  "name": {
+    "original_lang": "ja",
+    "original": "中務貴幸",
+    "latin": "Takayuki Nakatsukasa",
+    "aliases": {
+      "ja": [
+        "なかつかさたかゆき"
+      ],
+      "ko": [
+        "나가쓰카사 다카유키"
+      ],
+      "en": [
+        "Nakatsukasa Takayuki"
+      ]
+    }
+  },
+  "gender": "male",
+  "birth": "1990",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%8B%99%E8%B2%B4%E5%B9%B8",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%82%98%EA%B0%80%EC%93%B0%EC%B9%B4%EC%82%AC_%EB%8B%A4%EC%B9%B4%EC%9C%A0%ED%82%A4"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%8B%99%E8%B2%B4%E5%B9%B8",
+      "title": "中務貴幸",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=128387",
+      "title": "Takayuki NAKATSUKASA - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

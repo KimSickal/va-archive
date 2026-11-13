@@ -1,0 +1,54 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "san-jou-tetsu",
+  "slug": "satoshi-mikami",
+  "name": {
+    "original_lang": "ja",
+    "original": "三上哲",
+    "latin": "Satoshi Mikami",
+    "aliases": {
+      "ja": [
+        "みかみさとし"
+      ],
+      "ko": [
+        "미카미 사토시"
+      ],
+      "en": [
+        "Mikami Satoshi"
+      ]
+    }
+  },
+  "gender": "male",
+  "birth": "1968",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%B8%89%E4%B8%8A%E5%93%B2",
+    "en": "https://en.wikipedia.org/wiki/Satoshi_Mikami",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EC%B9%B4%EB%AF%B8_%EC%82%AC%ED%86%A0%EC%8B%9C"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E4%B8%8A%E5%93%B2",
+      "title": "三上哲",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=86669",
+      "title": "Satoshi MIKAMI (seiyū) - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

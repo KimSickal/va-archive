@@ -1,0 +1,53 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ji-taku-hyaku-ka",
+  "slug": "momoka-terasawa",
+  "name": {
+    "original_lang": "ja",
+    "original": "寺澤百花",
+    "latin": "Momoka Terasawa",
+    "aliases": {
+      "ja": [
+        "てらさわももか"
+      ],
+      "ko": [
+        "테라사와 모모카"
+      ],
+      "en": [
+        "Terasawa Momoka"
+      ]
+    }
+  },
+  "gender": "female",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%AF%BA%E6%BE%A4%E7%99%BE%E8%8A%B1",
+    "en": "https://en.wikipedia.org/wiki/Momoka_Terasawa",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%85%8C%EB%9D%BC%EC%82%AC%EC%99%80_%EB%AA%A8%EB%AA%A8%EC%B9%B4"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AF%BA%E6%BE%A4%E7%99%BE%E8%8A%B1",
+      "title": "寺澤百花",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=231450",
+      "title": "Momoka TERASAWA - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

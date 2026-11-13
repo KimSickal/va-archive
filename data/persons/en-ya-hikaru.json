@@ -1,0 +1,54 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "en-ya-hikaru",
+  "slug": "hikaru-tono",
+  "name": {
+    "original_lang": "ja",
+    "original": "遠野ひかる",
+    "latin": "Hikaru Tono",
+    "aliases": {
+      "ja": [
+        "とおのひかる"
+      ],
+      "ko": [
+        "토노 히카루"
+      ],
+      "en": [
+        "Tono Hikaru"
+      ]
+    }
+  },
+  "gender": "female",
+  "birth": "1996",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%81%A0%E9%87%8E%E3%81%B2%E3%81%8B%E3%82%8B",
+    "en": "https://en.wikipedia.org/wiki/Hikaru_Tono",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%86%A0%EB%85%B8_%ED%9E%88%EC%B9%B4%EB%A3%A8"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%81%A0%E9%87%8E%E3%81%B2%E3%81%8B%E3%82%8B",
+      "title": "遠野ひかる",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=280224",
+      "title": "Hikaru TŌNO - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

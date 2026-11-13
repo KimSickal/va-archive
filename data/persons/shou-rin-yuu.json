@@ -1,0 +1,54 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shou-rin-yuu",
+  "slug": "yu-kobayashi",
+  "name": {
+    "original_lang": "ja",
+    "original": "小林ゆう",
+    "latin": "Yu Kobayashi",
+    "aliases": {
+      "ja": [
+        "こばやしゆう"
+      ],
+      "ko": [
+        "코바야시 유우"
+      ],
+      "en": [
+        "Kobayashi Yu"
+      ]
+    }
+  },
+  "gender": "female",
+  "birth": "1982",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9E%97%E3%82%86%E3%81%86",
+    "en": "https://en.wikipedia.org/wiki/Y%C5%AB_Kobayashi",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%BD%94%EB%B0%94%EC%95%BC%EC%8B%9C_%EC%9C%A0%EC%9A%B0_(%EC%84%B1%EC%9A%B0)"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9E%97%E3%82%86%E3%81%86",
+      "title": "小林ゆう",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=16095",
+      "title": "Yū KOBAYASHI (seiyu) - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

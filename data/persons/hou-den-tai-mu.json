@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "hou-den-tai-mu",
+  "slug": "hiromu-mineta",
+  "name": {
+    "original_lang": "ja",
+    "original": "峯田大夢",
+    "latin": "Hiromu Mineta",
+    "aliases": {
+      "ja": [
+        "みねたひろむ"
+      ],
+      "en": [
+        "Mineta Hiromu"
+      ]
+    }
+  },
+  "gender": "male",
+  "birth": "1995",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%B3%AF%E7%94%B0%E5%A4%A7%E5%A4%A2",
+    "en": "https://en.wikipedia.org/wiki/Hiromu_Mineta"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B3%AF%E7%94%B0%E5%A4%A7%E5%A4%A2",
+      "title": "峯田大夢",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=150636",
+      "title": "Hiromu MINETA - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

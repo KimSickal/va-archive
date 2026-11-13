@@ -1,0 +1,60 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ka-tou-shou",
+  "slug": "wataru-katoh",
+  "name": {
+    "original_lang": "ja",
+    "original": "加藤渉",
+    "latin": "Wataru Katoh",
+    "aliases": {
+      "ja": [
+        "かとうわたる"
+      ],
+      "ko": [
+        "카토 와타루"
+      ],
+      "en": [
+        "Katoh Wataru"
+      ]
+    }
+  },
+  "gender": "male",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%97%A4%E6%B8%89_(%E5%A3%B0%E5%84%AA)",
+    "en": "https://en.wikipedia.org/wiki/Wataru_Katoh"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%97%A4%E6%B8%89_(%E5%A3%B0%E5%84%AA)",
+      "title": "加藤渉 (声優)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=151799",
+      "title": "Wataru KATŌ - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://www.netflix.com/kr/title/81564899",
+      "title": "던전밥 | 넷플릭스 공식 사이트",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

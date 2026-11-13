@@ -1,0 +1,49 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sa-tou-hana",
+  "slug": "hana-sato",
+  "name": {
+    "original_lang": "ja",
+    "original": "佐藤はな",
+    "latin": "Hana Sato",
+    "aliases": {
+      "ja": [
+        "さとうはな"
+      ],
+      "en": [
+        "Sato Hana"
+      ]
+    }
+  },
+  "gender": "female",
+  "birth": "1986",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E3%81%AF%E3%81%AA"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E3%81%AF%E3%81%AA",
+      "title": "佐藤はな",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=126925",
+      "title": "Hana SATŌ - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

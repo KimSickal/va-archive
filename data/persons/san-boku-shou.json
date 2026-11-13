@@ -1,0 +1,59 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "san-boku-shou",
+  "slug": "akira-miki",
+  "name": {
+    "original_lang": "ja",
+    "original": "三木晶",
+    "latin": "Akira Miki",
+    "aliases": {
+      "ja": [
+        "みきあきら"
+      ],
+      "ko": [
+        "미키 아키라"
+      ],
+      "en": [
+        "Miki Akira"
+      ]
+    }
+  },
+  "gender": "female",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%B8%89%E6%9C%A8%E6%99%B6"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E6%9C%A8%E6%99%B6",
+      "title": "三木晶",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=224057",
+      "title": "Akira MIKI - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://www.netflix.com/kr/title/81564899",
+      "title": "던전밥 | 넷플릭스 공식 사이트",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

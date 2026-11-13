@@ -1,0 +1,49 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "rin-zui-ki",
+  "slug": "mizuki-hayashi",
+  "name": {
+    "original_lang": "ja",
+    "original": "林瑞貴",
+    "latin": "Mizuki Hayashi",
+    "aliases": {
+      "ja": [
+        "はやしみずき"
+      ],
+      "en": [
+        "Hayashi Mizuki"
+      ]
+    }
+  },
+  "gender": "male",
+  "birth": "1990",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%9E%97%E7%91%9E%E8%B2%B4"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9E%97%E7%91%9E%E8%B2%B4",
+      "title": "林瑞貴",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=219944",
+      "title": "Mizuki HAYASHI - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

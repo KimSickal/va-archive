@@ -1,0 +1,61 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "yuu-koku-ken-ta-rou",
+  "slug": "kentaro-kumagai",
+  "name": {
+    "original_lang": "ja",
+    "original": "熊谷健太郎",
+    "latin": "Kentaro Kumagai",
+    "aliases": {
+      "ja": [
+        "くまがいけんたろう"
+      ],
+      "ko": [
+        "쿠마가이 켄타로"
+      ],
+      "en": [
+        "Kumagai Kentaro"
+      ]
+    }
+  },
+  "gender": "male",
+  "birth": "1994",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%86%8A%E8%B0%B7%E5%81%A5%E5%A4%AA%E9%83%8E",
+    "en": "https://en.wikipedia.org/wiki/Kentar%C5%8D_Kumagai"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%86%8A%E8%B0%B7%E5%81%A5%E5%A4%AA%E9%83%8E",
+      "title": "熊谷健太郎",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=142194",
+      "title": "Kentarō KUMAGAI - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://www.netflix.com/kr/title/81564899",
+      "title": "던전밥 | 넷플릭스 공식 사이트",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

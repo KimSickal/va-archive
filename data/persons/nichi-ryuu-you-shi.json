@@ -1,0 +1,54 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "nichi-ryuu-you-shi",
+  "slug": "yoko-hikasa",
+  "name": {
+    "original_lang": "ja",
+    "original": "日笠陽子",
+    "latin": "Yoko Hikasa",
+    "aliases": {
+      "ja": [
+        "ひかさようこ"
+      ],
+      "ko": [
+        "히카사 요코"
+      ],
+      "en": [
+        "Hikasa Yoko"
+      ]
+    }
+  },
+  "gender": "female",
+  "birth": "1985",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AC%A0%E9%99%BD%E5%AD%90",
+    "en": "https://en.wikipedia.org/wiki/Yoko_Hikasa",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%9E%88%EC%B9%B4%EC%82%AC_%EC%9A%94%EC%BD%94"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AC%A0%E9%99%BD%E5%AD%90",
+      "title": "日笠陽子",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=67797",
+      "title": "Yōko HIKASA - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

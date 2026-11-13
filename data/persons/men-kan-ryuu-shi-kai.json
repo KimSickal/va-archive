@@ -1,0 +1,48 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "men-kan-ryuu-shi-kai",
+  "slug": "ryunosuke-watanuki",
+  "name": {
+    "original_lang": "ja",
+    "original": "綿貫竜之介",
+    "latin": "Ryunosuke Watanuki",
+    "aliases": {
+      "ja": [
+        "わたぬきりゅうのすけ"
+      ],
+      "en": [
+        "Watanuki Ryunosuke"
+      ]
+    }
+  },
+  "gender": "male",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%B6%BF%E8%B2%AB%E7%AB%9C%E4%B9%8B%E4%BB%8B"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%B6%BF%E8%B2%AB%E7%AB%9C%E4%B9%8B%E4%BB%8B",
+      "title": "綿貫竜之介",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=128401",
+      "title": "Ryūnosuke WATANUKI - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

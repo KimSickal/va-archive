@@ -1,0 +1,49 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kichi-hon-gen-ki",
+  "slug": "genki-yoshimoto",
+  "name": {
+    "original_lang": "ja",
+    "original": "吉本元喜",
+    "latin": "Genki Yoshimoto",
+    "aliases": {
+      "ja": [
+        "よしもとげんき"
+      ],
+      "en": [
+        "Yoshimoto Genki"
+      ]
+    }
+  },
+  "gender": "male",
+  "birth": "1979",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%90%89%E6%9C%AC%E5%85%83%E5%96%9C"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%90%89%E6%9C%AC%E5%85%83%E5%96%9C",
+      "title": "吉本元喜",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=74804",
+      "title": "Genki YOSHIMOTO - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}
