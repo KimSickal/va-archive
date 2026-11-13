@@ -81,7 +81,7 @@
           ]
         },
         {
-          "character": "aki-hayakawa",
+          "character": "sou-sen-aki",
           "person": "han-den-shou-go",
           "role": "main",
           "source_refs": [
@@ -89,7 +89,7 @@
           ]
         },
         {
-          "character": "power",
+          "character": "pawa",
           "person": "fairuzuai",
           "role": "main",
           "source_refs": [
@@ -97,7 +97,7 @@
           ]
         },
         {
-          "character": "himeno",
+          "character": "ki-ya",
           "person": "i-rai-matsu-chi-ya",
           "role": "supporting",
           "source_refs": [
@@ -105,7 +105,7 @@
           ]
         },
         {
-          "character": "kobeni-higashiyama",
+          "character": "tou-san-kobeni",
           "person": "kou-kyou-ka-rin",
           "role": "supporting",
           "source_refs": [
@@ -113,7 +113,7 @@
           ]
         },
         {
-          "character": "hirokazu-arai",
+          "character": "kou-sei-hirokazu",
           "person": "hachi-dai-taku",
           "role": "supporting",
           "source_refs": [
@@ -121,7 +121,7 @@
           ]
         },
         {
-          "character": "kishibe",
+          "character": "gan-hen",
           "person": "shin-den-ken-ji-rou",
           "role": "supporting",
           "source_refs": [
@@ -129,7 +129,7 @@
           ]
         },
         {
-          "character": "angel-devil",
+          "character": "ten-shi-no-aku-ma",
           "person": "dai-den-shin-rei",
           "role": "supporting",
           "source_refs": [
@@ -137,7 +137,7 @@
           ]
         },
         {
-          "character": "beam",
+          "character": "bimu",
           "person": "ka-kou-ka-ju",
           "role": "supporting",
           "source_refs": [
@@ -157,7 +157,7 @@
           }
         },
         {
-          "character": "violence-fiend",
+          "character": "bou-ryoku-no-ma-jin",
           "person": "dai-den-seki-ya",
           "role": "supporting",
           "source_refs": [
@@ -165,7 +165,7 @@
           ]
         },
         {
-          "character": "spider-devil",
+          "character": "chi-shu-no-aku-ma",
           "person": "go-tou-sa-sho-ri",
           "role": "supporting",
           "source_refs": [
@@ -173,7 +173,7 @@
           ]
         },
         {
-          "character": "akane-sawatari",
+          "character": "taku-to-akane",
           "person": "tai-chi-you",
           "role": "supporting",
           "source_refs": [
@@ -181,7 +181,7 @@
           ]
         },
         {
-          "character": "samurai-sword",
+          "character": "samuraisodo",
           "person": "hin-ya-tai-ki",
           "role": "supporting",
           "source_refs": [

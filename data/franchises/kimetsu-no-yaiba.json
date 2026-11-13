@@ -23,7 +23,7 @@
   },
   "characters": [
     {
-      "id": "tanjiro-kamado",
+      "id": "sou-mon-tan-ji-rou",
       "name": {
         "original_lang": "ja",
         "original": "竈門炭治郎",
@@ -43,7 +43,7 @@
       }
     },
     {
-      "id": "nezuko-kamado",
+      "id": "sou-mon-dei-tou-shi",
       "name": {
         "original_lang": "ja",
         "original": "竈門禰豆子",
@@ -63,7 +63,7 @@
       }
     },
     {
-      "id": "zenitsu-agatsuma",
+      "id": "ga-sai-zen-itsu",
       "name": {
         "original_lang": "ja",
         "original": "我妻善逸",
@@ -83,7 +83,7 @@
       }
     },
     {
-      "id": "inosuke-hashibira",
+      "id": "shi-hei-i-shi-jo",
       "name": {
         "original_lang": "ja",
         "original": "嘴平伊之助",
@@ -103,7 +103,7 @@
       }
     },
     {
-      "id": "giyu-tomioka",
+      "id": "fu-kou-gi-yuu",
       "name": {
         "original_lang": "ja",
         "original": "冨岡義勇",
@@ -123,7 +123,7 @@
       }
     },
     {
-      "id": "shinobu-kocho",
+      "id": "ko-chou-shinobu",
       "name": {
         "original_lang": "ja",
         "original": "胡蝶しのぶ",
@@ -139,12 +139,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 15
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "kyojuro-rengoku",
+      "id": "ren-goku-kyou-ju-rou",
       "name": {
         "original_lang": "ja",
         "original": "煉獄杏寿郎",
@@ -160,12 +159,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 22
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "tengen-uzui",
+      "id": "u-zui-ten-gen",
       "name": {
         "original_lang": "ja",
         "original": "宇髄天元",
@@ -181,12 +179,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 22
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "muichiro-tokito",
+      "id": "ji-tou-mu-ichi-rou",
       "name": {
         "original_lang": "ja",
         "original": "時透無一郎",
@@ -202,12 +199,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 22
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "mitsuri-kanroji",
+      "id": "kan-ro-ji-mitsu-ri",
       "name": {
         "original_lang": "ja",
         "original": "甘露寺蜜璃",
@@ -223,12 +219,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 22
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "obanai-iguro",
+      "id": "i-koku-shou-ba-dai",
       "name": {
         "original_lang": "ja",
         "original": "伊黒小芭内",
@@ -244,12 +239,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 22
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "sanemi-shinazugawa",
+      "id": "fu-shi-sen-jitsu-mi",
       "name": {
         "original_lang": "ja",
         "original": "不死川実弥",
@@ -265,12 +259,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 22
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "gyomei-himejima",
+      "id": "hi-mei-sho-kou-mei",
       "name": {
         "original_lang": "ja",
         "original": "悲鳴嶼行冥",
@@ -286,12 +279,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 22
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "kagaya-ubuyashiki",
+      "id": "san-oku-fu-you-sai",
       "name": {
         "original_lang": "ja",
         "original": "産屋敷耀哉",
@@ -311,7 +303,7 @@
       }
     },
     {
-      "id": "amane-ubuyashiki",
+      "id": "san-oku-fu-amane",
       "name": {
         "original_lang": "ja",
         "original": "産屋敷あまね",
@@ -326,7 +318,7 @@
       }
     },
     {
-      "id": "kiriya-ubuyashiki",
+      "id": "san-oku-fu-ki-ri-sai",
       "name": {
         "original_lang": "ja",
         "original": "産屋敷輝利哉",
@@ -346,7 +338,7 @@
       }
     },
     {
-      "id": "kanata-ubuyashiki",
+      "id": "san-oku-fu-kanata",
       "name": {
         "original_lang": "ja",
         "original": "産屋敷かなた",
@@ -361,7 +353,7 @@
       }
     },
     {
-      "id": "hinaki-ubuyashiki",
+      "id": "san-oku-fu-hinaki",
       "name": {
         "original_lang": "ja",
         "original": "産屋敷ひなき",
@@ -372,12 +364,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 22
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "nichika-ubuyashiki",
+      "id": "san-oku-fu-nichika",
       "name": {
         "original_lang": "ja",
         "original": "産屋敷にちか",
@@ -388,12 +379,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 22
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "kuina-ubuyashiki",
+      "id": "san-oku-fu-kuina",
       "name": {
         "original_lang": "ja",
         "original": "産屋敷くいな",
@@ -408,7 +398,7 @@
       }
     },
     {
-      "id": "kanao-tsuyuri",
+      "id": "ritsu-ka-raku-kanao",
       "name": {
         "original_lang": "ja",
         "original": "栗花落カナヲ",
@@ -424,12 +414,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 21
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "genya-shinazugawa",
+      "id": "fu-shi-sen-gen-mi",
       "name": {
         "original_lang": "ja",
         "original": "不死川玄弥",
@@ -449,7 +438,7 @@
       }
     },
     {
-      "id": "aoi-kanzaki",
+      "id": "shin-ki-aoi",
       "name": {
         "original_lang": "ja",
         "original": "神崎アオイ",
@@ -465,12 +454,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 23
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "kiyo-terauchi",
+      "id": "ji-dai-kiyo",
       "name": {
         "original_lang": "ja",
         "original": "寺内きよ",
@@ -481,12 +469,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 23
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "sumi-nakahara",
+      "id": "chuu-gen-sumi",
       "name": {
         "original_lang": "ja",
         "original": "中原すみ",
@@ -497,12 +484,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 24
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "naho-takada",
+      "id": "kou-den-naho",
       "name": {
         "original_lang": "ja",
         "original": "高田なほ",
@@ -513,12 +499,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 24
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "kanae-kocho",
+      "id": "ko-chou-kanae",
       "name": {
         "original_lang": "ja",
         "original": "胡蝶カナエ",
@@ -529,12 +514,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 25
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "goto",
+      "id": "go-tou",
       "name": {
         "original_lang": "ja",
         "original": "後藤",
@@ -545,12 +529,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 19
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "murata",
+      "id": "son-den",
       "name": {
         "original_lang": "ja",
         "original": "村田",
@@ -561,12 +544,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 15
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "sakonji-urokodaki",
+      "id": "rin-sou-sa-kin-ji",
       "name": {
         "original_lang": "ja",
         "original": "鱗滝左近次",
@@ -586,7 +568,7 @@
       }
     },
     {
-      "id": "sabito",
+      "id": "sei-to",
       "name": {
         "original_lang": "ja",
         "original": "錆兎",
@@ -606,7 +588,7 @@
       }
     },
     {
-      "id": "makomo",
+      "id": "shin-ko",
       "name": {
         "original_lang": "ja",
         "original": "真菰",
@@ -626,7 +608,7 @@
       }
     },
     {
-      "id": "jigoro-kuwajima",
+      "id": "sou-tou-ji-go-rou",
       "name": {
         "original_lang": "ja",
         "original": "桑島慈悟郎",
@@ -642,12 +624,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 17
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "shinjuro-rengoku",
+      "id": "ren-goku-ten-ju-rou",
       "name": {
         "original_lang": "ja",
         "original": "煉獄槇寿郎",
@@ -667,7 +648,7 @@
       }
     },
     {
-      "id": "senjuro-rengoku",
+      "id": "ren-goku-sen-ju-rou",
       "name": {
         "original_lang": "ja",
         "original": "煉獄千寿郎",
@@ -682,7 +663,7 @@
       }
     },
     {
-      "id": "ruka-rengoku",
+      "id": "ren-goku-ryuu-ka",
       "name": {
         "original_lang": "ja",
         "original": "煉獄瑠火",
@@ -697,7 +678,7 @@
       }
     },
     {
-      "id": "hotaru-haganezuka",
+      "id": "kou-tetsu-chou-kei",
       "name": {
         "original_lang": "ja",
         "original": "鋼鐵塚蛍",
@@ -717,7 +698,7 @@
       }
     },
     {
-      "id": "kozo-kanamori",
+      "id": "tetsu-ketsu-shin-kou-zou",
       "name": {
         "original_lang": "ja",
         "original": "鉄穴森鋼蔵",
@@ -728,12 +709,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 25
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "kotetsu",
+      "id": "shou-tetsu",
       "name": {
         "original_lang": "ja",
         "original": "小鉄",
@@ -753,7 +733,7 @@
       }
     },
     {
-      "id": "tecchin-tecchikawahara",
+      "id": "tetsu-chi-ka-gen-tetsu-chin",
       "name": {
         "original_lang": "ja",
         "original": "鉄地河原鉄珍",
@@ -773,7 +753,7 @@
       }
     },
     {
-      "id": "tetsuido",
+      "id": "tetsu-sei-ko",
       "name": {
         "original_lang": "ja",
         "original": "鉄井戸",
@@ -788,7 +768,7 @@
       }
     },
     {
-      "id": "hanafuda-swordsman",
+      "id": "kei-koku-en-ichi",
       "name": {
         "original_lang": "ja",
         "original": "継国縁壱",
@@ -808,7 +788,7 @@
       "spoiler": true
     },
     {
-      "id": "sumiyoshi",
+      "id": "tan-kichi",
       "name": {
         "original_lang": "ja",
         "original": "炭吉",
@@ -823,7 +803,7 @@
       }
     },
     {
-      "id": "tanjuro-kamado",
+      "id": "sou-mon-tan-juu-rou",
       "name": {
         "original_lang": "ja",
         "original": "竈門炭十郎",
@@ -839,12 +819,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 19
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "kie-kamado",
+      "id": "sou-mon-ki-shi",
       "name": {
         "original_lang": "ja",
         "original": "竈門葵枝",
@@ -859,7 +838,7 @@
       }
     },
     {
-      "id": "takeo-kamado",
+      "id": "sou-mon-chiku-yuu",
       "name": {
         "original_lang": "ja",
         "original": "竈門竹雄",
@@ -874,7 +853,7 @@
       }
     },
     {
-      "id": "hanako-kamado",
+      "id": "sou-mon-ka-shi",
       "name": {
         "original_lang": "ja",
         "original": "竈門花子",
@@ -889,7 +868,7 @@
       }
     },
     {
-      "id": "shigeru-kamado",
+      "id": "sou-mon-mo",
       "name": {
         "original_lang": "ja",
         "original": "竈門茂",
@@ -904,7 +883,7 @@
       }
     },
     {
-      "id": "rokuta-kamado",
+      "id": "sou-mon-roku-ta",
       "name": {
         "original_lang": "ja",
         "original": "竈門六太",
@@ -919,7 +898,7 @@
       }
     },
     {
-      "id": "saburo",
+      "id": "san-rou",
       "name": {
         "original_lang": "ja",
         "original": "三郎",
@@ -934,7 +913,7 @@
       }
     },
     {
-      "id": "tamayo",
+      "id": "shu-se",
       "name": {
         "original_lang": "ja",
         "original": "珠世",
@@ -950,12 +929,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 8
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "yushiro",
+      "id": "yu-shi-rou",
       "name": {
         "original_lang": "ja",
         "original": "愈史郎",
@@ -971,12 +949,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 8
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "muzan-kibutsuji",
+      "id": "ki-bu-tsuji-mu-san",
       "name": {
         "original_lang": "ja",
         "original": "鬼舞辻無惨",
@@ -992,12 +969,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 7
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "kokushibo",
+      "id": "koku-shi-bou",
       "name": {
         "original_lang": "ja",
         "original": "黒死牟",
@@ -1017,7 +993,7 @@
       }
     },
     {
-      "id": "doma",
+      "id": "dou-ma",
       "name": {
         "original_lang": "ja",
         "original": "童磨",
@@ -1037,7 +1013,7 @@
       }
     },
     {
-      "id": "akaza",
+      "id": "i-ka-za",
       "name": {
         "original_lang": "ja",
         "original": "猗窩座",
@@ -1057,7 +1033,7 @@
       }
     },
     {
-      "id": "hantengu",
+      "id": "han-ten-kou",
       "name": {
         "original_lang": "ja",
         "original": "半天狗",
@@ -1077,7 +1053,7 @@
       }
     },
     {
-      "id": "gyokko",
+      "id": "gyoku-ko",
       "name": {
         "original_lang": "ja",
         "original": "玉壺",
@@ -1097,7 +1073,7 @@
       }
     },
     {
-      "id": "daki",
+      "id": "da-ki",
       "name": {
         "original_lang": "ja",
         "original": "堕姫",
@@ -1117,7 +1093,7 @@
       }
     },
     {
-      "id": "gyutaro",
+      "id": "ki-fu-ta-rou",
       "name": {
         "original_lang": "ja",
         "original": "妓夫太郎",
@@ -1137,7 +1113,7 @@
       }
     },
     {
-      "id": "nakime",
+      "id": "mei-jo",
       "name": {
         "original_lang": "ja",
         "original": "鳴女",
@@ -1157,7 +1133,7 @@
       }
     },
     {
-      "id": "kaigaku",
+      "id": "kai-gaku",
       "name": {
         "original_lang": "ja",
         "original": "獪岳",
@@ -1173,12 +1149,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 17
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "sekido",
+      "id": "seki-do",
       "name": {
         "original_lang": "ja",
         "original": "積怒",
@@ -1189,12 +1164,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-katanakaji",
-        "episode": 3
+        "work": "kimetsu-no-yaiba-katanakaji"
       }
     },
     {
-      "id": "karaku",
+      "id": "ka-gaku",
       "name": {
         "original_lang": "ja",
         "original": "可楽",
@@ -1205,12 +1179,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-katanakaji",
-        "episode": 3
+        "work": "kimetsu-no-yaiba-katanakaji"
       }
     },
     {
-      "id": "urogi",
+      "id": "kuu-ki",
       "name": {
         "original_lang": "ja",
         "original": "空喜",
@@ -1221,12 +1194,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-katanakaji",
-        "episode": 3
+        "work": "kimetsu-no-yaiba-katanakaji"
       }
     },
     {
-      "id": "aizetsu",
+      "id": "ai-zetsu",
       "name": {
         "original_lang": "ja",
         "original": "哀絶",
@@ -1237,12 +1209,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-katanakaji",
-        "episode": 3
+        "work": "kimetsu-no-yaiba-katanakaji"
       }
     },
     {
-      "id": "zohakuten",
+      "id": "zou-haku-ten",
       "name": {
         "original_lang": "ja",
         "original": "憎珀天",
@@ -1253,12 +1224,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-katanakaji",
-        "episode": 7
+        "work": "kimetsu-no-yaiba-katanakaji"
       }
     },
     {
-      "id": "enmu",
+      "id": "en-mu",
       "name": {
         "original_lang": "ja",
         "original": "魘夢",
@@ -1274,8 +1244,7 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 26
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
@@ -1295,12 +1264,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 15
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "kamanue",
+      "id": "fu-ya",
       "name": {
         "original_lang": "ja",
         "original": "釜鵺",
@@ -1311,12 +1279,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 26
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "rokuro",
+      "id": "roku-ro",
       "name": {
         "original_lang": "ja",
         "original": "轆轤",
@@ -1327,12 +1294,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 26
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "wakuraba",
+      "id": "byou-you",
       "name": {
         "original_lang": "ja",
         "original": "病葉",
@@ -1343,12 +1309,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 26
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "mukago",
+      "id": "rei-yo-shi",
       "name": {
         "original_lang": "ja",
         "original": "零余子",
@@ -1358,12 +1323,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 26
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "spider-demon-mother",
+      "id": "bo-chi-shu",
       "name": {
         "original_lang": "ja",
         "original": "母蜘蛛",
@@ -1374,12 +1338,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 15
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "spider-demon-father",
+      "id": "fu-chi-shu",
       "name": {
         "original_lang": "ja",
         "original": "父蜘蛛",
@@ -1390,12 +1353,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 17
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "spider-demon-son",
+      "id": "kei-chi-shu",
       "name": {
         "original_lang": "ja",
         "original": "兄蜘蛛",
@@ -1406,12 +1368,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 16
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "spider-demon-daughter",
+      "id": "shi-chi-shu",
       "name": {
         "original_lang": "ja",
         "original": "姉蜘蛛",
@@ -1422,12 +1383,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 17
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "rui-mother",
+      "id": "rui-no-bo",
       "name": {
         "original_lang": "ja",
         "original": "累の母",
@@ -1437,12 +1397,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 21
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "rui-father",
+      "id": "rui-no-fu",
       "name": {
         "original_lang": "ja",
         "original": "累の父",
@@ -1452,12 +1411,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 21
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "temple-demon",
+      "id": "o-dou-no-ki",
       "name": {
         "original_lang": "ja",
         "original": "お堂の鬼",
@@ -1472,7 +1430,7 @@
       }
     },
     {
-      "id": "hand-demon",
+      "id": "shu-ki",
       "name": {
         "original_lang": "ja",
         "original": "手鬼",
@@ -1492,7 +1450,7 @@
       }
     },
     {
-      "id": "hand-demon-brother",
+      "id": "shu-ki-no-kei",
       "name": {
         "original_lang": "ja",
         "original": "手鬼の兄",
@@ -1506,7 +1464,7 @@
       }
     },
     {
-      "id": "swamp-demon",
+      "id": "shou-no-ki",
       "name": {
         "original_lang": "ja",
         "original": "沼の鬼",
@@ -1522,12 +1480,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 6
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "susamaru",
+      "id": "shu-sa-gan",
       "name": {
         "original_lang": "ja",
         "original": "朱紗丸",
@@ -1543,12 +1500,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 8
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "yahaba",
+      "id": "shi-ha-u",
       "name": {
         "original_lang": "ja",
         "original": "矢琶羽",
@@ -1564,12 +1520,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 8
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "kyogai",
+      "id": "kyou-gai",
       "name": {
         "original_lang": "ja",
         "original": "響凱",
@@ -1585,12 +1540,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 11
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "kazumi",
+      "id": "wa-shi",
       "name": {
         "original_lang": "ja",
         "original": "和巳",
@@ -1601,8 +1555,7 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 6
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
@@ -1616,12 +1569,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 6
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "muzan-wife",
+      "id": "ki-bu-tsuji-no-sai",
       "name": {
         "original_lang": "ja",
         "original": "鬼舞辻の妻",
@@ -1631,12 +1583,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 7
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "muzan-daughter",
+      "id": "ki-bu-tsuji-no-jou",
       "name": {
         "original_lang": "ja",
         "original": "鬼舞辻の娘",
@@ -1646,12 +1597,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 7
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "udon-vendor",
+      "id": "udon-oku-no-ten-shu",
       "name": {
         "original_lang": "ja",
         "original": "うどん屋の店主",
@@ -1661,13 +1611,12 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 7
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       },
       "nameless": true
     },
     {
-      "id": "shoichi",
+      "id": "sei-ichi",
       "name": {
         "original_lang": "ja",
         "original": "正一",
@@ -1678,12 +1627,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 11
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "teruko",
+      "id": "teru-shi",
       "name": {
         "original_lang": "ja",
         "original": "てる子",
@@ -1694,12 +1642,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 11
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "kiyoshi",
+      "id": "sei",
       "name": {
         "original_lang": "ja",
         "original": "清",
@@ -1710,12 +1657,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 12
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "wisteria-house-old-woman",
+      "id": "o-ba-san",
       "name": {
         "original_lang": "ja",
         "original": "お婆さん",
@@ -1725,13 +1671,12 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 14
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       },
       "nameless": true
     },
     {
-      "id": "mysterious-woman",
+      "id": "shi-hei-kin-you",
       "name": {
         "original_lang": "ja",
         "original": "嘴平琴葉",
@@ -1746,13 +1691,12 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 18
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       },
       "spoiler": true
     },
     {
-      "id": "chuntaro",
+      "id": "chun-ta-rou",
       "name": {
         "original_lang": "ja",
         "original": "チュン太郎",
@@ -1763,12 +1707,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 11
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "matsuemon",
+      "id": "ten-ou-ji-shou-u-ei-mon",
       "name": {
         "original_lang": "ja",
         "original": "天王寺松右衛門",
@@ -1783,7 +1726,7 @@
       }
     },
     {
-      "id": "kasugai-crow",
+      "id": "kasugai-a",
       "name": {
         "original_lang": "ja",
         "original": "鎹鴉",
@@ -1794,13 +1737,12 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 21
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       },
       "nameless": true
     },
     {
-      "id": "kanzaburo",
+      "id": "kan-san-rou",
       "name": {
         "original_lang": "ja",
         "original": "寛三郎",
@@ -1815,7 +1757,7 @@
       }
     },
     {
-      "id": "dongurimaru",
+      "id": "donguri-gan",
       "name": {
         "original_lang": "ja",
         "original": "どんぐり丸",
@@ -1826,7 +1768,7 @@
       }
     },
     {
-      "id": "kakushi",
+      "id": "in",
       "name": {
         "original_lang": "ja",
         "original": "隠",
@@ -1851,8 +1793,7 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-mugen-train-tv",
-        "episode": 1
+        "work": "kimetsu-no-yaiba-mugen-train-tv"
       }
     },
     {
@@ -1866,12 +1807,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-mugen-train-tv",
-        "episode": 1
+        "work": "kimetsu-no-yaiba-mugen-train-tv"
       }
     },
     {
-      "id": "train-conductor",
+      "id": "sha-shou",
       "name": {
         "original_lang": "ja",
         "original": "車掌",
@@ -1888,7 +1828,7 @@
       "nameless": true
     },
     {
-      "id": "tuberculosis-youth",
+      "id": "ketsu-kaku-no-sei-nen",
       "name": {
         "original_lang": "ja",
         "original": "結核の青年",
@@ -1900,7 +1840,7 @@
       "nameless": true
     },
     {
-      "id": "braided-girl",
+      "id": "san-tsu-hen-mino-shou-jo",
       "name": {
         "original_lang": "ja",
         "original": "三つ編みの少女",
@@ -1912,7 +1852,7 @@
       "nameless": true
     },
     {
-      "id": "koinatsu",
+      "id": "ri-ka",
       "name": {
         "original_lang": "ja",
         "original": "鯉夏",
@@ -1942,7 +1882,7 @@
       }
     },
     {
-      "id": "suma",
+      "id": "shu-ma",
       "name": {
         "original_lang": "ja",
         "original": "須磨",
@@ -1957,7 +1897,7 @@
       }
     },
     {
-      "id": "hinatsuru",
+      "id": "suu-kaku",
       "name": {
         "original_lang": "ja",
         "original": "雛鶴",
@@ -1986,7 +1926,7 @@
       }
     },
     {
-      "id": "muscle-mouse",
+      "id": "mukimukinezumi",
       "name": {
         "original_lang": "ja",
         "original": "ムキムキねずみ",
@@ -2000,7 +1940,7 @@
       }
     },
     {
-      "id": "shizu-shinazugawa",
+      "id": "fu-shi-sen-shi-shin",
       "name": {
         "original_lang": "ja",
         "original": "不死川志津",
@@ -2011,12 +1951,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-katanakaji",
-        "episode": 6
+        "work": "kimetsu-no-yaiba-katanakaji"
       }
     },
     {
-      "id": "teiko-shinazugawa",
+      "id": "fu-shi-sen-tei-shi",
       "name": {
         "original_lang": "ja",
         "original": "不死川貞子",
@@ -2026,12 +1965,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-katanakaji",
-        "episode": 6
+        "work": "kimetsu-no-yaiba-katanakaji"
       }
     },
     {
-      "id": "sumi-shinazugawa",
+      "id": "fu-shi-sen-ju-bi",
       "name": {
         "original_lang": "ja",
         "original": "不死川寿美",
@@ -2041,12 +1979,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-katanakaji",
-        "episode": 6
+        "work": "kimetsu-no-yaiba-katanakaji"
       }
     },
     {
-      "id": "shuya-shinazugawa",
+      "id": "fu-shi-sen-shuu-ya",
       "name": {
         "original_lang": "ja",
         "original": "不死川就也",
@@ -2056,12 +1993,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-katanakaji",
-        "episode": 6
+        "work": "kimetsu-no-yaiba-katanakaji"
       }
     },
     {
-      "id": "hiroshi-shinazugawa",
+      "id": "fu-shi-sen-kou",
       "name": {
         "original_lang": "ja",
         "original": "不死川弘",
@@ -2071,12 +2007,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-katanakaji",
-        "episode": 6
+        "work": "kimetsu-no-yaiba-katanakaji"
       }
     },
     {
-      "id": "koto-shinazugawa",
+      "id": "fu-shi-sen-koto",
       "name": {
         "original_lang": "ja",
         "original": "不死川こと",
@@ -2086,12 +2021,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-katanakaji",
-        "episode": 6
+        "work": "kimetsu-no-yaiba-katanakaji"
       }
     },
     {
-      "id": "tokito-father",
+      "id": "ji-tou-no-fu",
       "name": {
         "original_lang": "ja",
         "original": "時透の父",
@@ -2101,12 +2035,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-katanakaji",
-        "episode": 7
+        "work": "kimetsu-no-yaiba-katanakaji"
       }
     },
     {
-      "id": "tokito-mother",
+      "id": "ji-tou-no-bo",
       "name": {
         "original_lang": "ja",
         "original": "時透の母",
@@ -2116,12 +2049,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-katanakaji",
-        "episode": 8
+        "work": "kimetsu-no-yaiba-katanakaji"
       }
     },
     {
-      "id": "yuichiro-tokito",
+      "id": "ji-tou-yuu-ichi-rou",
       "name": {
         "original_lang": "ja",
         "original": "時透有一郎",
@@ -2136,12 +2068,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-katanakaji",
-        "episode": 8
+        "work": "kimetsu-no-yaiba-katanakaji"
       }
     },
     {
-      "id": "inspector",
+      "id": "ken-sa-kan",
       "name": {
         "original_lang": "ja",
         "original": "検査官",
@@ -2153,7 +2084,7 @@
       "nameless": true
     },
     {
-      "id": "koyuki",
+      "id": "ren-setsu",
       "name": {
         "original_lang": "ja",
         "original": "恋雪",
@@ -2168,7 +2099,7 @@
       }
     },
     {
-      "id": "keizo",
+      "id": "kei-zou",
       "name": {
         "original_lang": "ja",
         "original": "慶蔵",
@@ -2183,7 +2114,7 @@
       }
     },
     {
-      "id": "hakuji-father",
+      "id": "haku-ji-no-fu",
       "name": {
         "original_lang": "ja",
         "original": "狛治の父",
@@ -2197,7 +2128,7 @@
       }
     },
     {
-      "id": "doma-father",
+      "id": "dou-ma-no-fu",
       "name": {
         "original_lang": "ja",
         "original": "童磨の父",
@@ -2208,7 +2139,7 @@
       }
     },
     {
-      "id": "doma-mother",
+      "id": "dou-ma-no-bo",
       "name": {
         "original_lang": "ja",
         "original": "童磨の母",
@@ -2219,7 +2150,7 @@
       }
     },
     {
-      "id": "shimamoto",
+      "id": "tou-hon",
       "name": {
         "original_lang": "ja",
         "original": "島本",
@@ -2233,7 +2164,7 @@
       }
     },
     {
-      "id": "noguchi",
+      "id": "ya-kou",
       "name": {
         "original_lang": "ja",
         "original": "野口",
@@ -2247,7 +2178,7 @@
       }
     },
     {
-      "id": "takeuchi",
+      "id": "chiku-dai",
       "name": {
         "original_lang": "ja",
         "original": "竹内",
@@ -2261,7 +2192,7 @@
       }
     },
     {
-      "id": "biwa-woman",
+      "id": "bi-ha-no-jo",
       "name": {
         "original_lang": "ja",
         "original": "琵琶の女",
@@ -2272,7 +2203,7 @@
       }
     },
     {
-      "id": "daki-sash",
+      "id": "da-ki-no-tai-no-ki",
       "name": {
         "original_lang": "ja",
         "original": "堕姫の帯の鬼",
@@ -2284,7 +2215,7 @@
       "nameless": true
     },
     {
-      "id": "kamuro",
+      "id": "toku",
       "name": {
         "original_lang": "ja",
         "original": "禿",
@@ -2296,20 +2227,19 @@
       "nameless": true
     },
     {
-      "id": "mansion-demon-2",
+      "id": "oku-fu-no-ki-2",
       "name": {
         "original_lang": "ja",
         "original": "屋敷の鬼2",
         "latin": "Mansion Demon 2"
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 12
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       },
       "nameless": true
     },
     {
-      "id": "masao-maeda",
+      "id": "zen-den-masao",
       "name": {
         "original_lang": "ja",
         "original": "前田まさお",
@@ -2323,7 +2253,7 @@
       }
     },
     {
-      "id": "mitsuri-father",
+      "id": "kan-ro-ji-no-fu",
       "name": {
         "original_lang": "ja",
         "original": "甘露寺の父",
@@ -2334,7 +2264,7 @@
       }
     },
     {
-      "id": "mitsuri-mother",
+      "id": "kan-ro-ji-no-bo",
       "name": {
         "original_lang": "ja",
         "original": "甘露寺の母",
@@ -2345,7 +2275,7 @@
       }
     },
     {
-      "id": "ozaki",
+      "id": "bi-ki",
       "name": {
         "original_lang": "ja",
         "original": "尾崎",
@@ -2355,12 +2285,11 @@
         }
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 16
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     },
     {
-      "id": "temple-children",
+      "id": "ji-no-shi-domotachi",
       "name": {
         "original_lang": "ja",
         "original": "寺の子どもたち",
@@ -2372,7 +2301,7 @@
       "nameless": true
     },
     {
-      "id": "toyo",
+      "id": "hou",
       "name": {
         "original_lang": "ja",
         "original": "豊",
@@ -2386,28 +2315,26 @@
       }
     },
     {
-      "id": "tsuzumi-mansion-demon",
+      "id": "ko-oku-fu-no-ki",
       "name": {
         "original_lang": "ja",
         "original": "鼓屋敷の鬼",
         "latin": "Tsuzumi Mansion Demon"
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 12
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       },
       "nameless": true
     },
     {
-      "id": "yocchan",
+      "id": "yotchan",
       "name": {
         "original_lang": "ja",
         "original": "よっちゃん",
         "latin": "Yocchan"
       },
       "first_appearance": {
-        "work": "kimetsu-no-yaiba-tanjiro-risshi",
-        "episode": 8
+        "work": "kimetsu-no-yaiba-tanjiro-risshi"
       }
     }
   ],

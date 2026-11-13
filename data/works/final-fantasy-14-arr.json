@@ -65,7 +65,7 @@
       "release_date": "2013-08-27",
       "credits": [
         {
-          "character": "minfilia-warde",
+          "character": "minfiria-uodo",
           "person": "taku-jou-miyuki",
           "role": "main",
           "part": "regular",
@@ -78,7 +78,7 @@
           ]
         },
         {
-          "character": "thancred-waters",
+          "character": "sankureddo-uotasu",
           "person": "chuu-son-yuu-ichi",
           "role": "main",
           "source_refs": [
@@ -90,7 +90,7 @@
           ]
         },
         {
-          "character": "yda-hext",
+          "character": "ida",
           "person": "en-tou-ryou",
           "role": "main",
           "source_refs": [
@@ -102,7 +102,7 @@
           ]
         },
         {
-          "character": "papalymo-totolymo",
+          "character": "paparimo-totorimo",
           "person": "ki-ta-son-ei-ri",
           "role": "main",
           "source_refs": [
@@ -114,7 +114,7 @@
           ]
         },
         {
-          "character": "yshtola-rhul",
+          "character": "ya-shutora-ruru",
           "person": "bou-ya-ai-i",
           "role": "main",
           "source_refs": [
@@ -126,7 +126,7 @@
           ]
         },
         {
-          "character": "urianger-augurelt",
+          "character": "urienje-ogyure",
           "person": "kenn",
           "role": "main",
           "source_refs": [
@@ -138,7 +138,7 @@
           ]
         },
         {
-          "character": "alphinaud-leveilleur",
+          "character": "arufino-ruveyuru",
           "person": "ritsu-ka-shin-shi-kai",
           "role": "main",
           "source_refs": [
@@ -161,7 +161,7 @@
           ]
         },
         {
-          "character": "louisoix-leveilleur",
+          "character": "ruizowa-ruveyuru",
           "person": "sei-sen-gen-mu",
           "role": "supporting",
           "source_refs": [
@@ -173,7 +173,7 @@
           ]
         },
         {
-          "character": "cid-garlond",
+          "character": "shido-nan-garondo",
           "person": "shou-san-ryoku-ya",
           "role": "main",
           "source_refs": [
@@ -185,7 +185,7 @@
           ]
         },
         {
-          "character": "biggs",
+          "character": "biggusu",
           "person": "sei-jou-gou",
           "role": "supporting",
           "source_refs": [
@@ -194,7 +194,7 @@
           ]
         },
         {
-          "character": "wedge",
+          "character": "uejji",
           "person": "kenn",
           "role": "supporting",
           "source_refs": [
@@ -204,7 +204,7 @@
           ]
         },
         {
-          "character": "nanamo-ul-namo",
+          "character": "nanamo-uru-namo",
           "person": "i-rai-matsu-chi-ya",
           "role": "supporting",
           "source_refs": [
@@ -214,7 +214,7 @@
           ]
         },
         {
-          "character": "raubahn-aldynn",
+          "character": "rauban-arudin",
           "person": "an-gen-you-ki",
           "role": "supporting",
           "source_refs": [
@@ -234,7 +234,7 @@
           ]
         },
         {
-          "character": "kan-e-senna",
+          "character": "kanu-e-senna",
           "person": "den-chuu-ri-kei",
           "role": "supporting",
           "source_refs": [
@@ -245,7 +245,7 @@
           ]
         },
         {
-          "character": "merlwyb-bloefhiswyn",
+          "character": "meruuibu-burufisuuin",
           "person": "den-chuu-ton-shi",
           "role": "supporting",
           "source_refs": [
@@ -256,7 +256,7 @@
           ]
         },
         {
-          "character": "eynzahr-slafyrsyn",
+          "character": "einzaru-surafirushin",
           "person": "ki-san-mo-yuu",
           "role": "minor",
           "source_refs": [
@@ -266,7 +266,7 @@
           ]
         },
         {
-          "character": "gaius-van-baelsar",
+          "character": "gaiusu-van-baesaru",
           "person": "tai-chou-mei-fu",
           "role": "supporting",
           "source_refs": [
@@ -278,7 +278,7 @@
           ]
         },
         {
-          "character": "nero-tol-scaeva",
+          "character": "nero-toru-sukaeua",
           "person": "hoku-taku-ryoku",
           "role": "supporting",
           "source_refs": [
@@ -290,7 +290,7 @@
           ]
         },
         {
-          "character": "livia-sas-junius",
+          "character": "riuia-sasu-yuniusu",
           "person": "tai-gen-sayaka",
           "role": "supporting",
           "source_refs": [
@@ -301,7 +301,7 @@
           ]
         },
         {
-          "character": "rhitahtyn-sas-arvina",
+          "character": "rittoatin-sasu-aruvina",
           "person": "en-tou-tai-chi",
           "role": "supporting",
           "source_refs": [
@@ -312,7 +312,7 @@
           ]
         },
         {
-          "character": "lahabrea",
+          "character": "ashien-rahaburea",
           "person": "chi-den-shuu-ichi",
           "role": "supporting",
           "source_refs": [
@@ -323,18 +323,17 @@
           ]
         },
         {
-          "character": "nabriales",
+          "character": "ashien-napuriaresu",
           "person": "kichi-den-shin-chou",
           "role": "minor",
           "source_refs": [
             "s23",
             "s33",
             "s34"
-          ],
-          "episodes": "2.1-2.55"
+          ]
         },
         {
-          "character": "hydaelyn",
+          "character": "haiderin",
           "person": "chi-den-shou-shi",
           "role": "supporting",
           "part": "replaced",
@@ -344,7 +343,7 @@
           ]
         },
         {
-          "character": "varis-zos-galvus",
+          "character": "varisu-zosu-garuvasu",
           "person": "chuu-den-jou-ji",
           "role": "minor",
           "source_refs": [
@@ -354,7 +353,7 @@
           ]
         },
         {
-          "character": "haurchefant-greystone",
+          "character": "orushufan-gureisuton",
           "person": "sei-den-ga-ichi",
           "role": "supporting",
           "source_refs": [
@@ -365,7 +364,7 @@
           ]
         },
         {
-          "character": "ysayle-dangoulain",
+          "character": "izeru-danguran",
           "person": "dai-den-shin-rei",
           "role": "supporting",
           "source_refs": [
@@ -373,8 +372,7 @@
             "s33",
             "s34",
             "s35"
-          ],
-          "episodes": "2.1-2.55"
+          ]
         },
         {
           "character": "shiva",
@@ -383,11 +381,10 @@
           "source_refs": [
             "s10",
             "s34"
-          ],
-          "episodes": "2.4"
+          ]
         },
         {
-          "character": "aymeric-de-borel",
+          "character": "aimeriku-do-boreru",
           "person": "rei-boku-tatsu-ou",
           "role": "minor",
           "source_refs": [
@@ -395,31 +392,28 @@
             "s33",
             "s34",
             "s35"
-          ],
-          "episodes": "2.4-2.55"
+          ]
         },
         {
-          "character": "moenbryda-wilfsunnwyn",
+          "character": "munburida-uirufusunuin",
           "person": "san-hon-yuu",
           "role": "supporting",
           "source_refs": [
             "s26",
             "s34"
-          ],
-          "episodes": "2.4-2.55"
+          ]
         },
         {
-          "character": "teledji-adeledji",
+          "character": "tereji-adereji",
           "person": "bu-ko",
           "role": "supporting",
           "source_refs": [
             "s5",
             "s34"
-          ],
-          "episodes": "2.2-2.55"
+          ]
         },
         {
-          "character": "lolorito-nanarito",
+          "character": "rororito-nanarito",
           "person": "izumi-shou",
           "role": "supporting",
           "source_refs": [
@@ -428,25 +422,23 @@
           ]
         },
         {
-          "character": "ilberd-feare",
+          "character": "iruberudo-fia",
           "person": "haku-yuu-kan-shi",
           "role": "supporting",
           "source_refs": [
             "s16",
             "s34"
-          ],
-          "episodes": "2.1-2.55"
+          ]
         },
         {
-          "character": "yugiri-mistwalker",
+          "character": "yuugiri",
           "person": "sa-tou-ri-na",
           "role": "supporting",
           "source_refs": [
             "s33",
             "s34",
             "s35"
-          ],
-          "episodes": "2.2-2.55"
+          ]
         },
         {
           "character": "garuda",
@@ -458,14 +450,13 @@
           ]
         },
         {
-          "character": "ramuh",
+          "character": "ramuu",
           "person": "gan-ya-ichi-gen",
           "role": "minor",
           "source_refs": [
             "s15",
             "s34"
-          ],
-          "episodes": "2.3"
+          ]
         }
       ]
     },
@@ -496,7 +487,7 @@
       "release_date": "2015-08-14",
       "credits": [
         {
-          "character": "minfilia-warde",
+          "character": "minfiria-uodo",
           "person": "jeong-mi-suk",
           "role": "main",
           "source_refs": [
@@ -505,7 +496,7 @@
           ]
         },
         {
-          "character": "thancred-waters",
+          "character": "sankureddo-uotasu",
           "person": "bak-seong-tae",
           "role": "main",
           "source_refs": [
@@ -514,7 +505,7 @@
           ]
         },
         {
-          "character": "yda-hext",
+          "character": "ida",
           "person": "gim-ha-yeong",
           "role": "main",
           "source_refs": [
@@ -523,7 +514,7 @@
           "verification": "unverified"
         },
         {
-          "character": "papalymo-totolymo",
+          "character": "paparimo-totorimo",
           "person": "gim-bo-yeong",
           "role": "main",
           "source_refs": [
@@ -532,7 +523,7 @@
           "verification": "unverified"
         },
         {
-          "character": "yshtola-rhul",
+          "character": "ya-shutora-ruru",
           "person": "gim-hyeon-sim",
           "role": "main",
           "source_refs": [
@@ -541,7 +532,7 @@
           "verification": "unverified"
         },
         {
-          "character": "urianger-augurelt",
+          "character": "urienje-ogyure",
           "person": "gim-guk-jin",
           "role": "main",
           "source_refs": [
@@ -550,7 +541,7 @@
           "verification": "unverified"
         },
         {
-          "character": "alphinaud-leveilleur",
+          "character": "arufino-ruveyuru",
           "person": "gim-yeong-seon",
           "role": "main",
           "source_refs": [
@@ -568,7 +559,7 @@
           "verification": "unverified"
         },
         {
-          "character": "louisoix-leveilleur",
+          "character": "ruizowa-ruveyuru",
           "person": "on-yeong-sam",
           "role": "supporting",
           "source_refs": [
@@ -577,7 +568,7 @@
           "verification": "unverified"
         },
         {
-          "character": "cid-garlond",
+          "character": "shido-nan-garondo",
           "person": "gim-seung-jun",
           "role": "main",
           "source_refs": [
@@ -586,7 +577,7 @@
           "verification": "unverified"
         },
         {
-          "character": "biggs",
+          "character": "biggusu",
           "person": "gim-so-hyeong",
           "role": "supporting",
           "source_refs": [
@@ -595,7 +586,7 @@
           "verification": "unverified"
         },
         {
-          "character": "wedge",
+          "character": "uejji",
           "person": "gim-yeong-chan",
           "role": "supporting",
           "note": {
@@ -616,7 +607,7 @@
           "verification": "unverified"
         },
         {
-          "character": "nanamo-ul-namo",
+          "character": "nanamo-uru-namo",
           "person": "an-yeong-mi",
           "role": "supporting",
           "source_refs": [
@@ -625,7 +616,7 @@
           ]
         },
         {
-          "character": "raubahn-aldynn",
+          "character": "rauban-arudin",
           "person": "choe-han",
           "role": "supporting",
           "source_refs": [
@@ -643,7 +634,7 @@
           "verification": "unverified"
         },
         {
-          "character": "kan-e-senna",
+          "character": "kanu-e-senna",
           "person": "bak-hui-eun",
           "role": "supporting",
           "source_refs": [
@@ -652,7 +643,7 @@
           "verification": "unverified"
         },
         {
-          "character": "merlwyb-bloefhiswyn",
+          "character": "meruuibu-burufisuuin",
           "person": "jeong-yu-mi",
           "role": "supporting",
           "source_refs": [
@@ -661,7 +652,7 @@
           "verification": "unverified"
         },
         {
-          "character": "eynzahr-slafyrsyn",
+          "character": "einzaru-surafirushin",
           "person": "son-won-il",
           "role": "minor",
           "part": "replaced",
@@ -671,7 +662,7 @@
           "verification": "unverified"
         },
         {
-          "character": "gaius-van-baelsar",
+          "character": "gaiusu-van-baesaru",
           "person": "si-yeong-jun",
           "role": "supporting",
           "source_refs": [
@@ -680,7 +671,7 @@
           "verification": "unverified"
         },
         {
-          "character": "nero-tol-scaeva",
+          "character": "nero-toru-sukaeua",
           "person": "gim-guk-jin",
           "role": "supporting",
           "source_refs": [
@@ -689,7 +680,7 @@
           "verification": "unverified"
         },
         {
-          "character": "livia-sas-junius",
+          "character": "riuia-sasu-yuniusu",
           "person": "gim-hyeon-sim",
           "role": "supporting",
           "source_refs": [
@@ -698,7 +689,7 @@
           "verification": "unverified"
         },
         {
-          "character": "rhitahtyn-sas-arvina",
+          "character": "rittoatin-sasu-aruvina",
           "person": "choe-han",
           "role": "supporting",
           "source_refs": [
@@ -707,7 +698,7 @@
           ]
         },
         {
-          "character": "lahabrea",
+          "character": "ashien-rahaburea",
           "person": "gim-yeong-chan",
           "role": "supporting",
           "source_refs": [
@@ -716,17 +707,16 @@
           ]
         },
         {
-          "character": "nabriales",
+          "character": "ashien-napuriaresu",
           "person": "song-jun-seok",
           "role": "minor",
-          "episodes": "2.1-2.55",
           "source_refs": [
             "s36"
           ],
           "verification": "unverified"
         },
         {
-          "character": "hydaelyn",
+          "character": "haiderin",
           "person": "son-jeong-a",
           "role": "supporting",
           "source_refs": [
@@ -735,7 +725,7 @@
           "verification": "unverified"
         },
         {
-          "character": "varis-zos-galvus",
+          "character": "varisu-zosu-garuvasu",
           "person": "song-jun-seok",
           "role": "minor",
           "source_refs": [
@@ -744,7 +734,7 @@
           "verification": "unverified"
         },
         {
-          "character": "haurchefant-greystone",
+          "character": "orushufan-gureisuton",
           "person": "choe-seung-hun",
           "role": "supporting",
           "source_refs": [
@@ -753,10 +743,9 @@
           ]
         },
         {
-          "character": "ysayle-dangoulain",
+          "character": "izeru-danguran",
           "person": "i-ji-yeong",
           "role": "supporting",
-          "episodes": "2.1-2.55",
           "source_refs": [
             "s36"
           ],
@@ -766,44 +755,40 @@
           "character": "shiva",
           "person": "i-ji-yeong",
           "role": "minor",
-          "episodes": "2.4",
           "source_refs": [
             "s36"
           ],
           "verification": "unverified"
         },
         {
-          "character": "aymeric-de-borel",
+          "character": "aimeriku-do-boreru",
           "person": "gang-ho-cheol",
           "role": "minor",
-          "episodes": "2.4-2.55",
           "source_refs": [
             "s46",
             "s36"
           ]
         },
         {
-          "character": "moenbryda-wilfsunnwyn",
+          "character": "munburida-uirufusunuin",
           "person": "bak-gyeong-hye",
           "role": "supporting",
-          "episodes": "2.4-2.55",
           "source_refs": [
             "s47",
             "s36"
           ]
         },
         {
-          "character": "teledji-adeledji",
+          "character": "tereji-adereji",
           "person": "bak-seong-tae",
           "role": "supporting",
-          "episodes": "2.2-2.55",
           "source_refs": [
             "s36"
           ],
           "verification": "unverified"
         },
         {
-          "character": "lolorito-nanarito",
+          "character": "rororito-nanarito",
           "person": "gim-so-hyeong",
           "role": "supporting",
           "source_refs": [
@@ -812,20 +797,18 @@
           "verification": "unverified"
         },
         {
-          "character": "ilberd-feare",
+          "character": "iruberudo-fia",
           "person": "song-jun-seok",
           "role": "supporting",
-          "episodes": "2.1-2.55",
           "source_refs": [
             "s36"
           ],
           "verification": "unverified"
         },
         {
-          "character": "yugiri-mistwalker",
+          "character": "yuugiri",
           "person": "jo-hyeon-jeong",
           "role": "supporting",
-          "episodes": "2.2-2.55",
           "source_refs": [
             "s36"
           ],
@@ -852,10 +835,9 @@
           ]
         },
         {
-          "character": "ramuh",
+          "character": "ramuu",
           "person": "on-yeong-sam",
           "role": "minor",
-          "episodes": "2.3",
           "source_refs": [
             "s36"
           ],

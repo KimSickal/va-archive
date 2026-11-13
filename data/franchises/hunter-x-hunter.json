@@ -32,7 +32,7 @@
   },
   "characters": [
     {
-      "id": "gon-freecss",
+      "id": "gon-furikusu",
       "name": {
         "original_lang": "ja",
         "original": "ゴン＝フリークス",
@@ -42,8 +42,7 @@
         }
       },
       "first_appearance": {
-        "work": "hunter-x-hunter-2011",
-        "episode": 1
+        "work": "hunter-x-hunter-2011"
       },
       "image": {
         "url": "https://www.ntv.co.jp/hunterhunter/character/images/main_gon.gif",
@@ -59,7 +58,7 @@
       }
     },
     {
-      "id": "killua-zoldyck",
+      "id": "kirua-zorudikku",
       "name": {
         "original_lang": "ja",
         "original": "キルア＝ゾルディック",
@@ -69,8 +68,7 @@
         }
       },
       "first_appearance": {
-        "work": "hunter-x-hunter-2011",
-        "episode": 3
+        "work": "hunter-x-hunter-2011"
       },
       "image": {
         "url": "https://www.ntv.co.jp/hunterhunter/character/images/main_kirua.gif",
@@ -95,8 +93,7 @@
         }
       },
       "first_appearance": {
-        "work": "hunter-x-hunter-2011",
-        "episode": 1
+        "work": "hunter-x-hunter-2011"
       },
       "image": {
         "url": "https://www.ntv.co.jp/hunterhunter/character/images/main_kurapika.gif",
@@ -111,7 +108,7 @@
       }
     },
     {
-      "id": "leorio-paradinight",
+      "id": "reorio-paradinaito",
       "name": {
         "original_lang": "ja",
         "original": "レオリオ＝パラディナイト",
@@ -126,8 +123,7 @@
         }
       },
       "first_appearance": {
-        "work": "hunter-x-hunter-2011",
-        "episode": 1
+        "work": "hunter-x-hunter-2011"
       },
       "image": {
         "url": "https://www.ntv.co.jp/hunterhunter/character/images/main_reorio.gif",
@@ -159,8 +155,7 @@
         }
       },
       "first_appearance": {
-        "work": "hunter-x-hunter-2011",
-        "episode": 3
+        "work": "hunter-x-hunter-2011"
       },
       "image": {
         "url": "https://www.ntv.co.jp/hunterhunter/character/images/main_hisoka.gif",
@@ -171,7 +166,7 @@
       }
     },
     {
-      "id": "ging-freecss",
+      "id": "jin-furikusu",
       "name": {
         "original_lang": "ja",
         "original": "ジン＝フリークス",
@@ -197,15 +192,14 @@
       }
     },
     {
-      "id": "kite",
+      "id": "kaito",
       "name": {
         "original_lang": "ja",
         "original": "カイト",
         "latin": "Kite"
       },
       "first_appearance": {
-        "work": "hunter-x-hunter-2011",
-        "episode": 1
+        "work": "hunter-x-hunter-2011"
       },
       "image": {
         "url": "https://www.ntv.co.jp/hunterhunter/character/images/main_kaito.gif",
@@ -216,7 +210,7 @@
       }
     },
     {
-      "id": "crazy-slots",
+      "id": "ki-kyou-ipiero",
       "name": {
         "original_lang": "ja",
         "original": "気狂いピエロ",
@@ -232,7 +226,7 @@
       }
     },
     {
-      "id": "mito-freecss",
+      "id": "mito",
       "name": {
         "original_lang": "ja",
         "original": "ミト",
@@ -247,8 +241,7 @@
         }
       },
       "first_appearance": {
-        "work": "hunter-x-hunter-2011",
-        "episode": 1
+        "work": "hunter-x-hunter-2011"
       },
       "image": {
         "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_mito.gif",
@@ -259,7 +252,7 @@
       }
     },
     {
-      "id": "gons-great-grandmother-2011",
+      "id": "gonno-so-so-bo",
       "name": {
         "original_lang": "ja",
         "original": "ゴンの曾祖母",
@@ -292,7 +285,7 @@
       }
     },
     {
-      "id": "pokkle",
+      "id": "pokkuru",
       "name": {
         "original_lang": "ja",
         "original": "ポックル",
@@ -334,7 +327,7 @@
       }
     },
     {
-      "id": "nicholas",
+      "id": "nikoru",
       "name": {
         "original_lang": "ja",
         "original": "ニコル",
@@ -391,8 +384,7 @@
         }
       },
       "first_appearance": {
-        "work": "hunter-x-hunter-2011",
-        "episode": 3
+        "work": "hunter-x-hunter-2011"
       },
       "image": {
         "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_tonpa.gif",
@@ -466,7 +458,7 @@
       }
     },
     {
-      "id": "sommy",
+      "id": "somi",
       "name": {
         "original_lang": "ja",
         "original": "ソミー",
@@ -484,7 +476,7 @@
       }
     },
     {
-      "id": "kyu",
+      "id": "kyuu",
       "name": {
         "original_lang": "ja",
         "original": "キュウ",
@@ -526,7 +518,7 @@
       }
     },
     {
-      "id": "geretta",
+      "id": "gereta",
       "name": {
         "original_lang": "ja",
         "original": "ゲレタ",
@@ -547,7 +539,7 @@
       }
     },
     {
-      "id": "goz",
+      "id": "gozu",
       "name": {
         "original_lang": "ja",
         "original": "ゴズ",
@@ -589,7 +581,7 @@
       }
     },
     {
-      "id": "cherry",
+      "id": "cheri",
       "name": {
         "original_lang": "ja",
         "original": "チェリー",
@@ -607,7 +599,7 @@
       }
     },
     {
-      "id": "applicant-86-2011",
+      "id": "ju-ken-ban-gou-86-ban-no-dan-sei",
       "name": {
         "original_lang": "ja",
         "original": "受験番号86番の男性",
@@ -619,7 +611,7 @@
       "nameless": true
     },
     {
-      "id": "satotz",
+      "id": "satotsu",
       "name": {
         "original_lang": "ja",
         "original": "サトツ",
@@ -629,8 +621,7 @@
         }
       },
       "first_appearance": {
-        "work": "hunter-x-hunter-2011",
-        "episode": 3
+        "work": "hunter-x-hunter-2011"
       },
       "image": {
         "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_satotsu.gif",
@@ -651,8 +642,7 @@
         }
       },
       "first_appearance": {
-        "work": "hunter-x-hunter-2011",
-        "episode": 6
+        "work": "hunter-x-hunter-2011"
       },
       "image": {
         "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_menchi.gif",
@@ -689,7 +679,7 @@
       }
     },
     {
-      "id": "lippo",
+      "id": "rippo",
       "name": {
         "original_lang": "ja",
         "original": "リッポー",
@@ -710,7 +700,7 @@
       }
     },
     {
-      "id": "masta",
+      "id": "masuta",
       "name": {
         "original_lang": "ja",
         "original": "マスタ",
@@ -746,7 +736,7 @@
       }
     },
     {
-      "id": "bendot",
+      "id": "bendotto",
       "name": {
         "original_lang": "ja",
         "original": "ベンドット",
@@ -809,7 +799,7 @@
       }
     },
     {
-      "id": "leroute",
+      "id": "reruto",
       "name": {
         "original_lang": "ja",
         "original": "レルート",
@@ -830,7 +820,7 @@
       }
     },
     {
-      "id": "johness",
+      "id": "jonesu",
       "name": {
         "original_lang": "ja",
         "original": "ジョネス",
@@ -872,7 +862,7 @@
       }
     },
     {
-      "id": "ship-captain-2011",
+      "id": "sen-chou",
       "name": {
         "original_lang": "ja",
         "original": "船長",
@@ -887,7 +877,7 @@
       "nameless": true
     },
     {
-      "id": "katzo",
+      "id": "kattso",
       "name": {
         "original_lang": "ja",
         "original": "カッツォ",
@@ -901,7 +891,7 @@
       }
     },
     {
-      "id": "quiz-old-woman-2011",
+      "id": "rou-ba-dokidoki-2-taku-kuizu",
       "name": {
         "original_lang": "ja",
         "original": "老婆（ドキドキ2択クイズ）",
@@ -921,7 +911,7 @@
       "nameless": true
     },
     {
-      "id": "kiriko-couple",
+      "id": "kyou-ri-ko-fu-fu",
       "name": {
         "original_lang": "ja",
         "original": "凶狸狐（夫婦）",
@@ -940,7 +930,7 @@
       }
     },
     {
-      "id": "kiriko-son",
+      "id": "kyou-ri-ko-soku-shi",
       "name": {
         "original_lang": "ja",
         "original": "凶狸狐（息子）",
@@ -959,7 +949,7 @@
       }
     },
     {
-      "id": "kiriko-daughter",
+      "id": "kyou-ri-ko-jou",
       "name": {
         "original_lang": "ja",
         "original": "凶狸狐（娘）",
@@ -978,7 +968,7 @@
       }
     },
     {
-      "id": "diner-owner-2011",
+      "id": "oyaji-tei-shoku-oku",
       "name": {
         "original_lang": "ja",
         "original": "オヤジ（定食屋）",
@@ -990,7 +980,7 @@
       "nameless": true
     },
     {
-      "id": "fake-examiner-2011",
+      "id": "gi-shi-ken-kan",
       "name": {
         "original_lang": "ja",
         "original": "偽試験官",
@@ -1002,7 +992,7 @@
       "nameless": true
     },
     {
-      "id": "gittarackur",
+      "id": "gitarakuru",
       "name": {
         "original_lang": "ja",
         "original": "ギタラクル",
@@ -1023,7 +1013,7 @@
       }
     },
     {
-      "id": "bus-guide-2011",
+      "id": "basugaido",
       "name": {
         "original_lang": "ja",
         "original": "バスガイド",
@@ -1045,7 +1035,7 @@
       }
     },
     {
-      "id": "isaac-netero",
+      "id": "aizakku-netero",
       "name": {
         "original_lang": "ja",
         "original": "アイザック＝ネテロ",
@@ -1060,8 +1050,7 @@
         }
       },
       "first_appearance": {
-        "work": "hunter-x-hunter-2011",
-        "episode": 6
+        "work": "hunter-x-hunter-2011"
       },
       "image": {
         "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_netero.gif",
@@ -1072,7 +1061,7 @@
       }
     },
     {
-      "id": "pariston-hill",
+      "id": "parisuton-hiru",
       "name": {
         "original_lang": "ja",
         "original": "パリストン＝ヒル",
@@ -1083,7 +1072,7 @@
       }
     },
     {
-      "id": "mizaistom-nana",
+      "id": "mizaisutomu-nana",
       "name": {
         "original_lang": "ja",
         "original": "ミザイストム＝ナナ",
@@ -1127,7 +1116,7 @@
       }
     },
     {
-      "id": "gel",
+      "id": "geru",
       "name": {
         "original_lang": "ja",
         "original": "ゲル",
@@ -1138,7 +1127,7 @@
       }
     },
     {
-      "id": "saccho-kobayakawa",
+      "id": "satchou-kobayakawa",
       "name": {
         "original_lang": "ja",
         "original": "サッチョウ＝コバヤカワ",
@@ -1160,7 +1149,7 @@
       }
     },
     {
-      "id": "saiyu",
+      "id": "saiyuu",
       "name": {
         "original_lang": "ja",
         "original": "サイユウ",
@@ -1171,7 +1160,7 @@
       }
     },
     {
-      "id": "clook",
+      "id": "kurukku",
       "name": {
         "original_lang": "ja",
         "original": "クルック",
@@ -1182,7 +1171,7 @@
       }
     },
     {
-      "id": "cheadle-yorkshire",
+      "id": "chidoru-yokusha",
       "name": {
         "original_lang": "ja",
         "original": "チードル＝ヨークシャー",
@@ -1193,7 +1182,7 @@
       }
     },
     {
-      "id": "beans",
+      "id": "mamen-binzu",
       "name": {
         "original_lang": "ja",
         "original": "マーメン＝ビーンズ",
@@ -1222,7 +1211,7 @@
       }
     },
     {
-      "id": "cocco",
+      "id": "kokko",
       "name": {
         "original_lang": "ja",
         "original": "コッコ",
@@ -1236,7 +1225,7 @@
       }
     },
     {
-      "id": "arena-200th-floor-guide-2011",
+      "id": "200-kai-kurasuno-an-dai-kei",
       "name": {
         "original_lang": "ja",
         "original": "200階クラスの案内係",
@@ -1248,7 +1237,7 @@
       "nameless": true
     },
     {
-      "id": "arena-elevator-girl-2011",
+      "id": "erebetagaru-ten-kuu-tou-gi-jou",
       "name": {
         "original_lang": "ja",
         "original": "エレベーターガール（天空闘技場）",
@@ -1260,7 +1249,7 @@
       "nameless": true
     },
     {
-      "id": "arena-receptionist-2011",
+      "id": "ju-fu-jou-ten-kuu-tou-gi-jou",
       "name": {
         "original_lang": "ja",
         "original": "受付嬢（天空闘技場）",
@@ -1272,7 +1261,7 @@
       "nameless": true
     },
     {
-      "id": "arena-referee-2011",
+      "id": "shin-han-ten-kuu-tou-gi-jou",
       "name": {
         "original_lang": "ja",
         "original": "審判（天空闘技場）",
@@ -1287,7 +1276,7 @@
       "nameless": true
     },
     {
-      "id": "arena-commentator-2011",
+      "id": "hyou-ron-ka-ten-kuu-tou-gi-jou",
       "name": {
         "original_lang": "ja",
         "original": "評論家（天空闘技場）",
@@ -1299,7 +1288,7 @@
       "nameless": true
     },
     {
-      "id": "wing",
+      "id": "uingu",
       "name": {
         "original_lang": "ja",
         "original": "ウイング",
@@ -1309,8 +1298,7 @@
         }
       },
       "first_appearance": {
-        "work": "hunter-x-hunter-2011",
-        "episode": 27
+        "work": "hunter-x-hunter-2011"
       },
       "image": {
         "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_wing.gif",
@@ -1331,8 +1319,7 @@
         }
       },
       "first_appearance": {
-        "work": "hunter-x-hunter-2011",
-        "episode": 27
+        "work": "hunter-x-hunter-2011"
       },
       "image": {
         "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_zushi.gif",
@@ -1343,7 +1330,7 @@
       }
     },
     {
-      "id": "kastro",
+      "id": "kasutoro",
       "name": {
         "original_lang": "ja",
         "original": "カストロ",
@@ -1403,7 +1390,7 @@
       }
     },
     {
-      "id": "riehlvelt",
+      "id": "riruberuto",
       "name": {
         "original_lang": "ja",
         "original": "リールベルト",
@@ -1424,7 +1411,7 @@
       }
     },
     {
-      "id": "izunavi",
+      "id": "izunabi",
       "name": {
         "original_lang": "ja",
         "original": "イズナビ",
@@ -1453,7 +1440,7 @@
       }
     },
     {
-      "id": "illumi-zoldyck",
+      "id": "irumi-zorudikku",
       "name": {
         "original_lang": "ja",
         "original": "イルミ＝ゾルディック",
@@ -1463,8 +1450,7 @@
         }
       },
       "first_appearance": {
-        "work": "hunter-x-hunter-2011",
-        "episode": 20
+        "work": "hunter-x-hunter-2011"
       },
       "image": {
         "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_irumi.gif",
@@ -1475,7 +1461,7 @@
       }
     },
     {
-      "id": "milluki-zoldyck",
+      "id": "miruki-zorudikku",
       "name": {
         "original_lang": "ja",
         "original": "ミルキ＝ゾルディック",
@@ -1496,7 +1482,7 @@
       }
     },
     {
-      "id": "alluka-zoldyck",
+      "id": "aruka-zorudikku",
       "name": {
         "original_lang": "ja",
         "original": "アルカ＝ゾルディック",
@@ -1508,7 +1494,7 @@
       "spoiler": true
     },
     {
-      "id": "kalluto-zoldyck",
+      "id": "karuto-zorudikku",
       "name": {
         "original_lang": "ja",
         "original": "カルト＝ゾルディック",
@@ -1529,7 +1515,7 @@
       }
     },
     {
-      "id": "silva-zoldyck",
+      "id": "shiruba-zorudikku",
       "name": {
         "original_lang": "ja",
         "original": "シルバ＝ゾルディック",
@@ -1539,8 +1525,7 @@
         }
       },
       "first_appearance": {
-        "work": "hunter-x-hunter-2011",
-        "episode": 24
+        "work": "hunter-x-hunter-2011"
       },
       "image": {
         "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_shiruba.gif",
@@ -1551,7 +1536,7 @@
       }
     },
     {
-      "id": "kikyo-zoldyck",
+      "id": "kikyou-zorudikku",
       "name": {
         "original_lang": "ja",
         "original": "キキョウ＝ゾルディック",
@@ -1572,7 +1557,7 @@
       }
     },
     {
-      "id": "zeno-zoldyck",
+      "id": "zeno-zorudikku",
       "name": {
         "original_lang": "ja",
         "original": "ゼノ＝ゾルディック",
@@ -1582,8 +1567,7 @@
         }
       },
       "first_appearance": {
-        "work": "hunter-x-hunter-2011",
-        "episode": 24
+        "work": "hunter-x-hunter-2011"
       },
       "image": {
         "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_zeno.gif",
@@ -1594,7 +1578,7 @@
       }
     },
     {
-      "id": "gotoh",
+      "id": "goto",
       "name": {
         "original_lang": "ja",
         "original": "ゴトー",
@@ -1615,7 +1599,7 @@
       }
     },
     {
-      "id": "canary",
+      "id": "kanaria",
       "name": {
         "original_lang": "ja",
         "original": "カナリア",
@@ -1702,7 +1686,7 @@
       }
     },
     {
-      "id": "zebro",
+      "id": "zeburo",
       "name": {
         "original_lang": "ja",
         "original": "ゼブロ",
@@ -1723,7 +1707,7 @@
       }
     },
     {
-      "id": "seaquant",
+      "id": "shikuanto",
       "name": {
         "original_lang": "ja",
         "original": "シークアント",
@@ -1744,7 +1728,7 @@
       }
     },
     {
-      "id": "bounty-hunter-zoldyck-2011",
+      "id": "shou-kin-shu-hanta-tai-dan",
       "name": {
         "original_lang": "ja",
         "original": "賞金首ハンター（大男）",
@@ -1756,7 +1740,7 @@
       "nameless": true
     },
     {
-      "id": "kokol",
+      "id": "kokoru",
       "name": {
         "original_lang": "ja",
         "original": "ココル",
@@ -1788,7 +1772,7 @@
       }
     },
     {
-      "id": "bean",
+      "id": "bin",
       "name": {
         "original_lang": "ja",
         "original": "ビーン",
@@ -1809,7 +1793,7 @@
       }
     },
     {
-      "id": "beret-assassin-2011",
+      "id": "bere-bou-no-satsu-shi-oku",
       "name": {
         "original_lang": "ja",
         "original": "ベレー帽の殺し屋",
@@ -1821,7 +1805,7 @@
       "nameless": true
     },
     {
-      "id": "fukuro",
+      "id": "kyou",
       "name": {
         "original_lang": "ja",
         "original": "梟",
@@ -1848,7 +1832,7 @@
       }
     },
     {
-      "id": "mimizu",
+      "id": "kyuu-in",
       "name": {
         "original_lang": "ja",
         "original": "蚯蚓",
@@ -1875,7 +1859,7 @@
       }
     },
     {
-      "id": "yamainu",
+      "id": "byou-ken",
       "name": {
         "original_lang": "ja",
         "original": "病犬",
@@ -1899,7 +1883,7 @@
       }
     },
     {
-      "id": "yamaarashi",
+      "id": "gou-cho",
       "name": {
         "original_lang": "ja",
         "original": "豪猪",
@@ -1926,7 +1910,7 @@
       }
     },
     {
-      "id": "hiru",
+      "id": "shitsu",
       "name": {
         "original_lang": "ja",
         "original": "蛭",
@@ -1950,7 +1934,7 @@
       }
     },
     {
-      "id": "light-nostrade",
+      "id": "raito-nosutorado",
       "name": {
         "original_lang": "ja",
         "original": "ライト＝ノストラード",
@@ -1971,7 +1955,7 @@
       }
     },
     {
-      "id": "neon-nostrade",
+      "id": "neon-nosutorado",
       "name": {
         "original_lang": "ja",
         "original": "ネオン＝ノストラード",
@@ -1992,7 +1976,7 @@
       }
     },
     {
-      "id": "eliza",
+      "id": "eriza",
       "name": {
         "original_lang": "ja",
         "original": "エリザ",
@@ -2013,7 +1997,7 @@
       }
     },
     {
-      "id": "old-butler-nostrade-2011",
+      "id": "rou-shitsu-ji-nosutorado-ka",
       "name": {
         "original_lang": "ja",
         "original": "老執事（ノストラード家）",
@@ -2025,7 +2009,7 @@
       "nameless": true
     },
     {
-      "id": "dalzollene",
+      "id": "darutsorune",
       "name": {
         "original_lang": "ja",
         "original": "ダルツォルネ",
@@ -2072,7 +2056,7 @@
       }
     },
     {
-      "id": "basho",
+      "id": "bashou",
       "name": {
         "original_lang": "ja",
         "original": "バショウ",
@@ -2093,7 +2077,7 @@
       }
     },
     {
-      "id": "squala",
+      "id": "sukuwara",
       "name": {
         "original_lang": "ja",
         "original": "スクワラ",
@@ -2114,7 +2098,7 @@
       }
     },
     {
-      "id": "vezze",
+      "id": "veze",
       "name": {
         "original_lang": "ja",
         "original": "ヴェーゼ",
@@ -2135,7 +2119,7 @@
       }
     },
     {
-      "id": "tocino",
+      "id": "shatchimono-tochino",
       "name": {
         "original_lang": "ja",
         "original": "シャッチモーノ＝トチーノ",
@@ -2164,7 +2148,7 @@
       }
     },
     {
-      "id": "ivlenkov",
+      "id": "iwarenkofu",
       "name": {
         "original_lang": "ja",
         "original": "イワレンコフ",
@@ -2182,7 +2166,7 @@
       }
     },
     {
-      "id": "zepile",
+      "id": "zepairu",
       "name": {
         "original_lang": "ja",
         "original": "ゼパイル",
@@ -2203,7 +2187,7 @@
       }
     },
     {
-      "id": "skinhead-man-2011",
+      "id": "sukinheddono-dan",
       "name": {
         "original_lang": "ja",
         "original": "スキンヘッドの男",
@@ -2215,7 +2199,7 @@
       "nameless": true
     },
     {
-      "id": "chrollo-lucilfer",
+      "id": "kuroro-rushirufuru",
       "name": {
         "original_lang": "ja",
         "original": "クロロ＝ルシルフル",
@@ -2262,7 +2246,7 @@
       }
     },
     {
-      "id": "feitan-portor",
+      "id": "feitan-potoo",
       "name": {
         "original_lang": "ja",
         "original": "フェイタン＝ポートオ",
@@ -2288,7 +2272,7 @@
       }
     },
     {
-      "id": "machi-komacine",
+      "id": "machi-komachine",
       "name": {
         "original_lang": "ja",
         "original": "マチ＝コマチネ",
@@ -2314,7 +2298,7 @@
       }
     },
     {
-      "id": "phinks-magcub",
+      "id": "finkusu-magukabu",
       "name": {
         "original_lang": "ja",
         "original": "フィンクス＝マグカブ",
@@ -2340,7 +2324,7 @@
       }
     },
     {
-      "id": "shalnark",
+      "id": "sharunaku",
       "name": {
         "original_lang": "ja",
         "original": "シャルナーク",
@@ -2361,7 +2345,7 @@
       }
     },
     {
-      "id": "franklin-bordeaux",
+      "id": "furankurin-borudo",
       "name": {
         "original_lang": "ja",
         "original": "フランクリン＝ボルドー",
@@ -2413,7 +2397,7 @@
       }
     },
     {
-      "id": "deme-chan",
+      "id": "demechan",
       "name": {
         "original_lang": "ja",
         "original": "デメちゃん",
@@ -2448,7 +2432,7 @@
       }
     },
     {
-      "id": "bonolenov-ndongo",
+      "id": "bonorenofu-ndongo",
       "name": {
         "original_lang": "ja",
         "original": "ボノレノフ＝ンドンゴ",
@@ -2471,7 +2455,7 @@
       }
     },
     {
-      "id": "uvogin",
+      "id": "ubogin",
       "name": {
         "original_lang": "ja",
         "original": "ウボォーギン",
@@ -2492,7 +2476,7 @@
       }
     },
     {
-      "id": "kortopi",
+      "id": "korutopi",
       "name": {
         "original_lang": "ja",
         "original": "コルトピ",
@@ -2513,7 +2497,7 @@
       }
     },
     {
-      "id": "biscuit-krueger",
+      "id": "bisuketto-kuruga",
       "name": {
         "original_lang": "ja",
         "original": "ビスケット＝クルーガー",
@@ -2528,8 +2512,7 @@
         }
       },
       "first_appearance": {
-        "work": "hunter-x-hunter-2011",
-        "episode": 62
+        "work": "hunter-x-hunter-2011"
       },
       "image": {
         "url": "https://www.ntv.co.jp/hunterhunter/character/images/other_bisuke.gif",
@@ -2540,7 +2523,7 @@
       }
     },
     {
-      "id": "tsezguerra",
+      "id": "tsezugera",
       "name": {
         "original_lang": "ja",
         "original": "ツェズゲラ",
@@ -2561,7 +2544,7 @@
       }
     },
     {
-      "id": "barry",
+      "id": "bari",
       "name": {
         "original_lang": "ja",
         "original": "バリー",
@@ -2582,7 +2565,7 @@
       }
     },
     {
-      "id": "rodriot",
+      "id": "rodoriotto",
       "name": {
         "original_lang": "ja",
         "original": "ロドリオット",
@@ -2603,7 +2586,7 @@
       }
     },
     {
-      "id": "kess",
+      "id": "kesu",
       "name": {
         "original_lang": "ja",
         "original": "ケスー",
@@ -2645,7 +2628,7 @@
       }
     },
     {
-      "id": "genthru",
+      "id": "gensuru",
       "name": {
         "original_lang": "ja",
         "original": "ゲンスルー",
@@ -2687,7 +2670,7 @@
       }
     },
     {
-      "id": "sub",
+      "id": "sabu",
       "name": {
         "original_lang": "ja",
         "original": "サブ",
@@ -2708,7 +2691,7 @@
       }
     },
     {
-      "id": "nickes",
+      "id": "nikkesu",
       "name": {
         "original_lang": "ja",
         "original": "ニッケス",
@@ -2750,7 +2733,7 @@
       }
     },
     {
-      "id": "puhat",
+      "id": "puhatto",
       "name": {
         "original_lang": "ja",
         "original": "プーハット",
@@ -2771,7 +2754,7 @@
       }
     },
     {
-      "id": "jispa",
+      "id": "jisupa",
       "name": {
         "original_lang": "ja",
         "original": "ジスパー",
@@ -2792,7 +2775,7 @@
       }
     },
     {
-      "id": "assam",
+      "id": "assamu",
       "name": {
         "original_lang": "ja",
         "original": "アッサム",
@@ -2813,7 +2796,7 @@
       }
     },
     {
-      "id": "nomdu",
+      "id": "nomudeyu",
       "name": {
         "original_lang": "ja",
         "original": "ノームデュー",
@@ -2852,7 +2835,7 @@
       }
     },
     {
-      "id": "kontaci",
+      "id": "kontachi",
       "name": {
         "original_lang": "ja",
         "original": "コンターチ",
@@ -2863,7 +2846,7 @@
       }
     },
     {
-      "id": "razor",
+      "id": "reiza",
       "name": {
         "original_lang": "ja",
         "original": "レイザー",
@@ -2884,7 +2867,7 @@
       }
     },
     {
-      "id": "devil-no-0-2011",
+      "id": "14-jin-no-aku-ma-no-0",
       "name": {
         "original_lang": "ja",
         "original": "14人の悪魔（No.0）",
@@ -2896,7 +2879,7 @@
       "nameless": true
     },
     {
-      "id": "elena",
+      "id": "erena",
       "name": {
         "original_lang": "ja",
         "original": "エレナ",
@@ -2910,7 +2893,7 @@
       }
     },
     {
-      "id": "eeta",
+      "id": "ita",
       "name": {
         "original_lang": "ja",
         "original": "イータ",
@@ -2931,7 +2914,7 @@
       }
     },
     {
-      "id": "dwun",
+      "id": "dun",
       "name": {
         "original_lang": "ja",
         "original": "ドゥーン",
@@ -2952,7 +2935,7 @@
       }
     },
     {
-      "id": "list",
+      "id": "risuto",
       "name": {
         "original_lang": "ja",
         "original": "リスト",
@@ -2994,7 +2977,7 @@
       }
     },
     {
-      "id": "pirate-boxer-2011",
+      "id": "kai-zoku-bokusa",
       "name": {
         "original_lang": "ja",
         "original": "海賊（ボクサー）",
@@ -3006,7 +2989,7 @@
       "nameless": true
     },
     {
-      "id": "michael-288",
+      "id": "mihaeru",
       "name": {
         "original_lang": "ja",
         "original": "ミハエル",
@@ -3017,7 +3000,7 @@
       }
     },
     {
-      "id": "shop-clerk-288-2011",
+      "id": "ten-in-dai-288-ki-hanta-shi-ken",
       "name": {
         "original_lang": "ja",
         "original": "店員（第288期ハンター試験）",
@@ -3029,7 +3012,7 @@
       "nameless": true
     },
     {
-      "id": "first-phase-examiner-288-2011",
+      "id": "dai-288-ki-ichi-ji-shi-ken-kan",
       "name": {
         "original_lang": "ja",
         "original": "第288期一次試験官",
@@ -3062,7 +3045,7 @@
       }
     },
     {
-      "id": "binolt",
+      "id": "binoruto",
       "name": {
         "original_lang": "ja",
         "original": "ビノールト",
@@ -3122,7 +3105,7 @@
       }
     },
     {
-      "id": "gashta-bellam",
+      "id": "gashita-beramu",
       "name": {
         "original_lang": "ja",
         "original": "ガシタ＝ベラム",
@@ -3148,7 +3131,7 @@
       }
     },
     {
-      "id": "zetsk-bellam",
+      "id": "zetsuku-beramu",
       "name": {
         "original_lang": "ja",
         "original": "ゼツク＝ベラム",
@@ -3174,7 +3157,7 @@
       }
     },
     {
-      "id": "kazsule",
+      "id": "kazusuru",
       "name": {
         "original_lang": "ja",
         "original": "カヅスール",
@@ -3195,7 +3178,7 @@
       }
     },
     {
-      "id": "nick-q",
+      "id": "nikku-kyu",
       "name": {
         "original_lang": "ja",
         "original": "ニック＝キュー",
@@ -3213,7 +3196,7 @@
       }
     },
     {
-      "id": "souheil",
+      "id": "suuheiru",
       "name": {
         "original_lang": "ja",
         "original": "スウヘイル",
@@ -3234,7 +3217,7 @@
       }
     },
     {
-      "id": "asta",
+      "id": "asuta",
       "name": {
         "original_lang": "ja",
         "original": "アスタ",
@@ -3276,7 +3259,7 @@
       }
     },
     {
-      "id": "manheim",
+      "id": "manheimu",
       "name": {
         "original_lang": "ja",
         "original": "マンヘイム",
@@ -3315,7 +3298,7 @@
       }
     },
     {
-      "id": "montreux",
+      "id": "montoru",
       "name": {
         "original_lang": "ja",
         "original": "モントール",
@@ -3380,7 +3363,7 @@
       }
     },
     {
-      "id": "wong",
+      "id": "uon-yaku-jin",
       "name": {
         "original_lang": "ja",
         "original": "ウォン（役人）",
@@ -3391,7 +3374,7 @@
       }
     },
     {
-      "id": "stick-dinner",
+      "id": "sutikku-dina",
       "name": {
         "original_lang": "ja",
         "original": "スティック＝ディナー",
@@ -3414,7 +3397,7 @@
       }
     },
     {
-      "id": "banana-kavaro",
+      "id": "banana-kavao",
       "name": {
         "original_lang": "ja",
         "original": "バナナ＝カヴァーオ",
@@ -3437,7 +3420,7 @@
       }
     },
     {
-      "id": "lin-koshi",
+      "id": "rin-koushi",
       "name": {
         "original_lang": "ja",
         "original": "リン＝コウシ",
@@ -3460,7 +3443,7 @@
       }
     },
     {
-      "id": "spinner-clow",
+      "id": "supina-kurou",
       "name": {
         "original_lang": "ja",
         "original": "スピーナ＝クロウ",
@@ -3483,7 +3466,7 @@
       }
     },
     {
-      "id": "monta-yuras",
+      "id": "monta-yurasu",
       "name": {
         "original_lang": "ja",
         "original": "モンタ＝ユーラス",
@@ -3506,7 +3489,7 @@
       }
     },
     {
-      "id": "podungo-lapoy",
+      "id": "podongo-rapoi",
       "name": {
         "original_lang": "ja",
         "original": "ポドンゴ＝ラポイ",
@@ -3529,7 +3512,7 @@
       }
     },
     {
-      "id": "morel-mackernasey",
+      "id": "morau-makkanashi",
       "name": {
         "original_lang": "ja",
         "original": "モラウ＝マッカーナーシ",
@@ -3552,7 +3535,7 @@
       }
     },
     {
-      "id": "knov",
+      "id": "novu",
       "name": {
         "original_lang": "ja",
         "original": "ノヴ",
@@ -3570,7 +3553,7 @@
       }
     },
     {
-      "id": "palm-siberia",
+      "id": "pamu-shiberia",
       "name": {
         "original_lang": "ja",
         "original": "パーム＝シベリア",
@@ -3588,7 +3571,7 @@
       }
     },
     {
-      "id": "knuckle-bine",
+      "id": "nakkuru-bain",
       "name": {
         "original_lang": "ja",
         "original": "ナックル＝バイン",
@@ -3606,7 +3589,7 @@
       }
     },
     {
-      "id": "potclean",
+      "id": "pottokurin",
       "name": {
         "original_lang": "ja",
         "original": "ポットクリン",
@@ -3617,7 +3600,7 @@
       }
     },
     {
-      "id": "shoot-mcmahon",
+      "id": "shuto-makumahon",
       "name": {
         "original_lang": "ja",
         "original": "シュート＝マクマホン",
@@ -3651,7 +3634,7 @@
       }
     },
     {
-      "id": "bizeff",
+      "id": "bizefu",
       "name": {
         "original_lang": "ja",
         "original": "ビゼフ",
@@ -3669,7 +3652,7 @@
       }
     },
     {
-      "id": "marcos",
+      "id": "marukosu",
       "name": {
         "original_lang": "ja",
         "original": "マルコス",
@@ -3698,7 +3681,7 @@
       }
     },
     {
-      "id": "kurt",
+      "id": "kuruto",
       "name": {
         "original_lang": "ja",
         "original": "クルト",
@@ -3752,7 +3735,7 @@
       }
     },
     {
-      "id": "balda",
+      "id": "baruda",
       "name": {
         "original_lang": "ja",
         "original": "バルダー",
@@ -3788,7 +3771,7 @@
       }
     },
     {
-      "id": "chimera-ant-queen",
+      "id": "jo-ou-kimera-anto",
       "name": {
         "original_lang": "ja",
         "original": "女王（キメラ＝アント）",
@@ -3811,7 +3794,7 @@
       }
     },
     {
-      "id": "meruem",
+      "id": "meruemu",
       "name": {
         "original_lang": "ja",
         "original": "メルエム",
@@ -3834,7 +3817,7 @@
       }
     },
     {
-      "id": "neferpitou",
+      "id": "neferupito",
       "name": {
         "original_lang": "ja",
         "original": "ネフェルピトー",
@@ -3852,7 +3835,7 @@
       }
     },
     {
-      "id": "shaiapouf",
+      "id": "shauapufu",
       "name": {
         "original_lang": "ja",
         "original": "シャウアプフ",
@@ -3870,7 +3853,7 @@
       }
     },
     {
-      "id": "menthuthuyoupi",
+      "id": "montutuyupi",
       "name": {
         "original_lang": "ja",
         "original": "モントゥトゥユピー",
@@ -3888,7 +3871,7 @@
       }
     },
     {
-      "id": "colt",
+      "id": "koruto",
       "name": {
         "original_lang": "ja",
         "original": "コルト",
@@ -3906,7 +3889,7 @@
       }
     },
     {
-      "id": "cheetu",
+      "id": "jitu",
       "name": {
         "original_lang": "ja",
         "original": "ヂートゥ",
@@ -3924,7 +3907,7 @@
       }
     },
     {
-      "id": "peggy",
+      "id": "pegi",
       "name": {
         "original_lang": "ja",
         "original": "ペギー",
@@ -3960,7 +3943,7 @@
       }
     },
     {
-      "id": "leol",
+      "id": "reoru",
       "name": {
         "original_lang": "ja",
         "original": "レオル",
@@ -3986,7 +3969,7 @@
       }
     },
     {
-      "id": "bihorn",
+      "id": "bihon",
       "name": {
         "original_lang": "ja",
         "original": "ビホーン",
@@ -4004,7 +3987,7 @@
       }
     },
     {
-      "id": "brovada",
+      "id": "burovuda",
       "name": {
         "original_lang": "ja",
         "original": "ブロヴーダ",
@@ -4022,7 +4005,7 @@
       }
     },
     {
-      "id": "welfin",
+      "id": "uerufin",
       "name": {
         "original_lang": "ja",
         "original": "ウェルフィン",
@@ -4040,7 +4023,7 @@
       }
     },
     {
-      "id": "meleoron",
+      "id": "mereoron",
       "name": {
         "original_lang": "ja",
         "original": "メレオロン",
@@ -4058,7 +4041,7 @@
       }
     },
     {
-      "id": "vital",
+      "id": "baitaru",
       "name": {
         "original_lang": "ja",
         "original": "バイタル",
@@ -4069,7 +4052,7 @@
       }
     },
     {
-      "id": "crocodile-ant-2011",
+      "id": "wani-kei-shi-dan-chou",
       "name": {
         "original_lang": "ja",
         "original": "ワニ型（師団長）",
@@ -4081,7 +4064,7 @@
       "nameless": true
     },
     {
-      "id": "turtle-ant-2011",
+      "id": "kame-kei-shi-dan-chou",
       "name": {
         "original_lang": "ja",
         "original": "カメ型（師団長）",
@@ -4100,7 +4083,7 @@
       }
     },
     {
-      "id": "frog-ant-2011",
+      "id": "kaeru-kei-shi-dan-chou",
       "name": {
         "original_lang": "ja",
         "original": "カエル型（師団長）",
@@ -4119,7 +4102,7 @@
       }
     },
     {
-      "id": "octopus-ant-2011",
+      "id": "tako-kei-shi-dan-chou",
       "name": {
         "original_lang": "ja",
         "original": "タコ型（師団長）",
@@ -4131,7 +4114,7 @@
       "nameless": true
     },
     {
-      "id": "bear-cub-ant-2011",
+      "id": "koguma-kei-shi-dan-chou",
       "name": {
         "original_lang": "ja",
         "original": "コグマ型（師団長）",
@@ -4143,7 +4126,7 @@
       "nameless": true
     },
     {
-      "id": "flutter",
+      "id": "furatta",
       "name": {
         "original_lang": "ja",
         "original": "フラッタ",
@@ -4198,7 +4181,7 @@
       }
     },
     {
-      "id": "ikalgo",
+      "id": "ikarugo",
       "name": {
         "original_lang": "ja",
         "original": "イカルゴ",
@@ -4216,7 +4199,7 @@
       }
     },
     {
-      "id": "oroso-brother",
+      "id": "oroso-kei",
       "name": {
         "original_lang": "ja",
         "original": "オロソ兄",
@@ -4234,7 +4217,7 @@
       }
     },
     {
-      "id": "oroso-sister",
+      "id": "oroso-mai",
       "name": {
         "original_lang": "ja",
         "original": "オロソ妹",
@@ -4252,7 +4235,7 @@
       }
     },
     {
-      "id": "lammot",
+      "id": "ramotto",
       "name": {
         "original_lang": "ja",
         "original": "ラモット",
@@ -4270,7 +4253,7 @@
       }
     },
     {
-      "id": "pike",
+      "id": "paiku",
       "name": {
         "original_lang": "ja",
         "original": "パイク",
@@ -4335,7 +4318,7 @@
       }
     },
     {
-      "id": "rhino-ant-2011",
+      "id": "sai-kei",
       "name": {
         "original_lang": "ja",
         "original": "サイ型",
@@ -4354,7 +4337,7 @@
       }
     },
     {
-      "id": "small-beetle-ant-2011",
+      "id": "shou-kou-chuu",
       "name": {
         "original_lang": "ja",
         "original": "小甲虫",
@@ -4366,7 +4349,7 @@
       "nameless": true
     },
     {
-      "id": "koala-ant-2011",
+      "id": "koara-kei",
       "name": {
         "original_lang": "ja",
         "original": "コアラ型",
@@ -4385,7 +4368,7 @@
       }
     },
     {
-      "id": "centipede-man-2011",
+      "id": "mukade-dan",
       "name": {
         "original_lang": "ja",
         "original": "ムカデ男",
@@ -4404,7 +4387,7 @@
       }
     },
     {
-      "id": "mosquito-woman-2011",
+      "id": "bun-jo",
       "name": {
         "original_lang": "ja",
         "original": "蚊女",
@@ -4434,7 +4417,7 @@
       }
     },
     {
-      "id": "shark-ant",
+      "id": "same-ikarugono-bu-ka",
       "name": {
         "original_lang": "ja",
         "original": "サメ（イカルゴの部下）",
@@ -4456,7 +4439,7 @@
       }
     },
     {
-      "id": "pig-ant-2011",
+      "id": "buta-kei",
       "name": {
         "original_lang": "ja",
         "original": "ブタ型",
@@ -4475,7 +4458,7 @@
       }
     },
     {
-      "id": "zazans-attendants-2011",
+      "id": "zazanno-ji-jo",
       "name": {
         "original_lang": "ja",
         "original": "ザザンの侍女",
@@ -4487,7 +4470,7 @@
       "nameless": true
     },
     {
-      "id": "meteor-city-residents-2011",
+      "id": "ryuu-sei-gai-no-juu-min-tachi",
       "name": {
         "original_lang": "ja",
         "original": "流星街の住民たち",
@@ -4499,7 +4482,7 @@
       "nameless": true
     },
     {
-      "id": "chimera-ant-child",
+      "id": "kaito-reina",
       "name": {
         "original_lang": "ja",
         "original": "カイト（レイナ）",
@@ -4511,7 +4494,7 @@
       "spoiler": true
     },
     {
-      "id": "sanbica-norton",
+      "id": "sanbika-noton",
       "name": {
         "original_lang": "ja",
         "original": "サンビカ＝ノートン",
@@ -4522,7 +4505,7 @@
       }
     },
     {
-      "id": "cutie-beauty",
+      "id": "kyuti-byuti",
       "name": {
         "original_lang": "ja",
         "original": "キューティー＝ビューティー",
@@ -4533,7 +4516,7 @@
       }
     },
     {
-      "id": "teradein-neutral",
+      "id": "teradein-nyutoraru",
       "name": {
         "original_lang": "ja",
         "original": "テラデイン＝ニュートラル",
@@ -4544,7 +4527,7 @@
       }
     },
     {
-      "id": "lupe-highland",
+      "id": "rupe-hairando",
       "name": {
         "original_lang": "ja",
         "original": "ルーペ＝ハイランド",
@@ -4555,7 +4538,7 @@
       }
     },
     {
-      "id": "bushidora-ambitious",
+      "id": "bushidora-anbishasu",
       "name": {
         "original_lang": "ja",
         "original": "ブシドラ＝アンビシャス",
@@ -4566,7 +4549,7 @@
       }
     },
     {
-      "id": "narrator-2011",
+      "id": "nareshon",
       "name": {
         "original_lang": "ja",
         "original": "ナレーション",
@@ -4581,7 +4564,7 @@
       "nameless": true
     },
     {
-      "id": "mediation-office-woman-2011",
+      "id": "atsu-sen-sho-no-jo",
       "name": {
         "original_lang": "ja",
         "original": "斡旋所の女",
@@ -4591,8 +4574,7 @@
         }
       },
       "first_appearance": {
-        "work": "hunter-x-hunter-2011",
-        "episode": 30
+        "work": "hunter-x-hunter-2011"
       },
       "nameless": true
     },
@@ -4604,33 +4586,30 @@
         "latin": "Fumi"
       },
       "first_appearance": {
-        "work": "hunter-x-hunter-2011",
-        "episode": 48
+        "work": "hunter-x-hunter-2011"
       }
     },
     {
-      "id": "assassin-2011",
+      "id": "assassin",
       "name": {
         "original_lang": "en",
         "original": "Assassin",
         "latin": "Assassin"
       },
       "first_appearance": {
-        "work": "hunter-x-hunter-2011",
-        "episode": 52
+        "work": "hunter-x-hunter-2011"
       },
       "nameless": true
     },
     {
-      "id": "assassin-b-2011",
+      "id": "assassin-b",
       "name": {
         "original_lang": "en",
         "original": "Assassin B",
         "latin": "Assassin B"
       },
       "first_appearance": {
-        "work": "hunter-x-hunter-2011",
-        "episode": 51
+        "work": "hunter-x-hunter-2011"
       },
       "nameless": true
     }

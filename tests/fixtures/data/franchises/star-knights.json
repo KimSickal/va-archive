@@ -33,11 +33,13 @@
           "ko": "주인공 소녀 기사",
           "en": "The girl knight protagonist"
         },
-        "translated": ["ko", "en"]
+        "translated": [
+          "ko",
+          "en"
+        ]
       },
       "first_appearance": {
-        "work": "star-knights-s1",
-        "episode": 1
+        "work": "star-knights-s1"
       },
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Example.jpg/240px-Example.jpg",
@@ -58,12 +60,11 @@
         }
       },
       "first_appearance": {
-        "work": "star-knights-s1",
-        "episode": 1
+        "work": "star-knights-s1"
       }
     },
     {
-      "id": "masked-knight",
+      "id": "zeno",
       "name": {
         "original_lang": "ja",
         "original": "ゼノ",
@@ -71,12 +72,11 @@
       },
       "spoiler": true,
       "first_appearance": {
-        "work": "star-knights-s1",
-        "episode": 5
+        "work": "star-knights-s1"
       }
     },
     {
-      "id": "villager-a-s1",
+      "id": "son-jin-a",
       "name": {
         "original_lang": "ja",
         "original": "村人A",

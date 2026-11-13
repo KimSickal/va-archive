@@ -53,7 +53,7 @@
       "release_date": "2024-04-25",
       "credits": [
         {
-          "character": "tanjiro-kamado",
+          "character": "sou-mon-tan-ji-rou",
           "person": "ka-kou-ka-ju",
           "role": "main",
           "source_refs": [
@@ -61,7 +61,7 @@
           ]
         },
         {
-          "character": "zenitsu-agatsuma",
+          "character": "ga-sai-zen-itsu",
           "person": "ka-ya-kou",
           "role": "main",
           "source_refs": [
@@ -69,7 +69,7 @@
           ]
         },
         {
-          "character": "inosuke-hashibira",
+          "character": "shi-hei-i-shi-jo",
           "person": "shou-kou-tei-shou",
           "role": "main",
           "source_refs": [
@@ -78,7 +78,7 @@
           ]
         },
         {
-          "character": "giyu-tomioka",
+          "character": "fu-kou-gi-yuu",
           "person": "ou-sei-kou-kou",
           "role": "supporting",
           "source_refs": [
@@ -87,7 +87,7 @@
           ]
         },
         {
-          "character": "kyojuro-rengoku",
+          "character": "ren-goku-kyou-ju-rou",
           "person": "nichi-ya-sou",
           "role": "supporting",
           "source_refs": [
@@ -95,7 +95,7 @@
           ]
         },
         {
-          "character": "tengen-uzui",
+          "character": "u-zui-ten-gen",
           "person": "shou-sei-koku-kou",
           "role": "supporting",
           "source_refs": [
@@ -103,7 +103,7 @@
           ]
         },
         {
-          "character": "mitsuri-kanroji",
+          "character": "kan-ro-ji-mitsu-ri",
           "person": "ka-taku-kou-sai",
           "role": "supporting",
           "source_refs": [
@@ -111,7 +111,7 @@
           ]
         },
         {
-          "character": "muichiro-tokito",
+          "character": "ji-tou-mu-ichi-rou",
           "person": "ka-sei-ken-go",
           "role": "supporting",
           "source_refs": [
@@ -119,7 +119,7 @@
           ]
         },
         {
-          "character": "gyomei-himejima",
+          "character": "hi-mei-sho-kou-mei",
           "person": "san-den-chi-wa",
           "role": "supporting",
           "source_refs": [
@@ -127,7 +127,7 @@
           ]
         },
         {
-          "character": "obanai-iguro",
+          "character": "i-koku-shou-ba-dai",
           "person": "rei-son-ken-ichi",
           "role": "supporting",
           "source_refs": [
@@ -135,7 +135,7 @@
           ]
         },
         {
-          "character": "sanemi-shinazugawa",
+          "character": "fu-shi-sen-jitsu-mi",
           "person": "kan-chi-ichi",
           "role": "supporting",
           "source_refs": [
@@ -143,7 +143,7 @@
           ]
         },
         {
-          "character": "genya-shinazugawa",
+          "character": "fu-shi-sen-gen-mi",
           "person": "kou-hon-shin-gen",
           "role": "supporting",
           "note": {
@@ -163,7 +163,7 @@
           ]
         },
         {
-          "character": "kanao-tsuyuri",
+          "character": "ritsu-ka-raku-kanao",
           "person": "jou-den-rei-na",
           "role": "supporting",
           "note": {

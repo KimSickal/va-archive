@@ -75,7 +75,9 @@ function mergePerson(a: Person, b: Person): Person {
     ...(Object.keys(aliases).length ? { aliases } : {}),
   };
   if (a.name.original !== b.name.original || a.name.latin !== b.name.latin)
-    conflicts.push(`persons/${a.id}.name: ${a.name.original}/${a.name.latin} vs ${b.name.original}/${b.name.latin}`);
+    conflicts.push(
+      `persons/${a.id}.name: ${a.name.original}/${a.name.latin ?? '-'} vs ${b.name.original}/${b.name.latin ?? '-'}`,
+    );
   const wiki = { ...(b.wikipedia ?? {}), ...(a.wikipedia ?? {}) };
   if (Object.keys(wiki).length) out.wikipedia = wiki;
   const links = [...(a.links ?? []), ...(b.links ?? []).filter((l) => !(a.links ?? []).some((x) => x.url === l.url))];

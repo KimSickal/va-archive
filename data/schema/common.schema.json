@@ -58,10 +58,10 @@
       "uniqueItems": true
     },
     "Name": {
-      "description": "고유명사(사람·작품·캐릭터·회사 이름). 원어 표기·로마자 필수. official에는 원어 외 언어의 공식 표기만, aliases에는 비공식 통용 표기·구표기·이체자·어순 변형 등 검색용 표기를 넣음(공식 표기가 없어도 가능). official에 original_lang 키는 넣지 않음 (검증 스크립트 확인).",
+      "description": "고유명사(사람·작품·캐릭터·회사 이름). 원어 표기 필수. 로마자 표기(latin)는 공식 표기나 출처의 읽기가 있을 때만 적고 모르면 생략. official에는 원어 외 언어의 공식 표기만, aliases에는 비공식 통용 표기·구표기·이체자·어순 변형 등 검색용 표기를 넣음(공식 표기가 없어도 가능). official에 original_lang 키는 넣지 않음 (검증 스크립트 확인).",
       "type": "object",
       "additionalProperties": false,
-      "required": ["original_lang", "original", "latin"],
+      "required": ["original_lang", "original"],
       "properties": {
         "original_lang": {
           "$ref": "#/$defs/LangTag",
@@ -73,7 +73,7 @@
         },
         "latin": {
           "$ref": "#/$defs/NonEmptyString",
-          "description": "로마자 표기 (ID 생성 기준)"
+          "description": "로마자 표기 (선택). 공식 표기 또는 출처의 읽기를 따른 것만. 추측하지 않음. 성우는 있으면 표시 ID(slug)의 기준"
         },
         "official": {
           "description": "원어 외 언어의 공식 표기. 키: 언어 태그",

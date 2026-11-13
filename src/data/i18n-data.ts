@@ -21,7 +21,7 @@ export function subName(n: Name, locale: Locale = 'ko'): string {
   const main = nameIn(n, locale);
   const parts: string[] = [];
   if (!main.isOriginal) parts.push(n.original);
-  if (n.latin !== main.text && n.latin !== n.original) parts.push(n.latin);
+  if (n.latin && n.latin !== main.text && n.latin !== n.original) parts.push(n.latin);
   return parts.join(' · ');
 }
 
@@ -38,7 +38,12 @@ export function displayText(t: Text, locale: Locale = 'ko'): string {
 
 /** Name의 모든 표기 (검색 키용) */
 export function allNameForms(n: Name): string[] {
-  return [n.original, n.latin, ...Object.values(n.official ?? {}), ...Object.values(n.aliases ?? {}).flat()];
+  return [
+    n.original,
+    ...(n.latin ? [n.latin] : []),
+    ...Object.values(n.official ?? {}),
+    ...Object.values(n.aliases ?? {}).flat(),
+  ];
 }
 
 const LANG_LABEL: Record<string, string> = {

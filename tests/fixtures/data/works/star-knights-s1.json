@@ -35,23 +35,25 @@
           "ko": "일본어 원판",
           "en": "Japanese original"
         },
-        "translated": ["ko", "en"]
+        "translated": [
+          "ko",
+          "en"
+        ]
       },
       "credits": [
         {
           "character": "rin",
           "person": "sei-ya-ki",
           "role": "main",
-          "source_refs": ["s1"]
+          "source_refs": [
+            "s1"
+          ]
         },
         {
           "character": "kai",
           "person": "koku-taku-ren",
           "role": "main",
           "part": "replaced",
-          "episodes": {
-            "to": 6
-          },
           "note": {
             "original_lang": "ja",
             "original": "体調不良により降板",
@@ -59,31 +61,39 @@
               "ko": "건강 문제로 하차",
               "en": "Stepped down due to health reasons"
             },
-            "translated": ["ko", "en"]
+            "translated": [
+              "ko",
+              "en"
+            ]
           },
-          "source_refs": ["s1"]
+          "source_refs": [
+            "s1"
+          ]
         },
         {
           "character": "kai",
           "person": "san-den-ta-rou",
           "role": "main",
           "part": "replacement",
-          "episodes": {
-            "from": 7
-          },
-          "source_refs": ["s1"]
+          "source_refs": [
+            "s1"
+          ]
         },
         {
-          "character": "masked-knight",
+          "character": "zeno",
           "person": "koku-taku-ren",
           "role": "supporting",
-          "source_refs": ["s1"]
+          "source_refs": [
+            "s1"
+          ]
         },
         {
-          "character": "villager-a-s1",
+          "character": "son-jin-a",
           "person": "ou-tei-bi-sho",
           "role": "minor",
-          "source_refs": ["s1"]
+          "source_refs": [
+            "s1"
+          ]
         }
       ]
     },
@@ -98,7 +108,10 @@
           "ja": "韓国語吹替（투니버스）",
           "en": "Korean dub (투니버스)"
         },
-        "translated": ["ja", "en"]
+        "translated": [
+          "ja",
+          "en"
+        ]
       },
       "distributor": {
         "original_lang": "ko",
@@ -111,20 +124,26 @@
           "character": "rin",
           "person": "han-ji-u",
           "role": "main",
-          "source_refs": ["s1"]
+          "source_refs": [
+            "s1"
+          ]
         },
         {
           "character": "kai",
           "person": "seo-min-jun",
           "role": "main",
-          "source_refs": ["s1"]
+          "source_refs": [
+            "s1"
+          ]
         },
         {
-          "character": "masked-knight",
+          "character": "zeno",
           "person": "seo-min-jun",
           "role": "supporting",
           "spoiler": true,
-          "source_refs": ["s1"]
+          "source_refs": [
+            "s1"
+          ]
         }
       ]
     }

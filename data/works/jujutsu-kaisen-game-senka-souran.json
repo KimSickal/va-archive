@@ -81,7 +81,7 @@
       "release_date": "2024-02-01",
       "credits": [
         {
-          "character": "satoru-gojo",
+          "character": "go-jou-go",
           "person": "chuu-son-yuu-ichi",
           "role": "main",
           "source_refs": [
@@ -89,7 +89,7 @@
           ]
         },
         {
-          "character": "mai-zenin",
+          "character": "zen-in-shin-i",
           "person": "sei-jou-ma-ri-na",
           "role": "supporting",
           "source_refs": [
@@ -97,7 +97,7 @@
           ]
         },
         {
-          "character": "toge-inumaki",
+          "character": "kou-kan-kyoku",
           "person": "dai-san-kou-ki",
           "role": "supporting",
           "source_refs": [
@@ -105,7 +105,7 @@
           ]
         },
         {
-          "character": "megumi-fushiguro",
+          "character": "fuku-koku-kei",
           "person": "dai-den-yuu-ba",
           "role": "main",
           "source_refs": [
@@ -113,7 +113,7 @@
           ]
         },
         {
-          "character": "jogo",
+          "character": "rou-ko",
           "person": "sen-you-han",
           "role": "supporting",
           "source_refs": [
@@ -121,7 +121,7 @@
           ]
         },
         {
-          "character": "wasuke-itadori",
+          "character": "ko-jou-i-jo",
           "person": "sen-you-han",
           "role": "supporting",
           "source_refs": [
@@ -137,7 +137,7 @@
           ]
         },
         {
-          "character": "maki-zenin",
+          "character": "zen-in-shin-ki",
           "person": "shou-shou-mi-ka-shi",
           "role": "supporting",
           "source_refs": [
@@ -145,7 +145,7 @@
           ]
         },
         {
-          "character": "kechizu",
+          "character": "ketsu-to",
           "person": "san-kou-shou-hei",
           "role": "supporting",
           "source_refs": [
@@ -153,7 +153,7 @@
           ]
         },
         {
-          "character": "junpei-yoshino",
+          "character": "kichi-ya-jun-hei",
           "person": "san-koku-shou-sei",
           "role": "supporting",
           "source_refs": [
@@ -161,7 +161,7 @@
           ]
         },
         {
-          "character": "kiyotaka-ijichi",
+          "character": "i-chi-chi-ketsu-kou",
           "person": "gan-den-kou-ou",
           "role": "supporting",
           "source_refs": [
@@ -169,7 +169,7 @@
           ]
         },
         {
-          "character": "mahito",
+          "character": "shin-jin",
           "person": "tou-ki-shin-chou",
           "role": "supporting",
           "source_refs": [
@@ -177,7 +177,7 @@
           ]
         },
         {
-          "character": "akari-nitta",
+          "character": "shin-den-mei",
           "person": "toku-sei-sei-kuu",
           "role": "supporting",
           "source_refs": [
@@ -185,7 +185,7 @@
           ]
         },
         {
-          "character": "utahime-iori",
+          "character": "an-ka-ki",
           "person": "nichi-ryuu-you-shi",
           "role": "supporting",
           "source_refs": [
@@ -193,7 +193,7 @@
           ]
         },
         {
-          "character": "noritoshi-kamo",
+          "character": "ka-mo-ken-ki",
           "person": "nichi-ya-sou",
           "role": "supporting",
           "source_refs": [
@@ -201,7 +201,7 @@
           ]
         },
         {
-          "character": "aoi-todo",
+          "character": "tou-dou-ki",
           "person": "boku-son-bou",
           "role": "supporting",
           "source_refs": [
@@ -209,7 +209,7 @@
           ]
         },
         {
-          "character": "kokichi-muta",
+          "character": "yo-kou-kichi",
           "person": "shou-kou-tei-shou",
           "role": "supporting",
           "source_refs": [
@@ -217,7 +217,7 @@
           ]
         },
         {
-          "character": "yuji-itadori",
+          "character": "ko-jou-yuu-jin",
           "person": "ka-boku-shun-mi",
           "role": "main",
           "source_refs": [
@@ -225,7 +225,7 @@
           ]
         },
         {
-          "character": "eso",
+          "character": "kai-shou",
           "person": "kai-san-shuu-shi",
           "role": "supporting",
           "source_refs": [
@@ -233,7 +233,7 @@
           ]
         },
         {
-          "character": "suguru-geto",
+          "character": "ka-yu-ketsu",
           "person": "ou-sei-kou-kou",
           "role": "supporting",
           "source_refs": [
@@ -241,7 +241,7 @@
           ]
         },
         {
-          "character": "kento-nanami",
+          "character": "shichi-kai-ken-jin",
           "person": "shin-den-ken-ji-rou",
           "role": "supporting",
           "source_refs": [
@@ -249,7 +249,7 @@
           ]
         },
         {
-          "character": "choso",
+          "character": "chou-shou",
           "person": "rou-sen-tai-fu",
           "role": "supporting",
           "source_refs": [
@@ -257,7 +257,7 @@
           ]
         },
         {
-          "character": "nobara-kugisaki",
+          "character": "tei-ki-ya-shoku-bi",
           "person": "rai-ko-ma-sa-bi",
           "role": "main",
           "source_refs": [
@@ -265,7 +265,7 @@
           ]
         },
         {
-          "character": "hanami",
+          "character": "ka-gyo",
           "person": "den-chuu-ton-shi",
           "role": "supporting",
           "source_refs": [
@@ -273,7 +273,7 @@
           ]
         },
         {
-          "character": "yuta-okkotsu",
+          "character": "otsu-kotsu-yuu-ta",
           "person": "sho-hou-kei-bi",
           "role": "supporting",
           "source_refs": [
@@ -281,7 +281,7 @@
           ]
         },
         {
-          "character": "rika-orimoto",
+          "character": "ki-hon-ri-kou",
           "person": "ka-taku-kou-sai",
           "role": "supporting",
           "source_refs": [
@@ -289,7 +289,7 @@
           ]
         },
         {
-          "character": "ryomen-sukuna",
+          "character": "ryou-men-shuku-da",
           "person": "shu-hou-bu-jun-ichi",
           "role": "supporting",
           "source_refs": [
@@ -297,7 +297,7 @@
           ]
         },
         {
-          "character": "kasumi-miwa",
+          "character": "san-rin-ka",
           "person": "seki-ki-sen-ka",
           "role": "supporting",
           "source_refs": [
@@ -305,7 +305,7 @@
           ]
         },
         {
-          "character": "shoko-ieiri",
+          "character": "ka-nyuu-shou-shi",
           "person": "en-tou-ryou",
           "role": "supporting",
           "source_refs": [
@@ -313,7 +313,7 @@
           ]
         },
         {
-          "character": "nagi-yoshino",
+          "character": "kichi-ya-nagu",
           "person": "ya-den-jun-shi",
           "role": "supporting",
           "source_refs": [
@@ -321,7 +321,7 @@
           ]
         },
         {
-          "character": "momo-nishimiya",
+          "character": "sei-kyuu-tou",
           "person": "tei-kyuu-ri-kei",
           "role": "supporting",
           "source_refs": [
@@ -337,7 +337,7 @@
           ]
         },
         {
-          "character": "yoshinobu-gakuganji",
+          "character": "gaku-gan-ji-ka-shin",
           "person": "baku-jin",
           "role": "supporting",
           "source_refs": [
@@ -345,7 +345,7 @@
           ]
         },
         {
-          "character": "masamichi-yaga",
+          "character": "ya-ga-sei-dou",
           "person": "koku-den-suu-shi",
           "role": "supporting",
           "source_refs": [
@@ -353,7 +353,7 @@
           ]
         },
         {
-          "character": "toji-fushiguro",
+          "character": "fuku-koku-shin-ji",
           "person": "shi-an-bu-jin",
           "role": "supporting",
           "note": {
@@ -374,7 +374,7 @@
           ]
         },
         {
-          "character": "naobito-zenin",
+          "character": "zen-in-choku-hi-jin",
           "person": "chuu-den-jou-ji",
           "role": "supporting",
           "note": {

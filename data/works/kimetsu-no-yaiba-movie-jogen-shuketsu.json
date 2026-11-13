@@ -49,7 +49,7 @@
       "release_date": "2023-02-03",
       "credits": [
         {
-          "character": "daki",
+          "character": "da-ki",
           "person": "taku-jou-miyuki",
           "role": "supporting",
           "source_refs": [
@@ -58,7 +58,7 @@
           ]
         },
         {
-          "character": "gyutaro",
+          "character": "ki-fu-ta-rou",
           "person": "hou-han-ryou-ta",
           "role": "supporting",
           "source_refs": [
@@ -67,7 +67,7 @@
           ]
         },
         {
-          "character": "tanjiro-kamado",
+          "character": "sou-mon-tan-ji-rou",
           "person": "ka-kou-ka-ju",
           "role": "main",
           "source_refs": [
@@ -77,7 +77,7 @@
           ]
         },
         {
-          "character": "nezuko-kamado",
+          "character": "sou-mon-dei-tou-shi",
           "person": "ki-tou-mei-ri",
           "role": "main",
           "source_refs": [
@@ -87,7 +87,7 @@
           ]
         },
         {
-          "character": "zenitsu-agatsuma",
+          "character": "ga-sai-zen-itsu",
           "person": "ka-ya-kou",
           "role": "main",
           "source_refs": [
@@ -97,7 +97,7 @@
           ]
         },
         {
-          "character": "inosuke-hashibira",
+          "character": "shi-hei-i-shi-jo",
           "person": "shou-kou-tei-shou",
           "role": "main",
           "source_refs": [
@@ -107,7 +107,7 @@
           ]
         },
         {
-          "character": "tengen-uzui",
+          "character": "u-zui-ten-gen",
           "person": "shou-sei-koku-kou",
           "role": "supporting",
           "source_refs": [
@@ -117,7 +117,7 @@
           ]
         },
         {
-          "character": "muichiro-tokito",
+          "character": "ji-tou-mu-ichi-rou",
           "person": "ka-sei-ken-go",
           "role": "supporting",
           "source_refs": [
@@ -127,7 +127,7 @@
           ]
         },
         {
-          "character": "mitsuri-kanroji",
+          "character": "kan-ro-ji-mitsu-ri",
           "person": "ka-taku-kou-sai",
           "role": "supporting",
           "source_refs": [
@@ -137,7 +137,7 @@
           ]
         },
         {
-          "character": "muzan-kibutsuji",
+          "character": "ki-bu-tsuji-mu-san",
           "person": "kan-shun-gen",
           "role": "supporting",
           "source_refs": [
@@ -147,7 +147,7 @@
           ]
         },
         {
-          "character": "kokushibo",
+          "character": "koku-shi-bou",
           "person": "chi-nen-ryuu-ta-rou",
           "role": "supporting",
           "source_refs": [
@@ -157,7 +157,7 @@
           ]
         },
         {
-          "character": "doma",
+          "character": "dou-ma",
           "person": "kyuu-ya-shin-shu",
           "role": "supporting",
           "source_refs": [
@@ -167,7 +167,7 @@
           ]
         },
         {
-          "character": "akaza",
+          "character": "i-ka-za",
           "person": "shaku-den-shou",
           "role": "supporting",
           "source_refs": [
@@ -177,7 +177,7 @@
           ]
         },
         {
-          "character": "hantengu",
+          "character": "han-ten-kou",
           "person": "ko-sen-tou-shi-fu",
           "role": "supporting",
           "source_refs": [
@@ -187,7 +187,7 @@
           ]
         },
         {
-          "character": "gyokko",
+          "character": "gyoku-ko",
           "person": "chou-kai-kou-fu",
           "role": "supporting",
           "source_refs": [
@@ -197,7 +197,7 @@
           ]
         },
         {
-          "character": "kanao-tsuyuri",
+          "character": "ritsu-ka-raku-kanao",
           "person": "jou-den-rei-na",
           "role": "supporting",
           "source_refs": [
@@ -206,7 +206,7 @@
           ]
         },
         {
-          "character": "genya-shinazugawa",
+          "character": "fu-shi-sen-gen-mi",
           "person": "kou-hon-shin-gen",
           "role": "supporting",
           "source_refs": [
@@ -215,7 +215,7 @@
           ]
         },
         {
-          "character": "matsuemon",
+          "character": "ten-ou-ji-shou-u-ei-mon",
           "person": "san-ki-takumi",
           "role": "supporting",
           "source_refs": [
@@ -224,7 +224,7 @@
           ]
         },
         {
-          "character": "kagaya-ubuyashiki",
+          "character": "san-oku-fu-you-sai",
           "person": "shin-sen-chi-shi",
           "role": "supporting",
           "source_refs": [
@@ -233,7 +233,7 @@
           ]
         },
         {
-          "character": "amane-ubuyashiki",
+          "character": "san-oku-fu-amane",
           "person": "sa-tou-ri-na",
           "role": "supporting",
           "source_refs": [
@@ -242,7 +242,7 @@
           ]
         },
         {
-          "character": "hotaru-haganezuka",
+          "character": "kou-tetsu-chou-kei",
           "person": "rou-sen-tai-fu",
           "role": "supporting",
           "source_refs": [
@@ -251,7 +251,7 @@
           ]
         },
         {
-          "character": "kotetsu",
+          "character": "shou-tetsu",
           "person": "son-rai-ho",
           "role": "supporting",
           "source_refs": [
@@ -260,7 +260,7 @@
           ]
         },
         {
-          "character": "tecchin-tecchikawahara",
+          "character": "tetsu-chi-ka-gen-tetsu-chin",
           "person": "oku-ryou-yuu-saku",
           "role": "supporting",
           "source_refs": [
@@ -269,7 +269,7 @@
           ]
         },
         {
-          "character": "aoi-kanzaki",
+          "character": "shin-ki-aoi",
           "person": "kou-gen-yuu-ri",
           "role": "supporting",
           "source_refs": [
@@ -278,7 +278,7 @@
           ]
         },
         {
-          "character": "kiyo-terauchi",
+          "character": "ji-dai-kiyo",
           "person": "san-ka-shichi-kai",
           "role": "supporting",
           "source_refs": [
@@ -287,7 +287,7 @@
           ]
         },
         {
-          "character": "sumi-nakahara",
+          "character": "chuu-gen-sumi",
           "person": "shin-ya-ayumi",
           "role": "supporting",
           "source_refs": [
@@ -296,7 +296,7 @@
           ]
         },
         {
-          "character": "naho-takada",
+          "character": "kou-den-naho",
           "person": "sou-gen-yuu-ki",
           "role": "supporting",
           "source_refs": [
@@ -305,7 +305,7 @@
           ]
         },
         {
-          "character": "goto",
+          "character": "go-tou",
           "person": "ko-sen-shin",
           "role": "supporting",
           "source_refs": [
@@ -314,7 +314,7 @@
           ]
         },
         {
-          "character": "hanafuda-swordsman",
+          "character": "kei-koku-en-ichi",
           "person": "sei-jou-wa-gen",
           "role": "supporting",
           "credited_as": "剣士",
@@ -324,7 +324,7 @@
           ]
         },
         {
-          "character": "sumiyoshi",
+          "character": "tan-kichi",
           "person": "ya-tou-yuu-shi",
           "role": "supporting",
           "source_refs": [
@@ -333,7 +333,7 @@
           ]
         },
         {
-          "character": "nakime",
+          "character": "mei-jo",
           "person": "sei-jou-ma-ri-na",
           "role": "supporting",
           "source_refs": [
@@ -342,7 +342,7 @@
           ]
         },
         {
-          "character": "nichika-ubuyashiki",
+          "character": "san-oku-fu-nichika",
           "person": "shou-taku-a-ri",
           "role": "supporting",
           "note": {
@@ -364,7 +364,7 @@
           "verification": "unverified"
         },
         {
-          "character": "kiriya-ubuyashiki",
+          "character": "san-oku-fu-ki-ri-sai",
           "person": "yuu-boku-heki",
           "role": "supporting",
           "note": {
@@ -386,7 +386,7 @@
           "verification": "unverified"
         },
         {
-          "character": "suma",
+          "character": "shu-ma",
           "person": "tou-san-na-ou",
           "role": "supporting",
           "note": {
@@ -430,7 +430,7 @@
           "verification": "unverified"
         },
         {
-          "character": "hinatsuru",
+          "character": "suu-kaku",
           "person": "shu-ki-ton-bi",
           "role": "supporting",
           "note": {
@@ -452,7 +452,7 @@
           "verification": "unverified"
         },
         {
-          "character": "hinaki-ubuyashiki",
+          "character": "san-oku-fu-hinaki",
           "person": "ka-shu-yumiri",
           "role": "supporting",
           "note": {
@@ -474,7 +474,7 @@
           "verification": "unverified"
         },
         {
-          "character": "obanai-iguro",
+          "character": "i-koku-shou-ba-dai",
           "person": "rei-son-ken-ichi",
           "role": "supporting",
           "note": {

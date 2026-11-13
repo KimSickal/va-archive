@@ -126,7 +126,7 @@
           ]
         },
         {
-          "character": "aki-hayakawa",
+          "character": "sou-sen-aki",
           "person": "han-den-shou-go",
           "role": "main",
           "source_refs": [
@@ -136,7 +136,7 @@
           ]
         },
         {
-          "character": "power",
+          "character": "pawa",
           "person": "fairuzuai",
           "role": "main",
           "source_refs": [
@@ -146,7 +146,7 @@
           ]
         },
         {
-          "character": "kobeni-higashiyama",
+          "character": "tou-san-kobeni",
           "person": "kou-kyou-ka-rin",
           "role": "supporting",
           "source_refs": [
@@ -155,7 +155,7 @@
           ]
         },
         {
-          "character": "beam",
+          "character": "bimu",
           "person": "ka-kou-ka-ju",
           "role": "supporting",
           "source_refs": [
@@ -164,7 +164,7 @@
           ]
         },
         {
-          "character": "violence-fiend",
+          "character": "bou-ryoku-no-ma-jin",
           "person": "dai-den-seki-ya",
           "role": "supporting",
           "source_refs": [
@@ -173,7 +173,7 @@
           ]
         },
         {
-          "character": "angel-devil",
+          "character": "ten-shi-no-aku-ma",
           "person": "dai-den-shin-rei",
           "role": "supporting",
           "source_refs": [
@@ -182,7 +182,7 @@
           ]
         },
         {
-          "character": "kishibe",
+          "character": "gan-hen",
           "person": "shin-den-ken-ji-rou",
           "role": "supporting",
           "source_refs": [
@@ -191,7 +191,7 @@
           ]
         },
         {
-          "character": "vice-captain-reze",
+          "character": "fuku-tai-chou",
           "person": "kou-kyou-ei-soku",
           "role": "minor",
           "source_refs": [
@@ -200,7 +200,7 @@
           ]
         },
         {
-          "character": "nomo",
+          "character": "ya-mo",
           "person": "seki-u-kon-ken-ji",
           "role": "minor",
           "source_refs": [
@@ -209,7 +209,7 @@
           ]
         },
         {
-          "character": "mysterious-man-reze",
+          "character": "mei-no-dan",
           "person": "dai-son-ken-ji",
           "role": "supporting",
           "source_refs": [
@@ -218,7 +218,7 @@
           ]
         },
         {
-          "character": "typhoon-devil",
+          "character": "dai-fuu-no-aku-ma",
           "person": "ki-ta-son-ei-ri",
           "role": "supporting",
           "source_refs": [
@@ -227,7 +227,7 @@
           ]
         },
         {
-          "character": "fox-devil",
+          "character": "ko-no-aku-ma",
           "person": "kou-hi-den-yuu-shi",
           "role": "minor",
           "source_refs": [
@@ -249,7 +249,7 @@
           }
         },
         {
-          "character": "kato",
+          "character": "ka-tou",
           "person": "haku-shaku-ken-to",
           "role": "minor",
           "source_refs": [
@@ -257,7 +257,7 @@
           ]
         },
         {
-          "character": "tanabe",
+          "character": "den-hen",
           "person": "boku-dai-ta-rou",
           "role": "minor",
           "source_refs": [
@@ -266,7 +266,7 @@
           ]
         },
         {
-          "character": "masaki-ando",
+          "character": "an-tou-masaki",
           "person": "hou-kou-kou",
           "role": "minor",
           "source_refs": [
@@ -274,7 +274,7 @@
           ]
         },
         {
-          "character": "nimichi-master-reze",
+          "character": "ni-dou-nomasuta",
           "person": "shou-ya-ken-ichi",
           "role": "minor",
           "source_refs": [

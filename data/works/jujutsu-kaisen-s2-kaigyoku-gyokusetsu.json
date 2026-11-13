@@ -56,7 +56,7 @@
       "release_date": "2023-07-06",
       "credits": [
         {
-          "character": "satoru-gojo",
+          "character": "go-jou-go",
           "person": "chuu-son-yuu-ichi",
           "role": "main",
           "source_refs": [
@@ -66,7 +66,7 @@
           ]
         },
         {
-          "character": "suguru-geto",
+          "character": "ka-yu-ketsu",
           "person": "ou-sei-kou-kou",
           "role": "main",
           "source_refs": [
@@ -76,7 +76,7 @@
           ]
         },
         {
-          "character": "shoko-ieiri",
+          "character": "ka-nyuu-shou-shi",
           "person": "en-tou-ryou",
           "role": "supporting",
           "source_refs": [
@@ -86,7 +86,7 @@
           ]
         },
         {
-          "character": "toji-fushiguro",
+          "character": "fuku-koku-shin-ji",
           "person": "shi-an-bu-jin",
           "role": "main",
           "source_refs": [
@@ -96,7 +96,7 @@
           ]
         },
         {
-          "character": "riko-amanai",
+          "character": "ten-dai-ri-shi",
           "person": "ei-rai-anna",
           "role": "main",
           "source_refs": [
@@ -106,7 +106,7 @@
           ]
         },
         {
-          "character": "misato-kuroi",
+          "character": "koku-sei-bi-ri",
           "person": "sei-sui-ri-sa",
           "role": "supporting",
           "source_refs": [
@@ -116,7 +116,7 @@
           ]
         },
         {
-          "character": "shiu-kong",
+          "character": "kou-ji-u",
           "person": "an-gen-you-ki",
           "role": "supporting",
           "source_refs": [
@@ -126,7 +126,7 @@
           ]
         },
         {
-          "character": "masamichi-yaga",
+          "character": "ya-ga-sei-dou",
           "person": "koku-den-suu-shi",
           "role": "supporting",
           "note": {
@@ -158,7 +158,7 @@
           ]
         },
         {
-          "character": "utahime-iori",
+          "character": "an-ka-ki",
           "person": "nichi-ryuu-you-shi",
           "role": "supporting",
           "note": {
@@ -180,7 +180,7 @@
           ]
         },
         {
-          "character": "kento-nanami",
+          "character": "shichi-kai-ken-jin",
           "person": "shin-den-ken-ji-rou",
           "role": "supporting",
           "source_refs": [
@@ -190,7 +190,7 @@
           ]
         },
         {
-          "character": "yu-haibara",
+          "character": "kai-gen-yuu",
           "person": "bi-gen-gaku-jin",
           "role": "supporting",
           "source_refs": [
@@ -200,7 +200,7 @@
           ]
         },
         {
-          "character": "yuki-tsukumo",
+          "character": "kyuu-juu-kyuu-yuu-ki",
           "person": "nichi-kou-nori-shi",
           "role": "supporting",
           "note": {
@@ -221,7 +221,7 @@
           ]
         },
         {
-          "character": "tsumiki-fushiguro",
+          "character": "fuku-koku-shin-bi-ki",
           "person": "sou-ken-sa-shoku",
           "role": "minor",
           "note": {
@@ -242,7 +242,7 @@
           ]
         },
         {
-          "character": "megumi-fushiguro",
+          "character": "fuku-koku-kei",
           "person": "tou-gen-ka-kai",
           "role": "minor",
           "part": "young",
@@ -253,7 +253,7 @@
           ]
         },
         {
-          "character": "yuji-itadori",
+          "character": "ko-jou-yuu-jin",
           "person": "ka-boku-shun-mi",
           "role": "minor",
           "source_refs": [
@@ -263,7 +263,7 @@
           ]
         },
         {
-          "character": "megumi-fushiguro",
+          "character": "fuku-koku-kei",
           "person": "dai-den-yuu-ba",
           "role": "minor",
           "source_refs": [
@@ -273,7 +273,7 @@
           ]
         },
         {
-          "character": "nobara-kugisaki",
+          "character": "tei-ki-ya-shoku-bi",
           "person": "rai-ko-ma-sa-bi",
           "role": "minor",
           "source_refs": [
@@ -283,7 +283,7 @@
           ]
         },
         {
-          "character": "nanako-hasaba",
+          "character": "ka-jou-sai-shi",
           "person": "shou-den-satsu-sui",
           "role": "minor",
           "source_refs": [
@@ -291,7 +291,7 @@
           ]
         },
         {
-          "character": "mimiko-hasaba",
+          "character": "ka-jou-bi-shi",
           "person": "shou-den-ri-go",
           "role": "minor",
           "source_refs": [
@@ -299,7 +299,7 @@
           ]
         },
         {
-          "character": "shigeru-sonoda",
+          "character": "en-den-mo",
           "person": "shou-ya-shun-kai",
           "role": "minor",
           "source_refs": [
@@ -317,7 +317,7 @@
           ]
         },
         {
-          "character": "bayer",
+          "character": "baieru",
           "person": "toku-hon-kyou-bin",
           "role": "minor",
           "source_refs": [
@@ -326,7 +326,7 @@
           ]
         },
         {
-          "character": "assistant-manager-kg",
+          "character": "ho-jo-kan-toku",
           "person": "yuu-koku-kai-rei",
           "role": "minor",
           "source_refs": [
@@ -334,7 +334,7 @@
           ]
         },
         {
-          "character": "elderly-curse-user",
+          "character": "rou-rei-ju-so-shi",
           "person": "han-tou-shou-ju",
           "role": "minor",
           "source_refs": [
@@ -343,7 +343,7 @@
           ]
         },
         {
-          "character": "paper-bag-curse-user",
+          "character": "shi-tai-ju-so-shi",
           "person": "tou-gen-sei-yuu",
           "role": "minor",
           "source_refs": [
@@ -352,7 +352,7 @@
           ]
         },
         {
-          "character": "teacher-kg",
+          "character": "kyou-shi",
           "person": "tou-dou-shin-i",
           "role": "minor",
           "source_refs": [
@@ -360,7 +360,7 @@
           ]
         },
         {
-          "character": "student-kg",
+          "character": "sei-to-2",
           "person": "kutsu-rou-sa-ya",
           "role": "minor",
           "source_refs": [
@@ -368,7 +368,7 @@
           ]
         },
         {
-          "character": "student-kg",
+          "character": "sei-to-2",
           "person": "shou-sou-mi-yuu",
           "role": "minor",
           "source_refs": [
@@ -376,7 +376,7 @@
           ]
         },
         {
-          "character": "student-kg",
+          "character": "sei-to-2",
           "person": "san-ho-sen-kou",
           "role": "minor",
           "source_refs": [
@@ -384,7 +384,7 @@
           ]
         },
         {
-          "character": "student-kg",
+          "character": "sei-to-2",
           "person": "ryou-sen-ka-sai",
           "role": "minor",
           "source_refs": [
@@ -392,7 +392,7 @@
           ]
         },
         {
-          "character": "tv-announcement-kg",
+          "character": "tv-anaunsu",
           "person": "san-kou-chi-kou",
           "role": "minor",
           "source_refs": [
@@ -400,7 +400,7 @@
           ]
         },
         {
-          "character": "believer-kg",
+          "character": "shin-sha",
           "person": "san-kou-yoku",
           "role": "minor",
           "source_refs": [
@@ -408,7 +408,7 @@
           ]
         },
         {
-          "character": "believer-kg",
+          "character": "shin-sha",
           "person": "chuu-ya-tai-yuu",
           "role": "minor",
           "source_refs": [
@@ -416,7 +416,7 @@
           ]
         },
         {
-          "character": "kuchisake-onna",
+          "character": "kou-retsu-ke-jo",
           "person": "kisohiroko",
           "role": "minor",
           "source_refs": [
@@ -424,7 +424,7 @@
           ]
         },
         {
-          "character": "storage-curse",
+          "character": "kou-tou-ju-rei",
           "person": "juu-koku-sai-dai",
           "role": "minor",
           "source_refs": [
@@ -432,7 +432,7 @@
           ]
         },
         {
-          "character": "boat-race-announcement-kg",
+          "character": "kyou-tei-jou-anaunsu",
           "person": "son-sei-yuu-ji",
           "role": "minor",
           "note": {
@@ -452,7 +452,7 @@
           ]
         },
         {
-          "character": "villager-kg",
+          "character": "son-jin",
           "person": "shin-san-a-shi",
           "role": "minor",
           "source_refs": [
@@ -460,7 +460,7 @@
           ]
         },
         {
-          "character": "villager-kg",
+          "character": "son-jin",
           "person": "sa-kyuu-kan-gen-ki",
           "role": "minor",
           "source_refs": [

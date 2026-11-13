@@ -14,7 +14,8 @@ export type FullDate = string;
 export interface Name {
   original_lang: LangTag;
   original: string;
-  latin: string;
+  /** 로마자 표기 (선택: 공식 표기·출처의 읽기가 있을 때만) */
+  latin?: string;
   official?: Record<LangTag, string>;
   aliases?: Record<LangTag, string[]>;
 }
@@ -90,7 +91,7 @@ export interface Character {
   id: Id;
   name: Name;
   description?: Text;
-  first_appearance?: { work: Id; episode?: number };
+  first_appearance?: { work: Id };
   nameless?: boolean;
   spoiler?: boolean;
   image?: Image;
@@ -110,19 +111,19 @@ export interface Franchise {
 
 export type Role = 'main' | 'supporting' | 'minor';
 export type Part = 'regular' | 'replaced' | 'replacement' | 'young' | 'substitute' | 'other';
-export type Episodes = { from?: number; to?: number } | string;
 
 export interface Credit {
   character: Id;
   person: Id;
   role: Role;
   part?: Part;
-  episodes?: Episodes;
   note?: Text;
   credited_as?: string;
   spoiler?: boolean;
   source_refs: string[];
   verification?: VerificationStatus;
+  /** 규칙에 따른 추정 배역 (데이터 전용, 표시하지 않음) */
+  assumption?: 'continued_cast' | 'full_run';
 }
 
 export interface Version {

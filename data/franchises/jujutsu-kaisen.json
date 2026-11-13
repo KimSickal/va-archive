@@ -25,7 +25,7 @@
   },
   "characters": [
     {
-      "id": "yuji-itadori",
+      "id": "ko-jou-yuu-jin",
       "name": {
         "original_lang": "ja",
         "original": "虎杖悠仁",
@@ -43,12 +43,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 1
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "megumi-fushiguro",
+      "id": "fuku-koku-kei",
       "name": {
         "original_lang": "ja",
         "original": "伏黒恵",
@@ -66,12 +65,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 1
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "nobara-kugisaki",
+      "id": "tei-ki-ya-shoku-bi",
       "name": {
         "original_lang": "ja",
         "original": "釘崎野薔薇",
@@ -89,12 +87,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 2
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "satoru-gojo",
+      "id": "go-jou-go",
       "name": {
         "original_lang": "ja",
         "original": "五条悟",
@@ -112,12 +109,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 1
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "ryomen-sukuna",
+      "id": "ryou-men-shuku-da",
       "name": {
         "original_lang": "ja",
         "original": "両面宿儺",
@@ -135,12 +131,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 1
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "suguru-geto",
+      "id": "ka-yu-ketsu",
       "name": {
         "original_lang": "ja",
         "original": "夏油傑",
@@ -158,12 +153,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 5
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "shoko-ieiri",
+      "id": "ka-nyuu-shou-shi",
       "name": {
         "original_lang": "ja",
         "original": "家入硝子",
@@ -181,12 +175,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 5
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "mahito",
+      "id": "shin-jin",
       "name": {
         "original_lang": "ja",
         "original": "真人",
@@ -208,7 +201,7 @@
       }
     },
     {
-      "id": "kento-nanami",
+      "id": "shichi-kai-ken-jin",
       "name": {
         "original_lang": "ja",
         "original": "七海建人",
@@ -226,12 +219,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 8
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "wasuke-itadori",
+      "id": "ko-jou-i-jo",
       "name": {
         "original_lang": "ja",
         "original": "虎杖倭助",
@@ -246,12 +238,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 1
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "jogo",
+      "id": "rou-ko",
       "name": {
         "original_lang": "ja",
         "original": "漏瑚",
@@ -269,12 +260,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 5
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "masamichi-yaga",
+      "id": "ya-ga-sei-dou",
       "name": {
         "original_lang": "ja",
         "original": "夜蛾正道",
@@ -292,12 +282,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 2
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "kiyotaka-ijichi",
+      "id": "i-chi-chi-ketsu-kou",
       "name": {
         "original_lang": "ja",
         "original": "伊地知潔高",
@@ -315,12 +304,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 3
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "maki-zenin",
+      "id": "zen-in-shin-ki",
       "name": {
         "original_lang": "ja",
         "original": "禪院真希",
@@ -338,12 +326,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 5
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "toge-inumaki",
+      "id": "kou-kan-kyoku",
       "name": {
         "original_lang": "ja",
         "original": "狗巻棘",
@@ -380,12 +367,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 5
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "hanami",
+      "id": "ka-gyo",
       "name": {
         "original_lang": "ja",
         "original": "花御",
@@ -403,12 +389,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 5
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "tsumiki-fushiguro",
+      "id": "fuku-koku-shin-bi-ki",
       "name": {
         "original_lang": "ja",
         "original": "伏黒津美紀",
@@ -426,12 +411,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 5
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "junpei-yoshino",
+      "id": "kichi-ya-jun-hei",
       "name": {
         "original_lang": "ja",
         "original": "吉野順平",
@@ -453,7 +437,7 @@
       }
     },
     {
-      "id": "nagi-yoshino",
+      "id": "kichi-ya-nagu",
       "name": {
         "original_lang": "ja",
         "original": "吉野凪",
@@ -472,7 +456,7 @@
       }
     },
     {
-      "id": "yoshinobu-gakuganji",
+      "id": "gaku-gan-ji-ka-shin",
       "name": {
         "original_lang": "ja",
         "original": "楽巌寺嘉伸",
@@ -487,12 +471,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 8
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "utahime-iori",
+      "id": "an-ka-ki",
       "name": {
         "original_lang": "ja",
         "original": "庵歌姫",
@@ -514,7 +497,7 @@
       }
     },
     {
-      "id": "aoi-todo",
+      "id": "tou-dou-ki",
       "name": {
         "original_lang": "ja",
         "original": "東堂葵",
@@ -532,12 +515,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 8
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "noritoshi-kamo",
+      "id": "ka-mo-ken-ki",
       "name": {
         "original_lang": "ja",
         "original": "加茂憲紀",
@@ -555,12 +537,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 19
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "noritoshi-kamo-mother",
+      "id": "ka-mo-ken-ki-no-bo",
       "name": {
         "original_lang": "ja",
         "original": "加茂憲紀の母",
@@ -572,13 +553,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 19
+        "work": "jujutsu-kaisen-s1"
       },
       "nameless": true
     },
     {
-      "id": "momo-nishimiya",
+      "id": "sei-kyuu-tou",
       "name": {
         "original_lang": "ja",
         "original": "西宮桃",
@@ -596,12 +576,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 14
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "mai-zenin",
+      "id": "zen-in-shin-i",
       "name": {
         "original_lang": "ja",
         "original": "禪院真依",
@@ -619,12 +598,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 8
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "kasumi-miwa",
+      "id": "san-rin-ka",
       "name": {
         "original_lang": "ja",
         "original": "三輪霞",
@@ -646,7 +624,7 @@
       }
     },
     {
-      "id": "kokichi-muta",
+      "id": "yo-kou-kichi",
       "name": {
         "original_lang": "ja",
         "original": "与幸吉",
@@ -694,7 +672,7 @@
       }
     },
     {
-      "id": "naobito-zenin",
+      "id": "zen-in-choku-hi-jin",
       "name": {
         "original_lang": "ja",
         "original": "禪院直毘人",
@@ -713,7 +691,7 @@
       }
     },
     {
-      "id": "yuki-tsukumo",
+      "id": "kyuu-juu-kyuu-yuu-ki",
       "name": {
         "original_lang": "ja",
         "original": "九十九由基",
@@ -731,12 +709,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 20
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "takuma-ino",
+      "id": "cho-ya-taku-shin",
       "name": {
         "original_lang": "ja",
         "original": "猪野琢真",
@@ -751,12 +728,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 12
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "akari-nitta",
+      "id": "shin-den-mei",
       "name": {
         "original_lang": "ja",
         "original": "新田明",
@@ -771,12 +747,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 22
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "choso",
+      "id": "chou-shou",
       "name": {
         "original_lang": "ja",
         "original": "脹相",
@@ -794,12 +769,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 24
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "eso",
+      "id": "kai-shou",
       "name": {
         "original_lang": "ja",
         "original": "壊相",
@@ -818,7 +792,7 @@
       }
     },
     {
-      "id": "kechizu",
+      "id": "ketsu-to",
       "name": {
         "original_lang": "ja",
         "original": "血塗",
@@ -837,7 +811,7 @@
       }
     },
     {
-      "id": "haruta-shigemo",
+      "id": "chou-men-shun-ta",
       "name": {
         "original_lang": "ja",
         "original": "重面春太",
@@ -856,7 +830,7 @@
       }
     },
     {
-      "id": "juzo-kumiya",
+      "id": "so-oku-juu-zou",
       "name": {
         "original_lang": "ja",
         "original": "組屋鞣造",
@@ -875,7 +849,7 @@
       }
     },
     {
-      "id": "takada-chan",
+      "id": "kou-den-chan",
       "name": {
         "original_lang": "ja",
         "original": "高田ちゃん",
@@ -894,7 +868,7 @@
       }
     },
     {
-      "id": "bakery-clerk",
+      "id": "pan-oku-no-ten-in",
       "name": {
         "original_lang": "ja",
         "original": "パン屋の店員",
@@ -906,13 +880,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 13
+        "work": "jujutsu-kaisen-s1"
       },
       "nameless": true
     },
     {
-      "id": "takagi",
+      "id": "kou-boku",
       "name": {
         "original_lang": "ja",
         "original": "高木",
@@ -924,12 +897,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 1
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "sasaki",
+      "id": "sa-boku-sen-hai",
       "name": {
         "original_lang": "ja",
         "original": "佐々木先輩",
@@ -941,12 +913,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 1
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "iguchi",
+      "id": "sei-kou-sen-hai",
       "name": {
         "original_lang": "ja",
         "original": "井口先輩",
@@ -958,12 +929,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 1
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "student-council-president-s1",
+      "id": "sei-to-kai-chou",
       "name": {
         "original_lang": "ja",
         "original": "生徒会長",
@@ -975,13 +945,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 1
+        "work": "jujutsu-kaisen-s1"
       },
       "nameless": true
     },
     {
-      "id": "student-s1",
+      "id": "sei-to",
       "name": {
         "original_lang": "ja",
         "original": "生徒",
@@ -993,13 +962,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 1
+        "work": "jujutsu-kaisen-s1"
       },
       "nameless": true
     },
     {
-      "id": "boy-s1",
+      "id": "shou-nen",
       "name": {
         "original_lang": "ja",
         "original": "少年",
@@ -1011,26 +979,24 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 3
+        "work": "jujutsu-kaisen-s1"
       },
       "nameless": true
     },
     {
-      "id": "fan-s1",
+      "id": "fan",
       "name": {
         "original_lang": "ja",
         "original": "ファン",
         "latin": "Fan"
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 8
+        "work": "jujutsu-kaisen-s1"
       },
       "nameless": true
     },
     {
-      "id": "male-student-s1",
+      "id": "dan-shi-sei-to",
       "name": {
         "original_lang": "ja",
         "original": "男子生徒",
@@ -1042,13 +1008,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 11
+        "work": "jujutsu-kaisen-s1"
       },
       "nameless": true
     },
     {
-      "id": "ikezawa",
+      "id": "chi-taku",
       "name": {
         "original_lang": "ja",
         "original": "池澤",
@@ -1060,12 +1025,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 23
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "aida",
+      "id": "shou-den",
       "name": {
         "original_lang": "ja",
         "original": "相田",
@@ -1081,7 +1045,7 @@
       }
     },
     {
-      "id": "nurse-s1",
+      "id": "kan-go-shi",
       "name": {
         "original_lang": "ja",
         "original": "看護師",
@@ -1093,13 +1057,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 1
+        "work": "jujutsu-kaisen-s1"
       },
       "nameless": true
     },
     {
-      "id": "tadashi-okazaki",
+      "id": "kou-ki-sei",
       "name": {
         "original_lang": "ja",
         "original": "岡﨑正",
@@ -1111,25 +1074,23 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 3
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "gal-s1",
+      "id": "gyaru",
       "name": {
         "original_lang": "ja",
         "original": "ギャル",
         "latin": "Gyaru"
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 3
+        "work": "jujutsu-kaisen-s1"
       },
       "nameless": true
     },
     {
-      "id": "little-boy-s1",
+      "id": "dan-no-shi",
       "name": {
         "original_lang": "ja",
         "original": "男の子",
@@ -1141,13 +1102,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 3
+        "work": "jujutsu-kaisen-s1"
       },
       "nameless": true
     },
     {
-      "id": "special-grade-curse-s1",
+      "id": "toku-kyuu-ju-rei",
       "name": {
         "original_lang": "ja",
         "original": "特級呪霊",
@@ -1159,13 +1119,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 4
+        "work": "jujutsu-kaisen-s1"
       },
       "nameless": true
     },
     {
-      "id": "scout-s1",
+      "id": "sukauto",
       "name": {
         "original_lang": "ja",
         "original": "スカウト",
@@ -1177,7 +1136,7 @@
       "nameless": true
     },
     {
-      "id": "attendant-s1",
+      "id": "kei-in",
       "name": {
         "original_lang": "ja",
         "original": "係員",
@@ -1194,7 +1153,7 @@
       "nameless": true
     },
     {
-      "id": "spider-curse-s1",
+      "id": "kumo-ju-rei",
       "name": {
         "original_lang": "ja",
         "original": "クモ呪霊",
@@ -1211,7 +1170,7 @@
       "nameless": true
     },
     {
-      "id": "kaneda",
+      "id": "kin-den",
       "name": {
         "original_lang": "ja",
         "original": "金田",
@@ -1227,20 +1186,19 @@
       }
     },
     {
-      "id": "waitress-s1",
+      "id": "ueitoresu",
       "name": {
         "original_lang": "ja",
         "original": "ウェイトレス",
         "latin": "Ueitoresu"
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 5
+        "work": "jujutsu-kaisen-s1"
       },
       "nameless": true
     },
     {
-      "id": "clerk-s1",
+      "id": "ten-in",
       "name": {
         "original_lang": "ja",
         "original": "店員",
@@ -1252,13 +1210,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 6
+        "work": "jujutsu-kaisen-s1"
       },
       "nameless": true
     },
     {
-      "id": "customer-s1",
+      "id": "kyaku",
       "name": {
         "original_lang": "ja",
         "original": "客",
@@ -1270,37 +1227,34 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 6
+        "work": "jujutsu-kaisen-s1"
       },
       "nameless": true
     },
     {
-      "id": "prode",
+      "id": "purodo",
       "name": {
         "original_lang": "ja",
         "original": "プロード",
         "latin": "Purodo"
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 7
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "saamu",
+      "id": "samu",
       "name": {
         "original_lang": "ja",
         "original": "サァーム",
         "latin": "Saamu"
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 7
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "sayama",
+      "id": "sa-san",
       "name": {
         "original_lang": "ja",
         "original": "佐山",
@@ -1312,12 +1266,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 9
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "nishimura",
+      "id": "sei-son",
       "name": {
         "original_lang": "ja",
         "original": "西村",
@@ -1329,12 +1282,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 9
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "mad-doctor-s1",
+      "id": "kyou-ki-no-i-sha",
       "name": {
         "original_lang": "ja",
         "original": "狂気の医者",
@@ -1346,13 +1298,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 9
+        "work": "jujutsu-kaisen-s1"
       },
       "nameless": true
     },
     {
-      "id": "junior-detective-s1",
+      "id": "go-hai-kei-ji",
       "name": {
         "original_lang": "ja",
         "original": "後輩刑事",
@@ -1364,13 +1315,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 9
+        "work": "jujutsu-kaisen-s1"
       },
       "nameless": true
     },
     {
-      "id": "employee-s1",
+      "id": "juu-gyou-in",
       "name": {
         "original_lang": "ja",
         "original": "従業員",
@@ -1382,8 +1332,7 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 9
+        "work": "jujutsu-kaisen-s1"
       },
       "nameless": true
     },
@@ -1399,7 +1348,7 @@
       }
     },
     {
-      "id": "honda",
+      "id": "hon-den",
       "name": {
         "original_lang": "ja",
         "original": "本田",
@@ -1415,7 +1364,7 @@
       }
     },
     {
-      "id": "flyhead-s1",
+      "id": "you-tou",
       "name": {
         "original_lang": "ja",
         "original": "蝿頭",
@@ -1432,7 +1381,7 @@
       "nameless": true
     },
     {
-      "id": "man-s1",
+      "id": "dan-sei",
       "name": {
         "original_lang": "ja",
         "original": "男性",
@@ -1449,7 +1398,7 @@
       "nameless": true
     },
     {
-      "id": "jujutsu-high-staff-s1",
+      "id": "kou-sen-sutaffu",
       "name": {
         "original_lang": "ja",
         "original": "高専スタッフ",
@@ -1466,7 +1415,7 @@
       "nameless": true
     },
     {
-      "id": "store-manager-s1",
+      "id": "ten-chou",
       "name": {
         "original_lang": "ja",
         "original": "店長",
@@ -1483,7 +1432,7 @@
       "nameless": true
     },
     {
-      "id": "senior-detective-s1",
+      "id": "sen-hai-kei-ji",
       "name": {
         "original_lang": "ja",
         "original": "先輩刑事",
@@ -1500,7 +1449,7 @@
       "nameless": true
     },
     {
-      "id": "principal-s1",
+      "id": "kou-chou",
       "name": {
         "original_lang": "ja",
         "original": "校長",
@@ -1517,7 +1466,7 @@
       "nameless": true
     },
     {
-      "id": "sushi-chef-s1",
+      "id": "ju-shi-oku-tai-shou",
       "name": {
         "original_lang": "ja",
         "original": "寿司屋大将",
@@ -1534,7 +1483,7 @@
       "nameless": true
     },
     {
-      "id": "sotomura",
+      "id": "gai-son",
       "name": {
         "original_lang": "ja",
         "original": "外村",
@@ -1546,12 +1495,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 10
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "friend-s1",
+      "id": "yuu-jin",
       "name": {
         "original_lang": "ja",
         "original": "友人",
@@ -1563,13 +1511,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 10
+        "work": "jujutsu-kaisen-s1"
       },
       "nameless": true
     },
     {
-      "id": "ito",
+      "id": "i-tou",
       "name": {
         "original_lang": "ja",
         "original": "伊藤",
@@ -1581,12 +1528,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 10
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "voicemail-service-s1",
+      "id": "ryuu-shu-den-sabisu",
       "name": {
         "original_lang": "ja",
         "original": "留守電サービス",
@@ -1598,25 +1544,23 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 11
+        "work": "jujutsu-kaisen-s1"
       },
       "nameless": true
     },
     {
-      "id": "takashi-kun",
+      "id": "takashikun",
       "name": {
         "original_lang": "ja",
         "original": "たかしくん",
         "latin": "Takashi-kun"
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 11
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "actress-s1",
+      "id": "jo-yuu",
       "name": {
         "original_lang": "ja",
         "original": "女優",
@@ -1628,13 +1572,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 11
+        "work": "jujutsu-kaisen-s1"
       },
       "nameless": true
     },
     {
-      "id": "company-president-s1",
+      "id": "sha-chou",
       "name": {
         "original_lang": "ja",
         "original": "社長",
@@ -1646,8 +1589,7 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 13
+        "work": "jujutsu-kaisen-s1"
       },
       "nameless": true
     },
@@ -1659,25 +1601,23 @@
         "latin": "Kiseru"
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 14
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "dj-s1",
+      "id": "dj",
       "name": {
         "original_lang": "ja",
         "original": "DJ",
         "latin": "DJ"
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 14
+        "work": "jujutsu-kaisen-s1"
       },
       "nameless": true
     },
     {
-      "id": "announcer-s1",
+      "id": "anaunsa",
       "name": {
         "original_lang": "ja",
         "original": "アナウンサー",
@@ -1689,7 +1629,7 @@
       "nameless": true
     },
     {
-      "id": "female-student-s1",
+      "id": "jo-shi-sei-to",
       "name": {
         "original_lang": "ja",
         "original": "女子生徒",
@@ -1706,7 +1646,7 @@
       "nameless": true
     },
     {
-      "id": "woman-s1",
+      "id": "jo-sei",
       "name": {
         "original_lang": "ja",
         "original": "女性",
@@ -1718,13 +1658,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 18
+        "work": "jujutsu-kaisen-s1"
       },
       "nameless": true
     },
     {
-      "id": "fujinuma-brother",
+      "id": "tou-shou-tei",
       "name": {
         "original_lang": "ja",
         "original": "藤沼（弟）",
@@ -1736,12 +1675,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 22
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "fujinuma-sister",
+      "id": "tou-shou-shi",
       "name": {
         "original_lang": "ja",
         "original": "藤沼（姉）",
@@ -1753,12 +1691,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 22
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "takeda",
+      "id": "bu-den",
       "name": {
         "original_lang": "ja",
         "original": "武田",
@@ -1770,12 +1707,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 22
+        "work": "jujutsu-kaisen-s1"
       }
     },
     {
-      "id": "delinquent-b-s1",
+      "id": "fu-ryou-b",
       "name": {
         "original_lang": "ja",
         "original": "不良B",
@@ -1787,13 +1723,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 22
+        "work": "jujutsu-kaisen-s1"
       },
       "nameless": true
     },
     {
-      "id": "voicemail-s1",
+      "id": "ryuu-shu-den",
       "name": {
         "original_lang": "ja",
         "original": "留守電",
@@ -1805,13 +1740,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 24
+        "work": "jujutsu-kaisen-s1"
       },
       "nameless": true
     },
     {
-      "id": "toji-fushiguro",
+      "id": "fuku-koku-shin-ji",
       "name": {
         "original_lang": "ja",
         "original": "伏黒甚爾",
@@ -1833,7 +1767,7 @@
       }
     },
     {
-      "id": "riko-amanai",
+      "id": "ten-dai-ri-shi",
       "name": {
         "original_lang": "ja",
         "original": "天内理子",
@@ -1855,7 +1789,7 @@
       }
     },
     {
-      "id": "misato-kuroi",
+      "id": "koku-sei-bi-ri",
       "name": {
         "original_lang": "ja",
         "original": "黒井美里",
@@ -1870,12 +1804,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu",
-        "episode": 1
+        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu"
       }
     },
     {
-      "id": "shiu-kong",
+      "id": "kou-ji-u",
       "name": {
         "original_lang": "ja",
         "original": "孔時雨",
@@ -1894,7 +1827,7 @@
       }
     },
     {
-      "id": "yu-haibara",
+      "id": "kai-gen-yuu",
       "name": {
         "original_lang": "ja",
         "original": "灰原雄",
@@ -1916,7 +1849,7 @@
       }
     },
     {
-      "id": "nanako-hasaba",
+      "id": "ka-jou-sai-shi",
       "name": {
         "original_lang": "ja",
         "original": "枷場菜々子",
@@ -1935,7 +1868,7 @@
       }
     },
     {
-      "id": "mimiko-hasaba",
+      "id": "ka-jou-bi-shi",
       "name": {
         "original_lang": "ja",
         "original": "枷場美々子",
@@ -1954,7 +1887,7 @@
       }
     },
     {
-      "id": "shigeru-sonoda",
+      "id": "en-den-mo",
       "name": {
         "original_lang": "ja",
         "original": "園田茂",
@@ -1977,24 +1910,22 @@
         "latin": "Kokun"
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu",
-        "episode": 1
+        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu"
       }
     },
     {
-      "id": "bayer",
+      "id": "baieru",
       "name": {
         "original_lang": "ja",
         "original": "バイエル",
         "latin": "Baieru"
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu",
-        "episode": 1
+        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu"
       }
     },
     {
-      "id": "assistant-manager-kg",
+      "id": "ho-jo-kan-toku",
       "name": {
         "original_lang": "ja",
         "original": "補助監督",
@@ -2006,13 +1937,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu",
-        "episode": 1
+        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu"
       },
       "nameless": true
     },
     {
-      "id": "elderly-curse-user",
+      "id": "rou-rei-ju-so-shi",
       "name": {
         "original_lang": "ja",
         "original": "老齢呪詛師",
@@ -2024,13 +1954,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu",
-        "episode": 2
+        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu"
       },
       "nameless": true
     },
     {
-      "id": "paper-bag-curse-user",
+      "id": "shi-tai-ju-so-shi",
       "name": {
         "original_lang": "ja",
         "original": "紙袋呪詛師",
@@ -2042,13 +1971,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu",
-        "episode": 2
+        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu"
       },
       "nameless": true
     },
     {
-      "id": "teacher-kg",
+      "id": "kyou-shi",
       "name": {
         "original_lang": "ja",
         "original": "教師",
@@ -2060,13 +1988,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu",
-        "episode": 2
+        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu"
       },
       "nameless": true
     },
     {
-      "id": "student-kg",
+      "id": "sei-to-2",
       "name": {
         "original_lang": "ja",
         "original": "生徒",
@@ -2078,13 +2005,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu",
-        "episode": 2
+        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu"
       },
       "nameless": true
     },
     {
-      "id": "tv-announcement-kg",
+      "id": "tv-anaunsu",
       "name": {
         "original_lang": "ja",
         "original": "TVアナウンス",
@@ -2096,7 +2022,7 @@
       "nameless": true
     },
     {
-      "id": "believer-kg",
+      "id": "shin-sha",
       "name": {
         "original_lang": "ja",
         "original": "信者",
@@ -2108,13 +2034,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu",
-        "episode": 3
+        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu"
       },
       "nameless": true
     },
     {
-      "id": "kuchisake-onna",
+      "id": "kou-retsu-ke-jo",
       "name": {
         "original_lang": "ja",
         "original": "口裂け女",
@@ -2131,7 +2056,7 @@
       "nameless": true
     },
     {
-      "id": "storage-curse",
+      "id": "kou-tou-ju-rei",
       "name": {
         "original_lang": "ja",
         "original": "格納呪霊",
@@ -2143,13 +2068,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu",
-        "episode": 4
+        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu"
       },
       "nameless": true
     },
     {
-      "id": "boat-race-announcement-kg",
+      "id": "kyou-tei-jou-anaunsu",
       "name": {
         "original_lang": "ja",
         "original": "競艇場アナウンス",
@@ -2166,7 +2090,7 @@
       "nameless": true
     },
     {
-      "id": "villager-kg",
+      "id": "son-jin",
       "name": {
         "original_lang": "ja",
         "original": "村人",
@@ -2178,13 +2102,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu",
-        "episode": 5
+        "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu"
       },
       "nameless": true
     },
     {
-      "id": "dagon",
+      "id": "da-kon",
       "name": {
         "original_lang": "ja",
         "original": "陀艮",
@@ -2202,12 +2125,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s2-shibuya-jihen",
-        "episode": 9
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
       }
     },
     {
-      "id": "uraume",
+      "id": "ri-bai",
       "name": {
         "original_lang": "ja",
         "original": "裏梅",
@@ -2225,12 +2147,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s2-shibuya-jihen",
-        "episode": 5
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
       }
     },
     {
-      "id": "atsuya-kusakabe",
+      "id": "nichi-ka-bu-toku-ya",
       "name": {
         "original_lang": "ja",
         "original": "日下部篤也",
@@ -2249,7 +2170,7 @@
       }
     },
     {
-      "id": "arata-nitta",
+      "id": "shin-den-shin",
       "name": {
         "original_lang": "ja",
         "original": "新田新",
@@ -2264,12 +2185,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s2-shibuya-jihen",
-        "episode": 15
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
       }
     },
     {
-      "id": "ui-ui",
+      "id": "yuu-yuu",
       "name": {
         "original_lang": "ja",
         "original": "憂憂",
@@ -2284,12 +2204,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s2-shibuya-jihen",
-        "episode": 3
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
       }
     },
     {
-      "id": "ogami-grandson",
+      "id": "ogami-ba-no-son",
       "name": {
         "original_lang": "ja",
         "original": "オガミ婆の孫",
@@ -2306,7 +2225,7 @@
       "nameless": true
     },
     {
-      "id": "civilian-shibuya",
+      "id": "ichi-han-jin",
       "name": {
         "original_lang": "ja",
         "original": "一般人",
@@ -2318,13 +2237,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s2-shibuya-jihen",
-        "episode": 4
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
       },
       "nameless": true
     },
     {
-      "id": "ogami",
+      "id": "ogami-ba",
       "name": {
         "original_lang": "ja",
         "original": "オガミ婆",
@@ -2343,7 +2261,7 @@
       }
     },
     {
-      "id": "jiro-awasaka",
+      "id": "zoku-han-ni-ryou",
       "name": {
         "original_lang": "ja",
         "original": "粟坂二良",
@@ -2358,12 +2276,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s2-shibuya-jihen",
-        "episode": 5
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
       }
     },
     {
-      "id": "locust-guy",
+      "id": "kou-guy",
       "name": {
         "original_lang": "ja",
         "original": "蝗GUY",
@@ -2382,7 +2299,7 @@
       }
     },
     {
-      "id": "niji-ebina",
+      "id": "ebi-mei-jin-ji",
       "name": {
         "original_lang": "ja",
         "original": "蛯名仁次",
@@ -2398,7 +2315,7 @@
       }
     },
     {
-      "id": "mahoraga",
+      "id": "hachi-aku-ken-i-kai-shin-shou-ma-kyo-ra",
       "name": {
         "original_lang": "ja",
         "original": "八握剣異戒神将魔虚羅",
@@ -2420,7 +2337,7 @@
       }
     },
     {
-      "id": "earthworm-man",
+      "id": "mimizu-jin-kan",
       "name": {
         "original_lang": "ja",
         "original": "ミミズ人間",
@@ -2432,7 +2349,7 @@
       "nameless": true
     },
     {
-      "id": "yuko-ozawa",
+      "id": "shou-taku-yuu-shi",
       "name": {
         "original_lang": "ja",
         "original": "小沢優子",
@@ -2451,7 +2368,7 @@
       }
     },
     {
-      "id": "saori",
+      "id": "sa-shoku-chan",
       "name": {
         "original_lang": "ja",
         "original": "沙織ちゃん",
@@ -2463,8 +2380,7 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s2-shibuya-jihen",
-        "episode": 14
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
       }
     },
     {
@@ -2475,12 +2391,11 @@
         "latin": "Fumi"
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s2-shibuya-jihen",
-        "episode": 14
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
       }
     },
     {
-      "id": "fumi-father",
+      "id": "fumino-fu",
       "name": {
         "original_lang": "ja",
         "original": "ふみの父",
@@ -2497,7 +2412,7 @@
       "nameless": true
     },
     {
-      "id": "saori-senpai",
+      "id": "sa-shoku-no-sen-hai",
       "name": {
         "original_lang": "ja",
         "original": "沙織の先輩",
@@ -2514,7 +2429,7 @@
       "nameless": true
     },
     {
-      "id": "toshihisa-negi",
+      "id": "dei-boku-ri-kyuu",
       "name": {
         "original_lang": "ja",
         "original": "祢木利久",
@@ -2529,12 +2444,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s2-shibuya-jihen",
-        "episode": 11
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
       }
     },
     {
-      "id": "negi-faction-member",
+      "id": "dei-boku-no-ichi-ha",
       "name": {
         "original_lang": "ja",
         "original": "祢木の一派",
@@ -2551,7 +2465,7 @@
       "nameless": true
     },
     {
-      "id": "manami-suda",
+      "id": "kan-den-shin-na-bi",
       "name": {
         "original_lang": "ja",
         "original": "菅田真奈美",
@@ -2570,7 +2484,7 @@
       }
     },
     {
-      "id": "larue",
+      "id": "raru",
       "name": {
         "original_lang": "ja",
         "original": "ラルゥ",
@@ -2584,7 +2498,7 @@
       }
     },
     {
-      "id": "megumi-mother",
+      "id": "fuku-koku-kei-no-bo",
       "name": {
         "original_lang": "ja",
         "original": "伏黒恵の母",
@@ -2601,7 +2515,7 @@
       "nameless": true
     },
     {
-      "id": "father-shibuya",
+      "id": "fu-shin",
       "name": {
         "original_lang": "ja",
         "original": "父親",
@@ -2613,13 +2527,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s2-shibuya-jihen",
-        "episode": 6
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
       },
       "nameless": true
     },
     {
-      "id": "daughter-shibuya",
+      "id": "jou",
       "name": {
         "original_lang": "ja",
         "original": "娘",
@@ -2631,13 +2544,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s2-shibuya-jihen",
-        "episode": 6
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
       },
       "nameless": true
     },
     {
-      "id": "human-form-curse",
+      "id": "jin-no-shi-no-ju-rei",
       "name": {
         "original_lang": "ja",
         "original": "人の姿の呪霊",
@@ -2654,7 +2566,7 @@
       "nameless": true
     },
     {
-      "id": "girl-shibuya",
+      "id": "shou-jo",
       "name": {
         "original_lang": "ja",
         "original": "少女",
@@ -2671,7 +2583,7 @@
       "nameless": true
     },
     {
-      "id": "yuta-okkotsu",
+      "id": "otsu-kotsu-yuu-ta",
       "name": {
         "original_lang": "ja",
         "original": "乙骨憂太",
@@ -2693,20 +2605,19 @@
       }
     },
     {
-      "id": "narrator-shibuya",
+      "id": "nareshon",
       "name": {
         "original_lang": "ja",
         "original": "ナレーション",
         "latin": "Nareshon"
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s2-shibuya-jihen",
-        "episode": 2
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
       },
       "nameless": true
     },
     {
-      "id": "headquarters-shibuya",
+      "id": "sou-kan-bu",
       "name": {
         "original_lang": "ja",
         "original": "総監部",
@@ -2723,7 +2634,7 @@
       "nameless": true
     },
     {
-      "id": "announcer-shibuya",
+      "id": "anaunsa-2",
       "name": {
         "original_lang": "ja",
         "original": "アナウンサー",
@@ -2735,20 +2646,19 @@
       "nameless": true
     },
     {
-      "id": "cameraman-shibuya",
+      "id": "kameraman",
       "name": {
         "original_lang": "ja",
         "original": "カメラマン",
         "latin": "Kameraman"
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s2-shibuya-jihen",
-        "episode": 18
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
       },
       "nameless": true
     },
     {
-      "id": "mechamaru-onboard-voice",
+      "id": "meka-gan-ki-dai-on-sei",
       "name": {
         "original_lang": "ja",
         "original": "メカ丸機内音声",
@@ -2760,26 +2670,24 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s2-shibuya-jihen",
-        "episode": 1
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
       },
       "nameless": true
     },
     {
-      "id": "reporter-shibuya",
+      "id": "ripota",
       "name": {
         "original_lang": "ja",
         "original": "リポーター",
         "latin": "Ripota"
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s2-shibuya-jihen",
-        "episode": 18
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
       },
       "nameless": true
     },
     {
-      "id": "young-person-shibuya",
+      "id": "jaku-sha",
       "name": {
         "original_lang": "ja",
         "original": "若者",
@@ -2791,13 +2699,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s2-shibuya-jihen",
-        "episode": 2
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
       },
       "nameless": true
     },
     {
-      "id": "transfigured-human-s1",
+      "id": "kai-zou-jin-kan",
       "name": {
         "original_lang": "ja",
         "original": "改造人間",
@@ -2809,13 +2716,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 9
+        "work": "jujutsu-kaisen-s1"
       },
       "nameless": true
     },
     {
-      "id": "transfigured-human-shibuya",
+      "id": "kai-zou-jin-kan-2",
       "name": {
         "original_lang": "ja",
         "original": "改造人間",
@@ -2827,13 +2733,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s2-shibuya-jihen",
-        "episode": 8
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
       },
       "nameless": true
     },
     {
-      "id": "government-official-shibuya",
+      "id": "kan-kou-chou-shoku-in",
       "name": {
         "original_lang": "ja",
         "original": "官公庁職員",
@@ -2845,13 +2750,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s2-shibuya-jihen",
-        "episode": 18
+        "work": "jujutsu-kaisen-s2-shibuya-jihen"
       },
       "nameless": true
     },
     {
-      "id": "hoso-gami",
+      "id": "hou-sou-shin",
       "name": {
         "original_lang": "ja",
         "original": "疱瘡神",
@@ -2867,7 +2771,7 @@
       }
     },
     {
-      "id": "station-announcement-shibuya",
+      "id": "eki-noanaunsu",
       "name": {
         "original_lang": "ja",
         "original": "駅のアナウンス",
@@ -2884,7 +2788,7 @@
       "nameless": true
     },
     {
-      "id": "actor-shibuya",
+      "id": "hai-yuu",
       "name": {
         "original_lang": "ja",
         "original": "俳優",
@@ -2901,7 +2805,7 @@
       "nameless": true
     },
     {
-      "id": "student-shibuya",
+      "id": "sei-to-3",
       "name": {
         "original_lang": "ja",
         "original": "生徒",
@@ -2918,7 +2822,7 @@
       "nameless": true
     },
     {
-      "id": "cursed-corpse-s1",
+      "id": "ju-kai",
       "name": {
         "original_lang": "ja",
         "original": "呪骸",
@@ -2930,13 +2834,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 6
+        "work": "jujutsu-kaisen-s1"
       },
       "nameless": true
     },
     {
-      "id": "kenjaku",
+      "id": "ken-saku",
       "name": {
         "original_lang": "ja",
         "original": "羂索",
@@ -2954,8 +2857,7 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s1",
-        "episode": 5
+        "work": "jujutsu-kaisen-s1"
       },
       "spoiler": true
     },
@@ -2975,12 +2877,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 1
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       }
     },
     {
-      "id": "spectator-s3",
+      "id": "kan-kyaku",
       "name": {
         "original_lang": "ja",
         "original": "観客",
@@ -2992,13 +2893,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 3
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       },
       "nameless": true
     },
     {
-      "id": "tengen",
+      "id": "ten-gen",
       "name": {
         "original_lang": "ja",
         "original": "天元",
@@ -3016,12 +2916,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 2
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       }
     },
     {
-      "id": "kinji-hakari",
+      "id": "shou-kin-ji",
       "name": {
         "original_lang": "ja",
         "original": "秤金次",
@@ -3039,12 +2938,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 5
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       }
     },
     {
-      "id": "kirara-hoshi",
+      "id": "sei-ki-ra-ra",
       "name": {
         "original_lang": "ja",
         "original": "星綺羅羅",
@@ -3059,12 +2957,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 5
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       }
     },
     {
-      "id": "naoya-zenin",
+      "id": "zen-in-choku-sai",
       "name": {
         "original_lang": "ja",
         "original": "禪院直哉",
@@ -3082,12 +2979,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 1
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       }
     },
     {
-      "id": "ogi-zenin",
+      "id": "zen-in-sen",
       "name": {
         "original_lang": "ja",
         "original": "禪院扇",
@@ -3102,12 +2998,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 1
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       }
     },
     {
-      "id": "jinichi-zenin",
+      "id": "zen-in-shin-ichi",
       "name": {
         "original_lang": "ja",
         "original": "禪院甚壱",
@@ -3122,12 +3017,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 4
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       }
     },
     {
-      "id": "cursed-spirit-s3",
+      "id": "ju-rei",
       "name": {
         "original_lang": "ja",
         "original": "呪霊",
@@ -3139,13 +3033,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 1
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       },
       "nameless": true
     },
     {
-      "id": "ranta-zenin",
+      "id": "zen-in-ran-ta",
       "name": {
         "original_lang": "ja",
         "original": "禪院蘭太",
@@ -3160,12 +3053,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 4
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       }
     },
     {
-      "id": "nobuaki-zenin",
+      "id": "zen-in-shin-rou",
       "name": {
         "original_lang": "ja",
         "original": "禪院信朗",
@@ -3180,12 +3072,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 4
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       }
     },
     {
-      "id": "maki-mai-mother",
+      "id": "shin-ki-to-shin-i-no-bo",
       "name": {
         "original_lang": "ja",
         "original": "真希と真依の母",
@@ -3202,7 +3093,7 @@
       "nameless": true
     },
     {
-      "id": "jin-itadori",
+      "id": "ko-jou-jin",
       "name": {
         "original_lang": "ja",
         "original": "虎杖仁",
@@ -3217,12 +3108,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 1
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       }
     },
     {
-      "id": "kaori-itadori",
+      "id": "ko-jou-kou-shoku",
       "name": {
         "original_lang": "ja",
         "original": "虎杖香織",
@@ -3237,8 +3127,7 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 2
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       }
     },
     {
@@ -3249,12 +3138,11 @@
         "latin": "Furudate"
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 1
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       }
     },
     {
-      "id": "miguel-oduol",
+      "id": "migeru-oduoru",
       "name": {
         "original_lang": "ja",
         "original": "ミゲル・オドゥオール",
@@ -3273,7 +3161,7 @@
       }
     },
     {
-      "id": "fumihiko-takaba",
+      "id": "kou-u-shi-gen",
       "name": {
         "original_lang": "ja",
         "original": "髙羽史彦",
@@ -3291,12 +3179,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 3
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       }
     },
     {
-      "id": "senior-comedian",
+      "id": "sen-hai-gei-jin",
       "name": {
         "original_lang": "ja",
         "original": "先輩芸人",
@@ -3308,8 +3195,7 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 3
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       },
       "nameless": true
     },
@@ -3324,12 +3210,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 6
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       }
     },
     {
-      "id": "hajime-kashimo",
+      "id": "roku-shi-un-ichi",
       "name": {
         "original_lang": "ja",
         "original": "鹿紫雲一",
@@ -3347,12 +3232,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 6
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       }
     },
     {
-      "id": "rin-amai",
+      "id": "kan-sei-rin",
       "name": {
         "original_lang": "ja",
         "original": "甘井凛",
@@ -3367,12 +3251,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 7
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       }
     },
     {
-      "id": "remi",
+      "id": "rei-bi",
       "name": {
         "original_lang": "ja",
         "original": "麗美",
@@ -3387,12 +3270,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 7
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       }
     },
     {
-      "id": "hanyu",
+      "id": "u-sei",
       "name": {
         "original_lang": "ja",
         "original": "羽生",
@@ -3404,12 +3286,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 7
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       }
     },
     {
-      "id": "haba",
+      "id": "u-jou",
       "name": {
         "original_lang": "ja",
         "original": "羽場",
@@ -3421,12 +3302,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 7
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       }
     },
     {
-      "id": "hiromi-higuruma",
+      "id": "nichi-sha-kan-ken",
       "name": {
         "original_lang": "ja",
         "original": "日車寛見",
@@ -3444,12 +3324,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 8
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       }
     },
     {
-      "id": "reggie-star",
+      "id": "reji-suta",
       "name": {
         "original_lang": "ja",
         "original": "レジィ・スター",
@@ -3459,12 +3338,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 8
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       }
     },
     {
-      "id": "shimizu",
+      "id": "sei-sui",
       "name": {
         "original_lang": "ja",
         "original": "清水",
@@ -3476,12 +3354,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 8
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       }
     },
     {
-      "id": "keita-oe",
+      "id": "tai-kou-kei-ta",
       "name": {
         "original_lang": "ja",
         "original": "大江圭太",
@@ -3493,12 +3370,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 8
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       }
     },
     {
-      "id": "takagi-s3",
+      "id": "kou-boku-2",
       "name": {
         "original_lang": "ja",
         "original": "高木",
@@ -3510,12 +3386,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 8
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       }
     },
     {
-      "id": "judgeman",
+      "id": "jajjiman",
       "name": {
         "original_lang": "ja",
         "original": "ジャッジマン",
@@ -3525,12 +3400,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 9
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       }
     },
     {
-      "id": "yoshizawa",
+      "id": "kichi-taku",
       "name": {
         "original_lang": "ja",
         "original": "吉沢",
@@ -3542,12 +3416,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 9
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       }
     },
     {
-      "id": "iori-hazenoki",
+      "id": "kou-ro-ki",
       "name": {
         "original_lang": "ja",
         "original": "黄櫨祈",
@@ -3562,12 +3435,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 10
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       }
     },
     {
-      "id": "chizuru-hari",
+      "id": "shin-sen-kin",
       "name": {
         "original_lang": "ja",
         "original": "針千鈞",
@@ -3583,12 +3455,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 10
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       }
     },
     {
-      "id": "ryu-ishigori",
+      "id": "shaku-ryuu-ryuu",
       "name": {
         "original_lang": "ja",
         "original": "石流龍",
@@ -3606,12 +3477,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 12
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       }
     },
     {
-      "id": "takako-uro",
+      "id": "u-ro-kyou-shi",
       "name": {
         "original_lang": "ja",
         "original": "烏鷺亨子",
@@ -3626,12 +3496,11 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 12
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       }
     },
     {
-      "id": "kurourushi",
+      "id": "koku-boku-shi",
       "name": {
         "original_lang": "ja",
         "original": "黒沐死",
@@ -3646,8 +3515,7 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 12
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       }
     },
     {
@@ -3658,12 +3526,11 @@
         "latin": "Takeru"
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 5
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       }
     },
     {
-      "id": "kusakabe-sister",
+      "id": "nichi-ka-bu-no-mai",
       "name": {
         "original_lang": "ja",
         "original": "日下部の妹",
@@ -3675,13 +3542,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 5
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       },
       "nameless": true
     },
     {
-      "id": "assassin-s3",
+      "id": "shi-kyaku",
       "name": {
         "original_lang": "ja",
         "original": "刺客",
@@ -3693,26 +3559,24 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 5
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       },
       "nameless": true
     },
     {
-      "id": "club-member-s3",
+      "id": "kurabunomenba",
       "name": {
         "original_lang": "ja",
         "original": "クラブのメンバー",
         "latin": "Kurabu no Menba"
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 5
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       },
       "nameless": true
     },
     {
-      "id": "lookout-s3",
+      "id": "ken-chou-ri",
       "name": {
         "original_lang": "ja",
         "original": "見張り",
@@ -3724,26 +3588,24 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 6
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       },
       "nameless": true
     },
     {
-      "id": "announcer-s3",
+      "id": "anaunsa-3",
       "name": {
         "original_lang": "ja",
         "original": "アナウンサー",
         "latin": "Anaunsa"
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 8
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       },
       "nameless": true
     },
     {
-      "id": "kukuru-unit-member-s3",
+      "id": "ku-ku-ryuu-tai",
       "name": {
         "original_lang": "ja",
         "original": "躯倶留隊",
@@ -3755,13 +3617,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 4
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       },
       "nameless": true
     },
     {
-      "id": "audience-s3",
+      "id": "kan-kyaku-tatsu",
       "name": {
         "original_lang": "ja",
         "original": "観客達",
@@ -3773,13 +3634,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 5
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       },
       "nameless": true
     },
     {
-      "id": "civilian-s3",
+      "id": "ichi-han-jin-2",
       "name": {
         "original_lang": "ja",
         "original": "一般人",
@@ -3791,13 +3651,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 12
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       },
       "nameless": true
     },
     {
-      "id": "judge-s3",
+      "id": "sai-han-kan",
       "name": {
         "original_lang": "ja",
         "original": "裁判官",
@@ -3809,13 +3668,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 8
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       },
       "nameless": true
     },
     {
-      "id": "client-s3",
+      "id": "i-rai-jin",
       "name": {
         "original_lang": "ja",
         "original": "依頼人",
@@ -3827,13 +3685,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 8
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       },
       "nameless": true
     },
     {
-      "id": "high-school-student-s3",
+      "id": "kou-kou-sei",
       "name": {
         "original_lang": "ja",
         "original": "高校生",
@@ -3845,13 +3702,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 8
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       },
       "nameless": true
     },
     {
-      "id": "girl-s3",
+      "id": "jo-no-shi",
       "name": {
         "original_lang": "ja",
         "original": "女の子",
@@ -3863,13 +3719,12 @@
         }
       },
       "first_appearance": {
-        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1",
-        "episode": 8
+        "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
       },
       "nameless": true
     },
     {
-      "id": "ken-san",
+      "id": "kensan",
       "name": {
         "original_lang": "ja",
         "original": "ケンさん",
@@ -3880,7 +3735,7 @@
       }
     },
     {
-      "id": "rika-orimoto",
+      "id": "ki-hon-ri-kou",
       "name": {
         "original_lang": "ja",
         "original": "祈本里香",
@@ -3902,7 +3757,7 @@
       }
     },
     {
-      "id": "okkotsu-classmate-movie0",
+      "id": "otsu-kotsu-no-dou-kyuu-sei",
       "name": {
         "original_lang": "ja",
         "original": "乙骨の同級生",
@@ -3919,7 +3774,7 @@
       "nameless": true
     },
     {
-      "id": "kanamori",
+      "id": "kin-shin",
       "name": {
         "original_lang": "ja",
         "original": "金森",
@@ -3935,7 +3790,7 @@
       }
     },
     {
-      "id": "saito-daughter-movie0",
+      "id": "sei-tou-jou",
       "name": {
         "original_lang": "ja",
         "original": "斉藤娘",
@@ -3952,7 +3807,7 @@
       "nameless": true
     },
     {
-      "id": "saito-mother-movie0",
+      "id": "sei-tou-bo",
       "name": {
         "original_lang": "ja",
         "original": "斉藤母",
@@ -3969,7 +3824,7 @@
       "nameless": true
     },
     {
-      "id": "sorcerer-movie0",
+      "id": "ju-jutsu-shi",
       "name": {
         "original_lang": "ja",
         "original": "呪術師",
@@ -3986,7 +3841,7 @@
       "nameless": true
     },
     {
-      "id": "headquarters-movie0",
+      "id": "sou-kan-bu-2",
       "name": {
         "original_lang": "ja",
         "original": "総監部",
@@ -4003,7 +3858,7 @@
       "nameless": true
     },
     {
-      "id": "passerby-movie0",
+      "id": "tsuu-kou-jin",
       "name": {
         "original_lang": "ja",
         "original": "通行人",
@@ -4020,7 +3875,7 @@
       "nameless": true
     },
     {
-      "id": "noritoshi-kamo-meiji",
+      "id": "ka-mo-ken-rin",
       "name": {
         "original_lang": "ja",
         "original": "加茂憲倫",
@@ -4040,7 +3895,7 @@
       "spoiler": true
     },
     {
-      "id": "saki-rindo",
+      "id": "ryuu-tan-saki",
       "name": {
         "original_lang": "ja",
         "original": "竜胆サキ",
@@ -4054,7 +3909,7 @@
       }
     },
     {
-      "id": "kaito-yuki",
+      "id": "ketsu-boku-kai-to",
       "name": {
         "original_lang": "ja",
         "original": "結木海斗",
@@ -4068,7 +3923,7 @@
       }
     },
     {
-      "id": "kensuke-nagino",
+      "id": "na-boku-ya-ken-kai",
       "name": {
         "original_lang": "ja",
         "original": "奈木野健介",
@@ -4082,7 +3937,7 @@
       }
     },
     {
-      "id": "hidaka-shirakura",
+      "id": "haku-sou-hi-you",
       "name": {
         "original_lang": "ja",
         "original": "白倉飛鷹",
@@ -4093,7 +3948,7 @@
       }
     },
     {
-      "id": "eiji-urushi",
+      "id": "shitsu-ei-shi",
       "name": {
         "original_lang": "ja",
         "original": "漆英司",
@@ -4104,7 +3959,7 @@
       }
     },
     {
-      "id": "ritsu-mitsufuji",
+      "id": "kou-tou-ritsu",
       "name": {
         "original_lang": "ja",
         "original": "光藤律",
@@ -4126,7 +3981,7 @@
       }
     },
     {
-      "id": "narrator-pp",
+      "id": "nareshon-2",
       "name": {
         "original_lang": "ja",
         "original": "ナレーション",

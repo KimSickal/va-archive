@@ -23,7 +23,7 @@
   },
   "characters": [
     {
-      "id": "laios-touden",
+      "id": "raiosu-toden",
       "name": {
         "original_lang": "ja",
         "original": "ライオス・トーデン",
@@ -57,8 +57,7 @@
         ]
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 1
+        "work": "dungeon-meshi-s1"
       },
       "image": {
         "url": "https://delicious-in-dungeon.com/assets/character/1c.png",
@@ -69,7 +68,7 @@
       }
     },
     {
-      "id": "marcille-donato",
+      "id": "marushiru-donato",
       "name": {
         "original_lang": "ja",
         "original": "マルシル・ドナトー",
@@ -103,8 +102,7 @@
         ]
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 1
+        "work": "dungeon-meshi-s1"
       },
       "image": {
         "url": "https://delicious-in-dungeon.com/assets/character/2c.png",
@@ -115,7 +113,7 @@
       }
     },
     {
-      "id": "chilchuck-tims",
+      "id": "chiruchakku-timuzu",
       "name": {
         "original_lang": "ja",
         "original": "チルチャック・ティムズ",
@@ -149,8 +147,7 @@
         ]
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 1
+        "work": "dungeon-meshi-s1"
       },
       "image": {
         "url": "https://delicious-in-dungeon.com/assets/character/3c.png",
@@ -189,8 +186,7 @@
         ]
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 1
+        "work": "dungeon-meshi-s1"
       },
       "image": {
         "url": "https://delicious-in-dungeon.com/assets/character/4c.png",
@@ -201,7 +197,7 @@
       }
     },
     {
-      "id": "falin-touden",
+      "id": "farin-toden",
       "name": {
         "original_lang": "ja",
         "original": "ファリン・トーデン",
@@ -235,8 +231,7 @@
         ]
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 1
+        "work": "dungeon-meshi-s1"
       },
       "image": {
         "url": "https://delicious-in-dungeon.com/assets/character/5c.png",
@@ -281,8 +276,7 @@
         ]
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 16
+        "work": "dungeon-meshi-s1"
       },
       "image": {
         "url": "https://delicious-in-dungeon.com/assets/character/14c.png",
@@ -320,8 +314,7 @@
         ]
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 1
+        "work": "dungeon-meshi-s1"
       },
       "image": {
         "url": "https://delicious-in-dungeon.com/assets/character/6c.png",
@@ -367,8 +360,7 @@
         ]
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 1
+        "work": "dungeon-meshi-s1"
       },
       "image": {
         "url": "https://delicious-in-dungeon.com/assets/character/7c.png",
@@ -379,7 +371,7 @@
       }
     },
     {
-      "id": "kabru",
+      "id": "kaburu",
       "name": {
         "original_lang": "ja",
         "original": "カブルー",
@@ -406,8 +398,7 @@
         ]
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 5
+        "work": "dungeon-meshi-s1"
       },
       "image": {
         "url": "https://delicious-in-dungeon.com/assets/character/8c.png",
@@ -452,8 +443,7 @@
         ]
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 5
+        "work": "dungeon-meshi-s1"
       },
       "image": {
         "url": "https://delicious-in-dungeon.com/assets/character/9c.png",
@@ -464,7 +454,7 @@
       }
     },
     {
-      "id": "mickbell-tomas",
+      "id": "mikkuberu-tomazu",
       "name": {
         "original_lang": "ja",
         "original": "ミックベル・トマズ",
@@ -497,8 +487,7 @@
         ]
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 5
+        "work": "dungeon-meshi-s1"
       },
       "image": {
         "url": "https://delicious-in-dungeon.com/assets/character/10c.png",
@@ -536,8 +525,7 @@
         ]
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 5
+        "work": "dungeon-meshi-s1"
       },
       "image": {
         "url": "https://delicious-in-dungeon.com/assets/character/11c.png",
@@ -548,7 +536,7 @@
       }
     },
     {
-      "id": "holm",
+      "id": "horumu-kuranomu",
       "name": {
         "original_lang": "ja",
         "original": "ホルム・クラノム",
@@ -581,8 +569,7 @@
         ]
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 5
+        "work": "dungeon-meshi-s1"
       },
       "image": {
         "url": "https://delicious-in-dungeon.com/assets/character/12c.png",
@@ -593,7 +580,7 @@
       }
     },
     {
-      "id": "daya",
+      "id": "daia",
       "name": {
         "original_lang": "ja",
         "original": "ダイア",
@@ -620,8 +607,7 @@
         ]
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 5
+        "work": "dungeon-meshi-s1"
       },
       "image": {
         "url": "https://delicious-in-dungeon.com/assets/character/13c.png",
@@ -662,8 +648,7 @@
         ]
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 14
+        "work": "dungeon-meshi-s1"
       },
       "image": {
         "url": "https://delicious-in-dungeon.com/assets/character/15c.png",
@@ -707,8 +692,7 @@
         ]
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 14
+        "work": "dungeon-meshi-s1"
       },
       "image": {
         "url": "https://delicious-in-dungeon.com/assets/character/16c.png",
@@ -749,8 +733,7 @@
         ]
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 14
+        "work": "dungeon-meshi-s1"
       },
       "image": {
         "url": "https://delicious-in-dungeon.com/assets/character/17c.png",
@@ -792,8 +775,7 @@
         ]
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 14
+        "work": "dungeon-meshi-s1"
       },
       "image": {
         "url": "https://delicious-in-dungeon.com/assets/character/18c.png",
@@ -804,7 +786,7 @@
       }
     },
     {
-      "id": "sissel",
+      "id": "shisuru",
       "name": {
         "original_lang": "ja",
         "original": "シスル",
@@ -834,8 +816,7 @@
         ]
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 6
+        "work": "dungeon-meshi-s1"
       },
       "image": {
         "url": "https://delicious-in-dungeon.com/assets/character/19c.png",
@@ -846,7 +827,7 @@
       }
     },
     {
-      "id": "mithrun",
+      "id": "misurun",
       "name": {
         "original_lang": "ja",
         "original": "ミスルン",
@@ -873,8 +854,7 @@
         ]
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 21
+        "work": "dungeon-meshi-s1"
       },
       "image": {
         "url": "https://delicious-in-dungeon.com/assets/character/20c.png",
@@ -885,7 +865,7 @@
       }
     },
     {
-      "id": "yaad",
+      "id": "yaado-merini",
       "name": {
         "original_lang": "ja",
         "original": "ヤアド・メリニ",
@@ -916,8 +896,7 @@
         ]
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 21
+        "work": "dungeon-meshi-s1"
       },
       "image": {
         "url": "https://delicious-in-dungeon.com/assets/character/21c.png",
@@ -928,7 +907,7 @@
       }
     },
     {
-      "id": "tansu-floke",
+      "id": "tansu-furokka",
       "name": {
         "original_lang": "ja",
         "original": "タンス・フロッカ",
@@ -949,12 +928,11 @@
         }
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 8
+        "work": "dungeon-meshi-s1"
       }
     },
     {
-      "id": "yarn-floke",
+      "id": "yan-furokka",
       "name": {
         "original_lang": "ja",
         "original": "ヤーン・フロッカ",
@@ -975,8 +953,7 @@
         }
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 9
+        "work": "dungeon-meshi-s1"
       }
     },
     {
@@ -995,8 +972,7 @@
         }
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 9
+        "work": "dungeon-meshi-s1"
       }
     },
     {
@@ -1015,8 +991,7 @@
         }
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 9
+        "work": "dungeon-meshi-s1"
       }
     },
     {
@@ -1032,12 +1007,11 @@
         }
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 2
+        "work": "dungeon-meshi-s1"
       }
     },
     {
-      "id": "fionil",
+      "id": "fioniru",
       "name": {
         "original_lang": "ja",
         "original": "フィオニル",
@@ -1049,8 +1023,7 @@
         }
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 2
+        "work": "dungeon-meshi-s1"
       }
     },
     {
@@ -1061,12 +1034,11 @@
         "latin": "Dandan"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 3
+        "work": "dungeon-meshi-s1"
       }
     },
     {
-      "id": "cithis",
+      "id": "shisuhisu-ofuri",
       "name": {
         "original_lang": "ja",
         "original": "シスヒス・オフリ",
@@ -1084,12 +1056,11 @@
         }
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 21
+        "work": "dungeon-meshi-s1"
       }
     },
     {
-      "id": "pattadol",
+      "id": "pattadoru",
       "name": {
         "original_lang": "ja",
         "original": "パッタドル",
@@ -1104,12 +1075,11 @@
         }
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 21
+        "work": "dungeon-meshi-s1"
       }
     },
     {
-      "id": "fleki",
+      "id": "fureki",
       "name": {
         "original_lang": "ja",
         "original": "フレキ",
@@ -1124,12 +1094,11 @@
         }
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 21
+        "work": "dungeon-meshi-s1"
       }
     },
     {
-      "id": "lycion",
+      "id": "rishion",
       "name": {
         "original_lang": "ja",
         "original": "リシオン",
@@ -1144,8 +1113,7 @@
         }
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 21
+        "work": "dungeon-meshi-s1"
       }
     },
     {
@@ -1164,8 +1132,7 @@
         }
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 21
+        "work": "dungeon-meshi-s1"
       }
     },
     {
@@ -1181,12 +1148,11 @@
         }
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 4
+        "work": "dungeon-meshi-s1"
       }
     },
     {
-      "id": "leed",
+      "id": "rido",
       "name": {
         "original_lang": "ja",
         "original": "リド",
@@ -1198,12 +1164,11 @@
         }
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 13
+        "work": "dungeon-meshi-s1"
       }
     },
     {
-      "id": "delgal",
+      "id": "derugaru-merini",
       "name": {
         "original_lang": "ja",
         "original": "デルガル・メリニ",
@@ -1218,12 +1183,11 @@
         }
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 6
+        "work": "dungeon-meshi-s1"
       }
     },
     {
-      "id": "freinag",
+      "id": "furinagu-merini",
       "name": {
         "original_lang": "ja",
         "original": "フリナグ・メリニ",
@@ -1238,12 +1202,11 @@
         }
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 6
+        "work": "dungeon-meshi-s1"
       }
     },
     {
-      "id": "island-lord",
+      "id": "tou-shu",
       "name": {
         "original_lang": "ja",
         "original": "島主",
@@ -1255,20 +1218,18 @@
         }
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 10
+        "work": "dungeon-meshi-s1"
       }
     },
     {
-      "id": "gillin",
+      "id": "girin",
       "name": {
         "original_lang": "ja",
         "original": "ギリン",
         "latin": "Gillin"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 23
+        "work": "dungeon-meshi-s1"
       }
     },
     {
@@ -1279,573 +1240,528 @@
         "latin": "Totan"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 23
+        "work": "dungeon-meshi-s1"
       }
     },
     {
-      "id": "invar",
+      "id": "inba",
       "name": {
         "original_lang": "ja",
         "original": "インバー",
         "latin": "Invar"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 23
+        "work": "dungeon-meshi-s1"
       }
     },
     {
-      "id": "noor",
+      "id": "nuru",
       "name": {
         "original_lang": "ja",
         "original": "ヌール",
         "latin": "Noor"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 23
+        "work": "dungeon-meshi-s1"
       }
     },
     {
-      "id": "brigan",
+      "id": "burigan",
       "name": {
         "original_lang": "ja",
         "original": "ブリガン",
         "latin": "Brigan"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 23
+        "work": "dungeon-meshi-s1"
       }
     },
     {
-      "id": "laios-father",
+      "id": "raiosuno-fu",
       "name": {
         "original_lang": "ja",
         "original": "ライオスの父",
         "latin": "Laios's father"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 11
+        "work": "dungeon-meshi-s1"
       }
     },
     {
-      "id": "laios-mother",
+      "id": "raiosuno-bo",
       "name": {
         "original_lang": "ja",
         "original": "ライオスの母",
         "latin": "Laios's mother"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 19
+        "work": "dungeon-meshi-s1"
       }
     },
     {
-      "id": "marcille-mother",
+      "id": "marushiruno-bo",
       "name": {
         "original_lang": "ja",
         "original": "マルシルの母",
         "latin": "Marcille's mother"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 2
+        "work": "dungeon-meshi-s1"
       }
     },
     {
-      "id": "narrator-s1",
+      "id": "nareshon",
       "name": {
         "original_lang": "ja",
         "original": "ナレーション",
         "latin": "Narrator"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 1
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "rookie-adventurer-s1",
+      "id": "mei-kyuu-sho-shin-sha",
       "name": {
         "original_lang": "ja",
         "original": "迷宮初心者",
         "latin": "Rookie adventurer"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 1
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "gold-stripper-leader-s1",
+      "id": "kin-haku-girida",
       "name": {
         "original_lang": "ja",
         "original": "金剥ぎリーダー",
         "latin": "Gold stripper leader"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 3
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "gold-stripper-dwarf-s1",
+      "id": "kin-haku-gidowafu",
       "name": {
         "original_lang": "ja",
         "original": "金剥ぎドワーフ",
         "latin": "Gold stripper dwarf"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 3
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "bodyguard-s1e4",
+      "id": "you-shin-bou",
       "name": {
         "original_lang": "ja",
         "original": "用心棒",
         "latin": "Bodyguard"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 4
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "shopkeeper-s1e4",
+      "id": "ten-shu",
       "name": {
         "original_lang": "ja",
         "original": "店主",
         "latin": "Shopkeeper"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 4
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "female-orc-s1e4",
+      "id": "jo-oku",
       "name": {
         "original_lang": "ja",
         "original": "女オーク",
         "latin": "Female orc"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 4
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "male-orc-s1e4",
+      "id": "dan-oku",
       "name": {
         "original_lang": "ja",
         "original": "男オーク",
         "latin": "Male orc"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 4
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "orc-child-s1e4",
+      "id": "shi-oku",
       "name": {
         "original_lang": "ja",
         "original": "子オーク",
         "latin": "Orc child"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 4
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "man-s1e5",
+      "id": "dan",
       "name": {
         "original_lang": "ja",
         "original": "男",
         "latin": "Man"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 5
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "man-s1e6",
+      "id": "dan-2",
       "name": {
         "original_lang": "ja",
         "original": "男",
         "latin": "Man"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 6
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "queen-s1e6",
+      "id": "ou-hi",
       "name": {
         "original_lang": "ja",
         "original": "王妃",
         "latin": "Queen"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 6
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "maid-s1e6",
+      "id": "ji-jo",
       "name": {
         "original_lang": "ja",
         "original": "侍女",
         "latin": "Maid"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 6
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "corpse-collector-a-s1",
+      "id": "shi-tei-kai-shuu-oku-a",
       "name": {
         "original_lang": "ja",
         "original": "死体回収屋A",
         "latin": "Corpse collector A"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 7
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "corpse-collector-b-s1",
+      "id": "shi-tei-kai-shuu-oku-b",
       "name": {
         "original_lang": "ja",
         "original": "死体回収屋B",
         "latin": "Corpse collector B"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 7
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "mermaid-s1",
+      "id": "jin-gyo",
       "name": {
         "original_lang": "ja",
         "original": "人魚",
         "latin": "Mermaid"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 7
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "teacher-s1e8",
+      "id": "sen-sei",
       "name": {
         "original_lang": "ja",
         "original": "先生",
         "latin": "Teacher"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 8
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "student-1-s1e8",
+      "id": "sei-to-1",
       "name": {
         "original_lang": "ja",
         "original": "生徒1",
         "latin": "Student 1"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 8
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "student-2-s1e8",
+      "id": "sei-to-2",
       "name": {
         "original_lang": "ja",
         "original": "生徒2",
         "latin": "Student 2"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 8
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "student-3-s1e8",
+      "id": "sei-to-3",
       "name": {
         "original_lang": "ja",
         "original": "生徒3",
         "latin": "Student 3"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 8
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "receptionist-s1e10",
+      "id": "ju-fu",
       "name": {
         "original_lang": "ja",
         "original": "受付",
         "latin": "Receptionist"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 10
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "villager-1-s1e11",
+      "id": "son-jin-1",
       "name": {
         "original_lang": "ja",
         "original": "村人1",
         "latin": "Villager 1"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 11
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "villager-2-s1e11",
+      "id": "son-jin-2",
       "name": {
         "original_lang": "ja",
         "original": "村人2",
         "latin": "Villager 2"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 11
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "villager-3-s1e11",
+      "id": "son-jin-3",
       "name": {
         "original_lang": "ja",
         "original": "村人3",
         "latin": "Villager 3"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 11
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "orc-a-s1e13",
+      "id": "oku-a",
       "name": {
         "original_lang": "ja",
         "original": "オークA",
         "latin": "Orc A"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 13
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "orc-b-s1e13",
+      "id": "oku-b",
       "name": {
         "original_lang": "ja",
         "original": "オークB",
         "latin": "Orc B"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 13
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "orc-c-s1e13",
+      "id": "oku-c",
       "name": {
         "original_lang": "ja",
         "original": "オークC",
         "latin": "Orc C"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 13
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "dryad-1-s1",
+      "id": "doraiado-1",
       "name": {
         "original_lang": "ja",
         "original": "ドライアド1",
         "latin": "Dryad 1"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 15
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "dryad-2-s1",
+      "id": "doraiado-2",
       "name": {
         "original_lang": "ja",
         "original": "ドライアド2",
         "latin": "Dryad 2"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 15
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "dryad-3-s1",
+      "id": "doraiado-3",
       "name": {
         "original_lang": "ja",
         "original": "ドライアド3",
         "latin": "Dryad 3"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 15
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "hag-s1",
+      "id": "san-bo",
       "name": {
         "original_lang": "ja",
         "original": "山姥",
         "latin": "Hag"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 19
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "villager-1-s1e21",
+      "id": "son-jin-1-2",
       "name": {
         "original_lang": "ja",
         "original": "村人1",
         "latin": "Villager 1"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 21
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "villager-2-s1e21",
+      "id": "son-jin-2-2",
       "name": {
         "original_lang": "ja",
         "original": "村人2",
         "latin": "Villager 2"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 21
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "villager-3-s1e21",
+      "id": "son-jin-3-2",
       "name": {
         "original_lang": "ja",
         "original": "村人3",
         "latin": "Villager 3"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 21
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "villager-4-s1e21",
+      "id": "son-jin-4",
       "name": {
         "original_lang": "ja",
         "original": "村人4",
         "latin": "Villager 4"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 21
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "villager-5-s1e21",
+      "id": "son-jin-5",
       "name": {
         "original_lang": "ja",
         "original": "村人5",
         "latin": "Villager 5"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 21
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "villager-6-s1e21",
+      "id": "son-jin-6",
       "name": {
         "original_lang": "ja",
         "original": "村人6",
         "latin": "Villager 6"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 21
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     },
     {
-      "id": "villager-7-s1e21",
+      "id": "son-jin-7",
       "name": {
         "original_lang": "ja",
         "original": "村人7",
         "latin": "Villager 7"
       },
       "first_appearance": {
-        "work": "dungeon-meshi-s1",
-        "episode": 21
+        "work": "dungeon-meshi-s1"
       },
       "nameless": true
     }

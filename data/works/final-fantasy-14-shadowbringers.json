@@ -67,7 +67,7 @@
       "release_date": "2019-07-02",
       "credits": [
         {
-          "character": "graha-tia",
+          "character": "gu-raha-tia",
           "person": "dai-den-yuu-ba",
           "role": "main",
           "source_refs": [
@@ -78,7 +78,7 @@
           ]
         },
         {
-          "character": "ryne",
+          "character": "rin",
           "person": "shi-no-rai-ka-da",
           "role": "main",
           "source_refs": [
@@ -88,7 +88,7 @@
           ]
         },
         {
-          "character": "emet-selch",
+          "character": "emetoseruku",
           "person": "kou-kyou-kou-ju",
           "role": "main",
           "source_refs": [
@@ -99,7 +99,7 @@
           ]
         },
         {
-          "character": "ardbert",
+          "character": "arubato",
           "person": "shu-hou-bu-jun-ichi",
           "role": "main",
           "source_refs": [
@@ -109,7 +109,7 @@
           "verification": "unverified"
         },
         {
-          "character": "minfilia-warde",
+          "character": "minfiria-uodo",
           "person": "ren-sou-yuu-da",
           "role": "supporting",
           "part": "substitute",
@@ -130,11 +130,10 @@
             "s32",
             "s33",
             "s34"
-          ],
-          "episodes": "5.0"
+          ]
         },
         {
-          "character": "lyna",
+          "character": "raina",
           "person": "nan-jou-ai-dai",
           "role": "supporting",
           "source_refs": [
@@ -143,7 +142,7 @@
           ]
         },
         {
-          "character": "vauthry",
+          "character": "don-vausuri",
           "person": "kan-kyuu-kou-kou",
           "role": "supporting",
           "source_refs": [
@@ -152,7 +151,7 @@
           ]
         },
         {
-          "character": "ranjit",
+          "character": "ranjito",
           "person": "ya-tou-shou-sei",
           "role": "supporting",
           "source_refs": [
@@ -161,7 +160,7 @@
           "verification": "unverified"
         },
         {
-          "character": "feo-ul",
+          "character": "feo-uru",
           "person": "kou-kyou-minami",
           "role": "supporting",
           "source_refs": [
@@ -179,17 +178,16 @@
           ]
         },
         {
-          "character": "beq-lugg",
+          "character": "beku-ragu",
           "person": "i-rai-matsu-chi-ya",
           "role": "minor",
           "source_refs": [
             "s14",
             "s33"
-          ],
-          "episodes": "5.1-5.58"
+          ]
         },
         {
-          "character": "uimet",
+          "character": "uime",
           "person": "i-rai-matsu-chi-ya",
           "role": "minor",
           "source_refs": [
@@ -198,7 +196,7 @@
           "verification": "unverified"
         },
         {
-          "character": "almet",
+          "character": "arume",
           "person": "bei-san-mei-nichi-bi",
           "role": "minor",
           "source_refs": [
@@ -207,7 +205,7 @@
           "verification": "unverified"
         },
         {
-          "character": "cymet",
+          "character": "shaime",
           "person": "kou-tou-zui-kei",
           "role": "minor",
           "source_refs": [
@@ -216,7 +214,7 @@
           ]
         },
         {
-          "character": "runar",
+          "character": "runaru",
           "person": "san-hon-kou",
           "role": "minor",
           "source_refs": [
@@ -234,7 +232,7 @@
           ]
         },
         {
-          "character": "chai-nuzz",
+          "character": "chai-nuzu",
           "person": "hoku-taku-ryoku",
           "role": "minor",
           "source_refs": [
@@ -243,7 +241,7 @@
           "verification": "unverified"
         },
         {
-          "character": "dulia-chai",
+          "character": "duria-chai",
           "person": "kei-chou-yuu-kou",
           "role": "minor",
           "source_refs": [
@@ -252,7 +250,7 @@
           ]
         },
         {
-          "character": "tesleen",
+          "character": "tesurin",
           "person": "bei-san-mei-nichi-bi",
           "role": "minor",
           "source_refs": [
@@ -261,7 +259,7 @@
           ]
         },
         {
-          "character": "kai-shirr",
+          "character": "kai-shiru",
           "person": "gan-chuu-boku-ju",
           "role": "minor",
           "source_refs": [
@@ -270,7 +268,7 @@
           ]
         },
         {
-          "character": "alphinaud-leveilleur",
+          "character": "arufino-ruveyuru",
           "person": "ritsu-ka-shin-shi-kai",
           "role": "main",
           "source_refs": [
@@ -281,7 +279,7 @@
           ]
         },
         {
-          "character": "alisaie-leveilleur",
+          "character": "arize-ruveyuru",
           "person": "son-sen-ri-i",
           "role": "main",
           "source_refs": [
@@ -292,7 +290,7 @@
           ]
         },
         {
-          "character": "thancred-waters",
+          "character": "sankureddo-uotasu",
           "person": "chuu-son-yuu-ichi",
           "role": "main",
           "source_refs": [
@@ -303,7 +301,7 @@
           ]
         },
         {
-          "character": "yshtola-rhul",
+          "character": "ya-shutora-ruru",
           "person": "bou-ya-ai-i",
           "role": "main",
           "source_refs": [
@@ -314,7 +312,7 @@
           ]
         },
         {
-          "character": "urianger-augurelt",
+          "character": "urienje-ogyure",
           "person": "kenn",
           "role": "main",
           "source_refs": [
@@ -336,7 +334,7 @@
           ]
         },
         {
-          "character": "krile-maya-baldesion",
+          "character": "kururu-maia-barudeshion",
           "person": "nan-jou-ai-dai",
           "role": "supporting",
           "source_refs": [
@@ -347,7 +345,7 @@
           ]
         },
         {
-          "character": "yda-hext",
+          "character": "ida",
           "person": "en-tou-ryou",
           "role": "minor",
           "source_refs": [
@@ -358,7 +356,7 @@
           ]
         },
         {
-          "character": "cid-garlond",
+          "character": "shido-nan-garondo",
           "person": "shou-san-ryoku-ya",
           "role": "minor",
           "source_refs": [
@@ -369,7 +367,7 @@
           ]
         },
         {
-          "character": "biggs",
+          "character": "biggusu",
           "person": "sei-jou-gou",
           "role": "minor",
           "source_refs": [
@@ -378,7 +376,7 @@
           ]
         },
         {
-          "character": "wedge",
+          "character": "uejji",
           "person": "kenn",
           "role": "minor",
           "source_refs": [
@@ -388,7 +386,7 @@
           ]
         },
         {
-          "character": "nanamo-ul-namo",
+          "character": "nanamo-uru-namo",
           "person": "i-rai-matsu-chi-ya",
           "role": "minor",
           "source_refs": [
@@ -398,7 +396,7 @@
           ]
         },
         {
-          "character": "raubahn-aldynn",
+          "character": "rauban-arudin",
           "person": "an-gen-you-ki",
           "role": "minor",
           "source_refs": [
@@ -409,7 +407,7 @@
           ]
         },
         {
-          "character": "kan-e-senna",
+          "character": "kanu-e-senna",
           "person": "den-chuu-ri-kei",
           "role": "minor",
           "source_refs": [
@@ -420,7 +418,7 @@
           ]
         },
         {
-          "character": "merlwyb-bloefhiswyn",
+          "character": "meruuibu-burufisuuin",
           "person": "den-chuu-ton-shi",
           "role": "minor",
           "source_refs": [
@@ -431,7 +429,7 @@
           ]
         },
         {
-          "character": "aymeric-de-borel",
+          "character": "aimeriku-do-boreru",
           "person": "rei-boku-tatsu-ou",
           "role": "minor",
           "source_refs": [
@@ -442,7 +440,7 @@
           ]
         },
         {
-          "character": "estinien-varlineau",
+          "character": "esutinian-varino",
           "person": "hin-den-ken-ni",
           "role": "minor",
           "source_refs": [
@@ -453,38 +451,35 @@
           ]
         },
         {
-          "character": "fourchenault-leveilleur",
+          "character": "furushuno-ruveyuru",
           "person": "kutsu-dai-ken-yuu",
           "role": "minor",
           "source_refs": [
             "s33",
             "s34"
           ],
-          "verification": "unverified",
-          "episodes": "5.1-5.58"
+          "verification": "unverified"
         },
         {
-          "character": "elidibus",
+          "character": "ashien-eridibusu",
           "person": "shaku-den-shou",
           "role": "supporting",
           "source_refs": [
             "s32",
             "s33"
-          ],
-          "episodes": "5.1-5.3"
+          ]
         },
         {
-          "character": "fandaniel",
+          "character": "ashien-fadanieru",
           "person": "ryuu-den-shun-ichi",
           "role": "supporting",
           "source_refs": [
             "s27",
             "s33"
-          ],
-          "episodes": "5.1-5.58"
+          ]
         },
         {
-          "character": "zenos-yae-galvus",
+          "character": "zenosu-ie-garuvasu",
           "person": "chou-kai-kou-fu",
           "role": "supporting",
           "source_refs": [
@@ -492,22 +487,20 @@
             "s32",
             "s33",
             "s34"
-          ],
-          "episodes": "5.1-5.58"
+          ]
         },
         {
-          "character": "varis-zos-galvus",
+          "character": "varisu-zosu-garuvasu",
           "person": "chuu-den-jou-ji",
           "role": "minor",
           "source_refs": [
             "s5",
             "s32",
             "s33"
-          ],
-          "episodes": "5.1-5.58"
+          ]
         },
         {
-          "character": "nero-tol-scaeva",
+          "character": "nero-toru-sukaeua",
           "person": "hoku-taku-ryoku",
           "role": "minor",
           "source_refs": [
@@ -515,22 +508,20 @@
             "s32",
             "s33",
             "s34"
-          ],
-          "episodes": "5.1-5.58"
+          ]
         },
         {
-          "character": "fordola-rem-lupis",
+          "character": "forudora-remu-rupusu",
           "person": "rin-shin-ri-ka",
           "role": "minor",
           "source_refs": [
             "s25",
             "s33",
             "s34"
-          ],
-          "episodes": "5.1-5.58"
+          ]
         },
         {
-          "character": "branden",
+          "character": "buranherutsu",
           "person": "chuu-tou-taku-ya",
           "role": "minor",
           "note": {
@@ -548,11 +539,10 @@
           "source_refs": [
             "s33"
           ],
-          "verification": "unverified",
-          "episodes": "5.0"
+          "verification": "unverified"
         },
         {
-          "character": "lamitt",
+          "character": "ramimi",
           "person": "shou-ya-ji-ryuu-na",
           "role": "minor",
           "note": {
@@ -570,11 +560,10 @@
           "source_refs": [
             "s33"
           ],
-          "verification": "unverified",
-          "episodes": "5.0"
+          "verification": "unverified"
         },
         {
-          "character": "renda-rae",
+          "character": "ja-rumare",
           "person": "sa-tou-ri-na",
           "role": "minor",
           "note": {
@@ -592,11 +581,10 @@
           "source_refs": [
             "s33"
           ],
-          "verification": "unverified",
-          "episodes": "5.0"
+          "verification": "unverified"
         },
         {
-          "character": "nyelbert",
+          "character": "naiyuberu",
           "person": "koku-kou-shun-shi",
           "role": "minor",
           "note": {
@@ -614,14 +602,12 @@
           "source_refs": [
             "s33"
           ],
-          "verification": "unverified",
-          "episodes": "5.0"
+          "verification": "unverified"
         },
         {
-          "character": "hythlodaeus",
+          "character": "hyutorodaeusu",
           "person": "ho-shi-sou-ichi-rou",
           "role": "supporting",
-          "episodes": "5.0",
           "source_refs": [
             "s35",
             "s33"
@@ -657,7 +643,7 @@
       "release_date": "2019-12-03",
       "credits": [
         {
-          "character": "lyna",
+          "character": "raina",
           "person": "yang-jeong-hwa",
           "role": "supporting",
           "note": {
@@ -678,29 +664,7 @@
           "verification": "unverified"
         },
         {
-          "character": "beq-lugg",
-          "person": "gim-bo-na",
-          "role": "minor",
-          "episodes": "5.1-5.58",
-          "note": {
-            "original_lang": "ko",
-            "original": "출처에 확장팩 구분이 없어 일본어 데이터상 이 캐릭터가 처음 음성 출연하는 확장팩에만 기재",
-            "translations": {
-              "ja": "出典に拡張パッケージの区別がないため、日本語データでこのキャラクターが最初にボイス出演する拡張パッケージにのみ記載",
-              "en": "Source does not say which expansion; listed only under the first expansion where the character is voiced in the Japanese data"
-            },
-            "translated": [
-              "ja",
-              "en"
-            ]
-          },
-          "source_refs": [
-            "s39"
-          ],
-          "verification": "unverified"
-        },
-        {
-          "character": "uimet",
+          "character": "beku-ragu",
           "person": "gim-bo-na",
           "role": "minor",
           "note": {
@@ -721,7 +685,28 @@
           "verification": "unverified"
         },
         {
-          "character": "almet",
+          "character": "uime",
+          "person": "gim-bo-na",
+          "role": "minor",
+          "note": {
+            "original_lang": "ko",
+            "original": "출처에 확장팩 구분이 없어 일본어 데이터상 이 캐릭터가 처음 음성 출연하는 확장팩에만 기재",
+            "translations": {
+              "ja": "出典に拡張パッケージの区別がないため、日本語データでこのキャラクターが最初にボイス出演する拡張パッケージにのみ記載",
+              "en": "Source does not say which expansion; listed only under the first expansion where the character is voiced in the Japanese data"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s39"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "arume",
           "person": "song-ha-rim",
           "role": "minor",
           "note": {
@@ -742,7 +727,7 @@
           "verification": "unverified"
         },
         {
-          "character": "cymet",
+          "character": "shaime",
           "person": "yang-jeong-hwa",
           "role": "minor",
           "note": {
@@ -763,7 +748,7 @@
           "verification": "unverified"
         },
         {
-          "character": "chai-nuzz",
+          "character": "chai-nuzu",
           "person": "gim-yeong-chan",
           "role": "minor",
           "note": {
@@ -784,7 +769,7 @@
           "verification": "unverified"
         },
         {
-          "character": "dulia-chai",
+          "character": "duria-chai",
           "person": "song-ha-rim",
           "role": "minor",
           "note": {
@@ -805,10 +790,9 @@
           "verification": "unverified"
         },
         {
-          "character": "hythlodaeus",
+          "character": "hyutorodaeusu",
           "person": "i-gyeong-tae",
           "role": "supporting",
-          "episodes": "5.0",
           "note": {
             "original_lang": "ko",
             "original": "출처에 확장팩 구분이 없어 일본어 데이터상 이 캐릭터가 처음 음성 출연하는 확장팩에만 기재",

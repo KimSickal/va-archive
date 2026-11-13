@@ -42,8 +42,7 @@
         }
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 1
+        "work": "chainsaw-man-tv"
       },
       "image": {
         "url": "https://chainsawman.dog/movie_reze/assets/img/chara/chara_1_stand.png",
@@ -73,8 +72,7 @@
         }
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 1
+        "work": "chainsaw-man-tv"
       },
       "image": {
         "url": "https://chainsawman.dog/movie_reze/assets/img/chara/chara_5_stand.png",
@@ -96,8 +94,7 @@
         }
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 1
+        "work": "chainsaw-man-tv"
       },
       "image": {
         "url": "https://chainsawman.dog/movie_reze/assets/img/chara/chara_2_stand.png",
@@ -111,7 +108,7 @@
       }
     },
     {
-      "id": "aki-hayakawa",
+      "id": "sou-sen-aki",
       "name": {
         "original_lang": "ja",
         "original": "早川アキ",
@@ -127,8 +124,7 @@
         }
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 2
+        "work": "chainsaw-man-tv"
       },
       "image": {
         "url": "https://chainsawman.dog/movie_reze/assets/img/chara/chara_4_stand.png",
@@ -139,7 +135,7 @@
       }
     },
     {
-      "id": "power",
+      "id": "pawa",
       "name": {
         "original_lang": "ja",
         "original": "パワー",
@@ -155,8 +151,7 @@
         }
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 2
+        "work": "chainsaw-man-tv"
       },
       "image": {
         "url": "https://chainsawman.dog/movie_reze/assets/img/chara/chara_3_stand.png",
@@ -170,7 +165,7 @@
       }
     },
     {
-      "id": "himeno",
+      "id": "ki-ya",
       "name": {
         "original_lang": "ja",
         "original": "姫野",
@@ -186,12 +181,11 @@
         }
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 4
+        "work": "chainsaw-man-tv"
       }
     },
     {
-      "id": "kobeni-higashiyama",
+      "id": "tou-san-kobeni",
       "name": {
         "original_lang": "ja",
         "original": "東山コベニ",
@@ -207,8 +201,7 @@
         }
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 4
+        "work": "chainsaw-man-tv"
       },
       "image": {
         "url": "https://chainsawman.dog/movie_reze/assets/img/chara/chara_7_stand.png",
@@ -219,7 +212,7 @@
       }
     },
     {
-      "id": "hirokazu-arai",
+      "id": "kou-sei-hirokazu",
       "name": {
         "original_lang": "ja",
         "original": "荒井ヒロカズ",
@@ -235,12 +228,11 @@
         }
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 4
+        "work": "chainsaw-man-tv"
       }
     },
     {
-      "id": "kishibe",
+      "id": "gan-hen",
       "name": {
         "original_lang": "ja",
         "original": "岸辺",
@@ -256,8 +248,7 @@
         }
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 5
+        "work": "chainsaw-man-tv"
       },
       "image": {
         "url": "https://chainsawman.dog/movie_reze/assets/img/chara/chara_17_stand.png",
@@ -268,7 +259,7 @@
       }
     },
     {
-      "id": "fushi",
+      "id": "fuku",
       "name": {
         "original_lang": "ja",
         "original": "伏",
@@ -284,12 +275,11 @@
         }
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 7
+        "work": "chainsaw-man-tv"
       }
     },
     {
-      "id": "madoka",
+      "id": "en",
       "name": {
         "original_lang": "ja",
         "original": "円",
@@ -305,12 +295,11 @@
         }
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 7
+        "work": "chainsaw-man-tv"
       }
     },
     {
-      "id": "beam",
+      "id": "bimu",
       "name": {
         "original_lang": "ja",
         "original": "ビーム",
@@ -326,8 +315,7 @@
         }
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 11
+        "work": "chainsaw-man-tv"
       },
       "image": {
         "url": "https://chainsawman.dog/movie_reze/assets/img/chara/chara_8_stand.png",
@@ -338,7 +326,7 @@
       }
     },
     {
-      "id": "violence-fiend",
+      "id": "bou-ryoku-no-ma-jin",
       "name": {
         "original_lang": "ja",
         "original": "暴力の魔人",
@@ -357,8 +345,7 @@
         }
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 11
+        "work": "chainsaw-man-tv"
       },
       "image": {
         "url": "https://chainsawman.dog/movie_reze/assets/img/chara/chara_12_stand.png",
@@ -369,7 +356,7 @@
       }
     },
     {
-      "id": "spider-devil",
+      "id": "chi-shu-no-aku-ma",
       "name": {
         "original_lang": "ja",
         "original": "蜘蛛の悪魔",
@@ -385,12 +372,11 @@
         }
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 11
+        "work": "chainsaw-man-tv"
       }
     },
     {
-      "id": "angel-devil",
+      "id": "ten-shi-no-aku-ma",
       "name": {
         "original_lang": "ja",
         "original": "天使の悪魔",
@@ -406,8 +392,7 @@
         }
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 11
+        "work": "chainsaw-man-tv"
       },
       "image": {
         "url": "https://chainsawman.dog/movie_reze/assets/img/chara/chara_10_stand.png",
@@ -418,7 +403,7 @@
       }
     },
     {
-      "id": "bat-devil",
+      "id": "koumorino-aku-ma",
       "name": {
         "original_lang": "ja",
         "original": "コウモリの悪魔",
@@ -433,12 +418,11 @@
         }
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 3
+        "work": "chainsaw-man-tv"
       }
     },
     {
-      "id": "leech-devil",
+      "id": "hiruno-aku-ma",
       "name": {
         "original_lang": "ja",
         "original": "ヒルの悪魔",
@@ -450,12 +434,11 @@
         }
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 4
+        "work": "chainsaw-man-tv"
       }
     },
     {
-      "id": "fox-devil",
+      "id": "ko-no-aku-ma",
       "name": {
         "original_lang": "ja",
         "original": "狐の悪魔",
@@ -470,12 +453,11 @@
         }
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 4
+        "work": "chainsaw-man-tv"
       }
     },
     {
-      "id": "eternity-devil",
+      "id": "ei-en-no-aku-ma",
       "name": {
         "original_lang": "ja",
         "original": "永遠の悪魔",
@@ -490,12 +472,11 @@
         }
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 5
+        "work": "chainsaw-man-tv"
       }
     },
     {
-      "id": "curse-devil",
+      "id": "ju-ino-aku-ma",
       "name": {
         "original_lang": "ja",
         "original": "呪いの悪魔",
@@ -511,12 +492,11 @@
         }
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 8
+        "work": "chainsaw-man-tv"
       }
     },
     {
-      "id": "ghost-devil",
+      "id": "yuu-rei-no-aku-ma",
       "name": {
         "original_lang": "ja",
         "original": "幽霊の悪魔",
@@ -532,12 +512,11 @@
         }
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 8
+        "work": "chainsaw-man-tv"
       }
     },
     {
-      "id": "future-devil",
+      "id": "mi-rai-no-aku-ma",
       "name": {
         "original_lang": "ja",
         "original": "未来の悪魔",
@@ -552,12 +531,11 @@
         }
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 11
+        "work": "chainsaw-man-tv"
       }
     },
     {
-      "id": "typhoon-devil",
+      "id": "dai-fuu-no-aku-ma",
       "name": {
         "original_lang": "ja",
         "original": "台風の悪魔",
@@ -583,7 +561,7 @@
       }
     },
     {
-      "id": "zombie-devil",
+      "id": "zonbino-aku-ma",
       "name": {
         "original_lang": "ja",
         "original": "ゾンビの悪魔",
@@ -598,12 +576,11 @@
         }
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 1
+        "work": "chainsaw-man-tv"
       }
     },
     {
-      "id": "tomato-devil",
+      "id": "tomatono-aku-ma",
       "name": {
         "original_lang": "ja",
         "original": "トマトの悪魔",
@@ -615,12 +592,11 @@
         }
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 1
+        "work": "chainsaw-man-tv"
       }
     },
     {
-      "id": "akane-sawatari",
+      "id": "taku-to-akane",
       "name": {
         "original_lang": "ja",
         "original": "沢渡アカネ",
@@ -635,12 +611,11 @@
         }
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 8
+        "work": "chainsaw-man-tv"
       }
     },
     {
-      "id": "samurai-sword",
+      "id": "samuraisodo",
       "name": {
         "original_lang": "ja",
         "original": "サムライソード",
@@ -658,12 +633,11 @@
         }
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 8
+        "work": "chainsaw-man-tv"
       }
     },
     {
-      "id": "taiyo-hayakawa",
+      "id": "sou-sen-taiyou",
       "name": {
         "original_lang": "ja",
         "original": "早川タイヨウ",
@@ -675,12 +649,11 @@
         }
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 5
+        "work": "chainsaw-man-tv"
       }
     },
     {
-      "id": "michiko-tendo",
+      "id": "ten-dou-michiko",
       "name": {
         "original_lang": "ja",
         "original": "天童ミチコ",
@@ -695,12 +668,11 @@
         }
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 9
+        "work": "chainsaw-man-tv"
       }
     },
     {
-      "id": "yutaro-kurose",
+      "id": "koku-rai-yuutarou",
       "name": {
         "original_lang": "ja",
         "original": "黒瀬ユウタロウ",
@@ -715,24 +687,22 @@
         }
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 9
+        "work": "chainsaw-man-tv"
       }
     },
     {
-      "id": "shiina",
+      "id": "tsui-mei",
       "name": {
         "original_lang": "ja",
         "original": "椎名",
         "latin": "Shiina"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 11
+        "work": "chainsaw-man-tv"
       }
     },
     {
-      "id": "furuno",
+      "id": "ko-ya",
       "name": {
         "original_lang": "ja",
         "original": "古野",
@@ -744,8 +714,7 @@
         }
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 11
+        "work": "chainsaw-man-tv"
       }
     },
     {
@@ -760,8 +729,7 @@
         }
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 12
+        "work": "chainsaw-man-tv"
       },
       "image": {
         "url": "https://chainsawman.dog/movie_reze/assets/img/chara/chara_9_stand.png",
@@ -775,7 +743,7 @@
       }
     },
     {
-      "id": "nomo",
+      "id": "ya-mo",
       "name": {
         "original_lang": "ja",
         "original": "野茂",
@@ -801,7 +769,7 @@
       }
     },
     {
-      "id": "kato",
+      "id": "ka-tou",
       "name": {
         "original_lang": "ja",
         "original": "加藤",
@@ -817,7 +785,7 @@
       }
     },
     {
-      "id": "tanabe",
+      "id": "den-hen",
       "name": {
         "original_lang": "ja",
         "original": "田辺",
@@ -833,7 +801,7 @@
       }
     },
     {
-      "id": "masaki-ando",
+      "id": "an-tou-masaki",
       "name": {
         "original_lang": "ja",
         "original": "安藤マサキ",
@@ -849,592 +817,547 @@
       }
     },
     {
-      "id": "hayakawa-father-tv",
+      "id": "sou-sen-fu-shin",
       "name": {
         "original_lang": "ja",
         "original": "早川父親",
         "latin": "Aki's Father"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 5
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "hayakawa-mother-tv",
+      "id": "sou-sen-bo-shin",
       "name": {
         "original_lang": "ja",
         "original": "早川母親",
         "latin": "Aki's Mother"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 5
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "himeno-sister-tv",
+      "id": "ki-ya-no-mai",
       "name": {
         "original_lang": "ja",
         "original": "姫野の妹",
         "latin": "Himeno's Sister"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 10
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "yakuza-tv",
+      "id": "yakuza",
       "name": {
         "original_lang": "ja",
         "original": "ヤクザ",
         "latin": "Yakuza"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 1
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "henchman-tv",
+      "id": "shi-bun",
       "name": {
         "original_lang": "ja",
         "original": "子分",
         "latin": "Henchman"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 1
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "subordinate-a-tv",
+      "id": "bu-ka-a",
       "name": {
         "original_lang": "ja",
         "original": "部下A",
         "latin": "Subordinate A"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 1
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "subordinate-b-tv",
+      "id": "bu-ka-b",
       "name": {
         "original_lang": "ja",
         "original": "部下B",
         "latin": "Subordinate B"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 1
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "zombies-tv",
+      "id": "zonbi-tatsu",
       "name": {
         "original_lang": "ja",
         "original": "ゾンビ達",
         "latin": "Zombies"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 1
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "shop-clerk-tv",
+      "id": "ten-in",
       "name": {
         "original_lang": "ja",
         "original": "店員",
         "latin": "Shop Clerk"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 2
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "police-officer-a-tv",
+      "id": "kei-kan-a",
       "name": {
         "original_lang": "ja",
         "original": "警官A",
         "latin": "Police Officer A"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 2
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "police-officer-b-tv",
+      "id": "kei-kan-b",
       "name": {
         "original_lang": "ja",
         "original": "警官B",
         "latin": "Police Officer B"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 2
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "police-officer-c-tv",
+      "id": "kei-kan-c",
       "name": {
         "original_lang": "ja",
         "original": "警官C",
         "latin": "Police Officer C"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 2
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "fiend-tv",
+      "id": "ma-jin",
       "name": {
         "original_lang": "ja",
         "original": "魔人",
         "latin": "Fiend"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 2
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "private-devil-hunter-tv",
+      "id": "min-kan-nodebiruhanta",
       "name": {
         "original_lang": "ja",
         "original": "民間のデビルハンター",
         "latin": "Private Devil Hunter"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 2
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "receptionist-tv",
+      "id": "ju-fu-shoku-in",
       "name": {
         "original_lang": "ja",
         "original": "受付職員",
         "latin": "Receptionist"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 3
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "executive-a-tv",
+      "id": "kan-bu-a",
       "name": {
         "original_lang": "ja",
         "original": "幹部A",
         "latin": "Executive A"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 3
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "executive-c-tv",
+      "id": "kan-bu-c",
       "name": {
         "original_lang": "ja",
         "original": "幹部C",
         "latin": "Executive C"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 3
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "office-worker-tv",
+      "id": "jo-sei-ol",
       "name": {
         "original_lang": "ja",
         "original": "女性OL",
         "latin": "Female Office Worker"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 3
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "father-tv",
+      "id": "fu",
       "name": {
         "original_lang": "ja",
         "original": "父",
         "latin": "Father"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 3
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "daughter-tv",
+      "id": "jou",
       "name": {
         "original_lang": "ja",
         "original": "娘",
         "latin": "Daughter"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 3
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "man-in-car-tv",
+      "id": "sha-dai-no-dan",
       "name": {
         "original_lang": "ja",
         "original": "車内の男",
         "latin": "Man in the Car"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 3
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "female-division-member-tv",
+      "id": "jo-sei-ka-in",
       "name": {
         "original_lang": "ja",
         "original": "女性課員",
         "latin": "Female Division Member"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 7
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "male-division-member-tv",
+      "id": "dan-sei-ka-in",
       "name": {
         "original_lang": "ja",
         "original": "男性課員",
         "latin": "Male Division Member"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 7
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "subordinate-ep8-tv",
+      "id": "bu-ka",
       "name": {
         "original_lang": "ja",
         "original": "部下",
         "latin": "Subordinate"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 8
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "mans-voice-tv",
+      "id": "dan-no-sei",
       "name": {
         "original_lang": "ja",
         "original": "男の声",
         "latin": "Man's Voice"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 8
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "henchman-a-ep9-tv",
+      "id": "shi-bun-a",
       "name": {
         "original_lang": "ja",
         "original": "子分A",
         "latin": "Henchman A"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 9
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "henchman-b-ep9-tv",
+      "id": "shi-bun-b",
       "name": {
         "original_lang": "ja",
         "original": "子分B",
         "latin": "Henchman B"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 9
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "henchman-c-ep9-tv",
+      "id": "shi-bun-c",
       "name": {
         "original_lang": "ja",
         "original": "子分C",
         "latin": "Henchman C"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 9
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "henchman-d-ep9-tv",
+      "id": "shi-bun-d",
       "name": {
         "original_lang": "ja",
         "original": "子分D",
         "latin": "Henchman D"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 9
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "passenger-a-tv",
+      "id": "jou-kyaku-a",
       "name": {
         "original_lang": "ja",
         "original": "乗客A",
         "latin": "Passenger A"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 9
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "man-a-tv",
+      "id": "dan-a",
       "name": {
         "original_lang": "ja",
         "original": "男A",
         "latin": "Man A"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 9
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "staff-member-tv",
+      "id": "shoku-in",
       "name": {
         "original_lang": "ja",
         "original": "職員",
         "latin": "Staff Member"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 9
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "criminal-a-tv",
+      "id": "han-zai-sha-a",
       "name": {
         "original_lang": "ja",
         "original": "犯罪者A",
         "latin": "Criminal A"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 9
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "criminal-b-tv",
+      "id": "han-zai-sha-b",
       "name": {
         "original_lang": "ja",
         "original": "犯罪者B",
         "latin": "Criminal B"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 9
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "hostage-woman-tv",
+      "id": "jin-shitsu-no-jo-sei",
       "name": {
         "original_lang": "ja",
         "original": "人質の女性",
         "latin": "Hostage Woman"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 9
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "announcer-tv",
+      "id": "anaunsa",
       "name": {
         "original_lang": "ja",
         "original": "アナウンサー",
         "latin": "Announcer"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 10
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "henchman-a-ep11-tv",
+      "id": "shi-bun-a-2",
       "name": {
         "original_lang": "ja",
         "original": "子分A",
         "latin": "Henchman A"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 11
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "henchman-b-ep11-tv",
+      "id": "shi-bun-b-2",
       "name": {
         "original_lang": "ja",
         "original": "子分B",
         "latin": "Henchman B"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 11
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "henchman-c-ep11-tv",
+      "id": "shi-bun-c-2",
       "name": {
         "original_lang": "ja",
         "original": "子分C",
         "latin": "Henchman C"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 11
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "henchman-d-ep11-tv",
+      "id": "shi-bun-d-2",
       "name": {
         "original_lang": "ja",
         "original": "子分D",
         "latin": "Henchman D"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 11
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "yakuza-boss-tv",
+      "id": "so-chou",
       "name": {
         "original_lang": "ja",
         "original": "組長",
         "latin": "Yakuza Boss"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 11
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "announcement-tv",
+      "id": "anaunsu",
       "name": {
         "original_lang": "ja",
         "original": "アナウンス",
         "latin": "Announcement"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 12
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "large-zombie-tv",
+      "id": "tai-dan-zonbi",
       "name": {
         "original_lang": "ja",
         "original": "大男ゾンビ",
         "latin": "Large Zombie"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 12
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "stranded-passenger-tv",
+      "id": "tou-ge-chi-reta-jou-kyaku",
       "name": {
         "original_lang": "ja",
         "original": "逃げ遅れた乗客",
         "latin": "Stranded Passenger"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 12
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "executive-ep12-tv",
+      "id": "kan-bu",
       "name": {
         "original_lang": "ja",
         "original": "幹部",
         "latin": "Executive"
       },
       "first_appearance": {
-        "work": "chainsaw-man-tv",
-        "episode": 12
+        "work": "chainsaw-man-tv"
       },
       "nameless": true
     },
     {
-      "id": "vice-captain-reze",
+      "id": "fuku-tai-chou",
       "name": {
         "original_lang": "ja",
         "original": "副隊長",
@@ -1453,7 +1376,7 @@
       }
     },
     {
-      "id": "mysterious-man-reze",
+      "id": "mei-no-dan",
       "name": {
         "original_lang": "ja",
         "original": "謎の男",
@@ -1477,7 +1400,7 @@
       }
     },
     {
-      "id": "nimichi-master-reze",
+      "id": "ni-dou-nomasuta",
       "name": {
         "original_lang": "ja",
         "original": "二道のマスター",
@@ -1489,7 +1412,7 @@
       "nameless": true
     },
     {
-      "id": "comedian-biyori",
+      "id": "o-shou-i-gei-jin",
       "name": {
         "original_lang": "ja",
         "original": "お笑い芸人",
@@ -1501,7 +1424,7 @@
       "nameless": true
     },
     {
-      "id": "woman-biyori",
+      "id": "jo-sei",
       "name": {
         "original_lang": "ja",
         "original": "女性",

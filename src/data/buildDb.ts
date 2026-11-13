@@ -21,13 +21,6 @@ export function workSortKey(w: Work): string {
   return `${w.start_date ? partialDateStart(w.start_date) : '9999-99-99'}|${String(w.order ?? 999).padStart(4, '0')}|${w.id}`;
 }
 
-function episodeStart(e: unknown): number | undefined {
-  if (!e) return undefined;
-  if (typeof e === 'object') return (e as { from?: number }).from ?? 1;
-  const m = String(e).match(/^\d+/);
-  return m ? Number(m[0]) : undefined;
-}
-
 export function buildDb(input: BuildInput, builtAt = new Date().toISOString()): Db {
   const strip = <T extends { $schema?: string }>(o: T): T => {
     const { $schema: _s, ...rest } = o;
@@ -87,13 +80,10 @@ export function buildDb(input: BuildInput, builtAt = new Date().toISOString()): 
         addSet(idx.personsByFranchiseLang, w.franchise_id, v.language, c.person);
         const wl = (idx.worksByPerson[c.person] ??= []);
         if (!wl.includes(w.id)) wl.push(w.id);
-        // 첫 음성 출연: 작품이 정렬되어 있으므로 같은 작품 안에서는 회차가 가장 이른 것
+        // 첫 음성 출연: 작품이 정렬되어 있으므로 처음 만난 작품
         const fv = (idx.firstVoicedByCharacter[key] ??= {});
         const cur: FirstVoiced | undefined = fv[v.language];
-        const ep = episodeStart(c.episodes);
-        if (!cur) fv[v.language] = { work: w.id, vi, ...(ep ? { episode: ep } : {}) };
-        else if (cur.work === w.id && (cur.episode ?? 1) > (ep ?? 1))
-          fv[v.language] = { work: w.id, vi, ...(ep ? { episode: ep } : {}) };
+        if (!cur) fv[v.language] = { work: w.id, vi };
       });
     });
   }

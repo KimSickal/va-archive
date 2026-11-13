@@ -24,7 +24,6 @@ export function CharacterPage() {
   for (const c of credits) byWork.set(c.work.id, [...(byWork.get(c.work.id) ?? []), c]);
   const fv = db.idx.firstVoicedByCharacter[key] ?? {};
   const fa = ch.first_appearance;
-  const epLabel = (e?: number) => (e ? ` ${e}화` : '');
 
   return (
     <article className="page">
@@ -69,7 +68,6 @@ export function CharacterPage() {
                 <dt>첫 등장</dt>
                 <dd>
                   <Link to={`/work/${fa.work}`}>{displayName(db.works[fa.work].title)}</Link>
-                  {epLabel(fa.episode)}
                 </dd>
               </>
             )}
@@ -77,7 +75,7 @@ export function CharacterPage() {
               .sort(langOrder)
               .map((lang) => {
                 const f = fv[lang];
-                const same = fa && fa.work === f.work && (fa.episode ?? 0) === (f.episode ?? 0);
+                const same = fa && fa.work === f.work;
                 return (
                   <span key={lang} className="contents">
                     <dt>첫 음성 ({langLabel(lang)})</dt>
@@ -87,7 +85,6 @@ export function CharacterPage() {
                       ) : (
                         <>
                           <Link to={`/work/${f.work}`}>{displayName(db.works[f.work].title)}</Link>
-                          {epLabel(f.episode)}
                         </>
                       )}
                     </dd>
