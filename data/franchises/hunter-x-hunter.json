@@ -928,6 +928,11 @@
         "latin": "Kiriko (couple)",
         "official": {
           "ko": "키리코"
+        },
+        "aliases": {
+          "ja": [
+            "きりこ"
+          ]
         }
       },
       "first_appearance": {
@@ -942,6 +947,11 @@
         "latin": "Kiriko (son)",
         "official": {
           "ko": "무스코"
+        },
+        "aliases": {
+          "ja": [
+            "きりこ"
+          ]
         }
       },
       "first_appearance": {
@@ -956,6 +966,11 @@
         "latin": "Kiriko (daughter)",
         "official": {
           "ko": "무스메"
+        },
+        "aliases": {
+          "ja": [
+            "きりこ"
+          ]
         }
       },
       "first_appearance": {

@@ -7,7 +7,8 @@
     "latin": "Velo Takeda",
     "aliases": {
       "ja": [
-        "ベロ武田"
+        "ベロ武田",
+        "べろたけだ"
       ]
     }
   },
@@ -17,6 +18,14 @@
       "url": "https://ja.wikipedia.org/wiki/HUNTER%C3%97HUNTER%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9",
       "title": "HUNTER×HUNTERの登場人物",
       "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=120485",
+      "title": "Velo TAKEDA - Anime News Network:W",
+      "publisher": "ann",
       "tier": 2,
       "accessed_at": "2026-11-13"
     }

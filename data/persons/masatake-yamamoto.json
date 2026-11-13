@@ -4,7 +4,12 @@
   "name": {
     "original_lang": "ja",
     "original": "山本正剛",
-    "latin": "Masatake Yamamoto"
+    "latin": "Masatake Yamamoto",
+    "aliases": {
+      "ja": [
+        "やまもとまさたけ"
+      ]
+    }
   },
   "sources": [
     {
