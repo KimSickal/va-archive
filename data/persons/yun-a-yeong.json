@@ -1,0 +1,35 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "yun-a-yeong",
+  "slug": "yoon-a-yeong",
+  "name": {
+    "original_lang": "ko",
+    "original": "윤아영",
+    "latin": "Yoon A-yeong"
+  },
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1986-04-08",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9C%A4%EC%95%84%EC%98%81"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EC%9C%A4%EC%95%84%EC%98%81",
+      "title": "윤아영 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

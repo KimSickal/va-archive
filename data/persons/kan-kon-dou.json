@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kan-kon-dou",
+  "slug": "hitomi-sekine",
+  "name": {
+    "original_lang": "ja",
+    "original": "関根瞳",
+    "latin": "Hitomi Sekine",
+    "aliases": {
+      "ja": [
+        "せきねひとみ"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "2000-05-09",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%96%A2%E6%A0%B9%E7%9E%B3"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%96%A2%E6%A0%B9%E7%9E%B3",
+      "title": "関根瞳 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

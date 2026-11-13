@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shaku-sen-kai-jin",
+  "slug": "kaito-ishikawa",
+  "name": {
+    "original_lang": "ja",
+    "original": "石川界人",
+    "latin": "Kaito Ishikawa",
+    "aliases": {
+      "ja": [
+        "いしかわかいと"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1993-10-13",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B7%9D%E7%95%8C%E4%BA%BA"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B7%9D%E7%95%8C%E4%BA%BA",
+      "title": "石川界人 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

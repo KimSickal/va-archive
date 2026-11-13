@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kei-chou-yuu-kou",
+  "slug": "yuka-keicho",
+  "name": {
+    "original_lang": "ja",
+    "original": "慶長佑香",
+    "latin": "Yuka Keicho",
+    "aliases": {
+      "ja": [
+        "けいちょうゆか"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%85%B6%E9%95%B7%E4%BD%91%E9%A6%99"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%85%B6%E9%95%B7%E4%BD%91%E9%A6%99",
+      "title": "慶長佑香 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

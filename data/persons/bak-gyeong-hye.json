@@ -1,0 +1,35 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "bak-gyeong-hye",
+  "slug": "park-gyeong-hye",
+  "name": {
+    "original_lang": "ko",
+    "original": "박경혜",
+    "latin": "Park Gyeong-hye"
+  },
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1974-09-15",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EB%B0%95%EA%B2%BD%ED%98%9C_%28%EC%84%B1%EC%9A%B0%29"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B0%95%EA%B2%BD%ED%98%9C_%28%EC%84%B1%EC%9A%B0%29",
+      "title": "박경혜 (성우) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

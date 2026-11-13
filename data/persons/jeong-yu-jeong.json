@@ -1,0 +1,35 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "jeong-yu-jeong",
+  "slug": "jung-yu-jeong",
+  "name": {
+    "original_lang": "ko",
+    "original": "정유정",
+    "latin": "Jung Yu-jeong"
+  },
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1991-03-27",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%9C%A0%EC%A0%95_(%EC%84%B1%EC%9A%B0)"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%9C%A0%EC%A0%95_(%EC%84%B1%EC%9A%B0)",
+      "title": "정유정 (성우) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

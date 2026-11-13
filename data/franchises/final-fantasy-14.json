@@ -1,0 +1,2963 @@
+{
+  "$schema": "../schema/franchise.schema.json",
+  "id": "final-fantasy-14",
+  "title": {
+    "original_lang": "ja",
+    "original": "ファイナルファンタジーXIV",
+    "latin": "Final Fantasy XIV",
+    "official": {
+      "en": "Final Fantasy XIV",
+      "ko": "파이널 판타지 XIV"
+    },
+    "aliases": {
+      "ja": [
+        "FF14",
+        "FFXIV"
+      ],
+      "ko": [
+        "파판14",
+        "파이널 판타지 14"
+      ]
+    }
+  },
+  "original_media": "game",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXIV",
+    "en": "https://en.wikipedia.org/wiki/Final_Fantasy_XIV",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%8C%8C%EC%9D%B4%EB%84%90_%ED%8C%90%ED%83%80%EC%A7%80_XIV"
+  },
+  "characters": [
+    {
+      "id": "alphinaud-leveilleur",
+      "name": {
+        "original_lang": "ja",
+        "original": "アルフィノ・ルヴェユール",
+        "latin": "Alphinaud Leveilleur",
+        "official": {
+          "en": "Alphinaud Leveilleur",
+          "ko": "알피노 르베유르"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "aymeric-de-borel",
+      "name": {
+        "original_lang": "ja",
+        "original": "アイメリク・ド・ボーレル",
+        "latin": "Aymeric de Borel",
+        "official": {
+          "en": "Aymeric de Borel",
+          "ko": "아이메리크 드 보렐"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "biggs",
+      "name": {
+        "original_lang": "ja",
+        "original": "ビッグス",
+        "latin": "Biggs",
+        "official": {
+          "en": "Biggs",
+          "ko": "빅스"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "cid-garlond",
+      "name": {
+        "original_lang": "ja",
+        "original": "シド・ナン・ガーロンド",
+        "latin": "Cid nan Garlond",
+        "official": {
+          "en": "Cid nan Garlond",
+          "ko": "시드 난 갈론드"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "eynzahr-slafyrsyn",
+      "name": {
+        "original_lang": "ja",
+        "original": "エインザル・スラフィルシン",
+        "latin": "Eynzahr Slafyrsyn",
+        "official": {
+          "en": "Eynzahr Slafyrsyn",
+          "ko": "에인차 슬라퓌어진"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "gaius-van-baelsar",
+      "name": {
+        "original_lang": "ja",
+        "original": "ガイウス・ヴァン・バエサル",
+        "latin": "Gaius van Baelsar",
+        "official": {
+          "en": "Gaius van Baelsar",
+          "ko": "가이우스 반 바일사르"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "garuda",
+      "name": {
+        "original_lang": "ja",
+        "original": "ガルーダ",
+        "latin": "Garuda",
+        "official": {
+          "en": "Garuda",
+          "ko": "가루다"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "haurchefant-greystone",
+      "name": {
+        "original_lang": "ja",
+        "original": "オルシュファン・グレイストーン",
+        "latin": "Haurchefant Greystone",
+        "official": {
+          "en": "Haurchefant Greystone",
+          "ko": "오르슈팡 그레이스톤"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "hydaelyn",
+      "name": {
+        "original_lang": "ja",
+        "original": "ハイデリン",
+        "latin": "Hydaelyn",
+        "official": {
+          "en": "Hydaelyn",
+          "ko": "하이델린"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "ilberd-feare",
+      "name": {
+        "original_lang": "ja",
+        "original": "イルベルド・フィア",
+        "latin": "Ilberd Feare",
+        "official": {
+          "en": "Ilberd Feare",
+          "ko": "일베르드 피어"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "kan-e-senna",
+      "name": {
+        "original_lang": "ja",
+        "original": "カヌ・エ・センナ",
+        "latin": "Kan-E-Senna",
+        "official": {
+          "en": "Kan-E-Senna",
+          "ko": "카느 에 센나"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "lahabrea",
+      "name": {
+        "original_lang": "ja",
+        "original": "アシエン・ラハブレア",
+        "latin": "Lahabrea",
+        "official": {
+          "en": "Lahabrea",
+          "ko": "아씨엔 라하브레아"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "livia-sas-junius",
+      "name": {
+        "original_lang": "ja",
+        "original": "リウィア・サス・ユニウス",
+        "latin": "Livia sas Junius",
+        "official": {
+          "en": "Livia sas Junius",
+          "ko": "리위아 사스 유니우스"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "lolorito-nanarito",
+      "name": {
+        "original_lang": "ja",
+        "original": "ロロリト・ナナリト",
+        "latin": "Lolorito Nanarito",
+        "official": {
+          "en": "Lolorito Nanarito",
+          "ko": "로로리토 나나리토"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "louisoix-leveilleur",
+      "name": {
+        "original_lang": "ja",
+        "original": "ルイゾワ・ルヴェユール",
+        "latin": "Louisoix Leveilleur",
+        "official": {
+          "en": "Louisoix Leveilleur",
+          "ko": "루이수아 르베유르"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "merlwyb-bloefhiswyn",
+      "name": {
+        "original_lang": "ja",
+        "original": "メルウィブ・ブルーフィスウィン",
+        "latin": "Merlwyb Bloefhiswyn",
+        "official": {
+          "en": "Merlwyb Bloefhiswyn",
+          "ko": "멜위브 블루피쉰"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "minfilia-warde",
+      "name": {
+        "original_lang": "ja",
+        "original": "ミンフィリア・ウォード",
+        "latin": "Minfilia Warde",
+        "official": {
+          "en": "Minfilia Warde",
+          "ko": "민필리아 워드"
+        },
+        "aliases": {
+          "ja": [
+            "ミンフィリア"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "moenbryda-wilfsunnwyn",
+      "name": {
+        "original_lang": "ja",
+        "original": "ムーンブリダ・ウィルフスンウィン",
+        "latin": "Moenbryda Wilfsunnwyn",
+        "official": {
+          "en": "Moenbryda Wilfsunnwyn",
+          "ko": "문브뤼다 윌슨윈"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "nabriales",
+      "name": {
+        "original_lang": "ja",
+        "original": "アシエン・ナプリアレス",
+        "latin": "Nabriales",
+        "official": {
+          "en": "Nabriales",
+          "ko": "아씨엔 나브리알레스"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "nanamo-ul-namo",
+      "name": {
+        "original_lang": "ja",
+        "original": "ナナモ・ウル・ナモ",
+        "latin": "Nanamo Ul Namo",
+        "official": {
+          "en": "Nanamo Ul Namo",
+          "ko": "나나모 울 나모"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "nero-tol-scaeva",
+      "name": {
+        "original_lang": "ja",
+        "original": "ネロ・トル・スカエウァ",
+        "latin": "Nero tol Scaeva",
+        "official": {
+          "en": "Nero tol Scaeva",
+          "ko": "네로 톨 스카이와"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "papalymo-totolymo",
+      "name": {
+        "original_lang": "ja",
+        "original": "パパリモ・トトリモ",
+        "latin": "Papalymo Totolymo",
+        "official": {
+          "en": "Papalymo Totolymo",
+          "ko": "파파리모 토토리모"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "pipin-tarupin",
+      "name": {
+        "original_lang": "ja",
+        "original": "ピピン・タルピン",
+        "latin": "Pipin Tarupin",
+        "official": {
+          "en": "Pipin Tarupin",
+          "ko": "피핀 타루핀"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "ramuh",
+      "name": {
+        "original_lang": "ja",
+        "original": "ラムウ",
+        "latin": "Ramuh",
+        "official": {
+          "en": "Ramuh",
+          "ko": "라무"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "raubahn-aldynn",
+      "name": {
+        "original_lang": "ja",
+        "original": "ラウバーン・アルディン",
+        "latin": "Raubahn Aldynn",
+        "official": {
+          "en": "Raubahn Aldynn",
+          "ko": "라우반 알딘"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "rhitahtyn-sas-arvina",
+      "name": {
+        "original_lang": "ja",
+        "original": "リットアティン・サス・アルヴィナ",
+        "latin": "Rhitahtyn sas Arvina",
+        "official": {
+          "en": "Rhitahtyn sas Arvina",
+          "ko": "리트아틴 사스 아르비나"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "shiva",
+      "name": {
+        "original_lang": "ja",
+        "original": "シヴァ",
+        "latin": "Shiva",
+        "official": {
+          "en": "Shiva",
+          "ko": "시바"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "tataru-taru",
+      "name": {
+        "original_lang": "ja",
+        "original": "タタル・タル",
+        "latin": "Tataru Taru",
+        "official": {
+          "en": "Tataru Taru",
+          "ko": "타타루 타루"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "teledji-adeledji",
+      "name": {
+        "original_lang": "ja",
+        "original": "テレジ・アデレジ",
+        "latin": "Teledji Adeledji",
+        "official": {
+          "en": "Teledji Adeledji",
+          "ko": "텔레지 아델레지"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "thancred-waters",
+      "name": {
+        "original_lang": "ja",
+        "original": "サンクレッド・ウォータース",
+        "latin": "Thancred Waters",
+        "official": {
+          "en": "Thancred Waters",
+          "ko": "산크레드 워터스"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "urianger-augurelt",
+      "name": {
+        "original_lang": "ja",
+        "original": "ウリエンジェ・オギュレ",
+        "latin": "Urianger Augurelt",
+        "official": {
+          "en": "Urianger Augurelt",
+          "ko": "위리앙제 오귀레"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "varis-zos-galvus",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヴァリス・ゾス・ガルヴァス",
+        "latin": "Varis zos Galvus",
+        "official": {
+          "en": "Varis zos Galvus",
+          "ko": "바리스 조스 갈부스"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "wedge",
+      "name": {
+        "original_lang": "ja",
+        "original": "ウェッジ",
+        "latin": "Wedge",
+        "official": {
+          "en": "Wedge",
+          "ko": "웨지"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "yda-hext",
+      "name": {
+        "original_lang": "ja",
+        "original": "イダ",
+        "latin": "Yda",
+        "official": {
+          "en": "Yda",
+          "ko": "이다 헥스트"
+        },
+        "aliases": {
+          "ja": [
+            "リセ",
+            "リセ・ヘクスト",
+            "イダ・ヘクスト"
+          ],
+          "en": [
+            "Lyse Hext",
+            "Lyse"
+          ],
+          "ko": [
+            "리세 헥스트"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "ysayle-dangoulain",
+      "name": {
+        "original_lang": "ja",
+        "original": "イゼル・ダングラン",
+        "latin": "Ysayle Dangoulain",
+        "official": {
+          "en": "Ysayle Dangoulain",
+          "ko": "이젤 당굴랑"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "yshtola-rhul",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヤ・シュトラ・ルル",
+        "latin": "Y'shtola Rhul",
+        "official": {
+          "en": "Y'shtola Rhul",
+          "ko": "야슈톨라 루루"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "yugiri-mistwalker",
+      "name": {
+        "original_lang": "ja",
+        "original": "ユウギリ",
+        "latin": "Yugiri",
+        "official": {
+          "en": "Yugiri",
+          "ko": "유우기리"
+        },
+        "aliases": {
+          "ja": [
+            "霧隠のユウギリ"
+          ],
+          "en": [
+            "Yugiri Mistwalker"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "alisaie-leveilleur",
+      "name": {
+        "original_lang": "ja",
+        "original": "アリゼー・ルヴェユール",
+        "latin": "Alisaie Leveilleur",
+        "official": {
+          "en": "Alisaie Leveilleur",
+          "ko": "알리제 르베유르"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "ardbert",
+      "name": {
+        "original_lang": "ja",
+        "original": "アルバート",
+        "latin": "Ardbert",
+        "official": {
+          "en": "Ardbert",
+          "ko": "알버트"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-heavensward"
+      }
+    },
+    {
+      "id": "artoirel-de-fortemps",
+      "name": {
+        "original_lang": "ja",
+        "original": "アルトアレール・ド・フォルタン",
+        "latin": "Artoirel de Fortemps",
+        "official": {
+          "en": "Artoirel de Fortemps",
+          "ko": "아르투아렐 드 포르탕"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-heavensward"
+      }
+    },
+    {
+      "id": "branden",
+      "name": {
+        "original_lang": "ja",
+        "original": "ブランヘルツ",
+        "latin": "Blanhaerz",
+        "official": {
+          "en": "Blanhaerz",
+          "ko": "블란헤르츠"
+        },
+        "aliases": {
+          "ja": [
+            "ブランデン"
+          ],
+          "en": [
+            "Branden"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-heavensward"
+      }
+    },
+    {
+      "id": "charibert-de-leusignac",
+      "name": {
+        "original_lang": "ja",
+        "original": "シャリベル・ド・ルジニャック",
+        "latin": "Charibert de Leusignac",
+        "official": {
+          "en": "Charibert de Leusignac",
+          "ko": "샤리베르 드 쿠르샹"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-heavensward"
+      }
+    },
+    {
+      "id": "edmont-de-fortemps",
+      "name": {
+        "original_lang": "ja",
+        "original": "エドモン・ド・フォルタン",
+        "latin": "Edmont de Fortemps",
+        "official": {
+          "en": "Edmont de Fortemps",
+          "ko": "에드몽 드 포르탕"
+        },
+        "aliases": {
+          "ja": [
+            "エドモン・ド・フォルタン伯爵"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-heavensward"
+      }
+    },
+    {
+      "id": "elidibus",
+      "name": {
+        "original_lang": "ja",
+        "original": "アシエン・エリディブス",
+        "latin": "Elidibus",
+        "official": {
+          "en": "Elidibus",
+          "ko": "아씨엔 엘리디부스"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-heavensward"
+      }
+    },
+    {
+      "id": "emmanellain-de-fortemps",
+      "name": {
+        "original_lang": "ja",
+        "original": "エマネラン・ド・フォルタン",
+        "latin": "Emmanellain de Fortemps",
+        "official": {
+          "en": "Emmanellain de Fortemps",
+          "ko": "에마넬랭 드 포르탕"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-heavensward"
+      }
+    },
+    {
+      "id": "estinien-varlineau",
+      "name": {
+        "original_lang": "ja",
+        "original": "エスティニアン・ヴァーリノ",
+        "latin": "Estinien Varlineau",
+        "official": {
+          "en": "Estinien Varlineau",
+          "ko": "에스티니앙"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-heavensward"
+      }
+    },
+    {
+      "id": "grinnaux-de-dzemael",
+      "name": {
+        "original_lang": "ja",
+        "original": "グリノー・ド・ゼーメル",
+        "latin": "Grinnaux de Dzemael",
+        "official": {
+          "en": "Grinnaux de Dzemael"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-heavensward"
+      }
+    },
+    {
+      "id": "grynewaht",
+      "name": {
+        "original_lang": "ja",
+        "original": "グリーンワート",
+        "latin": "Grynewaht",
+        "official": {
+          "en": "Grynewaht",
+          "ko": "그륀바트"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-heavensward"
+      }
+    },
+    {
+      "id": "hilda-ware",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヒルダ",
+        "latin": "Hilda Ware",
+        "official": {
+          "en": "Hilda Ware",
+          "ko": "힐다 웨어"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-heavensward"
+      }
+    },
+    {
+      "id": "honoroit-banlardois",
+      "name": {
+        "original_lang": "ja",
+        "original": "オノロワ・バンラルドワ",
+        "latin": "Honoroit Banlardois",
+        "official": {
+          "en": "Honoroit Banlardois",
+          "ko": "오노루아 방라르두아"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-heavensward"
+      }
+    },
+    {
+      "id": "igeyorhm",
+      "name": {
+        "original_lang": "ja",
+        "original": "アシエン・イゲオルム",
+        "latin": "Igeyorhm",
+        "official": {
+          "en": "Igeyorhm",
+          "ko": "아씨엔 이게요름"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-heavensward"
+      }
+    },
+    {
+      "id": "krile-maya-baldesion",
+      "name": {
+        "original_lang": "ja",
+        "original": "クルル・マイア・バルデシオン",
+        "latin": "Krile Maya Baldesion",
+        "official": {
+          "en": "Krile Maya Baldesion",
+          "ko": "쿠루루 마이어 발데시온"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-heavensward"
+      }
+    },
+    {
+      "id": "lamitt",
+      "name": {
+        "original_lang": "ja",
+        "original": "ラミミ",
+        "latin": "Lamimi",
+        "official": {
+          "en": "Lamimi",
+          "ko": "라라미"
+        },
+        "aliases": {
+          "ja": [
+            "ラミット"
+          ],
+          "en": [
+            "Lamitt"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-heavensward"
+      }
+    },
+    {
+      "id": "lucia-junius",
+      "name": {
+        "original_lang": "ja",
+        "original": "ルキア・ゴー・ユニウス",
+        "latin": "Lucia goe Junius",
+        "official": {
+          "en": "Lucia goe Junius",
+          "ko": "루키아 고 유니우스"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-heavensward"
+      }
+    },
+    {
+      "id": "matoya",
+      "name": {
+        "original_lang": "ja",
+        "original": "マトーヤ",
+        "latin": "Matoya",
+        "official": {
+          "en": "Matoya",
+          "ko": "마토야"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-heavensward"
+      }
+    },
+    {
+      "id": "midgardsormr",
+      "name": {
+        "original_lang": "ja",
+        "original": "ミドガルズオルム",
+        "latin": "Midgardsormr",
+        "official": {
+          "en": "Midgardsormr",
+          "ko": "미드가르드오름"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "nyelbert",
+      "name": {
+        "original_lang": "ja",
+        "original": "ナイユベール",
+        "latin": "Naillebert",
+        "official": {
+          "en": "Naillebert",
+          "ko": "나유베르"
+        },
+        "aliases": {
+          "ja": [
+            "ナイルベルト"
+          ],
+          "en": [
+            "Nyelbert"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-heavensward"
+      }
+    },
+    {
+      "id": "ravana",
+      "name": {
+        "original_lang": "ja",
+        "original": "ラーヴァナ",
+        "latin": "Ravana",
+        "official": {
+          "en": "Ravana",
+          "ko": "라바나"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-heavensward"
+      }
+    },
+    {
+      "id": "regula-van-hydrus",
+      "name": {
+        "original_lang": "ja",
+        "original": "レグラ・ヴァン・ヒュドルス",
+        "latin": "Regula van Hydrus",
+        "official": {
+          "en": "Regula van Hydrus",
+          "ko": "레굴라 반 히드루스"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-heavensward"
+      }
+    },
+    {
+      "id": "renda-rae",
+      "name": {
+        "original_lang": "ja",
+        "original": "ジャ・ルマレ",
+        "latin": "J'rhoomale",
+        "official": {
+          "en": "J'rhoomale",
+          "ko": "자루말레"
+        },
+        "aliases": {
+          "ja": [
+            "レンダ・レイ"
+          ],
+          "en": [
+            "Renda-Rae"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-heavensward"
+      }
+    },
+    {
+      "id": "thordan-vii",
+      "name": {
+        "original_lang": "ja",
+        "original": "トールダン7世",
+        "latin": "Thordan VII",
+        "official": {
+          "en": "Thordan VII",
+          "ko": "토르당 7세"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-heavensward"
+      }
+    },
+    {
+      "id": "vidofnir",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヴィゾーヴニル",
+        "latin": "Vidofnir",
+        "official": {
+          "en": "Vidofnir",
+          "ko": "비도프니르"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-heavensward"
+      }
+    },
+    {
+      "id": "zephirin-de-valhourdin",
+      "name": {
+        "original_lang": "ja",
+        "original": "ゼフィラン・ド・ヴァルールダン",
+        "latin": "Zephirin de Valhourdin",
+        "official": {
+          "en": "Zephirin de Valhourdin",
+          "ko": "제피랭 드 발루르당"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-heavensward"
+      }
+    },
+    {
+      "id": "arenvald-lentinus",
+      "name": {
+        "original_lang": "ja",
+        "original": "アレンヴァルド・レンティヌス",
+        "latin": "Arenvald Lentinus",
+        "official": {
+          "en": "Arenvald Lentinus",
+          "ko": "아렌발드 렌티누스"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-stormblood"
+      }
+    },
+    {
+      "id": "asahi-sas-brutus",
+      "name": {
+        "original_lang": "ja",
+        "original": "アサヒ・サス・ブルトゥス",
+        "latin": "Asahi sas Brutus",
+        "official": {
+          "en": "Asahi sas Brutus",
+          "ko": "아사히 사스 브루투스"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-stormblood"
+      }
+    },
+    {
+      "id": "aulus-mal-asina",
+      "name": {
+        "original_lang": "ja",
+        "original": "アウルス・マル・アシナ",
+        "latin": "Aulus mal Asina",
+        "official": {
+          "en": "Aulus mal Asina",
+          "ko": "아울루스 말 아시나"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-stormblood"
+      }
+    },
+    {
+      "id": "cirina-mol",
+      "name": {
+        "original_lang": "ja",
+        "original": "シリナ",
+        "latin": "Cirina",
+        "official": {
+          "en": "Cirina",
+          "ko": "시리나"
+        },
+        "aliases": {
+          "ja": [
+            "シリナ・モル"
+          ],
+          "en": [
+            "Cirina Mol"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-stormblood"
+      }
+    },
+    {
+      "id": "conrad-kemp",
+      "name": {
+        "original_lang": "ja",
+        "original": "コンラッド",
+        "latin": "Conrad Kemp",
+        "official": {
+          "en": "Conrad Kemp",
+          "ko": "콘래드"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-stormblood"
+      }
+    },
+    {
+      "id": "emet-selch",
+      "name": {
+        "original_lang": "ja",
+        "original": "エメトセルク",
+        "latin": "Emet-Selch",
+        "official": {
+          "en": "Emet-Selch",
+          "ko": "에메트셀크"
+        },
+        "aliases": {
+          "ja": [
+            "アシエン・エメトセルク",
+            "ソル・ゾス・ガルヴァス"
+          ],
+          "en": [
+            "Solus zos Galvus"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-stormblood"
+      }
+    },
+    {
+      "id": "fordola-rem-lupis",
+      "name": {
+        "original_lang": "ja",
+        "original": "フォルドラ・レム・ルプス",
+        "latin": "Fordola rem Lupis",
+        "official": {
+          "en": "Fordola rem Lupis",
+          "ko": "포르돌라 렘 루푸스"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-stormblood"
+      }
+    },
+    {
+      "id": "gosetsu",
+      "name": {
+        "original_lang": "ja",
+        "original": "ゴウセツ",
+        "latin": "Gosetsu",
+        "official": {
+          "en": "Gosetsu",
+          "ko": "고우세츠"
+        },
+        "aliases": {
+          "en": [
+            "Gosetsu Daito"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-stormblood"
+      }
+    },
+    {
+      "id": "graha-tia",
+      "name": {
+        "original_lang": "ja",
+        "original": "グ・ラハ・ティア",
+        "latin": "G'raha Tia",
+        "official": {
+          "en": "G'raha Tia"
+        },
+        "aliases": {
+          "ja": [
+            "水晶公"
+          ],
+          "en": [
+            "Crystal Exarch"
+          ],
+          "ko": [
+            "그라하 티아"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-arr"
+      }
+    },
+    {
+      "id": "hancock-fitzgerald",
+      "name": {
+        "original_lang": "ja",
+        "original": "ハンコック",
+        "latin": "Hancock",
+        "official": {
+          "en": "Hancock",
+          "ko": "행콕"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-stormblood"
+      }
+    },
+    {
+      "id": "hien-rijin",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヒエン",
+        "latin": "Hien",
+        "official": {
+          "en": "Hien",
+          "ko": "히엔"
+        },
+        "aliases": {
+          "ja": [
+            "ヒエン・リジン"
+          ],
+          "en": [
+            "Hien Rijin"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-stormblood"
+      }
+    },
+    {
+      "id": "isse-shibunuri",
+      "name": {
+        "original_lang": "ja",
+        "original": "イッセ",
+        "latin": "Isse",
+        "official": {
+          "en": "Isse",
+          "ko": "잇세"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-stormblood"
+      }
+    },
+    {
+      "id": "lakshmi",
+      "name": {
+        "original_lang": "ja",
+        "original": "ラクシュミ",
+        "latin": "Lakshmi",
+        "official": {
+          "en": "Lakshmi",
+          "ko": "락슈미"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-stormblood"
+      }
+    },
+    {
+      "id": "magnai-oronir",
+      "name": {
+        "original_lang": "ja",
+        "original": "マグナイ",
+        "latin": "Magnai",
+        "official": {
+          "en": "Magnai",
+          "ko": "마그나이"
+        },
+        "aliases": {
+          "ja": [
+            "マグナイ・オロニル"
+          ],
+          "en": [
+            "Magnai Oronir"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-stormblood"
+      }
+    },
+    {
+      "id": "maxima-quo-priscus",
+      "name": {
+        "original_lang": "ja",
+        "original": "マキシマ・クォ・プリスクス",
+        "latin": "Maxima quo Priscus",
+        "official": {
+          "en": "Maxima quo Priscus"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-stormblood"
+      }
+    },
+    {
+      "id": "meffrid-noward",
+      "name": {
+        "original_lang": "ja",
+        "original": "メッフリッド",
+        "latin": "Meffrid Noward",
+        "official": {
+          "en": "Meffrid Noward",
+          "ko": "메프리드"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-stormblood"
+      }
+    },
+    {
+      "id": "mnaago-rahz",
+      "name": {
+        "original_lang": "ja",
+        "original": "メ・ナーゴ",
+        "latin": "M'naago",
+        "official": {
+          "en": "M'naago",
+          "ko": "메나고"
+        },
+        "aliases": {
+          "ja": [
+            "メ・ナーゴ・ラツ"
+          ],
+          "en": [
+            "M'naago Rahz"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-stormblood"
+      }
+    },
+    {
+      "id": "rasho",
+      "name": {
+        "original_lang": "ja",
+        "original": "ラショウ",
+        "latin": "Rasho",
+        "official": {
+          "en": "Rasho",
+          "ko": "라쇼"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-stormblood"
+      }
+    },
+    {
+      "id": "sadu-dotharl",
+      "name": {
+        "original_lang": "ja",
+        "original": "サドゥ",
+        "latin": "Sadu",
+        "official": {
+          "en": "Sadu",
+          "ko": "사두"
+        },
+        "aliases": {
+          "ja": [
+            "サドゥ・ドタール"
+          ],
+          "en": [
+            "Sadu Dotharl"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-stormblood"
+      }
+    },
+    {
+      "id": "soroban",
+      "name": {
+        "original_lang": "ja",
+        "original": "ソロバン",
+        "latin": "Soroban",
+        "official": {
+          "en": "Soroban",
+          "ko": "소로반"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-stormblood"
+      }
+    },
+    {
+      "id": "susano",
+      "name": {
+        "original_lang": "ja",
+        "original": "スサノオ",
+        "latin": "Susano",
+        "official": {
+          "en": "Susano"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-stormblood"
+      }
+    },
+    {
+      "id": "tansui",
+      "name": {
+        "original_lang": "ja",
+        "original": "タンスイ",
+        "latin": "Tansui",
+        "official": {
+          "en": "Tansui",
+          "ko": "탄스이"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-stormblood"
+      }
+    },
+    {
+      "id": "temulun-mol",
+      "name": {
+        "original_lang": "ja",
+        "original": "テムルン",
+        "latin": "Temulun",
+        "official": {
+          "en": "Temulun",
+          "ko": "테무룬"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-stormblood"
+      }
+    },
+    {
+      "id": "yotsuyu",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヨツユ",
+        "latin": "Yotsuyu",
+        "official": {
+          "en": "Yotsuyu",
+          "ko": "요츠유"
+        },
+        "aliases": {
+          "ja": [
+            "ヨツユ・ゴー・ブルトゥス"
+          ],
+          "en": [
+            "Yotsuyu goe Brutus"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-stormblood"
+      }
+    },
+    {
+      "id": "zenos-yae-galvus",
+      "name": {
+        "original_lang": "ja",
+        "original": "ゼノス・イェー・ガルヴァス",
+        "latin": "Zenos yae Galvus",
+        "official": {
+          "en": "Zenos yae Galvus",
+          "ko": "제노스 예 갈부스"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-stormblood"
+      }
+    },
+    {
+      "id": "almet",
+      "name": {
+        "original_lang": "ja",
+        "original": "アルメ",
+        "latin": "Almet",
+        "official": {
+          "en": "Almet"
+        },
+        "aliases": {
+          "ko": [
+            "아르메"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-shadowbringers"
+      }
+    },
+    {
+      "id": "beq-lugg",
+      "name": {
+        "original_lang": "ja",
+        "original": "ベーク＝ラグ",
+        "latin": "Beq Lugg",
+        "official": {
+          "en": "Beq Lugg"
+        },
+        "aliases": {
+          "ko": [
+            "베크 러그"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-shadowbringers"
+      }
+    },
+    {
+      "id": "chai-nuzz",
+      "name": {
+        "original_lang": "ja",
+        "original": "チャイ・ヌズ",
+        "latin": "Chai-Nuzz",
+        "official": {
+          "en": "Chai-Nuzz"
+        },
+        "aliases": {
+          "ko": [
+            "차이 누즈"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-shadowbringers"
+      }
+    },
+    {
+      "id": "cymet",
+      "name": {
+        "original_lang": "ja",
+        "original": "シャイメ",
+        "latin": "Cymet",
+        "official": {
+          "en": "Cymet"
+        },
+        "aliases": {
+          "ko": [
+            "샤이메"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-shadowbringers"
+      }
+    },
+    {
+      "id": "dulia-chai",
+      "name": {
+        "original_lang": "ja",
+        "original": "ドゥリア・チャイ",
+        "latin": "Dulia-Chai",
+        "official": {
+          "en": "Dulia-Chai"
+        },
+        "aliases": {
+          "ko": [
+            "둘리아 차이"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-shadowbringers"
+      }
+    },
+    {
+      "id": "fandaniel",
+      "name": {
+        "original_lang": "ja",
+        "original": "アシエン・ファダニエル",
+        "latin": "Fandaniel",
+        "official": {
+          "en": "Fandaniel"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-shadowbringers"
+      }
+    },
+    {
+      "id": "feo-ul",
+      "name": {
+        "original_lang": "ja",
+        "original": "フェオ＝ウル",
+        "latin": "Feo Ul",
+        "official": {
+          "en": "Feo Ul"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-shadowbringers"
+      }
+    },
+    {
+      "id": "fourchenault-leveilleur",
+      "name": {
+        "original_lang": "ja",
+        "original": "フルシュノ・ルヴェユール",
+        "latin": "Fourchenault Leveilleur",
+        "official": {
+          "en": "Fourchenault Leveilleur"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-shadowbringers"
+      }
+    },
+    {
+      "id": "kai-shirr",
+      "name": {
+        "original_lang": "ja",
+        "original": "カイ・シル",
+        "latin": "Kai-Shirr",
+        "official": {
+          "en": "Kai-Shirr"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-shadowbringers"
+      }
+    },
+    {
+      "id": "lyna",
+      "name": {
+        "original_lang": "ja",
+        "original": "ライナ",
+        "latin": "Lyna",
+        "official": {
+          "en": "Lyna"
+        },
+        "aliases": {
+          "ko": [
+            "라이나"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-shadowbringers"
+      }
+    },
+    {
+      "id": "ranjit",
+      "name": {
+        "original_lang": "ja",
+        "original": "ランジート",
+        "latin": "Ran'jit",
+        "official": {
+          "en": "Ran'jit"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-shadowbringers"
+      }
+    },
+    {
+      "id": "runar",
+      "name": {
+        "original_lang": "ja",
+        "original": "ルナル",
+        "latin": "Runar",
+        "official": {
+          "en": "Runar"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-shadowbringers"
+      }
+    },
+    {
+      "id": "ryne",
+      "name": {
+        "original_lang": "ja",
+        "original": "リーン",
+        "latin": "Ryne",
+        "official": {
+          "en": "Ryne"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-shadowbringers"
+      }
+    },
+    {
+      "id": "seto",
+      "name": {
+        "original_lang": "ja",
+        "original": "セト",
+        "latin": "Seto",
+        "official": {
+          "en": "Seto"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-shadowbringers"
+      }
+    },
+    {
+      "id": "tesleen",
+      "name": {
+        "original_lang": "ja",
+        "original": "テスリーン",
+        "latin": "Tesleen",
+        "official": {
+          "en": "Tesleen"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-shadowbringers"
+      }
+    },
+    {
+      "id": "titania",
+      "name": {
+        "original_lang": "ja",
+        "original": "ティターニア",
+        "latin": "Titania",
+        "official": {
+          "en": "Titania"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-shadowbringers"
+      }
+    },
+    {
+      "id": "uimet",
+      "name": {
+        "original_lang": "ja",
+        "original": "ウィメ",
+        "latin": "Uimet",
+        "official": {
+          "en": "Uimet"
+        },
+        "aliases": {
+          "ko": [
+            "위메"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-shadowbringers"
+      }
+    },
+    {
+      "id": "vauthry",
+      "name": {
+        "original_lang": "ja",
+        "original": "ドン・ヴァウスリー",
+        "latin": "Vauthry",
+        "official": {
+          "en": "Vauthry"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-shadowbringers"
+      }
+    },
+    {
+      "id": "a-ruhn-senna",
+      "name": {
+        "original_lang": "ja",
+        "original": "ア・ルン・センナ",
+        "latin": "A-Ruhn-Senna",
+        "official": {
+          "en": "A-Ruhn-Senna"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-endwalker"
+      }
+    },
+    {
+      "id": "ahewann",
+      "name": {
+        "original_lang": "ja",
+        "original": "アヒワーン",
+        "latin": "Ahewann",
+        "official": {
+          "en": "Ahewann"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-endwalker"
+      }
+    },
+    {
+      "id": "ameliance-leveilleur",
+      "name": {
+        "original_lang": "ja",
+        "original": "アメリアンス・ルヴェユール",
+        "latin": "Ameliance Leveilleur",
+        "official": {
+          "en": "Ameliance Leveilleur"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-endwalker"
+      }
+    },
+    {
+      "id": "barbariccia",
+      "name": {
+        "original_lang": "ja",
+        "original": "バルバリシア",
+        "latin": "Barbariccia",
+        "official": {
+          "en": "Barbariccia"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-endwalker"
+      }
+    },
+    {
+      "id": "barnier-clarke",
+      "name": {
+        "original_lang": "ja",
+        "original": "バルニエ・クラーク",
+        "latin": "Barnier Clarke",
+        "official": {
+          "en": "Barnier Clarke"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-endwalker"
+      }
+    },
+    {
+      "id": "cagnazzo",
+      "name": {
+        "original_lang": "ja",
+        "original": "カイナッツォ",
+        "latin": "Cagnazzo",
+        "official": {
+          "en": "Cagnazzo"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-endwalker"
+      }
+    },
+    {
+      "id": "durante",
+      "name": {
+        "original_lang": "ja",
+        "original": "ドゥランテ",
+        "latin": "Durante",
+        "official": {
+          "en": "Durante"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-endwalker"
+      }
+    },
+    {
+      "id": "erenville",
+      "name": {
+        "original_lang": "ja",
+        "original": "エレンヴィル",
+        "latin": "Erenville",
+        "official": {
+          "en": "Erenville",
+          "ko": "에렌빌"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-endwalker"
+      }
+    },
+    {
+      "id": "golbez",
+      "name": {
+        "original_lang": "ja",
+        "original": "ゴルベーザ",
+        "latin": "Golbez",
+        "official": {
+          "en": "Golbez"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-endwalker"
+      }
+    },
+    {
+      "id": "growingway",
+      "name": {
+        "original_lang": "ja",
+        "original": "グローウィングウェイ",
+        "latin": "Growingway",
+        "official": {
+          "en": "Growingway"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-endwalker"
+      }
+    },
+    {
+      "id": "hermes",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヘルメス",
+        "latin": "Hermes",
+        "official": {
+          "en": "Hermes"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-endwalker"
+      }
+    },
+    {
+      "id": "hythlodaeus",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヒュトロダエウス",
+        "latin": "Hythlodaeus",
+        "official": {
+          "en": "Hythlodaeus",
+          "ko": "휘틀로다이우스"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-shadowbringers"
+      }
+    },
+    {
+      "id": "jullus-pyr-norbanus",
+      "name": {
+        "original_lang": "ja",
+        "original": "ユルス・ピル・ノルバヌス",
+        "latin": "Jullus pyr Norbanus",
+        "official": {
+          "en": "Jullus pyr Norbanus"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-endwalker"
+      }
+    },
+    {
+      "id": "kokkol-dankkol",
+      "name": {
+        "original_lang": "ja",
+        "original": "ククロ・ダンクロ",
+        "latin": "Kokkol Dankkol",
+        "official": {
+          "en": "Kokkol Dankkol"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-endwalker"
+      }
+    },
+    {
+      "id": "livingway",
+      "name": {
+        "original_lang": "ja",
+        "original": "リヴィングウェイ",
+        "latin": "Livingway",
+        "official": {
+          "en": "Livingway"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-endwalker"
+      }
+    },
+    {
+      "id": "mappingway",
+      "name": {
+        "original_lang": "ja",
+        "original": "マッピングウェイ",
+        "latin": "Mappingway",
+        "official": {
+          "en": "Mappingway"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-endwalker"
+      }
+    },
+    {
+      "id": "matsya",
+      "name": {
+        "original_lang": "ja",
+        "original": "マトシャ",
+        "latin": "Matsya",
+        "official": {
+          "en": "Matsya"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-endwalker"
+      }
+    },
+    {
+      "id": "meteion",
+      "name": {
+        "original_lang": "ja",
+        "original": "メーティオン",
+        "latin": "Meteion",
+        "official": {
+          "en": "Meteion"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-endwalker"
+      }
+    },
+    {
+      "id": "montichaigne",
+      "name": {
+        "original_lang": "ja",
+        "original": "モンティシェーニュ",
+        "latin": "Montichaigne",
+        "official": {
+          "en": "Montichaigne"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-endwalker"
+      }
+    },
+    {
+      "id": "nidhana",
+      "name": {
+        "original_lang": "ja",
+        "original": "ニッダーナ",
+        "latin": "Nidhana",
+        "official": {
+          "en": "Nidhana"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-endwalker"
+      }
+    },
+    {
+      "id": "puddingway",
+      "name": {
+        "original_lang": "ja",
+        "original": "プディングウェイ",
+        "latin": "Puddingway",
+        "official": {
+          "en": "Puddingway"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-endwalker"
+      }
+    },
+    {
+      "id": "quintus-van-cinna",
+      "name": {
+        "original_lang": "ja",
+        "original": "クイントゥス・ヴァン・キンナ",
+        "latin": "Quintus van Cinna",
+        "official": {
+          "en": "Quintus van Cinna"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-endwalker"
+      }
+    },
+    {
+      "id": "rubicante",
+      "name": {
+        "original_lang": "ja",
+        "original": "ルビカンテ",
+        "latin": "Rubicante",
+        "official": {
+          "en": "Rubicante"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-endwalker"
+      }
+    },
+    {
+      "id": "scarmiglione",
+      "name": {
+        "original_lang": "ja",
+        "original": "スカルミリョーネ",
+        "latin": "Scarmiglione",
+        "official": {
+          "en": "Scarmiglione"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-endwalker"
+      }
+    },
+    {
+      "id": "singingway",
+      "name": {
+        "original_lang": "ja",
+        "original": "シンギングウェイ",
+        "latin": "Singingway",
+        "official": {
+          "en": "Singingway"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-endwalker"
+      }
+    },
+    {
+      "id": "sleepingway",
+      "name": {
+        "original_lang": "ja",
+        "original": "スリーピングウェイ",
+        "latin": "Sleepingway",
+        "official": {
+          "en": "Sleepingway"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-endwalker"
+      }
+    },
+    {
+      "id": "venat",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヴェーネス",
+        "latin": "Venat",
+        "official": {
+          "en": "Venat"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-endwalker"
+      }
+    },
+    {
+      "id": "vrtra",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヴリトラ",
+        "latin": "Vrtra",
+        "official": {
+          "en": "Vrtra"
+        },
+        "aliases": {
+          "ko": [
+            "브리트라"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-endwalker"
+      }
+    },
+    {
+      "id": "zero",
+      "name": {
+        "original_lang": "ja",
+        "original": "ゼロ",
+        "latin": "Zero",
+        "official": {
+          "en": "Zero"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-endwalker"
+      }
+    },
+    {
+      "id": "alayla",
+      "name": {
+        "original_lang": "ja",
+        "original": "アライラ",
+        "latin": "Alayla",
+        "official": {
+          "en": "Alayla"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "bakool-ja-ja",
+      "name": {
+        "original_lang": "ja",
+        "original": "バクージャジャ",
+        "latin": "Bakool Ja Ja",
+        "official": {
+          "en": "Bakool Ja Ja"
+        },
+        "aliases": {
+          "ko": [
+            "바쿠쟈자"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "bol-noq",
+      "name": {
+        "original_lang": "ja",
+        "original": "ボロノック",
+        "latin": "Bol Noq'",
+        "official": {
+          "en": "Bol Noq'"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "bruk-evu",
+      "name": {
+        "original_lang": "ja",
+        "original": "ブルケブ",
+        "latin": "Br'uk Evu",
+        "official": {
+          "en": "Br'uk Evu"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "cahciua",
+      "name": {
+        "original_lang": "ja",
+        "original": "カフキワ",
+        "latin": "Cahciua",
+        "official": {
+          "en": "Cahciua"
+        },
+        "aliases": {
+          "ko": [
+            "카흐키와"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "calyx",
+      "name": {
+        "original_lang": "ja",
+        "original": "カリュクス",
+        "latin": "Calyx",
+        "official": {
+          "en": "Calyx"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "ecaate",
+      "name": {
+        "original_lang": "ja",
+        "original": "エカーテ",
+        "latin": "Ecaate",
+        "official": {
+          "en": "Ecaate"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "enuo",
+      "name": {
+        "original_lang": "ja",
+        "original": "エヌオー",
+        "latin": "Enuo",
+        "official": {
+          "en": "Enuo"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "galuf-baldesion",
+      "name": {
+        "original_lang": "ja",
+        "original": "ガラフ・バルデシオン",
+        "latin": "Galuf Baldesion",
+        "official": {
+          "en": "Galuf Baldesion"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "genolt",
+      "name": {
+        "original_lang": "ja",
+        "original": "ゲノルト",
+        "latin": "Genolt",
+        "official": {
+          "en": "Genolt"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "geode",
+      "name": {
+        "original_lang": "ja",
+        "original": "ジオード",
+        "latin": "Geode",
+        "official": {
+          "en": "Geode"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "gulool-ja",
+      "name": {
+        "original_lang": "ja",
+        "original": "グルージャ",
+        "latin": "Gulool Ja",
+        "official": {
+          "en": "Gulool Ja"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "gulool-ja-ja",
+      "name": {
+        "original_lang": "ja",
+        "original": "グルージャジャ",
+        "latin": "Gulool Ja Ja",
+        "official": {
+          "en": "Gulool Ja Ja"
+        },
+        "aliases": {
+          "ko": [
+            "굴루쟈쟈"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "gurfurlur",
+      "name": {
+        "original_lang": "ja",
+        "original": "グーフールー",
+        "latin": "Gurfurlur",
+        "official": {
+          "en": "Gurfurlur"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "halmarut",
+      "name": {
+        "original_lang": "ja",
+        "original": "ハルマルト",
+        "latin": "Halmarut",
+        "official": {
+          "en": "Halmarut"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "hunmu-rruk",
+      "name": {
+        "original_lang": "ja",
+        "original": "フンムルク",
+        "latin": "Hunmu Rruk",
+        "official": {
+          "en": "Hunmu Rruk",
+          "ko": "훈무르크"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "kemakka",
+      "name": {
+        "original_lang": "ja",
+        "original": "ケマッカ",
+        "latin": "Kemakka",
+        "official": {
+          "en": "Kemakka"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "ketill",
+      "name": {
+        "original_lang": "ja",
+        "original": "ケティル",
+        "latin": "Ketill",
+        "official": {
+          "en": "Ketill"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "koana",
+      "name": {
+        "original_lang": "ja",
+        "original": "コーナ",
+        "latin": "Koana",
+        "official": {
+          "en": "Koana"
+        },
+        "aliases": {
+          "ko": [
+            "쿼나"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "linuhanu",
+      "name": {
+        "original_lang": "ja",
+        "original": "リヌハヌ",
+        "latin": "Linuhanu",
+        "official": {
+          "en": "Linuhanu"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "mablu",
+      "name": {
+        "original_lang": "ja",
+        "original": "マーブル",
+        "latin": "Mablu",
+        "official": {
+          "en": "Mablu"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "mahuwsa",
+      "name": {
+        "original_lang": "ja",
+        "original": "マフーサ",
+        "latin": "Mahuwsa",
+        "official": {
+          "en": "Mahuwsa"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "miilal-ja",
+      "name": {
+        "original_lang": "ja",
+        "original": "ミーラジャ",
+        "latin": "Miilal Ja",
+        "official": {
+          "en": "Miilal Ja"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "milos",
+      "name": {
+        "original_lang": "ja",
+        "original": "ミロス",
+        "latin": "Milos",
+        "official": {
+          "en": "Milos"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "naahe",
+      "name": {
+        "original_lang": "ja",
+        "original": "ナーヘ",
+        "latin": "Naahe",
+        "official": {
+          "en": "Naahe"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "namikka",
+      "name": {
+        "original_lang": "ja",
+        "original": "ナミーカ",
+        "latin": "Namikka",
+        "official": {
+          "en": "Namikka"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "nitowikwe",
+      "name": {
+        "original_lang": "ja",
+        "original": "ニトウィケ",
+        "latin": "Nitowikwe",
+        "official": {
+          "en": "Nitowikwe"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "nostalgia",
+      "name": {
+        "original_lang": "ja",
+        "original": "ノスタルジア",
+        "latin": "Nostalgia",
+        "official": {
+          "en": "Nostalgia"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "otis-velona",
+      "name": {
+        "original_lang": "ja",
+        "original": "オーティス",
+        "latin": "Otis",
+        "official": {
+          "en": "Otis"
+        },
+        "aliases": {
+          "ja": [
+            "オーティス・ヴェロナ"
+          ],
+          "en": [
+            "Otis Velona"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "pepoane",
+      "name": {
+        "original_lang": "ja",
+        "original": "ペポーネ",
+        "latin": "Pepoane",
+        "official": {
+          "en": "Pepoane"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "robor",
+      "name": {
+        "original_lang": "ja",
+        "original": "ロボル",
+        "latin": "Robor",
+        "official": {
+          "en": "Robor"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "sareel-ja",
+      "name": {
+        "original_lang": "ja",
+        "original": "サレージャ",
+        "latin": "Sareel Ja",
+        "official": {
+          "en": "Sareel Ja"
+        },
+        "aliases": {
+          "ko": [
+            "사레쟈"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "shale",
+      "name": {
+        "original_lang": "ja",
+        "original": "シェール",
+        "latin": "Shale",
+        "official": {
+          "en": "Shale"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "shenza",
+      "name": {
+        "original_lang": "ja",
+        "original": "シェンダ",
+        "latin": "Shenza",
+        "official": {
+          "en": "Shenza"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "sphene",
+      "name": {
+        "original_lang": "ja",
+        "original": "スフェーン",
+        "latin": "Sphene",
+        "official": {
+          "en": "Sphene"
+        },
+        "aliases": {
+          "ja": [
+            "スフェーン・アレクサンドロス14世"
+          ],
+          "en": [
+            "Sphene Alexandros XIV"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "tobli",
+      "name": {
+        "original_lang": "ja",
+        "original": "トーブリ",
+        "latin": "Tobli",
+        "official": {
+          "en": "Tobli"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "visna",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヴィスナ",
+        "latin": "Visna",
+        "official": {
+          "en": "Visna"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "vorporlor",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヴォーポーロー",
+        "latin": "Vorporlor",
+        "official": {
+          "en": "Vorporlor"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "wawlika",
+      "name": {
+        "original_lang": "ja",
+        "original": "ワーリカ",
+        "latin": "Wawlika",
+        "official": {
+          "en": "Wawlika"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "wayakkwe",
+      "name": {
+        "original_lang": "ja",
+        "original": "ワヤッケ",
+        "latin": "Wayakkwe",
+        "official": {
+          "en": "Wayakkwe"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "wihuwte",
+      "name": {
+        "original_lang": "ja",
+        "original": "ウィフーテ",
+        "latin": "Wihuwte",
+        "official": {
+          "en": "Wihuwte"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "wuk-evu",
+      "name": {
+        "original_lang": "ja",
+        "original": "ウケブ",
+        "latin": "Wuk Evu",
+        "official": {
+          "en": "Wuk Evu"
+        },
+        "aliases": {
+          "ko": [
+            "우크에부"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "wuk-lamat",
+      "name": {
+        "original_lang": "ja",
+        "original": "ウクラマト",
+        "latin": "Wuk Lamat",
+        "official": {
+          "en": "Wuk Lamat",
+          "ko": "우크라마트"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "zanuhali",
+      "name": {
+        "original_lang": "ja",
+        "original": "ザヌハリ",
+        "latin": "Zanuhali",
+        "official": {
+          "en": "Zanuhali"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "zawpya",
+      "name": {
+        "original_lang": "ja",
+        "original": "ダーピャ",
+        "latin": "Zawpya",
+        "official": {
+          "en": "Zawpya"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "zekowa",
+      "name": {
+        "original_lang": "ja",
+        "original": "デコワ",
+        "latin": "Zekowa",
+        "official": {
+          "en": "Zekowa"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "zelenia",
+      "name": {
+        "original_lang": "ja",
+        "original": "ゼレニア",
+        "latin": "Zelenia",
+        "official": {
+          "en": "Zelenia"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "zereel-ja",
+      "name": {
+        "original_lang": "ja",
+        "original": "ゼレージャ",
+        "latin": "Zereel Ja",
+        "official": {
+          "en": "Zereel Ja"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "zoraal-ja",
+      "name": {
+        "original_lang": "ja",
+        "original": "ゾラージャ",
+        "latin": "Zoraal Ja",
+        "official": {
+          "en": "Zoraal Ja"
+        },
+        "aliases": {
+          "ko": [
+            "조라쟈"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    },
+    {
+      "id": "zurmurwur",
+      "name": {
+        "original_lang": "ja",
+        "original": "ズームーウー",
+        "latin": "Zurmurwur",
+        "official": {
+          "en": "Zurmurwur"
+        }
+      },
+      "first_appearance": {
+        "work": "final-fantasy-14-dawntrail"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXIV",
+      "title": "ファイナルファンタジーXIV - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://finalfantasy.fandom.com/wiki/Category:Characters_in_Final_Fantasy_XIV",
+      "title": "Category:Characters in Final Fantasy XIV | Final Fantasy Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "takumi-sei-mei",
+  "slug": "yasuaki-takumi",
+  "name": {
+    "original_lang": "ja",
+    "original": "たくみ靖明",
+    "latin": "Yasuaki Takumi",
+    "aliases": {
+      "ja": [
+        "たくみやすあき",
+        "内匠靖明"
+      ]
+    }
+  },
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1982-10-23",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E3%81%9F%E3%81%8F%E3%81%BF%E9%9D%96%E6%98%8E"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%9F%E3%81%8F%E3%81%BF%E9%9D%96%E6%98%8E",
+      "title": "たくみ靖明 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

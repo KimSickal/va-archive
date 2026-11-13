@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "hoku-taku-ryoku",
+  "slug": "riki-kitazawa",
+  "name": {
+    "original_lang": "ja",
+    "original": "北沢力",
+    "latin": "Riki Kitazawa",
+    "aliases": {
+      "ja": [
+        "きたざわりき"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B2%A2%E5%8A%9B"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B2%A2%E5%8A%9B",
+      "title": "北沢力 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

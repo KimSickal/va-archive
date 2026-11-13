@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "gen-kou-shou-shi",
+  "slug": "shoko-haraguchi",
+  "name": {
+    "original_lang": "ja",
+    "original": "原口祥子",
+    "latin": "Shoko Haraguchi",
+    "aliases": {
+      "ja": [
+        "はらぐちしょうこ"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%8E%9F%E5%8F%A3%E7%A5%A5%E5%AD%90"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8E%9F%E5%8F%A3%E7%A5%A5%E5%AD%90",
+      "title": "原口祥子 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

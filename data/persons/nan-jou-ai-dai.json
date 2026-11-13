@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "nan-jou-ai-dai",
+  "slug": "yoshino-nanjo",
+  "name": {
+    "original_lang": "ja",
+    "original": "南條愛乃",
+    "latin": "Yoshino Nanjo",
+    "aliases": {
+      "ja": [
+        "なんじょうよしの"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1984-07-12",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%A2%9D%E6%84%9B%E4%B9%83"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%A2%9D%E6%84%9B%E4%B9%83",
+      "title": "南條愛乃 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "tai-gen-sayaka",
+  "slug": "sayaka-ohara",
+  "name": {
+    "original_lang": "ja",
+    "original": "大原さやか",
+    "latin": "Sayaka Ohara",
+    "aliases": {
+      "ja": [
+        "おおはらさやか"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1975-12-06",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%8E%9F%E3%81%95%E3%82%84%E3%81%8B"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%8E%9F%E3%81%95%E3%82%84%E3%81%8B",
+      "title": "大原さやか - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "yun-yong-sik",
+  "slug": "yoon-yong-sik",
+  "name": {
+    "original_lang": "ko",
+    "original": "윤용식",
+    "latin": "Yoon Yong-sik"
+  },
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1988-08-03",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9C%A4%EC%9A%A9%EC%8B%9D"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EC%9C%A4%EC%9A%A9%EC%8B%9D",
+      "title": "윤용식 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

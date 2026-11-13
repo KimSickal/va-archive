@@ -1,0 +1,35 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "so-jeong-hwan",
+  "slug": "so-jeong-hwan",
+  "name": {
+    "original_lang": "ko",
+    "original": "소정환",
+    "latin": "So Jeong-hwan"
+  },
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1982-10-29",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EC%86%8C%EC%A0%95%ED%99%98"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EC%86%8C%EC%A0%95%ED%99%98",
+      "title": "소정환 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

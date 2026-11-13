@@ -1,0 +1,1166 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "final-fantasy-14-shadowbringers",
+  "franchise_id": "final-fantasy-14",
+  "type": "game",
+  "title": {
+    "original_lang": "ja",
+    "original": "ファイナルファンタジーXIV: 漆黒のヴィランズ",
+    "latin": "Final Fantasy XIV: Shadowbringers",
+    "official": {
+      "en": "Final Fantasy XIV: Shadowbringers",
+      "ko": "파이널 판타지 XIV: 칠흑의 반역자"
+    }
+  },
+  "order": 5,
+  "status": "live_service",
+  "start_date": "2019-07-02",
+  "developers": [
+    {
+      "original_lang": "ja",
+      "original": "スクウェア・エニックス",
+      "latin": "Square Enix",
+      "official": {
+        "en": "Square Enix",
+        "ko": "스퀘어 에닉스"
+      }
+    }
+  ],
+  "publishers": [
+    {
+      "original_lang": "ja",
+      "original": "スクウェア・エニックス",
+      "latin": "Square Enix",
+      "official": {
+        "en": "Square Enix",
+        "ko": "스퀘어 에닉스"
+      }
+    }
+  ],
+  "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers"
+  },
+  "platforms": [
+    "pc",
+    "ps4",
+    "ps5",
+    "xbox_series",
+    "switch2"
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語音声（メインクエスト・パッチメインクエスト）",
+        "translations": {
+          "ko": "일본어 음성 (메인 퀘스트·패치 메인 퀘스트)",
+          "en": "Japanese voice (main scenario and patch main scenario quests)"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2019-07-02",
+      "credits": [
+        {
+          "character": "graha-tia",
+          "person": "dai-den-yuu-ba",
+          "role": "main",
+          "source_refs": [
+            "s7",
+            "s32",
+            "s33",
+            "s34"
+          ]
+        },
+        {
+          "character": "ryne",
+          "person": "shi-no-rai-ka-da",
+          "role": "main",
+          "source_refs": [
+            "s29",
+            "s33",
+            "s34"
+          ]
+        },
+        {
+          "character": "emet-selch",
+          "person": "kou-kyou-kou-ju",
+          "role": "main",
+          "source_refs": [
+            "s19",
+            "s32",
+            "s33",
+            "s34"
+          ]
+        },
+        {
+          "character": "ardbert",
+          "person": "shu-hou-bu-jun-ichi",
+          "role": "main",
+          "source_refs": [
+            "s33",
+            "s34"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "minfilia-warde",
+          "person": "ren-sou-yuu-da",
+          "role": "supporting",
+          "part": "substitute",
+          "note": {
+            "original_lang": "ja",
+            "original": "沢城みゆきの産休に伴う代役（パッチ5.0）",
+            "translations": {
+              "ko": "사와시로 미유키의 출산 휴가에 따른 대역 (패치 5.0)",
+              "en": "Substitute during Miyuki Sawashiro's maternity leave (patch 5.0)"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s24",
+            "s32",
+            "s33",
+            "s34"
+          ],
+          "episodes": "5.0"
+        },
+        {
+          "character": "lyna",
+          "person": "nan-jou-ai-dai",
+          "role": "supporting",
+          "source_refs": [
+            "s22",
+            "s33"
+          ]
+        },
+        {
+          "character": "vauthry",
+          "person": "kan-kyuu-kou-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s15",
+            "s33"
+          ]
+        },
+        {
+          "character": "ranjit",
+          "person": "ya-tou-shou-sei",
+          "role": "supporting",
+          "source_refs": [
+            "s33"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "feo-ul",
+          "person": "kou-kyou-minami",
+          "role": "supporting",
+          "source_refs": [
+            "s20",
+            "s33"
+          ]
+        },
+        {
+          "character": "titania",
+          "person": "ren-sou-yuu-da",
+          "role": "minor",
+          "source_refs": [
+            "s24",
+            "s33"
+          ]
+        },
+        {
+          "character": "beq-lugg",
+          "person": "i-rai-matsu-chi-ya",
+          "role": "minor",
+          "source_refs": [
+            "s14",
+            "s33"
+          ],
+          "episodes": "5.1-5.58"
+        },
+        {
+          "character": "uimet",
+          "person": "i-rai-matsu-chi-ya",
+          "role": "minor",
+          "source_refs": [
+            "s33"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "almet",
+          "person": "bei-san-mei-nichi-bi",
+          "role": "minor",
+          "source_refs": [
+            "s33"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "cymet",
+          "person": "kou-tou-zui-kei",
+          "role": "minor",
+          "source_refs": [
+            "s21",
+            "s33"
+          ]
+        },
+        {
+          "character": "runar",
+          "person": "san-hon-kou",
+          "role": "minor",
+          "source_refs": [
+            "s28",
+            "s33"
+          ]
+        },
+        {
+          "character": "seto",
+          "person": "kanuka-kou-mei",
+          "role": "minor",
+          "source_refs": [
+            "s16",
+            "s33"
+          ]
+        },
+        {
+          "character": "chai-nuzz",
+          "person": "hoku-taku-ryoku",
+          "role": "minor",
+          "source_refs": [
+            "s33"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "dulia-chai",
+          "person": "kei-chou-yuu-kou",
+          "role": "minor",
+          "source_refs": [
+            "s17",
+            "s33"
+          ]
+        },
+        {
+          "character": "tesleen",
+          "person": "bei-san-mei-nichi-bi",
+          "role": "minor",
+          "source_refs": [
+            "s2",
+            "s33"
+          ]
+        },
+        {
+          "character": "kai-shirr",
+          "person": "gan-chuu-boku-ju",
+          "role": "minor",
+          "source_refs": [
+            "s11",
+            "s33"
+          ]
+        },
+        {
+          "character": "alphinaud-leveilleur",
+          "person": "ritsu-ka-shin-shi-kai",
+          "role": "main",
+          "source_refs": [
+            "s26",
+            "s32",
+            "s33",
+            "s34"
+          ]
+        },
+        {
+          "character": "alisaie-leveilleur",
+          "person": "son-sen-ri-i",
+          "role": "main",
+          "source_refs": [
+            "s31",
+            "s32",
+            "s33",
+            "s34"
+          ]
+        },
+        {
+          "character": "thancred-waters",
+          "person": "chuu-son-yuu-ichi",
+          "role": "main",
+          "source_refs": [
+            "s6",
+            "s32",
+            "s33",
+            "s34"
+          ]
+        },
+        {
+          "character": "yshtola-rhul",
+          "person": "bou-ya-ai-i",
+          "role": "main",
+          "source_refs": [
+            "s3",
+            "s32",
+            "s33",
+            "s34"
+          ]
+        },
+        {
+          "character": "urianger-augurelt",
+          "person": "kenn",
+          "role": "main",
+          "source_refs": [
+            "s18",
+            "s32",
+            "s33",
+            "s34"
+          ]
+        },
+        {
+          "character": "tataru-taru",
+          "person": "i-rai-matsu-chi-ya",
+          "role": "supporting",
+          "source_refs": [
+            "s14",
+            "s32",
+            "s33",
+            "s34"
+          ]
+        },
+        {
+          "character": "krile-maya-baldesion",
+          "person": "nan-jou-ai-dai",
+          "role": "supporting",
+          "source_refs": [
+            "s22",
+            "s32",
+            "s33",
+            "s34"
+          ]
+        },
+        {
+          "character": "yda-hext",
+          "person": "en-tou-ryou",
+          "role": "minor",
+          "source_refs": [
+            "s10",
+            "s32",
+            "s33",
+            "s34"
+          ]
+        },
+        {
+          "character": "cid-garlond",
+          "person": "shou-san-ryoku-ya",
+          "role": "minor",
+          "source_refs": [
+            "s30",
+            "s32",
+            "s33",
+            "s34"
+          ]
+        },
+        {
+          "character": "biggs",
+          "person": "sei-jou-gou",
+          "role": "minor",
+          "source_refs": [
+            "s32",
+            "s33"
+          ]
+        },
+        {
+          "character": "wedge",
+          "person": "kenn",
+          "role": "minor",
+          "source_refs": [
+            "s18",
+            "s32",
+            "s33"
+          ]
+        },
+        {
+          "character": "nanamo-ul-namo",
+          "person": "i-rai-matsu-chi-ya",
+          "role": "minor",
+          "source_refs": [
+            "s14",
+            "s33",
+            "s34"
+          ]
+        },
+        {
+          "character": "raubahn-aldynn",
+          "person": "an-gen-you-ki",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s32",
+            "s33",
+            "s34"
+          ]
+        },
+        {
+          "character": "kan-e-senna",
+          "person": "den-chuu-ri-kei",
+          "role": "minor",
+          "source_refs": [
+            "s8",
+            "s32",
+            "s33",
+            "s34"
+          ]
+        },
+        {
+          "character": "merlwyb-bloefhiswyn",
+          "person": "den-chuu-ton-shi",
+          "role": "minor",
+          "source_refs": [
+            "s9",
+            "s32",
+            "s33",
+            "s34"
+          ]
+        },
+        {
+          "character": "aymeric-de-borel",
+          "person": "rei-boku-tatsu-ou",
+          "role": "minor",
+          "source_refs": [
+            "s23",
+            "s32",
+            "s33",
+            "s34"
+          ]
+        },
+        {
+          "character": "estinien-varlineau",
+          "person": "hin-den-ken-ni",
+          "role": "minor",
+          "source_refs": [
+            "s12",
+            "s32",
+            "s33",
+            "s34"
+          ]
+        },
+        {
+          "character": "fourchenault-leveilleur",
+          "person": "kutsu-dai-ken-yuu",
+          "role": "minor",
+          "source_refs": [
+            "s33",
+            "s34"
+          ],
+          "verification": "unverified",
+          "episodes": "5.1-5.58"
+        },
+        {
+          "character": "elidibus",
+          "person": "shaku-den-shou",
+          "role": "supporting",
+          "source_refs": [
+            "s32",
+            "s33"
+          ],
+          "episodes": "5.1-5.3"
+        },
+        {
+          "character": "fandaniel",
+          "person": "ryuu-den-shun-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s27",
+            "s33"
+          ],
+          "episodes": "5.1-5.58"
+        },
+        {
+          "character": "zenos-yae-galvus",
+          "person": "chou-kai-kou-fu",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s32",
+            "s33",
+            "s34"
+          ],
+          "episodes": "5.1-5.58"
+        },
+        {
+          "character": "varis-zos-galvus",
+          "person": "chuu-den-jou-ji",
+          "role": "minor",
+          "source_refs": [
+            "s5",
+            "s32",
+            "s33"
+          ],
+          "episodes": "5.1-5.58"
+        },
+        {
+          "character": "nero-tol-scaeva",
+          "person": "hoku-taku-ryoku",
+          "role": "minor",
+          "source_refs": [
+            "s13",
+            "s32",
+            "s33",
+            "s34"
+          ],
+          "episodes": "5.1-5.58"
+        },
+        {
+          "character": "fordola-rem-lupis",
+          "person": "rin-shin-ri-ka",
+          "role": "minor",
+          "source_refs": [
+            "s25",
+            "s33",
+            "s34"
+          ],
+          "episodes": "5.1-5.58"
+        },
+        {
+          "character": "branden",
+          "person": "chuu-tou-taku-ya",
+          "role": "minor",
+          "note": {
+            "original_lang": "ja",
+            "original": "パッチ5.0のロールクエスト（メインクエスト進行に必須）",
+            "translations": {
+              "ko": "패치 5.0 롤 퀘스트 (메인 퀘스트 진행에 필수)",
+              "en": "Patch 5.0 role quests (required for main scenario progression)"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s33"
+          ],
+          "verification": "unverified",
+          "episodes": "5.0"
+        },
+        {
+          "character": "lamitt",
+          "person": "shou-ya-ji-ryuu-na",
+          "role": "minor",
+          "note": {
+            "original_lang": "ja",
+            "original": "パッチ5.0のロールクエスト（メインクエスト進行に必須）",
+            "translations": {
+              "ko": "패치 5.0 롤 퀘스트 (메인 퀘스트 진행에 필수)",
+              "en": "Patch 5.0 role quests (required for main scenario progression)"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s33"
+          ],
+          "verification": "unverified",
+          "episodes": "5.0"
+        },
+        {
+          "character": "renda-rae",
+          "person": "sa-tou-ri-na",
+          "role": "minor",
+          "note": {
+            "original_lang": "ja",
+            "original": "パッチ5.0のロールクエスト（メインクエスト進行に必須）",
+            "translations": {
+              "ko": "패치 5.0 롤 퀘스트 (메인 퀘스트 진행에 필수)",
+              "en": "Patch 5.0 role quests (required for main scenario progression)"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s33"
+          ],
+          "verification": "unverified",
+          "episodes": "5.0"
+        },
+        {
+          "character": "nyelbert",
+          "person": "koku-kou-shun-shi",
+          "role": "minor",
+          "note": {
+            "original_lang": "ja",
+            "original": "パッチ5.0のロールクエスト（メインクエスト進行に必須）",
+            "translations": {
+              "ko": "패치 5.0 롤 퀘스트 (메인 퀘스트 진행에 필수)",
+              "en": "Patch 5.0 role quests (required for main scenario progression)"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s33"
+          ],
+          "verification": "unverified",
+          "episodes": "5.0"
+        },
+        {
+          "character": "hythlodaeus",
+          "person": "ho-shi-sou-ichi-rou",
+          "role": "supporting",
+          "episodes": "5.0",
+          "source_refs": [
+            "s35",
+            "s33"
+          ],
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "id": "ko",
+      "language": "ko",
+      "kind": "dub",
+      "label": {
+        "original_lang": "ko",
+        "original": "한국어 음성 (메인 퀘스트·패치 메인 퀘스트)",
+        "translations": {
+          "ja": "韓国語音声（メインクエスト・パッチメインクエスト）",
+          "en": "Korean voice (main scenario and patch main scenario quests)"
+        },
+        "translated": [
+          "ja",
+          "en"
+        ]
+      },
+      "distributor": {
+        "original_lang": "ko",
+        "original": "액토즈소프트",
+        "latin": "Actoz Soft",
+        "official": {
+          "en": "Actoz Soft"
+        }
+      },
+      "release_date": "2019-12-03",
+      "credits": [
+        {
+          "character": "lyna",
+          "person": "yang-jeong-hwa",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "출처에 확장팩 구분이 없어 일본어 데이터상 이 캐릭터가 처음 음성 출연하는 확장팩에만 기재",
+            "translations": {
+              "ja": "出典に拡張パッケージの区別がないため、日本語データでこのキャラクターが最初にボイス出演する拡張パッケージにのみ記載",
+              "en": "Source does not say which expansion; listed only under the first expansion where the character is voiced in the Japanese data"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s39"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "beq-lugg",
+          "person": "gim-bo-na",
+          "role": "minor",
+          "episodes": "5.1-5.58",
+          "note": {
+            "original_lang": "ko",
+            "original": "출처에 확장팩 구분이 없어 일본어 데이터상 이 캐릭터가 처음 음성 출연하는 확장팩에만 기재",
+            "translations": {
+              "ja": "出典に拡張パッケージの区別がないため、日本語データでこのキャラクターが最初にボイス出演する拡張パッケージにのみ記載",
+              "en": "Source does not say which expansion; listed only under the first expansion where the character is voiced in the Japanese data"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s39"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "uimet",
+          "person": "gim-bo-na",
+          "role": "minor",
+          "note": {
+            "original_lang": "ko",
+            "original": "출처에 확장팩 구분이 없어 일본어 데이터상 이 캐릭터가 처음 음성 출연하는 확장팩에만 기재",
+            "translations": {
+              "ja": "出典に拡張パッケージの区別がないため、日本語データでこのキャラクターが最初にボイス出演する拡張パッケージにのみ記載",
+              "en": "Source does not say which expansion; listed only under the first expansion where the character is voiced in the Japanese data"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s39"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "almet",
+          "person": "song-ha-rim",
+          "role": "minor",
+          "note": {
+            "original_lang": "ko",
+            "original": "출처에 확장팩 구분이 없어 일본어 데이터상 이 캐릭터가 처음 음성 출연하는 확장팩에만 기재",
+            "translations": {
+              "ja": "出典に拡張パッケージの区別がないため、日本語データでこのキャラクターが最初にボイス出演する拡張パッケージにのみ記載",
+              "en": "Source does not say which expansion; listed only under the first expansion where the character is voiced in the Japanese data"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s39"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "cymet",
+          "person": "yang-jeong-hwa",
+          "role": "minor",
+          "note": {
+            "original_lang": "ko",
+            "original": "출처에 확장팩 구분이 없어 일본어 데이터상 이 캐릭터가 처음 음성 출연하는 확장팩에만 기재",
+            "translations": {
+              "ja": "出典に拡張パッケージの区別がないため、日本語データでこのキャラクターが最初にボイス出演する拡張パッケージにのみ記載",
+              "en": "Source does not say which expansion; listed only under the first expansion where the character is voiced in the Japanese data"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s39"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "chai-nuzz",
+          "person": "gim-yeong-chan",
+          "role": "minor",
+          "note": {
+            "original_lang": "ko",
+            "original": "출처에 확장팩 구분이 없어 일본어 데이터상 이 캐릭터가 처음 음성 출연하는 확장팩에만 기재",
+            "translations": {
+              "ja": "出典に拡張パッケージの区別がないため、日本語データでこのキャラクターが最初にボイス出演する拡張パッケージにのみ記載",
+              "en": "Source does not say which expansion; listed only under the first expansion where the character is voiced in the Japanese data"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s39"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "dulia-chai",
+          "person": "song-ha-rim",
+          "role": "minor",
+          "note": {
+            "original_lang": "ko",
+            "original": "출처에 확장팩 구분이 없어 일본어 데이터상 이 캐릭터가 처음 음성 출연하는 확장팩에만 기재",
+            "translations": {
+              "ja": "出典に拡張パッケージの区別がないため、日本語データでこのキャラクターが最初にボイス出演する拡張パッケージにのみ記載",
+              "en": "Source does not say which expansion; listed only under the first expansion where the character is voiced in the Japanese data"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s39"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "hythlodaeus",
+          "person": "i-gyeong-tae",
+          "role": "supporting",
+          "episodes": "5.0",
+          "note": {
+            "original_lang": "ko",
+            "original": "출처에 확장팩 구분이 없어 일본어 데이터상 이 캐릭터가 처음 음성 출연하는 확장팩에만 기재",
+            "translations": {
+              "ja": "出典に拡張パッケージの区別がないため、日本語データでこのキャラクターが最初にボイス出演する拡張パッケージにのみ記載",
+              "en": "Source does not say which expansion; listed only under the first expansion where the character is voiced in the Japanese data"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s40"
+          ]
+        }
+      ],
+      "source_refs": [
+        "s37",
+        "s38"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%89%E5%85%83%E6%B4%8B%E8%B2%B4",
+      "title": "安元洋貴 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E7%B1%B3%E5%B1%B1%E6%98%8E%E6%97%A5%E7%BE%8E",
+      "title": "米山明日美 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8C%85%E9%87%8E%E6%84%9B%E8%A1%A3",
+      "title": "茅野愛衣 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s4",
+      "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E6%B5%B7%E6%B5%A9%E8%BC%94",
+      "title": "鳥海浩輔 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s5",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E7%94%B0%E8%AD%B2%E6%B2%BB",
+      "title": "中田譲治 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s6",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E6%82%A0%E4%B8%80",
+      "title": "中村悠一 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s7",
+      "url": "https://ja.wikipedia.org/wiki/%E5%86%85%E7%94%B0%E9%9B%84%E9%A6%AC",
+      "title": "内田雄馬 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s8",
+      "url": "https://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%AD%E7%90%86%E6%81%B5_(%E5%A3%B0%E5%84%AA)",
+      "title": "田中理恵 (声優) - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s9",
+      "url": "https://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%AD%E6%95%A6%E5%AD%90_(%E5%A3%B0%E5%84%AA)",
+      "title": "田中敦子 (声優) - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s10",
+      "url": "https://ja.wikipedia.org/wiki/%E9%81%A0%E8%97%A4%E7%B6%BE",
+      "title": "遠藤綾 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s11",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E4%B8%AD%E7%9D%A6%E6%A8%B9",
+      "title": "岩中睦樹 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s12",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E7%94%B0%E8%B3%A2%E4%BA%8C",
+      "title": "浜田賢二 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s13",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B2%A2%E5%8A%9B",
+      "title": "北沢力 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s14",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E7%80%AC%E8%8C%89%E8%8E%89%E4%B9%9F",
+      "title": "伊瀬茉莉也 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s15",
+      "url": "https://ja.wikipedia.org/wiki/%E9%96%93%E5%AE%AE%E5%BA%B7%E5%BC%98",
+      "title": "間宮康弘 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s16",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%AC%E3%81%8B%E5%85%89%E6%98%8E",
+      "title": "かぬか光明 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s17",
+      "url": "https://ja.wikipedia.org/wiki/%E6%85%B6%E9%95%B7%E4%BD%91%E9%A6%99",
+      "title": "慶長佑香 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s18",
+      "url": "https://ja.wikipedia.org/wiki/KENN",
+      "title": "KENN - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s19",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%A9%8B%E5%BA%83%E6%A8%B9",
+      "title": "高橋広樹 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s20",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AB%99%E6%A9%8B%E3%83%9F%E3%83%8A%E3%83%9F",
+      "title": "髙橋ミナミ - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s21",
+      "url": "https://ja.wikipedia.org/wiki/%E7%B6%B1%E5%B3%B6%E7%91%9E%E6%81%B5",
+      "title": "綱島瑞恵 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s22",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%A2%9D%E6%84%9B%E4%B9%83",
+      "title": "南條愛乃 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s23",
+      "url": "https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E9%81%94%E5%A4%AE",
+      "title": "鈴木達央 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s24",
+      "url": "https://ja.wikipedia.org/wiki/%E9%8E%8C%E5%80%89%E6%9C%89%E9%82%A3",
+      "title": "鎌倉有那 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s25",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9E%97%E7%9C%9F%E9%87%8C%E8%8A%B1",
+      "title": "林真里花 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s26",
+      "url": "https://ja.wikipedia.org/wiki/%E7%AB%8B%E8%8A%B1%E6%85%8E%E4%B9%8B%E4%BB%8B",
+      "title": "立花慎之介 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s27",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9F%B3%E7%94%B0%E6%B7%B3%E4%B8%80",
+      "title": "柳田淳一 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s28",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%9C%AC%E6%A0%BC",
+      "title": "山本格 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s29",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B8%82%E3%83%8E%E7%80%AC%E5%8A%A0%E9%82%A3",
+      "title": "市ノ瀬加那 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s30",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B1%B1%E5%8A%9B%E4%B9%9F",
+      "title": "小山力也 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s31",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%91%E5%B7%9D%E6%A2%A8%E8%A1%A3",
+      "title": "村川梨衣 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s32",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXIV",
+      "title": "ファイナルファンタジーXIV - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s33",
+      "url": "https://finalfantasy.fandom.com/wiki/Japanese_voice_actors",
+      "title": "Japanese voice actors | Final Fantasy Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s34",
+      "url": "https://game8.jp/ff14/314394",
+      "title": "【FF14】声優一覧と担当キャラクターまとめ｜黄金対応【パッチ7.0】｜ゲームエイト",
+      "publisher": "other",
+      "tier": 3,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s35",
+      "url": "https://ffxiv.consolegameswiki.com/wiki/Hythlodaeus",
+      "title": "Hythlodaeus - Final Fantasy XIV Online Wiki",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s36",
+      "url": "https://www.inven.co.kr/board/ff14/4338/4182",
+      "title": "파이널 판타지 14 성우",
+      "publisher": "other",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s37",
+      "url": "https://ko.wikipedia.org/wiki/%ED%8C%8C%EC%9D%B4%EB%84%90_%ED%8C%90%ED%83%80%EC%A7%80_XIV",
+      "title": "파이널 판타지 XIV - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s38",
+      "url": "https://www.gamemeca.com/view.php?gid=844781",
+      "title": "파이널 판타지 14 한국 서비스 관련 기사 (게임메카)",
+      "publisher": "news",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s39",
+      "url": "https://namu.wiki/w/%ED%8C%8C%EC%9D%B4%EB%84%90%20%ED%8C%90%ED%83%80%EC%A7%80%2014/%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC",
+      "title": "파이널 판타지 14/등장인물 - 나무위키",
+      "publisher": "namuwiki",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s40",
+      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EA%B2%BD%ED%83%9C_%28%EC%84%B1%EC%9A%B0%29",
+      "title": "이경태 (성우) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "notes": "Patches 5.0-5.58 folded into this work. Scope: MSQ + patch MSQ only (5.0 role quests included in Shadowbringers). Alliance/normal raids, side stories, job/role quests (except 5.0), collabs and battle voices are deferred.",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

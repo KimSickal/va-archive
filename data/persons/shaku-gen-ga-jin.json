@@ -1,0 +1,27 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shaku-gen-ga-jin",
+  "slug": "masato-ishihara",
+  "name": {
+    "original_lang": "ja",
+    "original": "石原雅人",
+    "latin": "Masato Ishihara"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://finalfantasy.fandom.com/wiki/Japanese_voice_actors",
+      "title": "Japanese voice actors | Final Fantasy Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "unverified"
+    },
+    "skill_version": "0.5.1"
+  }
+}

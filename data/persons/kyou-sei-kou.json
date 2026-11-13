@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kyou-sei-kou",
+  "slug": "yuki-kyoi",
+  "name": {
+    "original_lang": "ja",
+    "original": "京井幸",
+    "latin": "Yuki Kyoi",
+    "aliases": {
+      "ja": [
+        "きょういゆき"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1979-02-10",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E4%BA%95%E5%B9%B8"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E4%BA%95%E5%B9%B8",
+      "title": "京井幸 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

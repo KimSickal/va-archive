@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shuu-ho-sa-ei-shi",
+  "slug": "saeko-akiho",
+  "name": {
+    "original_lang": "ja",
+    "original": "秋保佐永子",
+    "latin": "Saeko Akiho",
+    "aliases": {
+      "ja": [
+        "あきほさえこ"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%A7%8B%E4%BF%9D%E4%BD%90%E6%B0%B8%E5%AD%90"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A7%8B%E4%BF%9D%E4%BD%90%E6%B0%B8%E5%AD%90",
+      "title": "秋保佐永子 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

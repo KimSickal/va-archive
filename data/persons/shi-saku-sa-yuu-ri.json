@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shi-saku-sa-yuu-ri",
+  "slug": "sayuri-yahagi",
+  "name": {
+    "original_lang": "ja",
+    "original": "矢作紗友里",
+    "latin": "Sayuri Yahagi",
+    "aliases": {
+      "ja": [
+        "やはぎさゆり"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1986-09-22",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%9F%A2%E4%BD%9C%E7%B4%97%E5%8F%8B%E9%87%8C"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%A2%E4%BD%9C%E7%B4%97%E5%8F%8B%E9%87%8C",
+      "title": "矢作紗友里 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kaku-mu-ritsu-ki",
+  "slug": "riki-kagami",
+  "name": {
+    "original_lang": "ja",
+    "original": "各務立基",
+    "latin": "Riki Kagami",
+    "aliases": {
+      "ja": [
+        "かがみりき"
+      ]
+    }
+  },
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1970-06-25",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%90%84%E5%8B%99%E7%AB%8B%E5%9F%BA"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%90%84%E5%8B%99%E7%AB%8B%E5%9F%BA",
+      "title": "各務立基 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

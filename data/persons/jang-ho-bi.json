@@ -1,0 +1,27 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "jang-ho-bi",
+  "slug": "jang-ho-bi",
+  "name": {
+    "original_lang": "ko",
+    "original": "장호비",
+    "latin": "Jang Ho-bi"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.inven.co.kr/board/ff14/4338/4182",
+      "title": "파이널 판타지 14 성우",
+      "publisher": "other",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "unverified"
+    },
+    "skill_version": "0.5.1"
+  }
+}

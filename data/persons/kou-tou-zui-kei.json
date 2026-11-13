@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kou-tou-zui-kei",
+  "slug": "mizue-tsunashima",
+  "name": {
+    "original_lang": "ja",
+    "original": "綱島瑞恵",
+    "latin": "Mizue Tsunashima",
+    "aliases": {
+      "ja": [
+        "つなしまみずえ"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%B6%B1%E5%B3%B6%E7%91%9E%E6%81%B5"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%B6%B1%E5%B3%B6%E7%91%9E%E6%81%B5",
+      "title": "綱島瑞恵 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

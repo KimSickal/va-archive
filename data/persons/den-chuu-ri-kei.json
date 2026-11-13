@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "den-chuu-ri-kei",
+  "slug": "rie-tanaka",
+  "name": {
+    "original_lang": "ja",
+    "original": "田中理恵",
+    "latin": "Rie Tanaka",
+    "aliases": {
+      "ja": [
+        "たなかりえ"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1979-01-03",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%AD%E7%90%86%E6%81%B5_(%E5%A3%B0%E5%84%AA)"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%AD%E7%90%86%E6%81%B5_(%E5%A3%B0%E5%84%AA)",
+      "title": "田中理恵 (声優) - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

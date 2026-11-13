@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shuu-gen-you-kai",
+  "slug": "yosuke-akimoto",
+  "name": {
+    "original_lang": "ja",
+    "original": "秋元羊介",
+    "latin": "Yosuke Akimoto",
+    "aliases": {
+      "ja": [
+        "あきもとようすけ"
+      ]
+    }
+  },
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1944-02-05",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%A7%8B%E5%85%83%E7%BE%8A%E4%BB%8B"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A7%8B%E5%85%83%E7%BE%8A%E4%BB%8B",
+      "title": "秋元羊介 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

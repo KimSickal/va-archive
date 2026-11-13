@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "fuku-tou-jun",
+  "slug": "jun-fukushima",
+  "name": {
+    "original_lang": "ja",
+    "original": "福島潤",
+    "latin": "Jun Fukushima",
+    "aliases": {
+      "ja": [
+        "ふくしまじゅん"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1976-09-04",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B3%B6%E6%BD%A4"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B3%B6%E6%BD%A4",
+      "title": "福島潤 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

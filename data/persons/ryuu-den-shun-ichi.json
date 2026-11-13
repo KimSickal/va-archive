@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ryuu-den-shun-ichi",
+  "slug": "junichi-yanagita",
+  "name": {
+    "original_lang": "ja",
+    "original": "柳田淳一",
+    "latin": "Junichi Yanagita",
+    "aliases": {
+      "ja": [
+        "やなぎたじゅんいち"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%9F%B3%E7%94%B0%E6%B7%B3%E4%B8%80"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9F%B3%E7%94%B0%E6%B7%B3%E4%B8%80",
+      "title": "柳田淳一 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sei-sen-gen-mu",
+  "slug": "motomu-kiyokawa",
+  "name": {
+    "original_lang": "ja",
+    "original": "清川元夢",
+    "latin": "Motomu Kiyokawa",
+    "aliases": {
+      "ja": [
+        "きよかわもとむ"
+      ]
+    }
+  },
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1935-04-09",
+  "death": "2022-08-17",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%B8%85%E5%B7%9D%E5%85%83%E5%A4%A2"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%85%E5%B7%9D%E5%85%83%E5%A4%A2",
+      "title": "清川元夢 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

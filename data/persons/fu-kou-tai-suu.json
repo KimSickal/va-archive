@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "fu-kou-tai-suu",
+  "slug": "yasutaka-tomioka",
+  "name": {
+    "original_lang": "ja",
+    "original": "富岡泰崇",
+    "latin": "Yasutaka Tomioka",
+    "aliases": {
+      "ja": [
+        "とみおかやすたか"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B2%A1%E6%B3%B0%E5%B4%87"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B2%A1%E6%B3%B0%E5%B4%87",
+      "title": "富岡泰崇 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

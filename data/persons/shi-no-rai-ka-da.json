@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shi-no-rai-ka-da",
+  "slug": "kana-ichinose",
+  "name": {
+    "original_lang": "ja",
+    "original": "市ノ瀬加那",
+    "latin": "Kana Ichinose",
+    "aliases": {
+      "ja": [
+        "いちのせかな"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1996-12-20",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%B8%82%E3%83%8E%E7%80%AC%E5%8A%A0%E9%82%A3"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B8%82%E3%83%8E%E7%80%AC%E5%8A%A0%E9%82%A3",
+      "title": "市ノ瀬加那 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

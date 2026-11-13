@@ -1,0 +1,1525 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "final-fantasy-14-heavensward",
+  "franchise_id": "final-fantasy-14",
+  "type": "game",
+  "title": {
+    "original_lang": "ja",
+    "original": "ファイナルファンタジーXIV: 蒼天のイシュガルド",
+    "latin": "Final Fantasy XIV: Heavensward",
+    "official": {
+      "en": "Final Fantasy XIV: Heavensward",
+      "ko": "파이널 판타지 XIV: 창천의 이슈가르드"
+    }
+  },
+  "order": 3,
+  "status": "live_service",
+  "start_date": "2015-06-23",
+  "developers": [
+    {
+      "original_lang": "ja",
+      "original": "スクウェア・エニックス",
+      "latin": "Square Enix",
+      "official": {
+        "en": "Square Enix",
+        "ko": "스퀘어 에닉스"
+      }
+    }
+  ],
+  "publishers": [
+    {
+      "original_lang": "ja",
+      "original": "スクウェア・エニックス",
+      "latin": "Square Enix",
+      "official": {
+        "en": "Square Enix",
+        "ko": "스퀘어 에닉스"
+      }
+    }
+  ],
+  "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Heavensward",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%8C%8C%EC%9D%B4%EB%84%90_%ED%8C%90%ED%83%80%EC%A7%80_XIV%3A_%EC%B0%BD%EC%B2%9C%EC%9D%98_%EC%9D%B4%EC%8A%88%EA%B0%80%EB%A5%B4%EB%93%9C"
+  },
+  "platforms": [
+    "pc",
+    "ps4",
+    "ps5",
+    "xbox_series",
+    "switch2",
+    "other"
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語音声（メインクエスト・パッチメインクエスト）",
+        "translations": {
+          "ko": "일본어 음성 (메인 퀘스트·패치 메인 퀘스트)",
+          "en": "Japanese voice (main scenario and patch main scenario quests)"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2015-06-23",
+      "credits": [
+        {
+          "character": "alphinaud-leveilleur",
+          "person": "ritsu-ka-shin-shi-kai",
+          "role": "main",
+          "source_refs": [
+            "s25",
+            "s38",
+            "s39",
+            "s40"
+          ]
+        },
+        {
+          "character": "alisaie-leveilleur",
+          "person": "son-sen-ri-i",
+          "role": "supporting",
+          "source_refs": [
+            "s32",
+            "s38",
+            "s39",
+            "s40"
+          ],
+          "episodes": "3.1-3.57"
+        },
+        {
+          "character": "tataru-taru",
+          "person": "i-rai-matsu-chi-ya",
+          "role": "supporting",
+          "source_refs": [
+            "s14",
+            "s38",
+            "s39",
+            "s40"
+          ]
+        },
+        {
+          "character": "yshtola-rhul",
+          "person": "bou-ya-ai-i",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s38",
+            "s39",
+            "s40"
+          ]
+        },
+        {
+          "character": "thancred-waters",
+          "person": "chuu-son-yuu-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s6",
+            "s38",
+            "s39",
+            "s40"
+          ]
+        },
+        {
+          "character": "urianger-augurelt",
+          "person": "kenn",
+          "role": "supporting",
+          "source_refs": [
+            "s17",
+            "s38",
+            "s39",
+            "s40"
+          ]
+        },
+        {
+          "character": "yda-hext",
+          "person": "en-tou-ryou",
+          "role": "supporting",
+          "source_refs": [
+            "s10",
+            "s38",
+            "s39",
+            "s40"
+          ]
+        },
+        {
+          "character": "papalymo-totolymo",
+          "person": "ki-ta-son-ei-ri",
+          "role": "supporting",
+          "source_refs": [
+            "s19",
+            "s38",
+            "s39",
+            "s40"
+          ]
+        },
+        {
+          "character": "minfilia-warde",
+          "person": "taku-jou-miyuki",
+          "role": "supporting",
+          "part": "regular",
+          "source_refs": [
+            "s35",
+            "s38",
+            "s39",
+            "s40"
+          ]
+        },
+        {
+          "character": "krile-maya-baldesion",
+          "person": "nan-jou-ai-dai",
+          "role": "supporting",
+          "source_refs": [
+            "s23",
+            "s38",
+            "s39",
+            "s40"
+          ]
+        },
+        {
+          "character": "cid-garlond",
+          "person": "shou-san-ryoku-ya",
+          "role": "supporting",
+          "source_refs": [
+            "s31",
+            "s38",
+            "s39",
+            "s40"
+          ]
+        },
+        {
+          "character": "biggs",
+          "person": "sei-jou-gou",
+          "role": "minor",
+          "source_refs": [
+            "s38",
+            "s39"
+          ]
+        },
+        {
+          "character": "estinien-varlineau",
+          "person": "hin-den-ken-ni",
+          "role": "main",
+          "source_refs": [
+            "s12",
+            "s38",
+            "s39",
+            "s40"
+          ]
+        },
+        {
+          "character": "aymeric-de-borel",
+          "person": "rei-boku-tatsu-ou",
+          "role": "main",
+          "source_refs": [
+            "s24",
+            "s38",
+            "s39",
+            "s40"
+          ]
+        },
+        {
+          "character": "ysayle-dangoulain",
+          "person": "dai-den-shin-rei",
+          "role": "main",
+          "source_refs": [
+            "s7",
+            "s38",
+            "s39",
+            "s40"
+          ]
+        },
+        {
+          "character": "shiva",
+          "person": "dai-den-shin-rei",
+          "role": "minor",
+          "source_refs": [
+            "s7",
+            "s39"
+          ]
+        },
+        {
+          "character": "haurchefant-greystone",
+          "person": "sei-den-ga-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s28",
+            "s38",
+            "s39",
+            "s40"
+          ]
+        },
+        {
+          "character": "edmont-de-fortemps",
+          "person": "taku-boku-iku-ya",
+          "role": "supporting",
+          "source_refs": [
+            "s34",
+            "s38",
+            "s39"
+          ]
+        },
+        {
+          "character": "artoirel-de-fortemps",
+          "person": "sai-jou-shi-sei",
+          "role": "supporting",
+          "source_refs": [
+            "s26",
+            "s39"
+          ]
+        },
+        {
+          "character": "emmanellain-de-fortemps",
+          "person": "kou-ri-ken-go",
+          "role": "supporting",
+          "source_refs": [
+            "s21",
+            "s39"
+          ]
+        },
+        {
+          "character": "honoroit-banlardois",
+          "person": "son-chuu-chi",
+          "role": "minor",
+          "source_refs": [
+            "s39"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "thordan-vii",
+          "person": "tsuji-shin-hachi",
+          "role": "supporting",
+          "source_refs": [
+            "s37",
+            "s38",
+            "s39"
+          ]
+        },
+        {
+          "character": "zephirin-de-valhourdin",
+          "person": "takumi-sei-mei",
+          "role": "supporting",
+          "source_refs": [
+            "s36",
+            "s39"
+          ],
+          "credited_as": "内匠靖明"
+        },
+        {
+          "character": "charibert-de-leusignac",
+          "person": "ko-tou-sei-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s20",
+            "s39"
+          ]
+        },
+        {
+          "character": "grinnaux-de-dzemael",
+          "person": "ki-san-mo-yuu",
+          "role": "supporting",
+          "source_refs": [
+            "s18"
+          ]
+        },
+        {
+          "character": "ravana",
+          "person": "ki-san-mo-yuu",
+          "role": "minor",
+          "source_refs": [
+            "s18"
+          ]
+        },
+        {
+          "character": "hilda-ware",
+          "person": "kei-chou-yuu-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s16",
+            "s39"
+          ],
+          "episodes": "3.1-3.57"
+        },
+        {
+          "character": "lucia-junius",
+          "person": "tai-gen-sayaka",
+          "role": "supporting",
+          "source_refs": [
+            "s33",
+            "s38",
+            "s39"
+          ]
+        },
+        {
+          "character": "midgardsormr",
+          "person": "bu-ko",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s39"
+          ]
+        },
+        {
+          "character": "vidofnir",
+          "person": "san-hon-yuu",
+          "role": "minor",
+          "source_refs": [
+            "s39"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "matoya",
+          "person": "kyou-sei-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s22",
+            "s39"
+          ]
+        },
+        {
+          "character": "igeyorhm",
+          "person": "setsu-ryuu-ai",
+          "role": "minor",
+          "source_refs": [
+            "s29",
+            "s39"
+          ]
+        },
+        {
+          "character": "elidibus",
+          "person": "shaku-den-shou",
+          "role": "supporting",
+          "source_refs": [
+            "s38",
+            "s39"
+          ],
+          "episodes": "3.1-3.57"
+        },
+        {
+          "character": "lahabrea",
+          "person": "chi-den-shuu-ichi",
+          "role": "minor",
+          "source_refs": [
+            "s5",
+            "s38",
+            "s39"
+          ]
+        },
+        {
+          "character": "hydaelyn",
+          "person": "chi-den-shou-shi",
+          "role": "minor",
+          "part": "replaced",
+          "source_refs": [
+            "s4",
+            "s39"
+          ]
+        },
+        {
+          "character": "ilberd-feare",
+          "person": "haku-yuu-kan-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s11",
+            "s39"
+          ],
+          "episodes": "3.5-3.56"
+        },
+        {
+          "character": "raubahn-aldynn",
+          "person": "an-gen-you-ki",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s38",
+            "s39",
+            "s40"
+          ]
+        },
+        {
+          "character": "nanamo-ul-namo",
+          "person": "i-rai-matsu-chi-ya",
+          "role": "supporting",
+          "source_refs": [
+            "s14",
+            "s39",
+            "s40"
+          ]
+        },
+        {
+          "character": "pipin-tarupin",
+          "person": "kai-san-shuu-shi",
+          "role": "minor",
+          "source_refs": [
+            "s38",
+            "s39"
+          ]
+        },
+        {
+          "character": "kan-e-senna",
+          "person": "den-chuu-ri-kei",
+          "role": "supporting",
+          "source_refs": [
+            "s8",
+            "s38",
+            "s39",
+            "s40"
+          ]
+        },
+        {
+          "character": "merlwyb-bloefhiswyn",
+          "person": "den-chuu-ton-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s9",
+            "s38",
+            "s39",
+            "s40"
+          ]
+        },
+        {
+          "character": "eynzahr-slafyrsyn",
+          "person": "ki-san-mo-yuu",
+          "role": "minor",
+          "source_refs": [
+            "s18",
+            "s38",
+            "s39"
+          ]
+        },
+        {
+          "character": "lolorito-nanarito",
+          "person": "izumi-shou",
+          "role": "minor",
+          "source_refs": [
+            "s15",
+            "s39"
+          ]
+        },
+        {
+          "character": "yugiri-mistwalker",
+          "person": "sa-tou-ri-na",
+          "role": "minor",
+          "source_refs": [
+            "s38",
+            "s39",
+            "s40"
+          ]
+        },
+        {
+          "character": "grynewaht",
+          "person": "san-hon-kou",
+          "role": "minor",
+          "source_refs": [
+            "s27",
+            "s39"
+          ],
+          "episodes": "3.1-3.57"
+        },
+        {
+          "character": "regula-van-hydrus",
+          "person": "shou-san-juu-rou-ta",
+          "role": "supporting",
+          "source_refs": [
+            "s30",
+            "s38",
+            "s39"
+          ],
+          "episodes": "3.5-3.56"
+        },
+        {
+          "character": "nero-tol-scaeva",
+          "person": "hoku-taku-ryoku",
+          "role": "minor",
+          "source_refs": [
+            "s13",
+            "s38",
+            "s39",
+            "s40"
+          ],
+          "episodes": "3.1-3.57"
+        },
+        {
+          "character": "ardbert",
+          "person": "shu-hou-bu-jun-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s39",
+            "s40"
+          ],
+          "verification": "unverified",
+          "episodes": "3.4-3.5"
+        },
+        {
+          "character": "branden",
+          "person": "chuu-tou-taku-ya",
+          "role": "minor",
+          "source_refs": [
+            "s39"
+          ],
+          "verification": "unverified",
+          "episodes": "3.4-3.5"
+        },
+        {
+          "character": "lamitt",
+          "person": "shou-ya-ji-ryuu-na",
+          "role": "minor",
+          "source_refs": [
+            "s39"
+          ],
+          "verification": "unverified",
+          "episodes": "3.4-3.5"
+        },
+        {
+          "character": "renda-rae",
+          "person": "sa-tou-ri-na",
+          "role": "minor",
+          "source_refs": [
+            "s39"
+          ],
+          "verification": "unverified",
+          "episodes": "3.4-3.5"
+        },
+        {
+          "character": "nyelbert",
+          "person": "koku-kou-shun-shi",
+          "role": "minor",
+          "source_refs": [
+            "s39"
+          ],
+          "verification": "unverified",
+          "episodes": "3.4-3.5"
+        }
+      ]
+    },
+    {
+      "id": "ko",
+      "language": "ko",
+      "kind": "dub",
+      "label": {
+        "original_lang": "ko",
+        "original": "한국어 음성 (메인 퀘스트·패치 메인 퀘스트)",
+        "translations": {
+          "ja": "韓国語音声（メインクエスト・パッチメインクエスト）",
+          "en": "Korean voice (main scenario and patch main scenario quests)"
+        },
+        "translated": [
+          "ja",
+          "en"
+        ]
+      },
+      "distributor": {
+        "original_lang": "ko",
+        "original": "액토즈소프트",
+        "latin": "Actoz Soft",
+        "official": {
+          "en": "Actoz Soft"
+        }
+      },
+      "release_date": "2016-06-14",
+      "credits": [
+        {
+          "character": "alphinaud-leveilleur",
+          "person": "gim-yeong-seon",
+          "role": "main",
+          "source_refs": [
+            "s44",
+            "s41"
+          ]
+        },
+        {
+          "character": "alisaie-leveilleur",
+          "person": "an-yeong-mi",
+          "role": "supporting",
+          "episodes": "3.1-3.57",
+          "source_refs": [
+            "s45",
+            "s41"
+          ]
+        },
+        {
+          "character": "tataru-taru",
+          "person": "gim-ha-yeong",
+          "role": "supporting",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "yshtola-rhul",
+          "person": "gim-hyeon-sim",
+          "role": "supporting",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "thancred-waters",
+          "person": "bak-seong-tae",
+          "role": "supporting",
+          "source_refs": [
+            "s46",
+            "s41"
+          ]
+        },
+        {
+          "character": "urianger-augurelt",
+          "person": "gim-guk-jin",
+          "role": "supporting",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "yda-hext",
+          "person": "gim-ha-yeong",
+          "role": "supporting",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "papalymo-totolymo",
+          "person": "gim-bo-yeong",
+          "role": "supporting",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "minfilia-warde",
+          "person": "jeong-mi-suk",
+          "role": "supporting",
+          "source_refs": [
+            "s47",
+            "s41"
+          ]
+        },
+        {
+          "character": "krile-maya-baldesion",
+          "person": "yun-a-yeong",
+          "role": "supporting",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "cid-garlond",
+          "person": "gim-seung-jun",
+          "role": "supporting",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "biggs",
+          "person": "gim-so-hyeong",
+          "role": "minor",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "estinien-varlineau",
+          "person": "gwon-seong-hyeok",
+          "role": "main",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "aymeric-de-borel",
+          "person": "gang-ho-cheol",
+          "role": "main",
+          "source_refs": [
+            "s48",
+            "s41"
+          ]
+        },
+        {
+          "character": "ysayle-dangoulain",
+          "person": "i-ji-yeong",
+          "role": "main",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "shiva",
+          "person": "i-ji-yeong",
+          "role": "minor",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "haurchefant-greystone",
+          "person": "choe-seung-hun",
+          "role": "supporting",
+          "source_refs": [
+            "s49",
+            "s41"
+          ]
+        },
+        {
+          "character": "edmont-de-fortemps",
+          "person": "yang-seok-jeong",
+          "role": "supporting",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "artoirel-de-fortemps",
+          "person": "gim-myeong-jun",
+          "role": "supporting",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "emmanellain-de-fortemps",
+          "person": "sim-gyu-hyeok",
+          "role": "supporting",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "honoroit-banlardois",
+          "person": "bang-yeon-ji",
+          "role": "minor",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "thordan-vii",
+          "person": "song-jun-seok",
+          "role": "supporting",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "zephirin-de-valhourdin",
+          "person": "bak-seong-tae",
+          "role": "supporting",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "charibert-de-leusignac",
+          "person": "choe-jae-ho",
+          "role": "supporting",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "ravana",
+          "person": "gim-yeong-chan",
+          "role": "minor",
+          "source_refs": [
+            "s50",
+            "s41"
+          ]
+        },
+        {
+          "character": "hilda-ware",
+          "person": "i-gye-yun",
+          "role": "supporting",
+          "episodes": "3.1-3.57",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "lucia-junius",
+          "person": "jo-hyeon-jeong",
+          "role": "supporting",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "midgardsormr",
+          "person": "gim-so-hyeong",
+          "role": "supporting",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "vidofnir",
+          "person": "i-gye-yun",
+          "role": "minor",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "matoya",
+          "person": "jo-hyeon-jeong",
+          "role": "supporting",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "igeyorhm",
+          "person": "an-yeong-mi",
+          "role": "minor",
+          "source_refs": [
+            "s45",
+            "s41"
+          ]
+        },
+        {
+          "character": "elidibus",
+          "person": "choe-seung-hun",
+          "role": "supporting",
+          "episodes": "3.1-3.57",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "lahabrea",
+          "person": "gim-yeong-chan",
+          "role": "minor",
+          "source_refs": [
+            "s50",
+            "s41"
+          ]
+        },
+        {
+          "character": "hydaelyn",
+          "person": "son-jeong-a",
+          "role": "minor",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "ilberd-feare",
+          "person": "song-jun-seok",
+          "role": "supporting",
+          "episodes": "3.5-3.56",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "raubahn-aldynn",
+          "person": "choe-han",
+          "role": "supporting",
+          "source_refs": [
+            "s51",
+            "s41"
+          ]
+        },
+        {
+          "character": "nanamo-ul-namo",
+          "person": "an-yeong-mi",
+          "role": "supporting",
+          "source_refs": [
+            "s45",
+            "s41"
+          ]
+        },
+        {
+          "character": "pipin-tarupin",
+          "person": "gang-ho-cheol",
+          "role": "minor",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "kan-e-senna",
+          "person": "bak-hui-eun",
+          "role": "supporting",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "merlwyb-bloefhiswyn",
+          "person": "jeong-yu-mi",
+          "role": "supporting",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "eynzahr-slafyrsyn",
+          "person": "choe-jae-ho",
+          "role": "minor",
+          "part": "replacement",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "lolorito-nanarito",
+          "person": "gim-so-hyeong",
+          "role": "minor",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "yugiri-mistwalker",
+          "person": "jo-hyeon-jeong",
+          "role": "minor",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "grynewaht",
+          "person": "choe-jae-ho",
+          "role": "minor",
+          "episodes": "3.1-3.57",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "regula-van-hydrus",
+          "person": "so-jeong-hwan",
+          "role": "supporting",
+          "episodes": "3.5-3.56",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "nero-tol-scaeva",
+          "person": "gim-guk-jin",
+          "role": "minor",
+          "episodes": "3.1-3.57",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "ardbert",
+          "person": "gim-myeong-jun",
+          "role": "supporting",
+          "episodes": "3.4-3.5",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "branden",
+          "person": "so-jeong-hwan",
+          "role": "minor",
+          "episodes": "3.4-3.5",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "lamitt",
+          "person": "jo-hyeon-jeong",
+          "role": "minor",
+          "episodes": "3.4-3.5",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "renda-rae",
+          "person": "gim-hyeon-sim",
+          "role": "minor",
+          "episodes": "3.4-3.5",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "nyelbert",
+          "person": "choe-jae-ho",
+          "role": "minor",
+          "episodes": "3.4-3.5",
+          "source_refs": [
+            "s41"
+          ],
+          "verification": "unverified"
+        }
+      ],
+      "source_refs": [
+        "s42",
+        "s43"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%89%E5%85%83%E6%B4%8B%E8%B2%B4",
+      "title": "安元洋貴 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8C%85%E9%87%8E%E6%84%9B%E8%A1%A3",
+      "title": "茅野愛衣 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%99%8E",
+      "title": "武虎 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s4",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B1%A0%E7%94%B0%E6%98%8C%E5%AD%90",
+      "title": "池田昌子 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s5",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B1%A0%E7%94%B0%E7%A7%80%E4%B8%80",
+      "title": "池田秀一 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s6",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E6%82%A0%E4%B8%80",
+      "title": "中村悠一 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s7",
+      "url": "https://ja.wikipedia.org/wiki/%E5%86%85%E7%94%B0%E7%9C%9F%E7%A4%BC",
+      "title": "内田真礼 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s8",
+      "url": "https://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%AD%E7%90%86%E6%81%B5_(%E5%A3%B0%E5%84%AA)",
+      "title": "田中理恵 (声優) - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s9",
+      "url": "https://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%AD%E6%95%A6%E5%AD%90_(%E5%A3%B0%E5%84%AA)",
+      "title": "田中敦子 (声優) - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s10",
+      "url": "https://ja.wikipedia.org/wiki/%E9%81%A0%E8%97%A4%E7%B6%BE",
+      "title": "遠藤綾 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s11",
+      "url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E7%86%8A%E5%AF%9B%E5%97%A3",
+      "title": "白熊寛嗣 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s12",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E7%94%B0%E8%B3%A2%E4%BA%8C",
+      "title": "浜田賢二 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s13",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B2%A2%E5%8A%9B",
+      "title": "北沢力 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s14",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E7%80%AC%E8%8C%89%E8%8E%89%E4%B9%9F",
+      "title": "伊瀬茉莉也 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s15",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%84%E3%81%9A%E3%81%BF%E5%B0%9A",
+      "title": "いずみ尚 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s16",
+      "url": "https://ja.wikipedia.org/wiki/%E6%85%B6%E9%95%B7%E4%BD%91%E9%A6%99",
+      "title": "慶長佑香 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s17",
+      "url": "https://ja.wikipedia.org/wiki/KENN",
+      "title": "KENN - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s18",
+      "url": "https://ja.wikipedia.org/wiki/%E5%96%9C%E5%B1%B1%E8%8C%82%E9%9B%84",
+      "title": "喜山茂雄 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s19",
+      "url": "https://ja.wikipedia.org/wiki/%E5%96%9C%E5%A4%9A%E6%9D%91%E8%8B%B1%E6%A2%A8",
+      "title": "喜多村英梨 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s20",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E5%B3%B6%E6%B8%85%E5%AD%9D",
+      "title": "古島清孝 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s21",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%A2%A8%E8%AC%99%E5%90%BE",
+      "title": "高梨謙吾 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s22",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E4%BA%95%E5%B9%B8",
+      "title": "京井幸 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s23",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%A2%9D%E6%84%9B%E4%B9%83",
+      "title": "南條愛乃 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s24",
+      "url": "https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E9%81%94%E5%A4%AE",
+      "title": "鈴木達央 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s25",
+      "url": "https://ja.wikipedia.org/wiki/%E7%AB%8B%E8%8A%B1%E6%85%8E%E4%B9%8B%E4%BB%8B",
+      "title": "立花慎之介 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s26",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%80%E4%B8%8A%E5%97%A3%E7%94%9F",
+      "title": "最上嗣生 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s27",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%9C%AC%E6%A0%BC",
+      "title": "山本格 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s28",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E7%94%B0%E9%9B%85%E4%B8%80",
+      "title": "西田雅一 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s29",
+      "url": "https://ja.wikipedia.org/wiki/%E6%8A%98%E7%AC%A0%E6%84%9B",
+      "title": "折笠愛 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s30",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9D%89%E5%8D%81%E9%83%8E%E5%A4%AA",
+      "title": "小杉十郎太 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s31",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B1%B1%E5%8A%9B%E4%B9%9F",
+      "title": "小山力也 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s32",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%91%E5%B7%9D%E6%A2%A8%E8%A1%A3",
+      "title": "村川梨衣 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s33",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%8E%9F%E3%81%95%E3%82%84%E3%81%8B",
+      "title": "大原さやか - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s34",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B2%A2%E6%9C%A8%E9%83%81%E4%B9%9F",
+      "title": "沢木郁也 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s35",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B2%A2%E5%9F%8E%E3%81%BF%E3%82%86%E3%81%8D",
+      "title": "沢城みゆき - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s36",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%9F%E3%81%8F%E3%81%BF%E9%9D%96%E6%98%8E",
+      "title": "たくみ靖明 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s37",
+      "url": "https://ja.wikipedia.org/wiki/%E8%BE%BB%E8%A6%AA%E5%85%AB",
+      "title": "辻親八 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s38",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXIV",
+      "title": "ファイナルファンタジーXIV - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s39",
+      "url": "https://finalfantasy.fandom.com/wiki/Japanese_voice_actors",
+      "title": "Japanese voice actors | Final Fantasy Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s40",
+      "url": "https://game8.jp/ff14/314394",
+      "title": "【FF14】声優一覧と担当キャラクターまとめ｜黄金対応【パッチ7.0】｜ゲームエイト",
+      "publisher": "other",
+      "tier": 3,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s41",
+      "url": "https://www.inven.co.kr/board/ff14/4338/4182",
+      "title": "파이널 판타지 14 성우",
+      "publisher": "other",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s42",
+      "url": "https://ko.wikipedia.org/wiki/%ED%8C%8C%EC%9D%B4%EB%84%90_%ED%8C%90%ED%83%80%EC%A7%80_XIV",
+      "title": "파이널 판타지 XIV - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s43",
+      "url": "https://www.gamemeca.com/view.php?gid=844781",
+      "title": "파이널 판타지 14 한국 서비스 관련 기사 (게임메카)",
+      "publisher": "news",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s44",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%98%81%EC%84%A0_%28%EC%84%B1%EC%9A%B0%29",
+      "title": "김영선 (성우) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s45",
+      "url": "https://ko.wikipedia.org/wiki/%EC%95%88%EC%98%81%EB%AF%B8_%28%EC%84%B1%EC%9A%B0%29",
+      "title": "안영미 (성우) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s46",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B0%95%EC%84%B1%ED%83%9C",
+      "title": "박성태 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s47",
+      "url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EB%AF%B8%EC%88%99",
+      "title": "정미숙 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s48",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B0%95%ED%98%B8%EC%B2%A0",
+      "title": "강호철 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s49",
+      "url": "https://ko.wikipedia.org/wiki/%EC%B5%9C%EC%8A%B9%ED%9B%88_%28%EC%84%B1%EC%9A%B0%29",
+      "title": "최승훈 (성우) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s50",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%98%81%EC%B0%AC_%28%EC%84%B1%EC%9A%B0%29",
+      "title": "김영찬 (성우) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s51",
+      "url": "https://ko.wikipedia.org/wiki/%EC%B5%9C%ED%95%9C",
+      "title": "최한 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "notes": "Patches 3.0-3.57 folded into this work. Scope: MSQ + patch MSQ only (5.0 role quests included in Shadowbringers). Alliance/normal raids, side stories, job/role quests (except 5.0), collabs and battle voices are deferred.",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kon-sen-you-shi",
+  "slug": "yoko-imaizumi",
+  "name": {
+    "original_lang": "ja",
+    "original": "今泉葉子",
+    "latin": "Yoko Imaizumi",
+    "aliases": {
+      "ja": [
+        "いまいずみようこ"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1966-08-02",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%BB%8A%E6%B3%89%E8%91%89%E5%AD%90"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BB%8A%E6%B3%89%E8%91%89%E5%AD%90",
+      "title": "今泉葉子 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

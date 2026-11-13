@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "gan-ya-ichi-gen",
+  "slug": "kazuhiko-kishino",
+  "name": {
+    "original_lang": "ja",
+    "original": "岸野一彦",
+    "latin": "Kazuhiko Kishino",
+    "aliases": {
+      "ja": [
+        "きしのかずひこ"
+      ]
+    }
+  },
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1934-02-14",
+  "death": "2020-02-22",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%B2%B8%E9%87%8E%E4%B8%80%E5%BD%A6"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%B8%E9%87%8E%E4%B8%80%E5%BD%A6",
+      "title": "岸野一彦 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}
