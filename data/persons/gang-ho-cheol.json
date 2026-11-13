@@ -1,0 +1,35 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "gang-ho-cheol",
+  "slug": "kang-ho-cheol",
+  "name": {
+    "original_lang": "ko",
+    "original": "강호철",
+    "latin": "Kang Ho-cheol"
+  },
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1983-03-17",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EA%B0%95%ED%98%B8%EC%B2%A0"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B0%95%ED%98%B8%EC%B2%A0",
+      "title": "강호철",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

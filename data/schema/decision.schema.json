@@ -1,0 +1,82 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "decision.schema.json",
+  "title": "Decision (충돌 중재·사용자 결정 기록)",
+  "description": "data/decisions/<id>.json. 병렬 수집 중 생긴 충돌을 중재 에이전트나 사용자가 결정한 기록. 내부용이며 사이트에 표시하지 않는다.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["$schema", "id", "date", "kind", "subjects", "decision", "rationale", "decided_by"],
+  "properties": {
+    "$schema": {
+      "const": "../schema/decision.schema.json"
+    },
+    "id": {
+      "$ref": "common.schema.json#/$defs/Id",
+      "description": "예: 2026-11-13-shinichiro-miki-same-person"
+    },
+    "date": {
+      "$ref": "common.schema.json#/$defs/FullDate"
+    },
+    "kind": {
+      "enum": ["same_person", "different_person", "field_value", "naming", "other"],
+      "description": "same_person: 두 레코드가 같은 사람 → 하나로 병합 / different_person: 동명이인 확정 / field_value: 출처 간 값 충돌 / naming: 표기·ID 충돌"
+    },
+    "subjects": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["kind", "id"],
+        "properties": {
+          "kind": {
+            "enum": ["person", "franchise", "work", "character", "credit"]
+          },
+          "id": {
+            "type": "string",
+            "minLength": 1,
+            "description": "person/franchise/work: id, character: franchise/character, credit: work#version#index"
+          },
+          "field": {
+            "type": "string",
+            "description": "field_value일 때 JSON Pointer"
+          }
+        }
+      }
+    },
+    "decision": {
+      "$ref": "common.schema.json#/$defs/NonEmptyString",
+      "description": "결론 (무엇을 어떻게 했는지)"
+    },
+    "rationale": {
+      "$ref": "common.schema.json#/$defs/NonEmptyString",
+      "description": "근거 요약"
+    },
+    "evidence": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["url", "tier"],
+        "properties": {
+          "url": {
+            "$ref": "common.schema.json#/$defs/Url"
+          },
+          "quote": {
+            "type": "string"
+          },
+          "tier": {
+            "enum": [1, 2, 3]
+          }
+        }
+      }
+    },
+    "decided_by": {
+      "enum": ["mediator", "user"]
+    },
+    "supersedes": {
+      "$ref": "common.schema.json#/$defs/Id",
+      "description": "이 결정이 대체하는 이전 결정"
+    }
+  }
+}

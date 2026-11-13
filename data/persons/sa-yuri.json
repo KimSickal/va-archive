@@ -1,0 +1,53 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sa-yuri",
+  "slug": "sayuri",
+  "name": {
+    "original_lang": "ja",
+    "original": "紗ゆり",
+    "latin": "Sayuri",
+    "aliases": {
+      "ja": [
+        "さゆり",
+        "山内小百合",
+        "やまうちさゆり"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1956",
+  "death": "2012",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%B4%97%E3%82%86%E3%82%8A",
+    "en": "https://en.wikipedia.org/wiki/Sayuri_Yamauchi"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=4674",
+      "title": "Sayuri (seiyū) - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E7%B4%97%E3%82%86%E3%82%8A",
+      "title": "紗ゆり - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

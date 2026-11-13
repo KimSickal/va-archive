@@ -8,6 +8,7 @@ import {
   compareWithFavorites,
   comparePersons,
   compareWorks,
+  personPath,
   resolveId,
   type OverlapRow,
   type ResolvedCredit,
@@ -63,7 +64,7 @@ function OverlapTable({
         {rows.map((r) => (
           <tr key={r.person}>
             <td>
-              <Link to={`/person/${r.person}`}>{displayName(db.persons[r.person].name)}</Link>
+              <Link to={personPath(db, r.person)}>{displayName(db.persons[r.person].name)}</Link>
             </td>
             <td>
               <CreditList list={r.a} />
@@ -172,8 +173,8 @@ export function ComparePersonsPage() {
     <article className="page">
       <h1>성우 비교</h1>
       <div className="pickers">
-        <Picker label="성우 A" kind="person" value={a} onPick={(v) => set('a', v)} />
-        <Picker label="성우 B" kind="person" value={b} onPick={(v) => set('b', v)} />
+        <Picker label="성우 A" kind="person" value={a} onPick={(v) => set('a', db.persons[v].slug)} />
+        <Picker label="성우 B" kind="person" value={b} onPick={(v) => set('b', db.persons[v].slug)} />
       </div>
       {a && b && (
         <>

@@ -1,0 +1,66 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "bai-shin-shuu-kou",
+  "slug": "hideyuki-umezu",
+  "name": {
+    "original_lang": "ja",
+    "original": "梅津秀行",
+    "latin": "Hideyuki Umezu",
+    "aliases": {
+      "ko": [
+        "우메즈 히데유키"
+      ],
+      "en": [
+        "Umezu Hideyuki"
+      ],
+      "ja": [
+        "うめづひでゆき"
+      ]
+    }
+  },
+  "gender": "male",
+  "birth": "1955-07-24",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%A2%85%E6%B4%A5%E7%A7%80%E8%A1%8C",
+    "en": "https://en.wikipedia.org/wiki/Hideyuki_Umezu",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9A%B0%EB%A9%94%EC%A6%88_%ED%9E%88%EB%8D%B0%EC%9C%A0%ED%82%A4"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A2%85%E6%B4%A5%E7%A7%80%E8%A1%8C",
+      "title": "梅津秀行",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=1256",
+      "title": "Hideyuki Umezu - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/梅津秀行",
+      "title": "梅津秀行",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  },
+  "nationality": [
+    "JP"
+  ],
+  "death": "2024-05-17"
+}

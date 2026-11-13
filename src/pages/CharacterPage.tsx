@@ -3,7 +3,7 @@ import { CreditMeta } from '../components/CreditView';
 import { ExternalImage, NameView, Spoiler, TextView, WikiLinks } from '../components/common';
 import { useDb } from '../data/DbContext';
 import { displayName, displayText, langLabel, langOrder } from '../data/i18n-data';
-import { getCharacter, resolveCredit } from '../data/queries';
+import { getCharacter, personPath, resolveCredit } from '../data/queries';
 import { useSettings } from '../state/settings';
 import { useEffect } from 'react';
 import { NotFound } from './NotFound';
@@ -105,7 +105,9 @@ export function CharacterPage() {
                     <td>{displayText(c.version.label)}</td>
                     <td>
                       <Spoiler active={c.credit.spoiler}>
-                        <Link to={`/person/${c.credit.person}`}>{displayName(db.persons[c.credit.person].name)}</Link>{' '}
+                        <Link to={personPath(db, c.credit.person)}>
+                          {displayName(db.persons[c.credit.person].name)}
+                        </Link>{' '}
                         <CreditMeta credit={c.credit} showRole />
                       </Spoiler>
                     </td>

@@ -1,6 +1,7 @@
 {
   "$schema": "../schema/person.schema.json",
   "id": "eom-sang-hyeon",
+  "slug": "eom-sang-hyeon",
   "name": {
     "original_lang": "ko",
     "original": "엄상현",

@@ -1,0 +1,43 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "chou-taku-bi-ju",
+  "slug": "miki-nagasawa",
+  "name": {
+    "original_lang": "ja",
+    "original": "長沢美樹",
+    "latin": "Miki Nagasawa",
+    "aliases": {
+      "ko": [
+        "나가사와 미키"
+      ],
+      "ja": [
+        "ながさわみき"
+      ]
+    }
+  },
+  "gender": "female",
+  "birth": "1970-07-11",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%95%B7%E6%B2%A2%E7%BE%8E%E6%A8%B9",
+    "en": "https://en.wikipedia.org/wiki/Miki_Nagasawa",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%82%98%EA%B0%80%EC%82%AC%EC%99%80_%EB%AF%B8%ED%82%A4"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%95%B7%E6%B2%A2%E7%BE%8E%E6%A8%B9",
+      "title": "長沢美樹",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

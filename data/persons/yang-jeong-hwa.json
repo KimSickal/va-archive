@@ -1,6 +1,7 @@
 {
   "$schema": "../schema/person.schema.json",
   "id": "yang-jeong-hwa",
+  "slug": "yang-jeong-hwa",
   "name": {
     "original_lang": "ko",
     "original": "양정화",

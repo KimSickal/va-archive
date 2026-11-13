@@ -1,0 +1,53 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ten-den-eki-dan",
+  "slug": "masuo-amada",
+  "name": {
+    "original_lang": "ja",
+    "original": "天田益男",
+    "latin": "Masuo Amada",
+    "aliases": {
+      "en": [
+        "Amada Masuo"
+      ],
+      "ja": [
+        "あまだますお"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1958",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%94%B0%E7%9B%8A%E7%94%B7",
+    "en": "https://en.wikipedia.org/wiki/Masuo_Amada"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=9591",
+      "title": "Masuo AMADA - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%94%B0%E7%9B%8A%E7%94%B7",
+      "title": "天田益男 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

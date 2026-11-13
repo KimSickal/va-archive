@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kanaimika",
+  "slug": "mika-kanai",
+  "name": {
+    "original_lang": "ja",
+    "original": "かないみか",
+    "latin": "Mika Kanai",
+    "aliases": {
+      "ko": [
+        "카나이 미카"
+      ]
+    }
+  },
+  "gender": "female",
+  "birth": "1964-03-18",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%AA%E3%81%84%E3%81%BF%E3%81%8B",
+    "en": "https://en.wikipedia.org/wiki/Mika_Kanai",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%B9%B4%EB%82%98%EC%9D%B4_%EB%AF%B8%EC%B9%B4"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%AA%E3%81%84%E3%81%BF%E3%81%8B",
+      "title": "かないみか",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

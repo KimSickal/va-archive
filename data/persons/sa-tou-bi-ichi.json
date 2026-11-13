@@ -1,0 +1,60 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sa-tou-bi-ichi",
+  "slug": "biichi-sato",
+  "name": {
+    "original_lang": "ja",
+    "original": "佐藤美一",
+    "latin": "Biichi Sato",
+    "aliases": {
+      "en": [
+        "Sato Biichi"
+      ],
+      "ja": [
+        "さとうびいち"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/佐藤美一"
+  },
+  "birth": "1977-09-22",
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=72549",
+      "title": "Biichi Satō - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/佐藤美一",
+      "title": "佐藤美一",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E7%BE%8E%E4%B8%80",
+      "title": "佐藤美一 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

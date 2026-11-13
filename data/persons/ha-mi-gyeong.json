@@ -1,6 +1,7 @@
 {
   "$schema": "../schema/person.schema.json",
   "id": "ha-mi-gyeong",
+  "slug": "ha-mi-gyeong",
   "name": {
     "original_lang": "ko",
     "original": "하미경",

@@ -1,0 +1,43 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shin-kyuu-sei-kyou-sei",
+  "slug": "kyosei-tsukui",
+  "name": {
+    "original_lang": "ja",
+    "original": "津久井教生",
+    "latin": "Kyosei Tsukui",
+    "aliases": {
+      "ko": [
+        "츠쿠이 쿄세이"
+      ],
+      "ja": [
+        "つくいきょうせい"
+      ]
+    }
+  },
+  "gender": "male",
+  "birth": "1961-03-27",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%B4%A5%E4%B9%85%E4%BA%95%E6%95%99%E7%94%9F",
+    "en": "https://en.wikipedia.org/wiki/Kyousei_Tsukui",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%B8%A0%EC%BF%A0%EC%9D%B4_%EC%BF%84%EC%84%B8%EC%9D%B4"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B4%A5%E4%B9%85%E4%BA%95%E6%95%99%E7%94%9F",
+      "title": "津久井教生",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

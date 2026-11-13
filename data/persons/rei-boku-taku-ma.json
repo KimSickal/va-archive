@@ -1,0 +1,39 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "rei-boku-taku-ma",
+  "slug": "takuma-suzuki",
+  "name": {
+    "original_lang": "ja",
+    "original": "鈴木琢磨",
+    "latin": "Takuma Suzuki",
+    "aliases": {
+      "ja": [
+        "すずきたくま"
+      ]
+    }
+  },
+  "gender": "male",
+  "birth": "1961-12-07",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E7%90%A2%E7%A3%A8",
+    "en": "https://en.wikipedia.org/wiki/Takuma_Suzuki"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E7%90%A2%E7%A3%A8",
+      "title": "鈴木琢磨",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

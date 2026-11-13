@@ -68,7 +68,10 @@ export interface RecordMeta {
 
 export interface Person {
   $schema?: string;
+  /** 내부 ID (불변, 사용자에게 보이지 않음) */
   id: Id;
+  /** 표시 ID (URL) */
+  slug: Id;
   name: Name;
   gender?: 'female' | 'male' | 'other';
   nationality?: string[];
@@ -163,4 +166,17 @@ export interface Redirects {
   persons: Record<Id, Id>;
   franchises: Record<Id, Id>;
   works: Record<Id, Id>;
+}
+
+export interface Decision {
+  $schema?: string;
+  id: Id;
+  date: FullDate;
+  kind: 'same_person' | 'different_person' | 'field_value' | 'naming' | 'other';
+  subjects: { kind: 'person' | 'franchise' | 'work' | 'character' | 'credit'; id: string; field?: string }[];
+  decision: string;
+  rationale: string;
+  evidence?: { url: string; quote?: string; tier: 1 | 2 | 3 }[];
+  decided_by: 'mediator' | 'user';
+  supersedes?: Id;
 }

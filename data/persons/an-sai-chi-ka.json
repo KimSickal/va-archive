@@ -1,0 +1,43 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "an-sai-chi-ka",
+  "slug": "chika-anzai",
+  "name": {
+    "original_lang": "ja",
+    "original": "安済知佳",
+    "latin": "Chika Anzai",
+    "aliases": {
+      "ko": [
+        "안자이 치카"
+      ],
+      "ja": [
+        "あんざいちか"
+      ]
+    }
+  },
+  "gender": "female",
+  "birth": "1990-12-22",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%AE%89%E6%B8%88%E7%9F%A5%E4%BD%B3",
+    "en": "https://en.wikipedia.org/wiki/Chika_Anzai",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%95%88%EC%9E%90%EC%9D%B4_%EC%B9%98%EC%B9%B4"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%89%E6%B8%88%E7%9F%A5%E4%BD%B3",
+      "title": "安済知佳",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

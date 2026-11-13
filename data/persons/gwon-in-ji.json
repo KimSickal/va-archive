@@ -1,0 +1,36 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "gwon-in-ji",
+  "slug": "kwon-in-ji",
+  "name": {
+    "original_lang": "ko",
+    "original": "권인지",
+    "latin": "Kwon In-ji"
+  },
+  "gender": "female",
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1977-10-01",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EA%B6%8C%EC%9D%B8%EC%A7%80"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B6%8C%EC%9D%B8%EC%A7%80",
+      "title": "권인지",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

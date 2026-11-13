@@ -1,6 +1,7 @@
 {
   "$schema": "../schema/person.schema.json",
   "id": "bang-seong-jun",
+  "slug": "bang-seong-jun",
   "name": {
     "original_lang": "ko",
     "original": "방성준",

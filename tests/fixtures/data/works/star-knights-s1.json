@@ -40,13 +40,13 @@
       "credits": [
         {
           "character": "rin",
-          "person": "aoi-hoshino",
+          "person": "sei-ya-ki",
           "role": "main",
           "source_refs": ["s1"]
         },
         {
           "character": "kai",
-          "person": "ren-kurosawa",
+          "person": "koku-taku-ren",
           "role": "main",
           "part": "replaced",
           "episodes": {
@@ -65,7 +65,7 @@
         },
         {
           "character": "kai",
-          "person": "taro-yamada",
+          "person": "san-den-ta-rou",
           "role": "main",
           "part": "replacement",
           "episodes": {
@@ -75,13 +75,13 @@
         },
         {
           "character": "masked-knight",
-          "person": "ren-kurosawa",
+          "person": "koku-taku-ren",
           "role": "supporting",
           "source_refs": ["s1"]
         },
         {
           "character": "villager-a-s1",
-          "person": "mio-sakuraba",
+          "person": "ou-tei-bi-sho",
           "role": "minor",
           "source_refs": ["s1"]
         }
@@ -109,19 +109,19 @@
       "credits": [
         {
           "character": "rin",
-          "person": "ji-woo-han",
+          "person": "han-ji-u",
           "role": "main",
           "source_refs": ["s1"]
         },
         {
           "character": "kai",
-          "person": "min-jun-seo",
+          "person": "seo-min-jun",
           "role": "main",
           "source_refs": ["s1"]
         },
         {
           "character": "masked-knight",
-          "person": "min-jun-seo",
+          "person": "seo-min-jun",
           "role": "supporting",
           "spoiler": true,
           "source_refs": ["s1"]

@@ -1,0 +1,49 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kou-en-sai-you",
+  "slug": "ayahi-takagaki",
+  "name": {
+    "original_lang": "ja",
+    "original": "高垣彩陽",
+    "latin": "Ayahi Takagaki",
+    "aliases": {
+      "ja": [
+        "たかがきあやひ"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/高垣彩陽"
+  },
+  "birth": "1985-10-25",
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=56455",
+      "title": "Ayahi Takagaki - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/高垣彩陽",
+      "title": "高垣彩陽",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

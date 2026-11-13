@@ -1,6 +1,7 @@
 {
   "$schema": "../schema/person.schema.json",
   "id": "kenn",
+  "slug": "kenn",
   "name": {
     "original_lang": "ja",
     "original": "KENN",

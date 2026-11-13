@@ -1,0 +1,51 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kaku-den-sa-ri",
+  "slug": "sari-kakuta",
+  "name": {
+    "original_lang": "ja",
+    "original": "角田紗里",
+    "latin": "Sari Kakuta",
+    "aliases": {
+      "en": [
+        "Kakuta Sari"
+      ],
+      "ja": [
+        "かくたさり"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E8%A7%92%E7%94%B0%E7%B4%97%E9%87%8C"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=100199",
+      "title": "Sari KAKUTA - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A7%92%E7%94%B0%E7%B4%97%E9%87%8C",
+      "title": "角田紗里 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

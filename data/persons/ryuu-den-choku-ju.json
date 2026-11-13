@@ -1,0 +1,44 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ryuu-den-choku-ju",
+  "slug": "naoki-tatsuta",
+  "name": {
+    "original_lang": "ja",
+    "original": "龍田直樹",
+    "latin": "Naoki Tatsuta",
+    "aliases": {
+      "ko": [
+        "타츠타 나오키"
+      ],
+      "ja": [
+        "たつたなおき",
+        "竜田直樹"
+      ]
+    }
+  },
+  "gender": "male",
+  "birth": "1950-09-08",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%BE%8D%E7%94%B0%E7%9B%B4%E6%A8%B9",
+    "en": "https://en.wikipedia.org/wiki/Naoki_Tatsuta",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%83%80%EC%B8%A0%ED%83%80_%EB%82%98%EC%98%A4%ED%82%A4"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%BE%8D%E7%94%B0%E7%9B%B4%E6%A8%B9",
+      "title": "龍田直樹",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

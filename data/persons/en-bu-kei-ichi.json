@@ -1,0 +1,57 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "en-bu-kei-ichi",
+  "slug": "keiichi-sonobe",
+  "name": {
+    "original_lang": "ja",
+    "original": "園部啓一",
+    "latin": "Keiichi Sonobe",
+    "aliases": {
+      "ko": [
+        "소노베 케이이치"
+      ],
+      "en": [
+        "Sonobe Keiichi"
+      ],
+      "ja": [
+        "そのべけいいち"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1960",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%9C%92%E9%83%A8%E5%95%93%E4%B8%80",
+    "en": "https://en.wikipedia.org/wiki/Keiichi_Sonobe",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%86%8C%EB%85%B8%EB%B2%A0_%EC%BC%80%EC%9D%B4%EC%9D%B4%EC%B9%98"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=4590",
+      "title": "Keiichi SONOBE - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E5%9C%92%E9%83%A8%E5%95%93%E4%B8%80",
+      "title": "園部啓一 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

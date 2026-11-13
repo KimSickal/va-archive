@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "gyoku-sen-sa-ki-shi",
+  "slug": "sakiko-tamagawa",
+  "name": {
+    "original_lang": "ja",
+    "original": "玉川砂記子",
+    "latin": "Sakiko Tamagawa",
+    "aliases": {
+      "ja": [
+        "たまがわさきこ",
+        "玉川紗己子"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/玉川砂記子"
+  },
+  "birth": "1962-01-20",
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=851",
+      "title": "Sakiko Tamagawa - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/玉川砂記子",
+      "title": "玉川砂記子",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

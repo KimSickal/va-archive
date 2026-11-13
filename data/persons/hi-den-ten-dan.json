@@ -1,0 +1,43 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "hi-den-ten-dan",
+  "slug": "nobuo-tobita",
+  "name": {
+    "original_lang": "ja",
+    "original": "飛田展男",
+    "latin": "Nobuo Tobita",
+    "aliases": {
+      "ko": [
+        "토비타 노부오"
+      ],
+      "ja": [
+        "とびたのぶお"
+      ]
+    }
+  },
+  "gender": "male",
+  "birth": "1959-11-06",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%A3%9B%E7%94%B0%E5%B1%95%E7%94%B7",
+    "en": "https://en.wikipedia.org/wiki/Nobuo_Tobita",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%86%A0%EB%B9%84%ED%83%80_%EB%85%B8%EB%B6%80%EC%98%A4"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%A3%9B%E7%94%B0%E5%B1%95%E7%94%B7",
+      "title": "飛田展男",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

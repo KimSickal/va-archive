@@ -42,6 +42,8 @@ export interface Db {
     personsByFranchiseLang: Record<string, Record<string, string[]>>;
     worksByPerson: Record<string, string[]>;
     worksByFranchise: Record<string, string[]>;
+    /** 표시 ID(slug) → 내부 ID */
+    personIdBySlug: Record<string, string>;
     lastReleaseByWork: Record<string, string | null>;
     firstVoicedByCharacter: Record<string, Record<string, FirstVoiced>>;
   };

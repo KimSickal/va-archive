@@ -4,7 +4,7 @@ import { SpoilerSettingToggle } from '../components/common';
 import { entryPath, HitLabel, SearchBox } from '../components/Search';
 import { useDb } from '../data/DbContext';
 import { displayName } from '../data/i18n-data';
-import { search } from '../data/queries';
+import { personPath, resolveId, search } from '../data/queries';
 import { t } from '../i18n/ko';
 import { favoritesStore, mergeFavorites, toggleFavorite, useFavorites, validateFavorites } from '../state/favorites';
 import { storageAvailable } from '../state/storage';
@@ -75,7 +75,7 @@ export function SearchPage() {
             <ul className="list">
               {g.list.slice(0, 50).map((h) => (
                 <li key={h.entry.id}>
-                  <Link to={entryPath(h.entry)}>
+                  <Link to={entryPath(db, h.entry)}>
                     <HitLabel hit={h} />
                   </Link>
                 </li>
@@ -151,11 +151,12 @@ export function FavoritesPage() {
         <h2>성우 ({fav.persons.length})</h2>
         <ul className="list">
           {fav.persons.map((f) => {
-            const p = db.persons[f.id] ?? db.persons[db.redirects.persons[f.id]];
+            const pid = resolveId(db, 'persons', f.id);
+            const p = pid ? db.persons[pid] : undefined;
             return (
               <li key={f.id}>
                 {p ? (
-                  <Link to={`/person/${p.id}`}>{displayName(p.name)}</Link>
+                  <Link to={personPath(db, p.id)}>{displayName(p.name)}</Link>
                 ) : (
                   <span className="muted">{f.id} (데이터에서 찾을 수 없음)</span>
                 )}{' '}

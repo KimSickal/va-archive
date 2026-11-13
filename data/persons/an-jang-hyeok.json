@@ -1,6 +1,7 @@
 {
   "$schema": "../schema/person.schema.json",
   "id": "an-jang-hyeok",
+  "slug": "an-jang-hyeok",
   "name": {
     "original_lang": "ko",
     "original": "안장혁",

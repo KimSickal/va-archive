@@ -1,0 +1,52 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sou-shi-shou-shi",
+  "slug": "masayuki-shoji",
+  "name": {
+    "original_lang": "ja",
+    "original": "庄司将之",
+    "latin": "Masayuki Shoji",
+    "aliases": {
+      "en": [
+        "Shoji Masayuki"
+      ],
+      "ja": [
+        "しょうじまさゆき"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1980",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%BA%84%E5%8F%B8%E5%B0%86%E4%B9%8B"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=74187",
+      "title": "Masayuki SHŌJI - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E5%BA%84%E5%8F%B8%E5%B0%86%E4%B9%8B",
+      "title": "庄司将之 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

@@ -1,7 +1,9 @@
 import { partialDateEnd, partialDateStart } from '../../src/data/dates.ts';
 import { normalize } from '../../src/data/normalize.ts';
 import type { Image, Name, Source, Text, Wikipedia, Work } from '../../src/types/data.ts';
+import { expectedSlugs, personIdScheme } from './ids.ts';
 import type { Dataset, Issue } from './load.ts';
+import { internalIdBase, MissingHanTableError } from './romanize.ts';
 
 /** JSON Schema로 표현할 수 없는 규칙 (docs/03-data-model.md 7절) */
 export function checkIntegrity(ds: Dataset, issues: Issue[]): void {
@@ -56,7 +58,6 @@ export function checkIntegrity(ds: Dataset, issues: Issue[]): void {
   };
 
   // ---- Person ----
-  const nameIndex = new Map<string, string[]>();
   for (const p of ds.persons.values()) {
     const f = fileOf('persons', p.id);
     const src = checkSources(f, p.sources);
@@ -65,16 +66,76 @@ export function checkIntegrity(ds: Dataset, issues: Issue[]): void {
     checkImage(f, 'person', p.image, src);
     checkWiki(f, 'person', p.wikipedia);
     if (p.birth && p.death && partialDateStart(p.birth) > partialDateEnd(p.death)) err(f, 'birth가 death보다 늦음');
-    for (const key of new Set([p.name.original, p.name.latin].map(normalize))) {
-      nameIndex.set(key, [...(nameIndex.get(key) ?? []), p.id]);
+  }
+
+  // ---- 중복 성우 (오류) ----
+  // 한쪽의 원어 표기가 다른 쪽의 원어/공식/별칭 표기와 같고 출생연도가 모순되지 않으면 같은 사람일 가능성이 있다.
+  // 동명이인으로 확정된 쌍은 data/decisions 의 different_person 결정으로 예외 처리한다.
+  const differentPairs = new Set<string>();
+  for (const d of ds.decisions.values()) {
+    if (d.kind !== 'different_person') continue;
+    const ids = d.subjects.filter((x) => x.kind === 'person').map((x) => x.id);
+    for (const a of ids) for (const b of ids) if (a !== b) differentPairs.add(`${a}|${b}`);
+  }
+  const formsIndex = new Map<string, Set<string>>();
+  for (const p of ds.persons.values()) {
+    const forms = [
+      p.name.original,
+      ...Object.values(p.name.official ?? {}),
+      ...Object.values(p.name.aliases ?? {}).flat(),
+    ];
+    for (const k of new Set(forms.map(normalize).filter((x) => x.length >= 2))) {
+      formsIndex.set(k, (formsIndex.get(k) ?? new Set()).add(p.id));
     }
   }
-  for (const [key, ids] of nameIndex) {
-    if (ids.length > 1)
-      warn(
-        fileOf('persons', ids[0]),
-        `정규화 이름이 같은 성우: ${ids.join(', ')} (${key}) — 중복 생성인지 동명이인인지 확인`,
-      );
+  const reported = new Set<string>();
+  for (const [key, set] of formsIndex) {
+    const ids = [...set];
+    for (let i = 0; i < ids.length; i++)
+      for (let j = i + 1; j < ids.length; j++) {
+        const a = ds.persons.get(ids[i])!;
+        const b = ds.persons.get(ids[j])!;
+        const pair = [a.id, b.id].sort().join('|');
+        if (reported.has(pair) || differentPairs.has(`${a.id}|${b.id}`)) continue;
+        // 적어도 한쪽은 원어 표기가 겹쳐야 한다 (읽기나 통용 표기만 같은 경우는 제외)
+        if (normalize(a.name.original) !== key && normalize(b.name.original) !== key) continue;
+        const ya = a.birth?.slice(0, 4);
+        const yb = b.birth?.slice(0, 4);
+        if (ya && yb && ya !== yb) continue;
+        reported.add(pair);
+        err(
+          fileOf('persons', a.id),
+          `중복 의심 성우: ${a.id} ↔ ${b.id} (표기 "${key}", 출생 ${ya ?? '?'}/${yb ?? '?'}) — 같은 사람이면 병합, 다른 사람이면 data/decisions 에 different_person 결정 기록 (resolve-conflict 스킬)`,
+        );
+      }
+  }
+
+  // ---- 성우 ID 규칙 (docs/03-data-model.md "성우 ID") ----
+  const baseOf = new Map<string, string>();
+  if (personIdScheme() !== 'legacy') {
+    for (const p of ds.persons.values()) {
+      let base: string;
+      try {
+        base = internalIdBase(p.name.original, p.name.original_lang);
+      } catch (e) {
+        if (!(e instanceof MissingHanTableError)) throw e;
+        err('data/schema/PERSON_ID_SCHEME', e.message);
+        break;
+      }
+      baseOf.set(p.id, base);
+      if (p.id !== base && !(p.id.startsWith(`${base}-`) && /^\d+$/.test(p.id.slice(base.length + 1))))
+        err(fileOf('persons', p.id), `내부 ID가 규칙과 다름: ${p.id} (기대: ${base} 또는 ${base}-N)`);
+    }
+  }
+  const slugs = expectedSlugs([...ds.persons.values()], (p) => baseOf.get(p.id));
+  const slugOwner = new Map<string, string>();
+  for (const p of ds.persons.values()) {
+    const f = fileOf('persons', p.id);
+    if (slugOwner.has(p.slug)) err(f, `slug 중복: ${p.slug} (${slugOwner.get(p.slug)})`);
+    slugOwner.set(p.slug, p.id);
+    const exp = slugs.get(p.id);
+    if (exp && exp !== p.slug)
+      err(f, `slug가 규칙과 다름: ${p.slug} (기대: ${exp}) — scripts/cli/assign-slugs.ts 로 갱신`);
   }
 
   // ---- Franchise ----
@@ -184,9 +245,30 @@ export function checkIntegrity(ds: Dataset, issues: Issue[]): void {
     }
   }
 
+  // ---- decisions ----
+  for (const d of ds.decisions.values()) {
+    for (const sub of d.subjects) {
+      const ok =
+        sub.kind === 'person'
+          ? ds.persons.has(sub.id) || sub.id in ds.redirects.persons
+          : sub.kind === 'work'
+            ? ds.works.has(sub.id)
+            : sub.kind === 'franchise'
+              ? ds.franchises.has(sub.id)
+              : true;
+      if (!ok) warn(fileOf('decisions', d.id), `결정 대상 ${sub.kind}:${sub.id} 가 데이터에 없음`);
+    }
+  }
+
   // ---- redirects ----
-  for (const [kind, map] of Object.entries(ds.redirects) as [keyof Dataset['redirects'], Record<string, string>][]) {
-    for (const [from, to] of Object.entries(map)) {
+  // persons: 이전 slug 또는 이전 내부 id → 현재 내부 id
+  for (const [from, to] of Object.entries(ds.redirects.persons)) {
+    if (slugOwner.has(from) || ds.persons.has(from))
+      err('data/redirects.json', `persons.${from}: 현재 사용 중인 slug/id 임`);
+    if (!ds.persons.has(to)) err('data/redirects.json', `persons.${from} → ${to}: 대상 내부 id 가 없음`);
+  }
+  for (const kind of ['franchises', 'works'] as const) {
+    for (const [from, to] of Object.entries(ds.redirects[kind])) {
       if ((ds[kind] as Map<string, unknown>).has(from))
         err('data/redirects.json', `${kind}.${from}: 이전 id가 아직 존재함`);
       if (!(ds[kind] as Map<string, unknown>).has(to))

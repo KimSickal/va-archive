@@ -1,0 +1,59 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "fuku-en-bi-ri",
+  "slug": "misato-fukuen",
+  "name": {
+    "original_lang": "ja",
+    "original": "福圓美里",
+    "latin": "Misato Fukuen",
+    "aliases": {
+      "ko": [
+        "후쿠엔 미사토"
+      ],
+      "en": [
+        "Fukuen Misato"
+      ],
+      "ja": [
+        "ふくえんみさと",
+        "桜木美里",
+        "さくらぎみさと"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1982",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%9C%93%E7%BE%8E%E9%87%8C",
+    "en": "https://en.wikipedia.org/wiki/Misato_Fukuen",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%9B%84%EC%BF%A0%EC%97%94_%EB%AF%B8%EC%82%AC%ED%86%A0"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=5916",
+      "title": "Misato FUKUEN - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%9C%93%E7%BE%8E%E9%87%8C",
+      "title": "福圓美里 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "bak-seo-jin",
+  "slug": "park-seo-jin",
+  "name": {
+    "original_lang": "ko",
+    "original": "박서진",
+    "latin": "Park Seo-jin"
+  },
+  "gender": "male",
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1980-01-15",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EB%B0%95%EC%84%9C%EC%A7%84_(%EC%84%B1%EC%9A%B0)"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B0%95%EC%84%9C%EC%A7%84_(%EC%84%B1%EC%9A%B0)",
+      "title": "박서진 (성우)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=96501",
+      "title": "Seo-Jin PARK - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ka-kyuu-ka-sei",
+  "slug": "iemasa-kayumi",
+  "name": {
+    "original_lang": "ja",
+    "original": "家弓家正",
+    "latin": "Iemasa Kayumi",
+    "aliases": {
+      "en": [
+        "Kayumi Iemasa"
+      ],
+      "ja": [
+        "かゆみいえまさ"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1933",
+  "death": "2014",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%AE%B6%E5%BC%93%E5%AE%B6%E6%AD%A3",
+    "en": "https://en.wikipedia.org/wiki/Iemasa_Kayumi"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=2380",
+      "title": "Iemasa KAYUMI - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%B6%E5%BC%93%E5%AE%B6%E6%AD%A3",
+      "title": "家弓家正 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

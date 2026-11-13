@@ -1,0 +1,39 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ten-shin-ei-ki",
+  "slug": "hidetaka-tenjin",
+  "name": {
+    "original_lang": "ja",
+    "original": "天神英貴",
+    "latin": "Hidetaka Tenjin",
+    "aliases": {
+      "ja": [
+        "てんじんひでたか"
+      ]
+    }
+  },
+  "gender": "male",
+  "birth": "1973-10-13",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A5%9E%E8%8B%B1%E8%B2%B4",
+    "en": "https://en.wikipedia.org/wiki/Hidetaka_Tenjin"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A5%9E%E8%8B%B1%E8%B2%B4",
+      "title": "天神英貴",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

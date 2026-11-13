@@ -1,0 +1,43 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ko-sen-tou-shi-fu",
+  "slug": "toshio-furukawa",
+  "name": {
+    "original_lang": "ja",
+    "original": "古川登志夫",
+    "latin": "Toshio Furukawa",
+    "aliases": {
+      "ko": [
+        "후루카와 토시오"
+      ],
+      "ja": [
+        "ふるかわとしお"
+      ]
+    }
+  },
+  "gender": "male",
+  "birth": "1946-07-16",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E5%B7%9D%E7%99%BB%E5%BF%97%E5%A4%AB",
+    "en": "https://en.wikipedia.org/wiki/Toshio_Furukawa",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%9B%84%EB%A3%A8%EC%B9%B4%EC%99%80_%ED%86%A0%EC%8B%9C%EC%98%A4"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E5%B7%9D%E7%99%BB%E5%BF%97%E5%A4%AB",
+      "title": "古川登志夫",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

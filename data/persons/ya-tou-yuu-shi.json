@@ -1,0 +1,43 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ya-tou-yuu-shi",
+  "slug": "hirofumi-nojima",
+  "name": {
+    "original_lang": "ja",
+    "original": "野島裕史",
+    "latin": "Hirofumi Nojima",
+    "aliases": {
+      "ko": [
+        "노지마 히로후미"
+      ],
+      "ja": [
+        "のじまひろふみ"
+      ]
+    }
+  },
+  "gender": "male",
+  "birth": "1973-04-16",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%87%8E%E5%B3%B6%E8%A3%95%E5%8F%B2",
+    "en": "https://en.wikipedia.org/wiki/Hirofumi_Nojima",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%85%B8%EC%A7%80%EB%A7%88_%ED%9E%88%EB%A1%9C%ED%9B%84%EB%AF%B8"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%8E%E5%B3%B6%E8%A3%95%E5%8F%B2",
+      "title": "野島裕史",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

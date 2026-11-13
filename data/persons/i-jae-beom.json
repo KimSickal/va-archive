@@ -1,0 +1,35 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "i-jae-beom",
+  "slug": "lee-jae-beom",
+  "name": {
+    "original_lang": "ko",
+    "original": "이재범",
+    "latin": "Lee Jae-beom"
+  },
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1982-11-01",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%9E%AC%EB%B2%94"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%9E%AC%EB%B2%94",
+      "title": "이재범",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

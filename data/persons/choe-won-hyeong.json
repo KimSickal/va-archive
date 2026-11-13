@@ -1,0 +1,36 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "choe-won-hyeong",
+  "slug": "choi-won-hyeong",
+  "name": {
+    "original_lang": "ko",
+    "original": "최원형",
+    "latin": "Choi Won-hyeong"
+  },
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1968-01-03",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EC%B5%9C%EC%9B%90%ED%98%95",
+    "en": "https://en.wikipedia.org/wiki/Choi_Won-hyeong"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EC%B5%9C%EC%9B%90%ED%98%95",
+      "title": "최원형",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

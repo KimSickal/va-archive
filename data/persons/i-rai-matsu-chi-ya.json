@@ -1,0 +1,43 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "i-rai-matsu-chi-ya",
+  "slug": "mariya-ise",
+  "name": {
+    "original_lang": "ja",
+    "original": "伊瀬茉莉也",
+    "latin": "Mariya Ise",
+    "aliases": {
+      "ko": [
+        "이세 마리야"
+      ],
+      "ja": [
+        "いせまりや"
+      ]
+    }
+  },
+  "gender": "female",
+  "birth": "1988-09-25",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E7%80%AC%E8%8C%89%E8%8E%89%E4%B9%9F",
+    "en": "https://en.wikipedia.org/wiki/Mariya_Ise",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%84%B8_%EB%A7%88%EB%A6%AC%EC%95%BC"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E7%80%AC%E8%8C%89%E8%8E%89%E4%B9%9F",
+      "title": "伊瀬茉莉也",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

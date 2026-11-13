@@ -2,16 +2,21 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "person.schema.json",
   "title": "Person (성우)",
-  "description": "data/persons/<id>.json. 출연작은 저장하지 않음 (Work의 Credit에서 역산).",
+  "description": "data/persons/<id>.json. id는 내부 ID(원어 표기에서 기계적으로 생성, 불변, 사용자에게 보이지 않음), slug는 표시 ID(URL). 출연작은 저장하지 않음 (Work의 Credit에서 역산).",
   "type": "object",
   "additionalProperties": false,
-  "required": ["$schema", "id", "name", "sources", "meta"],
+  "required": ["$schema", "id", "slug", "name", "sources", "meta"],
   "properties": {
     "$schema": {
       "const": "../schema/person.schema.json"
     },
     "id": {
-      "$ref": "common.schema.json#/$defs/Id"
+      "$ref": "common.schema.json#/$defs/Id",
+      "description": "내부 ID. internalIdBase(원어 표기) + 동명이인 번호(-2, -3…). 생성 후 불변. 다른 파일은 이 값으로 참조한다"
+    },
+    "slug": {
+      "$ref": "common.schema.json#/$defs/Id",
+      "description": "표시 ID(URL). 로마자 표기의 slug. 동명이인이 있으면 -{출생연도|0000}, 같은 해면 -{번호}. 규칙은 검증 스크립트가 확인하며 scripts/cli/assign-slugs.ts로 갱신"
     },
     "name": {
       "$ref": "common.schema.json#/$defs/Name"

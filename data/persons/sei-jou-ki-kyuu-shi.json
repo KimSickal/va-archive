@@ -1,0 +1,57 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sei-jou-ki-kyuu-shi",
+  "slug": "kikuko-inoue",
+  "name": {
+    "original_lang": "ja",
+    "original": "井上喜久子",
+    "latin": "Kikuko Inoue",
+    "aliases": {
+      "ko": [
+        "이노우에 키쿠코"
+      ],
+      "en": [
+        "Inoue Kikuko"
+      ],
+      "ja": [
+        "いのうえきくこ"
+      ]
+    }
+  },
+  "gender": "female",
+  "birth": "1964-09-25",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E5%96%9C%E4%B9%85%E5%AD%90",
+    "en": "https://en.wikipedia.org/wiki/Kikuko_Inoue",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%85%B8%EC%9A%B0%EC%97%90_%ED%82%A4%EC%BF%A0%EC%BD%94"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E5%96%9C%E4%B9%85%E5%AD%90",
+      "title": "井上喜久子",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=542",
+      "title": "Kikuko INOUE - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  },
+  "nationality": [
+    "JP"
+  ]
+}

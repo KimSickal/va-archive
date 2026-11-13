@@ -1,6 +1,7 @@
 {
   "$schema": "../schema/person.schema.json",
   "id": "sa-seong-ung",
+  "slug": "sa-seong-ung",
   "name": {
     "original_lang": "ko",
     "original": "사성웅",

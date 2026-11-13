@@ -88,7 +88,7 @@ export function PersonPage() {
           </dl>
           <div className="actions">
             <FavoriteToggle kind="persons" id={pid} label={t.favoritePerson} />
-            <Link className="btn" to={`/compare/persons?a=${pid}`}>
+            <Link className="btn" to={`/compare/persons?a=${p.slug}`}>
               {t.compareWithOtherPerson}
             </Link>
             <WikiLinks wiki={p.wikipedia} />

@@ -79,7 +79,7 @@
       "credits": [
         {
           "character": "gon-freecss",
-          "person": "megumi-han",
+          "person": "han-megumi",
           "role": "main",
           "source_refs": [
             "s3",
@@ -90,7 +90,7 @@
         },
         {
           "character": "killua-zoldyck",
-          "person": "mariya-ise",
+          "person": "i-rai-matsu-chi-ya",
           "role": "main",
           "source_refs": [
             "s4",
@@ -101,7 +101,7 @@
         },
         {
           "character": "kurapika",
-          "person": "miyuki-sawashiro",
+          "person": "taku-jou-miyuki",
           "role": "main",
           "source_refs": [
             "s3",
@@ -112,7 +112,7 @@
         },
         {
           "character": "leorio-paradinight",
-          "person": "keiji-fujiwara",
+          "person": "tou-gen-kei-ji",
           "role": "main",
           "source_refs": [
             "s3",
@@ -123,7 +123,7 @@
         },
         {
           "character": "hisoka",
-          "person": "daisuke-namikawa",
+          "person": "rou-sen-tai-fu",
           "role": "main",
           "source_refs": [
             "s3",
@@ -134,7 +134,7 @@
         },
         {
           "character": "ging-freecss",
-          "person": "rikiya-koyama",
+          "person": "shou-san-ryoku-ya",
           "role": "supporting",
           "source_refs": [
             "s3",
@@ -144,7 +144,7 @@
         },
         {
           "character": "kite",
-          "person": "shuichi-ikeda",
+          "person": "chi-den-shuu-ichi",
           "role": "supporting",
           "source_refs": [
             "s3",
@@ -154,7 +154,7 @@
         },
         {
           "character": "crazy-slots",
-          "person": "koichi-sakaguchi",
+          "person": "han-kou-kou-ichi",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -162,7 +162,7 @@
         },
         {
           "character": "mito-freecss",
-          "person": "keiko-han",
+          "person": "han-kei-shi",
           "role": "supporting",
           "source_refs": [
             "s3",
@@ -171,7 +171,7 @@
         },
         {
           "character": "gons-great-grandmother-2011",
-          "person": "hisako-kyoda",
+          "person": "kyou-den-shou-shi",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -179,7 +179,7 @@
         },
         {
           "character": "hanzo",
-          "person": "daisuke-kishio",
+          "person": "gan-bi-daisuke",
           "role": "supporting",
           "source_refs": [
             "s3",
@@ -189,7 +189,7 @@
         },
         {
           "character": "pokkle",
-          "person": "yukitoshi-tokumoto",
+          "person": "toku-hon-kyou-bin",
           "role": "supporting",
           "source_refs": [
             "s3",
@@ -198,7 +198,7 @@
         },
         {
           "character": "ponzu",
-          "person": "haruka-kudo",
+          "person": "kou-tou-sei-kou",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -207,7 +207,7 @@
         },
         {
           "character": "nicholas",
-          "person": "norihisa-mori",
+          "person": "morinori-kyuu",
           "role": "minor",
           "credited_as": "森訓久",
           "source_refs": [
@@ -217,7 +217,7 @@
         },
         {
           "character": "todo",
-          "person": "kiyoyuki-yanada",
+          "person": "ryou-den-sei-shi",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -226,7 +226,7 @@
         },
         {
           "character": "tonpa",
-          "person": "toshiharu-sakurai",
+          "person": "ou-sei-bin-ji",
           "role": "supporting",
           "source_refs": [
             "s3",
@@ -236,7 +236,7 @@
         },
         {
           "character": "amori",
-          "person": "masato-kaji",
+          "person": "bi-ga-jin",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -245,7 +245,7 @@
         },
         {
           "character": "umori",
-          "person": "yuya-murakami",
+          "person": "son-jou-yuu-sai",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -254,7 +254,7 @@
         },
         {
           "character": "imori",
-          "person": "shonosuke-horikoshi",
+          "person": "kutsu-etsu-sei-shi-jo",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -263,7 +263,7 @@
         },
         {
           "character": "sommy",
-          "person": "hiroyuki-yokoo",
+          "person": "ou-bi-haku-shi",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -272,7 +272,7 @@
         },
         {
           "character": "kyu",
-          "person": "daisuke-namikawa",
+          "person": "rou-sen-tai-fu",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -281,7 +281,7 @@
         },
         {
           "character": "bodoro",
-          "person": "naoki-bando",
+          "person": "han-tou-shou-ju",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -290,7 +290,7 @@
         },
         {
           "character": "geretta",
-          "person": "nobuaki-kanemitsu",
+          "person": "kin-kou-sen-mei",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -299,7 +299,7 @@
         },
         {
           "character": "goz",
-          "person": "koichi-nagano",
+          "person": "ei-ya-kou-ichi",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -308,7 +308,7 @@
         },
         {
           "character": "agon",
-          "person": "takahiko-sakaguma",
+          "person": "han-yuu-kou-gen",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -317,7 +317,7 @@
         },
         {
           "character": "cherry",
-          "person": "takeharu-onishi",
+          "person": "tai-sei-ken-sei",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -326,7 +326,7 @@
         },
         {
           "character": "applicant-86-2011",
-          "person": "yuya-murakami",
+          "person": "son-jou-yuu-sai",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -334,7 +334,7 @@
         },
         {
           "character": "satotz",
-          "person": "toshio-furukawa",
+          "person": "ko-sen-tou-shi-fu",
           "role": "supporting",
           "source_refs": [
             "s3",
@@ -343,7 +343,7 @@
         },
         {
           "character": "menchi",
-          "person": "aya-hirano",
+          "person": "hei-ya-ryou",
           "role": "supporting",
           "source_refs": [
             "s3",
@@ -352,7 +352,7 @@
         },
         {
           "character": "buhara",
-          "person": "jun-ichi-kanemaru",
+          "person": "kin-gan-shun-ichi",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -361,7 +361,7 @@
         },
         {
           "character": "lippo",
-          "person": "masatake-yamamoto",
+          "person": "san-hon-sei-gou",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -370,7 +370,7 @@
         },
         {
           "character": "masta",
-          "person": "tomoya-kawai",
+          "person": "ka-shou-chi-sai",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -379,7 +379,7 @@
         },
         {
           "character": "kara",
-          "person": "machiko-toyoshima",
+          "person": "hou-tou-shin-sen-shi",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -388,7 +388,7 @@
         },
         {
           "character": "bendot",
-          "person": "masaki-aizawa",
+          "person": "shou-taku-masaki",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -397,7 +397,7 @@
         },
         {
           "character": "sedokan",
-          "person": "motoki-takagi",
+          "person": "kou-jou-gen-ki",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -406,7 +406,7 @@
         },
         {
           "character": "majitani",
-          "person": "kazuki-yao",
+          "person": "shi-bi-ichi-ju",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -415,7 +415,7 @@
         },
         {
           "character": "leroute",
-          "person": "mika-kanai",
+          "person": "kanaimika",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -424,7 +424,7 @@
         },
         {
           "character": "johness",
-          "person": "takashi-matsuyama",
+          "person": "shou-san-you-shi",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -433,7 +433,7 @@
         },
         {
           "character": "togari",
-          "person": "takuma-suzuki",
+          "person": "rei-boku-taku-ma",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -442,7 +442,7 @@
         },
         {
           "character": "ship-captain-2011",
-          "person": "kenji-utsumi",
+          "person": "dai-kai-ken-ni",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -450,7 +450,7 @@
         },
         {
           "character": "katzo",
-          "person": "takuma-suzuki",
+          "person": "rei-boku-taku-ma",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -458,7 +458,7 @@
         },
         {
           "character": "quiz-old-woman-2011",
-          "person": "ryoko-kinomiya",
+          "person": "rai-kyuu-ryou-shi",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -466,7 +466,7 @@
         },
         {
           "character": "kiriko-couple",
-          "person": "tomohiro-nishimura",
+          "person": "sei-son-hou-kou",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -474,7 +474,7 @@
         },
         {
           "character": "kiriko-son",
-          "person": "shinji-kawada",
+          "person": "sen-den-shin-shi",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -482,7 +482,7 @@
         },
         {
           "character": "kiriko-daughter",
-          "person": "fumi-morisawa",
+          "person": "shin-taku-fu-bi",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -490,7 +490,7 @@
         },
         {
           "character": "diner-owner-2011",
-          "person": "yuya-murakami",
+          "person": "son-jou-yuu-sai",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -498,7 +498,7 @@
         },
         {
           "character": "fake-examiner-2011",
-          "person": "nobuaki-kanemitsu",
+          "person": "kin-kou-sen-mei",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -506,7 +506,7 @@
         },
         {
           "character": "gittarackur",
-          "person": "masaya-matsukaze",
+          "person": "shou-fuu-ga-ya",
           "role": "supporting",
           "source_refs": [
             "s3",
@@ -517,7 +517,7 @@
         },
         {
           "character": "bus-guide-2011",
-          "person": "miki-nagasawa",
+          "person": "chou-taku-bi-ju",
           "role": "minor",
           "source_refs": [
             "s20"
@@ -525,7 +525,7 @@
         },
         {
           "character": "isaac-netero",
-          "person": "ichiro-nagai",
+          "person": "ei-sei-ichi-rou",
           "role": "supporting",
           "part": "replaced",
           "episodes": {
@@ -553,7 +553,7 @@
         },
         {
           "character": "isaac-netero",
-          "person": "banjo-ginga",
+          "person": "gin-ka-man-jou",
           "role": "supporting",
           "part": "replacement",
           "episodes": {
@@ -569,7 +569,7 @@
         },
         {
           "character": "pariston-hill",
-          "person": "hiroki-takahashi",
+          "person": "kou-kyou-kou-ju",
           "role": "supporting",
           "source_refs": [
             "s3",
@@ -579,7 +579,7 @@
         },
         {
           "character": "mizaistom-nana",
-          "person": "akio-otsuka",
+          "person": "tai-chou-mei-fu",
           "role": "supporting",
           "source_refs": [
             "s3",
@@ -589,7 +589,7 @@
         },
         {
           "character": "kanzai",
-          "person": "ryota-osaka",
+          "person": "hou-han-ryou-ta",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -599,7 +599,7 @@
         },
         {
           "character": "piyon",
-          "person": "tomoka-kiriyama",
+          "person": "dou-san-chi-ka",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -609,7 +609,7 @@
         },
         {
           "character": "botobai-gigante",
-          "person": "issei-futamata",
+          "person": "ni-yuu-ichi-sei",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -619,7 +619,7 @@
         },
         {
           "character": "gel",
-          "person": "yuki-shirato",
+          "person": "haku-to-seki-ki",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -628,7 +628,7 @@
         },
         {
           "character": "saccho-kobayakawa",
-          "person": "takuma-suzuki",
+          "person": "rei-boku-taku-ma",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -637,7 +637,7 @@
         },
         {
           "character": "ginta",
-          "person": "takuma-suzuki",
+          "person": "rei-boku-taku-ma",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -646,7 +646,7 @@
         },
         {
           "character": "saiyu",
-          "person": "velo-takeda",
+          "person": "velo-bu-den",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -655,7 +655,7 @@
         },
         {
           "character": "clook",
-          "person": "megumi-han",
+          "person": "han-megumi",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -664,7 +664,7 @@
         },
         {
           "character": "cheadle-yorkshire",
-          "person": "ikue-otani",
+          "person": "tai-koku-iku-kou",
           "role": "supporting",
           "source_refs": [
             "s3",
@@ -673,7 +673,7 @@
         },
         {
           "character": "beans",
-          "person": "ichitaro-ai",
+          "person": "kai-ichi-ta-rou",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -682,7 +682,7 @@
         },
         {
           "character": "cocco",
-          "person": "kotono-mitsuishi",
+          "person": "san-shaku-kin-dai",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -690,7 +690,7 @@
         },
         {
           "character": "arena-200th-floor-guide-2011",
-          "person": "aiko-aihashi",
+          "person": "shou-kyou-ai-shi",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -698,7 +698,7 @@
         },
         {
           "character": "arena-elevator-girl-2011",
-          "person": "yurika-kubo",
+          "person": "kyuu-ho-yurika",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -706,7 +706,7 @@
         },
         {
           "character": "arena-receptionist-2011",
-          "person": "yuka-terasaki",
+          "person": "ji-ki-yuu-kou",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -714,7 +714,7 @@
         },
         {
           "character": "arena-referee-2011",
-          "person": "tomoya-kawai",
+          "person": "ka-shou-chi-sai",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -722,7 +722,7 @@
         },
         {
           "character": "arena-commentator-2011",
-          "person": "takuma-suzuki",
+          "person": "rei-boku-taku-ma",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -730,7 +730,7 @@
         },
         {
           "character": "wing",
-          "person": "toshihiko-seki",
+          "person": "kan-shun-gen",
           "role": "supporting",
           "source_refs": [
             "s3",
@@ -740,7 +740,7 @@
         },
         {
           "character": "zushi",
-          "person": "yuka-terasaki",
+          "person": "ji-ki-yuu-kou",
           "role": "supporting",
           "source_refs": [
             "s3",
@@ -750,7 +750,7 @@
         },
         {
           "character": "kastro",
-          "person": "tokuyoshi-kawashima",
+          "person": "sen-tou-toku-ai",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -759,7 +759,7 @@
         },
         {
           "character": "gido",
-          "person": "toru-nara",
+          "person": "na-ryou-tetsu",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -768,7 +768,7 @@
         },
         {
           "character": "sadaso",
-          "person": "kazuma-takeo",
+          "person": "chiku-bi-ichi-shin",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -777,7 +777,7 @@
         },
         {
           "character": "riehlvelt",
-          "person": "ichitaro-ai",
+          "person": "kai-ichi-ta-rou",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -786,7 +786,7 @@
         },
         {
           "character": "izunavi",
-          "person": "masaki-aizawa",
+          "person": "shou-taku-masaki",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -795,7 +795,7 @@
         },
         {
           "character": "illumi-zoldyck",
-          "person": "masaya-matsukaze",
+          "person": "shou-fuu-ga-ya",
           "role": "supporting",
           "source_refs": [
             "s4",
@@ -805,7 +805,7 @@
         },
         {
           "character": "milluki-zoldyck",
-          "person": "kimiko-saito",
+          "person": "sei-tou-ki-bi-shi",
           "role": "minor",
           "source_refs": [
             "s4",
@@ -814,7 +814,7 @@
         },
         {
           "character": "alluka-zoldyck",
-          "person": "maaya-uchida",
+          "person": "dai-den-shin-rei",
           "role": "supporting",
           "source_refs": [
             "s4",
@@ -823,7 +823,7 @@
         },
         {
           "character": "kalluto-zoldyck",
-          "person": "mamiko-noto",
+          "person": "nou-tou-ma-bi-shi",
           "role": "supporting",
           "source_refs": [
             "s4",
@@ -833,7 +833,7 @@
         },
         {
           "character": "silva-zoldyck",
-          "person": "koichi-yamadera",
+          "person": "san-ji-kou-ichi",
           "role": "supporting",
           "source_refs": [
             "s4",
@@ -842,7 +842,7 @@
         },
         {
           "character": "kikyo-zoldyck",
-          "person": "junko-iwao",
+          "person": "gan-dan-jun-shi",
           "role": "minor",
           "source_refs": [
             "s4",
@@ -851,7 +851,7 @@
         },
         {
           "character": "zeno-zoldyck",
-          "person": "hiroshi-otake",
+          "person": "tai-chiku-kou",
           "role": "supporting",
           "source_refs": [
             "s4",
@@ -860,7 +860,7 @@
         },
         {
           "character": "gotoh",
-          "person": "kenyu-horiuchi",
+          "person": "kutsu-dai-ken-yuu",
           "role": "minor",
           "source_refs": [
             "s4",
@@ -869,7 +869,7 @@
         },
         {
           "character": "canary",
-          "person": "motoko-kumai",
+          "person": "kumaimotoko",
           "role": "minor",
           "source_refs": [
             "s4",
@@ -879,7 +879,7 @@
         },
         {
           "character": "tsubone",
-          "person": "ikuko-tani",
+          "person": "koku-iku-shi",
           "role": "minor",
           "source_refs": [
             "s4",
@@ -888,7 +888,7 @@
         },
         {
           "character": "amane",
-          "person": "marina-inoue",
+          "person": "sei-jou-ma-ri-na",
           "role": "minor",
           "source_refs": [
             "s4",
@@ -897,7 +897,7 @@
         },
         {
           "character": "hishita",
-          "person": "daisuke-namikawa",
+          "person": "rou-sen-tai-fu",
           "role": "minor",
           "part": "other",
           "episodes": "25",
@@ -920,7 +920,7 @@
         },
         {
           "character": "hishita",
-          "person": "takuma-suzuki",
+          "person": "rei-boku-taku-ma",
           "role": "minor",
           "part": "other",
           "episodes": "143",
@@ -942,7 +942,7 @@
         },
         {
           "character": "mitsuba",
-          "person": "chinatsu-akasaki",
+          "person": "seki-ki-sen-ka",
           "role": "minor",
           "source_refs": [
             "s4"
@@ -950,7 +950,7 @@
         },
         {
           "character": "yasuha",
-          "person": "megumi-han",
+          "person": "han-megumi",
           "role": "minor",
           "source_refs": [
             "s4"
@@ -958,7 +958,7 @@
         },
         {
           "character": "kasuga",
-          "person": "chisa-yuki",
+          "person": "yuu-ki-chi-go",
           "role": "minor",
           "credited_as": "優希",
           "source_refs": [
@@ -967,7 +967,7 @@
         },
         {
           "character": "zebro",
-          "person": "yutaka-nakano",
+          "person": "chuu-ya-yuu",
           "role": "minor",
           "source_refs": [
             "s4",
@@ -976,7 +976,7 @@
         },
         {
           "character": "seaquant",
-          "person": "tomohiro-nishimura",
+          "person": "sei-son-hou-kou",
           "role": "minor",
           "source_refs": [
             "s4",
@@ -985,7 +985,7 @@
         },
         {
           "character": "bounty-hunter-zoldyck-2011",
-          "person": "nobuaki-kanemitsu",
+          "person": "kin-kou-sen-mei",
           "role": "minor",
           "source_refs": [
             "s4"
@@ -993,7 +993,7 @@
         },
         {
           "character": "kokol",
-          "person": "miki-nagasawa",
+          "person": "chou-taku-bi-ju",
           "role": "minor",
           "source_refs": [
             "s4"
@@ -1001,7 +1001,7 @@
         },
         {
           "character": "zenji",
-          "person": "naoki-tatsuta",
+          "person": "ryuu-den-choku-ju",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1010,7 +1010,7 @@
         },
         {
           "character": "bean",
-          "person": "issei-maeda",
+          "person": "zen-den-ichi-se",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1019,7 +1019,7 @@
         },
         {
           "character": "beret-assassin-2011",
-          "person": "takashi-matsuyama",
+          "person": "shou-san-you-shi",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -1027,7 +1027,7 @@
         },
         {
           "character": "fukuro",
-          "person": "masahiro-yamanaka",
+          "person": "san-chuu-shin-jin",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1036,7 +1036,7 @@
         },
         {
           "character": "mimizu",
-          "person": "takeharu-onishi",
+          "person": "tai-sei-ken-sei",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1045,7 +1045,7 @@
         },
         {
           "character": "yamainu",
-          "person": "tetsuya-motomura",
+          "person": "gen-son-tetsu-ya",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1054,7 +1054,7 @@
         },
         {
           "character": "yamaarashi",
-          "person": "takahiko-sakaguma",
+          "person": "han-yuu-kou-gen",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1063,7 +1063,7 @@
         },
         {
           "character": "hiru",
-          "person": "hidenobu-kiuchi",
+          "person": "boku-dai-shuu-shin",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1072,7 +1072,7 @@
         },
         {
           "character": "light-nostrade",
-          "person": "eiji-ito",
+          "person": "i-tou-ei-ji",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1081,7 +1081,7 @@
         },
         {
           "character": "neon-nostrade",
-          "person": "kana-ueda",
+          "person": "shoku-den-ka-na",
           "role": "supporting",
           "source_refs": [
             "s3",
@@ -1091,7 +1091,7 @@
         },
         {
           "character": "eliza",
-          "person": "miho-arakawa",
+          "person": "kou-sen-bi-sui",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1100,7 +1100,7 @@
         },
         {
           "character": "old-butler-nostrade-2011",
-          "person": "masaki-aizawa",
+          "person": "shou-taku-masaki",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -1108,7 +1108,7 @@
         },
         {
           "character": "dalzollene",
-          "person": "takehito-koyasu",
+          "person": "shi-an-bu-jin",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1117,7 +1117,7 @@
         },
         {
           "character": "senritsu",
-          "person": "miina-tominaga",
+          "person": "fu-ei-mina",
           "role": "supporting",
           "source_refs": [
             "s3",
@@ -1127,7 +1127,7 @@
         },
         {
           "character": "basho",
-          "person": "toru-nakane",
+          "person": "chuu-kon-tetsu",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1136,7 +1136,7 @@
         },
         {
           "character": "squala",
-          "person": "takuma-suzuki",
+          "person": "rei-boku-taku-ma",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1145,7 +1145,7 @@
         },
         {
           "character": "vezze",
-          "person": "miki-nagasawa",
+          "person": "chou-taku-bi-ju",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1154,7 +1154,7 @@
         },
         {
           "character": "tocino",
-          "person": "takeharu-onishi",
+          "person": "tai-sei-ken-sei",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1163,7 +1163,7 @@
         },
         {
           "character": "ivlenkov",
-          "person": "eiji-ito",
+          "person": "i-tou-ei-ji",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1172,7 +1172,7 @@
         },
         {
           "character": "zepile",
-          "person": "masami-kikuchi",
+          "person": "kiku-chi-sei-bi",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1181,7 +1181,7 @@
         },
         {
           "character": "skinhead-man-2011",
-          "person": "jiro-saito",
+          "person": "sei-tou-ji-rou",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -1189,7 +1189,7 @@
         },
         {
           "character": "chrollo-lucilfer",
-          "person": "mamoru-miyano",
+          "person": "kyuu-ya-shin-shu",
           "role": "supporting",
           "source_refs": [
             "s5",
@@ -1199,7 +1199,7 @@
         },
         {
           "character": "nobunaga-hazama",
-          "person": "naoya-uchida",
+          "person": "dai-den-choku-sai",
           "role": "supporting",
           "source_refs": [
             "s5",
@@ -1209,7 +1209,7 @@
         },
         {
           "character": "feitan-portor",
-          "person": "kappei-yamaguchi",
+          "person": "san-kou-shou-hei",
           "role": "supporting",
           "source_refs": [
             "s5",
@@ -1219,7 +1219,7 @@
         },
         {
           "character": "machi-komacine",
-          "person": "rena-maeda",
+          "person": "zen-den-rei-na",
           "role": "supporting",
           "source_refs": [
             "s5",
@@ -1239,7 +1239,7 @@
         },
         {
           "character": "shalnark",
-          "person": "noriko-hidaka",
+          "person": "nichi-kou-nori-shi",
           "role": "supporting",
           "source_refs": [
             "s5",
@@ -1249,7 +1249,7 @@
         },
         {
           "character": "franklin-bordeaux",
-          "person": "hidenobu-kiuchi",
+          "person": "boku-dai-shuu-shin",
           "role": "supporting",
           "source_refs": [
             "s5",
@@ -1259,7 +1259,7 @@
         },
         {
           "character": "shizuku-murasaki",
-          "person": "miho-arakawa",
+          "person": "kou-sen-bi-sui",
           "role": "supporting",
           "source_refs": [
             "s5",
@@ -1269,7 +1269,7 @@
         },
         {
           "character": "pakunoda",
-          "person": "romi-park",
+          "person": "boku-ro-bi",
           "role": "supporting",
           "source_refs": [
             "s5",
@@ -1288,7 +1288,7 @@
         },
         {
           "character": "uvogin",
-          "person": "akio-otsuka",
+          "person": "tai-chou-mei-fu",
           "role": "supporting",
           "source_refs": [
             "s5",
@@ -1298,7 +1298,7 @@
         },
         {
           "character": "kortopi",
-          "person": "shinya-hamazoe",
+          "person": "hin-ten-shin-ya",
           "role": "minor",
           "source_refs": [
             "s5",
@@ -1307,7 +1307,7 @@
         },
         {
           "character": "biscuit-krueger",
-          "person": "chisa-yokoyama",
+          "person": "ou-san-chi-sa",
           "role": "supporting",
           "source_refs": [
             "s3",
@@ -1317,7 +1317,7 @@
         },
         {
           "character": "tsezguerra",
-          "person": "kiyoyuki-yanada",
+          "person": "ryou-den-sei-shi",
           "role": "supporting",
           "source_refs": [
             "s3",
@@ -1326,7 +1326,7 @@
         },
         {
           "character": "barry",
-          "person": "masahiro-yamanaka",
+          "person": "san-chuu-shin-jin",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1335,7 +1335,7 @@
         },
         {
           "character": "rodriot",
-          "person": "koichi-nagano",
+          "person": "ei-ya-kou-ichi",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1344,7 +1344,7 @@
         },
         {
           "character": "kess",
-          "person": "kenji-hamada",
+          "person": "hin-den-ken-ni",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1353,7 +1353,7 @@
         },
         {
           "character": "goreinu",
-          "person": "hidetaka-tenjin",
+          "person": "ten-shin-ei-ki",
           "role": "supporting",
           "source_refs": [
             "s3",
@@ -1362,7 +1362,7 @@
         },
         {
           "character": "genthru",
-          "person": "hiroyuki-yoshino",
+          "person": "kichi-ya-yuu-kou",
           "role": "supporting",
           "source_refs": [
             "s3",
@@ -1372,7 +1372,7 @@
         },
         {
           "character": "bara",
-          "person": "kenji-hamada",
+          "person": "hin-den-ken-ni",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1381,7 +1381,7 @@
         },
         {
           "character": "sub",
-          "person": "hiroyuki-yokoo",
+          "person": "ou-bi-haku-shi",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1390,7 +1390,7 @@
         },
         {
           "character": "nickes",
-          "person": "hiroshi-yanaka",
+          "person": "ka-chuu-kou",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1399,7 +1399,7 @@
         },
         {
           "character": "abengane",
-          "person": "eiji-hanawa",
+          "person": "ka-rin-ei-shi",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1408,7 +1408,7 @@
         },
         {
           "character": "puhat",
-          "person": "issei-futamata",
+          "person": "ni-yuu-ichi-sei",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1417,7 +1417,7 @@
         },
         {
           "character": "jispa",
-          "person": "takaya-aoyagi",
+          "person": "sei-ryuu-son-sai",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1426,7 +1426,7 @@
         },
         {
           "character": "assam",
-          "person": "hiroyuki-yokoo",
+          "person": "ou-bi-haku-shi",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1435,7 +1435,7 @@
         },
         {
           "character": "nomdu",
-          "person": "takahiko-sakaguma",
+          "person": "han-yuu-kou-gen",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1444,7 +1444,7 @@
         },
         {
           "character": "isaku",
-          "person": "hiroyuki-yokoo",
+          "person": "ou-bi-haku-shi",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1453,7 +1453,7 @@
         },
         {
           "character": "kontaci",
-          "person": "yuya-murakami",
+          "person": "son-jou-yuu-sai",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -1461,7 +1461,7 @@
         },
         {
           "character": "razor",
-          "person": "takaya-kuroda",
+          "person": "koku-den-suu-shi",
           "role": "supporting",
           "source_refs": [
             "s3",
@@ -1471,7 +1471,7 @@
         },
         {
           "character": "devil-no-0-2011",
-          "person": "tomoya-kawai",
+          "person": "ka-shou-chi-sai",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -1479,7 +1479,7 @@
         },
         {
           "character": "elena",
-          "person": "mikako-takahashi",
+          "person": "kou-kyou-bi-ka-shi",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -1487,7 +1487,7 @@
         },
         {
           "character": "eeta",
-          "person": "mikako-takahashi",
+          "person": "kou-kyou-bi-ka-shi",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1496,7 +1496,7 @@
         },
         {
           "character": "dwun",
-          "person": "takuma-suzuki",
+          "person": "rei-boku-taku-ma",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1505,7 +1505,7 @@
         },
         {
           "character": "list",
-          "person": "chika-anzai",
+          "person": "an-sai-chi-ka",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1514,7 +1514,7 @@
         },
         {
           "character": "bopobo",
-          "person": "nobuaki-kanemitsu",
+          "person": "kin-kou-sen-mei",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1523,7 +1523,7 @@
         },
         {
           "character": "pirate-boxer-2011",
-          "person": "shintaro-ohata",
+          "person": "tai-hata-shin-ta-rou",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -1531,7 +1531,7 @@
         },
         {
           "character": "michael-288",
-          "person": "issei-futamata",
+          "person": "ni-yuu-ichi-sei",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -1539,7 +1539,7 @@
         },
         {
           "character": "shop-clerk-288-2011",
-          "person": "miho-arakawa",
+          "person": "kou-sen-bi-sui",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -1547,7 +1547,7 @@
         },
         {
           "character": "first-phase-examiner-288-2011",
-          "person": "eiji-ito",
+          "person": "i-tou-ei-ji",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -1555,7 +1555,7 @@
         },
         {
           "character": "battera",
-          "person": "hideyuki-umezu",
+          "person": "bai-shin-shuu-kou",
           "role": "supporting",
           "source_refs": [
             "s3",
@@ -1564,7 +1564,7 @@
         },
         {
           "character": "binolt",
-          "person": "akio-suyama",
+          "person": "tou-san-shou-ou",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1573,7 +1573,7 @@
         },
         {
           "character": "binolt",
-          "person": "miho-miyagawa",
+          "person": "kyuu-sen-bi-ho",
           "role": "minor",
           "part": "young",
           "source_refs": [
@@ -1582,7 +1582,7 @@
         },
         {
           "character": "motarike",
-          "person": "masahiro-yamanaka",
+          "person": "san-chuu-shin-jin",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1591,7 +1591,7 @@
         },
         {
           "character": "rataza",
-          "person": "tetsuya-motomura",
+          "person": "gen-son-tetsu-ya",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1600,7 +1600,7 @@
         },
         {
           "character": "gashta-bellam",
-          "person": "eiji-hanawa",
+          "person": "ka-rin-ei-shi",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1609,7 +1609,7 @@
         },
         {
           "character": "zetsk-bellam",
-          "person": "takahiko-sakaguma",
+          "person": "han-yuu-kou-gen",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1618,7 +1618,7 @@
         },
         {
           "character": "kazsule",
-          "person": "fumihiro-okabayashi",
+          "person": "kou-rin-shi-tai",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1627,7 +1627,7 @@
         },
         {
           "character": "nick-q",
-          "person": "yuya-murakami",
+          "person": "son-jou-yuu-sai",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1636,7 +1636,7 @@
         },
         {
           "character": "souheil",
-          "person": "takahiko-sakaguma",
+          "person": "han-yuu-kou-gen",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1645,7 +1645,7 @@
         },
         {
           "character": "asta",
-          "person": "machiko-toyoshima",
+          "person": "hou-tou-shin-sen-shi",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1654,7 +1654,7 @@
         },
         {
           "character": "amana",
-          "person": "megumi-toda",
+          "person": "ko-den-megumi",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1663,7 +1663,7 @@
         },
         {
           "character": "manheim",
-          "person": "takahiko-sakaguma",
+          "person": "han-yuu-kou-gen",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1672,7 +1672,7 @@
         },
         {
           "character": "yabibi",
-          "person": "nobuaki-kanemitsu",
+          "person": "kin-kou-sen-mei",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1681,7 +1681,7 @@
         },
         {
           "character": "montreux",
-          "person": "koichi-nagano",
+          "person": "ei-ya-kou-ichi",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1690,7 +1690,7 @@
         },
         {
           "character": "hanze",
-          "person": "yuya-murakami",
+          "person": "son-jou-yuu-sai",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1699,7 +1699,7 @@
         },
         {
           "character": "zeho",
-          "person": "fumihiro-okabayashi",
+          "person": "kou-rin-shi-tai",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1708,7 +1708,7 @@
         },
         {
           "character": "sabazushi",
-          "person": "yuya-murakami",
+          "person": "son-jou-yuu-sai",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -1716,7 +1716,7 @@
         },
         {
           "character": "wong",
-          "person": "yuya-murakami",
+          "person": "son-jou-yuu-sai",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -1724,7 +1724,7 @@
         },
         {
           "character": "stick-dinner",
-          "person": "masahiro-yamanaka",
+          "person": "san-chuu-shin-jin",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1733,7 +1733,7 @@
         },
         {
           "character": "banana-kavaro",
-          "person": "kiyono-yasuno",
+          "person": "an-ya-ki-se-dai",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1742,7 +1742,7 @@
         },
         {
           "character": "lin-koshi",
-          "person": "shinya-hamazoe",
+          "person": "hin-ten-shin-ya",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1751,7 +1751,7 @@
         },
         {
           "character": "spinner-clow",
-          "person": "megumi-matsumoto",
+          "person": "shou-gen-kei",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1760,7 +1760,7 @@
         },
         {
           "character": "monta-yuras",
-          "person": "nobuaki-kanemitsu",
+          "person": "kin-kou-sen-mei",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1769,7 +1769,7 @@
         },
         {
           "character": "podungo-lapoy",
-          "person": "uki-satake",
+          "person": "sa-bu-u-ki",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1778,7 +1778,7 @@
         },
         {
           "character": "morel-mackernasey",
-          "person": "taiten-kusunoki",
+          "person": "nan-tai-ten",
           "role": "supporting",
           "source_refs": [
             "s3",
@@ -1788,7 +1788,7 @@
         },
         {
           "character": "knov",
-          "person": "shinichiro-miki",
+          "person": "san-boku-shin-ichi-rou",
           "role": "supporting",
           "source_refs": [
             "s3",
@@ -1798,7 +1798,7 @@
         },
         {
           "character": "palm-siberia",
-          "person": "kikuko-inoue",
+          "person": "sei-jou-ki-kyuu-shi",
           "role": "supporting",
           "source_refs": [
             "s3",
@@ -1808,7 +1808,7 @@
         },
         {
           "character": "knuckle-bine",
-          "person": "wataru-takagi",
+          "person": "kou-boku-shou",
           "role": "supporting",
           "source_refs": [
             "s3",
@@ -1818,7 +1818,7 @@
         },
         {
           "character": "potclean",
-          "person": "tomoko-kaneda",
+          "person": "kin-den-hou-shi",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -1826,7 +1826,7 @@
         },
         {
           "character": "shoot-mcmahon",
-          "person": "yuji-ueda",
+          "person": "uedayuuji",
           "role": "supporting",
           "source_refs": [
             "s3",
@@ -1836,7 +1836,7 @@
         },
         {
           "character": "masadorudigo",
-          "person": "hiromasa-taguchi",
+          "person": "den-kou-kou-sei",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -1844,7 +1844,7 @@
         },
         {
           "character": "bizeff",
-          "person": "tetsuo-goto",
+          "person": "go-tou-tetsu-fu",
           "role": "minor",
           "source_refs": [
             "s3",
@@ -1853,7 +1853,7 @@
         },
         {
           "character": "marcos",
-          "person": "takuma-suzuki",
+          "person": "rei-boku-taku-ma",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -1861,7 +1861,7 @@
         },
         {
           "character": "komugi",
-          "person": "aya-endo",
+          "person": "en-tou-ryou",
           "role": "supporting",
           "source_refs": [
             "s3",
@@ -1871,7 +1871,7 @@
         },
         {
           "character": "kurt",
-          "person": "chika-anzai",
+          "person": "an-sai-chi-ka",
           "role": "minor",
           "source_refs": [
             "s6",
@@ -1880,7 +1880,7 @@
         },
         {
           "character": "reina",
-          "person": "rie-murakawa",
+          "person": "son-sen-ri-i",
           "role": "minor",
           "source_refs": [
             "s6",
@@ -1889,7 +1889,7 @@
         },
         {
           "character": "haruna",
-          "person": "harumi-murakami",
+          "person": "son-jou-harumi",
           "role": "minor",
           "source_refs": [
             "s19"
@@ -1897,7 +1897,7 @@
         },
         {
           "character": "balda",
-          "person": "yuya-murakami",
+          "person": "son-jou-yuu-sai",
           "role": "minor",
           "source_refs": [
             "s19"
@@ -1905,7 +1905,7 @@
         },
         {
           "character": "pekuba",
-          "person": "takahiko-sakaguma",
+          "person": "han-yuu-kou-gen",
           "role": "minor",
           "source_refs": [
             "s6",
@@ -1914,7 +1914,7 @@
         },
         {
           "character": "chimera-ant-queen",
-          "person": "masako-ikeda",
+          "person": "chi-den-shou-shi",
           "role": "supporting",
           "source_refs": [
             "s6",
@@ -1923,7 +1923,7 @@
         },
         {
           "character": "meruem",
-          "person": "koki-uchiyama",
+          "person": "dai-san-kou-ki",
           "role": "main",
           "source_refs": [
             "s6",
@@ -1933,7 +1933,7 @@
         },
         {
           "character": "neferpitou",
-          "person": "ayumi-fujimura",
+          "person": "tou-son-ho",
           "role": "supporting",
           "source_refs": [
             "s6",
@@ -1943,7 +1943,7 @@
         },
         {
           "character": "shaiapouf",
-          "person": "wataru-hatano",
+          "person": "u-ta-ya-shou",
           "role": "supporting",
           "source_refs": [
             "s6",
@@ -1953,7 +1953,7 @@
         },
         {
           "character": "menthuthuyoupi",
-          "person": "fumihiko-tachiki",
+          "person": "ritsu-boku-bun-gen",
           "role": "supporting",
           "source_refs": [
             "s6",
@@ -1963,7 +1963,7 @@
         },
         {
           "character": "colt",
-          "person": "hirofumi-nojima",
+          "person": "ya-tou-yuu-shi",
           "role": "supporting",
           "source_refs": [
             "s6",
@@ -1972,7 +1972,7 @@
         },
         {
           "character": "cheetu",
-          "person": "motoki-takagi",
+          "person": "kou-jou-gen-ki",
           "role": "minor",
           "source_refs": [
             "s6",
@@ -1982,7 +1982,7 @@
         },
         {
           "character": "peggy",
-          "person": "issei-futamata",
+          "person": "ni-yuu-ichi-sei",
           "role": "minor",
           "source_refs": [
             "s6",
@@ -1991,7 +1991,7 @@
         },
         {
           "character": "zazan",
-          "person": "azusa-nakao",
+          "person": "chuu-bi-azusa",
           "role": "minor",
           "source_refs": [
             "s6",
@@ -2000,7 +2000,7 @@
         },
         {
           "character": "leol",
-          "person": "jiro-saito",
+          "person": "sei-tou-ji-rou",
           "role": "minor",
           "source_refs": [
             "s6",
@@ -2009,7 +2009,7 @@
         },
         {
           "character": "bihorn",
-          "person": "kyosei-tsukui",
+          "person": "shin-kyuu-sei-kyou-sei",
           "role": "minor",
           "source_refs": [
             "s6",
@@ -2018,7 +2018,7 @@
         },
         {
           "character": "brovada",
-          "person": "yuya-murakami",
+          "person": "son-jou-yuu-sai",
           "role": "minor",
           "source_refs": [
             "s6",
@@ -2027,7 +2027,7 @@
         },
         {
           "character": "welfin",
-          "person": "daiki-nakamura",
+          "person": "chuu-son-tai-ju",
           "role": "supporting",
           "source_refs": [
             "s6",
@@ -2036,7 +2036,7 @@
         },
         {
           "character": "meleoron",
-          "person": "nobuo-tobita",
+          "person": "hi-den-ten-dan",
           "role": "supporting",
           "source_refs": [
             "s6",
@@ -2046,7 +2046,7 @@
         },
         {
           "character": "vital",
-          "person": "takeharu-onishi",
+          "person": "tai-sei-ken-sei",
           "role": "minor",
           "source_refs": [
             "s6"
@@ -2054,7 +2054,7 @@
         },
         {
           "character": "crocodile-ant-2011",
-          "person": "tetsuya-motomura",
+          "person": "gen-son-tetsu-ya",
           "role": "minor",
           "source_refs": [
             "s6"
@@ -2062,7 +2062,7 @@
         },
         {
           "character": "turtle-ant-2011",
-          "person": "takahiko-sakaguma",
+          "person": "han-yuu-kou-gen",
           "role": "minor",
           "source_refs": [
             "s6",
@@ -2071,7 +2071,7 @@
         },
         {
           "character": "frog-ant-2011",
-          "person": "tomoya-kawai",
+          "person": "ka-shou-chi-sai",
           "role": "minor",
           "source_refs": [
             "s6",
@@ -2080,7 +2080,7 @@
         },
         {
           "character": "octopus-ant-2011",
-          "person": "nobuo-tobita",
+          "person": "hi-den-ten-dan",
           "role": "minor",
           "source_refs": [
             "s6"
@@ -2088,7 +2088,7 @@
         },
         {
           "character": "bear-cub-ant-2011",
-          "person": "jiro-saito",
+          "person": "sei-tou-ji-rou",
           "role": "minor",
           "source_refs": [
             "s6"
@@ -2096,7 +2096,7 @@
         },
         {
           "character": "flutter",
-          "person": "kyosei-tsukui",
+          "person": "shin-kyuu-sei-kyou-sei",
           "role": "minor",
           "source_refs": [
             "s6",
@@ -2105,7 +2105,7 @@
         },
         {
           "character": "hina",
-          "person": "azusa-kataoka",
+          "person": "hen-kou-azusa",
           "role": "minor",
           "source_refs": [
             "s6",
@@ -2114,7 +2114,7 @@
         },
         {
           "character": "gomimushi",
-          "person": "takuma-suzuki",
+          "person": "rei-boku-taku-ma",
           "role": "minor",
           "source_refs": [
             "s6"
@@ -2122,7 +2122,7 @@
         },
         {
           "character": "ikalgo",
-          "person": "kenyu-horiuchi",
+          "person": "kutsu-dai-ken-yuu",
           "role": "supporting",
           "source_refs": [
             "s6",
@@ -2132,7 +2132,7 @@
         },
         {
           "character": "oroso-brother",
-          "person": "masaki-aizawa",
+          "person": "shou-taku-masaki",
           "role": "minor",
           "source_refs": [
             "s6",
@@ -2141,7 +2141,7 @@
         },
         {
           "character": "oroso-sister",
-          "person": "makiko-omoto",
+          "person": "tai-hon-shin-ki-shi",
           "role": "minor",
           "source_refs": [
             "s6",
@@ -2150,7 +2150,7 @@
         },
         {
           "character": "lammot",
-          "person": "shinya-hamazoe",
+          "person": "hin-ten-shin-ya",
           "role": "minor",
           "source_refs": [
             "s6",
@@ -2159,7 +2159,7 @@
         },
         {
           "character": "pike",
-          "person": "masahiro-yamanaka",
+          "person": "san-chuu-shin-jin",
           "role": "minor",
           "source_refs": [
             "s6",
@@ -2168,7 +2168,7 @@
         },
         {
           "character": "koumori",
-          "person": "michiko-neya",
+          "person": "kon-koku-bi-chi-shi",
           "role": "minor",
           "source_refs": [
             "s6"
@@ -2176,7 +2176,7 @@
         },
         {
           "character": "yunju",
-          "person": "yuya-murakami",
+          "person": "son-jou-yuu-sai",
           "role": "minor",
           "source_refs": [
             "s6",
@@ -2185,7 +2185,7 @@
         },
         {
           "character": "baro",
-          "person": "kyosei-tsukui",
+          "person": "shin-kyuu-sei-kyou-sei",
           "role": "minor",
           "source_refs": [
             "s6",
@@ -2194,7 +2194,7 @@
         },
         {
           "character": "rhino-ant-2011",
-          "person": "koichi-nagano",
+          "person": "ei-ya-kou-ichi",
           "role": "minor",
           "source_refs": [
             "s6",
@@ -2203,7 +2203,7 @@
         },
         {
           "character": "small-beetle-ant-2011",
-          "person": "yuji-ueda",
+          "person": "uedayuuji",
           "role": "minor",
           "source_refs": [
             "s6"
@@ -2211,7 +2211,7 @@
         },
         {
           "character": "koala-ant-2011",
-          "person": "kenyu-horiuchi",
+          "person": "kutsu-dai-ken-yuu",
           "role": "minor",
           "source_refs": [
             "s6",
@@ -2220,7 +2220,7 @@
         },
         {
           "character": "centipede-man-2011",
-          "person": "takuma-suzuki",
+          "person": "rei-boku-taku-ma",
           "role": "minor",
           "source_refs": [
             "s6",
@@ -2229,7 +2229,7 @@
         },
         {
           "character": "mosquito-woman-2011",
-          "person": "chika-anzai",
+          "person": "an-sai-chi-ka",
           "role": "minor",
           "source_refs": [
             "s6",
@@ -2238,7 +2238,7 @@
         },
         {
           "character": "gyogan",
-          "person": "takahiko-sakaguma",
+          "person": "han-yuu-kou-gen",
           "role": "minor",
           "source_refs": [
             "s6"
@@ -2246,7 +2246,7 @@
         },
         {
           "character": "shark-ant",
-          "person": "masatake-yamamoto",
+          "person": "san-hon-sei-gou",
           "role": "minor",
           "source_refs": [
             "s6"
@@ -2254,7 +2254,7 @@
         },
         {
           "character": "koban",
-          "person": "takuma-suzuki",
+          "person": "rei-boku-taku-ma",
           "role": "minor",
           "source_refs": [
             "s6"
@@ -2262,7 +2262,7 @@
         },
         {
           "character": "pig-ant-2011",
-          "person": "takeharu-onishi",
+          "person": "tai-sei-ken-sei",
           "role": "minor",
           "source_refs": [
             "s6",
@@ -2271,7 +2271,7 @@
         },
         {
           "character": "zazans-attendants-2011",
-          "person": "megumi-han",
+          "person": "han-megumi",
           "role": "minor",
           "source_refs": [
             "s6"
@@ -2279,7 +2279,7 @@
         },
         {
           "character": "meteor-city-residents-2011",
-          "person": "issei-futamata",
+          "person": "ni-yuu-ichi-sei",
           "role": "minor",
           "source_refs": [
             "s6"
@@ -2287,7 +2287,7 @@
         },
         {
           "character": "chimera-ant-child",
-          "person": "uki-satake",
+          "person": "sa-bu-u-ki",
           "role": "minor",
           "source_refs": [
             "s6",
@@ -2296,7 +2296,7 @@
         },
         {
           "character": "sanbica-norton",
-          "person": "maaya-uchida",
+          "person": "dai-den-shin-rei",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -2304,7 +2304,7 @@
         },
         {
           "character": "cutie-beauty",
-          "person": "kimiko-saito",
+          "person": "sei-tou-ki-bi-shi",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -2312,7 +2312,7 @@
         },
         {
           "character": "teradein-neutral",
-          "person": "takashi-matsuyama",
+          "person": "shou-san-you-shi",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -2320,7 +2320,7 @@
         },
         {
           "character": "lupe-highland",
-          "person": "issei-futamata",
+          "person": "ni-yuu-ichi-sei",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -2328,7 +2328,7 @@
         },
         {
           "character": "bushidora-ambitious",
-          "person": "masaki-aizawa",
+          "person": "shou-taku-masaki",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -2336,7 +2336,7 @@
         },
         {
           "character": "narrator-2011",
-          "person": "issei-futamata",
+          "person": "ni-yuu-ichi-sei",
           "role": "minor",
           "source_refs": [
             "s1"
@@ -2344,7 +2344,7 @@
         },
         {
           "character": "mediation-office-woman-2011",
-          "person": "yoko-somi",
+          "person": "taku-kai-you-shi",
           "role": "minor",
           "episodes": "30, 39",
           "source_refs": [
@@ -2354,7 +2354,7 @@
         },
         {
           "character": "fumi",
-          "person": "chika-anzai",
+          "person": "an-sai-chi-ka",
           "role": "minor",
           "episodes": "48",
           "source_refs": [
@@ -2364,7 +2364,7 @@
         },
         {
           "character": "assassin-2011",
-          "person": "takuma-suzuki",
+          "person": "rei-boku-taku-ma",
           "role": "minor",
           "episodes": "52",
           "source_refs": [
@@ -2374,7 +2374,7 @@
         },
         {
           "character": "assassin-b-2011",
-          "person": "takuma-suzuki",
+          "person": "rei-boku-taku-ma",
           "role": "minor",
           "episodes": "51",
           "source_refs": [
@@ -2455,7 +2455,7 @@
         },
         {
           "character": "leorio-paradinight",
-          "person": "choi-won-hyeong",
+          "person": "choe-won-hyeong",
           "role": "main",
           "source_refs": [
             "s9",
@@ -2466,7 +2466,7 @@
         },
         {
           "character": "hisoka",
-          "person": "jung-jae-heon",
+          "person": "jeong-jae-heon",
           "role": "main",
           "source_refs": [
             "s9",
@@ -2486,7 +2486,7 @@
         },
         {
           "character": "mito-freecss",
-          "person": "choi-mun-ja",
+          "person": "choe-mun-ja",
           "role": "supporting",
           "source_refs": [
             "s9",
@@ -2497,7 +2497,7 @@
         },
         {
           "character": "hanzo",
-          "person": "byun-hyeon-u",
+          "person": "byeon-hyeon-u",
           "role": "supporting",
           "source_refs": [
             "s9",
@@ -2527,7 +2527,7 @@
         },
         {
           "character": "nicholas",
-          "person": "lim-gyeong-myeong",
+          "person": "im-gyeong-myeong",
           "role": "minor",
           "source_refs": [
             "s9",
@@ -2537,7 +2537,7 @@
         },
         {
           "character": "todo",
-          "person": "lee-won-chan",
+          "person": "i-won-chan",
           "role": "minor",
           "source_refs": [
             "s9",
@@ -2557,7 +2557,7 @@
         },
         {
           "character": "amori",
-          "person": "ko-seong-il",
+          "person": "go-seong-il",
           "role": "minor",
           "source_refs": [
             "s9",
@@ -2567,7 +2567,7 @@
         },
         {
           "character": "umori",
-          "person": "yoo-ho-han",
+          "person": "yu-ho-han",
           "role": "minor",
           "source_refs": [
             "s9",
@@ -2577,7 +2577,7 @@
         },
         {
           "character": "imori",
-          "person": "lee-won-chan",
+          "person": "i-won-chan",
           "role": "minor",
           "source_refs": [
             "s9",
@@ -2587,7 +2587,7 @@
         },
         {
           "character": "kyu",
-          "person": "lee-gwang-su",
+          "person": "i-gwang-su",
           "role": "minor",
           "source_refs": [
             "s9",
@@ -2607,7 +2607,7 @@
         },
         {
           "character": "geretta",
-          "person": "lee-gwang-su",
+          "person": "i-gwang-su",
           "role": "minor",
           "source_refs": [
             "s9",
@@ -2617,7 +2617,7 @@
         },
         {
           "character": "goz",
-          "person": "lee-gwang-su",
+          "person": "i-gwang-su",
           "role": "minor",
           "source_refs": [
             "s9",
@@ -2627,7 +2627,7 @@
         },
         {
           "character": "agon",
-          "person": "ko-seong-il",
+          "person": "go-seong-il",
           "role": "minor",
           "source_refs": [
             "s9",
@@ -2637,7 +2637,7 @@
         },
         {
           "character": "satotz",
-          "person": "lee-in-seong",
+          "person": "i-in-seong",
           "role": "supporting",
           "source_refs": [
             "s9",
@@ -2647,7 +2647,7 @@
         },
         {
           "character": "menchi",
-          "person": "yoon-mi-na",
+          "person": "yun-mi-na",
           "role": "supporting",
           "source_refs": [
             "s9",
@@ -2657,7 +2657,7 @@
         },
         {
           "character": "buhara",
-          "person": "jung-jae-heon",
+          "person": "jeong-jae-heon",
           "role": "minor",
           "source_refs": [
             "s9",
@@ -2667,7 +2667,7 @@
         },
         {
           "character": "lippo",
-          "person": "kim-gi-cheol",
+          "person": "gim-gi-cheol",
           "role": "minor",
           "source_refs": [
             "s9",
@@ -2687,7 +2687,7 @@
         },
         {
           "character": "sedokan",
-          "person": "lim-gyeong-myeong",
+          "person": "im-gyeong-myeong",
           "role": "minor",
           "source_refs": [
             "s11"
@@ -2696,7 +2696,7 @@
         },
         {
           "character": "majitani",
-          "person": "lee-jang-won",
+          "person": "i-jang-won",
           "role": "minor",
           "source_refs": [
             "s9",
@@ -2706,7 +2706,7 @@
         },
         {
           "character": "leroute",
-          "person": "kim-hyeon-ji",
+          "person": "gim-hyeon-ji",
           "role": "minor",
           "source_refs": [
             "s9",
@@ -2716,7 +2716,7 @@
         },
         {
           "character": "johness",
-          "person": "lee-won-chan",
+          "person": "i-won-chan",
           "role": "minor",
           "source_refs": [
             "s9",
@@ -2745,7 +2745,7 @@
         },
         {
           "character": "katzo",
-          "person": "lee-sang-heon",
+          "person": "i-sang-heon",
           "role": "minor",
           "source_refs": [
             "s9",
@@ -2755,7 +2755,7 @@
         },
         {
           "character": "quiz-old-woman-2011",
-          "person": "choi-mun-ja",
+          "person": "choe-mun-ja",
           "role": "minor",
           "source_refs": [
             "s9",
@@ -2765,7 +2765,7 @@
         },
         {
           "character": "kiriko-couple",
-          "person": "yoo-ho-han",
+          "person": "yu-ho-han",
           "role": "minor",
           "source_refs": [
             "s9",
@@ -2775,7 +2775,7 @@
         },
         {
           "character": "kiriko-son",
-          "person": "yoo-ho-han",
+          "person": "yu-ho-han",
           "role": "minor",
           "source_refs": [
             "s9",
@@ -2785,7 +2785,7 @@
         },
         {
           "character": "kiriko-daughter",
-          "person": "choi-mun-ja",
+          "person": "choe-mun-ja",
           "role": "minor",
           "source_refs": [
             "s9"
@@ -2794,7 +2794,7 @@
         },
         {
           "character": "gittarackur",
-          "person": "lee-won-chan",
+          "person": "i-won-chan",
           "role": "supporting",
           "source_refs": [
             "s9",
@@ -2814,7 +2814,7 @@
         },
         {
           "character": "isaac-netero",
-          "person": "park-tae-ho",
+          "person": "bak-tae-ho",
           "role": "supporting",
           "source_refs": [
             "s9",
@@ -2824,7 +2824,7 @@
         },
         {
           "character": "beans",
-          "person": "lim-gyeong-myeong",
+          "person": "im-gyeong-myeong",
           "role": "minor",
           "source_refs": [
             "s9",
@@ -2844,7 +2844,7 @@
         },
         {
           "character": "arena-referee-2011",
-          "person": "hyun-gyeong-su",
+          "person": "hyeon-gyeong-su",
           "role": "minor",
           "source_refs": [
             "s11"
@@ -2863,7 +2863,7 @@
         },
         {
           "character": "zushi",
-          "person": "jung-hyeon-gyeong",
+          "person": "jeong-hyeon-gyeong",
           "role": "supporting",
           "source_refs": [
             "s10",
@@ -2883,7 +2883,7 @@
         },
         {
           "character": "gido",
-          "person": "jung-jae-heon",
+          "person": "jeong-jae-heon",
           "role": "minor",
           "source_refs": [
             "s10",
@@ -2903,7 +2903,7 @@
         },
         {
           "character": "izunavi",
-          "person": "hyun-gyeong-su",
+          "person": "hyeon-gyeong-su",
           "role": "minor",
           "source_refs": [
             "s11",
@@ -2912,7 +2912,7 @@
         },
         {
           "character": "illumi-zoldyck",
-          "person": "lee-won-chan",
+          "person": "i-won-chan",
           "role": "supporting",
           "source_refs": [
             "s9",
@@ -2922,7 +2922,7 @@
         },
         {
           "character": "milluki-zoldyck",
-          "person": "kwon-in-ji",
+          "person": "gwon-in-ji",
           "role": "minor",
           "source_refs": [
             "s10",
@@ -2932,7 +2932,7 @@
         },
         {
           "character": "kalluto-zoldyck",
-          "person": "kwon-in-ji",
+          "person": "gwon-in-ji",
           "role": "supporting",
           "source_refs": [
             "s10",
@@ -2942,7 +2942,7 @@
         },
         {
           "character": "silva-zoldyck",
-          "person": "yoo-hae-mu",
+          "person": "yu-hae-mu",
           "role": "supporting",
           "source_refs": [
             "s10",
@@ -2962,7 +2962,7 @@
         },
         {
           "character": "zeno-zoldyck",
-          "person": "kim-gi-cheol",
+          "person": "gim-gi-cheol",
           "role": "supporting",
           "source_refs": [
             "s10",
@@ -2972,7 +2972,7 @@
         },
         {
           "character": "gotoh",
-          "person": "yoo-dong-gyun",
+          "person": "yu-dong-gyun",
           "role": "minor",
           "source_refs": [
             "s9",
@@ -2983,7 +2983,7 @@
         },
         {
           "character": "canary",
-          "person": "choi-mun-ja",
+          "person": "choe-mun-ja",
           "role": "minor",
           "source_refs": [
             "s10",
@@ -3023,7 +3023,7 @@
         },
         {
           "character": "bean",
-          "person": "lee-won-chan",
+          "person": "i-won-chan",
           "role": "minor",
           "source_refs": [
             "s11",
@@ -3032,7 +3032,7 @@
         },
         {
           "character": "fukuro",
-          "person": "lee-sang-heon",
+          "person": "i-sang-heon",
           "role": "minor",
           "source_refs": [
             "s10",
@@ -3042,7 +3042,7 @@
         },
         {
           "character": "mimizu",
-          "person": "lim-gyeong-myeong",
+          "person": "im-gyeong-myeong",
           "role": "minor",
           "source_refs": [
             "s11"
@@ -3051,7 +3051,7 @@
         },
         {
           "character": "yamaarashi",
-          "person": "lee-sang-heon",
+          "person": "i-sang-heon",
           "role": "minor",
           "source_refs": [
             "s11"
@@ -3070,7 +3070,7 @@
         },
         {
           "character": "neon-nostrade",
-          "person": "kim-seon-hye",
+          "person": "gim-seon-hye",
           "role": "supporting",
           "source_refs": [
             "s10",
@@ -3080,7 +3080,7 @@
         },
         {
           "character": "eliza",
-          "person": "kim-min-jeong",
+          "person": "gim-min-jeong",
           "role": "minor",
           "source_refs": [
             "s11"
@@ -3089,7 +3089,7 @@
         },
         {
           "character": "dalzollene",
-          "person": "lee-sang-beom",
+          "person": "i-sang-beom",
           "role": "minor",
           "source_refs": [
             "s10",
@@ -3099,7 +3099,7 @@
         },
         {
           "character": "senritsu",
-          "person": "jung-so-yeong",
+          "person": "jeong-so-yeong",
           "role": "supporting",
           "source_refs": [
             "s10",
@@ -3138,7 +3138,7 @@
         },
         {
           "character": "tocino",
-          "person": "park-seo-jin",
+          "person": "bak-seo-jin",
           "role": "minor",
           "source_refs": [
             "s10",
@@ -3167,7 +3167,7 @@
         },
         {
           "character": "nobunaga-hazama",
-          "person": "park-seo-jin",
+          "person": "bak-seo-jin",
           "role": "supporting",
           "source_refs": [
             "s10",
@@ -3177,7 +3177,7 @@
         },
         {
           "character": "feitan-portor",
-          "person": "lee-hyeon-ju",
+          "person": "i-hyeon-ju",
           "role": "supporting",
           "source_refs": [
             "s10",
@@ -3187,7 +3187,7 @@
         },
         {
           "character": "machi-komacine",
-          "person": "kim-min-jeong",
+          "person": "gim-min-jeong",
           "role": "supporting",
           "source_refs": [
             "s10",
@@ -3197,7 +3197,7 @@
         },
         {
           "character": "phinks-magcub",
-          "person": "jung-jae-heon",
+          "person": "jeong-jae-heon",
           "role": "supporting",
           "source_refs": [
             "s10",
@@ -3207,7 +3207,7 @@
         },
         {
           "character": "shalnark",
-          "person": "jung-so-yeong",
+          "person": "jeong-so-yeong",
           "role": "supporting",
           "source_refs": [
             "s10",
@@ -3237,7 +3237,7 @@
         },
         {
           "character": "deme-chan",
-          "person": "park-seo-jin",
+          "person": "bak-seo-jin",
           "role": "minor",
           "source_refs": [
             "s11"
@@ -3246,7 +3246,7 @@
         },
         {
           "character": "pakunoda",
-          "person": "lee-hyeon-ju",
+          "person": "i-hyeon-ju",
           "role": "supporting",
           "source_refs": [
             "s10",
@@ -3256,7 +3256,7 @@
         },
         {
           "character": "uvogin",
-          "person": "choi-won-hyeong",
+          "person": "choe-won-hyeong",
           "role": "supporting",
           "source_refs": [
             "s10",
@@ -3266,7 +3266,7 @@
         },
         {
           "character": "kortopi",
-          "person": "kang-ho-cheol",
+          "person": "gang-ho-cheol",
           "role": "minor",
           "source_refs": [
             "s11",
@@ -3275,7 +3275,7 @@
         },
         {
           "character": "biscuit-krueger",
-          "person": "jung-hye-won",
+          "person": "jeong-hye-won",
           "role": "supporting",
           "source_refs": [
             "s11",
@@ -3284,7 +3284,7 @@
         },
         {
           "character": "tsezguerra",
-          "person": "lim-chae-heon",
+          "person": "im-chae-heon",
           "role": "supporting",
           "source_refs": [
             "s11",
@@ -3293,7 +3293,7 @@
         },
         {
           "character": "barry",
-          "person": "choi-ji-hun",
+          "person": "choe-ji-hun",
           "role": "minor",
           "source_refs": [
             "s11"
@@ -3302,7 +3302,7 @@
         },
         {
           "character": "rodriot",
-          "person": "kim-gwang-guk",
+          "person": "gim-gwang-guk",
           "role": "minor",
           "source_refs": [
             "s11",
@@ -3324,7 +3324,7 @@
         },
         {
           "character": "kess",
-          "person": "lee-dong-hun",
+          "person": "i-dong-hun",
           "role": "minor",
           "source_refs": [
             "s11"
@@ -3333,7 +3333,7 @@
         },
         {
           "character": "goreinu",
-          "person": "lee-sang-heon",
+          "person": "i-sang-heon",
           "role": "supporting",
           "source_refs": [
             "s11",
@@ -3355,7 +3355,7 @@
         },
         {
           "character": "genthru",
-          "person": "lim-chae-heon",
+          "person": "im-chae-heon",
           "role": "supporting",
           "source_refs": [
             "s11"
@@ -3364,7 +3364,7 @@
         },
         {
           "character": "bara",
-          "person": "lee-ho-san",
+          "person": "i-ho-san",
           "role": "minor",
           "source_refs": [
             "s11",
@@ -3373,7 +3373,7 @@
         },
         {
           "character": "sub",
-          "person": "lee-ho-san",
+          "person": "i-ho-san",
           "role": "minor",
           "source_refs": [
             "s11",
@@ -3382,7 +3382,7 @@
         },
         {
           "character": "nickes",
-          "person": "jung-seong-hun",
+          "person": "jeong-seong-hun",
           "role": "minor",
           "source_refs": [
             "s11",
@@ -3391,7 +3391,7 @@
         },
         {
           "character": "abengane",
-          "person": "choi-ji-hun",
+          "person": "choe-ji-hun",
           "role": "minor",
           "source_refs": [
             "s11",
@@ -3400,7 +3400,7 @@
         },
         {
           "character": "puhat",
-          "person": "kim-dae-jung",
+          "person": "gim-dae-jung",
           "role": "minor",
           "source_refs": [
             "s11",
@@ -3409,7 +3409,7 @@
         },
         {
           "character": "jispa",
-          "person": "choi-nak-yun",
+          "person": "choe-nak-yun",
           "role": "minor",
           "source_refs": [
             "s11",
@@ -3418,7 +3418,7 @@
         },
         {
           "character": "assam",
-          "person": "kang-ho-cheol",
+          "person": "gang-ho-cheol",
           "role": "minor",
           "source_refs": [
             "s11"
@@ -3427,7 +3427,7 @@
         },
         {
           "character": "isaku",
-          "person": "choi-ji-hun",
+          "person": "choe-ji-hun",
           "role": "minor",
           "source_refs": [
             "s11",
@@ -3445,7 +3445,7 @@
         },
         {
           "character": "elena",
-          "person": "lee-jae-hyeon",
+          "person": "i-jae-hyeon",
           "role": "minor",
           "source_refs": [
             "s11",
@@ -3454,7 +3454,7 @@
         },
         {
           "character": "eeta",
-          "person": "lee-jae-hyeon",
+          "person": "i-jae-hyeon",
           "role": "minor",
           "source_refs": [
             "s11",
@@ -3463,7 +3463,7 @@
         },
         {
           "character": "dwun",
-          "person": "lee-sang-heon",
+          "person": "i-sang-heon",
           "role": "minor",
           "source_refs": [
             "s11"
@@ -3481,7 +3481,7 @@
         },
         {
           "character": "bopobo",
-          "person": "ko-gu-in",
+          "person": "go-gu-in",
           "role": "minor",
           "source_refs": [
             "s11",
@@ -3499,7 +3499,7 @@
         },
         {
           "character": "binolt",
-          "person": "lee-jae-beom",
+          "person": "i-jae-beom",
           "role": "minor",
           "source_refs": [
             "s11",
@@ -3518,7 +3518,7 @@
         },
         {
           "character": "rataza",
-          "person": "choi-nak-yun",
+          "person": "choe-nak-yun",
           "role": "minor",
           "source_refs": [
             "s11",
@@ -3527,7 +3527,7 @@
         },
         {
           "character": "gashta-bellam",
-          "person": "kim-dae-jung",
+          "person": "gim-dae-jung",
           "role": "minor",
           "source_refs": [
             "s11",
@@ -3536,7 +3536,7 @@
         },
         {
           "character": "zetsk-bellam",
-          "person": "lim-chae-heon",
+          "person": "im-chae-heon",
           "role": "minor",
           "source_refs": [
             "s11"
@@ -3554,7 +3554,7 @@
         },
         {
           "character": "souheil",
-          "person": "yoon-dong-gi",
+          "person": "yun-dong-gi",
           "role": "minor",
           "source_refs": [
             "s11"
@@ -3563,7 +3563,7 @@
         },
         {
           "character": "asta",
-          "person": "woo-jeong-sin",
+          "person": "u-jeong-sin",
           "role": "minor",
           "source_refs": [
             "s11",
@@ -3581,7 +3581,7 @@
         },
         {
           "character": "narrator-2011",
-          "person": "choi-won-hyeong",
+          "person": "choe-won-hyeong",
           "role": "minor",
           "source_refs": [
             "s9",
@@ -3591,7 +3591,7 @@
         },
         {
           "character": "manheim",
-          "person": "yoon-dong-gi",
+          "person": "yun-dong-gi",
           "role": "minor",
           "source_refs": [
             "s58"
@@ -3612,7 +3612,7 @@
         },
         {
           "character": "mediation-office-woman-2011",
-          "person": "lee-hyeon-ju",
+          "person": "i-hyeon-ju",
           "role": "minor",
           "credited_as": "알선인",
           "source_refs": [

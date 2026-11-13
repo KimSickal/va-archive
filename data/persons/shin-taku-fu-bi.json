@@ -1,0 +1,38 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shin-taku-fu-bi",
+  "slug": "fumi-morisawa",
+  "name": {
+    "original_lang": "ja",
+    "original": "森沢芙美",
+    "latin": "Fumi Morisawa",
+    "aliases": {
+      "ja": [
+        "もりさわふみ"
+      ]
+    }
+  },
+  "gender": "female",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E6%B2%A2%E8%8A%99%E7%BE%8E",
+    "en": "https://en.wikipedia.org/wiki/Fumi_Morisawa"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E6%B2%A2%E8%8A%99%E7%BE%8E",
+      "title": "森沢芙美",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

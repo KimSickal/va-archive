@@ -14,7 +14,7 @@ import {
 import { FavoriteToggle } from '../components/FavoriteToggle';
 import { useDb } from '../data/DbContext';
 import { displayName, displayText, langOrder } from '../data/i18n-data';
-import { castTable, resolveId, staleness } from '../data/queries';
+import { castTable, personPath, resolveId, staleness } from '../data/queries';
 import { t } from '../i18n/ko';
 import { updateSettings, useSettings } from '../state/settings';
 import { NotFound } from './NotFound';
@@ -183,7 +183,7 @@ export function WorkPage() {
                       {(r.byVersion[vi] ?? []).map((c, i) => (
                         <div key={i} className="cast-cell">
                           <Spoiler active={c.spoiler}>
-                            <Link to={`/person/${c.person}`}>{displayName(db.persons[c.person].name)}</Link>{' '}
+                            <Link to={personPath(db, c.person)}>{displayName(db.persons[c.person].name)}</Link>{' '}
                             <CreditMeta credit={c} />
                           </Spoiler>
                         </div>

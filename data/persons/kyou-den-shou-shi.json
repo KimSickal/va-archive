@@ -1,0 +1,45 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kyou-den-shou-shi",
+  "slug": "hisako-kyoda",
+  "name": {
+    "original_lang": "ja",
+    "original": "京田尚子",
+    "latin": "Hisako Kyoda",
+    "aliases": {
+      "ko": [
+        "쿄다 히사코"
+      ],
+      "ja": [
+        "きょうだひさこ",
+        "斎藤尚子",
+        "さいとうひさこ"
+      ]
+    }
+  },
+  "gender": "female",
+  "birth": "1935-02-22",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%94%B0%E5%B0%9A%E5%AD%90",
+    "en": "https://en.wikipedia.org/wiki/Hisako_Ky%C5%8Dda",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%BF%84%EB%8B%A4_%ED%9E%88%EC%82%AC%EC%BD%94"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%94%B0%E5%B0%9A%E5%AD%90",
+      "title": "京田尚子",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

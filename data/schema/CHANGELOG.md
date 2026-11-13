@@ -6,6 +6,14 @@
 - minor: 선택 필드·enum 값 추가
 - patch: 설명·문서 수정
 
+## 0.2.0 — 2026-11-14
+- Person: 내부 ID(`id`)와 표시 ID(`slug`) 분리. `slug` 필수
+  - id: 원어 표기를 결정적으로 로마자 변환(scripts/lib/romanize.ts) + 동명이인 번호. 불변
+  - slug: 로마자 표기 slug, 동명이인이면 -{출생연도|0000}[-{번호}]
+  - 마이그레이션: 기존 id를 slug로 복사(URL 유지). id 재생성은 scripts/cli/migrate-person-ids.ts (한자 읽기 표 필요)
+- decision.schema.json 추가 (data/decisions/: 충돌 중재·사용자 결정 기록)
+- redirects.persons: 이전 slug/id → 현재 내부 id
+
 ## 0.1.0 — 2026-11-12
 - 초안: common / person / franchise / work / redirects
 - Credit.role 필수화 (main/supporting/minor, 게스트는 minor에 포함), Character.nameless 추가

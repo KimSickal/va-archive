@@ -1,0 +1,44 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "gim-min-jeong",
+  "slug": "kim-min-jeong",
+  "name": {
+    "original_lang": "ko",
+    "original": "김민정",
+    "latin": "Kim Min-jeong"
+  },
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1983-12-06",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EA%B9%80%EB%AF%BC%EC%A0%95_(%EC%84%B1%EC%9A%B0)"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EB%AF%BC%EC%A0%95_(%EC%84%B1%EC%9A%B0)",
+      "title": "김민정 (성우)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=60731",
+      "title": "Min Jung KIM (voice actress) - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  },
+  "gender": "female"
+}

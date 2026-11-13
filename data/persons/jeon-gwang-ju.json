@@ -1,6 +1,7 @@
 {
   "$schema": "../schema/person.schema.json",
   "id": "jeon-gwang-ju",
+  "slug": "jeon-gwang-ju",
   "name": {
     "original_lang": "ko",
     "original": "전광주",

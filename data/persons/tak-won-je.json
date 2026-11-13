@@ -1,6 +1,7 @@
 {
   "$schema": "../schema/person.schema.json",
   "id": "tak-won-je",
+  "slug": "tak-won-je",
   "name": {
     "original_lang": "ko",
     "original": "탁원제",

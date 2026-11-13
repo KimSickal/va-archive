@@ -1,0 +1,65 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "tou-den-tetsu",
+  "slug": "tetsu-inada",
+  "name": {
+    "original_lang": "ja",
+    "original": "稲田徹",
+    "latin": "Tetsu Inada",
+    "aliases": {
+      "ko": [
+        "이나다 테츠"
+      ],
+      "en": [
+        "Inada Tetsu"
+      ],
+      "ja": [
+        "いなだてつ"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/稲田徹",
+    "en": "https://en.wikipedia.org/wiki/Tetsu_Inada",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%82%98%EB%8B%A4_%ED%85%8C%EC%B8%A0"
+  },
+  "birth": "1972-07-01",
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=7015",
+      "title": "Tetsu Inada - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/稲田徹",
+      "title": "稲田徹",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A8%B2%E7%94%B0%E5%BE%B9",
+      "title": "稲田徹 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

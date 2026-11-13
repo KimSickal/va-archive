@@ -1,0 +1,43 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "san-kou-shou-hei",
+  "slug": "kappei-yamaguchi",
+  "name": {
+    "original_lang": "ja",
+    "original": "山口勝平",
+    "latin": "Kappei Yamaguchi",
+    "aliases": {
+      "ko": [
+        "야마구치 캇페이"
+      ],
+      "ja": [
+        "やまぐちかっぺい"
+      ]
+    }
+  },
+  "gender": "male",
+  "birth": "1965-05-23",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E5%8B%9D%E5%B9%B3",
+    "en": "https://en.wikipedia.org/wiki/Kappei_Yamaguchi",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%95%BC%EB%A7%88%EA%B5%AC%EC%B9%98_%EC%BA%87%ED%8E%98%EC%9D%B4"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E5%8B%9D%E5%B9%B3",
+      "title": "山口勝平",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

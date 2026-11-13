@@ -1,6 +1,7 @@
 {
   "$schema": "../schema/person.schema.json",
   "id": "bae-jeong-mi",
+  "slug": "bae-jeong-mi",
   "name": {
     "original_lang": "ko",
     "original": "배정미",

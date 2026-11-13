@@ -1,0 +1,61 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kutsu-sen-jin",
+  "slug": "jin-horikawa",
+  "name": {
+    "original_lang": "ja",
+    "original": "堀川仁",
+    "latin": "Jin Horikawa",
+    "aliases": {
+      "en": [
+        "Horikawa Jin"
+      ],
+      "ja": [
+        "ほりかわじん"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/堀川仁",
+    "en": "https://en.wikipedia.org/wiki/Jin_Horikawa"
+  },
+  "birth": "1962-12-16",
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=8674",
+      "title": "Jin Horikawa - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/堀川仁",
+      "title": "堀川仁",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A0%80%E5%B7%9D%E4%BB%81",
+      "title": "堀川仁 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

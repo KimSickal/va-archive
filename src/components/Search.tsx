@@ -3,11 +3,12 @@ import { useNavigate } from 'react-router-dom';
 import type { Db, SearchEntry } from '../data/db';
 import { useDb } from '../data/DbContext';
 import { displayName, subName } from '../data/i18n-data';
-import { getCharacter, search, type SearchHit } from '../data/queries';
+import { getCharacter, personPath, search, type SearchHit } from '../data/queries';
 import { t } from '../i18n/ko';
 import { Spoiler } from './common';
 
-export function entryPath(e: SearchEntry): string {
+export function entryPath(db: Db, e: SearchEntry): string {
+  if (e.kind === 'person') return personPath(db, e.id);
   if (e.kind === 'character') {
     const [f, c] = e.id.split('/');
     return `/franchise/${f}/character/${c}`;
@@ -81,7 +82,7 @@ export function SearchBox({
       onSelect(h.entry);
       setQ('');
     } else {
-      nav(entryPath(h.entry));
+      nav(entryPath(db, h.entry));
       setQ('');
       inputRef.current?.blur();
     }

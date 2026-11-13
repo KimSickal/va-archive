@@ -44,6 +44,7 @@ export function buildDb(input: BuildInput, builtAt = new Date().toISOString()): 
     personsByFranchiseLang: {},
     worksByPerson: {},
     worksByFranchise: {},
+    personIdBySlug: Object.fromEntries(input.persons.map((p) => [p.slug, p.id])),
     lastReleaseByWork: {},
     firstVoicedByCharacter: {},
   };

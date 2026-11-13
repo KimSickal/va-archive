@@ -1,6 +1,7 @@
 {
   "$schema": "../schema/person.schema.json",
   "id": "jo-gyeong-i",
+  "slug": "jo-gyeong-i",
   "name": {
     "original_lang": "ko",
     "original": "조경이",

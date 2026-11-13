@@ -1,7 +1,7 @@
 import Ajv2020 from 'ajv/dist/2020.js';
 import { existsSync, readdirSync, readFileSync } from 'node:fs';
 import { basename, join, relative } from 'node:path';
-import type { Franchise, Person, Redirects, Work } from '../../src/types/data.ts';
+import type { Decision, Franchise, Person, Redirects, Work } from '../../src/types/data.ts';
 
 export const REPO = join(import.meta.dirname, '..', '..');
 export const SCHEMA_DIR = join(REPO, 'data', 'schema');
@@ -11,6 +11,7 @@ export interface Dataset {
   franchises: Map<string, Franchise>;
   works: Map<string, Work>;
   redirects: Redirects;
+  decisions: Map<string, Decision>;
   /** id → 파일 경로 (메시지 표시용), key: "<kind>:<id>" */
   files: Map<string, string>;
 }
@@ -34,6 +35,7 @@ const KINDS = [
   ['persons', 'person.schema.json'],
   ['franchises', 'franchise.schema.json'],
   ['works', 'work.schema.json'],
+  ['decisions', 'decision.schema.json'],
 ] as const;
 
 /**
@@ -47,6 +49,7 @@ export function loadDataset(roots: string[], issues: Issue[]): Dataset {
     franchises: new Map(),
     works: new Map(),
     redirects: { persons: {}, franchises: {}, works: {} },
+    decisions: new Map(),
     files: new Map(),
   };
   for (const root of roots) {

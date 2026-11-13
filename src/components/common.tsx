@@ -1,7 +1,8 @@
 import { useState, type ReactNode } from 'react';
 import { Link } from 'react-router-dom';
+import { useDb } from '../data/DbContext';
 import { displayName, subName, textIn } from '../data/i18n-data';
-import type { Staleness } from '../data/queries';
+import { personPath, type Staleness } from '../data/queries';
 import { t } from '../i18n/ko';
 import { updateSettings, useSettings } from '../state/settings';
 import type { Episodes, Image, Name, Source, Text, VerificationStatus, Wikipedia } from '../types/data';
@@ -156,7 +157,7 @@ export function SpoilerSettingToggle() {
 
 export function PersonLink({ id, name }: { id: string; name: Name }) {
   return (
-    <Link to={`/person/${id}`}>
+    <Link to={personPath(useDb(), id)}>
       <NameView name={name} sub={false} />
     </Link>
   );

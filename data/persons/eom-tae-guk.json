@@ -1,6 +1,7 @@
 {
   "$schema": "../schema/person.schema.json",
   "id": "eom-tae-guk",
+  "slug": "eom-tae-guk",
   "name": {
     "original_lang": "ko",
     "original": "엄태국",

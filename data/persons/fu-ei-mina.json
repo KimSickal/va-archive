@@ -1,0 +1,43 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "fu-ei-mina",
+  "slug": "miina-tominaga",
+  "name": {
+    "original_lang": "ja",
+    "original": "冨永みーな",
+    "latin": "Miina Tominaga",
+    "aliases": {
+      "ko": [
+        "토미나가 미나"
+      ],
+      "ja": [
+        "とみながみーな"
+      ]
+    }
+  },
+  "gender": "female",
+  "birth": "1966-04-03",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%86%A8%E6%B0%B8%E3%81%BF%E3%83%BC%E3%81%AA",
+    "en": "https://en.wikipedia.org/wiki/Miina_Tominaga",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%86%A0%EB%AF%B8%EB%82%98%EA%B0%80_%EB%AF%B8%EB%82%98"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%86%A8%E6%B0%B8%E3%81%BF%E3%83%BC%E3%81%AA",
+      "title": "冨永みーな",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

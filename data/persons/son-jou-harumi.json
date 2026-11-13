@@ -1,0 +1,38 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "son-jou-harumi",
+  "slug": "harumi-murakami",
+  "name": {
+    "original_lang": "ja",
+    "original": "村上はるみ",
+    "latin": "Harumi Murakami",
+    "aliases": {
+      "ja": [
+        "むらかみはるみ"
+      ]
+    }
+  },
+  "gender": "female",
+  "birth": "1958-07-30",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%9D%91%E4%B8%8A%E3%81%AF%E3%82%8B%E3%81%BF"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%91%E4%B8%8A%E3%81%AF%E3%82%8B%E3%81%BF",
+      "title": "村上はるみ",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

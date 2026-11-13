@@ -1,6 +1,7 @@
 {
   "$schema": "../schema/person.schema.json",
   "id": "on-yeong-sam",
+  "slug": "on-yeong-sam",
   "name": {
     "original_lang": "ko",
     "original": "온영삼",

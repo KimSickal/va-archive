@@ -1,0 +1,9 @@
+{
+  "$schema": "schema/redirects.schema.json",
+  "persons": {
+    "ji-woo-han": "han-ji-u",
+    "min-jun-seo": "seo-min-jun"
+  },
+  "franchises": {},
+  "works": {}
+}

@@ -29,11 +29,16 @@ export function getCharacter(db: Db, franchiseId: string, characterId: string): 
   return db.franchises[franchiseId]?.characters.find((c) => c.id === characterId);
 }
 
+/** URL 파라미터 → 내부 ID. 성우는 표시 ID(slug) → 내부 ID → 리다이렉트 순으로 찾는다 */
 export function resolveId(db: Db, kind: 'persons' | 'works' | 'franchises', id: string): string | undefined {
+  if (kind === 'persons' && db.idx.personIdBySlug[id]) return db.idx.personIdBySlug[id];
   if (db[kind][id]) return id;
   const to = db.redirects[kind]?.[id];
   return to && db[kind][to] ? to : undefined;
 }
+
+/** 성우 페이지 경로 (URL에는 표시 ID를 쓴다) */
+export const personPath = (db: Db, id: string) => `/person/${db.persons[id]?.slug ?? id}`;
 
 export const ROLE_RANK = { main: 0, supporting: 1, minor: 2 } as const;
 

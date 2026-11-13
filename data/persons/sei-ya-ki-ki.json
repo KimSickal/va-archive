@@ -1,0 +1,61 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sei-ya-ki-ki",
+  "slug": "takanori-hoshino",
+  "name": {
+    "original_lang": "ja",
+    "original": "星野貴紀",
+    "latin": "Takanori Hoshino",
+    "aliases": {
+      "en": [
+        "Hoshino Takanori"
+      ],
+      "ja": [
+        "ほしのたかのり"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/星野貴紀",
+    "en": "https://en.wikipedia.org/wiki/Takanori_Hoshino"
+  },
+  "birth": "1980-05-08",
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=16462",
+      "title": "Takanori Hoshino - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/星野貴紀",
+      "title": "星野貴紀",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E6%98%9F%E9%87%8E%E8%B2%B4%E7%B4%80",
+      "title": "星野貴紀 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

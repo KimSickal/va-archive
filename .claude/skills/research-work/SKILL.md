@@ -1,7 +1,7 @@
 ---
 name: research-work
 description: va-archive 데이터 수집 지침. 지정된 작품의 기본 정보·캐릭터·버전별 배역·성우를 신뢰할 수 있는 출처에서 조사해 스키마에 맞는 JSON으로 스테이징 디렉토리에 작성한다. researcher 에이전트가 사용.
-schema_version: 0.1.0
+schema_version: 0.2.0
 skill_version: 0.3.0
 ---
 

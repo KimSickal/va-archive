@@ -1,6 +1,7 @@
 {
   "$schema": "../schema/person.schema.json",
   "id": "min-eung-sik",
+  "slug": "min-eung-sik",
   "name": {
     "original_lang": "ko",
     "original": "민응식",

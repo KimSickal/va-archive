@@ -66,7 +66,7 @@
       "credits": [
         {
           "character": "setsuna-f-seiei",
-          "person": "mamoru-miyano",
+          "person": "kyuu-ya-shin-shu",
           "role": "main",
           "source_refs": [
             "s1",
@@ -76,7 +76,7 @@
         },
         {
           "character": "lyle-dylandy",
-          "person": "shinichiro-miki",
+          "person": "san-boku-shin-ichi-rou",
           "role": "main",
           "source_refs": [
             "s1",
@@ -86,7 +86,7 @@
         },
         {
           "character": "allelujah-haptism",
-          "person": "hiroyuki-yoshino",
+          "person": "kichi-ya-yuu-kou",
           "role": "main",
           "source_refs": [
             "s1",
@@ -96,7 +96,7 @@
         },
         {
           "character": "tieria-erde",
-          "person": "hiroshi-kamiya",
+          "person": "shin-koku-kou-shi",
           "role": "main",
           "source_refs": [
             "s1",
@@ -106,7 +106,7 @@
         },
         {
           "character": "sumeragi-lee-noriega",
-          "person": "yoko-honna",
+          "person": "hon-mei-you-shi",
           "role": "supporting",
           "source_refs": [
             "s1",
@@ -115,7 +115,7 @@
         },
         {
           "character": "lasse-aeon",
-          "person": "hiroki-tochi",
+          "person": "tou-chi-kou-ju",
           "role": "supporting",
           "source_refs": [
             "s1",
@@ -124,7 +124,7 @@
         },
         {
           "character": "feldt-grace",
-          "person": "ayahi-takagaki",
+          "person": "kou-en-sai-you",
           "role": "supporting",
           "source_refs": [
             "s1",
@@ -133,7 +133,7 @@
         },
         {
           "character": "mileina-vashti",
-          "person": "haruka-tomatsu",
+          "person": "ko-shou-you",
           "role": "supporting",
           "source_refs": [
             "s1",
@@ -142,7 +142,7 @@
         },
         {
           "character": "soma-peries",
-          "person": "arisa-ogasawara",
+          "person": "shou-ryuu-gen-a-ri-sa",
           "role": "supporting",
           "source_refs": [
             "s1",
@@ -151,7 +151,7 @@
         },
         {
           "character": "haro",
-          "person": "arisa-ogasawara",
+          "person": "shou-ryuu-gen-a-ri-sa",
           "role": "supporting",
           "source_refs": [
             "s1"
@@ -159,7 +159,7 @@
         },
         {
           "character": "blue-haro",
-          "person": "arise-sato",
+          "person": "sa-tou-yuu-se",
           "role": "minor",
           "source_refs": [
             "s2",
@@ -168,7 +168,7 @@
         },
         {
           "character": "kati-mannequin",
-          "person": "minami-takayama",
+          "person": "kou-san-minami",
           "role": "supporting",
           "source_refs": [
             "s1",
@@ -177,7 +177,7 @@
         },
         {
           "character": "patrick-colasour",
-          "person": "kenji-hamada",
+          "person": "hin-den-ken-ni",
           "role": "supporting",
           "source_refs": [
             "s1",
@@ -186,7 +186,7 @@
         },
         {
           "character": "graham-aker",
-          "person": "yuichi-nakamura",
+          "person": "chuu-son-yuu-ichi",
           "role": "supporting",
           "source_refs": [
             "s1",
@@ -195,7 +195,7 @@
         },
         {
           "character": "billy-katagiri",
-          "person": "yuji-ueda",
+          "person": "uedayuuji",
           "role": "supporting",
           "source_refs": [
             "s1",
@@ -204,7 +204,7 @@
         },
         {
           "character": "mina-carmine",
-          "person": "rie-kugimiya",
+          "person": "tei-kyuu-ri-kei",
           "role": "supporting",
           "source_refs": [
             "s1",
@@ -213,7 +213,7 @@
         },
         {
           "character": "saji-crossroad",
-          "person": "miyu-irino",
+          "person": "nyuu-ya-shi-yuu",
           "role": "supporting",
           "source_refs": [
             "s1",
@@ -222,7 +222,7 @@
         },
         {
           "character": "louise-halevy",
-          "person": "chiwa-saito",
+          "person": "sai-tou-sen-wa",
           "role": "supporting",
           "source_refs": [
             "s1",
@@ -231,7 +231,7 @@
         },
         {
           "character": "aeolia-schenberg",
-          "person": "tsutomu-isobe",
+          "person": "ki-bu-ben",
           "role": "minor",
           "note": {
             "original_lang": "ja",
@@ -253,7 +253,7 @@
         },
         {
           "character": "e-a-ray",
-          "person": "toru-furuya",
+          "person": "ko-koku-tetsu",
           "role": "minor",
           "source_refs": [
             "s1",
@@ -262,7 +262,7 @@
         },
         {
           "character": "federation-president-2nd",
-          "person": "toshiko-fujita",
+          "person": "tou-den-shuku-shi",
           "role": "minor",
           "source_refs": [
             "s1",
@@ -272,7 +272,7 @@
         },
         {
           "character": "marina-ismail",
-          "person": "ayumi-tsunematsu",
+          "person": "kou-shou-ayumi",
           "role": "supporting",
           "source_refs": [
             "s1",
@@ -281,7 +281,7 @@
         },
         {
           "character": "shirin-bakhtiar",
-          "person": "michiko-neya",
+          "person": "kon-koku-bi-chi-shi",
           "role": "minor",
           "source_refs": [
             "s1",
@@ -290,7 +290,7 @@
         },
         {
           "character": "klaus-grado",
-          "person": "tokuyoshi-kawashima",
+          "person": "sen-tou-toku-ai",
           "role": "minor",
           "source_refs": [
             "s1",
@@ -299,7 +299,7 @@
         },
         {
           "character": "andrei-smirnov",
-          "person": "tetsu-shiratori",
+          "person": "haku-chou-tetsu",
           "role": "minor",
           "source_refs": [
             "s1",
@@ -308,7 +308,7 @@
         },
         {
           "character": "ian-vashti",
-          "person": "hideyuki-umezu",
+          "person": "bai-shin-shuu-kou",
           "role": "minor",
           "source_refs": [
             "s1",
@@ -317,7 +317,7 @@
         },
         {
           "character": "linda-vashti",
-          "person": "risa-hayamizu",
+          "person": "sou-sui-risa",
           "role": "minor",
           "source_refs": [
             "s1",
@@ -326,7 +326,7 @@
         },
         {
           "character": "lichtendahl-tsery",
-          "person": "masataka-azuma",
+          "person": "ga-sai-sei-suu",
           "role": "minor",
           "source_refs": [
             "s1",
@@ -335,7 +335,7 @@
         },
         {
           "character": "christina-sierra",
-          "person": "arise-sato",
+          "person": "sa-tou-yuu-se",
           "role": "minor",
           "source_refs": [
             "s1",
@@ -344,7 +344,7 @@
         },
         {
           "character": "alejandro-corner",
-          "person": "yasunori-matsumoto",
+          "person": "shou-hon-ho-ten",
           "role": "minor",
           "source_refs": [
             "s1",
@@ -353,7 +353,7 @@
         },
         {
           "character": "innovade-technician-movie",
-          "person": "ryotaro-okiayu",
+          "person": "chi-nen-ryuu-ta-rou",
           "role": "minor",
           "source_refs": [
             "s1",
@@ -362,7 +362,7 @@
         },
         {
           "character": "defense-secretary-movie",
-          "person": "takashi-taniguchi",
+          "person": "koku-kou-setsu",
           "role": "minor",
           "source_refs": [
             "s1",
@@ -371,7 +371,7 @@
         },
         {
           "character": "chief-of-staff-chairman-movie",
-          "person": "masayuki-omoro",
+          "person": "shou-shitsu-sei-kou",
           "role": "minor",
           "source_refs": [
             "s1",
@@ -380,7 +380,7 @@
         },
         {
           "character": "press-secretary",
-          "person": "ryoko-shiraishi",
+          "person": "haku-shaku-ryou-shi",
           "role": "minor",
           "source_refs": [
             "s1",
@@ -389,7 +389,7 @@
         },
         {
           "character": "chief-presidential-aide-movie",
-          "person": "shinsuke-nagashima",
+          "person": "chou-tou-shin-yuu",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -397,7 +397,7 @@
         },
         {
           "character": "presidential-aide-movie",
-          "person": "fuminori-komatsu",
+          "person": "shou-shou-shi-hou",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -405,7 +405,7 @@
         },
         {
           "character": "ikeda",
-          "person": "go-shinomiya",
+          "person": "shi-kyuu-gou",
           "role": "minor",
           "source_refs": [
             "s1",
@@ -414,7 +414,7 @@
         },
         {
           "character": "technical-officer-movie",
-          "person": "koji-yusa",
+          "person": "yuu-sa-kou-ni",
           "role": "minor",
           "source_refs": [
             "s1",
@@ -423,7 +423,7 @@
         },
         {
           "character": "adjutant-movie",
-          "person": "mitsuru-ogata",
+          "person": "shou-kei-man",
           "role": "minor",
           "source_refs": [
             "s3"
@@ -431,7 +431,7 @@
         },
         {
           "character": "descartes-shaman",
-          "person": "ryo-katsuji",
+          "person": "shou-chi-ryou",
           "role": "supporting",
           "source_refs": [
             "s1",
@@ -441,7 +441,7 @@
         },
         {
           "character": "kim",
-          "person": "kenji-hamada",
+          "person": "hin-den-ken-ni",
           "role": "minor",
           "source_refs": [
             "s1",
@@ -450,7 +450,7 @@
         },
         {
           "character": "newscaster-movie",
-          "person": "michiko-komatsu",
+          "person": "shou-shou-bi-chi-shi",
           "role": "minor",
           "source_refs": [
             "s1",
@@ -459,7 +459,7 @@
         },
         {
           "character": "nefer-nagib",
-          "person": "yuka-nishigaki",
+          "person": "sei-shou-yuu-kou",
           "role": "minor",
           "source_refs": [
             "s2"
@@ -467,7 +467,7 @@
         },
         {
           "character": "amia-lee",
-          "person": "yuka-nishigaki",
+          "person": "sei-shou-yuu-kou",
           "role": "minor",
           "source_refs": [
             "s2"
@@ -475,7 +475,7 @@
         },
         {
           "character": "setsuna-f-seiei",
-          "person": "yuka-nishigaki",
+          "person": "sei-shou-yuu-kou",
           "role": "minor",
           "part": "young",
           "source_refs": [
@@ -484,7 +484,7 @@
         },
         {
           "character": "assembly-member-movie",
-          "person": "yuka-nishigaki",
+          "person": "sei-shou-yuu-kou",
           "role": "minor",
           "source_refs": [
             "s6"

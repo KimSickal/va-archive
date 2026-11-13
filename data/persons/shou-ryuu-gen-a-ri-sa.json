@@ -1,0 +1,49 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shou-ryuu-gen-a-ri-sa",
+  "slug": "arisa-ogasawara",
+  "name": {
+    "original_lang": "ja",
+    "original": "小笠原亜里沙",
+    "latin": "Arisa Ogasawara",
+    "aliases": {
+      "ja": [
+        "おがさわらありさ"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/小笠原亜里沙"
+  },
+  "birth": "1980-09-30",
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=10403",
+      "title": "Arisa Ogasawara - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/小笠原亜里沙",
+      "title": "小笠原亜里沙",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

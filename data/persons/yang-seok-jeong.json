@@ -1,6 +1,7 @@
 {
   "$schema": "../schema/person.schema.json",
   "id": "yang-seok-jeong",
+  "slug": "yang-seok-jeong",
   "name": {
     "original_lang": "ko",
     "original": "양석정",

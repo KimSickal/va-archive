@@ -1,0 +1,43 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kou-sen-bi-sui",
+  "slug": "miho-arakawa",
+  "name": {
+    "original_lang": "ja",
+    "original": "荒川美穂",
+    "latin": "Miho Arakawa",
+    "aliases": {
+      "ko": [
+        "아라카와 미호"
+      ],
+      "ja": [
+        "あらかわみほ"
+      ]
+    }
+  },
+  "gender": "female",
+  "birth": "1987-12-04",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E8%8D%92%E5%B7%9D%E7%BE%8E%E7%A9%82",
+    "en": "https://en.wikipedia.org/wiki/Miho_Arakawa",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%95%84%EB%9D%BC%EC%B9%B4%EC%99%80_%EB%AF%B8%ED%98%B8"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8D%92%E5%B7%9D%E7%BE%8E%E7%A9%82",
+      "title": "荒川美穂",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

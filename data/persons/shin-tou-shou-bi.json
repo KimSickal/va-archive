@@ -1,0 +1,57 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shin-tou-shou-bi",
+  "slug": "naomi-shindo",
+  "name": {
+    "original_lang": "ja",
+    "original": "進藤尚美",
+    "latin": "Naomi Shindo",
+    "aliases": {
+      "ko": [
+        "신도 나오미"
+      ],
+      "en": [
+        "Shindo Naomi"
+      ],
+      "ja": [
+        "しんどうなおみ"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1972",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%80%B2%E8%97%A4%E5%B0%9A%E7%BE%8E",
+    "en": "https://en.wikipedia.org/wiki/Naomi_Shind%C5%8D",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EB%8F%84_%EB%82%98%EC%98%A4%EB%AF%B8"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=302487",
+      "title": "Naomi SHINDŌ - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E9%80%B2%E8%97%A4%E5%B0%9A%E7%BE%8E",
+      "title": "進藤尚美 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

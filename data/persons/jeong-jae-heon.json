@@ -1,0 +1,36 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "jeong-jae-heon",
+  "slug": "jung-jae-heon",
+  "name": {
+    "original_lang": "ko",
+    "original": "정재헌",
+    "latin": "Jung Jae-heon"
+  },
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1975-04-18",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%9E%AC%ED%97%8C_(%EC%84%B1%EC%9A%B0)",
+    "en": "https://en.wikipedia.org/wiki/Jeong_Jae-heon"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%9E%AC%ED%97%8C_(%EC%84%B1%EC%9A%B0)",
+      "title": "정재헌 (성우)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

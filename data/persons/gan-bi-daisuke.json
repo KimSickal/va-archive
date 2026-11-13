@@ -1,0 +1,44 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "gan-bi-daisuke",
+  "slug": "daisuke-kishio",
+  "name": {
+    "original_lang": "ja",
+    "original": "岸尾だいすけ",
+    "latin": "Daisuke Kishio",
+    "aliases": {
+      "ko": [
+        "키시오 다이스케"
+      ],
+      "ja": [
+        "きしおだいすけ",
+        "岸尾大輔"
+      ]
+    }
+  },
+  "gender": "male",
+  "birth": "1974-03-28",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%B2%B8%E5%B0%BE%E3%81%A0%E3%81%84%E3%81%99%E3%81%91",
+    "en": "https://en.wikipedia.org/wiki/Daisuke_Kishio",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%82%A4%EC%8B%9C%EC%98%A4_%EB%8B%A4%EC%9D%B4%EC%8A%A4%EC%BC%80"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%B8%E5%B0%BE%E3%81%A0%E3%81%84%E3%81%99%E3%81%91",
+      "title": "岸尾だいすけ",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

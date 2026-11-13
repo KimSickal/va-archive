@@ -1,0 +1,57 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "san-taku-ken-ta",
+  "slug": "kenta-miyake",
+  "name": {
+    "original_lang": "ja",
+    "original": "三宅健太",
+    "latin": "Kenta Miyake",
+    "aliases": {
+      "ko": [
+        "미야케 켄타"
+      ],
+      "en": [
+        "Miyake Kenta"
+      ],
+      "ja": [
+        "みやけけんた"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1977",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%AE%85%E5%81%A5%E5%A4%AA",
+    "en": "https://en.wikipedia.org/wiki/Kenta_Miyake",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EC%95%BC%EC%BC%80_%EC%BC%84%ED%83%80"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=10398",
+      "title": "Kenta MIYAKE - Anime News Network:W",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%AE%85%E5%81%A5%E5%A4%AA",
+      "title": "三宅健太 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

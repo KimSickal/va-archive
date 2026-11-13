@@ -1,0 +1,43 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shou-fuu-ga-ya",
+  "slug": "masaya-matsukaze",
+  "name": {
+    "original_lang": "ja",
+    "original": "松風雅也",
+    "latin": "Masaya Matsukaze",
+    "aliases": {
+      "ko": [
+        "마츠카제 마사야"
+      ],
+      "ja": [
+        "まつかぜまさや"
+      ]
+    }
+  },
+  "gender": "male",
+  "birth": "1976-09-09",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E9%A2%A8%E9%9B%85%E4%B9%9F",
+    "en": "https://en.wikipedia.org/wiki/Masaya_Matsukaze",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%B8%A0%EC%B9%B4%EC%A0%9C_%EB%A7%88%EC%82%AC%EC%95%BC"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E9%A2%A8%E9%9B%85%E4%B9%9F",
+      "title": "松風雅也",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

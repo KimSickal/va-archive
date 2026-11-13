@@ -1,0 +1,39 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sei-tou-ki-bi-shi",
+  "slug": "kimiko-saito",
+  "name": {
+    "original_lang": "ja",
+    "original": "斉藤貴美子",
+    "latin": "Kimiko Saito",
+    "aliases": {
+      "ja": [
+        "さいとうきみこ"
+      ]
+    }
+  },
+  "gender": "female",
+  "birth": "1977-02-12",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%96%89%E8%97%A4%E8%B2%B4%E7%BE%8E%E5%AD%90",
+    "en": "https://en.wikipedia.org/wiki/Kimiko_Sait%C5%8D"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%96%89%E8%97%A4%E8%B2%B4%E7%BE%8E%E5%AD%90",
+      "title": "斉藤貴美子",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

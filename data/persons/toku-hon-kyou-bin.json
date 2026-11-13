@@ -1,0 +1,38 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "toku-hon-kyou-bin",
+  "slug": "yukitoshi-tokumoto",
+  "name": {
+    "original_lang": "ja",
+    "original": "徳本恭敏",
+    "latin": "Yukitoshi Tokumoto",
+    "aliases": {
+      "ja": [
+        "とくもとゆきとし"
+      ]
+    }
+  },
+  "gender": "male",
+  "birth": "1977-09-22",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%BE%B3%E6%9C%AC%E6%81%AD%E6%95%8F"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%BE%B3%E6%9C%AC%E6%81%AD%E6%95%8F",
+      "title": "徳本恭敏",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

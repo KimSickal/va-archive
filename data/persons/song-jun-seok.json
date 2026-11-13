@@ -1,6 +1,7 @@
 {
   "$schema": "../schema/person.schema.json",
   "id": "song-jun-seok",
+  "slug": "song-jun-seok",
   "name": {
     "original_lang": "ko",
     "original": "송준석",

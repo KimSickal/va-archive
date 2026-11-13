@@ -1,6 +1,7 @@
 {
   "$schema": "../schema/person.schema.json",
   "id": "ryu-seung-gon",
+  "slug": "ryu-seung-gon",
   "name": {
     "original_lang": "ko",
     "original": "류승곤",
