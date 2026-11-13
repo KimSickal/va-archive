@@ -1,0 +1,309 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "my-hero-academia-ova-ua-heroes-battle",
+  "franchise_id": "my-hero-academia",
+  "type": "anime_ova",
+  "title": {
+    "original_lang": "ja",
+    "original": "雄英ヒーローズ・バトル",
+    "latin": "Yuei Heroes Battle",
+    "official": {
+      "en": "My Hero Academia: UA Heroes Battle"
+    },
+    "aliases": {
+      "ja": [
+        "僕のヒーローアカデミア 雄英ヒーローズ・バトル"
+      ]
+    }
+  },
+  "order": 17,
+  "status": "finished",
+  "start_date": "2023-10-20",
+  "episodes": 1,
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "ボンズ",
+      "latin": "Bones",
+      "official": {
+        "en": "Bones"
+      }
+    }
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2023-10-20",
+      "credits": [
+        {
+          "character": "baku-gou-shou-ki",
+          "person": "kou-hon-shin-gen",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s3"
+          ]
+        },
+        {
+          "character": "ryoku-koku-shutsu-kyuu",
+          "person": "san-ka-tai-ki",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s3"
+          ]
+        },
+        {
+          "character": "gou-shou-tou",
+          "person": "bi-yuu-ki",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3"
+          ]
+        },
+        {
+          "character": "rei-nichi-o-cha-shi",
+          "person": "sa-sou-ryou-on",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3"
+          ]
+        },
+        {
+          "character": "han-den-ten-sai",
+          "person": "shaku-sen-kai-jin",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3"
+          ]
+        },
+        {
+          "character": "hachi-hyaku-man-hyaku",
+          "person": "sei-jou-ma-ri-na",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3"
+          ]
+        },
+        {
+          "character": "hou-den-jitsu",
+          "person": "kou-kyou-ryou",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "jou-mei-den-ki",
+          "person": "hata-chuu-yuu",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3"
+          ]
+        },
+        {
+          "character": "rai-ryo-han-ta",
+          "person": "ko-tou-sei-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "setsu-tou-ei-ji-rou",
+          "person": "zou-den-shun-ju",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3"
+          ]
+        },
+        {
+          "character": "ro-ko-san-na",
+          "person": "ki-ta-son-ei-ri",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3"
+          ]
+        },
+        {
+          "character": "sa-tou-ryoku-dou",
+          "person": "na-ryou-tetsu",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "you-in-tou",
+          "person": "mei-chou-ka-shoku",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "jou-an-tou-in",
+          "person": "sei-koku-ka-sei",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3"
+          ]
+        },
+        {
+          "character": "a-sui-bai-u",
+          "person": "yuu-boku-heki",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3"
+          ]
+        },
+        {
+          "character": "bi-haku-en-fu",
+          "person": "san-kou-kou-yuu",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "ji-rou-kyou-kou",
+          "person": "shin-dou-kei",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3"
+          ]
+        },
+        {
+          "character": "kou-den-kou-shi",
+          "person": "ei-chou-taku-ba",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "sei-san-yuu-ga",
+          "person": "sou-ya-kou-fu",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "tsuu-kei-mirio",
+          "person": "shin-en-son-jo",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "hotsu-moku-mei",
+          "person": "ou-sei-shiori",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ],
+          "credited_as": "櫻井しおり"
+        },
+        {
+          "character": "shin-dou-you",
+          "person": "haku-koku-yuu-ta",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "purezento-maiku",
+          "person": "kichi-ya-yuu-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3"
+          ]
+        },
+        {
+          "character": "orumaito",
+          "person": "san-taku-ken-ta",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3"
+          ]
+        }
+      ],
+      "source_refs": [
+        "s4"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=29929",
+      "title": "My Hero Academia: UA Heroes Battle - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.video.unext.jp/title/SID0096210",
+      "title": "『僕のヒーローアカデミア』オリジナルアニメ「雄英ヒーローズ・バトル」 - U-NEXT",
+      "publisher": "other",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s3",
+      "url": "https://animestore.docomo.ne.jp/animestore/ci_pc?workId=26734",
+      "title": "『僕のヒーローアカデミア』オリジナルアニメ「雄英ヒーローズ・バトル」 - dアニメストア",
+      "publisher": "other",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s4",
+      "url": "https://www.cinematoday.jp/movie/T0029191",
+      "title": "僕のヒーローアカデミア「雄英ヒーローズ・バトル」 (2023) - シネマトゥデイ",
+      "publisher": "news",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

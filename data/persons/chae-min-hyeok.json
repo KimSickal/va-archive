@@ -1,0 +1,35 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "chae-min-hyeok",
+  "slug": "chae-min-hyeok",
+  "name": {
+    "original_lang": "ko",
+    "original": "채민혁"
+  },
+  "gender": "male",
+  "birth": "1997-10-25",
+  "nationality": [
+    "KR"
+  ],
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EC%B1%84%EB%AF%BC%ED%98%81"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EC%B1%84%EB%AF%BC%ED%98%81",
+      "title": "채민혁",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

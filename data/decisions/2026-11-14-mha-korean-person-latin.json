@@ -1,0 +1,63 @@
+{
+  "$schema": "../schema/decision.schema.json",
+  "id": "2026-11-14-mha-korean-person-latin",
+  "date": "2026-11-14",
+  "kind": "naming",
+  "subjects": [
+    {
+      "kind": "person",
+      "id": "bi-ju-eon",
+      "field": "/name/latin"
+    },
+    {
+      "kind": "person",
+      "id": "chae-min-hyeok",
+      "field": "/name/latin"
+    },
+    {
+      "kind": "person",
+      "id": "gwak-gyu-mi",
+      "field": "/name/latin"
+    },
+    {
+      "kind": "person",
+      "id": "hwang-chang-yeong",
+      "field": "/name/latin"
+    },
+    {
+      "kind": "person",
+      "id": "i-gi-seong",
+      "field": "/name/latin"
+    },
+    {
+      "kind": "person",
+      "id": "i-seung-haeng",
+      "field": "/name/latin"
+    },
+    {
+      "kind": "person",
+      "id": "yun-eun-seo",
+      "field": "/name/latin"
+    }
+  ],
+  "decision": "7명 모두 name.latin을 지우고 slug를 내부 ID로 변경: bi-ju-eon, chae-min-hyeok, gwak-gyu-mi(이전 kwak-gyu-mi), hwang-chang-yeong, i-gi-seong(이전 lee-gi-seong), i-seung-haeng(이전 lee-seung-haeng), yun-eun-seo(이전 yoon-eun-seo). 스테이징 전용 레코드라 redirects는 만들지 않음.",
+  "rationale": "유일한 출처인 ko.wikipedia 문서 7개에 로마자 표기가 없다(채민혁은 '로마자 표기' 칸이 비어 있음). 본인·소속(대원방송 성우극회) 공식 로마자 표기도 찾지 못했다. 웹의 제3자 표기는 서로 갈린다: 황창영 = ANN 'Chang-Yung Hwang' / Super Mario Wiki·Rotten Tomatoes 'Hwang Chang-yeong', 곽규미 = 'Gyu-mi Gwak'(비공식 DB) vs 데이터의 'Kwak'. 현재 값은 출처 없는 관용 표기 추정이므로 규칙(추측 금지)에 따라 비운다.",
+  "evidence": [
+    {
+      "url": "https://ko.wikipedia.org/wiki/%EC%B1%84%EB%AF%BC%ED%98%81",
+      "quote": "| 로마자 표기 = (빈 칸)",
+      "tier": 2
+    },
+    {
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=224127",
+      "quote": "Chang-Yung HWANG",
+      "tier": 2
+    },
+    {
+      "url": "https://www.mariowiki.com/Hwang_Chang-yeong",
+      "quote": "Hwang Chang-yeong",
+      "tier": 3
+    }
+  ],
+  "decided_by": "mediator"
+}

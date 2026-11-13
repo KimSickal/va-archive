@@ -1,0 +1,42 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "haku-koku-yuu-ta",
+  "slug": "yuta-kasuya",
+  "name": {
+    "original_lang": "ja",
+    "original": "粕谷雄太",
+    "latin": "Yuta Kasuya",
+    "aliases": {
+      "ja": [
+        "かすやゆうた"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1985",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%B2%95%E8%B0%B7%E9%9B%84%E5%A4%AA",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%B9%B4%EC%8A%A4%EC%95%BC_%EC%9C%A0%EC%9A%B0%ED%83%80"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%B2%95%E8%B0%B7%E9%9B%84%E5%A4%AA",
+      "title": "粕谷雄太",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

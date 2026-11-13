@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kan-se-chi-ken",
+  "slug": "noriaki-kanze",
+  "name": {
+    "original_lang": "ja",
+    "original": "観世智顕",
+    "latin": "Noriaki Kanze",
+    "aliases": {
+      "ja": [
+        "かんぜのりあき"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1995",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E8%A6%B3%E4%B8%96%E6%99%BA%E9%A1%95"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A6%B3%E4%B8%96%E6%99%BA%E9%A1%95",
+      "title": "観世智顕",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

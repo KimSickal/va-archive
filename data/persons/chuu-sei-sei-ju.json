@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "chuu-sei-sei-ju",
+  "slug": "masaki-nakanishi",
+  "name": {
+    "original_lang": "ja",
+    "original": "中西正樹",
+    "latin": "Masaki Nakanishi",
+    "aliases": {
+      "ja": [
+        "なかにしまさき"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%A5%BF%E6%AD%A3%E6%A8%B9_%28%E5%A3%B0%E5%84%AA%29"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%A5%BF%E6%AD%A3%E6%A8%B9_%28%E5%A3%B0%E5%84%AA%29",
+      "title": "中西正樹 (声優)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

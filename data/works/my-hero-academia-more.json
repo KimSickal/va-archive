@@ -1,0 +1,876 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "my-hero-academia-more",
+  "franchise_id": "my-hero-academia",
+  "type": "anime_special",
+  "title": {
+    "original_lang": "ja",
+    "original": "TVアニメNo.170+1『More』",
+    "latin": "TV Anime No.170+1 \"More\"",
+    "official": {
+      "en": "My Hero Academia: More"
+    }
+  },
+  "order": 22,
+  "status": "finished",
+  "start_date": "2026-05-02",
+  "episodes": 1,
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "ボンズ",
+      "latin": "Bones",
+      "official": {
+        "en": "Bones"
+      }
+    }
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2026-05-02",
+      "credits": [
+        {
+          "character": "hachi-hyaku-man-hyaku",
+          "person": "sei-jou-ma-ri-na",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3"
+          ]
+        },
+        {
+          "character": "you-in-tou",
+          "person": "mei-chou-ka-shoku",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "togahimiko",
+          "person": "fuku-en-bi-ri",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "tsuu-kei-mirio",
+          "person": "shin-en-son-jo",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "ro-ko-san-na",
+          "person": "ki-ta-son-ei-ri",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "rai-ryo-han-ta",
+          "person": "ko-tou-sei-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "ji-rou-kyou-kou",
+          "person": "shin-dou-kei",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "jou-an-tou-in",
+          "person": "sei-koku-ka-sei",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "gou-shou-tou",
+          "person": "bi-yuu-ki",
+          "role": "main",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "baku-gou-shou-ki",
+          "person": "kou-hon-shin-gen",
+          "role": "main",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "a-sui-bai-u",
+          "person": "yuu-boku-heki",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "rei-nichi-o-cha-shi",
+          "person": "sa-sou-ryou-on",
+          "role": "main",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "jou-mei-den-ki",
+          "person": "hata-chuu-yuu",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "setsu-tou-ei-ji-rou",
+          "person": "zou-den-shun-ju",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "han-den-ten-sai",
+          "person": "shaku-sen-kai-jin",
+          "role": "main",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "ryoku-koku-shutsu-kyuu",
+          "person": "san-ka-tai-ki",
+          "role": "main",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "sa-tou-ryoku-dou",
+          "person": "na-ryou-tetsu",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "shou-shi-moku-zou",
+          "person": "sei-den-ga-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "sei-san-yuu-ga",
+          "person": "sou-ya-kou-fu",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "bi-haku-en-fu",
+          "person": "san-kou-kou-yuu",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "hou-den-jitsu",
+          "person": "kou-kyou-ryou",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "kou-den-kou-shi",
+          "person": "ei-chou-taku-ba",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "shin-sou-jin-shi",
+          "person": "u-ta-ya-shou",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "ten-kuu-kan",
+          "person": "jou-son-yuu-shou",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "ha-dou-nejire",
+          "person": "an-ya-ki-se-dai",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "moku-ryou-zen-ken",
+          "person": "gan-ki-sei-jitsu",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "fattogamu",
+          "person": "kyou-shin-wa-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "hokusu",
+          "person": "chuu-son-yuu-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "nareshon",
+          "person": "kichi-ya-yuu-kou",
+          "role": "minor",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "robber",
+          "person": "hou-den-tai-mu",
+          "role": "minor",
+          "source_refs": [
+            "s2"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "train-announcement",
+          "person": "sei-yuu-ju",
+          "role": "minor",
+          "source_refs": [
+            "s2"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "elementary-school-student",
+          "person": "bu-wai-shi-shi",
+          "role": "minor",
+          "source_refs": [
+            "s2"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "elementary-school-student",
+          "person": "san-sen-ka-getsu",
+          "role": "minor",
+          "source_refs": [
+            "s2"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "elementary-school-student",
+          "person": "nichi-nan-ho-dai-ka",
+          "role": "minor",
+          "source_refs": [
+            "s2"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "elementary-school-student",
+          "person": "jou-dai-yuu-ka-shi",
+          "role": "minor",
+          "source_refs": [
+            "s2"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "elementary-school-student",
+          "person": "kyou-ka-yuu-ki",
+          "role": "minor",
+          "source_refs": [
+            "s2"
+          ],
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "id": "ko-daewon",
+      "language": "ko",
+      "kind": "dub",
+      "label": {
+        "original_lang": "ko",
+        "original": "한국어 더빙 (대원방송)",
+        "translations": {
+          "ja": "韓国語吹替（大元放送）",
+          "en": "Korean dub (Daewon Broadcasting)"
+        },
+        "translated": [
+          "ja",
+          "en"
+        ]
+      },
+      "distributor": {
+        "original_lang": "ko",
+        "original": "대원방송",
+        "latin": "Daewon Broadcasting",
+        "official": {
+          "en": "Daewon Broadcasting"
+        },
+        "aliases": {
+          "ja": [
+            "大元放送"
+          ]
+        }
+      },
+      "source_refs": [
+        "s4",
+        "s5"
+      ],
+      "credits": [
+        {
+          "character": "ryoku-koku-shutsu-kyuu",
+          "person": "sim-gyu-hyeok",
+          "role": "main",
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "baku-gou-shou-ki",
+          "person": "gim-hyeon-uk",
+          "role": "main",
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "rei-nichi-o-cha-shi",
+          "person": "yun-mi-na",
+          "role": "main",
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "gou-shou-tou",
+          "person": "sin-yong-u",
+          "role": "main",
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "han-den-ten-sai",
+          "person": "i-hyeon",
+          "role": "main",
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "sa-tou-ryoku-dou",
+          "person": "i-hyeon",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "setsu-tou-ei-ji-rou",
+          "person": "bak-yo-han",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "shou-shi-moku-zou",
+          "person": "bak-yo-han",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "a-sui-bai-u",
+          "person": "jang-mi",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "jou-mei-den-ki",
+          "person": "hwang-chang-yeong",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "purezento-maiku",
+          "person": "hwang-chang-yeong",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "jou-an-tou-in",
+          "person": "seo-won-seok",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "hachi-hyaku-man-hyaku",
+          "person": "i-sae-a",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "hou-den-jitsu",
+          "person": "seong-ye-won",
+          "role": "supporting",
+          "part": "replacement",
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "ji-rou-kyou-kou",
+          "person": "gwak-gyu-mi",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "sei-san-yuu-ga",
+          "person": "bak-seong-yeong",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "bi-haku-en-fu",
+          "person": "bak-seong-yeong",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "you-in-tou",
+          "person": "gang-si-hyeon",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "ha-dou-nejire",
+          "person": "gang-si-hyeon",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "ro-ko-san-na",
+          "person": "song-ha-rim",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "rai-ryo-han-ta",
+          "person": "gim-min-ju",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "kou-den-kou-shi",
+          "person": "i-da-eun",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "shin-sou-jin-shi",
+          "person": "i-chang-min",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "tsuu-kei-mirio",
+          "person": "gang-su-jin",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "ten-kuu-kan",
+          "person": "gim-jin-hong",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "togahimiko",
+          "person": "gang-eun-ae",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "moku-ryou-zen-ken",
+          "person": "i-seung-haeng",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "fattogamu",
+          "person": "i-ju-seung",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "hokusu",
+          "person": "im-chae-bin",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "ui-sa",
+          "person": "choe-won-gyun",
+          "role": "minor",
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "train-announcement",
+          "person": "ju-hyeon-min",
+          "role": "minor",
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "yaku-mei-nashi-1-4",
+          "person": "bak-hye-jin",
+          "role": "minor",
+          "note": {
+            "original_lang": "ko",
+            "original": "크레딧에 배역명 없이 이름만 실림. 번호는 크레딧 순서.",
+            "translations": {
+              "ja": "クレジットに役名なしで名前のみ掲載。番号はクレジット順。",
+              "en": "Credited by name only, without a role. Numbering follows credit order."
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "yaku-mei-nashi-2-4",
+          "person": "sin-i-na",
+          "role": "minor",
+          "note": {
+            "original_lang": "ko",
+            "original": "크레딧에 배역명 없이 이름만 실림. 번호는 크레딧 순서.",
+            "translations": {
+              "ja": "クレジットに役名なしで名前のみ掲載。番号はクレジット順。",
+              "en": "Credited by name only, without a role. Numbering follows credit order."
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "yaku-mei-nashi-3-4",
+          "person": "gim-bo-yeon",
+          "role": "minor",
+          "note": {
+            "original_lang": "ko",
+            "original": "크레딧에 배역명 없이 이름만 실림. 번호는 크레딧 순서.",
+            "translations": {
+              "ja": "クレジットに役名なしで名前のみ掲載。番号はクレジット順。",
+              "en": "Credited by name only, without a role. Numbering follows credit order."
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "yaku-mei-nashi-4-4",
+          "person": "chae-min-hyeok",
+          "role": "minor",
+          "note": {
+            "original_lang": "ko",
+            "original": "크레딧에 배역명 없이 이름만 실림. 번호는 크레딧 순서.",
+            "translations": {
+              "ja": "クレジットに役名なしで名前のみ掲載。番号はクレジット順。",
+              "en": "Credited by name only, without a role. Numbering follows credit order."
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "yaku-mei-nashi-5-4",
+          "person": "i-yeo-reum",
+          "role": "minor",
+          "note": {
+            "original_lang": "ko",
+            "original": "크레딧에 배역명 없이 이름만 실림. 번호는 크레딧 순서.",
+            "translations": {
+              "ja": "クレジットに役名なしで名前のみ掲載。番号はクレジット順。",
+              "en": "Credited by name only, without a role. Numbering follows credit order."
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "yaku-mei-nashi-6-3",
+          "person": "jang-ji-ho",
+          "role": "minor",
+          "note": {
+            "original_lang": "ko",
+            "original": "크레딧에 배역명 없이 이름만 실림. 번호는 크레딧 순서.",
+            "translations": {
+              "ja": "クレジットに役名なしで名前のみ掲載。番号はクレジット順。",
+              "en": "Credited by name only, without a role. Numbering follows credit order."
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "yaku-mei-nashi-7-2",
+          "person": "jo-yeong-seo",
+          "role": "minor",
+          "note": {
+            "original_lang": "ko",
+            "original": "크레딧에 배역명 없이 이름만 실림. 번호는 크레딧 순서.",
+            "translations": {
+              "ja": "クレジットに役名なしで名前のみ掲載。番号はクレジット順。",
+              "en": "Credited by name only, without a role. Numbering follows credit order."
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s4"
+          ],
+          "verification": "unverified"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%83%95%E3%81%AE%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%82%A2_%28%E3%82%A2%E3%83%8B%E3%83%A1%29",
+      "title": "僕のヒーローアカデミア (アニメ)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=38146",
+      "title": "My Hero Academia: More - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E9%BA%BB%E9%87%8C%E5%A5%88",
+      "title": "井上麻里奈",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "url": "https://m.cafe.daum.net/CastingBank/5AC4/277",
+      "title": "[애니박스] '나의 히어로 아카데미아 FINAL SEASON No.170+1「More」' 성우진 - 애니박스 만화 성우진 - 캐스팅뱅크[한국성우DB카페]",
+      "publisher": "other",
+      "tier": 3,
+      "accessed_at": "2026-11-14",
+      "id": "s4"
+    },
+    {
+      "id": "s5",
+      "url": "https://namu.wiki/w/%EB%82%98%EC%9D%98%20%ED%9E%88%EC%96%B4%EB%A1%9C%20%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%EC%95%84%20FINAL%20SEASON",
+      "title": "나의 히어로 아카데미아 FINAL SEASON - 나무위키",
+      "publisher": "namuwiki",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s6",
+      "url": "https://animeanime.jp/article/2026/05/02/98558.html",
+      "title": "「僕のヒーローアカデミア」TVSP「More」雄英高校の教師となったデク！麗日お茶子は時折トガヒミコの夢を見るように…先行カット公開 | アニメ！アニメ！",
+      "publisher": "other",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

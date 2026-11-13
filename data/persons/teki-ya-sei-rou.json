@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "teki-ya-sei-rou",
+  "slug": "seiro-ogino",
+  "name": {
+    "original_lang": "ja",
+    "original": "荻野晴朗",
+    "latin": "Seiro Ogino",
+    "aliases": {
+      "ja": [
+        "おぎのせいろう"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1971",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E8%8D%BB%E9%87%8E%E6%99%B4%E6%9C%97"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8D%BB%E9%87%8E%E6%99%B4%E6%9C%97",
+      "title": "荻野晴朗",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

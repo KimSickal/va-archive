@@ -1,0 +1,449 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "my-hero-academia-game-battle-for-all",
+  "franchise_id": "my-hero-academia",
+  "type": "game",
+  "title": {
+    "original_lang": "ja",
+    "original": "僕のヒーローアカデミア バトル・フォー・オール",
+    "latin": "Boku no Hero Academia Battle for All",
+    "official": {
+      "en": "My Hero Academia: Battle for All"
+    }
+  },
+  "order": 31,
+  "status": "released",
+  "start_date": "2016-05-19",
+  "platforms": [
+    "other"
+  ],
+  "publishers": [
+    {
+      "original_lang": "ja",
+      "original": "バンダイナムコエンターテインメント",
+      "latin": "Bandai Namco Entertainment",
+      "official": {
+        "en": "Bandai Namco Entertainment"
+      }
+    }
+  ],
+  "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/My_Hero_Academia:_Battle_for_All"
+  },
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "credits": [
+        {
+          "character": "bi-haku-en-fu",
+          "person": "san-kou-kou-yuu",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "orumaito",
+          "person": "san-taku-ken-ta",
+          "role": "main",
+          "source_refs": [
+            "s3"
+          ]
+        },
+        {
+          "character": "hachi-hyaku-man-hyaku",
+          "person": "sei-jou-ma-ri-na",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ]
+        },
+        {
+          "character": "rei-nichi-o-cha-shi",
+          "person": "sa-sou-ryou-on",
+          "role": "main",
+          "source_refs": [
+            "s5"
+          ]
+        },
+        {
+          "character": "shi-hei-boku-chou",
+          "person": "dai-san-kou-ki",
+          "role": "supporting",
+          "source_refs": [
+            "s6"
+          ]
+        },
+        {
+          "character": "rai-ryo-han-ta",
+          "person": "ko-tou-sei-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s7"
+          ]
+        },
+        {
+          "character": "mt-redi",
+          "person": "mei-chou-ka-shoku",
+          "role": "supporting",
+          "source_refs": [
+            "s8"
+          ]
+        },
+        {
+          "character": "you-in-tou",
+          "person": "mei-chou-ka-shoku",
+          "role": "supporting",
+          "source_refs": [
+            "s8"
+          ]
+        },
+        {
+          "character": "ro-ko-san-na",
+          "person": "ki-ta-son-ei-ri",
+          "role": "supporting",
+          "source_refs": [
+            "s9"
+          ]
+        },
+        {
+          "character": "setsu-tou-ei-ji-rou",
+          "person": "zou-den-shun-ju",
+          "role": "supporting",
+          "source_refs": [
+            "s10"
+          ]
+        },
+        {
+          "character": "sementosu",
+          "person": "tai-wai-ken-ta",
+          "role": "supporting",
+          "source_refs": [
+            "s11"
+          ]
+        },
+        {
+          "character": "rikabarigaru",
+          "person": "shou-ou-etsuko",
+          "role": "supporting",
+          "source_refs": [
+            "s12"
+          ]
+        },
+        {
+          "character": "ryoku-koku-shutsu-kyuu",
+          "person": "san-ka-tai-ki",
+          "role": "main",
+          "source_refs": [
+            "s13"
+          ]
+        },
+        {
+          "character": "baku-gou-shou-ki",
+          "person": "kou-hon-shin-gen",
+          "role": "main",
+          "source_refs": [
+            "s14"
+          ]
+        },
+        {
+          "character": "hou-den-jitsu",
+          "person": "kou-kyou-ryou",
+          "role": "supporting",
+          "source_refs": [
+            "s15"
+          ]
+        },
+        {
+          "character": "a-sui-bai-u",
+          "person": "yuu-boku-heki",
+          "role": "supporting",
+          "source_refs": [
+            "s16"
+          ]
+        },
+        {
+          "character": "sei-san-yuu-ga",
+          "person": "sou-ya-kou-fu",
+          "role": "supporting",
+          "source_refs": [
+            "s17"
+          ]
+        },
+        {
+          "character": "gou-shou-tou",
+          "person": "bi-yuu-ki",
+          "role": "main",
+          "source_refs": [
+            "s18"
+          ]
+        },
+        {
+          "character": "jou-mei-den-ki",
+          "person": "hata-chuu-yuu",
+          "role": "supporting",
+          "source_refs": [
+            "s19"
+          ]
+        },
+        {
+          "character": "ji-rou-kyou-kou",
+          "person": "shin-dou-kei",
+          "role": "supporting",
+          "source_refs": [
+            "s20"
+          ]
+        },
+        {
+          "character": "han-den-ten-sai",
+          "person": "shaku-sen-kai-jin",
+          "role": "main",
+          "source_refs": [
+            "s21"
+          ]
+        },
+        {
+          "character": "jou-an-tou-in",
+          "person": "sei-koku-ka-sei",
+          "role": "supporting",
+          "source_refs": [
+            "s22"
+          ]
+        },
+        {
+          "character": "shou-shi-moku-zou",
+          "person": "sei-den-ga-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s23"
+          ]
+        },
+        {
+          "character": "shou-taku-shou-ta",
+          "person": "shu-hou-bu-jun-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s24"
+          ]
+        }
+      ],
+      "release_date": "2016-05-19"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%83%95%E3%81%AE%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%82%A2",
+      "title": "僕のヒーローアカデミア",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%A5%BD%E6%99%83%E7%A5%90",
+      "title": "三好晃祐",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%AE%85%E5%81%A5%E5%A4%AA",
+      "title": "三宅健太",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s4",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E9%BA%BB%E9%87%8C%E5%A5%88",
+      "title": "井上麻里奈",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s5",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E5%80%89%E7%B6%BE%E9%9F%B3",
+      "title": "佐倉綾音",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s6",
+      "url": "https://ja.wikipedia.org/wiki/%E5%86%85%E5%B1%B1%E6%98%82%E8%BC%9D",
+      "title": "内山昂輝",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s7",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E5%B3%B6%E6%B8%85%E5%AD%9D",
+      "title": "古島清孝",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s8",
+      "url": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%A1%9A%E4%BD%B3%E7%B9%94",
+      "title": "名塚佳織",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s9",
+      "url": "https://ja.wikipedia.org/wiki/%E5%96%9C%E5%A4%9A%E6%9D%91%E8%8B%B1%E6%A2%A8",
+      "title": "喜多村英梨",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s10",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A2%97%E7%94%B0%E4%BF%8A%E6%A8%B9",
+      "title": "増田俊樹",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s11",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9A%88%E5%81%A5%E5%A4%AA",
+      "title": "大隈健太",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s12",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%A1%9C%E3%82%A8%E3%83%84%E3%82%B3",
+      "title": "小桜エツコ",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s13",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E4%B8%8B%E5%A4%A7%E8%BC%9D",
+      "title": "山下大輝",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s14",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%A1%E6%9C%AC%E4%BF%A1%E5%BD%A6",
+      "title": "岡本信彦",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s15",
+      "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E6%A9%8B%E6%B6%BC",
+      "title": "広橋涼",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s16",
+      "url": "https://ja.wikipedia.org/wiki/%E6%82%A0%E6%9C%A8%E7%A2%A7",
+      "title": "悠木碧",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s17",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A1%91%E9%87%8E%E6%99%83%E8%BC%94",
+      "title": "桑野晃輔",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s18",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A2%B6%E8%A3%95%E8%B2%B4",
+      "title": "梶裕貴",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s19",
+      "url": "https://ja.wikipedia.org/wiki/%E7%95%A0%E4%B8%AD%E7%A5%90",
+      "title": "畠中祐",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s20",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9C%9F%E5%A0%82%E5%9C%AD",
+      "title": "真堂圭",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s21",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B7%9D%E7%95%8C%E4%BA%BA",
+      "title": "石川界人",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s22",
+      "url": "https://ja.wikipedia.org/wiki/%E7%B4%B0%E8%B0%B7%E4%BD%B3%E6%AD%A3",
+      "title": "細谷佳正",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s23",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E7%94%B0%E9%9B%85%E4%B8%80",
+      "title": "西田雅一",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s24",
+      "url": "https://ja.wikipedia.org/wiki/%E8%AB%8F%E8%A8%AA%E9%83%A8%E9%A0%86%E4%B8%80",
+      "title": "諏訪部順一",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../schema/decision.schema.json",
+  "id": "2026-11-14-mha-ua-heroes-battle-cast",
+  "date": "2026-11-14",
+  "kind": "field_value",
+  "subjects": [
+    {
+      "kind": "work",
+      "id": "my-hero-academia-ova-ua-heroes-battle",
+      "field": "/versions/0/credits"
+    }
+  ],
+  "decision": "U-NEXT 목록(24배역)을 유지하고 dアニメストア에만 있는 8배역(相澤消太, エンデヴァー, ホークス, ミッドナイト, ミルコ, エッジショット, Mt.レディ, グラントリノ)은 넣지 않음. 데이터 변경 없음.",
+  "rationale": "dアニメストア 페이지의 같은 화면에 실린 줄거리는 통형 미리오가 카드게임을 들고 오는 이야기인데, 캐스트 목록에는 줄거리 핵심 인물인 通形ミリオ·発目明·心操/真堂揺가 없고 監督도 다른 이름(向井雅浩, ANN은 長崎健司)이다. 이 OVA 회차의 크레딧이 아니라 다른 목록을 옮긴 것으로 보인다(같은 작품의 シネマトゥデイ 목록도 死柄木·荼毘·スターアンドストライプ 등 S7 캐스트를 옮겨 놓음). U-NEXT 24배역은 ANN 줄거리·Fandom 회차 캐스트(일·영 24배역, 미리오·발목·신도 포함)와 맞는다. Fandom 줄거리상 Mt.レディ는 카드 홀로그램으로, 相澤는 마지막 장면에 나오지만 목소리 크레딧 출처는 없다. 출처 없는 크레딧은 넣지 않는다.",
+  "evidence": [
+    {
+      "url": "https://www.video.unext.jp/title/SID0096210",
+      "quote": "24 roles: class 1-A + 通形ミリオ/発目明/真堂揺",
+      "tier": 2
+    },
+    {
+      "url": "https://animestore.docomo.ne.jp/animestore/ci_pc?workId=26734",
+      "quote": "相澤消太:諏訪部順一／エンデヴァー:稲田徹／ホークス:中村悠一／… 監督:向井雅浩 (通形ミリオ・発目明・真堂揺 없음)",
+      "tier": 2
+    },
+    {
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=29929",
+      "quote": "Third-year Mirio Togata appears suddenly … He brings with him the card game \"Yūei Heroes Battle,\" created by the support class.",
+      "tier": 2
+    },
+    {
+      "url": "https://myheroacademia.fandom.com/wiki/My_Hero_Academia_-_U.A._Heroes_Battle",
+      "quote": "Cast: … Tarusuke Shingaki as Mirio Togata, Azu Sakura as Mei Hatsume, Hiroyuki Yoshino as Present Mic, Yūta Kasuya as Yo Shindo, Kenta Miyake as All Might",
+      "tier": 3
+    }
+  ],
+  "decided_by": "mediator"
+}

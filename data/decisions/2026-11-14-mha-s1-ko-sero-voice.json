@@ -1,0 +1,37 @@
+{
+  "$schema": "../schema/decision.schema.json",
+  "id": "2026-11-14-mha-s1-ko-sero-voice",
+  "date": "2026-11-14",
+  "kind": "field_value",
+  "subjects": [
+    {
+      "kind": "credit",
+      "id": "my-hero-academia-s1#ko-daewon#18",
+      "field": "/versions/1/credits/18/person"
+    },
+    {
+      "kind": "character",
+      "id": "my-hero-academia/rai-ryo-han-ta"
+    }
+  ],
+  "decision": "S1 한국어 더빙(대원방송) 瀬呂範太 = 김민주(gim-min-ju) 유지. 上鳴電気 = 황창영 유지. 데이터 변경 없음.",
+  "rationale": "ANN 17786은 시리즈 전체를 묶은 페이지로 'Chang-Yung Hwang as Denki Kaminari / Hanta Sero / Present Mic'처럼 한 줄에 세 배역을 몰아 적고 있어 회차·시즌 구분이 없다. 반면 S1 회차별 엔딩 크레딧 전사(CastingBank, 2016-07-30)는 5~13화 모두 '김민주 - 세로 役'과 '황창영 - 카미나리 役'을 따로 적고, ko.wikipedia도 세로=김민주, 카미나리=황창영이다. 이후 S2~S7·FINAL·More의 한국어 크레딧도 세로=김민주로 일관된다. ANN 쪽이 배역 묶음 표기 오류로 판단.",
+  "evidence": [
+    {
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=17786",
+      "quote": "Chang-Yung Hwang as Denki Kaminari Hanta Sero Present Mic",
+      "tier": 2
+    },
+    {
+      "url": "https://m.cafe.daum.net/CastingBank/5AC4/173",
+      "quote": "5화~13화: 김민주 - 세로 役 / 황창영 - 카미나리 役",
+      "tier": 3
+    },
+    {
+      "url": "https://ko.wikipedia.org/wiki/%EB%82%98%EC%9D%98_%ED%9E%88%EC%96%B4%EB%A1%9C_%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%EC%95%84_(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98)",
+      "quote": "세로 한타 … 김민주; 카미나리 덴키 … 황창영",
+      "tier": 2
+    }
+  ],
+  "decided_by": "mediator"
+}

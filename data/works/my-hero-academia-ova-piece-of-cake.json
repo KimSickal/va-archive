@@ -1,0 +1,129 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "my-hero-academia-ova-piece-of-cake",
+  "franchise_id": "my-hero-academia",
+  "type": "anime_ova",
+  "title": {
+    "original_lang": "ja",
+    "original": "A PIECE OF CAKE",
+    "aliases": {
+      "ja": [
+        "アピースオブケイク"
+      ]
+    }
+  },
+  "order": 20.5,
+  "status": "finished",
+  "start_date": "2025-02-19",
+  "episodes": 1,
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "ボンズ",
+      "latin": "Bones",
+      "official": {
+        "en": "Bones"
+      }
+    }
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2025-02-19",
+      "credits": [
+        {
+          "character": "ryoku-koku-shutsu-kyuu",
+          "person": "san-ka-tai-ki",
+          "role": "main",
+          "source_refs": [
+            "s1"
+          ],
+          "note": {
+            "original_lang": "ja",
+            "original": "出典は1年A組キャストの新録として声優名のみを挙げる。役は各声優の同シリーズでの担当役による。",
+            "translations": {
+              "ko": "출처는 1학년 A반 캐스트의 신규 녹음으로 성우 이름만 든다. 배역은 각 성우가 시리즈에서 맡은 역에 따름.",
+              "en": "The source names the actors only as the Class 1-A cast recording anew; the role pairing follows each actor's established series role."
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          }
+        },
+        {
+          "character": "baku-gou-shou-ki",
+          "person": "kou-hon-shin-gen",
+          "role": "main",
+          "source_refs": [
+            "s1"
+          ],
+          "note": {
+            "original_lang": "ja",
+            "original": "出典は1年A組キャストの新録として声優名のみを挙げる。役は各声優の同シリーズでの担当役による。",
+            "translations": {
+              "ko": "출처는 1학년 A반 캐스트의 신규 녹음으로 성우 이름만 든다. 배역은 각 성우가 시리즈에서 맡은 역에 따름.",
+              "en": "The source names the actors only as the Class 1-A cast recording anew; the role pairing follows each actor's established series role."
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          }
+        },
+        {
+          "character": "gou-shou-tou",
+          "person": "bi-yuu-ki",
+          "role": "main",
+          "source_refs": [
+            "s1"
+          ],
+          "note": {
+            "original_lang": "ja",
+            "original": "出典は1年A組キャストの新録として声優名のみを挙げる。役は各声優の同シリーズでの担当役による。",
+            "translations": {
+              "ko": "출처는 1학년 A반 캐스트의 신규 녹음으로 성우 이름만 든다. 배역은 각 성우가 시리즈에서 맡은 역에 따름.",
+              "en": "The source names the actors only as the Class 1-A cast recording anew; the role pairing follows each actor's established series role."
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.oricon.co.jp/news/2356514/full/",
+      "title": "『ヒロアカ』描き下ろし漫画アニメ化　「A PIECE OF CAKE」映画Blu-ray＆DVD特典に",
+      "publisher": "news",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.7.0"
+  }
+}

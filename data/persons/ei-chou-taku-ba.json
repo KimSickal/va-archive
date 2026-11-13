@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ei-chou-taku-ba",
+  "slug": "takuma-nagatsuka",
+  "name": {
+    "original_lang": "ja",
+    "original": "永塚拓馬",
+    "latin": "Takuma Nagatsuka",
+    "official": {
+      "en": "Takuma Nagatsuka"
+    },
+    "aliases": {
+      "ja": [
+        "ながつかたくま"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1991",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%B0%B8%E5%A1%9A%E6%8B%93%E9%A6%AC",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%82%98%EA%B0%80%EC%93%B0%EC%B9%B4_%EB%8B%A4%EC%BF%A0%EB%A7%88",
+    "en": "https://en.wikipedia.org/wiki/Takuma_Nagatsuka"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B0%B8%E5%A1%9A%E6%8B%93%E9%A6%AC",
+      "title": "永塚拓馬",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

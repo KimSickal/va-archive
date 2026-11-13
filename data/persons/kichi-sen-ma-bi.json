@@ -1,0 +1,28 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kichi-sen-ma-bi",
+  "slug": "asami-yoshikawa",
+  "name": {
+    "original_lang": "ja",
+    "original": "吉川麻美",
+    "latin": "Asami Yoshikawa"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=159063",
+      "title": "Asami Yoshikawa - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

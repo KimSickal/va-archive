@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ju-bi-sai-shi",
+  "slug": "minako-kotobuki",
+  "name": {
+    "original_lang": "ja",
+    "original": "寿美菜子",
+    "latin": "Minako Kotobuki",
+    "official": {
+      "en": "Minako Kotobuki"
+    },
+    "aliases": {
+      "ja": [
+        "ことぶきみなこ"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1991",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%AF%BF%E7%BE%8E%E8%8F%9C%E5%AD%90",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%BD%94%ED%86%A0%EB%B6%80%ED%82%A4_%EB%AF%B8%EB%82%98%EC%BD%94",
+    "en": "https://en.wikipedia.org/wiki/Minako_Kotobuki"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AF%BF%E7%BE%8E%E8%8F%9C%E5%AD%90",
+      "title": "寿美菜子",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

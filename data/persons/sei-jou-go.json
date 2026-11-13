@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sei-jou-go",
+  "slug": "satoru-inoue",
+  "name": {
+    "original_lang": "ja",
+    "original": "井上悟",
+    "latin": "Satoru Inoue",
+    "aliases": {
+      "ja": [
+        "いのうえさとる"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E6%82%9F_%28%E5%A3%B0%E5%84%AA%29"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E6%82%9F_%28%E5%A3%B0%E5%84%AA%29",
+      "title": "井上悟 (声優)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

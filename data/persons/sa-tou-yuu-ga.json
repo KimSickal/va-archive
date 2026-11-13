@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sa-tou-yuu-ga",
+  "slug": "yuga-sato",
+  "name": {
+    "original_lang": "ja",
+    "original": "佐藤悠雅",
+    "latin": "Yuga Sato",
+    "aliases": {
+      "ja": [
+        "さとうゆうが"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E6%82%A0%E9%9B%85"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E6%82%A0%E9%9B%85",
+      "title": "佐藤悠雅",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

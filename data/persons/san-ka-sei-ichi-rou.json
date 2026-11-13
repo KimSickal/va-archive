@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "san-ka-sei-ichi-rou",
+  "slug": "seiichiro-yamashita",
+  "name": {
+    "original_lang": "ja",
+    "original": "山下誠一郎",
+    "latin": "Seiichiro Yamashita",
+    "official": {
+      "en": "Seiichiro Yamashita"
+    },
+    "aliases": {
+      "ja": [
+        "やましたせいいちろう"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1992",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E4%B8%8B%E8%AA%A0%E4%B8%80%E9%83%8E",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%95%BC%EB%A7%88%EC%8B%9C%ED%83%80_%EC%84%B8%EC%9D%B4%EC%9D%B4%EC%B9%98%EB%A1%9C",
+    "en": "https://en.wikipedia.org/wiki/Seiichiro_Yamashita"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E4%B8%8B%E8%AA%A0%E4%B8%80%E9%83%8E",
+      "title": "山下誠一郎",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

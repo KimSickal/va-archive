@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sei-rai-shou-kyuu",
+  "slug": "katsuhisa-namase",
+  "name": {
+    "original_lang": "ja",
+    "original": "生瀬勝久",
+    "latin": "Katsuhisa Namase",
+    "official": {
+      "en": "Katsuhisa Namase"
+    },
+    "aliases": {
+      "ja": [
+        "なませかつひさ"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1960",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%94%9F%E7%80%AC%E5%8B%9D%E4%B9%85",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%82%98%EB%A7%88%EC%84%B8_%EC%B9%B4%EC%B8%A0%ED%9E%88%EC%82%AC",
+    "en": "https://en.wikipedia.org/wiki/Katsuhisa_Namase"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%94%9F%E7%80%AC%E5%8B%9D%E4%B9%85",
+      "title": "生瀬勝久",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

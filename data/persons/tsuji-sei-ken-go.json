@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "tsuji-sei-ken-go",
+  "slug": "kengo-tsujii",
+  "name": {
+    "original_lang": "ja",
+    "original": "辻井健吾",
+    "latin": "Kengo Tsujii",
+    "aliases": {
+      "ja": [
+        "つじいけんご"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1986",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E8%BE%BB%E4%BA%95%E5%81%A5%E5%90%BE"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E8%BE%BB%E4%BA%95%E5%81%A5%E5%90%BE",
+      "title": "辻井健吾",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "bi-ju-eon",
+  "slug": "bi-ju-eon",
+  "name": {
+    "original_lang": "ko",
+    "original": "비주언"
+  },
+  "gender": "female",
+  "birth": "1989-12-14",
+  "nationality": [
+    "KR"
+  ],
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EB%B9%84%EC%A3%BC%EC%96%B8"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B9%84%EC%A3%BC%EC%96%B8",
+      "title": "비주언",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

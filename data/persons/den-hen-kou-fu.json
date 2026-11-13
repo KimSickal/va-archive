@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "den-hen-kou-fu",
+  "slug": "kosuke-tanabe",
+  "name": {
+    "original_lang": "ja",
+    "original": "田邊幸輔",
+    "latin": "Kosuke Tanabe",
+    "aliases": {
+      "ja": [
+        "たなべこうすけ"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%94%B0%E9%82%8A%E5%B9%B8%E8%BC%94"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%94%B0%E9%82%8A%E5%B9%B8%E8%BC%94",
+      "title": "田邊幸輔",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

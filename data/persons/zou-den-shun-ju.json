@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "zou-den-shun-ju",
+  "slug": "toshiki-masuda",
+  "name": {
+    "original_lang": "ja",
+    "original": "増田俊樹",
+    "latin": "Toshiki Masuda",
+    "official": {
+      "en": "Toshiki Masuda"
+    },
+    "aliases": {
+      "ja": [
+        "ますだとしき"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1990",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%A2%97%E7%94%B0%E4%BF%8A%E6%A8%B9",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%8A%A4%EB%8B%A4_%ED%86%A0%EC%8B%9C%ED%82%A4",
+    "en": "https://en.wikipedia.org/wiki/Toshiki_Masuda"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A2%97%E7%94%B0%E4%BF%8A%E6%A8%B9",
+      "title": "増田俊樹",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

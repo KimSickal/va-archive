@@ -1,0 +1,45 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shin-yuu-ju",
+  "slug": "yuuki-shin",
+  "name": {
+    "original_lang": "ja",
+    "original": "新祐樹",
+    "latin": "Yuuki Shin",
+    "official": {
+      "en": "Yuuki Shin"
+    },
+    "aliases": {
+      "ja": [
+        "しんゆうき"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1994",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%96%B0%E7%A5%90%E6%A8%B9",
+    "en": "https://en.wikipedia.org/wiki/Yuuki_Shin"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E7%A5%90%E6%A8%B9",
+      "title": "新祐樹",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

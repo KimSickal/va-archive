@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "gan-ki-ryou",
+  "slug": "ryo-iwasaki",
+  "name": {
+    "original_lang": "ja",
+    "original": "岩崎了",
+    "latin": "Ryo Iwasaki",
+    "aliases": {
+      "ja": [
+        "いわさきりょう"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E5%B4%8E%E4%BA%86"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E5%B4%8E%E4%BA%86",
+      "title": "岩崎了",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

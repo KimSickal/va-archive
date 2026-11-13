@@ -1,0 +1,825 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "my-hero-academia-hero-note",
+  "franchise_id": "my-hero-academia",
+  "type": "anime_special",
+  "title": {
+    "original_lang": "ja",
+    "original": "僕のヒーローアカデミア 総集編「ヒーローノート」",
+    "latin": "Boku no Hero Academia Soushuuhen \"Hero Note\"",
+    "aliases": {
+      "ja": [
+        "ヒーローノート",
+        "僕のヒーローアカデミア 第2期「ヒーローノート」"
+      ],
+      "ko": [
+        "나의 히어로 아카데미아 히어로 노트"
+      ]
+    }
+  },
+  "order": 3,
+  "status": "finished",
+  "start_date": "2017-03-25",
+  "end_date": "2017-03-25",
+  "episodes": 1,
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "ボンズ",
+      "latin": "Bones",
+      "official": {
+        "en": "Bones"
+      }
+    }
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2017-03-25",
+      "credits": [
+        {
+          "character": "ryoku-koku-shutsu-kyuu",
+          "person": "san-ka-tai-ki",
+          "role": "main",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "baku-gou-shou-ki",
+          "person": "kou-hon-shin-gen",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "rei-nichi-o-cha-shi",
+          "person": "sa-sou-ryou-on",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "han-den-ten-sai",
+          "person": "shaku-sen-kai-jin",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "gou-shou-tou",
+          "person": "bi-yuu-ki",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "a-sui-bai-u",
+          "person": "yuu-boku-heki",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "hou-den-jitsu",
+          "person": "kou-kyou-ryou",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "setsu-tou-ei-ji-rou",
+          "person": "zou-den-shun-ju",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "hachi-hyaku-man-hyaku",
+          "person": "sei-jou-ma-ri-na",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "jou-an-tou-in",
+          "person": "sei-koku-ka-sei",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "jou-mei-den-ki",
+          "person": "hata-chuu-yuu",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "shou-taku-shou-ta",
+          "person": "shu-hou-bu-jun-ichi",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "purezento-maiku",
+          "person": "kichi-ya-yuu-kou",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "rikabarigaru",
+          "person": "shou-ou-etsuko",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "13-gou",
+          "person": "ken-san-inuko",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "kon-shin",
+          "person": "kou-ko-sei-kou",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "endeva",
+          "person": "tou-den-tetsu",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "orumaito",
+          "person": "san-taku-ken-ta",
+          "role": "main",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "sei-san-yuu-ga",
+          "person": "sou-ya-kou-fu",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "ji-rou-kyou-kou",
+          "person": "shin-dou-kei",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "ro-ko-san-na",
+          "person": "ki-ta-son-ei-ri",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "shou-shi-moku-zou",
+          "person": "sei-den-ga-ichi",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "bi-haku-en-fu",
+          "person": "san-kou-kou-yuu",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "rai-ryo-han-ta",
+          "person": "ko-tou-sei-kou",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "you-in-tou",
+          "person": "mei-chou-ka-shoku",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "sa-tou-ryoku-dou",
+          "person": "na-ryou-tetsu",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "shi-hei-boku-chou",
+          "person": "dai-san-kou-ki",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "koku-mu",
+          "person": "tou-gen-ki-kou",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "oru-fo-wan",
+          "person": "tai-chou-mei-fu",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "motsu-kan-nei-jin",
+          "person": "ten-ki-kou-hei",
+          "role": "supporting",
+          "credited_as": "天崎滉平",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "ken-tou-ichi-ka",
+          "person": "shou-ryuu-gen-sou-ki",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "tetsu-tetsu-tetsu-tetsu",
+          "person": "chuu-ya-kou-shi",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "en-ki-shi",
+          "person": "ou-han-bi-sui",
+          "role": "supporting",
+          "credited_as": "真坂美帆",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "hotsu-moku-mei",
+          "person": "ou-sei-shiori",
+          "role": "supporting",
+          "credited_as": "桜あず",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "shin-sou-jin-shi",
+          "person": "u-ta-ya-shou",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "放送局番組表（thetv.jp）の出演者一覧による。第2期の番組共通キャストの可能性があり、総集編本編での発声は未確認",
+            "translations": {
+              "ko": "방송 편성표(thetv.jp) 출연자 목록 기준. 2기 프로그램 공통 캐스트일 가능성이 있어 총집편 본편 발성은 미확인",
+              "en": "From the broadcast listing (thetv.jp). It may be the generic Season 2 programme cast; speaking in the recap itself is not confirmed"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        }
+      ],
+      "source_refs": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://thetv.jp/program/0000920126/1/",
+      "title": "第0話 僕のヒーローアカデミア 第2期「ヒーローノート」 - ザテレビジョン",
+      "publisher": "broadcaster",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://namu.wiki/w/%EB%82%98%EC%9D%98%20%ED%9E%88%EC%96%B4%EB%A1%9C%20%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%EC%95%84(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%202%EA%B8%B0)",
+      "title": "나의 히어로 아카데미아(애니메이션 2기) - 나무위키",
+      "publisher": "namuwiki",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

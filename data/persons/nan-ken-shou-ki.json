@@ -1,0 +1,45 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "nan-ken-shou-ki",
+  "slug": "naomi-kusumi",
+  "name": {
+    "original_lang": "ja",
+    "original": "楠見尚己",
+    "latin": "Naomi Kusumi",
+    "official": {
+      "en": "Naomi Kusumi"
+    },
+    "aliases": {
+      "ja": [
+        "くすみなおみ"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1954",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%A5%A0%E8%A6%8B%E5%B0%9A%E5%B7%B1",
+    "en": "https://en.wikipedia.org/wiki/Naomi_Kusumi"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A5%A0%E8%A6%8B%E5%B0%9A%E5%B7%B1",
+      "title": "楠見尚己",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shitsu-san-yuuki",
+  "slug": "yuki-urushiyama",
+  "name": {
+    "original_lang": "ja",
+    "original": "漆山ゆうき",
+    "latin": "Yuki Urushiyama",
+    "aliases": {
+      "ja": [
+        "うるしやまゆうき"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%BC%86%E5%B1%B1%E3%82%86%E3%81%86%E3%81%8D"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%BC%86%E5%B1%B1%E3%82%86%E3%81%86%E3%81%8D",
+      "title": "漆山ゆうき",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.7.0"
+  }
+}

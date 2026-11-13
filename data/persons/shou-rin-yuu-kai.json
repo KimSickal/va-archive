@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shou-rin-yuu-kai",
+  "slug": "yusuke-kobayashi",
+  "name": {
+    "original_lang": "ja",
+    "original": "小林裕介",
+    "latin": "Yusuke Kobayashi",
+    "official": {
+      "en": "Yusuke Kobayashi"
+    },
+    "aliases": {
+      "ja": [
+        "こばやしゆうすけ"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1985",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9E%97%E8%A3%95%E4%BB%8B",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%BD%94%EB%B0%94%EC%95%BC%EC%8B%9C_%EC%9C%A0%EC%8A%A4%EC%BC%80_%28%EC%84%B1%EC%9A%B0%29",
+    "en": "https://en.wikipedia.org/wiki/Y%C5%ABsuke_Kobayashi_%28voice_actor%29"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9E%97%E8%A3%95%E4%BB%8B",
+      "title": "小林裕介",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

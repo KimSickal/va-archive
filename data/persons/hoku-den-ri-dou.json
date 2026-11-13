@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "hoku-den-ri-dou",
+  "slug": "masamichi-kitada",
+  "name": {
+    "original_lang": "ja",
+    "original": "北田理道",
+    "latin": "Masamichi Kitada",
+    "aliases": {
+      "ja": [
+        "きただまさみち"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%8C%97%E7%94%B0%E7%90%86%E9%81%93"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E7%94%B0%E7%90%86%E9%81%93",
+      "title": "北田理道",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

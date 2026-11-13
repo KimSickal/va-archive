@@ -1,0 +1,45 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shou-ya-chou-ki-shi",
+  "slug": "takashi-onozuka",
+  "name": {
+    "original_lang": "ja",
+    "original": "小野塚貴志",
+    "latin": "Takashi Onozuka",
+    "official": {
+      "en": "Takashi Onozuka"
+    },
+    "aliases": {
+      "ja": [
+        "おのづかたかし"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1974",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%8E%E5%A1%9A%E8%B2%B4%E5%BF%97",
+    "en": "https://en.wikipedia.org/wiki/Takashi_Onozuka"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%8E%E5%A1%9A%E8%B2%B4%E5%BF%97",
+      "title": "小野塚貴志",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

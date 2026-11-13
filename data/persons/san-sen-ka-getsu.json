@@ -1,0 +1,45 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "san-sen-ka-getsu",
+  "slug": "haruna-mikawa",
+  "name": {
+    "original_lang": "ja",
+    "original": "三川華月",
+    "latin": "Haruna Mikawa",
+    "official": {
+      "en": "Haruna Mikawa"
+    },
+    "aliases": {
+      "ja": [
+        "みかわはるな"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1998",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%B7%9D%E8%8F%AF%E6%9C%88",
+    "en": "https://en.wikipedia.org/wiki/Haruna_Mikawa"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%B7%9D%E8%8F%AF%E6%9C%88",
+      "title": "三川華月",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

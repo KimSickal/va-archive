@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "chou-hi-na-taku-ken",
+  "slug": "takumi-asahina",
+  "name": {
+    "original_lang": "ja",
+    "original": "朝比奈拓見",
+    "latin": "Takumi Asahina",
+    "aliases": {
+      "ja": [
+        "あさひなたくみ"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1980",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%9C%9D%E6%AF%94%E5%A5%88%E6%8B%93%E8%A6%8B"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%9D%E6%AF%94%E5%A5%88%E6%8B%93%E8%A6%8B",
+      "title": "朝比奈拓見",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

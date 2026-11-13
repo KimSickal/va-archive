@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shou-ei-iku-ho",
+  "slug": "ikuho-matsunaga",
+  "name": {
+    "original_lang": "ja",
+    "original": "松永郁歩",
+    "latin": "Ikuho Matsunaga",
+    "aliases": {
+      "ja": [
+        "まつながいくほ"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B0%B8%E9%83%81%E6%AD%A9"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B0%B8%E9%83%81%E6%AD%A9",
+      "title": "松永郁歩",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

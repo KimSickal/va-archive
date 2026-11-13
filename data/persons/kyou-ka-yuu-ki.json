@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kyou-ka-yuu-ki",
+  "slug": "yuki-kyoka",
+  "name": {
+    "original_lang": "ja",
+    "original": "京花優希",
+    "latin": "Yuki Kyoka",
+    "aliases": {
+      "ja": [
+        "きょうかゆうき"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E8%8A%B1%E5%84%AA%E5%B8%8C"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E8%8A%B1%E5%84%AA%E5%B8%8C",
+      "title": "京花優希",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

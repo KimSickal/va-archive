@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "hoku-gen-sa-mi-kou",
+  "slug": "sayaka-kitahara",
+  "name": {
+    "original_lang": "ja",
+    "original": "北原沙弥香",
+    "latin": "Sayaka Kitahara",
+    "official": {
+      "en": "Sayaka Kitahara"
+    },
+    "aliases": {
+      "ja": [
+        "きたはらさやか"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1993",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%8C%97%E5%8E%9F%E6%B2%99%E5%BC%A5%E9%A6%99",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%82%A4%ED%83%80%ED%95%98%EB%9D%BC_%EC%82%AC%EC%95%BC%EC%B9%B4",
+    "en": "https://en.wikipedia.org/wiki/Sayaka_Kitahara"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E5%8E%9F%E6%B2%99%E5%BC%A5%E9%A6%99",
+      "title": "北原沙弥香",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

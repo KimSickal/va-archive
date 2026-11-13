@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shi-den-mi-rai",
+  "slug": "mirai-shida",
+  "name": {
+    "original_lang": "ja",
+    "original": "志田未来",
+    "latin": "Mirai Shida",
+    "official": {
+      "en": "Mirai Shida"
+    },
+    "aliases": {
+      "ja": [
+        "しだみらい"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1993",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%BF%97%E7%94%B0%E6%9C%AA%E6%9D%A5",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%8B%9C%EB%8B%A4_%EB%AF%B8%EB%9D%BC%EC%9D%B4",
+    "en": "https://en.wikipedia.org/wiki/Mirai_Shida"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%BF%97%E7%94%B0%E6%9C%AA%E6%9D%A5",
+      "title": "志田未来",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

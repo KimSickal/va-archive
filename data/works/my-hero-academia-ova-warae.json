@@ -1,0 +1,189 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "my-hero-academia-ova-warae",
+  "franchise_id": "my-hero-academia",
+  "type": "anime_ova",
+  "title": {
+    "original_lang": "ja",
+    "original": "笑え！地獄のように",
+    "latin": "Warae! Jigoku no Yo ni",
+    "aliases": {
+      "en": [
+        "Laugh! As If You Are in Hell"
+      ]
+    }
+  },
+  "order": 15,
+  "status": "finished",
+  "start_date": "2022-06-16",
+  "episodes": 1,
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "ボンズ",
+      "latin": "Bones",
+      "official": {
+        "en": "Bones"
+      }
+    }
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2022-06-16",
+      "credits": [
+        {
+          "character": "misuta-sumairi",
+          "person": "kin-tou-kou-toku",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s4"
+          ]
+        },
+        {
+          "character": "endeva",
+          "person": "tou-den-tetsu",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "gou-shou-tou",
+          "person": "bi-yuu-ki",
+          "role": "main",
+          "source_refs": [
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "baku-gou-shou-ki",
+          "person": "kou-hon-shin-gen",
+          "role": "main",
+          "source_refs": [
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "ryoku-koku-shutsu-kyuu",
+          "person": "san-ka-tai-ki",
+          "role": "main",
+          "source_refs": [
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "banin",
+          "person": "ka-dai-bi-ri",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ]
+        },
+        {
+          "character": "kidou",
+          "person": "ko-tou-sei-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ]
+        },
+        {
+          "character": "onima",
+          "person": "na-ryou-tetsu",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ]
+        },
+        {
+          "character": "sha-den-un-ten-gan",
+          "person": "kou-sen-ou-sei",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ]
+        },
+        {
+          "character": "hotsu-moku-mei",
+          "person": "ou-sei-shiori",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ],
+          "credited_as": "櫻井しおり"
+        },
+        {
+          "character": "pawaroda",
+          "person": "hoku-taku-you",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%83%95%E3%81%AE%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%82%A2_%28%E3%82%A2%E3%83%8B%E3%83%A1%29",
+      "title": "僕のヒーローアカデミア (アニメ)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25667",
+      "title": "Warae! Jigoku no Yo ni - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E8%97%A4%E6%B5%A9%E5%BE%B3",
+      "title": "近藤浩徳",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s4",
+      "url": "https://web.archive.org/web/20220826234202/https://heroaca.com/originalanimationep/index.html",
+      "title": "「笑え！地獄のように」 | TVアニメ「僕のヒーローアカデミア」オリジナルアニメ (archived)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

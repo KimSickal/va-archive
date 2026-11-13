@@ -1,0 +1,35 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "gwak-gyu-mi",
+  "slug": "gwak-gyu-mi",
+  "name": {
+    "original_lang": "ko",
+    "original": "곽규미"
+  },
+  "gender": "female",
+  "birth": "1992-03-06",
+  "nationality": [
+    "KR"
+  ],
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EA%B3%BD%EA%B7%9C%EB%AF%B8"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B3%BD%EA%B7%9C%EB%AF%B8",
+      "title": "곽규미",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}
