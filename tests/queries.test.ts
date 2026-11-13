@@ -23,6 +23,10 @@ describe('search', () => {
     expect(search(db, '호시노')[0].entry.id).toBe('aoi-hoshino');
     expect(search(db, 'りん').some((h) => h.entry.id === 'star-knights/rin')).toBe(true);
   });
+  it('finds kanji-named persons by furigana reading (hiragana or katakana)', () => {
+    expect(search(db, 'ほしの')[0].entry.id).toBe('aoi-hoshino');
+    expect(search(db, 'ホシノアオイ')[0].entry.id).toBe('aoi-hoshino');
+  });
   it('hides spoiler characters unless exact match, then masks', () => {
     expect(search(db, 'ゼ').some((h) => h.entry.id.endsWith('masked-knight'))).toBe(false);
     const exact = search(db, 'ゼノ').find((h) => h.entry.id.endsWith('masked-knight'));
