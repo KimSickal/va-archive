@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "bu-wai-shi-shi",
+  "slug": "fumiko-takekuma",
+  "name": {
+    "original_lang": "ja",
+    "original": "武隈史子",
+    "latin": "Fumiko Takekuma",
+    "aliases": {
+      "ja": [
+        "たけくまふみこ"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1980",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E9%9A%88%E5%8F%B2%E5%AD%90"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E9%9A%88%E5%8F%B2%E5%AD%90",
+      "title": "武隈史子",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

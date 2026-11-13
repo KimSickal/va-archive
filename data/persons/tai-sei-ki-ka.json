@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "tai-sei-ki-ka",
+  "slug": "ayaka-onishi",
+  "name": {
+    "original_lang": "ja",
+    "original": "大西綺華",
+    "latin": "Ayaka Onishi",
+    "aliases": {
+      "ja": [
+        "おおにしあやか"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%A5%BF%E7%B6%BA%E8%8F%AF"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%A5%BF%E7%B6%BA%E8%8F%AF",
+      "title": "大西綺華",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

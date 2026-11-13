@@ -1,0 +1,906 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "my-hero-academia-movie-heroes-rising",
+  "franchise_id": "my-hero-academia",
+  "type": "anime_movie",
+  "title": {
+    "original_lang": "ja",
+    "original": "僕のヒーローアカデミア THE MOVIE ヒーローズ：ライジング",
+    "latin": "Boku no Hero Academia THE MOVIE: Heroes: Rising",
+    "official": {
+      "en": "My Hero Academia: Heroes Rising"
+    }
+  },
+  "order": 10,
+  "status": "finished",
+  "start_date": "2019-12-20",
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "ボンズ",
+      "latin": "Bones",
+      "official": {
+        "en": "Bones"
+      }
+    }
+  ],
+  "publishers": [
+    {
+      "original_lang": "ja",
+      "original": "東宝",
+      "latin": "Toho",
+      "official": {
+        "en": "Toho"
+      }
+    }
+  ],
+  "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/My_Hero_Academia:_Heroes_Rising"
+  },
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2019-12-20",
+      "credits": [
+        {
+          "character": "you-in-tou",
+          "person": "mei-chou-ka-shoku",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s3"
+          ]
+        },
+        {
+          "character": "endeva",
+          "person": "tou-den-tetsu",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "character": "hou-den-jitsu",
+          "person": "kou-kyou-ryou",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s5"
+          ]
+        },
+        {
+          "character": "orumaito",
+          "person": "san-taku-ken-ta",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "ro-ko-san-na",
+          "person": "ki-ta-son-ei-ri",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s7"
+          ]
+        },
+        {
+          "character": "hokusu",
+          "person": "chuu-son-yuu-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s8"
+          ]
+        },
+        {
+          "character": "hachi-hyaku-man-hyaku",
+          "person": "sei-jou-ma-ri-na",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s9"
+          ]
+        },
+        {
+          "character": "rai-ryo-han-ta",
+          "person": "ko-tou-sei-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "tou-dai-katsu-shin",
+          "person": "ji-ki-yuu-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s10"
+          ]
+        },
+        {
+          "character": "shou-taku-shou-ta",
+          "person": "shu-hou-bu-jun-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "ji-rou-kyou-kou",
+          "person": "shin-dou-kei",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "jou-an-tou-in",
+          "person": "sei-koku-ka-sei",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s11"
+          ]
+        },
+        {
+          "character": "gou-shou-tou",
+          "person": "bi-yuu-ki",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s12"
+          ]
+        },
+        {
+          "character": "baku-gou-shou-ki",
+          "person": "kou-hon-shin-gen",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s13"
+          ]
+        },
+        {
+          "character": "a-sui-bai-u",
+          "person": "yuu-boku-heki",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s14"
+          ]
+        },
+        {
+          "character": "shou-shi-moku-zou",
+          "person": "sei-den-ga-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "tou-dai-shin-kou",
+          "person": "koku-taku-tomoyo",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s15"
+          ]
+        },
+        {
+          "character": "rei-nichi-o-cha-shi",
+          "person": "sa-sou-ryou-on",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s16"
+          ]
+        },
+        {
+          "character": "jou-mei-den-ki",
+          "person": "hata-chuu-yuu",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s17"
+          ]
+        },
+        {
+          "character": "setsu-tou-ei-ji-rou",
+          "person": "zou-den-shun-ju",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s18"
+          ]
+        },
+        {
+          "character": "nain",
+          "person": "sei-jou-hou-yuu",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s19"
+          ]
+        },
+        {
+          "character": "han-den-ten-sai",
+          "person": "shaku-sen-kai-jin",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "ryoku-koku-shutsu-kyuu",
+          "person": "san-ka-tai-ki",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s20"
+          ]
+        },
+        {
+          "character": "kimera",
+          "person": "bu-dai-shun-fu",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s21"
+          ]
+        },
+        {
+          "character": "bi-haku-en-fu",
+          "person": "san-kou-kou-yuu",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "sei-san-yuu-ga",
+          "person": "sou-ya-kou-fu",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s22"
+          ]
+        },
+        {
+          "character": "sa-tou-ryoku-dou",
+          "person": "na-ryou-tetsu",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s6"
+          ]
+        },
+        {
+          "character": "kou-den-kou-shi",
+          "person": "ei-chou-taku-ba",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s23"
+          ]
+        },
+        {
+          "character": "suraisu",
+          "person": "kon-den-bi-ou",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s6"
+          ]
+        },
+        {
+          "character": "mami",
+          "person": "chou-kai-kou-fu",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s24"
+          ]
+        },
+        {
+          "character": "rokkurokku",
+          "person": "yasuhiro",
+          "role": "supporting",
+          "source_refs": [
+            "s25"
+          ]
+        },
+        {
+          "character": "kou-an-kan-bu",
+          "person": "san-dai-ken-shi",
+          "role": "minor",
+          "source_refs": [
+            "s26"
+          ]
+        },
+        {
+          "character": "hiro-kou-an-i-in-kai-kai-chou-2",
+          "person": "boku-ka-sa-ka",
+          "role": "minor",
+          "source_refs": [
+            "s27"
+          ]
+        },
+        {
+          "character": "jo-no-shi",
+          "person": "ka-moku-hi-sai",
+          "role": "minor",
+          "source_refs": [
+            "s28"
+          ]
+        },
+        {
+          "character": "jo-no-shi",
+          "person": "san-kon-ki",
+          "role": "minor",
+          "source_refs": [
+            "s29"
+          ]
+        },
+        {
+          "character": "katsu-shin-shin-kou-no-fu",
+          "person": "shou-hon-ho-ten",
+          "role": "supporting",
+          "source_refs": [
+            "s30"
+          ]
+        },
+        {
+          "character": "yaku-mei-nashi-1-2",
+          "person": "noguchiyuri",
+          "role": "minor",
+          "note": {
+            "original_lang": "ja",
+            "original": "出演者の出演作一覧に役名の記載がない。番号は一覧の掲載順。",
+            "translations": {
+              "ko": "출연자의 출연작 목록에 배역명이 없다. 번호는 목록 게재 순서.",
+              "en": "The actor's credits list gives no role name. Numbering follows listing order."
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s31"
+          ]
+        },
+        {
+          "character": "yaku-mei-nashi-2-2",
+          "person": "ho-juu-yuu-sai",
+          "role": "minor",
+          "note": {
+            "original_lang": "ja",
+            "original": "出演者の出演作一覧に役名の記載がない。番号は一覧の掲載順。",
+            "translations": {
+              "ko": "출연자의 출연작 목록에 배역명이 없다. 번호는 목록 게재 순서.",
+              "en": "The actor's credits list gives no role name. Numbering follows listing order."
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s32"
+          ]
+        },
+        {
+          "character": "yaku-mei-nashi-3-2",
+          "person": "ko-den-ichi-sei",
+          "role": "minor",
+          "note": {
+            "original_lang": "ja",
+            "original": "出演者の出演作一覧に役名の記載がない。番号は一覧の掲載順。",
+            "translations": {
+              "ko": "출연자의 출연작 목록에 배역명이 없다. 번호는 목록 게재 순서.",
+              "en": "The actor's credits list gives no role name. Numbering follows listing order."
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s33"
+          ]
+        },
+        {
+          "character": "yaku-mei-nashi-4-2",
+          "person": "an-den-shun",
+          "role": "minor",
+          "note": {
+            "original_lang": "ja",
+            "original": "出演者の出演作一覧に役名の記載がない。番号は一覧の掲載順。",
+            "translations": {
+              "ko": "출연자의 출연작 목록에 배역명이 없다. 번호는 목록 게재 순서.",
+              "en": "The actor's credits list gives no role name. Numbering follows listing order."
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s34"
+          ]
+        },
+        {
+          "character": "yaku-mei-nashi-5-2",
+          "person": "shin-sou-ken-ta",
+          "role": "minor",
+          "note": {
+            "original_lang": "ja",
+            "original": "出演者の出演作一覧に役名の記載がない。番号は一覧の掲載順。",
+            "translations": {
+              "ko": "출연자의 출연작 목록에 배역명이 없다. 번호는 목록 게재 순서.",
+              "en": "The actor's credits list gives no role name. Numbering follows listing order."
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s35"
+          ]
+        },
+        {
+          "character": "yaku-mei-nashi-6-2",
+          "person": "fuku-bu-sou-shi-kai",
+          "role": "minor",
+          "note": {
+            "original_lang": "ja",
+            "original": "出演者の出演作一覧に役名の記載がない。番号は一覧の掲載順。",
+            "translations": {
+              "ko": "출연자의 출연작 목록에 배역명이 없다. 번호는 목록 게재 순서.",
+              "en": "The actor's credits list gives no role name. Numbering follows listing order."
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s36"
+          ]
+        },
+        {
+          "character": "yaku-mei-nashi-7",
+          "person": "shou-gen-tai-ten",
+          "role": "minor",
+          "note": {
+            "original_lang": "ja",
+            "original": "出演者の出演作一覧に役名の記載がない。番号は一覧の掲載順。",
+            "translations": {
+              "ko": "출연자의 출연작 목록에 배역명이 없다. 번호는 목록 게재 순서.",
+              "en": "The actor's credits list gives no role name. Numbering follows listing order."
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s37"
+          ]
+        },
+        {
+          "character": "yaku-mei-nashi-8",
+          "person": "chiku-den-kai-to",
+          "role": "minor",
+          "note": {
+            "original_lang": "ja",
+            "original": "出演者の出演作一覧に役名の記載がない。番号は一覧の掲載順。",
+            "translations": {
+              "ko": "출연자의 출연작 목록에 배역명이 없다. 번호는 목록 게재 순서.",
+              "en": "The actor's credits list gives no role name. Numbering follows listing order."
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s38"
+          ]
+        },
+        {
+          "character": "yaku-mei-nashi-9",
+          "person": "koku-boku-you-jin",
+          "role": "minor",
+          "note": {
+            "original_lang": "ja",
+            "original": "出演者の出演作一覧に役名の記載がない。番号は一覧の掲載順。",
+            "translations": {
+              "ko": "출연자의 출연작 목록에 배역명이 없다. 번호는 목록 게재 순서.",
+              "en": "The actor's credits list gives no role name. Numbering follows listing order."
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s39"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%83%95%E3%81%AE%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%82%A2_%28%E3%82%A2%E3%83%8B%E3%83%A1%29",
+      "title": "僕のヒーローアカデミア (アニメ)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=22537",
+      "title": "My Hero Academia: Heroes Rising - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%A1%9A%E4%BD%B3%E7%B9%94",
+      "title": "名塚佳織",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s4",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A8%B2%E7%94%B0%E5%BE%B9",
+      "title": "稲田徹",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s5",
+      "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E6%A9%8B%E6%B6%BC",
+      "title": "広橋涼",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s6",
+      "url": "https://ja.wikipedia.org/wiki/%E5%83%95%E3%81%AE%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%82%A2",
+      "title": "僕のヒーローアカデミア",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s7",
+      "url": "https://ja.wikipedia.org/wiki/%E5%96%9C%E5%A4%9A%E6%9D%91%E8%8B%B1%E6%A2%A8",
+      "title": "喜多村英梨",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s8",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E6%82%A0%E4%B8%80",
+      "title": "中村悠一",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s9",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E9%BA%BB%E9%87%8C%E5%A5%88",
+      "title": "井上麻里奈",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s10",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AF%BA%E5%B4%8E%E8%A3%95%E9%A6%99",
+      "title": "寺崎裕香",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s11",
+      "url": "https://ja.wikipedia.org/wiki/%E7%B4%B0%E8%B0%B7%E4%BD%B3%E6%AD%A3",
+      "title": "細谷佳正",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s12",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A2%B6%E8%A3%95%E8%B2%B4",
+      "title": "梶裕貴",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s13",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%A1%E6%9C%AC%E4%BF%A1%E5%BD%A6",
+      "title": "岡本信彦",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s14",
+      "url": "https://ja.wikipedia.org/wiki/%E6%82%A0%E6%9C%A8%E7%A2%A7",
+      "title": "悠木碧",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s15",
+      "url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E6%B2%A2%E3%81%A8%E3%82%82%E3%82%88",
+      "title": "黒沢ともよ",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s16",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E5%80%89%E7%B6%BE%E9%9F%B3",
+      "title": "佐倉綾音",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s17",
+      "url": "https://ja.wikipedia.org/wiki/%E7%95%A0%E4%B8%AD%E7%A5%90",
+      "title": "畠中祐",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s18",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A2%97%E7%94%B0%E4%BF%8A%E6%A8%B9",
+      "title": "増田俊樹",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s19",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E8%8A%B3%E9%9B%84",
+      "title": "井上芳雄",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s20",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E4%B8%8B%E5%A4%A7%E8%BC%9D",
+      "title": "山下大輝",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s21",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E5%86%85%E9%A7%BF%E8%BC%94",
+      "title": "武内駿輔",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s22",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A1%91%E9%87%8E%E6%99%83%E8%BC%94",
+      "title": "桑野晃輔",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s23",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B0%B8%E5%A1%9A%E6%8B%93%E9%A6%AC",
+      "title": "永塚拓馬",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s24",
+      "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E6%B5%B7%E6%B5%A9%E8%BC%94",
+      "title": "鳥海浩輔",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s25",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%82%B9%E3%83%92%E3%83%AD",
+      "title": "ヤスヒロ",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s26",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%86%85%E5%81%A5%E5%97%A3",
+      "title": "山内健嗣",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s27",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%A8%E4%B8%8B%E7%B4%97%E8%8F%AF",
+      "title": "木下紗華",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s28",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%8F%E7%9B%AE%E5%A6%83%E8%8F%9C",
+      "title": "夏目妃菜",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s29",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%A0%B9%E7%B6%BA",
+      "title": "山根綺",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s30",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%9C%AC%E4%BF%9D%E5%85%B8",
+      "title": "松本保典",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s31",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%AE%E3%81%90%E3%81%A1%E3%82%86%E3%82%8A",
+      "title": "のぐちゆり",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s32",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BF%9D%E4%BD%8F%E6%9C%89%E5%93%89",
+      "title": "保住有哉",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s33",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E7%94%B0%E4%B8%80%E6%99%9F",
+      "title": "古田一晟",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s34",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%89%E7%94%B0%E9%A7%BF",
+      "title": "安田駿",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s35",
+      "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%80%89%E5%81%A5%E5%A4%AA",
+      "title": "新倉健太",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s36",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%8D%E9%83%A8%E6%83%B3%E4%B9%8B%E4%BB%8B",
+      "title": "服部想之介",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s37",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%8E%9F%E5%A4%A7%E5%85%B8",
+      "title": "松原大典",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s38",
+      "url": "https://ja.wikipedia.org/wiki/%E7%AB%B9%E7%94%B0%E6%B5%B7%E6%B8%A1",
+      "title": "竹田海渡",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s39",
+      "url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E6%9C%A8%E9%99%BD%E4%BA%BA",
+      "title": "黒木陽人",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

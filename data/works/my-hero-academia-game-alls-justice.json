@@ -1,0 +1,1075 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "my-hero-academia-game-alls-justice",
+  "franchise_id": "my-hero-academia",
+  "type": "game",
+  "title": {
+    "original_lang": "ja",
+    "original": "僕のヒーローアカデミア All's Justice",
+    "latin": "Boku no Hero Academia All's Justice",
+    "official": {
+      "en": "My Hero Academia: All's Justice"
+    }
+  },
+  "order": 37,
+  "status": "released",
+  "start_date": "2026-02-05",
+  "developers": [
+    {
+      "original_lang": "ja",
+      "original": "バイキング",
+      "latin": "Byking",
+      "official": {
+        "en": "Byking"
+      }
+    }
+  ],
+  "platforms": [
+    "ps5",
+    "xbox_series",
+    "pc",
+    "switch2"
+  ],
+  "publishers": [
+    {
+      "original_lang": "ja",
+      "original": "バンダイナムコエンターテインメント",
+      "latin": "Bandai Namco Entertainment",
+      "official": {
+        "en": "Bandai Namco Entertainment"
+      }
+    }
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "credits": [
+        {
+          "character": "motsu-kan-nei-jin",
+          "person": "ten-ki-kou-hei",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s4"
+          ]
+        },
+        {
+          "character": "mr-konpuresu",
+          "person": "sai-jou-shi-sei",
+          "role": "supporting",
+          "source_refs": [
+            "s5",
+            "s6"
+          ]
+        },
+        {
+          "character": "koku-mu",
+          "person": "sai-jou-shi-sei",
+          "role": "supporting",
+          "part": "substitute",
+          "note": {
+            "original_lang": "ja",
+            "original": "藤原貴弘の健康上の理由により、本作では最上嗣生が黒霧役を担当",
+            "translations": {
+              "ko": "후지와라 다카히로의 건강상 이유로 이 작품에서는 모가미 츠구오가 쿠로기리 역을 담당",
+              "en": "Tsuguo Mogami voices Kurogiri in this game due to Takahiro Fujiwara's health"
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s6",
+            "s7"
+          ]
+        },
+        {
+          "character": "oru-fo-wan",
+          "person": "tai-chou-mei-fu",
+          "role": "supporting",
+          "source_refs": [
+            "s8"
+          ]
+        },
+        {
+          "character": "orumaito",
+          "person": "san-taku-ken-ta",
+          "role": "main",
+          "source_refs": [
+            "s9"
+          ]
+        },
+        {
+          "character": "besutojinisuto",
+          "person": "ryoku-sen-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s10"
+          ]
+        },
+        {
+          "character": "gen-ken-kemi",
+          "person": "bou-gen-jitsu-ri",
+          "role": "supporting",
+          "source_refs": [
+            "s11"
+          ]
+        },
+        {
+          "character": "to-hi",
+          "person": "ka-ya-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s12"
+          ]
+        },
+        {
+          "character": "jou-mei-den-ki",
+          "person": "hata-chuu-yuu",
+          "role": "supporting",
+          "source_refs": [
+            "s13"
+          ]
+        },
+        {
+          "character": "ejjishotto",
+          "person": "ren-gai-ken-ta",
+          "role": "supporting",
+          "source_refs": [
+            "s14"
+          ]
+        },
+        {
+          "character": "setsu-tou-ei-ji-rou",
+          "person": "zou-den-shun-ju",
+          "role": "supporting",
+          "source_refs": [
+            "s15"
+          ]
+        },
+        {
+          "character": "endeva",
+          "person": "tou-den-tetsu",
+          "role": "supporting",
+          "source_refs": [
+            "s16"
+          ]
+        },
+        {
+          "character": "shou-taku-shou-ta",
+          "person": "shu-hou-bu-jun-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s17"
+          ]
+        },
+        {
+          "character": "fattogamu",
+          "person": "kyou-shin-wa-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s18"
+          ]
+        },
+        {
+          "character": "jou-an-tou-in",
+          "person": "sei-koku-ka-sei",
+          "role": "supporting",
+          "source_refs": [
+            "s19"
+          ]
+        },
+        {
+          "character": "gyanguoruka",
+          "person": "shou-den-shuu-hei",
+          "role": "supporting",
+          "source_refs": [
+            "s20"
+          ]
+        },
+        {
+          "character": "jentoru-kuriminaru",
+          "person": "san-ji-kou-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s21"
+          ]
+        },
+        {
+          "character": "raburaba",
+          "person": "kutsu-kou-yuu-i",
+          "role": "supporting",
+          "source_refs": [
+            "s21"
+          ]
+        },
+        {
+          "character": "gurantorino",
+          "person": "sho-hou-ken-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s22"
+          ]
+        },
+        {
+          "character": "rai-ryo-han-ta",
+          "person": "ko-tou-sei-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s23"
+          ]
+        },
+        {
+          "character": "hokusu",
+          "person": "chuu-son-yuu-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s24"
+          ]
+        },
+        {
+          "character": "togahimiko",
+          "person": "fuku-en-bi-ri",
+          "role": "supporting",
+          "source_refs": [
+            "s25"
+          ]
+        },
+        {
+          "character": "shin-sou-jin-shi",
+          "person": "u-ta-ya-shou",
+          "role": "supporting",
+          "source_refs": [
+            "s26"
+          ]
+        },
+        {
+          "character": "ya-ran-inasa",
+          "person": "gan-ki-ryou-ta",
+          "role": "supporting",
+          "source_refs": [
+            "s27"
+          ]
+        },
+        {
+          "character": "ken-tou-ichi-ka",
+          "person": "shou-ryuu-gen-sou-ki",
+          "role": "supporting",
+          "source_refs": [
+            "s28"
+          ]
+        },
+        {
+          "character": "ryoku-koku-shutsu-kyuu",
+          "person": "san-ka-tai-ki",
+          "role": "main",
+          "source_refs": [
+            "s29"
+          ]
+        },
+        {
+          "character": "obahoru",
+          "person": "shin-den-ken-ji-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s30"
+          ]
+        },
+        {
+          "character": "baku-gou-shou-ki",
+          "person": "kou-hon-shin-gen",
+          "role": "main",
+          "source_refs": [
+            "s31"
+          ]
+        },
+        {
+          "character": "ran-ha-ken-dou",
+          "person": "bi-sen-shou-hei",
+          "role": "supporting",
+          "source_refs": [
+            "s32"
+          ]
+        },
+        {
+          "character": "kou-den-kou-shi",
+          "person": "ei-chou-taku-ba",
+          "role": "supporting",
+          "source_refs": [
+            "s33"
+          ]
+        },
+        {
+          "character": "ji-rou-kyou-kou",
+          "person": "shin-dou-kei",
+          "role": "supporting",
+          "source_refs": [
+            "s34"
+          ]
+        },
+        {
+          "character": "redi-nagan",
+          "person": "shu-ki-ton-bi",
+          "role": "supporting",
+          "source_refs": [
+            "s35"
+          ]
+        },
+        {
+          "character": "bi-haku-en-fu",
+          "person": "san-kou-kou-yuu",
+          "role": "supporting",
+          "source_refs": [
+            "s36"
+          ]
+        },
+        {
+          "character": "hotsu-moku-mei",
+          "person": "ou-sei-shiori",
+          "role": "supporting",
+          "source_refs": [
+            "s37"
+          ]
+        },
+        {
+          "character": "shou-shi-moku-zou",
+          "person": "sei-den-ga-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s38"
+          ]
+        },
+        {
+          "character": "middonaito",
+          "person": "to-hen-mei-dai",
+          "role": "supporting",
+          "source_refs": [
+            "s39"
+          ]
+        },
+        {
+          "character": "ro-ko-san-na",
+          "person": "ki-ta-son-ei-ri",
+          "role": "supporting",
+          "source_refs": [
+            "s40"
+          ]
+        },
+        {
+          "character": "hou-den-jitsu",
+          "person": "kou-kyou-ryou",
+          "role": "supporting",
+          "source_refs": [
+            "s41"
+          ]
+        },
+        {
+          "character": "tsuu-kei-mirio",
+          "person": "shin-en-son-jo",
+          "role": "supporting",
+          "source_refs": [
+            "s42"
+          ]
+        },
+        {
+          "character": "miruko",
+          "person": "boku-ka-sa-ka",
+          "role": "supporting",
+          "source_refs": [
+            "s43"
+          ]
+        },
+        {
+          "character": "hachi-hyaku-man-hyaku",
+          "person": "sei-jou-ma-ri-na",
+          "role": "supporting",
+          "source_refs": [
+            "s44"
+          ]
+        },
+        {
+          "character": "masukyura",
+          "person": "kou-kou-kou-kai",
+          "role": "supporting",
+          "source_refs": [
+            "s45"
+          ]
+        },
+        {
+          "character": "shi-son-sai-na",
+          "person": "en-ki-mi-kei",
+          "role": "supporting",
+          "source_refs": [
+            "s46"
+          ]
+        },
+        {
+          "character": "ha-dou-nejire",
+          "person": "an-ya-ki-se-dai",
+          "role": "supporting",
+          "source_refs": [
+            "s47"
+          ]
+        },
+        {
+          "character": "rei-nichi-o-cha-shi",
+          "person": "sa-sou-ryou-on",
+          "role": "main",
+          "source_refs": [
+            "s48"
+          ]
+        },
+        {
+          "character": "purezento-maiku",
+          "person": "kichi-ya-yuu-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s49"
+          ]
+        },
+        {
+          "character": "sa-tou-ryoku-dou",
+          "person": "na-ryou-tetsu",
+          "role": "supporting",
+          "source_refs": [
+            "s50"
+          ]
+        },
+        {
+          "character": "niku-sou-sei-ji",
+          "person": "ko-sen-shin",
+          "role": "supporting",
+          "source_refs": [
+            "s51"
+          ]
+        },
+        {
+          "character": "gou-shou-tou",
+          "person": "bi-yuu-ki",
+          "role": "main",
+          "source_refs": [
+            "s52"
+          ]
+        },
+        {
+          "character": "sa-naitoai",
+          "person": "san-boku-shin-ichi-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s53"
+          ]
+        },
+        {
+          "character": "sutein",
+          "person": "sei-jou-gou",
+          "role": "supporting",
+          "source_refs": [
+            "s54"
+          ]
+        },
+        {
+          "character": "sutaandosutoraipu",
+          "person": "boku-ro-bi",
+          "role": "supporting",
+          "source_refs": [
+            "s55"
+          ]
+        },
+        {
+          "character": "ten-kuu-kan",
+          "person": "jou-son-yuu-shou",
+          "role": "supporting",
+          "source_refs": [
+            "s56"
+          ]
+        },
+        {
+          "character": "han-den-ten-sai",
+          "person": "shaku-sen-kai-jin",
+          "role": "main",
+          "source_refs": [
+            "s57"
+          ]
+        },
+        {
+          "character": "tetsu-tetsu-tetsu-tetsu",
+          "person": "chuu-ya-kou-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s58"
+          ]
+        },
+        {
+          "character": "shi-hei-boku-chou",
+          "person": "dai-san-kou-ki",
+          "role": "supporting",
+          "source_refs": [
+            "s59"
+          ]
+        },
+        {
+          "character": "you-in-tou",
+          "person": "mei-chou-ka-shoku",
+          "role": "supporting",
+          "source_refs": [
+            "s60"
+          ]
+        },
+        {
+          "character": "a-sui-bai-u",
+          "person": "yuu-boku-heki",
+          "role": "supporting",
+          "source_refs": [
+            "s61"
+          ]
+        },
+        {
+          "character": "tuwaisu",
+          "person": "en-tou-tai-chi",
+          "role": "supporting",
+          "source_refs": [
+            "s62"
+          ]
+        },
+        {
+          "character": "sei-san-yuu-ga",
+          "person": "sou-ya-kou-fu",
+          "role": "supporting",
+          "source_refs": [
+            "s63"
+          ]
+        }
+      ],
+      "release_date": "2026-02-05"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%83%95%E3%81%AE%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%82%A2",
+      "title": "僕のヒーローアカデミア",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://mhaaj.bn-ent.net/character/all.php",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s3",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=neito_monoma",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (neito_monoma)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s4",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A9%EF%A8%91%E6%BB%89%E5%B9%B3",
+      "title": "天﨑滉平",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s5",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=mr_compress",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (mr_compress)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s6",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%80%E4%B8%8A%E5%97%A3%E7%94%9F",
+      "title": "最上嗣生",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s7",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=kurogiri",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (kurogiri)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s8",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=all_for_one-01",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (all_for_one-01)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s9",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=all_might-01",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (all_might-01)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s10",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=best_jeanist",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (best_jeanist)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s11",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=camie_utsushimi",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (camie_utsushimi)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s12",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=dabi-01",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (dabi-01)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s13",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=denki_kaminari",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (denki_kaminari)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s14",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=edge_shot",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (edge_shot)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s15",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=eijiro_kirishima",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (eijiro_kirishima)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s16",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=endeavor",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (endeavor)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s17",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=eraser_head",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (eraser_head)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s18",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=fatgum",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (fatgum)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s19",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=fumikage_tokoyami",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (fumikage_tokoyami)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s20",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=gang_orca",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (gang_orca)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s21",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=gentle-la_brava",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (gentle-la_brava)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s22",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=gran_torino",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (gran_torino)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s23",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=hanta_sero",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (hanta_sero)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s24",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=hawks",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (hawks)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s25",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=himiko_toga",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (himiko_toga)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s26",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=hitoshi_shinso",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (hitoshi_shinso)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s27",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=inasa_yoarashi",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (inasa_yoarashi)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s28",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=itsuka_kendo",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (itsuka_kendo)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s29",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=izuku_midoriya-01",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (izuku_midoriya-01)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s30",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=kai_chisaki",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (kai_chisaki)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s31",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=katsuki_bakugo",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (katsuki_bakugo)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s32",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=kendo_rappa",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (kendo_rappa)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s33",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=koji_koda",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (koji_koda)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s34",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=kyoka_jiro",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (kyoka_jiro)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s35",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=lady_nagant",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (lady_nagant)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s36",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=mashirao_ojiro",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (mashirao_ojiro)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s37",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=mei_hatsume",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (mei_hatsume)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s38",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=mezo_shoji",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (mezo_shoji)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s39",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=midnight",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (midnight)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s40",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=mina_ashido",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (mina_ashido)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s41",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=minoru_mineta",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (minoru_mineta)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s42",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=mirio_togata",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (mirio_togata)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s43",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=mirko",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (mirko)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s44",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=momo_yaoyorozu",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (momo_yaoyorozu)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s45",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=muscular",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (muscular)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s46",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=nana_shimura",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (nana_shimura)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s47",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=nejire_hado",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (nejire_hado)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s48",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=ochaco_uraraka",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (ochaco_uraraka)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s49",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=present_mic",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (present_mic)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s50",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=rikido_sato",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (rikido_sato)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s51",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=seiji_shishikura",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (seiji_shishikura)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s52",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=shoto_todoroki",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (shoto_todoroki)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s53",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=sir_night_eye",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (sir_night_eye)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s54",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=stain",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (stain)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s55",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=star_and_stripe",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (star_and_stripe)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s56",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=tamaki_amajiki",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (tamaki_amajiki)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s57",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=tenya_iida",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (tenya_iida)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s58",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=tetsutetsu_tetsutetsu",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (tetsutetsu_tetsutetsu)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s59",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=tomura_shigaraki-01",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (tomura_shigaraki-01)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s60",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=toru_hagakure",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (toru_hagakure)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s61",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=tsuyu_asui",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (tsuyu_asui)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s62",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=twice",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (twice)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s63",
+      "url": "https://mhaaj.bn-ent.net/character/?chara=yuga_aoyama",
+      "title": "CHARACTER | 僕のヒーローアカデミア All's Justice | バンダイナムコエンターテインメント公式サイト (yuga_aoyama)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

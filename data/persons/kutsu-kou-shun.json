@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kutsu-kou-shun",
+  "slug": "shun-horie",
+  "name": {
+    "original_lang": "ja",
+    "original": "堀江瞬",
+    "latin": "Shun Horie",
+    "official": {
+      "en": "Shun Horie"
+    },
+    "aliases": {
+      "ja": [
+        "ほりえしゅん"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1993",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%A0%80%E6%B1%9F%E7%9E%AC",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%98%B8%EB%A6%AC%EC%97%90_%EC%8A%8C",
+    "en": "https://en.wikipedia.org/wiki/Shun_Horie"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A0%80%E6%B1%9F%E7%9E%AC",
+      "title": "堀江瞬",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "san-boku-ichi-shin",
+  "slug": "kazuma-miki",
+  "name": {
+    "original_lang": "ja",
+    "original": "三木一眞",
+    "latin": "Kazuma Miki",
+    "aliases": {
+      "ja": [
+        "みきかずま"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "2005",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%B8%89%E6%9C%A8%E4%B8%80%E7%9C%9E"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E6%9C%A8%E4%B8%80%E7%9C%9E",
+      "title": "三木一眞",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

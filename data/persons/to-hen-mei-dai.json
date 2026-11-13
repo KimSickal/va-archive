@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "to-hen-mei-dai",
+  "slug": "akeno-watanabe",
+  "name": {
+    "original_lang": "ja",
+    "original": "渡辺明乃",
+    "latin": "Akeno Watanabe",
+    "official": {
+      "en": "Akeno Watanabe"
+    },
+    "aliases": {
+      "ja": [
+        "わたなべあけの"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1982",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%B8%A1%E8%BE%BA%E6%98%8E%E4%B9%83",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%99%80%ED%83%80%EB%82%98%EB%B2%A0_%EC%95%84%EC%BC%80%EB%85%B8",
+    "en": "https://en.wikipedia.org/wiki/Akeno_Watanabe"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%A1%E8%BE%BA%E6%98%8E%E4%B9%83",
+      "title": "渡辺明乃",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

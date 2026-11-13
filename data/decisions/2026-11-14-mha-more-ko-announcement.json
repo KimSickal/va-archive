@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/decision.schema.json",
+  "id": "2026-11-14-mha-more-ko-announcement",
+  "date": "2026-11-14",
+  "kind": "naming",
+  "subjects": [
+    {
+      "kind": "character",
+      "id": "my-hero-academia/an-nae-bang-song"
+    },
+    {
+      "kind": "character",
+      "id": "my-hero-academia/train-announcement"
+    },
+    {
+      "kind": "credit",
+      "id": "my-hero-academia-more#ko-daewon#30"
+    }
+  ],
+  "decision": "More 한국어 '안내방송'(주현민)은 일본어판 ANN 'Train Announcement'(星祐樹)와 같은 배역으로 판단. 크레딧을 train-announcement로 옮기고 train-announcement에 official.ko '안내방송'을 추가, 한국어 독자 캐릭터 an-nae-bang-song은 삭제. '의사'(최원균, ui-sa)는 일본어판 대응 크레딧이 없어 그대로 둠.",
+  "rationale": "한 회짜리 TVSP에서 안내 방송 역은 원판 ANN 목록의 Train Announcement 한 건뿐이다. 더빙 캐릭터는 원판 캐릭터를 공유해야 한다. 의사는 애니 오리지널 장면(오차코가 의사와 상담, Fandom Episode 171 'Anime & Manga Differences')에 나오지만 ANN 일본어 36건에 대응 배역이 없어 일본어 표기를 정할 출처가 없다.",
+  "evidence": [
+    {
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=38146",
+      "quote": "Narration: Hiroyuki Yoshino / Train Announcement: Yūki Hoshi",
+      "tier": 2
+    },
+    {
+      "url": "https://m.cafe.daum.net/CastingBank/5AC4/277",
+      "quote": "황창영 - 카미나리 / 프레젠트 마이크 役 … 최원균 - 의사 役 / 주현민 - 안내방송 役",
+      "tier": 3
+    },
+    {
+      "url": "https://myheroacademia.fandom.com/wiki/Episode_171",
+      "quote": "The anime includes the moment of Ochaco speaking with the doctor about her dreams of Himiko",
+      "tier": 3
+    }
+  ],
+  "decided_by": "mediator"
+}

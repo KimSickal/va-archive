@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shaku-sei-kou-shi",
+  "slug": "koji-ishii",
+  "name": {
+    "original_lang": "ja",
+    "original": "石井康嗣",
+    "latin": "Koji Ishii",
+    "official": {
+      "en": "Koji Ishii"
+    },
+    "aliases": {
+      "ja": [
+        "いしいこうじ"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1960",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E4%BA%95%E5%BA%B7%E5%97%A3",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%8B%9C%EC%9D%B4_%EC%BD%94%EC%A7%80",
+    "en": "https://en.wikipedia.org/wiki/K%C5%8Dji_Ishii"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E4%BA%95%E5%BA%B7%E5%97%A3",
+      "title": "石井康嗣",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

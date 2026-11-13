@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "tai-kuu-choku-bi",
+  "slug": "naomi-ozora",
+  "name": {
+    "original_lang": "ja",
+    "original": "大空直美",
+    "latin": "Naomi Ozora",
+    "official": {
+      "en": "Naomi Ozora"
+    },
+    "aliases": {
+      "ja": [
+        "おおぞらなおみ"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1989",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%A9%BA%E7%9B%B4%E7%BE%8E",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%98%A4%EC%A1%B0%EB%9D%BC_%EB%82%98%EC%98%A4%EB%AF%B8",
+    "en": "https://en.wikipedia.org/wiki/Naomi_%C5%8Czora"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%A9%BA%E7%9B%B4%E7%BE%8E",
+      "title": "大空直美",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

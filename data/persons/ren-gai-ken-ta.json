@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ren-gai-ken-ta",
+  "slug": "kenta-kamakari",
+  "name": {
+    "original_lang": "ja",
+    "original": "鎌苅健太",
+    "latin": "Kenta Kamakari",
+    "official": {
+      "en": "Kenta Kamakari"
+    },
+    "aliases": {
+      "ja": [
+        "かまかりけんた"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1984",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%8E%8C%E8%8B%85%E5%81%A5%E5%A4%AA",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%B9%B4%EB%A7%88%EC%B9%B4%EB%A6%AC_%EC%BC%84%ED%83%80",
+    "en": "https://en.wikipedia.org/wiki/Kenta_Kamakari"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%8E%8C%E8%8B%85%E5%81%A5%E5%A4%AA",
+      "title": "鎌苅健太",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

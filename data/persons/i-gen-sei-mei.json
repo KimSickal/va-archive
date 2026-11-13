@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "i-gen-sei-mei",
+  "slug": "masaaki-ihara",
+  "name": {
+    "original_lang": "ja",
+    "original": "伊原正明",
+    "latin": "Masaaki Ihara",
+    "aliases": {
+      "ja": [
+        "いはらまさあき"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E5%8E%9F%E6%AD%A3%E6%98%8E"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E5%8E%9F%E6%AD%A3%E6%98%8E",
+      "title": "伊原正明",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

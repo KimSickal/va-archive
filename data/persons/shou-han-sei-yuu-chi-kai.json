@@ -1,0 +1,45 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shou-han-sei-yuu-chi-kai",
+  "slug": "yurie-kozakai",
+  "name": {
+    "original_lang": "ja",
+    "original": "小坂井祐莉絵",
+    "latin": "Yurie Kozakai",
+    "official": {
+      "en": "Yurie Kozakai"
+    },
+    "aliases": {
+      "ja": [
+        "こざかいゆりえ"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1995",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%9D%82%E4%BA%95%E7%A5%90%E8%8E%89%E7%B5%B5",
+    "en": "https://en.wikipedia.org/wiki/Yurie_Kozakai"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%9D%82%E4%BA%95%E7%A5%90%E8%8E%89%E7%B5%B5",
+      "title": "小坂井祐莉絵",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

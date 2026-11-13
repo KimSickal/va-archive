@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "koku-san-ki-shou",
+  "slug": "kisho-taniyama",
+  "name": {
+    "original_lang": "ja",
+    "original": "谷山紀章",
+    "latin": "Kisho Taniyama",
+    "official": {
+      "en": "Kisho Taniyama"
+    },
+    "aliases": {
+      "ja": [
+        "たにやまきしょう"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1975",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E8%B0%B7%E5%B1%B1%E7%B4%80%E7%AB%A0",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%83%80%EB%8B%88%EC%95%BC%EB%A7%88_%ED%82%A4%EC%87%BC",
+    "en": "https://en.wikipedia.org/wiki/Kish%C5%8D_Taniyama"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E8%B0%B7%E5%B1%B1%E7%B4%80%E7%AB%A0",
+      "title": "谷山紀章",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

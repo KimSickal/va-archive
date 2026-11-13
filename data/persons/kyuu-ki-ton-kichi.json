@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kyuu-ki-ton-kichi",
+  "slug": "atsuyoshi-miyazaki",
+  "name": {
+    "original_lang": "ja",
+    "original": "宮崎敦吉",
+    "latin": "Atsuyoshi Miyazaki",
+    "aliases": {
+      "ja": [
+        "みやざきあつよし"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1966",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%B4%8E%E6%95%A6%E5%90%89"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%B4%8E%E6%95%A6%E5%90%89",
+      "title": "宮崎敦吉",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

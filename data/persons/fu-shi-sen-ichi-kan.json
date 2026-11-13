@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "fu-shi-sen-ichi-kan",
+  "slug": "kazuhiro-fusegawa",
+  "name": {
+    "original_lang": "ja",
+    "original": "布施川一寛",
+    "latin": "Kazuhiro Fusegawa",
+    "aliases": {
+      "ja": [
+        "ふせがわかずひろ"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%B8%83%E6%96%BD%E5%B7%9D%E4%B8%80%E5%AF%9B"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B8%83%E6%96%BD%E5%B7%9D%E4%B8%80%E5%AF%9B",
+      "title": "布施川一寛",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

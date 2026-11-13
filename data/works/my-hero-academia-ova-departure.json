@@ -1,0 +1,68 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "my-hero-academia-ova-departure",
+  "franchise_id": "my-hero-academia",
+  "type": "anime_ova",
+  "title": {
+    "original_lang": "ja",
+    "original": "旅立ち",
+    "aliases": {
+      "ja": [
+        "僕のヒーローアカデミア THE MOVIE ワールド ヒーローズ ミッション≪旅立ち≫"
+      ]
+    }
+  },
+  "order": 13.5,
+  "status": "finished",
+  "start_date": "2022-02-16",
+  "episodes": 1,
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "ボンズ",
+      "latin": "Bones",
+      "official": {
+        "en": "Bones"
+      }
+    }
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2022-02-16",
+      "credits": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://dengekionline.com/articles/108682/",
+      "title": "劇場版『ヒロアカ』限定版BD＆DVDの特典にオリジナルアニメが収録!!",
+      "publisher": "news",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.7.0"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "chiku-den-kai-to",
+  "slug": "kaito-takeda",
+  "name": {
+    "original_lang": "ja",
+    "original": "竹田海渡",
+    "latin": "Kaito Takeda",
+    "aliases": {
+      "ja": [
+        "たけだかいと"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%AB%B9%E7%94%B0%E6%B5%B7%E6%B8%A1"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%AB%B9%E7%94%B0%E6%B5%B7%E6%B8%A1",
+      "title": "竹田海渡",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.7.0"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kou-kyou-suu-shi",
+  "slug": "hinako-takahashi",
+  "name": {
+    "original_lang": "ja",
+    "original": "高橋雛子",
+    "latin": "Hinako Takahashi",
+    "aliases": {
+      "ja": [
+        "たかはしひなこ"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%A9%8B%E9%9B%9B%E5%AD%90"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%A9%8B%E9%9B%9B%E5%AD%90",
+      "title": "高橋雛子",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

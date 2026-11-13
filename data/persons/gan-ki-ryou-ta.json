@@ -1,0 +1,45 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "gan-ki-ryou-ta",
+  "slug": "ryota-iwasaki",
+  "name": {
+    "original_lang": "ja",
+    "original": "岩崎諒太",
+    "latin": "Ryota Iwasaki",
+    "official": {
+      "en": "Ryota Iwasaki"
+    },
+    "aliases": {
+      "ja": [
+        "いわさきりょうた"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1986",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E5%B4%8E%E8%AB%92%E5%A4%AA",
+    "en": "https://en.wikipedia.org/wiki/Ryota_Iwasaki"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E5%B4%8E%E8%AB%92%E5%A4%AA",
+      "title": "岩崎諒太",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

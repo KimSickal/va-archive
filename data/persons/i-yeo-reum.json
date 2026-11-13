@@ -1,0 +1,27 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "i-yeo-reum",
+  "slug": "i-yeo-reum",
+  "name": {
+    "original_lang": "ko",
+    "original": "이여름"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://m.cafe.daum.net/CastingBank/5AC4/277",
+      "title": "[애니박스] '나의 히어로 아카데미아 FINAL SEASON No.170+1「More」' 성우진 - 애니박스 만화 성우진 - 캐스팅뱅크[한국성우DB카페]",
+      "publisher": "other",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.7.0"
+  }
+}

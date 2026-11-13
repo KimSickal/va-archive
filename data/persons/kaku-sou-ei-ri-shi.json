@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kaku-sou-ei-ri-shi",
+  "slug": "eriko-kadokura",
+  "name": {
+    "original_lang": "ja",
+    "original": "角倉英里子",
+    "latin": "Eriko Kadokura",
+    "aliases": {
+      "ja": [
+        "かどくらえりこ"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E8%A7%92%E5%80%89%E8%8B%B1%E9%87%8C%E5%AD%90"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A7%92%E5%80%89%E8%8B%B1%E9%87%8C%E5%AD%90",
+      "title": "角倉英里子",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

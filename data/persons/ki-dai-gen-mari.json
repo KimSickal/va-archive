@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ki-dai-gen-mari",
+  "slug": "mari-kiyohara",
+  "name": {
+    "original_lang": "ja",
+    "original": "喜代原まり",
+    "latin": "Mari Kiyohara",
+    "aliases": {
+      "ja": [
+        "きよはらまり"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%96%9C%E4%BB%A3%E5%8E%9F%E3%81%BE%E3%82%8A"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%96%9C%E4%BB%A3%E5%8E%9F%E3%81%BE%E3%82%8A",
+      "title": "喜代原まり",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

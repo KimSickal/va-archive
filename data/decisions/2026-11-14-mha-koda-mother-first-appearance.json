@@ -1,0 +1,42 @@
+{
+  "$schema": "../schema/decision.schema.json",
+  "id": "2026-11-14-mha-koda-mother-first-appearance",
+  "date": "2026-11-14",
+  "kind": "field_value",
+  "subjects": [
+    {
+      "kind": "character",
+      "id": "my-hero-academia/kou-den-no-bo",
+      "field": "/first_appearance"
+    },
+    {
+      "kind": "credit",
+      "id": "my-hero-academia-s2#ko-daewon#63"
+    },
+    {
+      "kind": "work",
+      "id": "my-hero-academia-s7",
+      "field": "/versions/1/credits"
+    }
+  ],
+  "decision": "S2 한국어 '코다엄마'(김은연=김보나)는 口田の母와 같은 캐릭터로 확정, 크레딧 유지. kou-den-no-bo의 first_appearance를 s7 → s2로 변경. S7 한국어판에 口田の母 / 김보나 크레딧을 assumption continued_cast로 추가(출처 s111 CastingBank S2 + s104 나무 S7, unverified). S2 일본어판 크레딧은 출처가 없어 추가하지 않음.",
+  "rationale": "ANN S2(TV 2) 영어 캐스트에 'Amanda Gish as Koda's Mom (ep 36)'이 있어 口田の母가 S2 36화(한국 2기 23화)에 목소리로 등장한다. 한국 23화 크레딧 '김은연 - 코다엄마 役'과 회차가 맞는다(Fandom: 합격 축하 장면, chap 66 / ep 36). 渡辺明乃 ja.wikipedia는 ep152만 적고 있어 일본어 S2 성우는 Tier 1~2로 확인되지 않음. S7 일본어판에 口田の母가 크레딧되어 있고 한국어 S7에서 성우 교체 언급이 없으므로 '추정으로 넣는 배역' continued_cast 규칙을 적용(직전 한국어 성우 = S2 김보나).",
+  "evidence": [
+    {
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18485",
+      "quote": "Amanda Gish as Koda's Mom (ep 36)",
+      "tier": 2
+    },
+    {
+      "url": "https://m.cafe.daum.net/CastingBank/5AC4/191",
+      "quote": "23화 한꺼풀 벗어라 … 김은연 - 코다엄마 役",
+      "tier": 3
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%A1%E8%BE%BA%E6%98%8E%E4%B9%83",
+      "quote": "口田の母{{ep|152}}",
+      "tier": 2
+    }
+  ],
+  "decided_by": "mediator"
+}

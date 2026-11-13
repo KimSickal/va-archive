@@ -1,0 +1,6261 @@
+{
+  "$schema": "../schema/franchise.schema.json",
+  "id": "my-hero-academia",
+  "title": {
+    "original_lang": "ja",
+    "original": "僕のヒーローアカデミア",
+    "latin": "Boku no Hero Academia",
+    "official": {
+      "en": "My Hero Academia"
+    },
+    "aliases": {
+      "ja": [
+        "ヒロアカ",
+        "ぼくのひーろーあかでみあ"
+      ],
+      "ko": [
+        "나의 히어로 아카데미아",
+        "히로아카"
+      ]
+    }
+  },
+  "original_media": "manga",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%83%95%E3%81%AE%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%82%A2",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%82%98%EC%9D%98_%ED%9E%88%EC%96%B4%EB%A1%9C_%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%EC%95%84",
+    "en": "https://en.wikipedia.org/wiki/My_Hero_Academia"
+  },
+  "characters": [
+    {
+      "id": "hedoro-viran",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヘドロ・ヴィラン",
+        "latin": "Sludge Villain"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "bi-haku-en-fu",
+      "name": {
+        "original_lang": "ja",
+        "original": "尾白猿夫",
+        "latin": "Mashirao Ojiro",
+        "official": {
+          "ko": "오지로 마시라오"
+        },
+        "aliases": {
+          "ja": [
+            "おじろましらお"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "orumaito",
+      "name": {
+        "original_lang": "ja",
+        "original": "オールマイト",
+        "latin": "All Might",
+        "official": {
+          "ko": "올마이트"
+        },
+        "aliases": {
+          "ja": [
+            "八木俊典"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "min-shuu",
+      "name": {
+        "original_lang": "ja",
+        "original": "民衆",
+        "latin": "Minshu"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "hachi-hyaku-man-hyaku",
+      "name": {
+        "original_lang": "ja",
+        "original": "八百万百",
+        "latin": "Momo Yaoyorozu",
+        "official": {
+          "ko": "야오요로즈 모모"
+        },
+        "aliases": {
+          "ja": [
+            "やおよろずもも"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "rei-nichi-o-cha-shi",
+      "name": {
+        "original_lang": "ja",
+        "original": "麗日お茶子",
+        "latin": "Ochaco Uraraka",
+        "official": {
+          "ko": "우라라카 오차코"
+        },
+        "aliases": {
+          "ja": [
+            "うららかおちゃこ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "shi-hei-boku-chou",
+      "name": {
+        "original_lang": "ja",
+        "original": "死柄木弔",
+        "latin": "Tomura Shigaraki",
+        "official": {
+          "ko": "시가라키 토무라"
+        },
+        "aliases": {
+          "ja": [
+            "しがらきとむら",
+            "志村転弧"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "orumaitonofan",
+      "name": {
+        "original_lang": "ja",
+        "original": "オールマイトのファン",
+        "latin": "All Might no Fan"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "shinrinkamui",
+      "name": {
+        "original_lang": "ja",
+        "original": "シンリンカムイ",
+        "latin": "Kamui Woods",
+        "official": {
+          "ko": "신린 카무이"
+        },
+        "aliases": {
+          "ja": [
+            "西屋森児"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "shi-min",
+      "name": {
+        "original_lang": "ja",
+        "original": "市民",
+        "latin": "Shimin"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "rai-ryo-han-ta",
+      "name": {
+        "original_lang": "ja",
+        "original": "瀬呂範太",
+        "latin": "Hanta Sero",
+        "official": {
+          "ko": "세로 한타"
+        },
+        "aliases": {
+          "ja": [
+            "せろはんた"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "purezento-maiku",
+      "name": {
+        "original_lang": "ja",
+        "original": "プレゼント・マイク",
+        "latin": "Present Mic",
+        "official": {
+          "ko": "프레젠트 마이크"
+        },
+        "aliases": {
+          "ja": [
+            "山田ひざし"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "nareshon",
+      "name": {
+        "original_lang": "ja",
+        "original": "ナレーション",
+        "latin": "Narration"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "mt-redi",
+      "name": {
+        "original_lang": "ja",
+        "original": "Mt.レディ",
+        "latin": "Mt. Lady",
+        "official": {
+          "ko": "마운트 레이디"
+        },
+        "aliases": {
+          "ja": [
+            "岳山優"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "shou-ki-no-yuu-jin",
+      "name": {
+        "original_lang": "ja",
+        "original": "勝己の友人",
+        "latin": "Katsuki no Yujin"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "you-in-tou",
+      "name": {
+        "original_lang": "ja",
+        "original": "葉隠透",
+        "latin": "Toru Hagakure",
+        "official": {
+          "ko": "하가쿠레 토루"
+        },
+        "aliases": {
+          "ja": [
+            "はがくれとおる"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "ro-ko-san-na",
+      "name": {
+        "original_lang": "ja",
+        "original": "芦戸三奈",
+        "latin": "Mina Ashido",
+        "official": {
+          "ko": "아시도 미나"
+        },
+        "aliases": {
+          "ja": [
+            "あしどみな"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "baku-gou-shou-ki",
+      "name": {
+        "original_lang": "ja",
+        "original": "爆豪勝己",
+        "latin": "Katsuki Bakugo",
+        "official": {
+          "ko": "바쿠고 카츠키"
+        },
+        "aliases": {
+          "ja": [
+            "ばくごうかつき"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "setsu-tou-ei-ji-rou",
+      "name": {
+        "original_lang": "ja",
+        "original": "切島鋭児郎",
+        "latin": "Eijiro Kirishima",
+        "official": {
+          "ko": "키리시마 에이지로"
+        },
+        "aliases": {
+          "ja": [
+            "きりしまえいじろう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "oru-fo-wan",
+      "name": {
+        "original_lang": "ja",
+        "original": "オール・フォー・ワン",
+        "latin": "All For One",
+        "official": {
+          "ko": "올 포 원"
+        },
+        "aliases": {
+          "ja": [
+            "先生"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "sementosu",
+      "name": {
+        "original_lang": "ja",
+        "original": "セメントス",
+        "latin": "Cementoss",
+        "official": {
+          "ko": "시멘터스"
+        },
+        "aliases": {
+          "ja": [
+            "石山堅"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "sa-tou-ryoku-dou",
+      "name": {
+        "original_lang": "ja",
+        "original": "砂藤力道",
+        "latin": "Rikido Sato",
+        "official": {
+          "ko": "사토 리키도"
+        },
+        "aliases": {
+          "ja": [
+            "さとうりきどう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "sei-to",
+      "name": {
+        "original_lang": "ja",
+        "original": "生徒",
+        "latin": "Seito"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "jaku-sha",
+      "name": {
+        "original_lang": "ja",
+        "original": "若者",
+        "latin": "Wakamono"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "ryoku-koku-shutsu-kyuu",
+      "name": {
+        "original_lang": "ja",
+        "original": "緑谷出久",
+        "latin": "Izuku Midoriya",
+        "official": {
+          "ko": "미도리야 이즈쿠"
+        },
+        "aliases": {
+          "ja": [
+            "みどりやいずく",
+            "デク"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "jo-sei-ki-sha",
+      "name": {
+        "original_lang": "ja",
+        "original": "女性記者",
+        "latin": "Josei Kisha"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "ryoku-koku-in-shi",
+      "name": {
+        "original_lang": "ja",
+        "original": "緑谷引子",
+        "latin": "Inko Midoriya",
+        "official": {
+          "ko": "미도리야 인코"
+        },
+        "aliases": {
+          "ja": [
+            "みどりやいんこ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "chou-dai-choku-sei",
+      "name": {
+        "original_lang": "ja",
+        "original": "塚内直正",
+        "latin": "Naomasa Tsukauchi",
+        "official": {
+          "ko": "츠카우치 나오마사"
+        },
+        "aliases": {
+          "ja": [
+            "つかうちなおまさ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "dan-sei-ki-sha",
+      "name": {
+        "original_lang": "ja",
+        "original": "男性記者",
+        "latin": "Dansei Kisha"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "hou-den-jitsu",
+      "name": {
+        "original_lang": "ja",
+        "original": "峰田実",
+        "latin": "Minoru Mineta",
+        "official": {
+          "ko": "미네타 미노루"
+        },
+        "aliases": {
+          "ja": [
+            "みねたみのる"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "a-sui-bai-u",
+      "name": {
+        "original_lang": "ja",
+        "original": "蛙吹梅雨",
+        "latin": "Tsuyu Asui",
+        "official": {
+          "ko": "아스이 츠유"
+        },
+        "aliases": {
+          "ja": [
+            "あすいつゆ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "desutegoro",
+      "name": {
+        "original_lang": "ja",
+        "original": "デステゴロ",
+        "latin": "Death Arms"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "nou-mu",
+      "name": {
+        "original_lang": "ja",
+        "original": "脳無",
+        "latin": "Nomu",
+        "aliases": {
+          "ja": [
+            "のうむ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "bakkudorafuto",
+      "name": {
+        "original_lang": "ja",
+        "original": "バックドラフト",
+        "latin": "Backdraft"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "sei-san-yuu-ga",
+      "name": {
+        "original_lang": "ja",
+        "original": "青山優雅",
+        "latin": "Yuga Aoyama",
+        "official": {
+          "ko": "아오야마 유가"
+        },
+        "aliases": {
+          "ja": [
+            "あおやまゆうが"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "gou-shou-tou",
+      "name": {
+        "original_lang": "ja",
+        "original": "轟焦凍",
+        "latin": "Shoto Todoroki",
+        "official": {
+          "ko": "토도로키 쇼토"
+        },
+        "aliases": {
+          "ja": [
+            "とどろきしょうと"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "middonaito",
+      "name": {
+        "original_lang": "ja",
+        "original": "ミッドナイト",
+        "latin": "Midnight",
+        "official": {
+          "ko": "미드나이트"
+        },
+        "aliases": {
+          "ja": [
+            "香山睡"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "13-gou",
+      "name": {
+        "original_lang": "ja",
+        "original": "13号",
+        "latin": "Thirteen",
+        "official": {
+          "ko": "13호"
+        },
+        "aliases": {
+          "ja": [
+            "じゅうさんごう",
+            "黒瀬亜南"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "jou-mei-den-ki",
+      "name": {
+        "original_lang": "ja",
+        "original": "上鳴電気",
+        "latin": "Denki Kaminari",
+        "official": {
+          "ko": "카미나리 덴키"
+        },
+        "aliases": {
+          "ja": [
+            "かみなりでんき"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "ji-rou-kyou-kou",
+      "name": {
+        "original_lang": "ja",
+        "original": "耳郎響香",
+        "latin": "Kyoka Jiro",
+        "official": {
+          "ko": "지로 쿄카"
+        },
+        "aliases": {
+          "ja": [
+            "じろうきょうか"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "han-den-ten-sai",
+      "name": {
+        "original_lang": "ja",
+        "original": "飯田天哉",
+        "latin": "Tenya Iida",
+        "official": {
+          "ko": "이이다 텐야"
+        },
+        "aliases": {
+          "ja": [
+            "いいだてんや"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "kaku-boku-kyuu-tai",
+      "name": {
+        "original_lang": "ja",
+        "original": "殻木球大",
+        "latin": "Kyudai Garaki",
+        "official": {
+          "ko": "가라키 큐다이"
+        },
+        "aliases": {
+          "ja": [
+            "がらききゅうだい",
+            "ドクター",
+            "氏子達磨"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "jou-an-tou-in",
+      "name": {
+        "original_lang": "ja",
+        "original": "常闇踏陰",
+        "latin": "Fumikage Tokoyami",
+        "official": {
+          "ko": "토코야미 후미카게"
+        },
+        "aliases": {
+          "ja": [
+            "とこやみふみかげ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "1p-meka",
+      "name": {
+        "original_lang": "ja",
+        "original": "1Pメカ",
+        "latin": "1P Mecha"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "koku-mu",
+      "name": {
+        "original_lang": "ja",
+        "original": "黒霧",
+        "latin": "Kurogiri",
+        "official": {
+          "ko": "쿠로기리"
+        },
+        "aliases": {
+          "ja": [
+            "くろぎり"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "shou-shi-moku-zou",
+      "name": {
+        "original_lang": "ja",
+        "original": "障子目蔵",
+        "latin": "Mezo Shoji",
+        "official": {
+          "ko": "쇼지 메조"
+        },
+        "aliases": {
+          "ja": [
+            "しょうじめぞう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "shou-taku-shou-ta",
+      "name": {
+        "original_lang": "ja",
+        "original": "相澤消太",
+        "latin": "Shota Aizawa",
+        "official": {
+          "ko": "아이자와 쇼타"
+        },
+        "aliases": {
+          "ja": [
+            "あいざわしょうた",
+            "イレイザー・ヘッド"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "kon-shin",
+      "name": {
+        "original_lang": "ja",
+        "original": "根津",
+        "latin": "Nezu",
+        "official": {
+          "ko": "네즈"
+        },
+        "aliases": {
+          "ja": [
+            "ねづ",
+            "根津校長"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "rikabarigaru",
+      "name": {
+        "original_lang": "ja",
+        "original": "リカバリーガール",
+        "latin": "Recovery Girl",
+        "official": {
+          "ko": "리커버리 걸"
+        },
+        "aliases": {
+          "ja": [
+            "修善寺治与"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s1"
+      }
+    },
+    {
+      "id": "neitibu",
+      "name": {
+        "original_lang": "ja",
+        "original": "ネイティブ",
+        "latin": "Native",
+        "aliases": {
+          "ja": [
+            "ネイティヴ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "to-hi",
+      "name": {
+        "original_lang": "ja",
+        "original": "荼毘",
+        "latin": "Dabi",
+        "official": {
+          "ko": "다비"
+        },
+        "aliases": {
+          "ja": [
+            "だび",
+            "轟燈矢"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "kai-jou-ho-an-kan",
+      "name": {
+        "original_lang": "ja",
+        "original": "海上保安官",
+        "latin": "Kaijo Hoankan"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "sei-to-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "生徒",
+        "latin": "Seito"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "sutein",
+      "name": {
+        "original_lang": "ja",
+        "original": "ステイン",
+        "latin": "Stain",
+        "official": {
+          "ko": "스테인"
+        },
+        "aliases": {
+          "ja": [
+            "赤黒血染"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "kameraman",
+      "name": {
+        "original_lang": "ja",
+        "original": "カメラマン",
+        "latin": "Kameraman"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "serukino-bu-ka",
+      "name": {
+        "original_lang": "ja",
+        "original": "セルキーの部下",
+        "latin": "Selkie no Buka"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "insumasu",
+      "name": {
+        "original_lang": "ja",
+        "original": "インスマス",
+        "latin": "Insmouth"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "pawaroda",
+      "name": {
+        "original_lang": "ja",
+        "original": "パワーローダー",
+        "latin": "Power Loader",
+        "aliases": {
+          "ja": [
+            "埋島干狩"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "han-den-ten-sei",
+      "name": {
+        "original_lang": "ja",
+        "original": "飯田天晴",
+        "latin": "Tensei Iida",
+        "official": {
+          "ko": "이이다 텐세이"
+        },
+        "aliases": {
+          "ja": [
+            "いいだてんせい",
+            "インゲニウム"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "hansorobo",
+      "name": {
+        "original_lang": "ja",
+        "original": "ハンソーロボ",
+        "latin": "Hanso Robo"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "baku-gou-kou-ki",
+      "name": {
+        "original_lang": "ja",
+        "original": "爆豪光己",
+        "latin": "Mitsuki Bakugo",
+        "aliases": {
+          "ja": [
+            "ばくごうみつき"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "han-den-ten-sai-no-bo",
+      "name": {
+        "original_lang": "ja",
+        "original": "飯田天哉の母",
+        "latin": "Iida Tenya no Haha",
+        "aliases": {
+          "ja": [
+            "いいだてんやのはは"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "manyuaru",
+      "name": {
+        "original_lang": "ja",
+        "original": "マニュアル",
+        "latin": "Manual",
+        "official": {
+          "ko": "매뉴얼"
+        },
+        "aliases": {
+          "ja": [
+            "水島正規"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "motsu-kan-nei-jin",
+      "name": {
+        "original_lang": "ja",
+        "original": "物間寧人",
+        "latin": "Neito Monoma",
+        "aliases": {
+          "ja": [
+            "ものまねいと"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "sunaipu",
+      "name": {
+        "original_lang": "ja",
+        "original": "スナイプ",
+        "latin": "Snipe"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "shiriusu",
+      "name": {
+        "original_lang": "ja",
+        "original": "シリウス",
+        "latin": "Sirius"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "ken-tou-ichi-ka",
+      "name": {
+        "original_lang": "ja",
+        "original": "拳藤一佳",
+        "latin": "Itsuka Kendo",
+        "aliases": {
+          "ja": [
+            "けんどういつか"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "uwabami",
+      "name": {
+        "original_lang": "ja",
+        "original": "ウワバミ",
+        "latin": "Uwabami"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "insumasuno-bu-ka",
+      "name": {
+        "original_lang": "ja",
+        "original": "インスマスの部下",
+        "latin": "Insmouth no Buka"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "ripota",
+      "name": {
+        "original_lang": "ja",
+        "original": "リポーター",
+        "latin": "Ripota"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "shou-ki-no-yuu-jin-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "勝己の友人",
+        "latin": "Katsuki no Yujin"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "buradokingu",
+      "name": {
+        "original_lang": "ja",
+        "original": "ブラドキング",
+        "latin": "Vlad King",
+        "aliases": {
+          "ja": [
+            "管赤慈郎"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "o-cha-shi-no-fu",
+      "name": {
+        "original_lang": "ja",
+        "original": "お茶子の父",
+        "latin": "Ochaco no Chichi",
+        "aliases": {
+          "ja": [
+            "おちゃこのちち"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "gou-rei",
+      "name": {
+        "original_lang": "ja",
+        "original": "轟冷",
+        "latin": "Rei Todoroki",
+        "official": {
+          "ko": "토도로키 레이"
+        },
+        "aliases": {
+          "ja": [
+            "とどろきれい"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "rin-hi-ryuu",
+      "name": {
+        "original_lang": "ja",
+        "original": "鱗飛龍",
+        "latin": "Hiryu Rin",
+        "aliases": {
+          "ja": [
+            "りんひりゅう",
+            "鱗飛竜"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "hotsu-moku-mei",
+      "name": {
+        "original_lang": "ja",
+        "original": "発目明",
+        "latin": "Mei Hatsume",
+        "official": {
+          "ko": "하츠메 메이"
+        },
+        "aliases": {
+          "ja": [
+            "はつめめい"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "en-ki-shi",
+      "name": {
+        "original_lang": "ja",
+        "original": "塩崎茨",
+        "latin": "Ibara Shiozaki",
+        "aliases": {
+          "ja": [
+            "しおざきいばら"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "ms-joku",
+      "name": {
+        "original_lang": "ja",
+        "original": "Ms.ジョーク",
+        "latin": "Ms. Joke",
+        "aliases": {
+          "ja": [
+            "福門笑"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "kou-den-kou-shi",
+      "name": {
+        "original_lang": "ja",
+        "original": "口田甲司",
+        "latin": "Koji Koda",
+        "official": {
+          "ko": "코다 코지"
+        },
+        "aliases": {
+          "ja": [
+            "こうだこうじ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "o-cha-shi-no-bo",
+      "name": {
+        "original_lang": "ja",
+        "original": "お茶子の母",
+        "latin": "Ochaco no Haha",
+        "aliases": {
+          "ja": [
+            "おちゃこのはは"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "tetsu-tetsu-tetsu-tetsu",
+      "name": {
+        "original_lang": "ja",
+        "original": "鉄哲徹鐵",
+        "latin": "Tetsutetsu Tetsutetsu",
+        "aliases": {
+          "ja": [
+            "てつてつてつてつ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "ganheddo",
+      "name": {
+        "original_lang": "ja",
+        "original": "ガンヘッド",
+        "latin": "Gunhead",
+        "official": {
+          "ko": "건헤드"
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "togahimiko",
+      "name": {
+        "original_lang": "ja",
+        "original": "トガヒミコ",
+        "latin": "Himiko Toga",
+        "official": {
+          "ko": "토가 히미코"
+        },
+        "aliases": {
+          "ja": [
+            "渡我被身子"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "endeva",
+      "name": {
+        "original_lang": "ja",
+        "original": "エンデヴァー",
+        "latin": "Endeavor",
+        "official": {
+          "ko": "엔데버"
+        },
+        "aliases": {
+          "ja": [
+            "轟炎司"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "men-kou-ken-shi",
+      "name": {
+        "original_lang": "ja",
+        "original": "面構犬嗣",
+        "latin": "Kenji Tsuragamae",
+        "aliases": {
+          "ja": [
+            "つらがまえけんじ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "besutojinisuto",
+      "name": {
+        "original_lang": "ja",
+        "original": "ベストジーニスト",
+        "latin": "Best Jeanist",
+        "official": {
+          "ko": "베스트 지니스트"
+        },
+        "aliases": {
+          "ja": [
+            "袴田維"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "gurantorino",
+      "name": {
+        "original_lang": "ja",
+        "original": "グラントリノ",
+        "latin": "Gran Torino",
+        "official": {
+          "ko": "그랜 토리노"
+        },
+        "aliases": {
+          "ja": [
+            "酉野空彦"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "shin-sou-jin-shi",
+      "name": {
+        "original_lang": "ja",
+        "original": "心操人使",
+        "latin": "Hitoshi Shinso",
+        "official": {
+          "ko": "신소 히토시"
+        },
+        "aliases": {
+          "ja": [
+            "しんそうひとし"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "gi-ran",
+      "name": {
+        "original_lang": "ja",
+        "original": "義爛",
+        "latin": "Giran",
+        "aliases": {
+          "ja": [
+            "ぎらん",
+            "憶田影朧"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "kappuru",
+      "name": {
+        "original_lang": "ja",
+        "original": "カップル",
+        "latin": "Kappuru"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "fosukaindo",
+      "name": {
+        "original_lang": "ja",
+        "original": "フォースカインド",
+        "latin": "Fourth Kind"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "ekutopurazumu",
+      "name": {
+        "original_lang": "ja",
+        "original": "エクトプラズム",
+        "latin": "Ectoplasm"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "hou-sou-no-sei",
+      "name": {
+        "original_lang": "ja",
+        "original": "放送の声",
+        "latin": "Hoso no Koe",
+        "aliases": {
+          "ja": [
+            "ほうそうのこえ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "seruki",
+      "name": {
+        "original_lang": "ja",
+        "original": "セルキー",
+        "latin": "Selkie"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "tou-ken-ro-shou-ryo",
+      "name": {
+        "original_lang": "ja",
+        "original": "藤見露召呂",
+        "latin": "Romero Fujimi",
+        "aliases": {
+          "ja": [
+            "ふじみろめろ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-ova-training-of-the-dead"
+      }
+    },
+    {
+      "id": "man-guu-suu-u-sei-shi",
+      "name": {
+        "original_lang": "ja",
+        "original": "万偶数羽生子",
+        "latin": "Habuko Mongoose",
+        "aliases": {
+          "ja": [
+            "まんぐうすはぶこ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-ova-training-of-the-dead"
+      }
+    },
+    {
+      "id": "ta-dan-da-dan",
+      "name": {
+        "original_lang": "ja",
+        "original": "多弾打弾",
+        "latin": "Dadan Tadan",
+        "aliases": {
+          "ja": [
+            "ただんだだん"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-ova-training-of-the-dead"
+      }
+    },
+    {
+      "id": "seki-gai-ka-shi-shi",
+      "name": {
+        "original_lang": "ja",
+        "original": "赤外可視子",
+        "latin": "Kashiko Sekigai",
+        "aliases": {
+          "ja": [
+            "せきがいかしこ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-ova-training-of-the-dead"
+      }
+    },
+    {
+      "id": "shou-tai-yui",
+      "name": {
+        "original_lang": "ja",
+        "original": "小大唯",
+        "latin": "Yui Kodai",
+        "aliases": {
+          "ja": [
+            "こだいゆい"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "mou-gen-chou-shou",
+      "name": {
+        "original_lang": "ja",
+        "original": "毛原長昌",
+        "latin": "Nagamasa Mora",
+        "aliases": {
+          "ja": [
+            "もうらながまさ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "sei-jin-kou-ju-ken-sha",
+      "name": {
+        "original_lang": "ja",
+        "original": "誠刃校受験者",
+        "latin": "Seijinko Jukensha"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "gyanguoruganosaidokikku",
+      "name": {
+        "original_lang": "ja",
+        "original": "ギャングオルガのサイドキック",
+        "latin": "Gang Orca no Saidokikku"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "ten-kuu-kan",
+      "name": {
+        "original_lang": "ja",
+        "original": "天喰環",
+        "latin": "Tamaki Amajiki",
+        "official": {
+          "ko": "아마지키 타마키"
+        },
+        "aliases": {
+          "ja": [
+            "あまじきたまき"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "in-shou-sai-shi",
+      "name": {
+        "original_lang": "ja",
+        "original": "印照才子",
+        "latin": "Saiko Intelli",
+        "aliases": {
+          "ja": [
+            "いんてりさいこ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "obasanfukku",
+      "name": {
+        "original_lang": "ja",
+        "original": "おばさんフック",
+        "latin": "Obasan Hook"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "kyuu-jou-tai-kaku",
+      "name": {
+        "original_lang": "ja",
+        "original": "宮城大角",
+        "latin": "Daikaku Miyagi",
+        "aliases": {
+          "ja": [
+            "みやぎだいかく"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "magune",
+      "name": {
+        "original_lang": "ja",
+        "original": "マグネ",
+        "latin": "Magne",
+        "aliases": {
+          "ja": [
+            "引石健磁"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "kei-shi-chou-kan-bu",
+      "name": {
+        "original_lang": "ja",
+        "original": "警視庁幹部",
+        "latin": "Keishicho Kanbu"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "masutado",
+      "name": {
+        "original_lang": "ja",
+        "original": "マスタード",
+        "latin": "Mustard"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "niku-sou-sei-ji",
+      "name": {
+        "original_lang": "ja",
+        "original": "肉倉精児",
+        "latin": "Seiji Shishikura",
+        "aliases": {
+          "ja": [
+            "ししくらせいじ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "shi-son-sai-na",
+      "name": {
+        "original_lang": "ja",
+        "original": "志村菜奈",
+        "latin": "Nana Shimura",
+        "aliases": {
+          "ja": [
+            "しむらなな",
+            "七代目・志村菜奈"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "eki-in",
+      "name": {
+        "original_lang": "ja",
+        "original": "駅員",
+        "latin": "Ekiin"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "tou-teki-sha-shu-ji-rou",
+      "name": {
+        "original_lang": "ja",
+        "original": "投擲射手次郎",
+        "latin": "Itejiro Toteki",
+        "aliases": {
+          "ja": [
+            "とうてきいてじろう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "dan-sei-ju-ken-sha",
+      "name": {
+        "original_lang": "ja",
+        "original": "男性受験者",
+        "latin": "Dansei Jukensha"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "kou-an-i-in",
+      "name": {
+        "original_lang": "ja",
+        "original": "公安委員",
+        "latin": "Koan Iin"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "ha-dou-nejire",
+      "name": {
+        "original_lang": "ja",
+        "original": "波動ねじれ",
+        "latin": "Nejire Hado",
+        "official": {
+          "ko": "하도 네지레"
+        },
+        "aliases": {
+          "ja": [
+            "はどうねじれ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "seki-chanfukku",
+      "name": {
+        "original_lang": "ja",
+        "original": "赤ちゃんフック",
+        "latin": "Akachan Hook"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "shin-heki-shitsu-kuu",
+      "name": {
+        "original_lang": "ja",
+        "original": "真壁漆喰",
+        "latin": "Shikkui Makabe",
+        "aliases": {
+          "ja": [
+            "まかべしっくい"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "shutsu-sui-kou-ta",
+      "name": {
+        "original_lang": "ja",
+        "original": "出水洸汰",
+        "latin": "Kota Izumi",
+        "official": {
+          "ko": "이즈미 코타"
+        },
+        "aliases": {
+          "ja": [
+            "いずみこうた"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "supina",
+      "name": {
+        "original_lang": "ja",
+        "original": "スピナー",
+        "latin": "Spinner",
+        "official": {
+          "ko": "스피너"
+        },
+        "aliases": {
+          "ja": [
+            "伊口秀一"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "moku-ryou-zen-ken",
+      "name": {
+        "original_lang": "ja",
+        "original": "目良善見",
+        "latin": "Yokumiru Mera",
+        "aliases": {
+          "ja": [
+            "めらよくみる"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "ya-ran-inasa",
+      "name": {
+        "original_lang": "ja",
+        "original": "夜嵐イナサ",
+        "latin": "Inasa Yoarashi",
+        "aliases": {
+          "ja": [
+            "よあらしいなさ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "jo-sei-anaunsa",
+      "name": {
+        "original_lang": "ja",
+        "original": "女性アナウンサー",
+        "latin": "Josei Anaunsa"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "mandarei",
+      "name": {
+        "original_lang": "ja",
+        "original": "マンダレイ",
+        "latin": "Mandalay",
+        "aliases": {
+          "ja": [
+            "送崎信乃"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "ko",
+      "name": {
+        "original_lang": "ja",
+        "original": "虎",
+        "latin": "Tiger",
+        "aliases": {
+          "ja": [
+            "とら",
+            "茶虎柔"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "kei-shi-chou-hou-koku-kan",
+      "name": {
+        "original_lang": "ja",
+        "original": "警視庁報告官",
+        "latin": "Keishicho Hokokukan"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "tsuu-kei-mirio",
+      "name": {
+        "original_lang": "ja",
+        "original": "通形ミリオ",
+        "latin": "Mirio Togata",
+        "official": {
+          "ko": "토가타 미리오"
+        },
+        "aliases": {
+          "ja": [
+            "とおがたみりお"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "anaunsa",
+      "name": {
+        "original_lang": "ja",
+        "original": "アナウンサー",
+        "latin": "Anaunsa"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "mr-konpuresu",
+      "name": {
+        "original_lang": "ja",
+        "original": "Mr.コンプレス",
+        "latin": "Mr. Compress",
+        "official": {
+          "ko": "미스터 컴프레스"
+        },
+        "aliases": {
+          "ja": [
+            "迫圧紘"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "kuronosutashisu",
+      "name": {
+        "original_lang": "ja",
+        "original": "クロノスタシス",
+        "latin": "Chronostasis",
+        "aliases": {
+          "ja": [
+            "玄野針"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "deviddo-shirudo",
+      "name": {
+        "original_lang": "ja",
+        "original": "デヴィッド・シールド",
+        "latin": "David Shield",
+        "aliases": {
+          "ja": [
+            "青年デヴィッド"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "hou-rai-you-setsu",
+      "name": {
+        "original_lang": "ja",
+        "original": "泡瀬洋雪",
+        "latin": "Yosetsu Awase",
+        "aliases": {
+          "ja": [
+            "あわせようせつ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "munfisshu",
+      "name": {
+        "original_lang": "ja",
+        "original": "ムーンフィッシュ",
+        "latin": "Moonfish"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "gyanguoruka",
+      "name": {
+        "original_lang": "ja",
+        "original": "ギャングオルカ",
+        "latin": "Gang Orca",
+        "official": {
+          "ko": "갱 오르카"
+        },
+        "aliases": {
+          "ja": [
+            "逆俣空悟"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "shi-ketsu-kyou-shi",
+      "name": {
+        "original_lang": "ja",
+        "original": "士傑教師",
+        "latin": "Shiketsu Kyoshi"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "jo-sei-shi-min",
+      "name": {
+        "original_lang": "ja",
+        "original": "女性市民",
+        "latin": "Josei Shimin"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "ji-rou-kyou-toku",
+      "name": {
+        "original_lang": "ja",
+        "original": "耳郎響徳",
+        "latin": "Kyotoku Jiro",
+        "aliases": {
+          "ja": [
+            "じろうきょうとく",
+            "耳郎の父"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "baku-gou-shou",
+      "name": {
+        "original_lang": "ja",
+        "original": "爆豪勝",
+        "latin": "Masaru Bakugo",
+        "aliases": {
+          "ja": [
+            "ばくごうまさる"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "sei-ai-gaku-in-ju-ken-sha",
+      "name": {
+        "original_lang": "ja",
+        "original": "聖愛学院受験者",
+        "latin": "Seiai Gakuin Jukensha"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "obahoru",
+      "name": {
+        "original_lang": "ja",
+        "original": "オーバーホール",
+        "latin": "Overhaul",
+        "official": {
+          "ko": "오버홀"
+        },
+        "aliases": {
+          "ja": [
+            "治崎廻"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "chuu-hei-jou",
+      "name": {
+        "original_lang": "ja",
+        "original": "中瓶畳",
+        "latin": "Tatami Nakagame",
+        "aliases": {
+          "ja": [
+            "なかがめたたみ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "pikushibobu",
+      "name": {
+        "original_lang": "ja",
+        "original": "ピクシーボブ",
+        "latin": "Pixie-Bob",
+        "aliases": {
+          "ja": [
+            "土川流子"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "shin-dou-you",
+      "name": {
+        "original_lang": "ja",
+        "original": "真堂揺",
+        "latin": "Yo Shindo",
+        "aliases": {
+          "ja": [
+            "しんどうよう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "jo-sei-ju-ken-sha",
+      "name": {
+        "original_lang": "ja",
+        "original": "女性受験者",
+        "latin": "Josei Jukensha"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "haundodoggu",
+      "name": {
+        "original_lang": "ja",
+        "original": "ハウンドドッグ",
+        "latin": "Hound Dog",
+        "aliases": {
+          "ja": [
+            "犬井猟"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "gen-ken-kemi",
+      "name": {
+        "original_lang": "ja",
+        "original": "現見ケミィ",
+        "latin": "Camie Utsushimi",
+        "aliases": {
+          "ja": [
+            "うつしみけみぃ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "ragudoru",
+      "name": {
+        "original_lang": "ja",
+        "original": "ラグドール",
+        "latin": "Ragdoll",
+        "aliases": {
+          "ja": [
+            "知床知子"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "tuwaisu",
+      "name": {
+        "original_lang": "ja",
+        "original": "トゥワイス",
+        "latin": "Twice",
+        "official": {
+          "ko": "트와이스"
+        },
+        "aliases": {
+          "ja": [
+            "分倍河原仁"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "kei-shi-chou-chou-kan",
+      "name": {
+        "original_lang": "ja",
+        "original": "警視庁長官",
+        "latin": "Keishicho Chokan"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "shi-kyou-fukku",
+      "name": {
+        "original_lang": "ja",
+        "original": "子供フック",
+        "latin": "Kodomo Hook"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "jo-sei-shoku-in",
+      "name": {
+        "original_lang": "ja",
+        "original": "女性職員",
+        "latin": "Josei Shokuin"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "masukyura",
+      "name": {
+        "original_lang": "ja",
+        "original": "マスキュラー",
+        "latin": "Muscular",
+        "official": {
+          "ko": "머스큘러"
+        },
+        "aliases": {
+          "ja": [
+            "今筋強斗"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "ojisanfukku",
+      "name": {
+        "original_lang": "ja",
+        "original": "おじさんフック",
+        "latin": "Ojisan Hook"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "merissa-shirudo",
+      "name": {
+        "original_lang": "ja",
+        "original": "メリッサ・シールド",
+        "latin": "Melissa Shield"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "ejjishotto",
+      "name": {
+        "original_lang": "ja",
+        "original": "エッジショット",
+        "latin": "Edgeshot",
+        "official": {
+          "ko": "엣지 쇼트"
+        },
+        "aliases": {
+          "ja": [
+            "紙原伸也"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "uorufuramu",
+      "name": {
+        "original_lang": "ja",
+        "original": "ウォルフラム",
+        "latin": "Wolfram"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-2-heroes"
+      }
+    },
+    {
+      "id": "samyueru-eiburahamu",
+      "name": {
+        "original_lang": "ja",
+        "original": "サミュエル・エイブラハム",
+        "latin": "Samuel Abraham"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-2-heroes"
+      }
+    },
+    {
+      "id": "erekupuranto",
+      "name": {
+        "original_lang": "ja",
+        "original": "エレクプラント",
+        "latin": "Elecplant"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-2-heroes"
+      }
+    },
+    {
+      "id": "kauredi",
+      "name": {
+        "original_lang": "ja",
+        "original": "カウレディ",
+        "latin": "Cow Lady"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-2-heroes"
+      }
+    },
+    {
+      "id": "tou-dai-anaunsu",
+      "name": {
+        "original_lang": "ja",
+        "original": "島内アナウンス",
+        "latin": "Tonai Anaunsu"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-movie-2-heroes"
+      }
+    },
+    {
+      "id": "mc-noo-shi-san",
+      "name": {
+        "original_lang": "ja",
+        "original": "MCのお姉さん",
+        "latin": "MC no Onesan"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-movie-2-heroes"
+      }
+    },
+    {
+      "id": "setsu-ya-touya",
+      "name": {
+        "original_lang": "ja",
+        "original": "窃野トウヤ",
+        "latin": "Toya Setsuno",
+        "aliases": {
+          "ja": [
+            "せつのとうや"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "chi-kashi-shou-fu",
+      "name": {
+        "original_lang": "ja",
+        "original": "恥樫照夫",
+        "latin": "Teruo Hazukashi",
+        "aliases": {
+          "ja": [
+            "はずかしてるお"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "kyoku-chi-chiku-chi",
+      "name": {
+        "original_lang": "ja",
+        "original": "棘池築稚",
+        "latin": "Chikuchi Togeike",
+        "aliases": {
+          "ja": [
+            "とげいけちくち"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "rokkurokku",
+      "name": {
+        "original_lang": "ja",
+        "original": "ロックロック",
+        "latin": "Rock Lock",
+        "official": {
+          "ko": "로크로크"
+        },
+        "aliases": {
+          "ja": [
+            "高木鍵"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "nitto-bou-no-shou-nen",
+      "name": {
+        "original_lang": "ja",
+        "original": "ニット帽の少年",
+        "latin": "Nitto Bo no Shonen"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "sa-naitoai",
+      "name": {
+        "original_lang": "ja",
+        "original": "サー・ナイトアイ",
+        "latin": "Sir Nighteye",
+        "official": {
+          "ko": "서 나이트아이"
+        },
+        "aliases": {
+          "ja": [
+            "佐々木未来"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "jo-shi-ji-dou",
+      "name": {
+        "original_lang": "ja",
+        "original": "女子児童",
+        "latin": "Joshi Jido"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "hokusu",
+      "name": {
+        "original_lang": "ja",
+        "original": "ホークス",
+        "latin": "Hawks",
+        "official": {
+          "ko": "호크스"
+        },
+        "aliases": {
+          "ja": [
+            "鷹見啓悟"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "kei-satsu-chou-chou-kan",
+      "name": {
+        "original_lang": "ja",
+        "original": "警察庁長官",
+        "latin": "Keisatsucho Chokan"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "kei-kan",
+      "name": {
+        "original_lang": "ja",
+        "original": "警官",
+        "latin": "Keikan"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "ryuu-rei-shi",
+      "name": {
+        "original_lang": "ja",
+        "original": "柳レイ子",
+        "latin": "Reiko Yanagi",
+        "aliases": {
+          "ja": [
+            "やなぎれいこ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "ryukyuu",
+      "name": {
+        "original_lang": "ja",
+        "original": "リューキュウ",
+        "latin": "Ryukyu",
+        "official": {
+          "ko": "류큐"
+        },
+        "aliases": {
+          "ja": [
+            "竜間龍子"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "ki-sha",
+      "name": {
+        "original_lang": "ja",
+        "original": "記者",
+        "latin": "Kisha"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "raburaba",
+      "name": {
+        "original_lang": "ja",
+        "original": "ラブラバ",
+        "latin": "La Brava",
+        "official": {
+          "ko": "러브러버"
+        },
+        "aliases": {
+          "ja": [
+            "相場愛美"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "ko-sei-gasameno-shou-nen",
+      "name": {
+        "original_lang": "ja",
+        "original": "“個性”がサメの少年",
+        "latin": "\"Kosei\" ga Same no Shonen"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "on-hon-shin",
+      "name": {
+        "original_lang": "ja",
+        "original": "音本真",
+        "latin": "Shin Nemoto",
+        "aliases": {
+          "ja": [
+            "ねもとしん"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "jo-sei-shi-min-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "女性市民",
+        "latin": "Josei Shimin"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "jo-shi-sei-to",
+      "name": {
+        "original_lang": "ja",
+        "original": "女子生徒",
+        "latin": "Joshi Seito"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "senchipida",
+      "name": {
+        "original_lang": "ja",
+        "original": "センチピーダー",
+        "latin": "Centipeder",
+        "official": {
+          "ko": "센티피더"
+        },
+        "aliases": {
+          "ja": [
+            "百足従造"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "katsu-hei-ryoku-ya",
+      "name": {
+        "original_lang": "ja",
+        "original": "活瓶力也",
+        "latin": "Rikiya Katsukame",
+        "aliases": {
+          "ja": [
+            "かつかめりきや"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "ten-gai-heki-ji",
+      "name": {
+        "original_lang": "ja",
+        "original": "天蓋壁慈",
+        "latin": "Hekiji Tengai",
+        "aliases": {
+          "ja": [
+            "てんがいへきじ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "purohiro",
+      "name": {
+        "original_lang": "ja",
+        "original": "プロヒーロー",
+        "latin": "Puro Hiro"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "miriono-fu",
+      "name": {
+        "original_lang": "ja",
+        "original": "ミリオの父",
+        "latin": "Mirio no Chichi",
+        "aliases": {
+          "ja": [
+            "みりおのちち"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "jentoru-kuriminaru",
+      "name": {
+        "original_lang": "ja",
+        "original": "ジェントル・クリミナル",
+        "latin": "Gentle Criminal",
+        "official": {
+          "ko": "젠틀 크리미널"
+        },
+        "aliases": {
+          "ja": [
+            "飛田弾柔郎"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "chinpiraviran",
+      "name": {
+        "original_lang": "ja",
+        "original": "チンピラヴィラン",
+        "latin": "Chinpira Viran"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "dan-shi-ji-dou",
+      "name": {
+        "original_lang": "ja",
+        "original": "男子児童",
+        "latin": "Danshi Jido"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "ripota-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "リポーター",
+        "latin": "Ripota"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "ku-rai-yuu-to",
+      "name": {
+        "original_lang": "ja",
+        "original": "紅頼雄斗",
+        "latin": "Crimson Riot",
+        "aliases": {
+          "ja": [
+            "くりむぞんらいおっと"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "gou-ka-yuu",
+      "name": {
+        "original_lang": "ja",
+        "original": "轟夏雄",
+        "latin": "Natsuo Todoroki",
+        "official": {
+          "ko": "토도로키 나츠오"
+        },
+        "aliases": {
+          "ja": [
+            "とどろきなつお"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "haiendo",
+      "name": {
+        "original_lang": "ja",
+        "original": "ハイエンド",
+        "latin": "High-End"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "hen-shuu-chou",
+      "name": {
+        "original_lang": "ja",
+        "original": "編集長",
+        "latin": "Henshucho"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "hiro-kou-an-i-in-kai-kai-chou",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヒーロー公安委員会会長",
+        "latin": "Hiro Koan Iinkai Kaicho"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "baburugaru",
+      "name": {
+        "original_lang": "ja",
+        "original": "バブルガール",
+        "latin": "Bubble Girl",
+        "official": {
+          "ko": "버블 걸"
+        },
+        "aliases": {
+          "ja": [
+            "泡田薫子"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "sei-ku-shou-ro-ri",
+      "name": {
+        "original_lang": "ja",
+        "original": "生駒小麿里",
+        "latin": "Komari Ikoma",
+        "aliases": {
+          "ja": [
+            "いこまこまり"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "hou-sei-ketsu",
+      "name": {
+        "original_lang": "ja",
+        "original": "宝生結",
+        "latin": "Yu Hojo",
+        "aliases": {
+          "ja": [
+            "ほうじょうゆう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "ran-ha-ken-dou",
+      "name": {
+        "original_lang": "ja",
+        "original": "乱波肩動",
+        "latin": "Kendo Rappa",
+        "aliases": {
+          "ja": [
+            "らっぱけんどう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "so-chou",
+      "name": {
+        "original_lang": "ja",
+        "original": "組長",
+        "latin": "Shie Hassaikai Kumicho",
+        "aliases": {
+          "ja": [
+            "くみちょう",
+            "八斎會組長"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "hiro",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヒーロー",
+        "latin": "Hiro"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "hi-den-no-bo",
+      "name": {
+        "original_lang": "ja",
+        "original": "飛田の母",
+        "latin": "Tobita no Haha",
+        "aliases": {
+          "ja": [
+            "とびたのはは"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "ji-rou-bi-kou",
+      "name": {
+        "original_lang": "ja",
+        "original": "耳郎美香",
+        "latin": "Mika Jiro",
+        "aliases": {
+          "ja": [
+            "じろうみか"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s3"
+      }
+    },
+    {
+      "id": "i-den-kou",
+      "name": {
+        "original_lang": "ja",
+        "original": "為田浩",
+        "latin": "Hiroshi Tameda",
+        "aliases": {
+          "ja": [
+            "ためだひろし"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "gou-tou-bi",
+      "name": {
+        "original_lang": "ja",
+        "original": "轟冬美",
+        "latin": "Fuyumi Todoroki",
+        "official": {
+          "ko": "토도로키 후유미"
+        },
+        "aliases": {
+          "ja": [
+            "とどろきふゆみ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "sunatchi",
+      "name": {
+        "original_lang": "ja",
+        "original": "スナッチ",
+        "latin": "Snatch",
+        "aliases": {
+          "ja": [
+            "日河原砂塵"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "kou-shi-yuu-kyuu",
+      "name": {
+        "original_lang": "ja",
+        "original": "甲矢有弓",
+        "latin": "Yuyu Haya",
+        "aliases": {
+          "ja": [
+            "はやゆうゆ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "hachi-sai-kai-kou-sei-in",
+      "name": {
+        "original_lang": "ja",
+        "original": "八斎會構成員",
+        "latin": "Hassaikai Koseiin"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "kou-shuu-sei",
+      "name": {
+        "original_lang": "ja",
+        "original": "講習生",
+        "latin": "Koshusei"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "fattogamu",
+      "name": {
+        "original_lang": "ja",
+        "original": "ファットガム",
+        "latin": "Fat Gum",
+        "official": {
+          "ko": "팻껌"
+        },
+        "aliases": {
+          "ja": [
+            "豊満太志郎"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "dan-shi-sei-to",
+      "name": {
+        "original_lang": "ja",
+        "original": "男子生徒",
+        "latin": "Danshi Seito"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "ta-bu-kuu-man",
+      "name": {
+        "original_lang": "ja",
+        "original": "多部空満",
+        "latin": "Soramitsu Tabe",
+        "aliases": {
+          "ja": [
+            "たべそらみつ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "kesagiriman",
+      "name": {
+        "original_lang": "ja",
+        "original": "ケサギリマン",
+        "latin": "Kesagiriman"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "mimikku",
+      "name": {
+        "original_lang": "ja",
+        "original": "ミミック",
+        "latin": "Mimic",
+        "aliases": {
+          "ja": [
+            "入中常衣"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "shu-boku-dei-dei",
+      "name": {
+        "original_lang": "ja",
+        "original": "酒木泥泥",
+        "latin": "Deidoro Sakaki",
+        "aliases": {
+          "ja": [
+            "さかきでいどろ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "rida-dan-shi-ji-dou",
+      "name": {
+        "original_lang": "ja",
+        "original": "リーダー男子児童",
+        "latin": "Rida Danshi Jido"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "ken-ran-ki-bi-bi",
+      "name": {
+        "original_lang": "ja",
+        "original": "絢爛崎美々美",
+        "latin": "Bibimi Kenranzaki",
+        "aliases": {
+          "ja": [
+            "けんらんざきびびみ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "kai-ri",
+      "name": {
+        "original_lang": "ja",
+        "original": "壊理",
+        "latin": "Eri",
+        "official": {
+          "ko": "에리"
+        },
+        "aliases": {
+          "ja": [
+            "えり"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s4"
+      }
+    },
+    {
+      "id": "tou-dai-katsu-shin",
+      "name": {
+        "original_lang": "ja",
+        "original": "島乃活真",
+        "latin": "Katsuma Shimano",
+        "aliases": {
+          "ja": [
+            "しまのかつま",
+            "活真"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-heroes-rising"
+      }
+    },
+    {
+      "id": "tou-dai-shin-kou",
+      "name": {
+        "original_lang": "ja",
+        "original": "島乃真幌",
+        "latin": "Mahoro Shimano",
+        "aliases": {
+          "ja": [
+            "しまのまほろ",
+            "島野真幌"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-heroes-rising"
+      }
+    },
+    {
+      "id": "nain",
+      "name": {
+        "original_lang": "ja",
+        "original": "ナイン",
+        "latin": "Nine"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-heroes-rising"
+      }
+    },
+    {
+      "id": "kimera",
+      "name": {
+        "original_lang": "ja",
+        "original": "キメラ",
+        "latin": "Chimera"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-heroes-rising"
+      }
+    },
+    {
+      "id": "suraisu",
+      "name": {
+        "original_lang": "ja",
+        "original": "スライス",
+        "latin": "Slice"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-heroes-rising"
+      }
+    },
+    {
+      "id": "mami",
+      "name": {
+        "original_lang": "ja",
+        "original": "マミー",
+        "latin": "Mummy"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-heroes-rising"
+      }
+    },
+    {
+      "id": "kou-an-kan-bu",
+      "name": {
+        "original_lang": "ja",
+        "original": "公安幹部",
+        "latin": "Koan Kanbu"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-movie-heroes-rising"
+      }
+    },
+    {
+      "id": "hiro-kou-an-i-in-kai-kai-chou-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヒーロー公安委員会会長",
+        "latin": "Hiro Koan Iinkai Kaicho"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-movie-heroes-rising"
+      }
+    },
+    {
+      "id": "jo-no-shi",
+      "name": {
+        "original_lang": "ja",
+        "original": "女の子",
+        "latin": "Onna no Ko"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-movie-heroes-rising"
+      }
+    },
+    {
+      "id": "katsu-shin-shin-kou-no-fu",
+      "name": {
+        "original_lang": "ja",
+        "original": "活真・真幌の父",
+        "latin": "Katsuma Mahoro no Chichi",
+        "aliases": {
+          "ja": [
+            "かつままほろのちち"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-heroes-rising"
+      }
+    },
+    {
+      "id": "shi-son-ka",
+      "name": {
+        "original_lang": "ja",
+        "original": "志村華",
+        "latin": "Hana Shimura",
+        "aliases": {
+          "ja": [
+            "しむらはな"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "furekuto-tan",
+      "name": {
+        "original_lang": "ja",
+        "original": "フレクト・ターン",
+        "latin": "Flect Turn"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "dan-sei",
+      "name": {
+        "original_lang": "ja",
+        "original": "男性",
+        "latin": "Dansei"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "jo-sei",
+      "name": {
+        "original_lang": "ja",
+        "original": "女性",
+        "latin": "Josei"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "shi-hei-boku-yo-ichi",
+      "name": {
+        "original_lang": "ja",
+        "original": "死柄木与一",
+        "latin": "Yoichi Shigaraki",
+        "aliases": {
+          "ja": [
+            "しがらきよいち",
+            "与一"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "shi-min-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "市民",
+        "latin": "Shimin"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "ren-setsu-sen",
+      "name": {
+        "original_lang": "ja",
+        "original": "鎌切尖",
+        "latin": "Togaru Kamakiri",
+        "aliases": {
+          "ja": [
+            "かまきりとがる"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "kidou",
+      "name": {
+        "original_lang": "ja",
+        "original": "キドウ",
+        "latin": "Kido"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "viran",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヴィラン",
+        "latin": "Viran"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "dan-shi-sei-to-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "男子生徒",
+        "latin": "Danshi Seito"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "shi-son-ten-ko-no-so-fu",
+      "name": {
+        "original_lang": "ja",
+        "original": "志村転弧の祖父",
+        "latin": "Shimura Tenko no Sofu",
+        "aliases": {
+          "ja": [
+            "しむらてんこのそふ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "jo-sei-shi-min-3",
+      "name": {
+        "original_lang": "ja",
+        "original": "女性市民",
+        "latin": "Josei Shimin"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "jo-shi-sei-to-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "女子生徒",
+        "latin": "Joshi Seito"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "sou-den-ni-ren-geki",
+      "name": {
+        "original_lang": "ja",
+        "original": "庄田二連撃",
+        "latin": "Nirengeki Shoda",
+        "aliases": {
+          "ja": [
+            "しょうだにれんげき"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "koku-shoku-shi-hai",
+      "name": {
+        "original_lang": "ja",
+        "original": "黒色支配",
+        "latin": "Shihai Kuroiro",
+        "aliases": {
+          "ja": [
+            "くろいろしはい"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "onima",
+      "name": {
+        "original_lang": "ja",
+        "original": "オニマー",
+        "latin": "Onima"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "man-jou-tai-go-rou",
+      "name": {
+        "original_lang": "ja",
+        "original": "万縄大悟郎",
+        "latin": "Daigoro Banjo",
+        "aliases": {
+          "ja": [
+            "ばんじょうだいごろう",
+            "五代目・万縄大悟郎",
+            "ラリアット"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "suraidin-go",
+      "name": {
+        "original_lang": "ja",
+        "original": "スライディン・ゴー",
+        "latin": "Slidin' Go",
+        "aliases": {
+          "ja": [
+            "常滑達行"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "endevanosaidokikku",
+      "name": {
+        "original_lang": "ja",
+        "original": "エンデヴァーのサイドキック",
+        "latin": "Endeavor no Saidokikku"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "haku-un-rou",
+      "name": {
+        "original_lang": "ja",
+        "original": "白雲朧",
+        "latin": "Oboro Shirakumo",
+        "official": {
+          "ko": "시라쿠모 오보로"
+        },
+        "aliases": {
+          "ja": [
+            "しらくもおぼろ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "gai-ten",
+      "name": {
+        "original_lang": "ja",
+        "original": "外典",
+        "latin": "Geten",
+        "aliases": {
+          "ja": [
+            "げてん"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "kou-an-kan-bu-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "公安幹部",
+        "latin": "Koan Kanbu"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "ri-desutoro",
+      "name": {
+        "original_lang": "ja",
+        "original": "リ・デストロ",
+        "latin": "Re-Destro",
+        "aliases": {
+          "ja": [
+            "四ツ橋力也"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "shou-shi-o-sou-ruviran",
+      "name": {
+        "original_lang": "ja",
+        "original": "硝子を操るヴィラン",
+        "latin": "Garasu o Ayatsuru Viran"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "kaku-shu-poni",
+      "name": {
+        "original_lang": "ja",
+        "original": "角取ポニー",
+        "latin": "Pony Tsunotori",
+        "aliases": {
+          "ja": [
+            "つのとりぽにー"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "shu-in-setsu-na",
+      "name": {
+        "original_lang": "ja",
+        "original": "取蔭切奈",
+        "latin": "Setsuna Tokage",
+        "aliases": {
+          "ja": [
+            "とかげせつな",
+            "取陰切奈"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "miruko",
+      "name": {
+        "original_lang": "ja",
+        "original": "ミルコ",
+        "latin": "Mirko",
+        "official": {
+          "ko": "미르코"
+        },
+        "aliases": {
+          "ja": [
+            "兎山ルミ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "kyuriosu",
+      "name": {
+        "original_lang": "ja",
+        "original": "キュリオス",
+        "latin": "Curious",
+        "aliases": {
+          "ja": [
+            "気月置歳"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "sukeputikku",
+      "name": {
+        "original_lang": "ja",
+        "original": "スケプティック",
+        "latin": "Skeptic",
+        "aliases": {
+          "ja": [
+            "近属友保"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "sha-den-un-ten-gan",
+      "name": {
+        "original_lang": "ja",
+        "original": "車田運天丸",
+        "latin": "Untenmaru Kurumada",
+        "aliases": {
+          "ja": [
+            "くるまだうんてんまる",
+            "車田運転丸"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "bon-ko-ko-ji-rou",
+      "name": {
+        "original_lang": "ja",
+        "original": "凡戸固次郎",
+        "latin": "Kojiro Bondo",
+        "aliases": {
+          "ja": [
+            "ぼんどこじろう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "togano-bo-shin",
+      "name": {
+        "original_lang": "ja",
+        "original": "トガの母親",
+        "latin": "Toga no Hahaoya",
+        "aliases": {
+          "ja": [
+            "とがのははおや"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "shi-son-ten-ko-no-bo",
+      "name": {
+        "original_lang": "ja",
+        "original": "志村転弧の母",
+        "latin": "Shimura Tenko no Haha",
+        "aliases": {
+          "ja": [
+            "しむらてんこのはは"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "shi-son-ko-ta-rou",
+      "name": {
+        "original_lang": "ja",
+        "original": "志村弧太朗",
+        "latin": "Kotaro Shimura",
+        "aliases": {
+          "ja": [
+            "しむらこたろう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "shou-shin-ki-dai-shi",
+      "name": {
+        "original_lang": "ja",
+        "original": "小森希乃子",
+        "latin": "Kinoko Komori",
+        "aliases": {
+          "ja": [
+            "こもりきのこ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "sui-shutsu-man-ga",
+      "name": {
+        "original_lang": "ja",
+        "original": "吹出漫我",
+        "latin": "Manga Fukidashi",
+        "aliases": {
+          "ja": [
+            "ふきだしまんが"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "en-jou-kou-sei",
+      "name": {
+        "original_lang": "ja",
+        "original": "円場硬成",
+        "latin": "Kosei Tsuburaba",
+        "aliases": {
+          "ja": [
+            "つぶらばこうせい"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "kai-gen-sen",
+      "name": {
+        "original_lang": "ja",
+        "original": "回原旋",
+        "latin": "Sen Kaibara",
+        "aliases": {
+          "ja": [
+            "かいばらせん"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "shi-son-ten-ko-no-so-bo",
+      "name": {
+        "original_lang": "ja",
+        "original": "志村転弧の祖母",
+        "latin": "Shimura Tenko no Sobo",
+        "aliases": {
+          "ja": [
+            "しむらてんこのそぼ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "niku-den-juu-rou-ta",
+      "name": {
+        "original_lang": "ja",
+        "original": "宍田獣郎太",
+        "latin": "Jurota Shishida",
+        "aliases": {
+          "ja": [
+            "ししだじゅうろうた"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "endingu",
+      "name": {
+        "original_lang": "ja",
+        "original": "エンディング",
+        "latin": "Ending"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "toranpetto",
+      "name": {
+        "original_lang": "ja",
+        "original": "トランペット",
+        "latin": "Trumpet",
+        "aliases": {
+          "ja": [
+            "花畑孔腔"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "anaunsa-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "アナウンサー",
+        "latin": "Anaunsa"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "ryukyuunosaidokikku",
+      "name": {
+        "original_lang": "ja",
+        "original": "リューキュウのサイドキック",
+        "latin": "Ryukyu no Saidokikku"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "fu-wa-shin-men",
+      "name": {
+        "original_lang": "ja",
+        "original": "不和真綿",
+        "latin": "Mawata Fuwa",
+        "aliases": {
+          "ja": [
+            "ふわまわた"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "banin",
+      "name": {
+        "original_lang": "ja",
+        "original": "バーニン",
+        "latin": "Burnin",
+        "official": {
+          "ko": "버닝"
+        },
+        "aliases": {
+          "ja": [
+            "上路萌",
+            "バーニン（上路 萌）"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "gigantomakia",
+      "name": {
+        "original_lang": "ja",
+        "original": "ギガントマキア",
+        "latin": "Gigantomachia",
+        "official": {
+          "ko": "기간토마키아"
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "kotsu-batsu-nyuu-zou",
+      "name": {
+        "original_lang": "ja",
+        "original": "骨抜柔造",
+        "latin": "Juzo Honenuki",
+        "aliases": {
+          "ja": [
+            "ほねぬきじゅうぞう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s5"
+      }
+    },
+    {
+      "id": "pino",
+      "name": {
+        "original_lang": "ja",
+        "original": "ピノ",
+        "latin": "Pino"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-whm"
+      }
+    },
+    {
+      "id": "aran-kei",
+      "name": {
+        "original_lang": "ja",
+        "original": "アラン・ケイ",
+        "latin": "Allen Kay"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-whm"
+      }
+    },
+    {
+      "id": "kurea-boyansu",
+      "name": {
+        "original_lang": "ja",
+        "original": "クレア・ボヤンス",
+        "latin": "Claire Voyance"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-whm"
+      }
+    },
+    {
+      "id": "berosu",
+      "name": {
+        "original_lang": "ja",
+        "original": "ベロス",
+        "latin": "Belos"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-whm"
+      }
+    },
+    {
+      "id": "sapentazu",
+      "name": {
+        "original_lang": "ja",
+        "original": "サーペンターズ",
+        "latin": "Sir Pentas"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-whm"
+      }
+    },
+    {
+      "id": "shidero",
+      "name": {
+        "original_lang": "ja",
+        "original": "シデロ",
+        "latin": "Sidero"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-whm"
+      }
+    },
+    {
+      "id": "rodi-souru",
+      "name": {
+        "original_lang": "ja",
+        "original": "ロディ・ソウル",
+        "latin": "Rody Soul"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-whm"
+      }
+    },
+    {
+      "id": "reviatan",
+      "name": {
+        "original_lang": "ja",
+        "original": "レヴィアタン",
+        "latin": "Leviathan"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-whm"
+      }
+    },
+    {
+      "id": "shishido",
+      "name": {
+        "original_lang": "ja",
+        "original": "シシド",
+        "latin": "Shishido"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-whm"
+      }
+    },
+    {
+      "id": "majesutikku",
+      "name": {
+        "original_lang": "ja",
+        "original": "マジェスティック",
+        "latin": "Majestic",
+        "aliases": {
+          "ja": [
+            "巫円真"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-whm"
+      }
+    },
+    {
+      "id": "edi-souru",
+      "name": {
+        "original_lang": "ja",
+        "original": "エディ・ソウル",
+        "latin": "Eddie Soul"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-whm"
+      }
+    },
+    {
+      "id": "sutanriku",
+      "name": {
+        "original_lang": "ja",
+        "original": "スタンリーク",
+        "latin": "Stanreek"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-whm"
+      }
+    },
+    {
+      "id": "saramu",
+      "name": {
+        "original_lang": "ja",
+        "original": "サラーム",
+        "latin": "Salaam"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-whm"
+      }
+    },
+    {
+      "id": "rogon",
+      "name": {
+        "original_lang": "ja",
+        "original": "ロゴン",
+        "latin": "Rogon"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-whm"
+      }
+    },
+    {
+      "id": "rara-souru",
+      "name": {
+        "original_lang": "ja",
+        "original": "ララ・ソウル",
+        "latin": "Lala Soul"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-whm"
+      }
+    },
+    {
+      "id": "roro-souru",
+      "name": {
+        "original_lang": "ja",
+        "original": "ロロ・ソウル",
+        "latin": "Lolo Soul"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-whm"
+      }
+    },
+    {
+      "id": "wha-chou-kan",
+      "name": {
+        "original_lang": "ja",
+        "original": "WHA長官",
+        "latin": "WHA Chokan"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-movie-whm"
+      }
+    },
+    {
+      "id": "oseon-kei-satsu-chou-kan",
+      "name": {
+        "original_lang": "ja",
+        "original": "オセオン警察長官",
+        "latin": "Oseon Keisatsu Chokan"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-movie-whm"
+      }
+    },
+    {
+      "id": "misuta-sumairi",
+      "name": {
+        "original_lang": "ja",
+        "original": "ミスター・スマイリー",
+        "latin": "Mr. Smiley"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-ova-warae"
+      }
+    },
+    {
+      "id": "yoroimusha",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヨロイムシャ",
+        "latin": "Yoroi Musha"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "shi-kyou",
+      "name": {
+        "original_lang": "ja",
+        "original": "子供",
+        "latin": "Kodomo"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "uosshu",
+      "name": {
+        "original_lang": "ja",
+        "original": "ウォッシュ",
+        "latin": "Wash",
+        "aliases": {
+          "ja": [
+            "御手洗濯"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "i-nou-kai-hou-gun-menba",
+      "name": {
+        "original_lang": "ja",
+        "original": "異能解放軍メンバー",
+        "latin": "Ino Kaihogun Menba"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "mika",
+      "name": {
+        "original_lang": "ja",
+        "original": "ミカ",
+        "latin": "Mika"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "tsuu-shin-opereta",
+      "name": {
+        "original_lang": "ja",
+        "original": "通信オペレーター",
+        "latin": "Tsushin Opereta"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "tarutarosu-shoku-in",
+      "name": {
+        "original_lang": "ja",
+        "original": "タルタロス職員",
+        "latin": "Tartarus Shokuin"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "sen-gyo-ten-ten-shu",
+      "name": {
+        "original_lang": "ja",
+        "original": "鮮魚店店主",
+        "latin": "Sengyoten Tenshu"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "ki-sha-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "記者",
+        "latin": "Kisha"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "rou-ba",
+      "name": {
+        "original_lang": "ja",
+        "original": "老婆",
+        "latin": "Roba"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "i-den-no-yuu-jin",
+      "name": {
+        "original_lang": "ja",
+        "original": "為田の友人",
+        "latin": "Tameda no Yujin",
+        "aliases": {
+          "ja": [
+            "ためだのゆうじん"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "kan-go-shi",
+      "name": {
+        "original_lang": "ja",
+        "original": "看護師",
+        "latin": "Kangoshi"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "ku-tou-bin-ji",
+      "name": {
+        "original_lang": "ja",
+        "original": "駆藤敏次",
+        "latin": "Toshitsugu Kudo",
+        "aliases": {
+          "ja": [
+            "くどうとしつぐ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "hiro-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヒーロー",
+        "latin": "Hiro"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "mr-konpuresuno-fu-shin",
+      "name": {
+        "original_lang": "ja",
+        "original": "Mr.コンプレスの父親",
+        "latin": "Mr. Compress no Chichioya",
+        "aliases": {
+          "ja": [
+            "みすたーこんぷれすのちちおや"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "gyugesu",
+      "name": {
+        "original_lang": "ja",
+        "original": "ギュゲス",
+        "latin": "Gyges"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "brown-kan-bu",
+      "name": {
+        "original_lang": "ja",
+        "original": "BROWN幹部",
+        "latin": "BROWN Kanbu"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "shi-min-3",
+      "name": {
+        "original_lang": "ja",
+        "original": "市民",
+        "latin": "Shimin"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "i-shi",
+      "name": {
+        "original_lang": "ja",
+        "original": "医師",
+        "latin": "Ishi"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "ko-hiro",
+      "name": {
+        "original_lang": "ja",
+        "original": "虎ヒーロー",
+        "latin": "Tora Hiro"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "sou-ryo-hiro",
+      "name": {
+        "original_lang": "ja",
+        "original": "僧侶ヒーロー",
+        "latin": "Soryo Hiro"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "ekusuresu",
+      "name": {
+        "original_lang": "ja",
+        "original": "エクスレス",
+        "latin": "Ex-Less"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "kei-satsu-kou-kan",
+      "name": {
+        "original_lang": "ja",
+        "original": "警察高官",
+        "latin": "Keisatsu Kokan"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "crc-dan-in",
+      "name": {
+        "original_lang": "ja",
+        "original": "CRC団員",
+        "latin": "CRC Danin"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "uejji",
+      "name": {
+        "original_lang": "ja",
+        "original": "ウェッジ",
+        "latin": "Wedge"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "kurasuto",
+      "name": {
+        "original_lang": "ja",
+        "original": "クラスト",
+        "latin": "Crust"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "sutaandosutoraipu",
+      "name": {
+        "original_lang": "ja",
+        "original": "スターアンドストライプ",
+        "latin": "Star and Stripe",
+        "aliases": {
+          "ja": [
+            "キャスリーン・ベイト"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "hokusuno-bo",
+      "name": {
+        "original_lang": "ja",
+        "original": "ホークスの母",
+        "latin": "Hawks no Haha",
+        "aliases": {
+          "ja": [
+            "ほーくすのはは"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "you-tou-sei-en",
+      "name": {
+        "original_lang": "ja",
+        "original": "揺蕩井煙",
+        "latin": "En",
+        "aliases": {
+          "ja": [
+            "たゆたいえん",
+            "六代目・揺蕩井煙"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "shi-no-shin-hi-ei",
+      "name": {
+        "original_lang": "ja",
+        "original": "四ノ森避影",
+        "latin": "Hikage Shinomori",
+        "aliases": {
+          "ja": [
+            "しのもりひかげ",
+            "四代目・四ノ森避影"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "amerika-tai-shi",
+      "name": {
+        "original_lang": "ja",
+        "original": "アメリカ大使",
+        "latin": "Amerika Taishi"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "saidahausu",
+      "name": {
+        "original_lang": "ja",
+        "original": "サイダーハウス",
+        "latin": "Cider House"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "shoku-shin-boy",
+      "name": {
+        "original_lang": "ja",
+        "original": "食神BOY",
+        "latin": "Kuishin Boy",
+        "aliases": {
+          "ja": [
+            "くいしんぼーい"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "shi-kei-dan",
+      "name": {
+        "original_lang": "ja",
+        "original": "自警団",
+        "latin": "Jikeidan"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "pairotto",
+      "name": {
+        "original_lang": "ja",
+        "original": "パイロット",
+        "latin": "Pairotto"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "hokusunosumatofon-on-sei",
+      "name": {
+        "original_lang": "ja",
+        "original": "ホークスのスマートフォン音声",
+        "latin": "Hawks no Smartphone Onsei",
+        "aliases": {
+          "ja": [
+            "ほーくすのすまーとふぉんおんせい"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "redi-nagan",
+      "name": {
+        "original_lang": "ja",
+        "original": "レディ・ナガン",
+        "latin": "Lady Nagant",
+        "official": {
+          "ko": "레이디 나강"
+        },
+        "aliases": {
+          "ja": [
+            "筒美火伊那"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "hokusuno-fu",
+      "name": {
+        "original_lang": "ja",
+        "original": "ホークスの父",
+        "latin": "Hawks no Chichi",
+        "aliases": {
+          "ja": [
+            "ほーくすのちち"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "viran-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヴィラン",
+        "latin": "Viran"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "ichi-han-jo-sei",
+      "name": {
+        "original_lang": "ja",
+        "original": "一般女性",
+        "latin": "Ippan Josei"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "san-dai-moku-wan-fo-oru",
+      "name": {
+        "original_lang": "ja",
+        "original": "三代目ワン・フォー・オール",
+        "latin": "Third One For All User",
+        "aliases": {
+          "ja": [
+            "ブルース・リー"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "kou-an-i-in-kai-zen-kai-chou",
+      "name": {
+        "original_lang": "ja",
+        "original": "公安委員会前会長",
+        "latin": "Koan Iinkai Zen Kaicho"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "shou-nen",
+      "name": {
+        "original_lang": "ja",
+        "original": "少年",
+        "latin": "Shonen"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s6"
+      }
+    },
+    {
+      "id": "sei-san-no-fu-shin",
+      "name": {
+        "original_lang": "ja",
+        "original": "青山の父親",
+        "latin": "Aoyama no Chichioya",
+        "aliases": {
+          "ja": [
+            "あおやまのちちおや"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s7"
+      }
+    },
+    {
+      "id": "viran-3",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヴィラン",
+        "latin": "Viran"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s7"
+      }
+    },
+    {
+      "id": "son-min",
+      "name": {
+        "original_lang": "ja",
+        "original": "村民",
+        "latin": "Sonmin"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s7"
+      }
+    },
+    {
+      "id": "i-kei-shi-min",
+      "name": {
+        "original_lang": "ja",
+        "original": "異形市民",
+        "latin": "Igyo Shimin"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s7"
+      }
+    },
+    {
+      "id": "sapoto-ka-no-sei-to",
+      "name": {
+        "original_lang": "ja",
+        "original": "サポート科の生徒",
+        "latin": "Sapoto-ka no Seito"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s7"
+      }
+    },
+    {
+      "id": "sei-to-3",
+      "name": {
+        "original_lang": "ja",
+        "original": "生徒",
+        "latin": "Seito"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s7"
+      }
+    },
+    {
+      "id": "kei-kan-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "警官",
+        "latin": "Keikan"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s7"
+      }
+    },
+    {
+      "id": "kei-satsu-kan",
+      "name": {
+        "original_lang": "ja",
+        "original": "警察官",
+        "latin": "Keisatsukan"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s7"
+      }
+    },
+    {
+      "id": "kashi-kashiko",
+      "name": {
+        "original_lang": "ja",
+        "original": "カシ・カシコ",
+        "latin": "Kashi Kashiko"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s7"
+      }
+    },
+    {
+      "id": "pairotto-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "パイロット",
+        "latin": "Pairotto"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s7"
+      }
+    },
+    {
+      "id": "ei-haku-fuu-tou",
+      "name": {
+        "original_lang": "ja",
+        "original": "永白風統",
+        "latin": "Futo Nagashiro",
+        "aliases": {
+          "ja": [
+            "ながしろふうと"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s7"
+      }
+    },
+    {
+      "id": "jo-sei-to",
+      "name": {
+        "original_lang": "ja",
+        "original": "女生徒",
+        "latin": "Joseito"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s7"
+      }
+    },
+    {
+      "id": "togano-fu-shin",
+      "name": {
+        "original_lang": "ja",
+        "original": "トガの父親",
+        "latin": "Toga no Chichioya",
+        "aliases": {
+          "ja": [
+            "とがのちちおや"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s7"
+      }
+    },
+    {
+      "id": "fu-ryou-sou-bu-na",
+      "name": {
+        "original_lang": "ja",
+        "original": "普良巣舞奈",
+        "latin": "Maina Purasu",
+        "aliases": {
+          "ja": [
+            "ぷらすまいな"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s7"
+      }
+    },
+    {
+      "id": "kai-hou-sen-shi-kan-bu",
+      "name": {
+        "original_lang": "ja",
+        "original": "解放戦士幹部",
+        "latin": "Kaiho Senshi Kanbu"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s7"
+      }
+    },
+    {
+      "id": "opereta",
+      "name": {
+        "original_lang": "ja",
+        "original": "オペレーター",
+        "latin": "Opereta"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s7"
+      }
+    },
+    {
+      "id": "timoshi-agupa",
+      "name": {
+        "original_lang": "ja",
+        "original": "ティモシー・アグパー",
+        "latin": "Timothy Agpar"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s7"
+      }
+    },
+    {
+      "id": "kameraman-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "カメラマン",
+        "latin": "Kameraman"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s7"
+      }
+    },
+    {
+      "id": "sei-san-no-bo-shin",
+      "name": {
+        "original_lang": "ja",
+        "original": "青山の母親",
+        "latin": "Aoyama no Hahaoya",
+        "aliases": {
+          "ja": [
+            "あおやまのははおや"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s7"
+      }
+    },
+    {
+      "id": "isan",
+      "name": {
+        "original_lang": "ja",
+        "original": "イーサン",
+        "latin": "Ethan Drive",
+        "aliases": {
+          "ja": [
+            "イーサン・ドライブ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s7"
+      }
+    },
+    {
+      "id": "tajima",
+      "name": {
+        "original_lang": "ja",
+        "original": "タジマ",
+        "latin": "Tajima"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s7"
+      }
+    },
+    {
+      "id": "tai-tou-ryou",
+      "name": {
+        "original_lang": "ja",
+        "original": "大統領",
+        "latin": "Daitoryo"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s7"
+      }
+    },
+    {
+      "id": "gorisan",
+      "name": {
+        "original_lang": "ja",
+        "original": "ゴリさん",
+        "latin": "Gori-san"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s7"
+      }
+    },
+    {
+      "id": "kunieda",
+      "name": {
+        "original_lang": "ja",
+        "original": "KUNIEDA",
+        "latin": "Kunieda"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s7"
+      }
+    },
+    {
+      "id": "kou-den-no-bo",
+      "name": {
+        "original_lang": "ja",
+        "original": "口田の母",
+        "latin": "Koda no Haha",
+        "aliases": {
+          "ja": [
+            "こうだのはは"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s2"
+      }
+    },
+    {
+      "id": "jo-sei-ki-sha-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "女性記者",
+        "latin": "Josei Kisha"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s7"
+      }
+    },
+    {
+      "id": "shuu-jou-ro-kon-do",
+      "name": {
+        "original_lang": "ja",
+        "original": "蹴上露今努",
+        "latin": "Rokontsutomu Keage",
+        "aliases": {
+          "ja": [
+            "けあげろこんつとむ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s7"
+      }
+    },
+    {
+      "id": "dan-ji",
+      "name": {
+        "original_lang": "ja",
+        "original": "男児",
+        "latin": "Danji"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-s7"
+      }
+    },
+    {
+      "id": "erukuresu",
+      "name": {
+        "original_lang": "ja",
+        "original": "エルクレス",
+        "latin": "Ercules"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s7"
+      }
+    },
+    {
+      "id": "mihaera",
+      "name": {
+        "original_lang": "ja",
+        "original": "ミハエラ",
+        "latin": "Mihaela"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s7"
+      }
+    },
+    {
+      "id": "meriru",
+      "name": {
+        "original_lang": "ja",
+        "original": "メリル",
+        "latin": "Meryl"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-s7"
+      }
+    },
+    {
+      "id": "jurio-gandini",
+      "name": {
+        "original_lang": "ja",
+        "original": "ジュリオ・ガンディーニ",
+        "latin": "Giulio Gandini"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-youre-next"
+      }
+    },
+    {
+      "id": "dakumaito",
+      "name": {
+        "original_lang": "ja",
+        "original": "ダークマイト",
+        "latin": "Dark Might"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-youre-next"
+      }
+    },
+    {
+      "id": "buruno-gorini",
+      "name": {
+        "original_lang": "ja",
+        "original": "ブルーノ・ゴリーニ",
+        "latin": "Bruno Gorrini"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-youre-next"
+      }
+    },
+    {
+      "id": "kamiru-gorini",
+      "name": {
+        "original_lang": "ja",
+        "original": "カミル・ゴリーニ",
+        "latin": "Kamil Gorrini"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-youre-next"
+      }
+    },
+    {
+      "id": "debora-gorini",
+      "name": {
+        "original_lang": "ja",
+        "original": "デボラ・ゴリーニ",
+        "latin": "Deborah Gorrini"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-youre-next"
+      }
+    },
+    {
+      "id": "pauro-gorini",
+      "name": {
+        "original_lang": "ja",
+        "original": "パウロ・ゴリーニ",
+        "latin": "Paulo Gorrini"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-youre-next"
+      }
+    },
+    {
+      "id": "anna-sherubino",
+      "name": {
+        "original_lang": "ja",
+        "original": "アンナ・シェルビーノ",
+        "latin": "Anna Scervino"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-youre-next"
+      }
+    },
+    {
+      "id": "ugo-gorini",
+      "name": {
+        "original_lang": "ja",
+        "original": "ウーゴ・ゴリーニ",
+        "latin": "Hugo Gorrini"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-youre-next"
+      }
+    },
+    {
+      "id": "saimon-gorini",
+      "name": {
+        "original_lang": "ja",
+        "original": "サイモン・ゴリーニ",
+        "latin": "Simon Gorrini"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-youre-next"
+      }
+    },
+    {
+      "id": "sen-dai-gorini",
+      "name": {
+        "original_lang": "ja",
+        "original": "先代ゴリーニ",
+        "latin": "Sendai Gorrini",
+        "aliases": {
+          "ja": [
+            "せんだいごりーに"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-youre-next"
+      }
+    },
+    {
+      "id": "annano-fu-shin",
+      "name": {
+        "original_lang": "ja",
+        "original": "アンナの父親",
+        "latin": "Anna no Chichioya",
+        "aliases": {
+          "ja": [
+            "あんなのちちおや"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-youre-next"
+      }
+    },
+    {
+      "id": "kuu-yuu-gin-ji",
+      "name": {
+        "original_lang": "ja",
+        "original": "喰有銀次",
+        "latin": "Ginji Kuiari"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-movie-youre-next"
+      }
+    },
+    {
+      "id": "anaunsa-3",
+      "name": {
+        "original_lang": "ja",
+        "original": "アナウンサー",
+        "latin": "Anaunsa"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-movie-youre-next"
+      }
+    },
+    {
+      "id": "dan-shi-sei-to-3",
+      "name": {
+        "original_lang": "ja",
+        "original": "男子生徒",
+        "latin": "Danshi Seito"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-final-season"
+      }
+    },
+    {
+      "id": "sei-to-4",
+      "name": {
+        "original_lang": "ja",
+        "original": "生徒",
+        "latin": "Seito"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-final-season"
+      }
+    },
+    {
+      "id": "obaachan",
+      "name": {
+        "original_lang": "ja",
+        "original": "おばあちゃん",
+        "latin": "Obaachan"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-final-season"
+      }
+    },
+    {
+      "id": "shou-nen-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "少年",
+        "latin": "Shonen"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-final-season"
+      }
+    },
+    {
+      "id": "shi-kyou-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "子供",
+        "latin": "Kodomo"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-final-season"
+      }
+    },
+    {
+      "id": "shou-jo",
+      "name": {
+        "original_lang": "ja",
+        "original": "少女",
+        "latin": "Shojo"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-final-season"
+      }
+    },
+    {
+      "id": "asutoro",
+      "name": {
+        "original_lang": "ja",
+        "original": "アストロ",
+        "latin": "Astro"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-final-season"
+      }
+    },
+    {
+      "id": "shou-gen-kou-ki-no-so-fu",
+      "name": {
+        "original_lang": "ja",
+        "original": "照元光輝の祖父",
+        "latin": "Terumoto Koki no Sofu",
+        "aliases": {
+          "ja": [
+            "てるもとこうきのそふ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-final-season"
+      }
+    },
+    {
+      "id": "kyasuta",
+      "name": {
+        "original_lang": "ja",
+        "original": "キャスター",
+        "latin": "Kyasuta"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-final-season"
+      }
+    },
+    {
+      "id": "kichi-den-ryuu",
+      "name": {
+        "original_lang": "ja",
+        "original": "吉田竜",
+        "latin": "Ryu Yoshida",
+        "aliases": {
+          "ja": [
+            "よしだりゅう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-final-season"
+      }
+    },
+    {
+      "id": "kei-satsu-kan-ta",
+      "name": {
+        "original_lang": "ja",
+        "original": "警察官 他",
+        "latin": "Keisatsukan"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-final-season"
+      }
+    },
+    {
+      "id": "shi-min-4",
+      "name": {
+        "original_lang": "ja",
+        "original": "市民",
+        "latin": "Shimin"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-final-season"
+      }
+    },
+    {
+      "id": "demo-tai-in",
+      "name": {
+        "original_lang": "ja",
+        "original": "デモ隊員",
+        "latin": "Demo Taiin"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-final-season"
+      }
+    },
+    {
+      "id": "rou-jin",
+      "name": {
+        "original_lang": "ja",
+        "original": "老人",
+        "latin": "Rojin"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-final-season"
+      }
+    },
+    {
+      "id": "shou-gen-kou-ki",
+      "name": {
+        "original_lang": "ja",
+        "original": "照元光輝",
+        "latin": "Koki Terumoto",
+        "aliases": {
+          "ja": [
+            "てるもとこうき"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-final-season"
+      }
+    },
+    {
+      "id": "i-shi-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "医師",
+        "latin": "Ishi"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-final-season"
+      }
+    },
+    {
+      "id": "daikun",
+      "name": {
+        "original_lang": "ja",
+        "original": "ダイくん",
+        "latin": "Dai-kun"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-final-season"
+      }
+    },
+    {
+      "id": "kyureta",
+      "name": {
+        "original_lang": "ja",
+        "original": "キュレーター",
+        "latin": "Curator"
+      },
+      "first_appearance": {
+        "work": "my-hero-academia-game-gekitotsu-heroes-battle"
+      }
+    },
+    {
+      "id": "yaku-mei-nashi-1",
+      "name": {
+        "original_lang": "ja",
+        "original": "役名なし 1",
+        "official": {
+          "ko": "이름 없는 캐릭터 1",
+          "en": "Unnamed character 1"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-movie-2-heroes"
+      }
+    },
+    {
+      "id": "yaku-mei-nashi-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "役名なし 2",
+        "official": {
+          "ko": "이름 없는 캐릭터 2",
+          "en": "Unnamed character 2"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-movie-2-heroes"
+      }
+    },
+    {
+      "id": "yaku-mei-nashi-3",
+      "name": {
+        "original_lang": "ja",
+        "original": "役名なし 3",
+        "official": {
+          "ko": "이름 없는 캐릭터 3",
+          "en": "Unnamed character 3"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-movie-2-heroes"
+      }
+    },
+    {
+      "id": "yaku-mei-nashi-4",
+      "name": {
+        "original_lang": "ja",
+        "original": "役名なし 4",
+        "official": {
+          "ko": "이름 없는 캐릭터 4",
+          "en": "Unnamed character 4"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-movie-2-heroes"
+      }
+    },
+    {
+      "id": "yaku-mei-nashi-5",
+      "name": {
+        "original_lang": "ja",
+        "original": "役名なし 5",
+        "official": {
+          "ko": "이름 없는 캐릭터 5",
+          "en": "Unnamed character 5"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-movie-2-heroes"
+      }
+    },
+    {
+      "id": "yaku-mei-nashi-6",
+      "name": {
+        "original_lang": "ja",
+        "original": "役名なし 6",
+        "official": {
+          "ko": "이름 없는 캐릭터 6",
+          "en": "Unnamed character 6"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-movie-2-heroes"
+      }
+    },
+    {
+      "id": "yaku-mei-nashi-1-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "役名なし 1",
+        "official": {
+          "ko": "이름 없는 캐릭터 1",
+          "en": "Unnamed character 1"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-movie-heroes-rising"
+      }
+    },
+    {
+      "id": "yaku-mei-nashi-2-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "役名なし 2",
+        "official": {
+          "ko": "이름 없는 캐릭터 2",
+          "en": "Unnamed character 2"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-movie-heroes-rising"
+      }
+    },
+    {
+      "id": "yaku-mei-nashi-3-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "役名なし 3",
+        "official": {
+          "ko": "이름 없는 캐릭터 3",
+          "en": "Unnamed character 3"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-movie-heroes-rising"
+      }
+    },
+    {
+      "id": "yaku-mei-nashi-4-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "役名なし 4",
+        "official": {
+          "ko": "이름 없는 캐릭터 4",
+          "en": "Unnamed character 4"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-movie-heroes-rising"
+      }
+    },
+    {
+      "id": "yaku-mei-nashi-5-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "役名なし 5",
+        "official": {
+          "ko": "이름 없는 캐릭터 5",
+          "en": "Unnamed character 5"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-movie-heroes-rising"
+      }
+    },
+    {
+      "id": "yaku-mei-nashi-6-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "役名なし 6",
+        "official": {
+          "ko": "이름 없는 캐릭터 6",
+          "en": "Unnamed character 6"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-movie-heroes-rising"
+      }
+    },
+    {
+      "id": "yaku-mei-nashi-7",
+      "name": {
+        "original_lang": "ja",
+        "original": "役名なし 7",
+        "official": {
+          "ko": "이름 없는 캐릭터 7",
+          "en": "Unnamed character 7"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-movie-heroes-rising"
+      }
+    },
+    {
+      "id": "yaku-mei-nashi-8",
+      "name": {
+        "original_lang": "ja",
+        "original": "役名なし 8",
+        "official": {
+          "ko": "이름 없는 캐릭터 8",
+          "en": "Unnamed character 8"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-movie-heroes-rising"
+      }
+    },
+    {
+      "id": "yaku-mei-nashi-9",
+      "name": {
+        "original_lang": "ja",
+        "original": "役名なし 9",
+        "official": {
+          "ko": "이름 없는 캐릭터 9",
+          "en": "Unnamed character 9"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-movie-heroes-rising"
+      }
+    },
+    {
+      "id": "yaku-mei-nashi-1-3",
+      "name": {
+        "original_lang": "ja",
+        "original": "役名なし 1",
+        "official": {
+          "ko": "이름 없는 캐릭터 1",
+          "en": "Unnamed character 1"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-movie-whm"
+      }
+    },
+    {
+      "id": "yaku-mei-nashi-2-3",
+      "name": {
+        "original_lang": "ja",
+        "original": "役名なし 2",
+        "official": {
+          "ko": "이름 없는 캐릭터 2",
+          "en": "Unnamed character 2"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-movie-whm"
+      }
+    },
+    {
+      "id": "yaku-mei-nashi-3-3",
+      "name": {
+        "original_lang": "ja",
+        "original": "役名なし 3",
+        "official": {
+          "ko": "이름 없는 캐릭터 3",
+          "en": "Unnamed character 3"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-movie-whm"
+      }
+    },
+    {
+      "id": "yaku-mei-nashi-4-3",
+      "name": {
+        "original_lang": "ja",
+        "original": "役名なし 4",
+        "official": {
+          "ko": "이름 없는 캐릭터 4",
+          "en": "Unnamed character 4"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-movie-whm"
+      }
+    },
+    {
+      "id": "yaku-mei-nashi-5-3",
+      "name": {
+        "original_lang": "ja",
+        "original": "役名なし 5",
+        "official": {
+          "ko": "이름 없는 캐릭터 5",
+          "en": "Unnamed character 5"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-movie-whm"
+      }
+    },
+    {
+      "id": "ui-sa",
+      "name": {
+        "original_lang": "ko",
+        "original": "의사"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-more"
+      }
+    },
+    {
+      "id": "yaku-mei-nashi-1-4",
+      "name": {
+        "original_lang": "ja",
+        "original": "役名なし 1",
+        "official": {
+          "ko": "이름 없는 캐릭터 1",
+          "en": "Unnamed character 1"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-more"
+      }
+    },
+    {
+      "id": "yaku-mei-nashi-2-4",
+      "name": {
+        "original_lang": "ja",
+        "original": "役名なし 2",
+        "official": {
+          "ko": "이름 없는 캐릭터 2",
+          "en": "Unnamed character 2"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-more"
+      }
+    },
+    {
+      "id": "yaku-mei-nashi-3-4",
+      "name": {
+        "original_lang": "ja",
+        "original": "役名なし 3",
+        "official": {
+          "ko": "이름 없는 캐릭터 3",
+          "en": "Unnamed character 3"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-more"
+      }
+    },
+    {
+      "id": "yaku-mei-nashi-4-4",
+      "name": {
+        "original_lang": "ja",
+        "original": "役名なし 4",
+        "official": {
+          "ko": "이름 없는 캐릭터 4",
+          "en": "Unnamed character 4"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-more"
+      }
+    },
+    {
+      "id": "yaku-mei-nashi-5-4",
+      "name": {
+        "original_lang": "ja",
+        "original": "役名なし 5",
+        "official": {
+          "ko": "이름 없는 캐릭터 5",
+          "en": "Unnamed character 5"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-more"
+      }
+    },
+    {
+      "id": "yaku-mei-nashi-6-3",
+      "name": {
+        "original_lang": "ja",
+        "original": "役名なし 6",
+        "official": {
+          "ko": "이름 없는 캐릭터 6",
+          "en": "Unnamed character 6"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-more"
+      }
+    },
+    {
+      "id": "yaku-mei-nashi-7-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "役名なし 7",
+        "official": {
+          "ko": "이름 없는 캐릭터 7",
+          "en": "Unnamed character 7"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-more"
+      }
+    },
+    {
+      "id": "robber",
+      "name": {
+        "original_lang": "en",
+        "original": "Robber"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-more"
+      }
+    },
+    {
+      "id": "train-announcement",
+      "name": {
+        "original_lang": "en",
+        "original": "Train Announcement",
+        "official": {
+          "ko": "안내방송"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-more"
+      }
+    },
+    {
+      "id": "elementary-school-student",
+      "name": {
+        "original_lang": "en",
+        "original": "Elementary School Student"
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "my-hero-academia-more"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%83%95%E3%81%AE%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%82%A2",
+      "title": "僕のヒーローアカデミア",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E5%83%95%E3%81%AE%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%82%A2_%28%E3%82%A2%E3%83%8B%E3%83%A1%29",
+      "title": "僕のヒーローアカデミア (アニメ)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s3",
+      "url": "https://ko.wikipedia.org/wiki/%EB%82%98%EC%9D%98_%ED%9E%88%EC%96%B4%EB%A1%9C_%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%EC%95%84_%28%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%29",
+      "title": "나의 히어로 아카데미아 (애니메이션)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

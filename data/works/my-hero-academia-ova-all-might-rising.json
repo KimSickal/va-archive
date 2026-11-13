@@ -1,0 +1,80 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "my-hero-academia-ova-all-might-rising",
+  "franchise_id": "my-hero-academia",
+  "type": "anime_ova",
+  "title": {
+    "original_lang": "ja",
+    "original": "No.0 ALL MIGHT:RISING",
+    "latin": "No.0 All Might: Rising",
+    "aliases": {
+      "ja": [
+        "オールマイト：ライジング",
+        "ALL MIGHT：RISING THE ANIMATION"
+      ]
+    }
+  },
+  "order": 8,
+  "status": "finished",
+  "start_date": "2019-02-13",
+  "episodes": 1,
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "ボンズ",
+      "latin": "Bones",
+      "official": {
+        "en": "Bones"
+      }
+    }
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2019-02-13",
+      "credits": [
+        {
+          "character": "gurantorino",
+          "person": "hoku-den-ri-dou",
+          "role": "supporting",
+          "part": "young",
+          "source_refs": [
+            "s1"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E7%94%B0%E7%90%86%E9%81%93",
+      "title": "北田理道",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sho-hou-yuu-na",
+  "slug": "yuna-ogata",
+  "name": {
+    "original_lang": "ja",
+    "original": "緒方佑奈",
+    "latin": "Yuna Ogata",
+    "official": {
+      "en": "Yuna Ogata"
+    },
+    "aliases": {
+      "ja": [
+        "おがたゆうな"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1997",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%B7%92%E6%96%B9%E4%BD%91%E5%A5%88",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%98%A4%EA%B0%80%ED%83%80_%EC%9C%A0%EB%82%98",
+    "en": "https://en.wikipedia.org/wiki/Yuna_Ogata"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%B7%92%E6%96%B9%E4%BD%91%E5%A5%88",
+      "title": "緒方佑奈",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

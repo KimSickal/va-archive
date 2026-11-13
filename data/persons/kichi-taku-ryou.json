@@ -1,0 +1,45 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kichi-taku-ryou",
+  "slug": "ryo-yoshizawa",
+  "name": {
+    "original_lang": "ja",
+    "original": "吉沢亮",
+    "latin": "Ryo Yoshizawa",
+    "official": {
+      "en": "Ryo Yoshizawa"
+    },
+    "aliases": {
+      "ja": [
+        "よしざわりょう"
+      ]
+    }
+  },
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1994",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%90%89%E6%B2%A2%E4%BA%AE",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9A%94%EC%8B%9C%EC%9E%90%EC%99%80_%EB%A3%8C",
+    "en": "https://en.wikipedia.org/wiki/Ryo_Yoshizawa"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%90%89%E6%B2%A2%E4%BA%AE",
+      "title": "吉沢亮",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

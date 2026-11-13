@@ -1,0 +1,470 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "my-hero-academia-memories",
+  "franchise_id": "my-hero-academia",
+  "type": "anime_special",
+  "title": {
+    "original_lang": "ja",
+    "original": "僕のヒーローアカデミア Memories",
+    "latin": "Boku no Hero Academia Memories",
+    "official": {
+      "en": "My Hero Academia Memories"
+    }
+  },
+  "order": 18,
+  "status": "finished",
+  "start_date": "2024-04-06",
+  "end_date": "2024-04-27",
+  "episodes": 4,
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "ボンズ",
+      "latin": "Bones",
+      "official": {
+        "en": "Bones"
+      }
+    }
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2024-04-06",
+      "credits": [
+        {
+          "character": "gurantorino",
+          "person": "sho-hou-ken-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "oru-fo-wan",
+          "person": "tai-chou-mei-fu",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "sa-naitoai",
+          "person": "san-boku-shin-ichi-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "togahimiko",
+          "person": "fuku-en-bi-ri",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "endeva",
+          "person": "tou-den-tetsu",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "to-hi",
+          "person": "ka-ya-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "shi-son-sai-na",
+          "person": "en-ki-mi-kei",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "orumaito",
+          "person": "san-taku-ken-ta",
+          "role": "main",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "hokusu",
+          "person": "chuu-son-yuu-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "miruko",
+          "person": "boku-ka-sa-ka",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "shi-hei-boku-chou",
+          "person": "dai-san-kou-ki",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "gou-shou-tou",
+          "person": "bi-yuu-ki",
+          "role": "main",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "baku-gou-shou-ki",
+          "person": "kou-hon-shin-gen",
+          "role": "main",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "tuwaisu",
+          "person": "en-tou-tai-chi",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "rei-nichi-o-cha-shi",
+          "person": "sa-sou-ryou-on",
+          "role": "main",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "setsu-tou-ei-ji-rou",
+          "person": "zou-den-shun-ju",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "ryoku-koku-shutsu-kyuu",
+          "person": "san-ka-tai-ki",
+          "role": "main",
+          "source_refs": [
+            "s2"
+          ]
+        }
+      ],
+      "last_release_date": "2024-04-27"
+    },
+    {
+      "id": "ko-daewon",
+      "language": "ko",
+      "kind": "dub",
+      "label": {
+        "original_lang": "ko",
+        "original": "한국어 더빙 (대원방송)",
+        "translations": {
+          "ja": "韓国語吹替（大元放送）",
+          "en": "Korean dub (Daewon Broadcasting)"
+        },
+        "translated": [
+          "ja",
+          "en"
+        ]
+      },
+      "distributor": {
+        "original_lang": "ko",
+        "original": "대원방송",
+        "latin": "Daewon Broadcasting",
+        "official": {
+          "en": "Daewon Broadcasting"
+        },
+        "aliases": {
+          "ja": [
+            "大元放送"
+          ]
+        }
+      },
+      "source_refs": [
+        "s3"
+      ],
+      "release_date": "2024-07-17",
+      "last_release_date": "2024-07-24",
+      "credits": [
+        {
+          "character": "gurantorino",
+          "person": "jang-gwang",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s5",
+            "s3"
+          ],
+          "assumption": "continued_cast"
+        },
+        {
+          "character": "oru-fo-wan",
+          "person": "min-eung-sik",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s5",
+            "s3"
+          ],
+          "assumption": "continued_cast"
+        },
+        {
+          "character": "sa-naitoai",
+          "person": "seo-won-seok",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s6",
+            "s3"
+          ],
+          "assumption": "continued_cast"
+        },
+        {
+          "character": "togahimiko",
+          "person": "gang-eun-ae",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s5",
+            "s3"
+          ],
+          "assumption": "continued_cast"
+        },
+        {
+          "character": "endeva",
+          "person": "song-jun-seok",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s5",
+            "s3"
+          ],
+          "assumption": "continued_cast"
+        },
+        {
+          "character": "to-hi",
+          "person": "jeong-ju-won",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s5",
+            "s3"
+          ],
+          "assumption": "continued_cast"
+        },
+        {
+          "character": "shi-son-sai-na",
+          "person": "i-da-eun",
+          "role": "supporting",
+          "source_refs": [
+            "s5",
+            "s3"
+          ],
+          "verification": "unverified",
+          "assumption": "continued_cast"
+        },
+        {
+          "character": "orumaito",
+          "person": "seong-wan-gyeong",
+          "role": "main",
+          "source_refs": [
+            "s4",
+            "s5",
+            "s3"
+          ],
+          "assumption": "continued_cast"
+        },
+        {
+          "character": "hokusu",
+          "person": "im-chae-bin",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s5",
+            "s3"
+          ],
+          "assumption": "continued_cast"
+        },
+        {
+          "character": "miruko",
+          "person": "i-da-eun",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s5",
+            "s3"
+          ],
+          "assumption": "continued_cast"
+        },
+        {
+          "character": "shi-hei-boku-chou",
+          "person": "i-gyeong-tae",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s5",
+            "s3"
+          ],
+          "assumption": "continued_cast"
+        },
+        {
+          "character": "gou-shou-tou",
+          "person": "sin-yong-u",
+          "role": "main",
+          "source_refs": [
+            "s4",
+            "s5",
+            "s3"
+          ],
+          "assumption": "continued_cast"
+        },
+        {
+          "character": "baku-gou-shou-ki",
+          "person": "gim-hyeon-uk",
+          "role": "main",
+          "source_refs": [
+            "s4",
+            "s5",
+            "s3"
+          ],
+          "assumption": "continued_cast"
+        },
+        {
+          "character": "tuwaisu",
+          "person": "seo-ban-seok",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s5",
+            "s3"
+          ],
+          "assumption": "continued_cast"
+        },
+        {
+          "character": "rei-nichi-o-cha-shi",
+          "person": "yun-mi-na",
+          "role": "main",
+          "source_refs": [
+            "s4",
+            "s5",
+            "s3"
+          ],
+          "assumption": "continued_cast"
+        },
+        {
+          "character": "setsu-tou-ei-ji-rou",
+          "person": "bak-yo-han",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s5",
+            "s3"
+          ],
+          "assumption": "continued_cast"
+        },
+        {
+          "character": "ryoku-koku-shutsu-kyuu",
+          "person": "sim-gyu-hyeok",
+          "role": "main",
+          "source_refs": [
+            "s4",
+            "s5",
+            "s3"
+          ],
+          "assumption": "continued_cast"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%83%95%E3%81%AE%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%82%A2_%28%E3%82%A2%E3%83%8B%E3%83%A1%29",
+      "title": "僕のヒーローアカデミア (アニメ)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=31066",
+      "title": "My Hero Academia Memories - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s3",
+      "url": "https://namu.wiki/w/%EB%82%98%EC%9D%98%20%ED%9E%88%EC%96%B4%EB%A1%9C%20%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%EC%95%84%28%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%207%EA%B8%B0%29",
+      "title": "나의 히어로 아카데미아(애니메이션 7기) - 나무위키",
+      "publisher": "namuwiki",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s4",
+      "url": "https://ko.wikipedia.org/wiki/%EB%82%98%EC%9D%98_%ED%9E%88%EC%96%B4%EB%A1%9C_%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%EC%95%84_%28%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%29",
+      "title": "나의 히어로 아카데미아 (애니메이션)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s5",
+      "url": "https://m.cafe.daum.net/CastingBank/5AC4/240",
+      "title": "[애니박스] '나의 히어로 아카데미아 6기' 성우진 - 캐스팅뱅크[한국성우DB카페]",
+      "publisher": "other",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s6",
+      "url": "https://m.cafe.daum.net/CastingBank/5AC4/225",
+      "title": "[애니박스] '나의 히어로 아카데미아 4기' 성우진 - 캐스팅뱅크[한국성우DB카페]",
+      "publisher": "other",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

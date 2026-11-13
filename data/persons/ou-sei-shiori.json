@@ -1,0 +1,43 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ou-sei-shiori",
+  "slug": "shiori-sakurai",
+  "name": {
+    "original_lang": "ja",
+    "original": "桜井しおり",
+    "latin": "Shiori Sakurai",
+    "aliases": {
+      "ja": [
+        "さくらいしおり",
+        "桜あず",
+        "櫻井しおり"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1995",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%A1%9C%E4%BA%95%E3%81%97%E3%81%8A%E3%82%8A"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A1%9C%E4%BA%95%E3%81%97%E3%81%8A%E3%82%8A",
+      "title": "桜井しおり",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

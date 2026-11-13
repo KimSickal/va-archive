@@ -1,0 +1,23 @@
+{
+  "$schema": "../schema/decision.schema.json",
+  "id": "2026-11-14-yasuhiro-birth",
+  "date": "2026-11-14",
+  "kind": "field_value",
+  "subjects": [
+    {
+      "kind": "person",
+      "id": "yasuhiro",
+      "field": "/birth"
+    }
+  ],
+  "decision": "yasuhiro(ヤスヒロ)의 birth를 '1972-03-03'으로 통일 (MHA 스테이징 '1972' → '1972-03-03', BLEACH 스테이징은 그대로).",
+  "rationale": "두 사본이 같은 ja.wikipedia 문서를 출처로 들고 있고, 그 문서의 인포박스와 도입문이 모두 1972년 3월 3일(日本タレント名鑑 등 인용). 정밀도가 더 높은 값을 같은 Tier 2 출처가 뒷받침하므로 충돌이 아니라 MHA 사본의 정밀도 부족.",
+  "evidence": [
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%82%B9%E3%83%92%E3%83%AD",
+      "quote": "1972年3月3日",
+      "tier": 2
+    }
+  ],
+  "decided_by": "mediator"
+}

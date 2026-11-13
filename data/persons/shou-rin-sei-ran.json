@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shou-rin-sei-ran",
+  "slug": "seiran-kobayashi",
+  "name": {
+    "original_lang": "ja",
+    "original": "小林星蘭",
+    "latin": "Seiran Kobayashi",
+    "official": {
+      "en": "Seiran Kobayashi"
+    },
+    "aliases": {
+      "ja": [
+        "こばやしせいらん"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "2004",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9E%97%E6%98%9F%E8%98%AD",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%BD%94%EB%B0%94%EC%95%BC%EC%8B%9C_%EC%84%B8%EC%9D%B4%EB%9E%80",
+    "en": "https://en.wikipedia.org/wiki/Seiran_Kobayashi"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9E%97%E6%98%9F%E8%98%AD",
+      "title": "小林星蘭",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

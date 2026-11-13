@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "gan-ki-sei-jitsu",
+  "slug": "masami-iwasaki",
+  "name": {
+    "original_lang": "ja",
+    "original": "岩崎征実",
+    "latin": "Masami Iwasaki",
+    "official": {
+      "en": "Masami Iwasaki"
+    },
+    "aliases": {
+      "ja": [
+        "いわさきまさみ"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1971",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E5%B4%8E%E5%BE%81%E5%AE%9F",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%99%80%EC%82%AC%ED%82%A4_%EB%A7%88%EC%82%AC%EB%AF%B8",
+    "en": "https://en.wikipedia.org/wiki/Masami_Iwasaki"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E5%B4%8E%E5%BE%81%E5%AE%9F",
+      "title": "岩崎征実",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

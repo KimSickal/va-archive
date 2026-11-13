@@ -1,0 +1,28 @@
+{
+  "$schema": "../schema/decision.schema.json",
+  "id": "2026-11-14-mha-jiro-mother-first-appearance",
+  "date": "2026-11-14",
+  "kind": "field_value",
+  "subjects": [
+    {
+      "kind": "character",
+      "id": "my-hero-academia/ji-rou-bi-kou",
+      "field": "/first_appearance"
+    }
+  ],
+  "decision": "耳郎美香(ji-rou-bi-kou)의 first_appearance를 s4 → s3로 변경. S3 일본어판 크레딧은 복원하지 않음(일본어 성우의 S3 출연을 적은 Tier 1~2 출처 없음).",
+  "rationale": "ANN S3(TV 3) 영어 캐스트에 'Katelyn Barr as Jiro's Mom (ep 50)'이 있어 S3 50화(한국 3기 12화)에 등장·발화한다. 한국 크레딧 '12화 강은애 - 지로 엄마 役'과 회차가 맞고, 남편 耳郎響徳도 같은 회차(first_appearance s3)에 처음 나온다. 渡辺明乃 ja.wikipedia의 ep86은 S4 재등장.",
+  "evidence": [
+    {
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=20356",
+      "quote": "Katelyn Barr as Jiro's Mom (ep 50)",
+      "tier": 2
+    },
+    {
+      "url": "https://m.cafe.daum.net/CastingBank/5AC4/212",
+      "quote": "12화 … 강은애 - 지로 엄마 役",
+      "tier": 3
+    }
+  ],
+  "decided_by": "mediator"
+}
