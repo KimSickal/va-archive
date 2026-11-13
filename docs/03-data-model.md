@@ -108,7 +108,8 @@ locale `L`로 표시할 때 다음 순서로 고른다.
 ### ID
 - 형식: `^[a-z0-9]+(-[a-z0-9]+)*$` (소문자 kebab-case, 로마자 기반)
 - 예: `kana-hanazawa`, `frieren`, `frieren-s1`, `genshin-impact`
-- 동명이인이나 충돌이 있으면 접미사를 붙인다: `-2`, 또는 출생연도 `-1985`
+- 성우는 내부 ID와 표시 ID를 따로 둔다 (4.1절). 아래 규칙은 작품·시리즈·캐릭터 ID에 적용한다.
+- 충돌이 있으면 접미사 `-2`를 붙인다.
 - 같은 엔티티 종류 안에서 유일해야 하고, 부여 후에는 바꾸지 않는다(바꿔야 하면 `data/redirects.json`에 매핑을 남긴다).
 - 캐릭터 ID는 프랜차이즈 안에서만 유일하면 된다. 참조할 때는 `franchise_id` + `character_id` 조합을 쓴다.
 
@@ -160,7 +161,8 @@ locale `L`로 표시할 때 다음 순서로 고른다.
 | 필드 | 타입 | 필수 | 설명 |
 |---|---|---|---|
 | `$schema` | const | ✓ | `../schema/person.schema.json` |
-| `id` | ID | ✓ | |
+| `id` | ID | ✓ | **내부 ID** (4.1절). 다른 파일은 이 값으로 참조 |
+| `slug` | ID | ✓ | **표시 ID** (URL) (4.1절) |
 | `name` | Name | ✓ | |
 | `gender` | enum | | `female` / `male` / `other`. 본인이 공개한 정보가 있을 때만 |
 | `nationality` | string[] | | ISO 3166-1 alpha-2 (`JP`, `KR`, …). 출처가 있을 때만 |
@@ -175,6 +177,33 @@ locale `L`로 표시할 때 다음 순서로 고른다.
 | `meta` | RecordMeta | ✓ | |
 
 출연작 목록은 Person 파일에 저장하지 않는다. 빌드할 때 Work의 Credit에서 역인덱스로 만든다. 데이터를 한 곳에만 두기 위해서다.
+
+### 4.1 성우 ID: 내부 ID와 표시 ID
+
+| | 내부 ID (`id`) | 표시 ID (`slug`) |
+|---|---|---|
+| 용도 | 파일 이름, 모든 참조(Credit, 결정 기록, 즐겨찾기 저장) | URL (`#/person/<slug>`) |
+| 사용자에게 | 보이지 않음 | 보임 |
+| 만드는 법 | **원어 표기만**을 입력으로 결정적 로마자 변환 (`scripts/lib/romanize.ts`) | `latin`(공식 로마자 표기)의 kebab-case |
+| 동명이인 | 같은 기본형이면 `-2`, `-3` … (동명이인 판정용 번호) | `{이름}-{출생연도}`, 출생연도 미상은 `0000`, 같은 해면 `{이름}-{출생연도}-{번호}` |
+| 바뀌는가 | **불변** (원어 표기가 나중에 바뀌어도 그대로) | 바뀔 수 있음. 이전 값은 `redirects.persons`에 (이전 slug → 내부 ID) |
+
+**내부 ID 변환 규칙** (`ROMANIZER_VERSION` 1)
+- 한글: 국어의 로마자 표기법, 음절 단위, 음운 변화 미적용 (정미숙 → `jeong-mi-suk`)
+- 가나: 헵번식, 장음 유지 (チョー → `cho`, さとうあい → `satouai`)
+- 라틴: 악센트 제거·소문자
+- 한자: Unicode Unihan 16.0에서 만든 글자별 고정 읽기 표(`scripts/data/han-readings.json`). 일본어는 음독 우선, 중국어는 병음 (宮野真守 → `kyuu-ya-shin-shu`)
+- 정확한 읽기가 아니어도 된다. 목표는 **누가 만들어도 같은 결과**(결정성)다. 그래서 출처마다 있을 수도 없을 수도 있는 후리가나·병음은 입력으로 쓰지 않는다.
+- 변환 규칙이나 읽기 표를 바꾸면 `ROMANIZER_VERSION`을 올린다. 기존 ID는 다시 계산하지 않는다.
+
+**표시 ID 규칙**
+- 동명이인(같은 `latin` slug)이 없으면 접미사 없음: `mamoru-miyano`
+- 동명이인이 생기면 모두 `-{출생연도|0000}`: `yu-hayashi-1985`, `yu-hayashi-0000`
+- 같은 해 동명이인은 내부 ID의 동명이인 번호: `yu-hayashi-1985-1`, `yu-hayashi-1985-2`. 원어가 달라 번호가 겹치면(둘 다 1) 내부 ID 순서로 매긴다
+- 동명이인이 추가되어 기존 사람의 slug가 바뀌면, 이전 slug는 **원래 그 slug를 쓰던 사람**에게 리다이렉트된다 (예전 링크가 가리키던 사람)
+- 규칙은 검증 스크립트가 확인하고, `npx tsx scripts/cli/assign-slugs.ts`가 일괄 갱신·리다이렉트 기록을 한다
+
+**새 성우 만들기**: 직접 ID를 짓지 않고 `npx tsx scripts/cli/person-id.ts "<원어>" <언어> [--birth YYYY]`로 발급받는다. data와 병렬 작업 중인 스테이징을 모든 표기로 검색해 `reuse`/`create`/`conflict`를 알려 준다 (`docs/06` 11절).
 
 ## 5. Franchise (`data/franchises/<id>.json`)
 
@@ -294,7 +323,9 @@ JSON Schema만으로는 잡을 수 없어 스크립트로 검사하는 규칙들
 7. 한 버전 안에서 (character, person, part, episodes) 조합이 중복되지 않는다.
 8. `start_date <= end_date`이고, `version.release_date <= version.last_release_date`이다.
 9. 어떤 Credit에서도 참조하지 않는 Person, 어떤 작품에서도 쓰이지 않는 Character는 **경고**로 처리한다(에러 아님).
-10. 이름 정규화 결과가 같은 Person이 둘 이상이면 **경고**로 처리한다. 중복 생성인지 동명이인인지 확인하기 위해서다.
+10. **중복 의심 성우 (오류)**: 한쪽의 원어 표기가 다른 쪽의 원어·공식·별칭 표기와 같고 출생연도가 모순되지 않으면 오류. 같은 사람이면 병합, 다른 사람이면 `data/decisions/`에 `different_person` 결정을 기록해 예외 처리한다(`resolve-conflict` 스킬).
+10-1. **성우 ID**: 내부 ID가 변환 규칙(기본형 또는 기본형-N)과 맞는지, slug가 표시 ID 규칙과 맞고 유일한지. `redirects.persons`의 키가 현재 쓰는 slug·id가 아니고 값이 존재하는 내부 ID인지.
+10-2. 결정 기록(`data/decisions/`)의 대상이 존재하는지 (경고).
 11. 이름이 있는 캐릭터(`nameless`가 아님) 중 `role`이 `main`/`supporting`인데 `image`가 없으면 **경고**로 처리한다.
 
 ## 8. 스키마 버전 관리

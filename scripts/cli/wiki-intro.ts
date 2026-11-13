@@ -4,8 +4,11 @@
  *   npx tsx scripts/cli/wiki-intro.ts <url>...            # 위키백과 문서 URL들 (언어판 섞여도 됨)
  *   npx tsx scripts/cli/wiki-intro.ts --json <url>...     # JSON 출력 ({url, title, intro, reading})
  *
+ * 요청은 scripts/lib/http.ts(사이트별 공용 속도 제한 + 캐시)를 거친다.
  * reading: 일본어판 도입부 "漢字 名前（よみ がな、…" 패턴에서 뽑은 후리가나 (공백 제거, 없으면 null)
  */
+import { politeFetch } from '../lib/http.ts';
+
 const args = process.argv.slice(2);
 const asJson = args[0] === '--json';
 const urls = asJson ? args.slice(1) : args;
@@ -28,17 +31,9 @@ export function extractReading(intro: string): string | null {
 
 async function fetchBatch(lang: string, titles: string[]): Promise<Map<string, string>> {
   const api = `https://${lang}.wikipedia.org/w/api.php?action=query&prop=extracts&exintro=1&explaintext=1&redirects=1&format=json&formatversion=2&exlimit=20&titles=${encodeURIComponent(titles.join('|'))}`;
-  let res: Response | undefined;
-  for (let attempt = 0; attempt < 6; attempt++) {
-    res = await fetch(api, { headers: { 'User-Agent': 'va-archive-data-tool/0.1' } });
-    if (res.status !== 429 && res.status < 500) break;
-    // 속도 제한: Retry-After(초)를 따르고, 없으면 지수 백오프
-    const wait = Number(res.headers.get('retry-after')) * 1000 || 2000 * 2 ** attempt;
-    console.error(`${lang} API ${res.status}, retry in ${wait / 1000}s`);
-    await new Promise((r) => setTimeout(r, wait));
-  }
-  if (!res || !res.ok) throw new Error(`${lang} API ${res?.status}`);
-  const j = (await res.json()) as {
+  const res = await politeFetch(api);
+  if (res.status !== 200) throw new Error(`${lang} API ${res.status}`);
+  const j = JSON.parse(res.body) as {
     query: {
       pages: { title: string; extract?: string }[];
       redirects?: { from: string; to: string }[];
@@ -79,7 +74,6 @@ export async function fetchIntros(list: string[]): Promise<Intro[]> {
           reading: lang === 'ja' ? extractReading(intro) : null,
         });
       }
-      await new Promise((r) => setTimeout(r, 1500));
     }
   }
   return results;

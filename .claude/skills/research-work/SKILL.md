@@ -2,7 +2,7 @@
 name: research-work
 description: va-archive 데이터 수집 지침. 지정된 작품의 기본 정보·캐릭터·버전별 배역·성우를 신뢰할 수 있는 출처에서 조사해 스키마에 맞는 JSON으로 스테이징 디렉토리에 작성한다. researcher 에이전트가 사용.
 schema_version: 0.2.0
-skill_version: 0.3.0
+skill_version: 0.4.0
 ---
 
 # research-work
@@ -18,12 +18,15 @@ skill_version: 0.3.0
 
 ## 1. ID 규칙 (여러 에이전트가 병렬로 작업해도 같은 대상에 같은 ID가 나오도록 결정적으로 짓는다)
 - 소문자 로마자 kebab-case. 장음 기호·악센트 제거(ō→o, ū→u), 공백·중점·아포스트로피 → `-`.
-- **성우**: `latin` 표기를 **순서 그대로** kebab-case로. 일본인은 latin을 "이름 성"으로 쓰므로 宮野真守(Mamoru Miyano) → `mamoru-miyano`. 한국인은 본인 표기 순서를 따르므로 `Jung Mi-sook` → `jung-mi-sook`.
-- 기존 성우 확인: `data/persons/`에 같은 사람이 이미 있으면 그 ID를 그대로 참조하고 **파일을 새로 만들지 않는다**. (`grep -ril "<원어 이름>" data/persons`)
-- 동명이인이 확실하면 `-2` 대신 출생연도 접미사(`-1985`)를 붙인다.
+- **성우는 직접 ID를 짓지 않는다.** 성우를 배역에 넣기 전에 반드시 실행한다:
+  `npx tsx scripts/cli/person-id.ts "<원어 표기>" <원어 언어> [--birth YYYY] [--alias "<다른 표기>"]...`
+  - `reuse` → 그 내부 ID를 참조하고 **새 파일을 만들지 않는다** (기존 파일에 정보를 보탤 필요가 있으면 스테이징에 복사해서 수정)
+  - `create` → 그 ID로 `persons/<id>.json` 작성. `slug`는 `latin`의 kebab-case (동명이인 접미사는 병합 때 `assign-slugs`가 붙인다)
+  - `conflict` → 파일을 만들지 말고 보고서 `person_conflicts`에 후보와 함께 기록. 배역은 임시로 후보 중 가장 유력한 ID를 쓰고 `uncertain`에도 남긴다 (mediator가 결정)
+  - 내부 ID는 원어 표기에서 기계적으로 만들어진다(宮野真守 → `kyuu-ya-shin-shu`). 읽기와 달라 보여도 고치지 않는다.
 - **캐릭터**: 원어 이름의 로마자 kebab-case (예: ゴン=フリークス → `gon-freecss`, 공식 영문 표기가 있으면 그것 기준). 스포일러 캐릭터는 정체가 드러나지 않는 ID.
 - **이름 없는 배역**: `<표기>-<작품 약어>` 예: `villager-a-s1`, `hrl-soldier-s2`, `receptionist-2011`.
-- 다른 작품에 이미 등장한 성우는 `data/persons/`와 **다른 스테이징 루트**(`.work/research/*/data/persons/`)를 원어 이름으로 검색해 같은 ID를 쓴다. (사례: 三木眞一郎 → `shinichiro-miki`. `shin-ichiro-miki`처럼 하이픈을 넣지 않는다)
+- `person-id.ts`는 `data/`와 다른 에이전트의 스테이징(`.work/research/*/data/`)을 모든 표기(별칭·옛 예명 포함)로 함께 검색한다.
 - **버전**: 원판 `ja`, 한국어 더빙 `ko-<방송사·플랫폼 약어>` (예: `ko-tooniverse`, `ko-aniplus`). 방송사를 모르면 `ko`.
 
 ## 2. 출처 정책 (`docs/06-data-collection.md` 4절)
@@ -48,6 +51,11 @@ skill_version: 0.3.0
 - **읽기(후리가나)**: 원어 표기에 한자가 있으면 출처(위키백과 도입부 괄호, 공식 프로필의 ふりがな)의 읽기를 히라가나·공백 없이 `aliases.ja`에 넣는다. 성우·캐릭터 모두 해당(이름 없는 배역은 생략 가능). 원어 표기 안에 괄호로 읽기를 넣지 않는다. 추측 금지.
 - **다른 활동명**: 해외 활동명 → `official.<언어>` (+ 읽기는 aliases), 옛 예명·별명의 → `aliases.<언어>`, 다른 명의로 크레딧된 배역 → Credit `credited_as`. 같은 사람이면 성우 파일은 하나. 활동에 쓰지 않은 본명·옛 성은 기록하지 않는다.
 - 도구: `npx tsx scripts/cli/wiki-intro.ts <위키백과 URL>...` 로 여러 문서의 도입부와 후리가나를 한 번에 확인할 수 있다.
+
+## 3-1. 요청 예절 (속도 제한)
+- 같은 사이트의 여러 문서(예: 성우 수십 명의 위키백과)는 하나씩 열지 말고 스크립트로 일괄 처리한다 (`wiki-intro.ts`: API 한 번에 20건). 스크립트 요청은 `scripts/lib/http.ts`를 거쳐 사이트별 공용 속도 제한(위키백과 1초당 1회, 그 외 2초당 1회)과 캐시(`.work/cache/`, 7일)가 적용된다.
+- 새 일괄 수집 스크립트를 만들면 반드시 `politeFetch`를 쓴다.
+- 429(요청 과다)를 받으면 같은 사이트를 잠시 쉬고 다른 출처를 먼저 조사한다.
 
 ## 4. 작성 절차
 1. 범위 확인: 작품 목록과 각 작품의 ID를 정한다. 프랜차이즈 파일이 `data/franchises/`에 이미 있으면 복사해 와서 캐릭터를 **추가**한다(기존 캐릭터 ID 유지).
@@ -77,7 +85,8 @@ skill_version: 0.3.0
   "uncertain": [{ "file": "...", "pointer": "/versions/1/credits/3", "reason": "..." }],
   "conflicts": [{ "topic": "...", "sources": ["s1", "s4"], "decision": "..." }],
   "omitted": ["어떤 범위를 왜 생략했는지"],
-  "official_name_basis": [{ "name": "곤", "basis": "투니버스 방영판 크레딧 (s7)" }]
+  "official_name_basis": [{ "name": "곤", "basis": "투니버스 방영판 크레딧 (s7)" }],
+  "person_conflicts": [{ "original": "蒼月昇", "lang": "ja", "candidates": ["…person-id 출력…"], "used": "<임시로 쓴 id>" }]
 }
 ```
 

@@ -4,77 +4,68 @@ Claude Code를 로컬에서 실행하고, 레포에 포함된 스킬과 서브�
 
 ## 1. 구성 요소
 
+### 역할
+| 역할 | 스킬 | 하는 일 | 데이터 판단 |
+|---|---|---|---|
+| 오케스트레이터 (메인 세션) | `add-work` | 작업 배정·잠금, 스크립트 실행, 에이전트 호출, 결과의 기계적 반영, 사용자 질문 전달 | **하지 않음** |
+| researcher | `research-work` | 조사해서 스테이징에 작성, fix 모드로 이슈 수정 | 작성 |
+| verifier | `verify-work` | 독립 검증, 이슈 보고 (데이터 수정 안 함) | 지적만 |
+| mediator | `resolve-conflict` | 병렬 작업 간·출처 간 **사실 충돌**을 제3자로서 조사·결정, 결정 기록 | 사실 문제만 |
+| 사용자 | — | mediator가 못 정한 것, **정책 문제**(규칙이 없는 경우) | 최종 결정 |
+
+오케스트레이터가 판단하지 않는 이유: 판단이 한 세션의 대화 맥락에 묻히면 일관성을 확인할 수 없다. 판단은 근거와 함께 `data/decisions/`에 남는 역할(mediator·사용자)만 한다.
+
+### 파일
 ```
-.claude/
-├─ skills/
-│  ├─ add-work/                 # 오케스트레이터. 사용자가 "/add-work <작품명>"으로 실행
-│  │  └─ SKILL.md
-│  ├─ refresh-work/             # 기존 작품 재조사 (재조사 안내 대상 갱신). add-work와 같은 흐름에 update 모드
-│  │  └─ SKILL.md
-│  ├─ research-work/            # researcher 에이전트용 지침: 출처 정책, 스키마 매핑, 작성 규칙
-│  │  ├─ SKILL.md
-│  │  ├─ source-policy.md
-│  │  └─ examples/              # 스키마를 통과하는 예시 데이터 (스킬 자체 테스트용)
-│  └─ verify-work/              # verifier 에이전트용 지침: 검증 범위, 이슈 보고 형식
-│     └─ SKILL.md
-└─ agents/
-   ├─ researcher.md             # 웹 검색과 data/ 쓰기 권한. research-work 스킬 사용
-   └─ verifier.md               # 웹 검색과 읽기 권한. data/ 쓰기 금지. verify-work 스킬 사용
+.claude/skills/
+├─ add-work/SKILL.md            # 오케스트레이터 (중립 규칙, 실행 순서)
+├─ research-work/SKILL.md       # researcher
+├─ verify-work/SKILL.md         # verifier
+└─ resolve-conflict/SKILL.md    # mediator
+data/decisions/<날짜>-<요약>.json  # 중재·사용자 결정 기록 (decision.schema.json)
 scripts/cli/
-├─ find-entity.ts               # 정규화 이름으로 기존 person/franchise/work 검색 (중복 생성 방지)
-├─ skill-hash.ts                # 스킬 디렉토리 내용 해시 계산 / 비교 / 동기화 (3절)
-└─ stale-report.ts              # 재조사 필요 작품 목록
+├─ person-id.ts                 # 새 성우 만들기 전 필수: 기존·병렬 작업의 같은 사람 검색, 내부 ID 발급 (11절)
+├─ lock.ts                      # 시리즈 단위 작업 잠금 (11절)
+├─ merge-staging.ts             # 스테이징 → data/ (또는 미리보기) 병합, 병합 후 스테이징 보관
+├─ assign-slugs.ts              # 표시 ID 재계산 + 리다이렉트 기록
+├─ migrate-person-ids.ts        # 성우 내부 ID 일괄 재생성 (1회성)
+├─ wiki-intro.ts                # 위키백과 도입부·후리가나 일괄 조회
+└─ skill-hash.ts                # 스킬 최신 여부 점검 (3절)
+scripts/lib/http.ts             # 사이트별 공용 속도 제한 + 캐시 (12절)
 ```
 
 모든 스킬 `SKILL.md`의 frontmatter에는 다음을 둔다.
 ```yaml
-schema_version: 1.0.0     # 이 스킬이 기준으로 삼는 data/schema/VERSION
-skill_version: 1.0.0      # 스킬 자체 버전. 데이터의 meta.skill_version에 기록됨
+schema_version: 0.2.0     # 이 스킬이 기준으로 삼는 data/schema/VERSION (CI가 일치 확인)
+skill_version: 0.4.0      # 스킬 자체 버전. 데이터의 meta.skill_version에 기록됨
 ```
 
 ## 2. 전체 흐름
 
 ```
-/add-work "장송의 프리렌"
+/add-work "작품 A" "작품 B" …
    │
-   ├─ 0. Preflight ───────────── 실패하면 중단하고 사용자에게 보고
-   │     · 작업 트리가 깨끗한지, main 브랜치인지 확인 → git pull --ff-only
-   │     · 스킬 최신 여부 확인 (3절): 실행 중인 이 스킬만 레포 최신본과 비교해, 다르면 갱신 후 처음부터 재실행
-   │     · npm run validate 통과 확인 (기존 데이터가 정상인지)
+   ├─ 0. Preflight: 스킬 최신 여부(3절), 작업 트리·main 동기화, validate 통과
    │
-   ├─ 1. 범위 확정
-   │     · find-entity로 기존 프랜차이즈와 작품 확인
-   │     · 작품명이 모호하면(동명 작품, 시즌 범위 등) 사용자에게 질문
-   │       예: "1기만 / 1~2기 / 극장판 포함" 중 선택
-   │     · 브랜치 생성: data/add-<work-id>  (갱신이면 data/update-<work-id>)
+   ├─ 1. 배정: 작품 → 시리즈 단위 작업으로 묶기, 시리즈 잠금, 동시 최대 3개 (11절)
    │
-   ├─ 2. 조사 (researcher, 1차)
-   │     · data/ 파일 작성 + .work/<run>/research.json (조사 보고서)
-   │     · npm run validate 통과할 때까지 스스로 수정
+   ├─ 2~5. 작업마다 병렬로
+   │     조사(researcher) → 검증 1(verifier) → [error 있으면] 재조사 → 검증 2
+   │     · 성우는 person-id.ts 로만 ID 발급 (같은 사람 = 같은 ID)
    │
-   ├─ 3. 검증 (verifier, 1차) ─ 이슈 없음 ─────────────────────┐
-   │     · 독립적인 컨텍스트에서 검증 → .work/<run>/verify-1.json │
-   │     │ error 이슈 있음                                       │
-   │     ▼                                                       │
-   ├─ 4. 재조사 (researcher, 2차): verify-1의 이슈만 수정        │
-   │                                                             │
-   ├─ 5. 재검증 (verifier, 2차): 이슈 항목과 변경분만 확인       │
-   │     │ error 이슈 남음                    이슈 없음 ─────────┤
-   │     ▼                                                       │
-   ├─ 6. 사용자 중재                                             │
-   │     · 남은 이슈를 근거와 함께 질문 → 결정을 반영           │
-   │     · 결정한 항목은 verification = user_confirmed            │
-   │                                                             ▼
-   └─ 7. 반영
-         · 검증 상태 기록, npm run validate && npm test && npm run build
-         · commit → push → gh pr create
-         · gh pr checks --watch (CI 통과 확인)
-         · gh pr merge --squash --delete-branch → main으로 돌아가 pull
+   ├─ 6. 충돌 탐지 (기계적, 오케스트레이터)
+   │     · data + 모든 스테이징을 미리보기로 병합 → validate
+   │     · 수집: 검증 오류(중복 의심 성우 등), 병합 충돌, person-id conflict, 검증 2 뒤 남은 error
+   │
+   ├─ 7. 중재 (mediator) → resolved / unresolved / escalate
+   │     · unresolved(근거 부족)·escalate(정책 문제) → 사용자 질문 → mediator 가 반영·기록
+   │
+   └─ 8. 반영: 상태 기록 → data 병합(스테이징 보관) → assign-slugs → validate·test·build
+           → 작품별 커밋 → PR → CI → merge → 잠금 해제
 ```
 
-- 한 번에 하나의 작품만 실행한다. 프랜차이즈와 성우 파일을 공유하므로 병렬로 실행하면 충돌한다.
-- `.work/`는 `.gitignore`에 등록한다. 대신 PR 본문에 조사·검증 요약과 사용자 결정 내역을 남겨 이력을 보존한다.
-- CI가 실패하면 머지하지 않는다. 원인을 고쳐 다시 푸시하고, 데이터 판단이 필요한 실패면 사용자에게 보고한다.
+- `.work/`는 `.gitignore`에 등록한다. 결정은 `data/decisions/`(커밋됨)와 PR 본문에 남는다.
+- CI가 실패하면 머지하지 않는다. 데이터 판단이 필요한 실패면 mediator → 사용자 순으로 넘긴다.
 
 ## 3. 스킬 최신 여부 점검
 
@@ -133,7 +124,7 @@ skill_version: 1.0.0      # 스킬 자체 버전. 데이터의 meta.skill_versio
 2. **버전 식별**: 원판과 확인되는 모든 더빙판(언어, 방송사/플랫폼)을 찾는다. 판마다 Version을 하나씩 만든다.
 3. **캐릭터**: 프랜차이즈 파일에 있으면 재사용하고 없으면 추가한다. 캐릭터 ID는 로마자 이름을 기준으로 한다.
 4. **Credit**: 버전마다 캐릭터-성우를 매핑한다. 교체, 아역, 대역은 `part`/`episodes`/`note`로 표현한다. 모든 Credit에 `source_refs`를 붙인다.
-5. **성우**: Person을 새로 만들기 전에 반드시 `find-entity`로 기존 성우를 검색한다. 비슷한 후보가 있으면 동일인인지 판별한 근거를 보고서에 남긴다.
+5. **성우**: Person을 새로 만들기 전에 반드시 `person-id.ts`로 내부 ID를 발급받는다(`reuse`면 기존 성우 참조, `conflict`면 만들지 말고 보고 → mediator).
 5-0. **첫 등장**: 캐릭터를 새로 만들거나 이미 있는 캐릭터의 더 이른 등장 작품을 등록할 때 `first_appearance`를 채우거나 고친다. 목소리 없이 등장한 경우도 포함한다.
 5-1. **스포일러 판정**: 존재나 정체 자체가 작품 중반 이후에 밝혀지는 캐릭터는 `spoiler: true`로 표시한다. 캐릭터 ID도 정체가 드러나지 않게 짓는다(예: `masked-knight`). 공식이 캐스트를 숨겼다가 나중에 공개한 배역은 Credit에 `spoiler: true`를 붙인다. 판정이 애매하면 보고서에 남겨 verifier와 사용자가 확인하게 한다.
 6. **범위 기준**: 크레딧에 오른 배역은 **단역과 이름 없는 배역까지 전부** 수집한다. 모든 Credit에 `role`(주연/조연/단역. 게스트는 단역)을 반드시 기록하고, 이름 없는 배역은 캐릭터에 `nameless: true`를 붙인다. 출처를 찾지 못해 빠진 범위는 보고서에 기록한다.
@@ -189,15 +180,13 @@ verifier는 **researcher와 다른 컨텍스트**에서 실행하고 `data/`에 
 }
 ```
 
-## 7. 사용자 중재 (6단계)
+## 7. 중재와 사용자 결정
 
-- 2차 검증 후에도 `error`가 남으면 Claude Code의 질문 기능(AskUserQuestion)으로 사용자에게 묻는다.
-- 한 번에 최대 4개씩, 이슈마다 **현재 값 / 검증 측 제안 / 근거 링크**를 보여주고 다음 중 하나를 고르게 한다.
-  - 조사 값 유지
-  - 검증 제안 채택
-  - 해당 항목 제외(삭제)
-  - 직접 입력
-- 결정한 항목은 `verification: "user_confirmed"`로 표시하고, 결정 내역을 PR 본문에 기록한다.
+- 2차 검증 뒤에도 남은 `error`, 병렬 작업 간 충돌은 오케스트레이터가 **선별 없이** mediator(`resolve-conflict` 스킬)에 넘긴다.
+- mediator는 사실 문제를 근거로 결정하고 `data/decisions/`에 기록한 뒤 데이터에 반영한다.
+- mediator가 못 정한 것(`unresolved`)과 정책 문제(`escalate`)만 사용자에게 간다. 오케스트레이터는 mediator의 선택지·추천안·근거를 그대로 AskUserQuestion으로 보여준다(최대 4개씩).
+- 사용자 답은 다시 mediator가 반영하고 `decided_by: "user"`로 기록한다. 결정된 배역은 `verification: "user_confirmed"`.
+- 정책 문제의 답은 규칙이므로 스킬과 설계 문서에도 반영한다 (스키마 변경이면 CHANGELOG까지).
 - 해결하지 못한 `warning`은 반영을 막지 않는다. 해당 Credit을 `unverified`로 두고 `meta.verification.notes`에 요약한다.
 
 ## 8. 검증 상태 기록 규칙
@@ -224,3 +213,26 @@ verifier는 **researcher와 다른 컨텍스트**에서 실행하고 `data/`에 
   - 검증 결과: 1차와 2차 이슈 수, 해결 내역
   - 사용자 결정 내역
   - `unverified`/`disputed`로 남은 항목 목록
+
+## 11. 병렬 실행 안전장치
+
+| 위험 | 장치 |
+|---|---|
+| 같은 시리즈 파일을 두 작업이 동시에 수정 | 시리즈 단위 배정 + `lock.ts acquire franchise:<id>` (원자적 디렉토리 잠금) |
+| 같은 성우를 작업마다 다른 ID로 생성 | 내부 ID를 원어 표기에서 기계적으로 생성(`docs/03` 4.1절) + `person-id.ts`가 data와 모든 스테이징을 모든 표기로 검색해 `reuse`/`create`/`conflict` 판정 |
+| 그래도 생긴 중복 | 검증 스크립트의 "중복 의심 성우"가 **오류** → mediator. 동명이인 확정 쌍은 `different_person` 결정으로 예외 |
+| 병합 끝난 스테이징이 남아 중복 후보로 잡힘 | `merge-staging.ts`가 data 병합 후 스테이징을 `.work/archive/`로 이동 |
+| 임시 파일 충돌 | 작업마다 `<root>/tmp/`, `tmp-verify/`, mediator는 `.work/mediation/<id>/` |
+| 같은 성우 파일의 필드 값 차이 | 병합 스크립트가 합치고(출처·별칭 합집합, 더 정밀한 날짜) 진짜 충돌만 목록화 → mediator |
+| `data/` 동시 수정 | 에이전트는 스테이징에만 쓴다. `data/`는 병합 스크립트와 mediator(잠금 범위 안)만 쓴다 |
+
+동시 실행은 최대 3개를 기본으로 한다 (웹 요청 부담·토큰 비용·충돌 빈도의 균형).
+
+## 12. 요청 예절 (속도 제한·캐시)
+
+- 에이전트의 개별 웹 조회는 도구 호출 사이 사고 시간 때문에 이미 느리다(실측 평균 14~22초 간격). 고정 대기를 넣지 않는다.
+- 대량 요청은 스크립트로만 한다. 모든 스크립트 요청은 `scripts/lib/http.ts`의 `politeFetch`를 거친다.
+  - 사이트별 **공용** 최소 간격: 위키백과·위키미디어·unicode.org 1초, 그 외 2초. `.work/ratelimit/`의 잠금 파일로 여러 프로세스가 공유하므로 병렬 에이전트 수와 관계없이 사이트별 총 속도가 유지된다 (로컬 서버로 3프로세스×3요청 → 간격 2.0초 유지 확인).
+  - `Retry-After` 준수 + 지수 백오프.
+  - 캐시 `.work/cache/` (기본 7일): 조사·검증·재조사가 같은 페이지를 다시 받지 않는다.
+- 위키미디어 API 규칙은 연락처가 담긴 User-Agent를 권장한다. 현재는 일반 이름(`va-archive-data-tool/0.1`)이며, 레포 공개 후 레포 URL을 넣을지는 사용자가 정한다.

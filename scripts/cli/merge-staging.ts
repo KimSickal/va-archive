@@ -3,6 +3,9 @@
  *
  *   npx tsx scripts/cli/merge-staging.ts .work/research/a/data .work/research/b/data
  *   npx tsx scripts/cli/merge-staging.ts --out .work/preview/data <roots...>   # data/ 대신 다른 곳에 출력
+ *   --keep : 병합 후 스테이징을 보관 폴더(.work/archive/)로 옮기지 않는다
+ * data/ 로 병합하면 각 스테이징 루트(<root>/..)를 .work/archive/<이름>-<날짜>/ 로 옮긴다.
+ * 병합된 스테이징이 남아 있으면 person-id 조회가 같은 사람을 중복 후보로 잡기 때문이다.
  *
  * - works / franchises: 그대로 복사 (같은 id가 data/에 있으면 덮어씀 — 갱신 모드)
  * - persons: 같은 id가 여러 곳에 있으면 병합
@@ -11,12 +14,14 @@
  *     · 그 밖의 필드는 먼저 나온 값 유지, 값이 서로 다르면 충돌로 보고
  *     · meta: researched_at은 최신, 검증 상태는 가장 낮은 것
  */
-import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from 'node:fs';
-import { join } from 'node:path';
+import { existsSync, mkdirSync, readdirSync, readFileSync, renameSync, writeFileSync } from 'node:fs';
+import { basename, dirname, join } from 'node:path';
 import type { Person, Source, VerificationStatus } from '../../src/types/data.ts';
 import { REPO } from '../lib/load.ts';
 
 const argv = process.argv.slice(2);
+const keep = argv.includes('--keep');
+if (keep) argv.splice(argv.indexOf('--keep'), 1);
 const outIdx = argv.indexOf('--out');
 const DATA = outIdx >= 0 ? argv.splice(outIdx, 2)[1] : join(REPO, 'data');
 const roots = argv;
@@ -125,4 +130,18 @@ console.log(`copied ${copied} work/franchise files; persons: ${persons.size} (${
 if (conflicts.length) {
   console.log(`\n${conflicts.length} conflicts:`);
   for (const c of conflicts) console.log('  ' + c);
+}
+
+if (!keep && DATA === join(REPO, 'data')) {
+  const archive = join(REPO, '.work', 'archive');
+  mkdirSync(archive, { recursive: true });
+  const day = new Date().toISOString().slice(0, 10);
+  for (const root of roots) {
+    const stage = dirname(root); // .work/research/<key>
+    const to = join(archive, `${basename(stage)}-${day}`);
+    if (existsSync(stage) && !existsSync(to)) {
+      renameSync(stage, to);
+      console.log(`archived ${stage} → ${to}`);
+    }
+  }
 }

@@ -2,13 +2,14 @@
 name: verify-work
 description: va-archive 데이터 검증 지침. researcher가 작성한 스테이징 데이터를 독립적으로 웹에서 교차 확인하고 이슈 보고서를 작성한다. 데이터 파일은 수정하지 않는다. verifier 에이전트가 사용.
 schema_version: 0.2.0
-skill_version: 0.3.0
+skill_version: 0.4.0
 ---
 
 # verify-work
 
 researcher가 스테이징 디렉토리에 작성한 데이터를 **독립적으로** 검증한다.
 **데이터 파일(`data/`, `<root>/data/`)은 절대 수정하지 않는다.** 결과는 보고서로만 낸다.
+사실 충돌의 최종 판단은 mediator(`resolve-conflict`)가 한다. verifier는 근거와 함께 이슈로 올리기만 한다.
 참고: `docs/03-data-model.md`(데이터 모델), `.claude/skills/research-work/SKILL.md`(작성 규칙), `docs/06-data-collection.md` 6절.
 
 ## 입력
@@ -24,7 +25,7 @@ researcher가 스테이징 디렉토리에 작성한 데이터를 **독립적으
 | 작품 기본 정보 (방영 기간, 화수, 제작사, 상영시간) | 인용 출처 확인 + researcher가 쓰지 않은 출처로 **독립 검색** 교차 확인 |
 | 버전 | 해당 언어의 더빙판이 빠지지 않았는지, 방송사·공개일이 맞는지 |
 | 성우 프로필 (성별, 국적, 출생) | 인용 출처 확인 + 독립 검색 |
-| 성우 동일인 판별 | 다른 동명이인과 혼동하지 않았는지, `data/persons/`와 다른 스테이징 루트의 같은 성우를 다른 ID로 만들지 않았는지 |
+| 성우 동일인 판별 | 다른 동명이인과 혼동하지 않았는지. 새로 만든 성우마다 `npx tsx scripts/cli/person-id.ts`를 다시 돌려 `conflict`인 것이 보고서 `person_conflicts`에 빠짐없이 올라 있는지 (내부 ID·slug 형식은 검증 스크립트가 확인) |
 | 이름 없는 배역 표기 | 일본어 원문이 있는데 영어 표기(`original_lang: "en"`)로 남겨 두지 않았는지, 역번역한 일본어를 쓰지 않았는지. 성우 개인 ja.wikipedia 문서의 출연작 목록으로 확인 |
 | main / supporting Credit | 인용 출처가 실제로 뒷받침하는지 + 독립 검색 교차 확인 (전수) |
 | minor Credit | 인용 출처가 뒷받침하는지 (가능한 한 전수, 불가능하면 검사 범위를 summary에 명시) |

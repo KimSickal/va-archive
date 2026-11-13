@@ -51,14 +51,17 @@ va-archive/
 │  │  ├─ person.schema.json
 │  │  ├─ franchise.schema.json
 │  │  └─ work.schema.json
-│  ├─ persons/<person-id>.json
+│  ├─ persons/<내부 id>.json
+│  ├─ decisions/<날짜-요약>.json  # 중재·사용자 결정 기록
 │  ├─ franchises/<franchise-id>.json
 │  └─ works/<work-id>.json
 ├─ scripts/
 │  ├─ validate-data.ts          # 스키마 + 참조 무결성 검증
 │  ├─ build-data.ts             # db.<hash>.json 생성
 │  ├─ lib/                      # 데이터 로더, 무결성 검사
-│  └─ cli/merge-staging.ts      # 수집 스테이징 → data/ 병합 (성우 중복 병합)
+│  ├─ gen-han-readings.ts       # Unihan → scripts/data/han-readings.json (내부 ID용 한자 읽기 표)
+│  ├─ data/han-readings.json    # 커밋함 (결정성 보장)
+│  └─ cli/                      # person-id, lock, merge-staging, assign-slugs, migrate-person-ids, wiki-intro, skill-hash
 ├─ src/
 │  ├─ main.tsx, App.tsx, routes.tsx
 │  ├─ data/                     # DB 로더, 쿼리 함수(순수 함수, 단위 테스트 대상)

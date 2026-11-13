@@ -16,7 +16,7 @@
 | **M3. 프론트 핵심** | 라우팅, DB 로더, 검색·자동완성, 성우·작품 상세, 재조사 배너 | 샘플 데이터로 F1, F2, F8 동작 |
 | **M4. 비교와 즐겨찾기** | 작품/성우 비교, 즐겨찾기 저장소, 내보내기·가져오기, 즐겨찾기 강조, 즐겨찾기 프랜차이즈와 비교, 스포일러 가림 | F3~F7, F9 동작, Playwright 스모크 테스트 통과 |
 | **M5. 배포** | `validate.yml`, `deploy.yml`, Pages 배포 | main에 푸시하면 github.io에 반영됨 |
-| **M6. 수집 파이프라인** | `.claude/` 스킬·에이전트, `find-entity`, `skill-hash`, `stale-report`, `CLAUDE.md` | 실제 작품 1개를 `/add-work`로 처음부터 끝까지 처리해 PR 머지까지 완료 |
+| **M6. 수집 파이프라인** | `.claude/` 스킬(add-work·research·verify·resolve-conflict), `person-id`·`lock`·`skill-hash`(구현됨), `stale-report`, `CLAUDE.md` | 실제 작품 1개를 `/add-work`로 처음부터 끝까지 처리해 PR 머지까지 완료 |
 | **M7. 데이터 확충** | 작품을 늘려 가며 스킬 지침 보정 | 애니 20개 + 게임 5개 |
 
 M1~M2와 M6의 스킬 초안은 병렬로 진행할 수 있다(스키마만 확정되면 됨).
