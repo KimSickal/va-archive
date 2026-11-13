@@ -169,12 +169,17 @@ export function WorkPage() {
                         </Spoiler>
                       )}
                       <div>
-                        <Link to={`/franchise/${fr.id}/character/${r.character.id}`}>
+                        <Link to={`/franchise/${r.charFranchise}/character/${r.character.id}`}>
                           <Spoiler active={r.character.spoiler}>
                             <NameView name={r.character.name} sub={false} />
                           </Spoiler>
                         </Link>
-                        <div className="muted small">{t.role[r.role]}</div>
+                        <div className="muted small">
+                          {t.role[r.role]}
+                          {r.charFranchise !== fr.id && (
+                            <> · 원작: {displayName(db.franchises[r.charFranchise].title)}</>
+                          )}
+                        </div>
                       </div>
                     </div>
                   </th>

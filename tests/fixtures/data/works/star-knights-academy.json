@@ -1,0 +1,66 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "star-knights-academy",
+  "franchise_id": "star-knights-academy",
+  "type": "anime_tv",
+  "title": {
+    "original_lang": "ja",
+    "original": "星の騎士団 学園編",
+    "latin": "Hoshi no Kishidan Gakuen-hen",
+    "official": {
+      "ko": "별의 기사단 학원편"
+    }
+  },
+  "status": "finished",
+  "start_date": "2023-01-05",
+  "end_date": "2023-03-23",
+  "episodes": 12,
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": ["ko", "en"]
+      },
+      "credits": [
+        {
+          "character": "star-knights/rin",
+          "person": "sei-ya-ki",
+          "role": "main",
+          "source_refs": ["s1"]
+        },
+        {
+          "character": "teacher",
+          "person": "san-den-ta-rou",
+          "role": "supporting",
+          "source_refs": ["s1"]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://example.com/official",
+      "title": "Fixture 公式サイト",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-13"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-13",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-13"
+    },
+    "skill_version": "0.1.0"
+  }
+}

@@ -10,6 +10,12 @@
       "minLength": 1,
       "maxLength": 80
     },
+    "CharacterRef": {
+      "description": "캐릭터 참조. 같은 프랜차이즈의 캐릭터는 'character-id', 다른 프랜차이즈(원작)의 캐릭터는 'franchise-id/character-id'. 캐릭터 정의는 원작 프랜차이즈 한 곳에만 있고, 여러 프랜차이즈의 작품에 등장할 수 있다.",
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*(/[a-z0-9]+(-[a-z0-9]+)*)?$",
+      "maxLength": 161
+    },
     "PartialDate": {
       "description": "알려진 정밀도까지의 날짜: YYYY, YYYY-MM, YYYY-MM-DD.",
       "type": "string",

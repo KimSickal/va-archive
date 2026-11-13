@@ -88,3 +88,13 @@ test('favorites import (merge)', async ({ page }) => {
   await expect(page.getByRole('heading', { name: '시리즈 (1)' })).toBeVisible();
   await expect(page.getByRole('heading', { name: '성우 (1)' })).toBeVisible();
 });
+
+test('spin-off: guest character from the home franchise', async ({ page }) => {
+  await go(page, '/franchise/star-knights-academy');
+  await expect(page.getByRole('heading', { name: /다른 시리즈에서 온 캐릭터 \(1\)/ })).toBeVisible();
+  await go(page, '/work/star-knights-academy');
+  await expect(page.locator('tr', { hasText: '린' })).toContainText('원작: 별의 기사단');
+  await go(page, '/franchise/star-knights/character/rin');
+  await expect(page.locator('.facts')).toContainText('등장 시리즈');
+  await expect(page.locator('.facts')).toContainText('별의 기사단 학원편');
+});

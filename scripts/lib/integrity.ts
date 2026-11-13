@@ -1,4 +1,5 @@
 import { partialDateEnd, partialDateStart } from '../../src/data/dates.ts';
+import { charKey, resolveCharRef } from '../../src/data/charRef.ts';
 import { normalize } from '../../src/data/normalize.ts';
 import type { Image, Name, Source, Text, Wikipedia, Work } from '../../src/types/data.ts';
 import { expectedSlugs, personIdScheme } from './ids.ts';
@@ -163,7 +164,6 @@ export function checkIntegrity(ds: Dataset, issues: Issue[]): void {
       if (c.first_appearance) {
         const w = ds.works.get(c.first_appearance.work);
         if (!w) err(f, `${where}.first_appearance: 존재하지 않는 작품 ${c.first_appearance.work}`);
-        else if (w.franchise_id !== fr.id) err(f, `${where}.first_appearance: 다른 프랜차이즈 작품 ${w.id}`);
         else if (c.first_appearance.episode && w.episodes && c.first_appearance.episode > w.episodes)
           err(f, `${where}.first_appearance.episode ${c.first_appearance.episode} > 작품 화수 ${w.episodes}`);
       }
@@ -205,7 +205,16 @@ export function checkIntegrity(ds: Dataset, issues: Issue[]): void {
       const combos = new Set<string>();
       v.credits.forEach((c, i) => {
         const cw = `${vw}.credits[${i}]`;
-        if (fr && !charIds.has(c.character)) err(f, `${cw}: 프랜차이즈에 없는 캐릭터 ${c.character}`);
+        const ck = resolveCharRef(c.character, w.franchise_id);
+        if (ck.franchise === w.franchise_id) {
+          if (fr && !charIds.has(ck.character)) err(f, `${cw}: 프랜차이즈에 없는 캐릭터 ${c.character}`);
+        } else {
+          const home = ds.franchises.get(ck.franchise);
+          if (!home)
+            err(f, `${cw}: 원작 프랜차이즈 ${ck.franchise} 가 없음 (크로스오버·스핀오프는 원작 프랜차이즈 선행)`);
+          else if (!home.characters.some((x) => x.id === ck.character))
+            err(f, `${cw}: ${ck.franchise} 에 없는 캐릭터 ${ck.character}`);
+        }
         if (!ds.persons.has(c.person)) err(f, `${cw}: 존재하지 않는 성우 ${c.person}`);
         checkRefs(f, cw, c.source_refs, src);
         checkText(f, `${cw}.note`, c.note);
@@ -214,7 +223,7 @@ export function checkIntegrity(ds: Dataset, issues: Issue[]): void {
         combos.add(combo);
         if (typeof c.episodes === 'object' && c.episodes.from && c.episodes.to && c.episodes.from > c.episodes.to)
           err(f, `${cw}: episodes.from > to`);
-        const key = `${w.franchise_id}/${c.character}`;
+        const key = charKey(ck);
         usedChars.add(key);
         usedPersons.add(c.person);
         bestRole.set(key, Math.min(bestRole.get(key) ?? 9, roleRank[c.role]));

@@ -1,5 +1,6 @@
 import type { Franchise, Person, Redirects, Work } from '../types/data';
 import type { CreditRef, Db, FirstVoiced, SearchEntry } from './db';
+import { charKey, resolveCharRef } from './charRef';
 import { maxDate, partialDateStart } from './dates';
 import { allNameForms } from './i18n-data';
 import { normalize } from './normalize';
@@ -44,6 +45,8 @@ export function buildDb(input: BuildInput, builtAt = new Date().toISOString()): 
     personsByFranchiseLang: {},
     worksByPerson: {},
     worksByFranchise: {},
+    franchisesByCharacter: {},
+    guestCharactersByFranchise: {},
     personIdBySlug: Object.fromEntries(input.persons.map((p) => [p.slug, p.id])),
     lastReleaseByWork: {},
     firstVoicedByCharacter: {},
@@ -60,24 +63,32 @@ export function buildDb(input: BuildInput, builtAt = new Date().toISOString()): 
       maxDate([w.end_date ?? w.start_date, ...w.versions.map((v) => v.last_release_date ?? v.release_date)]) ?? null;
     w.versions.forEach((v, vi) => {
       v.credits.forEach((c, ci) => {
+        const ck = resolveCharRef(c.character, w.franchise_id);
         const ref: CreditRef = {
           work: w.id,
           vi,
           ci,
           lang: v.language,
           franchise: w.franchise_id,
-          character: c.character,
+          charFranchise: ck.franchise,
+          character: ck.character,
           person: c.person,
         };
         push(idx.creditsByPerson, c.person, ref);
-        const ck = `${w.franchise_id}/${c.character}`;
-        push(idx.creditsByCharacter, ck, ref);
+        const key = charKey(ck);
+        push(idx.creditsByCharacter, key, ref);
+        const fl = (idx.franchisesByCharacter[key] ??= [ck.franchise]);
+        if (!fl.includes(w.franchise_id)) fl.push(w.franchise_id);
+        if (ck.franchise !== w.franchise_id) {
+          const g = (idx.guestCharactersByFranchise[w.franchise_id] ??= []);
+          if (!g.includes(key)) g.push(key);
+        }
         addSet(idx.personsByWorkLang, w.id, v.language, c.person);
         addSet(idx.personsByFranchiseLang, w.franchise_id, v.language, c.person);
         const wl = (idx.worksByPerson[c.person] ??= []);
         if (!wl.includes(w.id)) wl.push(w.id);
         // 첫 음성 출연: 작품이 정렬되어 있으므로 같은 작품 안에서는 회차가 가장 이른 것
-        const fv = (idx.firstVoicedByCharacter[ck] ??= {});
+        const fv = (idx.firstVoicedByCharacter[key] ??= {});
         const cur: FirstVoiced | undefined = fv[v.language];
         const ep = episodeStart(c.episodes);
         if (!cur) fv[v.language] = { work: w.id, vi, ...(ep ? { episode: ep } : {}) };

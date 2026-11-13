@@ -197,8 +197,8 @@
       "required": ["character", "person", "role", "source_refs"],
       "properties": {
         "character": {
-          "$ref": "common.schema.json#/$defs/Id",
-          "description": "franchise.characters[].id"
+          "$ref": "common.schema.json#/$defs/CharacterRef",
+          "description": "이 작품 프랜차이즈의 캐릭터 id, 또는 다른 프랜차이즈 캐릭터의 'franchise-id/character-id' (크로스오버·스핀오프)"
         },
         "person": {
           "$ref": "common.schema.json#/$defs/Id",

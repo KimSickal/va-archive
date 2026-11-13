@@ -2,6 +2,7 @@
  * 조회·비교 로직. 모두 (db, args) => result 형태의 순수 함수 (docs/02-architecture.md 4절).
  */
 import type { Character, Credit, Version, Work } from '../types/data';
+import { charKey, resolveCharRef } from './charRef';
 import { partialDateEnd } from './dates';
 import type { CreditRef, Db, SearchEntry } from './db';
 import { langOrder } from './i18n-data';
@@ -21,7 +22,7 @@ export function resolveCredit(db: Db, ref: CreditRef): ResolvedCredit {
   const work = db.works[ref.work];
   const version = work.versions[ref.vi];
   const credit = version.credits[ref.ci];
-  const character = db.franchises[ref.franchise]?.characters.find((c) => c.id === ref.character);
+  const character = db.franchises[ref.charFranchise]?.characters.find((c) => c.id === ref.character);
   return { ref, work, version, credit, character };
 }
 
@@ -102,6 +103,8 @@ export function personCredits(db: Db, personId: string): PersonWorkGroup[] {
 
 export interface CastRow {
   character: Character;
+  /** 캐릭터가 정의된(원작) 프랜차이즈 */
+  charFranchise: string;
   /** 가장 높은 역할 */
   role: Credit['role'];
   /** version index → 배역들 (회차 순) */
@@ -110,17 +113,24 @@ export interface CastRow {
 
 export function castTable(db: Db, workId: string): CastRow[] {
   const work = db.works[workId];
-  const fr = db.franchises[work.franchise_id];
   const rows = new Map<string, CastRow & { firstSeen: number }>();
   let seq = 0;
   work.versions.forEach((v, vi) => {
     for (const c of v.credits) {
-      const character = fr.characters.find((ch) => ch.id === c.character);
+      const ck = resolveCharRef(c.character, work.franchise_id);
+      const character = db.franchises[ck.franchise]?.characters.find((ch) => ch.id === ck.character);
       if (!character) continue;
-      const row = rows.get(c.character) ?? { character, role: c.role, byVersion: {}, firstSeen: seq++ };
+      const key = charKey(ck);
+      const row = rows.get(key) ?? {
+        character,
+        charFranchise: ck.franchise,
+        role: c.role,
+        byVersion: {},
+        firstSeen: seq++,
+      };
       if (ROLE_RANK[c.role] < ROLE_RANK[row.role]) row.role = c.role;
       (row.byVersion[vi] ??= []).push(c);
-      rows.set(c.character, row);
+      rows.set(key, row);
     }
   });
   const epStart = (c: Credit) =>

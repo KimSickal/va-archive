@@ -1,8 +1,8 @@
 ---
 name: add-work
 description: va-archive 작품 추가·갱신 오케스트레이터. 사용자가 "/add-work <작품명>..."으로 실행한다. 작업 배정·잠금·스크립트 실행·서브에이전트 호출·결과의 기계적 반영만 하고, 데이터 내용은 판단하지 않는다(판단은 researcher/verifier/mediator 에이전트와 사용자). 여러 작품을 병렬로 처리할 수 있다.
-schema_version: 0.2.0
-skill_version: 0.1.0
+schema_version: 0.3.0
+skill_version: 0.2.0
 ---
 
 # add-work (오케스트레이터)
@@ -30,6 +30,8 @@ skill_version: 0.1.0
 1. 작품마다 시리즈(franchise) ID를 정하고, 같은 시리즈의 작품은 **한 작업으로 묶는다** (시리즈 파일 충돌 방지).
    모호하면(동명 작품, 시즌 범위) 사용자에게 묻는다.
 2. 작업마다 `npx tsx scripts/cli/lock.ts acquire franchise:<id> <작업명>` — 실패하면 그 작업은 대기.
+   - 크로스오버·스핀오프·다른 애니화는 **원작 프랜차이즈가 data/ 에 있을 때만** 배정한다 (없으면 큐에서 보류, 사유: 의존).
+   - researcher 보고서의 `home_character_requests`(원작 프랜차이즈에 없는 캐릭터)는 원작 프랜차이즈 잠금을 얻은 뒤 researcher(fix 모드)에게 원작 프랜차이즈 파일에 추가하도록 넘긴다.
 3. 동시 실행은 **최대 3개**. 브랜치: `data/<작업명>`.
 4. 스테이징 루트: `.work/research/<작업명>/` (작업마다 따로, 임시 파일도 그 아래).
 

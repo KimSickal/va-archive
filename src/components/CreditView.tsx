@@ -31,7 +31,7 @@ export function CreditMeta({ credit, showRole = false }: { credit: Credit; showR
 /** "캐릭터 (버전)" 링크 */
 export function CharacterRef({ rc, showVersion = true }: { rc: ResolvedCredit; showVersion?: boolean }) {
   const db = useDb();
-  const fr = db.franchises[rc.ref.franchise];
+  const fr = db.franchises[rc.ref.charFranchise];
   const ch = rc.character;
   return (
     <span className="char-ref">

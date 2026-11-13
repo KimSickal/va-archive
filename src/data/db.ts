@@ -8,7 +8,11 @@ export interface CreditRef {
   vi: number;
   ci: number;
   lang: string;
+  /** 작품이 속한 프랜차이즈 */
   franchise: string;
+  /** 캐릭터가 정의된(원작) 프랜차이즈. 크로스오버·스핀오프면 franchise 와 다르다 */
+  charFranchise: string;
+  /** charFranchise 안의 캐릭터 id */
   character: string;
   person: string;
 }
@@ -42,6 +46,10 @@ export interface Db {
     personsByFranchiseLang: Record<string, Record<string, string[]>>;
     worksByPerson: Record<string, string[]>;
     worksByFranchise: Record<string, string[]>;
+    /** "원작프랜차이즈/캐릭터" → 등장하는 프랜차이즈 목록 (원작 프랜차이즈가 첫 번째) */
+    franchisesByCharacter: Record<string, string[]>;
+    /** 프랜차이즈 → 그 프랜차이즈 작품에 등장하는 다른 프랜차이즈 캐릭터 ("원작/캐릭터") */
+    guestCharactersByFranchise: Record<string, string[]>;
     /** 표시 ID(slug) → 내부 ID */
     personIdBySlug: Record<string, string>;
     lastReleaseByWork: Record<string, string | null>;

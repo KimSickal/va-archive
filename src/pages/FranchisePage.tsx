@@ -3,7 +3,7 @@ import { NameView, SourceList, Spoiler, WikiLinks, yearOf } from '../components/
 import { FavoriteToggle } from '../components/FavoriteToggle';
 import { useDb } from '../data/DbContext';
 import { displayName } from '../data/i18n-data';
-import { resolveId } from '../data/queries';
+import { getCharacter, resolveId } from '../data/queries';
 import { t } from '../i18n/ko';
 import { NotFound } from './NotFound';
 
@@ -15,6 +15,7 @@ export function FranchisePage() {
   const fr = db.franchises[fid];
   const works = db.idx.worksByFranchise[fid] ?? [];
   const named = fr.characters.filter((c) => !c.nameless);
+  const guests = (db.idx.guestCharactersByFranchise[fid] ?? []).map((k) => k.split('/') as [string, string]);
   return (
     <article className="page">
       <h1>
@@ -49,6 +50,24 @@ export function FranchisePage() {
           ))}
         </ul>
       </section>
+      {guests.length > 0 && (
+        <section>
+          <h2>다른 시리즈에서 온 캐릭터 ({guests.length})</h2>
+          <ul className="chips">
+            {guests.map(([gf, gc]) => {
+              const ch = getCharacter(db, gf, gc);
+              return (
+                <li key={`${gf}/${gc}`}>
+                  <Link to={`/franchise/${gf}/character/${gc}`}>
+                    <Spoiler active={ch?.spoiler}>{ch ? displayName(ch.name) : gc}</Spoiler>
+                  </Link>{' '}
+                  <span className="muted small">{displayName(db.franchises[gf].title)}</span>
+                </li>
+              );
+            })}
+          </ul>
+        </section>
+      )}
       <SourceList sources={fr.sources} researchedAt={fr.meta.researched_at} />
     </article>
   );

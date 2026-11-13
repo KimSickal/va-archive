@@ -6,6 +6,11 @@
 - minor: 선택 필드·enum 값 추가
 - patch: 설명·문서 수정
 
+## 0.3.0 — 2026-11-14
+- 크로스오버·스핀오프: 캐릭터는 원작 프랜차이즈 한 곳에 정의하고, 다른 프랜차이즈 작품의 Credit은 `franchise-id/character-id`로 참조한다 (`CharacterRef`). 한 작품은 한 프랜차이즈, 한 캐릭터는 여러 프랜차이즈에 등장 가능
+- Character.first_appearance.work: 다른 프랜차이즈의 작품도 허용
+- 기존 데이터 변경 없음 (같은 프랜차이즈 참조는 그대로 유효)
+
 ## 0.2.0 — 2026-11-14
 - Person: 내부 ID(`id`)와 표시 ID(`slug`) 분리. `slug` 필수
   - id: 원어 표기를 결정적으로 로마자 변환(scripts/lib/romanize.ts) + 동명이인 번호. 불변

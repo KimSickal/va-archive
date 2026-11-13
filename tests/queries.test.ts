@@ -115,3 +115,17 @@ describe('person ids', () => {
     expect(resolveId(db, 'persons', 'ji-woo-han')).toBe(pid); // 이전 id (redirects)
   });
 });
+
+describe('cross-franchise characters (spin-off / crossover)', () => {
+  it('credits in another franchise point to the home character', () => {
+    expect(db.idx.franchisesByCharacter['star-knights/rin']).toEqual(['star-knights', 'star-knights-academy']);
+    expect(db.idx.guestCharactersByFranchise['star-knights-academy']).toEqual(['star-knights/rin']);
+    const row = castTable(db, 'star-knights-academy').find((r) => r.character.id === 'rin')!;
+    expect(row.charFranchise).toBe('star-knights');
+    expect(db.idx.creditsByCharacter['star-knights/rin'].map((r) => r.work)).toContain('star-knights-academy');
+  });
+  it('the spin-off is a different franchise for favorites comparison', () => {
+    const ja = compareWithFavorites(db, 'star-knights-academy', ['star-knights']).find((s) => s.lang === 'ja')!;
+    expect(ja.rows[0].franchise).toBe('star-knights');
+  });
+});

@@ -51,6 +51,19 @@ export function CharacterPage() {
             </p>
           )}
           <dl className="facts">
+            {(db.idx.franchisesByCharacter[key]?.length ?? 0) > 1 && (
+              <>
+                <dt>등장 시리즈</dt>
+                <dd>
+                  {db.idx.franchisesByCharacter[key].map((f, i) => (
+                    <span key={f}>
+                      {i > 0 && ' · '}
+                      <Link to={`/franchise/${f}`}>{displayName(db.franchises[f].title)}</Link>
+                    </span>
+                  ))}
+                </dd>
+              </>
+            )}
             {fa && (
               <>
                 <dt>첫 등장</dt>
