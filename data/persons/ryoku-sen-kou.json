@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ryoku-sen-kou",
+  "slug": "hikaru-midorikawa",
+  "name": {
+    "original_lang": "ja",
+    "original": "緑川光",
+    "latin": "Hikaru Midorikawa",
+    "aliases": {
+      "ja": [
+        "みどりかわひかる"
+      ],
+      "ko": [
+        "미도리카와 히카루"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1968-05-02",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%B7%91%E5%B7%9D%E5%85%89",
+    "en": "https://en.wikipedia.org/wiki/Hikaru_Midorikawa",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EB%8F%84%EB%A6%AC%EC%B9%B4%EC%99%80_%ED%9E%88%EC%B9%B4%EB%A3%A8"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%B7%91%E5%B7%9D%E5%85%89",
+      "title": "緑川光 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

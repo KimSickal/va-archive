@@ -1,0 +1,15 @@
+{
+  "$schema": "../schema/decision.schema.json",
+  "id": "2026-11-14-akira-ishida-gender",
+  "date": "2026-11-14",
+  "kind": "field_value",
+  "subjects": [
+    { "kind": "person", "id": "shaku-den-shou", "field": "/gender" }
+  ],
+  "decision": "data/persons/shaku-den-shou.json(石田彰)의 gender를 null → male로 설정.",
+  "rationale": "ja.wikipedia 石田彰 인포박스의 性別 항목이 '男性'. 도입문은 '日本の声優、俳優'으로 성별을 명시하지 않으므로 근거는 인포박스. 반대되는 출처 없음.",
+  "evidence": [
+    { "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E7%94%B0%E5%BD%B0", "quote": "性別 男性", "tier": 2 }
+  ],
+  "decided_by": "mediator"
+}

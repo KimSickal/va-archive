@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "gai-ki-yuu-ryou",
+  "slug": "yusuke-tonozaki",
+  "name": {
+    "original_lang": "ja",
+    "original": "外崎友亮",
+    "latin": "Yusuke Tonozaki",
+    "aliases": {
+      "ja": [
+        "とのざきゆうすけ"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1988-07-31",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%A4%96%E5%B4%8E%E5%8F%8B%E4%BA%AE"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%96%E5%B4%8E%E5%8F%8B%E4%BA%AE",
+      "title": "外崎友亮 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

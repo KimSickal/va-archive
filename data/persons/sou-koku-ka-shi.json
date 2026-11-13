@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sou-koku-ka-shi",
+  "slug": "natsuko-kuwatani",
+  "name": {
+    "original_lang": "ja",
+    "original": "桑谷夏子",
+    "latin": "Natsuko Kuwatani",
+    "aliases": {
+      "ja": [
+        "くわたになつこ"
+      ],
+      "ko": [
+        "쿠와타니 나츠코"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1978-08-08",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%A1%91%E8%B0%B7%E5%A4%8F%E5%AD%90",
+    "en": "https://en.wikipedia.org/wiki/Natsuko_Kuwatani",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%BF%A0%EC%99%80%ED%83%80%EB%8B%88_%EB%82%98%EC%B8%A0%EC%BD%94"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A1%91%E8%B0%B7%E5%A4%8F%E5%AD%90",
+      "title": "桑谷夏子 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

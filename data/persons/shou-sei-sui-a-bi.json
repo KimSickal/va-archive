@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shou-sei-sui-a-bi",
+  "slug": "ami-koshimizu",
+  "name": {
+    "original_lang": "ja",
+    "original": "小清水亜美",
+    "latin": "Ami Koshimizu",
+    "aliases": {
+      "ja": [
+        "こしみずあみ"
+      ],
+      "ko": [
+        "코시미즈 아미"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1986-02-15",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%B8%85%E6%B0%B4%E4%BA%9C%E7%BE%8E",
+    "en": "https://en.wikipedia.org/wiki/Ami_Koshimizu",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%BD%94%EC%8B%9C%EB%AF%B8%EC%A6%88_%EC%95%84%EB%AF%B8"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%B8%85%E6%B0%B4%E4%BA%9C%E7%BE%8E",
+      "title": "小清水亜美 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

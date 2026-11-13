@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sei-sui-sai-kou",
+  "slug": "ayaka-shimizu",
+  "name": {
+    "original_lang": "ja",
+    "original": "清水彩香",
+    "latin": "Ayaka Shimizu",
+    "aliases": {
+      "ja": [
+        "しみずあやか"
+      ],
+      "ko": [
+        "시미즈 아야카"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1987-12-19",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%B8%85%E6%B0%B4%E5%BD%A9%E9%A6%99",
+    "en": "https://en.wikipedia.org/wiki/Ayaka_Shimizu",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%8B%9C%EB%AF%B8%EC%A6%88_%EC%95%84%EC%95%BC%EC%B9%B4"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%85%E6%B0%B4%E5%BD%A9%E9%A6%99",
+      "title": "清水彩香 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

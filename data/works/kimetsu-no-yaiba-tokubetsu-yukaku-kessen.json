@@ -1,0 +1,703 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "kimetsu-no-yaiba-tokubetsu-yukaku-kessen",
+  "franchise_id": "kimetsu-no-yaiba",
+  "type": "anime_special",
+  "title": {
+    "original_lang": "ja",
+    "original": "「鬼滅の刃」特別編集版 遊郭決戦編",
+    "latin": "Kimetsu no Yaiba Tokubetsu Henshuban: Yukaku Kessen-hen"
+  },
+  "order": 17,
+  "status": "finished",
+  "start_date": "2023-04-08",
+  "episodes": 1,
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "ufotable",
+      "latin": "ufotable",
+      "official": {
+        "en": "ufotable"
+      }
+    }
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2023-04-08",
+      "credits": [
+        {
+          "character": "tanjiro-kamado",
+          "person": "ka-kou-ka-ju",
+          "role": "main",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "nezuko-kamado",
+          "person": "ki-tou-mei-ri",
+          "role": "main",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "zenitsu-agatsuma",
+          "person": "ka-ya-kou",
+          "role": "main",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "inosuke-hashibira",
+          "person": "shou-kou-tei-shou",
+          "role": "main",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "tengen-uzui",
+          "person": "shou-sei-koku-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "daki",
+          "person": "taku-jou-miyuki",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "gyutaro",
+          "person": "hou-han-ryou-ta",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "amane-ubuyashiki",
+          "person": "sa-tou-ri-na",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 遊郭編 11화 출연분에서 추정 (출연 회차 근거: 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版遊郭編第11話の出演から推定（登場話の根拠：韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 遊郭編 episode(s) 11 (episode basis: Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s3",
+            "s4",
+            "s5"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "takeo-kamado",
+          "person": "tai-chi-you",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 遊郭編 6화 출연분에서 추정 (출연 회차 근거: 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版遊郭編第6話の出演から推定（登場話の根拠：韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 遊郭編 episode(s) 6 (episode basis: Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s6",
+            "s4",
+            "s5"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "doma",
+          "person": "kyuu-ya-shin-shu",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 遊郭編 11화 출연분에서 추정 (출연 회차 근거: 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版遊郭編第11話の出演から推定（登場話の根拠：韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 遊郭編 episode(s) 11 (episode basis: Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s7",
+            "s4",
+            "s5"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "hanako-kamado",
+          "person": "shou-gen-kou-bi",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 遊郭編 6화 출연분에서 추정 (출연 회차 근거: 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版遊郭編第6話の出演から推定（登場話の根拠：韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 遊郭編 episode(s) 6 (episode basis: Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s8",
+            "s4",
+            "s5"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "shinjuro-rengoku",
+          "person": "shou-san-ryoku-ya",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 遊郭編 6화 출연분에서 추정 (출연 회차 근거: 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版遊郭編第6話の出演から推定（登場話の根拠：韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 遊郭編 episode(s) 6 (episode basis: Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s9",
+            "s4",
+            "s5"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "nichika-ubuyashiki",
+          "person": "shou-taku-a-ri",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 遊郭編 11화 출연분에서 추정 (출연 회차 근거: 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版遊郭編第11話の出演から推定（登場話の根拠：韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 遊郭編 episode(s) 11 (episode basis: Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s10",
+            "s4",
+            "s5"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "kiriya-ubuyashiki",
+          "person": "yuu-boku-heki",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 遊郭編 11화 출연분에서 추정 (출연 회차 근거: 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版遊郭編第11話の出演から推定（登場話の根拠：韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 遊郭編 episode(s) 11 (episode basis: Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s11",
+            "s4",
+            "s5"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "kyojuro-rengoku",
+          "person": "nichi-ya-sou",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 遊郭編 8화 출연분에서 추정 (출연 회차 근거: 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版遊郭編第8話の出演から推定（登場話の根拠：韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 遊郭編 episode(s) 8 (episode basis: Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s12",
+            "s4",
+            "s5"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "muscle-mouse",
+          "person": "boku-son-bou",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 遊郭編 6화 출연분에서 추정 (출연 회차 근거: 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版遊郭編第6話の出演から推定（登場話の根拠：韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 遊郭編 episode(s) 6 (episode basis: Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s13",
+            "s4",
+            "s5"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "suma",
+          "person": "tou-san-na-ou",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 遊郭編 6,8,9,10,11화 출연분에서 추정 (출연 회차 근거: 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版遊郭編第6,8,9,10,11話の出演から推定（登場話の根拠：韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 遊郭編 episode(s) 6,8,9,10,11 (episode basis: Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s14",
+            "s4",
+            "s5"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "kie-kamado",
+          "person": "sou-tou-hou-shi",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 遊郭編 7,8화 출연분에서 추정 (출연 회차 근거: 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版遊郭編第7,8話の出演から推定（登場話の根拠：韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 遊郭編 episode(s) 7,8 (episode basis: Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s15",
+            "s4",
+            "s5"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "kagaya-ubuyashiki",
+          "person": "shin-sen-chi-shi",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 遊郭編 8,11화 출연분에서 추정 (출연 회차 근거: 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版遊郭編第8,11話の出演から推定（登場話の根拠：韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 遊郭編 episode(s) 8,11 (episode basis: Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s16",
+            "s4",
+            "s5"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "makio",
+          "person": "shaku-jou-sei-kou",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 遊郭編 6,8,9,10,11화 출연분에서 추정 (출연 회차 근거: 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版遊郭編第6,8,9,10,11話の出演から推定（登場話の根拠：韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 遊郭編 episode(s) 6,8,9,10,11 (episode basis: Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s17",
+            "s4",
+            "s5"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "akaza",
+          "person": "shaku-den-shou",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 遊郭編 11화 출연분에서 추정 (출연 회차 근거: 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版遊郭編第11話の出演から推定（登場話の根拠：韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 遊郭編 episode(s) 11 (episode basis: Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s18",
+            "s4",
+            "s5"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "hinatsuru",
+          "person": "shu-ki-ton-bi",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 遊郭編 8,9,10,11화 출연분에서 추정 (출연 회차 근거: 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版遊郭編第8,9,10,11話の出演から推定（登場話の根拠：韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 遊郭編 episode(s) 8,9,10,11 (episode basis: Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s19",
+            "s4",
+            "s5"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "hinaki-ubuyashiki",
+          "person": "ka-shu-yumiri",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 遊郭編 11화 출연분에서 추정 (출연 회차 근거: 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版遊郭編第11話の出演から推定（登場話の根拠：韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 遊郭編 episode(s) 11 (episode basis: Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s20",
+            "s4",
+            "s5"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "obanai-iguro",
+          "person": "rei-son-ken-ichi",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 遊郭編 11화 출연분에서 추정 (출연 회차 근거: 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版遊郭編第11話の出演から推定（登場話の根拠：韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 遊郭編 episode(s) 11 (episode basis: Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s21",
+            "s4",
+            "s5"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "muzan-kibutsuji",
+          "person": "kan-shun-gen",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 遊郭編 6화 출연분에서 추정 (출연 회차 근거: 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版遊郭編第6話の出演から推定（登場話の根拠：韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 遊郭編 episode(s) 6 (episode basis: Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s22",
+            "s4",
+            "s5"
+          ],
+          "verification": "unverified"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83_(%E3%82%A2%E3%83%8B%E3%83%A1)",
+      "title": "鬼滅の刃 (アニメ) - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://eiga.com/movie/103537/",
+      "title": "「鬼滅の刃」特別編集版　遊郭決戦編 : 作品情報・声優・キャスト・あらすじ - 映画.com",
+      "publisher": "news",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E5%88%A9%E5%A5%88",
+      "title": "佐藤利奈 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s4",
+      "url": "https://m.cafe.daum.net/CastingBank/54Pt/205",
+      "title": "[애니맥스] '귀멸의 칼날: 환락의 거리편' 성우진 - 첫 만남과 어울림의 장 - 캐스팅뱅크[한국성우DB카페]",
+      "publisher": "other",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s5",
+      "url": "https://dougahaishinreview.com/yukakukessenhen.html",
+      "title": "鬼滅の刃「特別編集版」の見逃し配信はどこで見れる？TVerやサブスクの配信はなし？ - 暮らしのネット活用術",
+      "publisher": "other",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s6",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9C%B0%E8%91%89",
+      "title": "大地葉 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s7",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E9%87%8E%E7%9C%9F%E5%AE%88",
+      "title": "宮野真守 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s8",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%8E%9F%E5%A5%BD%E7%BE%8E",
+      "title": "小原好美 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s9",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B1%B1%E5%8A%9B%E4%B9%9F",
+      "title": "小山力也 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s10",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%BE%A4%E4%BA%9C%E6%9D%8E",
+      "title": "小澤亜李 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s11",
+      "url": "https://ja.wikipedia.org/wiki/%E6%82%A0%E6%9C%A8%E7%A2%A7",
+      "title": "悠木碧 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s12",
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%87%8E%E8%81%A1",
+      "title": "日野聡 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s13",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%9D%91%E6%98%B4",
+      "title": "木村昴 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s14",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%B1%B1%E5%A5%88%E5%A4%AE",
+      "title": "東山奈央 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s15",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A1%91%E5%B3%B6%E6%B3%95%E5%AD%90",
+      "title": "桑島法子 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s16",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E5%B7%9D%E6%99%BA%E4%B9%8B",
+      "title": "森川智之 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s17",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E4%B8%8A%E9%9D%99%E9%A6%99",
+      "title": "石上静香 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s18",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E7%94%B0%E5%BD%B0",
+      "title": "石田彰 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s19",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A8%AE%EF%A8%91%E6%95%A6%E7%BE%8E",
+      "title": "種﨑敦美 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s20",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8A%B1%E5%AE%88%E3%82%86%E3%81%BF%E3%82%8A",
+      "title": "花守ゆみり - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s21",
+      "url": "https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9D%91%E5%81%A5%E4%B8%80",
+      "title": "鈴村健一 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s22",
+      "url": "https://ja.wikipedia.org/wiki/%E9%96%A2%E4%BF%8A%E5%BD%A6",
+      "title": "関俊彦 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

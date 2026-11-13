@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shin-na-en-nen",
+  "slug": "nobutoshi-canna",
+  "name": {
+    "original_lang": "ja",
+    "original": "神奈延年",
+    "latin": "Nobutoshi Canna",
+    "aliases": {
+      "ja": [
+        "かんなのぶとし"
+      ]
+    }
+  },
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1968-06-10",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%A5%88%E5%BB%B6%E5%B9%B4"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%A5%88%E5%BB%B6%E5%B9%B4",
+      "title": "神奈延年 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

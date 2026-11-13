@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ka-ya-kou",
+  "slug": "hiro-shimono",
+  "name": {
+    "original_lang": "ja",
+    "original": "下野紘",
+    "latin": "Hiro Shimono",
+    "aliases": {
+      "ja": [
+        "しものひろ"
+      ],
+      "ko": [
+        "시모노 히로"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1980-04-21",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E9%87%8E%E7%B4%98",
+    "en": "https://en.wikipedia.org/wiki/Hiro_Shimono",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%8B%9C%EB%AA%A8%EB%85%B8_%ED%9E%88%EB%A1%9C"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E9%87%8E%E7%B4%98",
+      "title": "下野紘 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "an-gyeong-jin",
+  "slug": "ahn-gyeong-jin",
+  "name": {
+    "original_lang": "ko",
+    "original": "안경진",
+    "latin": "Ahn Gyeong-jin"
+  },
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1956-07-04",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EC%95%88%EA%B2%BD%EC%A7%84_(%EC%84%B1%EC%9A%B0)"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EC%95%88%EA%B2%BD%EC%A7%84_(%EC%84%B1%EC%9A%B0)",
+      "title": "안경진 (성우) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

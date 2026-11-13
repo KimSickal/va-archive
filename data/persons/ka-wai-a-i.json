@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ka-wai-a-i",
+  "slug": "ai-kakuma",
+  "name": {
+    "original_lang": "ja",
+    "original": "加隈亜衣",
+    "latin": "Ai Kakuma",
+    "aliases": {
+      "ja": [
+        "かくまあい"
+      ],
+      "ko": [
+        "카쿠마 아이"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1988-09-09",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%8A%A0%E9%9A%88%E4%BA%9C%E8%A1%A3",
+    "en": "https://en.wikipedia.org/wiki/Ai_Kakuma",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%B9%B4%EC%BF%A0%EB%A7%88_%EC%95%84%EC%9D%B4"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8A%A0%E9%9A%88%E4%BA%9C%E8%A1%A3",
+      "title": "加隈亜衣 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

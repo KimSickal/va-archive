@@ -1,0 +1,42 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ryuu-kan-shun",
+  "slug": "jun-kasama",
+  "name": {
+    "original_lang": "ja",
+    "original": "笠間淳",
+    "latin": "Jun Kasama",
+    "aliases": {
+      "ja": [
+        "かさまじゅん"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1984-04-10",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%AC%A0%E9%96%93%E6%B7%B3",
+    "en": "https://en.wikipedia.org/wiki/Jun_Kasama"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%AC%A0%E9%96%93%E6%B7%B3",
+      "title": "笠間淳 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

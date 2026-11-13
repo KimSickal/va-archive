@@ -1,0 +1,35 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sin-gyeong-seon",
+  "slug": "shin-gyeong-seon",
+  "name": {
+    "original_lang": "ko",
+    "original": "신경선",
+    "latin": "Shin Gyeong-seon"
+  },
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1983-12-30",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EA%B2%BD%EC%84%A0"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EA%B2%BD%EC%84%A0",
+      "title": "신경선 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

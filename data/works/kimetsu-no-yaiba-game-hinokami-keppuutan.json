@@ -1,0 +1,1441 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "kimetsu-no-yaiba-game-hinokami-keppuutan",
+  "franchise_id": "kimetsu-no-yaiba",
+  "type": "game",
+  "title": {
+    "original_lang": "ja",
+    "original": "鬼滅の刃 ヒノカミ血風譚",
+    "latin": "Kimetsu no Yaiba: Hinokami Keppuutan",
+    "official": {
+      "en": "Demon Slayer: Kimetsu no Yaiba – The Hinokami Chronicles",
+      "ko": "귀멸의 칼날 히노카미 혈풍담"
+    }
+  },
+  "order": 12,
+  "status": "released",
+  "start_date": "2021-10-14",
+  "developers": [
+    {
+      "original_lang": "ja",
+      "original": "サイバーコネクトツー",
+      "latin": "CyberConnect2",
+      "official": {
+        "en": "CyberConnect2"
+      }
+    }
+  ],
+  "publishers": [
+    {
+      "original_lang": "ja",
+      "original": "アニプレックス",
+      "latin": "Aniplex",
+      "official": {
+        "en": "Aniplex",
+        "ko": "애니플렉스"
+      }
+    },
+    {
+      "original_lang": "ja",
+      "original": "セガ",
+      "latin": "Sega",
+      "official": {
+        "en": "Sega"
+      }
+    }
+  ],
+  "platforms": [
+    "ps4",
+    "ps5",
+    "pc",
+    "xbox_one",
+    "xbox_series",
+    "switch"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83_%E3%83%92%E3%83%8E%E3%82%AB%E3%83%9F%E8%A1%80%E9%A2%A8%E8%AD%9A",
+    "ko": "https://ko.wikipedia.org/wiki/%EA%B7%80%EB%A9%B8%EC%9D%98_%EC%B9%BC%EB%82%A0_%ED%9E%88%EB%85%B8%EC%B9%B4%EB%AF%B8_%ED%98%88%ED%92%8D%EB%8B%B4",
+    "en": "https://en.wikipedia.org/wiki/Demon_Slayer%3A_Kimetsu_no_Yaiba_%E2%80%93_The_Hinokami_Chronicles"
+  },
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2021-10-14",
+      "credits": [
+        {
+          "character": "saburo",
+          "person": "terasomamasaki",
+          "role": "supporting",
+          "source_refs": [
+            "s3"
+          ]
+        },
+        {
+          "character": "tanjuro-kamado",
+          "person": "san-boku-shin-ichi-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ]
+        },
+        {
+          "character": "kanao-tsuyuri",
+          "person": "jou-den-rei-na",
+          "role": "supporting",
+          "source_refs": [
+            "s5"
+          ]
+        },
+        {
+          "character": "zenitsu-agatsuma",
+          "person": "ka-ya-kou",
+          "role": "main",
+          "source_refs": [
+            "s6",
+            "s1",
+            "s7"
+          ]
+        },
+        {
+          "character": "kanata-ubuyashiki",
+          "person": "sei-taku-shi-shoku",
+          "role": "supporting",
+          "source_refs": [
+            "s8"
+          ]
+        },
+        {
+          "character": "tanjiro-kamado",
+          "person": "sa-tou-sou-bi",
+          "role": "supporting",
+          "part": "young",
+          "source_refs": [
+            "s9",
+            "s1"
+          ]
+        },
+        {
+          "character": "rui",
+          "person": "dai-san-kou-ki",
+          "role": "supporting",
+          "source_refs": [
+            "s10",
+            "s1"
+          ]
+        },
+        {
+          "character": "makomo",
+          "person": "ka-wai-a-i",
+          "role": "supporting",
+          "source_refs": [
+            "s11",
+            "s1",
+            "s7"
+          ]
+        },
+        {
+          "character": "jigoro-kuwajima",
+          "person": "sen-you-han",
+          "role": "supporting",
+          "source_refs": [
+            "s12"
+          ]
+        },
+        {
+          "character": "goto",
+          "person": "ko-sen-shin",
+          "role": "supporting",
+          "source_refs": [
+            "s13"
+          ]
+        },
+        {
+          "character": "rokuta-kamado",
+          "person": "ko-ga-ki",
+          "role": "supporting",
+          "source_refs": [
+            "s14"
+          ]
+        },
+        {
+          "character": "tamayo",
+          "person": "han-hon-shin-ryou",
+          "role": "supporting",
+          "source_refs": [
+            "s15",
+            "s1"
+          ]
+        },
+        {
+          "character": "takeo-kamado",
+          "person": "tai-chi-you",
+          "role": "supporting",
+          "source_refs": [
+            "s16"
+          ]
+        },
+        {
+          "character": "sakonji-urokodaki",
+          "person": "tai-chou-hou-chuu",
+          "role": "supporting",
+          "source_refs": [
+            "s17",
+            "s1",
+            "s7"
+          ]
+        },
+        {
+          "character": "hand-demon",
+          "person": "shi-an-bu-jin",
+          "role": "supporting",
+          "part": "regular",
+          "source_refs": [
+            "s18",
+            "s1"
+          ]
+        },
+        {
+          "character": "murata",
+          "person": "kyuu-den-kou-ki",
+          "role": "supporting",
+          "source_refs": [
+            "s19",
+            "s1",
+            "s7"
+          ]
+        },
+        {
+          "character": "hanako-kamado",
+          "person": "shou-gen-kou-bi",
+          "role": "supporting",
+          "source_refs": [
+            "s20"
+          ]
+        },
+        {
+          "character": "shinjuro-rengoku",
+          "person": "shou-san-ryoku-ya",
+          "role": "supporting",
+          "source_refs": [
+            "s21"
+          ]
+        },
+        {
+          "character": "hand-demon-brother",
+          "person": "shou-shi-shin-kin",
+          "role": "supporting",
+          "source_refs": [
+            "s22"
+          ]
+        },
+        {
+          "character": "susamaru",
+          "person": "shou-shou-mi-ka-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s23",
+            "s1"
+          ]
+        },
+        {
+          "character": "spider-demon-mother",
+          "person": "shou-sei-sui-a-bi",
+          "role": "supporting",
+          "source_refs": [
+            "s24"
+          ]
+        },
+        {
+          "character": "kanata-ubuyashiki",
+          "person": "shou-taku-a-ri",
+          "role": "supporting",
+          "source_refs": [
+            "s25"
+          ]
+        },
+        {
+          "character": "tengen-uzui",
+          "person": "shou-sei-koku-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s26",
+            "s1"
+          ]
+        },
+        {
+          "character": "kiyo-terauchi",
+          "person": "san-ka-shichi-kai",
+          "role": "supporting",
+          "source_refs": [
+            "s27"
+          ]
+        },
+        {
+          "character": "yushiro",
+          "person": "san-ka-tai-ki",
+          "role": "supporting",
+          "source_refs": [
+            "s28",
+            "s1"
+          ]
+        },
+        {
+          "character": "matsuemon",
+          "person": "san-ki-takumi",
+          "role": "supporting",
+          "source_refs": [
+            "s29"
+          ]
+        },
+        {
+          "character": "teruko",
+          "person": "kou-shou-bi-ho",
+          "role": "supporting",
+          "source_refs": [
+            "s30"
+          ]
+        },
+        {
+          "character": "genya-shinazugawa",
+          "person": "kou-hon-shin-gen",
+          "role": "supporting",
+          "source_refs": [
+            "s31"
+          ]
+        },
+        {
+          "character": "toyo",
+          "person": "gan-den-kou-ou",
+          "role": "supporting",
+          "source_refs": [
+            "s32"
+          ]
+        },
+        {
+          "character": "shoichi",
+          "person": "shi-rai-kou-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s33"
+          ]
+        },
+        {
+          "character": "enmu",
+          "person": "hei-sen-tai-fu",
+          "role": "supporting",
+          "source_refs": [
+            "s34",
+            "s1"
+          ]
+        },
+        {
+          "character": "kiriya-ubuyashiki",
+          "person": "yuu-boku-heki",
+          "role": "supporting",
+          "source_refs": [
+            "s35"
+          ]
+        },
+        {
+          "character": "kyojuro-rengoku",
+          "person": "nichi-ya-sou",
+          "role": "supporting",
+          "source_refs": [
+            "s36",
+            "s1",
+            "s7"
+          ]
+        },
+        {
+          "character": "shinobu-kocho",
+          "person": "sou-ken-sa-shoku",
+          "role": "supporting",
+          "source_refs": [
+            "s37",
+            "s1",
+            "s7"
+          ]
+        },
+        {
+          "character": "muscle-mouse",
+          "person": "boku-son-bou",
+          "role": "supporting",
+          "source_refs": [
+            "s38"
+          ],
+          "note": {
+            "original_lang": "ko",
+            "original": "발매 후 추가된 DLC 캐릭터 (遊郭編 방영 이후)",
+            "translations": {
+              "ja": "発売後に追加されたDLCキャラクター（遊郭編放送後）",
+              "en": "Post-release DLC character (added after the Entertainment District arc aired)"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          }
+        },
+        {
+          "character": "swamp-demon",
+          "person": "boku-son-ryou-hei",
+          "role": "supporting",
+          "source_refs": [
+            "s39",
+            "s1"
+          ]
+        },
+        {
+          "character": "shigeru-kamado",
+          "person": "hon-to-fuu",
+          "role": "supporting",
+          "source_refs": [
+            "s40"
+          ]
+        },
+        {
+          "character": "gyomei-himejima",
+          "person": "san-den-chi-wa",
+          "role": "supporting",
+          "source_refs": [
+            "s41"
+          ]
+        },
+        {
+          "character": "kakushi",
+          "person": "tou-jou-nichi-sa-shi",
+          "role": "minor",
+          "source_refs": [
+            "s42"
+          ]
+        },
+        {
+          "character": "inosuke-hashibira",
+          "person": "shou-kou-tei-shou",
+          "role": "main",
+          "source_refs": [
+            "s43",
+            "s1",
+            "s7"
+          ]
+        },
+        {
+          "character": "naho-takada",
+          "person": "sou-gen-yuu-ki",
+          "role": "supporting",
+          "source_refs": [
+            "s44"
+          ]
+        },
+        {
+          "character": "kie-kamado",
+          "person": "sou-tou-hou-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s45"
+          ]
+        },
+        {
+          "character": "rui-mother",
+          "person": "sou-koku-ka-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s46"
+          ]
+        },
+        {
+          "character": "sabito",
+          "person": "bi-yuu-ki",
+          "role": "supporting",
+          "source_refs": [
+            "s47",
+            "s1",
+            "s7"
+          ]
+        },
+        {
+          "character": "spider-demon-son",
+          "person": "shin-kyuu-ho-shou-ta-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s48"
+          ]
+        },
+        {
+          "character": "kagaya-ubuyashiki",
+          "person": "shin-sen-chi-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s49"
+          ]
+        },
+        {
+          "character": "senjuro-rengoku",
+          "person": "ka-boku-shun-mi",
+          "role": "supporting",
+          "source_refs": [
+            "s50"
+          ]
+        },
+        {
+          "character": "kasugai-crow",
+          "person": "kai-san-shuu-shi",
+          "role": "minor",
+          "source_refs": [
+            "s51"
+          ]
+        },
+        {
+          "character": "giyu-tomioka",
+          "person": "ou-sei-kou-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s52",
+            "s1",
+            "s7"
+          ]
+        },
+        {
+          "character": "aoi-kanzaki",
+          "person": "kou-gen-yuu-ri",
+          "role": "supporting",
+          "source_refs": [
+            "s53"
+          ]
+        },
+        {
+          "character": "daki",
+          "person": "taku-jou-miyuki",
+          "role": "supporting",
+          "source_refs": [
+            "s54",
+            "s1"
+          ],
+          "note": {
+            "original_lang": "ko",
+            "original": "발매 후 추가된 DLC 캐릭터 (遊郭編 방영 이후)",
+            "translations": {
+              "ja": "発売後に追加されたDLCキャラクター（遊郭編放送後）",
+              "en": "Post-release DLC character (added after the Entertainment District arc aired)"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          }
+        },
+        {
+          "character": "muichiro-tokito",
+          "person": "ka-sei-ken-go",
+          "role": "supporting",
+          "source_refs": [
+            "s55"
+          ]
+        },
+        {
+          "character": "hotaru-haganezuka",
+          "person": "rou-sen-tai-fu",
+          "role": "supporting",
+          "source_refs": [
+            "s56"
+          ]
+        },
+        {
+          "character": "muzan-daughter",
+          "person": "haku-shaku-sei-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s57"
+          ]
+        },
+        {
+          "character": "spider-demon-daughter",
+          "person": "haku-shaku-ryou-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s58"
+          ]
+        },
+        {
+          "character": "muzan-wife",
+          "person": "kai-kou-yuu-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s59"
+          ]
+        },
+        {
+          "character": "sumi-nakahara",
+          "person": "shin-ya-ayumi",
+          "role": "supporting",
+          "source_refs": [
+            "s60"
+          ]
+        },
+        {
+          "character": "akaza",
+          "person": "shaku-den-shou",
+          "role": "supporting",
+          "source_refs": [
+            "s61",
+            "s1"
+          ]
+        },
+        {
+          "character": "chuntaro",
+          "person": "shaku-ken-bu-sai-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s62"
+          ]
+        },
+        {
+          "character": "yahaba",
+          "person": "fuku-san-jun",
+          "role": "supporting",
+          "source_refs": [
+            "s63",
+            "s1"
+          ]
+        },
+        {
+          "character": "spider-demon-father",
+          "person": "tou-den-tetsu",
+          "role": "supporting",
+          "source_refs": [
+            "s64"
+          ]
+        },
+        {
+          "character": "rui-father",
+          "person": "ritsu-ka-shin-shi-kai",
+          "role": "supporting",
+          "source_refs": [
+            "s65"
+          ]
+        },
+        {
+          "character": "kozo-kanamori",
+          "person": "chiku-hon-ei-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s66"
+          ]
+        },
+        {
+          "character": "kaigaku",
+          "person": "sei-koku-ka-sei",
+          "role": "supporting",
+          "source_refs": [
+            "s67"
+          ]
+        },
+        {
+          "character": "hinaki-ubuyashiki",
+          "person": "ka-shu-yumiri",
+          "role": "supporting",
+          "source_refs": [
+            "s68"
+          ]
+        },
+        {
+          "character": "tanjiro-kamado",
+          "person": "ka-kou-ka-ju",
+          "role": "main",
+          "part": "regular",
+          "source_refs": [
+            "s69",
+            "s1",
+            "s7"
+          ]
+        },
+        {
+          "character": "mitsuri-kanroji",
+          "person": "ka-taku-kou-sai",
+          "role": "supporting",
+          "source_refs": [
+            "s70"
+          ]
+        },
+        {
+          "character": "kyogai",
+          "person": "shu-hou-bu-jun-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s71",
+            "s1"
+          ]
+        },
+        {
+          "character": "wisteria-house-old-woman",
+          "person": "koku-iku-shi",
+          "role": "minor",
+          "source_refs": [
+            "s72"
+          ]
+        },
+        {
+          "character": "ruka-rengoku",
+          "person": "hou-kou-megumi",
+          "role": "supporting",
+          "source_refs": [
+            "s73"
+          ]
+        },
+        {
+          "character": "hand-demon",
+          "person": "hou-ki-ai-sei",
+          "role": "supporting",
+          "part": "young",
+          "source_refs": [
+            "s74",
+            "s1"
+          ]
+        },
+        {
+          "character": "gyutaro",
+          "person": "hou-han-ryou-ta",
+          "role": "supporting",
+          "source_refs": [
+            "s75",
+            "s1"
+          ],
+          "note": {
+            "original_lang": "ko",
+            "original": "발매 후 추가된 DLC 캐릭터 (遊郭編 방영 이후)",
+            "translations": {
+              "ja": "発売後に追加されたDLCキャラクター（遊郭編放送後）",
+              "en": "Post-release DLC character (added after the Entertainment District arc aired)"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          }
+        },
+        {
+          "character": "kazumi",
+          "person": "shu-sei-kou-tai",
+          "role": "supporting",
+          "source_refs": [
+            "s76"
+          ]
+        },
+        {
+          "character": "obanai-iguro",
+          "person": "rei-son-ken-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s77"
+          ]
+        },
+        {
+          "character": "muzan-kibutsuji",
+          "person": "kan-shun-gen",
+          "role": "supporting",
+          "source_refs": [
+            "s78"
+          ]
+        },
+        {
+          "character": "sanemi-shinazugawa",
+          "person": "kan-chi-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s79"
+          ]
+        },
+        {
+          "character": "kasugai-crow",
+          "person": "kou-boku-shou",
+          "role": "minor",
+          "source_refs": [
+            "s80"
+          ]
+        },
+        {
+          "character": "nezuko-kamado",
+          "person": "ki-tou-mei-ri",
+          "role": "main",
+          "source_refs": [
+            "s81",
+            "s1",
+            "s7"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83_%E3%83%92%E3%83%8E%E3%82%AB%E3%83%9F%E8%A1%80%E9%A2%A8%E8%AD%9A",
+      "title": "鬼滅の刃 ヒノカミ血風譚 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B7%80%EB%A9%B8%EC%9D%98_%EC%B9%BC%EB%82%A0_%ED%9E%88%EB%85%B8%EC%B9%B4%EB%AF%B8_%ED%98%88%ED%92%8D%EB%8B%B4",
+      "title": "귀멸의 칼날 히노카미 혈풍담 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%A6%E3%82%89%E3%81%9D%E3%81%BE%E3%81%BE%E3%81%95%E3%81%8D",
+      "title": "てらそままさき - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s4",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E6%9C%A8%E7%9C%9E%E4%B8%80%E9%83%8E",
+      "title": "三木眞一郎 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s5",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E7%94%B0%E9%BA%97%E5%A5%88",
+      "title": "上田麗奈 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s6",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E9%87%8E%E7%B4%98",
+      "title": "下野紘 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s7",
+      "url": "https://game.kimetsu.com/hinokami/character/",
+      "title": "キャラクター | 鬼滅の刃 ヒノカミ血風譚 公式サイト",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s8",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%95%E6%BE%A4%E8%A9%A9%E7%B9%94",
+      "title": "井澤詩織 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s9",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E8%81%A1%E7%BE%8E",
+      "title": "佐藤聡美 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s10",
+      "url": "https://ja.wikipedia.org/wiki/%E5%86%85%E5%B1%B1%E6%98%82%E8%BC%9D",
+      "title": "内山昂輝 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s11",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8A%A0%E9%9A%88%E4%BA%9C%E8%A1%A3",
+      "title": "加隈亜衣 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s12",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8D%83%E8%91%89%E7%B9%81",
+      "title": "千葉繁 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s13",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E5%B7%9D%E6%85%8E",
+      "title": "古川慎 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s14",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E8%B3%80%E8%91%B5",
+      "title": "古賀葵 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s15",
+      "url": "https://ja.wikipedia.org/wiki/%E5%9D%82%E6%9C%AC%E7%9C%9F%E7%B6%BE",
+      "title": "坂本真綾 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s16",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9C%B0%E8%91%89",
+      "title": "大地葉 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s17",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%A1%9A%E8%8A%B3%E5%BF%A0",
+      "title": "大塚芳忠 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s18",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AD%90%E5%AE%89%E6%AD%A6%E4%BA%BA",
+      "title": "子安武人 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s19",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E7%94%B0%E5%B9%B8%E5%AD%A3",
+      "title": "宮田幸季 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s20",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%8E%9F%E5%A5%BD%E7%BE%8E",
+      "title": "小原好美 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s21",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B1%B1%E5%8A%9B%E4%B9%9F",
+      "title": "小山力也 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s22",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B8%82%E7%9C%9E%E7%90%B4",
+      "title": "小市眞琴 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s23",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9D%BE%E6%9C%AA%E5%8F%AF%E5%AD%90",
+      "title": "小松未可子 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s24",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%B8%85%E6%B0%B4%E4%BA%9C%E7%BE%8E",
+      "title": "小清水亜美 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s25",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%BE%A4%E4%BA%9C%E6%9D%8E",
+      "title": "小澤亜李 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s26",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E8%A5%BF%E5%85%8B%E5%B9%B8",
+      "title": "小西克幸 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s27",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E4%B8%8B%E4%B8%83%E6%B5%B7",
+      "title": "山下七海 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s28",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E4%B8%8B%E5%A4%A7%E8%BC%9D",
+      "title": "山下大輝 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s29",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%B4%8E%E3%81%9F%E3%81%8F%E3%81%BF",
+      "title": "山崎たくみ - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s30",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%A1%E5%92%B2%E7%BE%8E%E4%BF%9D",
+      "title": "岡咲美保 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s31",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%A1%E6%9C%AC%E4%BF%A1%E5%BD%A6",
+      "title": "岡本信彦 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s32",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E7%94%B0%E5%85%89%E5%A4%AE",
+      "title": "岩田光央 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s33",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B8%82%E6%9D%A5%E5%85%89%E5%BC%98",
+      "title": "市来光弘 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s34",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%B7%9D%E5%A4%A7%E8%BC%94",
+      "title": "平川大輔 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s35",
+      "url": "https://ja.wikipedia.org/wiki/%E6%82%A0%E6%9C%A8%E7%A2%A7",
+      "title": "悠木碧 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s36",
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%87%8E%E8%81%A1",
+      "title": "日野聡 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s37",
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%A9%E8%A6%8B%E6%B2%99%E7%B9%94",
+      "title": "早見沙織 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s38",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%9D%91%E6%98%B4",
+      "title": "木村昴 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s39",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%9D%91%E8%89%AF%E5%B9%B3",
+      "title": "木村良平 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s40",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E6%B8%A1%E6%A5%93",
+      "title": "本渡楓 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s41",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%89%E7%94%B0%E6%99%BA%E5%92%8C",
+      "title": "杉田智和 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s42",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%9F%8E%E6%97%A5%E6%B2%99%E5%AD%90",
+      "title": "東城日沙子 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s43",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B2%A1%E7%A6%8E%E4%B8%9E",
+      "title": "松岡禎丞 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s44",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A1%91%E5%8E%9F%E7%94%B1%E6%B0%97",
+      "title": "桑原由気 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s45",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A1%91%E5%B3%B6%E6%B3%95%E5%AD%90",
+      "title": "桑島法子 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s46",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A1%91%E8%B0%B7%E5%A4%8F%E5%AD%90",
+      "title": "桑谷夏子 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s47",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A2%B6%E8%A3%95%E8%B2%B4",
+      "title": "梶裕貴 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s48",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E4%B9%85%E4%BF%9D%E7%A5%A5%E5%A4%AA%E9%83%8E",
+      "title": "森久保祥太郎 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s49",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E5%B7%9D%E6%99%BA%E4%B9%8B",
+      "title": "森川智之 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s50",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A6%8E%E6%9C%A8%E6%B7%B3%E5%BC%A5",
+      "title": "榎木淳弥 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s51",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AA%9C%E5%B1%B1%E4%BF%AE%E4%B9%8B",
+      "title": "檜山修之 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s52",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AB%BB%E4%BA%95%E5%AD%9D%E5%AE%8F",
+      "title": "櫻井孝宏 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s53",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%8E%9F%E8%A3%95%E7%90%86",
+      "title": "江原裕理 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s54",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B2%A2%E5%9F%8E%E3%81%BF%E3%82%86%E3%81%8D",
+      "title": "沢城みゆき - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s55",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B2%B3%E8%A5%BF%E5%81%A5%E5%90%BE",
+      "title": "河西健吾 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s56",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B5%AA%E5%B7%9D%E5%A4%A7%E8%BC%94",
+      "title": "浪川大輔 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s57",
+      "url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E7%9F%B3%E6%99%B4%E9%A6%99",
+      "title": "白石晴香 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s58",
+      "url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E7%9F%B3%E6%B6%BC%E5%AD%90",
+      "title": "白石涼子 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s59",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9A%86%E5%8F%A3%E8%A3%95%E5%AD%90",
+      "title": "皆口裕子 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s60",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9C%9F%E9%87%8E%E3%81%82%E3%82%86%E3%81%BF",
+      "title": "真野あゆみ - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s61",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E7%94%B0%E5%BD%B0",
+      "title": "石田彰 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s62",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E8%A6%8B%E8%88%9E%E8%8F%9C%E9%A6%99",
+      "title": "石見舞菜香 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s63",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B1%B1%E6%BD%A4",
+      "title": "福山潤 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s64",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A8%B2%E7%94%B0%E5%BE%B9",
+      "title": "稲田徹 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s65",
+      "url": "https://ja.wikipedia.org/wiki/%E7%AB%8B%E8%8A%B1%E6%85%8E%E4%B9%8B%E4%BB%8B",
+      "title": "立花慎之介 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s66",
+      "url": "https://ja.wikipedia.org/wiki/%E7%AB%B9%E6%9C%AC%E8%8B%B1%E5%8F%B2",
+      "title": "竹本英史 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s67",
+      "url": "https://ja.wikipedia.org/wiki/%E7%B4%B0%E8%B0%B7%E4%BD%B3%E6%AD%A3",
+      "title": "細谷佳正 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s68",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8A%B1%E5%AE%88%E3%82%86%E3%81%BF%E3%82%8A",
+      "title": "花守ゆみり - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s69",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8A%B1%E6%B1%9F%E5%A4%8F%E6%A8%B9",
+      "title": "花江夏樹 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s70",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8A%B1%E6%BE%A4%E9%A6%99%E8%8F%9C",
+      "title": "花澤香菜 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s71",
+      "url": "https://ja.wikipedia.org/wiki/%E8%AB%8F%E8%A8%AA%E9%83%A8%E9%A0%86%E4%B8%80",
+      "title": "諏訪部順一 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s72",
+      "url": "https://ja.wikipedia.org/wiki/%E8%B0%B7%E8%82%B2%E5%AD%90",
+      "title": "谷育子 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s73",
+      "url": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E5%8F%A3%E3%82%81%E3%81%90%E3%81%BF",
+      "title": "豊口めぐみ - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s74",
+      "url": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E5%B4%8E%E6%84%9B%E7%94%9F",
+      "title": "豊崎愛生 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s75",
+      "url": "https://ja.wikipedia.org/wiki/%E9%80%A2%E5%9D%82%E8%89%AF%E5%A4%AA",
+      "title": "逢坂良太 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s76",
+      "url": "https://ja.wikipedia.org/wiki/%E9%85%92%E4%BA%95%E5%BA%83%E5%A4%A7",
+      "title": "酒井広大 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s77",
+      "url": "https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9D%91%E5%81%A5%E4%B8%80",
+      "title": "鈴村健一 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s78",
+      "url": "https://ja.wikipedia.org/wiki/%E9%96%A2%E4%BF%8A%E5%BD%A6",
+      "title": "関俊彦 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s79",
+      "url": "https://ja.wikipedia.org/wiki/%E9%96%A2%E6%99%BA%E4%B8%80",
+      "title": "関智一 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s80",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%9C%A8%E6%B8%89",
+      "title": "高木渉 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s81",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AC%BC%E9%A0%AD%E6%98%8E%E9%87%8C",
+      "title": "鬼頭明里 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

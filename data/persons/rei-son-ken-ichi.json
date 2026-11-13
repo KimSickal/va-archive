@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "rei-son-ken-ichi",
+  "slug": "kenichi-suzumura",
+  "name": {
+    "original_lang": "ja",
+    "original": "鈴村健一",
+    "latin": "Kenichi Suzumura",
+    "aliases": {
+      "ja": [
+        "すずむらけんいち"
+      ],
+      "ko": [
+        "스즈무라 켄이치"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1974-09-12",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9D%91%E5%81%A5%E4%B8%80",
+    "en": "https://en.wikipedia.org/wiki/Kenichi_Suzumura",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%8A%A4%EC%A6%88%EB%AC%B4%EB%9D%BC_%EC%BC%84%EC%9D%B4%EC%B9%98"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9D%91%E5%81%A5%E4%B8%80",
+      "title": "鈴村健一 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

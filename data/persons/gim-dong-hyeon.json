@@ -1,0 +1,27 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "gim-dong-hyeon",
+  "slug": "kim-dong-hyeon",
+  "name": {
+    "original_lang": "ko",
+    "original": "김동현",
+    "latin": "Kim Dong-hyeon"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://m.cafe.daum.net/CastingBank/54Pt/203",
+      "title": "[애니맥스] '귀멸의 칼날' 성우진 - 첫 만남과 어울림의 장 - 캐스팅뱅크[한국성우DB카페]",
+      "publisher": "other",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "unverified"
+    },
+    "skill_version": "0.5.1"
+  }
+}

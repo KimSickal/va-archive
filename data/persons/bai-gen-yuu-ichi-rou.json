@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "bai-gen-yuu-ichi-rou",
+  "slug": "yuichiro-umehara",
+  "name": {
+    "original_lang": "ja",
+    "original": "梅原裕一郎",
+    "latin": "Yuichiro Umehara",
+    "aliases": {
+      "ja": [
+        "うめはらゆういちろう"
+      ],
+      "ko": [
+        "우메하라 유이치로"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1991-03-08",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%A2%85%E5%8E%9F%E8%A3%95%E4%B8%80%E9%83%8E",
+    "en": "https://en.wikipedia.org/wiki/Y%C5%ABichir%C5%8D_Umehara",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9A%B0%EB%A9%94%ED%95%98%EB%9D%BC_%EC%9C%A0%EC%9D%B4%EC%B9%98%EB%A1%9C"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A2%85%E5%8E%9F%E8%A3%95%E4%B8%80%E9%83%8E",
+      "title": "梅原裕一郎 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

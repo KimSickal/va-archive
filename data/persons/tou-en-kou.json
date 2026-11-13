@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "tou-en-kou",
+  "slug": "konomi-inagaki",
+  "name": {
+    "original_lang": "ja",
+    "original": "稲垣好",
+    "latin": "Konomi Inagaki",
+    "aliases": {
+      "ja": [
+        "いながきこのみ"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%A8%B2%E5%9E%A3%E5%A5%BD",
+    "en": "https://en.wikipedia.org/wiki/Konomi_Inagaki"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A8%B2%E5%9E%A3%E5%A5%BD",
+      "title": "稲垣好 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

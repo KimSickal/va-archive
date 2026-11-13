@@ -1,0 +1,150 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "kimetsu-no-yaiba-kimetsu-no-utage-tokubetsu",
+  "franchise_id": "kimetsu-no-yaiba",
+  "type": "anime_special",
+  "title": {
+    "original_lang": "ja",
+    "original": "鬼滅の宴 特別編",
+    "latin": "Kimetsu no Utage Tokubetsu-hen",
+    "aliases": {
+      "ja": [
+        "中高一貫!!キメツ学園物語 鬼滅の宴 特別編"
+      ]
+    }
+  },
+  "order": 4,
+  "status": "finished",
+  "start_date": "2019-10-20",
+  "episodes": 3,
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "ufotable",
+      "latin": "ufotable",
+      "official": {
+        "en": "ufotable"
+      }
+    }
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2019-10-20",
+      "credits": [
+        {
+          "character": "zenitsu-agatsuma",
+          "person": "ka-ya-kou",
+          "role": "main",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "inosuke-hashibira",
+          "person": "shou-kou-tei-shou",
+          "role": "main",
+          "source_refs": [
+            "s3"
+          ]
+        },
+        {
+          "character": "giyu-tomioka",
+          "person": "ou-sei-kou-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s4"
+          ]
+        },
+        {
+          "character": "tanjiro-kamado",
+          "person": "ka-kou-ka-ju",
+          "role": "main",
+          "source_refs": [
+            "s5"
+          ]
+        },
+        {
+          "character": "nezuko-kamado",
+          "person": "ki-tou-mei-ri",
+          "role": "main",
+          "source_refs": [
+            "s6"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83_(%E3%82%A2%E3%83%8B%E3%83%A1)",
+      "title": "鬼滅の刃 (アニメ) - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E9%87%8E%E7%B4%98",
+      "title": "下野紘 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B2%A1%E7%A6%8E%E4%B8%9E",
+      "title": "松岡禎丞 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s4",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AB%BB%E4%BA%95%E5%AD%9D%E5%AE%8F",
+      "title": "櫻井孝宏 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s5",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8A%B1%E6%B1%9F%E5%A4%8F%E6%A8%B9",
+      "title": "花江夏樹 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s6",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AC%BC%E9%A0%AD%E6%98%8E%E9%87%8C",
+      "title": "鬼頭明里 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

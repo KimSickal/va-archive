@@ -1,0 +1,44 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "fu-kou-bi-sa-shi",
+  "slug": "misako-tomioka",
+  "name": {
+    "original_lang": "ja",
+    "original": "冨岡美沙子",
+    "latin": "Misako Tomioka",
+    "aliases": {
+      "ja": [
+        "とみおかみさこ"
+      ],
+      "ko": [
+        "토미오카 미사코"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%86%A8%E5%B2%A1%E7%BE%8E%E6%B2%99%E5%AD%90",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%86%A0%EB%AF%B8%EC%98%A4%EC%B9%B4_%EB%AF%B8%EC%82%AC%EC%BD%94"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%86%A8%E5%B2%A1%E7%BE%8E%E6%B2%99%E5%AD%90",
+      "title": "冨岡美沙子 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

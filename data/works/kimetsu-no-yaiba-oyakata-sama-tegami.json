@@ -1,0 +1,140 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "kimetsu-no-yaiba-oyakata-sama-tegami",
+  "franchise_id": "kimetsu-no-yaiba",
+  "type": "anime_special",
+  "title": {
+    "original_lang": "ja",
+    "original": "お館様からの手紙",
+    "latin": "Oyakata-sama kara no Tegami",
+    "aliases": {
+      "ja": [
+        "「柱稽古編」特別編集映像『お館様からの手紙』"
+      ]
+    }
+  },
+  "order": 22,
+  "status": "finished",
+  "start_date": "2024-04-06",
+  "episodes": 1,
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "ufotable",
+      "latin": "ufotable",
+      "official": {
+        "en": "ufotable"
+      }
+    }
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2024-04-06",
+      "credits": [
+        {
+          "character": "tanjiro-kamado",
+          "person": "ka-kou-ka-ju",
+          "role": "main",
+          "note": {
+            "original_lang": "ko",
+            "original": "등장인물은 기사(炭治郎가 冨岡를 찾아감)로 확인. 이 영상 단독 캐스트 표기는 찾지 못해 TV 시리즈 공식 배역으로 기재",
+            "translations": {
+              "ja": "登場人物は記事（炭治郎が冨岡義勇を訪ねる）で確認。本映像単独のキャスト表記は見つからず、TVシリーズの公式配役で記載",
+              "en": "Characters confirmed by news (Tanjiro visits Giyu). No cast list for this short itself was found; the TV series' official casting is used"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s2",
+            "s3",
+            "s4"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "giyu-tomioka",
+          "person": "ou-sei-kou-kou",
+          "role": "main",
+          "note": {
+            "original_lang": "ko",
+            "original": "등장인물은 기사(炭治郎가 冨岡를 찾아감)로 확인. 이 영상 단독 캐스트 표기는 찾지 못해 TV 시리즈 공식 배역으로 기재",
+            "translations": {
+              "ja": "登場人物は記事（炭治郎が冨岡義勇を訪ねる）で確認。本映像単独のキャスト表記は見つからず、TVシリーズの公式配役で記載",
+              "en": "Characters confirmed by news (Tanjiro visits Giyu). No cast list for this short itself was found; the TV series' official casting is used"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s2",
+            "s3",
+            "s4"
+          ],
+          "verification": "unverified"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83_(%E3%82%A2%E3%83%8B%E3%83%A1)",
+      "title": "鬼滅の刃 (アニメ) - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://anime.eiga.com/news/120993/",
+      "title": "「鬼滅の刃」絆の奇跡、そして柱稽古へ 入場者特典第3弾 - アニメハック",
+      "publisher": "news",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s3",
+      "url": "https://www.oricon.co.jp/news/2321320/full/",
+      "title": "『鬼滅の刃』入場者映像特典の第3弾は「お館様からの手紙」 炭治郎が冨岡義勇のもとを訪ねる",
+      "publisher": "news",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s4",
+      "url": "https://kimetsu.com/anime/hashirageikohen/staffcast/",
+      "title": "スタッフ／キャスト | テレビアニメ「鬼滅の刃」柱稽古編",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

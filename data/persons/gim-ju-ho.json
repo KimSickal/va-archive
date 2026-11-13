@@ -1,0 +1,35 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "gim-ju-ho",
+  "slug": "kim-ju-ho",
+  "name": {
+    "original_lang": "ko",
+    "original": "김주호",
+    "latin": "Kim Ju-ho"
+  },
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1985-12-17",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%A3%BC%ED%98%B8_(%EC%84%B1%EC%9A%B0)"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%A3%BC%ED%98%B8_(%EC%84%B1%EC%9A%B0)",
+      "title": "김주호 (성우) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

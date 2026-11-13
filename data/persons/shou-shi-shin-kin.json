@@ -1,0 +1,45 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shou-shi-shin-kin",
+  "slug": "makoto-koichi",
+  "name": {
+    "original_lang": "ja",
+    "original": "小市眞琴",
+    "latin": "Makoto Koichi",
+    "aliases": {
+      "ja": [
+        "こいちまこと"
+      ],
+      "ko": [
+        "코이치 마코토"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B8%82%E7%9C%9E%E7%90%B4",
+    "en": "https://en.wikipedia.org/wiki/Makoto_Koichi",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%BD%94%EC%9D%B4%EC%B9%98_%EB%A7%88%EC%BD%94%ED%86%A0"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B8%82%E7%9C%9E%E7%90%B4",
+      "title": "小市眞琴 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,1028 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "kimetsu-no-yaiba-movie-kizuna-no-kiseki",
+  "franchise_id": "kimetsu-no-yaiba",
+  "type": "anime_movie",
+  "title": {
+    "original_lang": "ja",
+    "original": "「鬼滅の刃」絆の奇跡、そして柱稽古へ",
+    "latin": "Kimetsu no Yaiba: Kizuna no Kiseki, Soshite Hashira Geiko e",
+    "official": {
+      "en": "Demon Slayer: Kimetsu no Yaiba – To the Hashira Training"
+    },
+    "aliases": {
+      "ko": [
+        "귀멸의 칼날: 인연의 기적, 그리고 합동 강화 훈련으로"
+      ]
+    }
+  },
+  "order": 20,
+  "status": "finished",
+  "start_date": "2024-02-02",
+  "runtime_min": 103,
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "ufotable",
+      "latin": "ufotable",
+      "official": {
+        "en": "ufotable"
+      }
+    }
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2024-02-02",
+      "credits": [
+        {
+          "character": "tanjiro-kamado",
+          "person": "ka-kou-ka-ju",
+          "role": "main",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "nezuko-kamado",
+          "person": "ki-tou-mei-ri",
+          "role": "main",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "zenitsu-agatsuma",
+          "person": "ka-ya-kou",
+          "role": "main",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "inosuke-hashibira",
+          "person": "shou-kou-tei-shou",
+          "role": "main",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "genya-shinazugawa",
+          "person": "kou-hon-shin-gen",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "giyu-tomioka",
+          "person": "ou-sei-kou-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "tengen-uzui",
+          "person": "shou-sei-koku-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "muichiro-tokito",
+          "person": "ka-sei-ken-go",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "shinobu-kocho",
+          "person": "sou-ken-sa-shoku",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "mitsuri-kanroji",
+          "person": "ka-taku-kou-sai",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "obanai-iguro",
+          "person": "rei-son-ken-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "sanemi-shinazugawa",
+          "person": "kan-chi-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "gyomei-himejima",
+          "person": "san-den-chi-wa",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "hotaru-haganezuka",
+          "person": "rou-sen-tai-fu",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 刀鍛冶の里編 11화 출연분에서 추정 (출연 회차 근거: 공식 회차별 크레딧, 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版刀鍛冶の里編第11話の出演から推定（登場話の根拠：公式各話クレジット、韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 刀鍛冶の里編 episode(s) 11 (episode basis: official per-episode credits; Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9",
+            "s10"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "kotetsu",
+          "person": "son-rai-ho",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 刀鍛冶の里編 11화 출연분에서 추정 (출연 회차 근거: 공식 회차별 크레딧, 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版刀鍛冶の里編第11話の出演から推定（登場話の根拠：公式各話クレジット、韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 刀鍛冶の里編 episode(s) 11 (episode basis: official per-episode credits; Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s3",
+            "s11",
+            "s5",
+            "s6",
+            "s12",
+            "s13",
+            "s7",
+            "s8",
+            "s14",
+            "s9",
+            "s10"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "tecchin-tecchikawahara",
+          "person": "oku-ryou-yuu-saku",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 刀鍛冶の里編 11화 출연분에서 추정 (출연 회차 근거: 공식 회차별 크레딧, 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版刀鍛冶の里編第11話の出演から推定（登場話の根拠：公式各話クレジット、韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 刀鍛冶の里編 episode(s) 11 (episode basis: official per-episode credits; Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s3",
+            "s15",
+            "s13",
+            "s10"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "muzan-kibutsuji",
+          "person": "kan-shun-gen",
+          "role": "minor",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 刀鍛冶の里編 11화 출연분에서 추정 (출연 회차 근거: 공식 회차별 크레딧, 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版刀鍛冶の里編第11話の出演から推定（登場話の根拠：公式各話クレジット、韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 刀鍛冶の里編 episode(s) 11 (episode basis: official per-episode credits; Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s3",
+            "s16",
+            "s10"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "hantengu",
+          "person": "ko-sen-tou-shi-fu",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 刀鍛冶の里編 11화 출연분에서 추정 (출연 회차 근거: 공식 회차별 크레딧, 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版刀鍛冶の里編第11話の出演から推定（登場話の根拠：公式各話クレジット、韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 刀鍛冶の里編 episode(s) 11 (episode basis: official per-episode credits; Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s3",
+            "s17",
+            "s6",
+            "s7",
+            "s8",
+            "s10"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "gyokko",
+          "person": "chou-kai-kou-fu",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 刀鍛冶の里編 11화 출연분에서 추정 (출연 회차 근거: 공식 회차별 크레딧, 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版刀鍛冶の里編第11話の出演から推定（登場話の根拠：公式各話クレジット、韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 刀鍛冶の里編 episode(s) 11 (episode basis: official per-episode credits; Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s3",
+            "s18",
+            "s6",
+            "s13",
+            "s7",
+            "s8",
+            "s14",
+            "s9",
+            "s10"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "kozo-kanamori",
+          "person": "chiku-hon-ei-shi",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 刀鍛冶の里編 11화 출연분에서 추정 (출연 회차 근거: 공식 회차별 크레딧, 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版刀鍛冶の里編第11話の出演から推定（登場話の根拠：公式各話クレジット、韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 刀鍛冶の里編 episode(s) 11 (episode basis: official per-episode credits; Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s6",
+            "s19",
+            "s13",
+            "s7",
+            "s8",
+            "s14",
+            "s9",
+            "s10"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "zohakuten",
+          "person": "san-ji-kou-ichi",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 刀鍛冶の里編 11화 출연분에서 추정 (출연 회차 근거: 공식 회차별 크레딧, 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版刀鍛冶の里編第11話の出演から推定（登場話の根拠：公式各話クレジット、韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 刀鍛冶の里編 episode(s) 11 (episode basis: official per-episode credits; Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s8",
+            "s20",
+            "s9",
+            "s10"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "tamayo",
+          "person": "han-hon-shin-ryou",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 刀鍛冶の里編 11화 출연분에서 추정 (출연 회차 근거: 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版刀鍛冶の里編第11話の出演から推定（登場話の根拠：韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 刀鍛冶の里編 episode(s) 11 (episode basis: Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s21",
+            "s10"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "yushiro",
+          "person": "san-ka-tai-ki",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 刀鍛冶の里編 11화 출연분에서 추정 (출연 회차 근거: 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版刀鍛冶の里編第11話の出演から推定（登場話の根拠：韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 刀鍛冶の里編 episode(s) 11 (episode basis: Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s22",
+            "s10"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "kanao-tsuyuri",
+          "person": "jou-den-rei-na",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 柱稽古編 1화 출연분에서 추정 (출연 회차 근거: 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版柱稽古編第1話の出演から推定（登場話の根拠：韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 柱稽古編 episode(s) 1 (episode basis: Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s23",
+            "s24"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "amane-ubuyashiki",
+          "person": "sa-tou-ri-na",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 柱稽古編 1화 출연분에서 추정 (출연 회차 근거: 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版柱稽古編第1話の出演から推定（登場話の根拠：韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 柱稽古編 episode(s) 1 (episode basis: Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s25",
+            "s24"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "takeuchi",
+          "person": "sen-you-shou-ya",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 柱稽古編 1화 출연분에서 추정 (출연 회차 근거: 성우 위키백과 {{ep}} 표시). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版柱稽古編第1話の出演から推定（登場話の根拠：声優のWikipedia {{ep}} 表記）。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 柱稽古編 episode(s) 1 (episode basis: VA Wikipedia {{ep}} marks). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s26"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "goto",
+          "person": "ko-sen-shin",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 柱稽古編 1화 출연분에서 추정 (출연 회차 근거: 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版柱稽古編第1話の出演から推定（登場話の根拠：韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 柱稽古編 episode(s) 1 (episode basis: Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s27",
+            "s24"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "kiyo-terauchi",
+          "person": "san-ka-shichi-kai",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 柱稽古編 1화 출연분에서 추정 (출연 회차 근거: 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版柱稽古編第1話の出演から推定（登場話の根拠：韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 柱稽古編 episode(s) 1 (episode basis: Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s28",
+            "s24"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "matsuemon",
+          "person": "san-ki-takumi",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 柱稽古編 1화 출연분에서 추정 (출연 회차 근거: 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版柱稽古編第1話の出演から推定（登場話の根拠：韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 柱稽古編 episode(s) 1 (episode basis: Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s29",
+            "s24"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "kiriya-ubuyashiki",
+          "person": "yuu-boku-heki",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 柱稽古編 1화 출연분에서 추정 (출연 회차 근거: 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版柱稽古編第1話の出演から推定（登場話の根拠：韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 柱稽古編 episode(s) 1 (episode basis: Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s30",
+            "s24"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "suma",
+          "person": "tou-san-na-ou",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 柱稽古編 1화 출연분에서 추정 (출연 회차 근거: 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版柱稽古編第1話の出演から推定（登場話の根拠：韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 柱稽古編 episode(s) 1 (episode basis: Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s31",
+            "s24"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "naho-takada",
+          "person": "sou-gen-yuu-ki",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 柱稽古編 1화 출연분에서 추정 (출연 회차 근거: 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版柱稽古編第1話の出演から推定（登場話の根拠：韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 柱稽古編 episode(s) 1 (episode basis: Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s32",
+            "s24"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "kagaya-ubuyashiki",
+          "person": "shin-sen-chi-shi",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 柱稽古編 1화 출연분에서 추정 (출연 회차 근거: 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版柱稽古編第1話の出演から推定（登場話の根拠：韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 柱稽古編 episode(s) 1 (episode basis: Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s33",
+            "s24"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "sumi-nakahara",
+          "person": "shin-ya-ayumi",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 柱稽古編 1화 출연분에서 추정 (출연 회차 근거: 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版柱稽古編第1話の出演から推定（登場話の根拠：韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 柱稽古編 episode(s) 1 (episode basis: Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s34",
+            "s24"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "makio",
+          "person": "shaku-jou-sei-kou",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 柱稽古編 1화 출연분에서 추정 (출연 회차 근거: 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版柱稽古編第1話の出演から推定（登場話の根拠：韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 柱稽古編 episode(s) 1 (episode basis: Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s35",
+            "s24"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "hinatsuru",
+          "person": "shu-ki-ton-bi",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 柱稽古編 1화 출연분에서 추정 (출연 회차 근거: 한국어 더빙판 회차별 배역(캐스팅뱅크, 캐릭터 출연 회차로만 사용)). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版柱稽古編第1話の出演から推定（登場話の根拠：韓国語吹替版の各話配役（CastingBank、キャラクターの登場話の確認のみに使用））。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 柱稽古編 episode(s) 1 (episode basis: Korean dub per-episode roles (CastingBank; used only to locate the character's episodes)). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s36",
+            "s24"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "kasugai-crow",
+          "person": "soku-sui-shou",
+          "role": "minor",
+          "note": {
+            "original_lang": "ko",
+            "original": "원작 TV판 柱稽古編 1화 출연분에서 추정 (출연 회차 근거: 성우 위키백과 {{ep}} 표시). 특별편집판 크레딧 원문 미확인, 편집으로 삭제됐을 수 있음",
+            "translations": {
+              "ja": "原作TV版柱稽古編第1話の出演から推定（登場話の根拠：声優のWikipedia {{ep}} 表記）。特別編集版のクレジット原文は未確認で、編集でカットされた可能性あり",
+              "en": "Inferred from the TV arc 柱稽古編 episode(s) 1 (episode basis: VA Wikipedia {{ep}} marks). Special-edit credit roll not seen; may have been cut"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s37"
+          ],
+          "verification": "unverified"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83_(%E3%82%A2%E3%83%8B%E3%83%A1)",
+      "title": "鬼滅の刃 (アニメ) - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://eiga.com/movie/100880/",
+      "title": "「鬼滅の刃」絆の奇跡、そして柱稽古へ : 作品情報・声優・キャスト・あらすじ - 映画.com",
+      "publisher": "news",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s3",
+      "url": "https://kimetsu.com/anime/katanakajinosatohen/story/?id=ep01",
+      "title": "第一話 - あらすじ | テレビアニメ「鬼滅の刃」刀鍛冶の里編",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s4",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B5%AA%E5%B7%9D%E5%A4%A7%E8%BC%94",
+      "title": "浪川大輔 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s5",
+      "url": "https://kimetsu.com/anime/katanakajinosatohen/story/?id=ep02",
+      "title": "第二話 - あらすじ | テレビアニメ「鬼滅の刃」刀鍛冶の里編",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s6",
+      "url": "https://kimetsu.com/anime/katanakajinosatohen/story/?id=ep03",
+      "title": "第三話 - あらすじ | テレビアニメ「鬼滅の刃」刀鍛冶の里編",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s7",
+      "url": "https://kimetsu.com/anime/katanakajinosatohen/story/?id=ep06",
+      "title": "第六話 - あらすじ | テレビアニメ「鬼滅の刃」刀鍛冶の里編",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s8",
+      "url": "https://kimetsu.com/anime/katanakajinosatohen/story/?id=ep07",
+      "title": "第七話 - あらすじ | テレビアニメ「鬼滅の刃」刀鍛冶の里編",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s9",
+      "url": "https://kimetsu.com/anime/katanakajinosatohen/story/?id=ep09",
+      "title": "第九話 - あらすじ | テレビアニメ「鬼滅の刃」刀鍛冶の里編",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s10",
+      "url": "https://m.cafe.daum.net/CastingBank/54Pt/206",
+      "title": "[애니맥스] '귀멸의 칼날: 도공 마을편' 성우진 - 첫 만남과 어울림의 장 - 캐스팅뱅크[한국성우DB카페]",
+      "publisher": "other",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s11",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%91%E7%80%AC%E6%AD%A9",
+      "title": "村瀬歩 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s12",
+      "url": "https://kimetsu.com/anime/katanakajinosatohen/story/?id=ep04",
+      "title": "第四話 - あらすじ | テレビアニメ「鬼滅の刃」刀鍛冶の里編",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s13",
+      "url": "https://kimetsu.com/anime/katanakajinosatohen/story/?id=ep05",
+      "title": "第五話 - あらすじ | テレビアニメ「鬼滅の刃」刀鍛冶の里編",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s14",
+      "url": "https://kimetsu.com/anime/katanakajinosatohen/story/?id=ep08",
+      "title": "第八話 - あらすじ | テレビアニメ「鬼滅の刃」刀鍛冶の里編",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s15",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%8B%E8%89%AF%E6%9C%89%E4%BD%9C",
+      "title": "屋良有作 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s16",
+      "url": "https://ja.wikipedia.org/wiki/%E9%96%A2%E4%BF%8A%E5%BD%A6",
+      "title": "関俊彦 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s17",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E5%B7%9D%E7%99%BB%E5%BF%97%E5%A4%AB",
+      "title": "古川登志夫 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s18",
+      "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E6%B5%B7%E6%B5%A9%E8%BC%94",
+      "title": "鳥海浩輔 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s19",
+      "url": "https://ja.wikipedia.org/wiki/%E7%AB%B9%E6%9C%AC%E8%8B%B1%E5%8F%B2",
+      "title": "竹本英史 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s20",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%AF%BA%E5%AE%8F%E4%B8%80",
+      "title": "山寺宏一 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s21",
+      "url": "https://ja.wikipedia.org/wiki/%E5%9D%82%E6%9C%AC%E7%9C%9F%E7%B6%BE",
+      "title": "坂本真綾 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s22",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E4%B8%8B%E5%A4%A7%E8%BC%9D",
+      "title": "山下大輝 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s23",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E7%94%B0%E9%BA%97%E5%A5%88",
+      "title": "上田麗奈 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s24",
+      "url": "https://m.cafe.daum.net/CastingBank/54Pt/207",
+      "title": "[애니맥스] '귀멸의 칼날: 합동 강화 훈련편' 성우진 - 첫 만남과 어울림의 장 - 캐스팅뱅크[한국성우DB카페]",
+      "publisher": "other",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s25",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E5%88%A9%E5%A5%88",
+      "title": "佐藤利奈 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s26",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8D%83%E8%91%89%E7%BF%94%E4%B9%9F",
+      "title": "千葉翔也 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s27",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E5%B7%9D%E6%85%8E",
+      "title": "古川慎 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s28",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E4%B8%8B%E4%B8%83%E6%B5%B7",
+      "title": "山下七海 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s29",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%B4%8E%E3%81%9F%E3%81%8F%E3%81%BF",
+      "title": "山崎たくみ - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s30",
+      "url": "https://ja.wikipedia.org/wiki/%E6%82%A0%E6%9C%A8%E7%A2%A7",
+      "title": "悠木碧 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s31",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%B1%B1%E5%A5%88%E5%A4%AE",
+      "title": "東山奈央 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s32",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A1%91%E5%8E%9F%E7%94%B1%E6%B0%97",
+      "title": "桑原由気 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s33",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E5%B7%9D%E6%99%BA%E4%B9%8B",
+      "title": "森川智之 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s34",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9C%9F%E9%87%8E%E3%81%82%E3%82%86%E3%81%BF",
+      "title": "真野あゆみ - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s35",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E4%B8%8A%E9%9D%99%E9%A6%99",
+      "title": "石上静香 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s36",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A8%AE%EF%A8%91%E6%95%A6%E7%BE%8E",
+      "title": "種﨑敦美 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s37",
+      "url": "https://ja.wikipedia.org/wiki/%E9%80%9F%E6%B0%B4%E5%A5%A8",
+      "title": "速水奨 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

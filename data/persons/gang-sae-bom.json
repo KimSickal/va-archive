@@ -1,0 +1,35 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "gang-sae-bom",
+  "slug": "kang-sae-bom",
+  "name": {
+    "original_lang": "ko",
+    "original": "강새봄",
+    "latin": "Kang Sae-bom"
+  },
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1992-06-25",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%83%88%EB%B4%84"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%83%88%EB%B4%84",
+      "title": "강새봄 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

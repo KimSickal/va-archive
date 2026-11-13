@@ -1,0 +1,36 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "yu-hye-ji",
+  "slug": "yoo-hye-ji",
+  "name": {
+    "original_lang": "ko",
+    "original": "유혜지",
+    "latin": "Yoo Hye-ji"
+  },
+  "gender": "female",
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1996-09-30",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9C%A0%ED%98%9C%EC%A7%80"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EC%9C%A0%ED%98%9C%EC%A7%80",
+      "title": "유혜지 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

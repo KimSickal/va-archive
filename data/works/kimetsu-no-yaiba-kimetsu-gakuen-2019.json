@@ -1,0 +1,97 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "kimetsu-no-yaiba-kimetsu-gakuen-2019",
+  "franchise_id": "kimetsu-no-yaiba",
+  "type": "anime_special",
+  "title": {
+    "original_lang": "ja",
+    "original": "中高一貫!! キメツ学園物語",
+    "latin": "Chuko Ikkan!! Kimetsu Gakuen Monogatari"
+  },
+  "order": 3,
+  "status": "finished",
+  "start_date": "2019-07-06",
+  "end_date": "2019-07-27",
+  "episodes": 2,
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "ufotable",
+      "latin": "ufotable",
+      "official": {
+        "en": "ufotable"
+      }
+    }
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2019-07-06",
+      "last_release_date": "2019-07-27",
+      "credits": [
+        {
+          "character": "giyu-tomioka",
+          "person": "ou-sei-kou-kou",
+          "role": "main",
+          "note": {
+            "original_lang": "ko",
+            "original": "立志編 14화 공식 크레딧에 본편에 나오지 않는 冨岡義勇(櫻井孝宏)이 올라 있어, 같은 화 예고 자리의 키메츠 학원 영상 출연으로 판단",
+            "translations": {
+              "ja": "立志編第14話の公式クレジットに本編に登場しない冨岡義勇（櫻井孝宏）が載っており、同話の予告枠のキメツ学園映像での出演と判断",
+              "en": "Official ep.14 credits list Giyu (Takahiro Sakurai), who is absent from the episode body; attributed to the Kimetsu Gakuen short in that preview slot"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s2",
+            "s1"
+          ],
+          "verification": "unverified"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83_(%E3%82%A2%E3%83%8B%E3%83%A1)",
+      "title": "鬼滅の刃 (アニメ) - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://kimetsu.com/anime/risshihen/story/?story=14",
+      "title": "ストーリー | アニメ「鬼滅の刃」竈門炭治郎 立志編 公式サイト",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

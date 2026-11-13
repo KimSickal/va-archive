@@ -1,0 +1,246 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "kimetsu-no-yaiba-game-mezase-saikyo-taishi",
+  "franchise_id": "kimetsu-no-yaiba",
+  "type": "game",
+  "title": {
+    "original_lang": "ja",
+    "original": "鬼滅の刃 目指せ！最強隊士！",
+    "latin": "Kimetsu no Yaiba: Mezase! Saikyo Taishi!",
+    "official": {
+      "en": "Demon Slayer: Kimetsu no Yaiba – Sweep the Board!"
+    }
+  },
+  "order": 23,
+  "status": "released",
+  "start_date": "2024-04-25",
+  "publishers": [
+    {
+      "original_lang": "ja",
+      "original": "アニプレックス",
+      "latin": "Aniplex",
+      "official": {
+        "en": "Aniplex",
+        "ko": "애니플렉스"
+      }
+    }
+  ],
+  "platforms": [
+    "switch",
+    "ps5",
+    "ps4",
+    "xbox_series",
+    "xbox_one",
+    "pc"
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2024-04-25",
+      "credits": [
+        {
+          "character": "tanjiro-kamado",
+          "person": "ka-kou-ka-ju",
+          "role": "main",
+          "source_refs": [
+            "s6"
+          ]
+        },
+        {
+          "character": "zenitsu-agatsuma",
+          "person": "ka-ya-kou",
+          "role": "main",
+          "source_refs": [
+            "s6"
+          ]
+        },
+        {
+          "character": "inosuke-hashibira",
+          "person": "shou-kou-tei-shou",
+          "role": "main",
+          "source_refs": [
+            "s2",
+            "s6"
+          ]
+        },
+        {
+          "character": "giyu-tomioka",
+          "person": "ou-sei-kou-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "kyojuro-rengoku",
+          "person": "nichi-ya-sou",
+          "role": "supporting",
+          "source_refs": [
+            "s6"
+          ]
+        },
+        {
+          "character": "tengen-uzui",
+          "person": "shou-sei-koku-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s6"
+          ]
+        },
+        {
+          "character": "mitsuri-kanroji",
+          "person": "ka-taku-kou-sai",
+          "role": "supporting",
+          "source_refs": [
+            "s6"
+          ]
+        },
+        {
+          "character": "muichiro-tokito",
+          "person": "ka-sei-ken-go",
+          "role": "supporting",
+          "source_refs": [
+            "s6"
+          ]
+        },
+        {
+          "character": "gyomei-himejima",
+          "person": "san-den-chi-wa",
+          "role": "supporting",
+          "source_refs": [
+            "s6"
+          ]
+        },
+        {
+          "character": "obanai-iguro",
+          "person": "rei-son-ken-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s6"
+          ]
+        },
+        {
+          "character": "sanemi-shinazugawa",
+          "person": "kan-chi-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s6"
+          ]
+        },
+        {
+          "character": "genya-shinazugawa",
+          "person": "kou-hon-shin-gen",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "2024-07-17 무상 업데이트로 추가된 플레이어블 캐릭터",
+            "translations": {
+              "ja": "2024年7月17日の無償アップデートで追加されたプレイアブルキャラクター",
+              "en": "Playable character added by the free update of 2024-07-17"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s4"
+          ]
+        },
+        {
+          "character": "kanao-tsuyuri",
+          "person": "jou-den-rei-na",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "2024-07-17 무상 업데이트로 추가된 플레이어블 캐릭터",
+            "translations": {
+              "ja": "2024年7月17日の無償アップデートで追加されたプレイアブルキャラクター",
+              "en": "Playable character added by the free update of 2024-07-17"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s4"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.famitsu.com/article/202404/3523",
+      "title": "『鬼滅の刃 目指せ︕最強隊士︕』",
+      "publisher": "news",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B2%A1%E7%A6%8E%E4%B8%9E",
+      "title": "松岡禎丞 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AB%BB%E4%BA%95%E5%AD%9D%E5%AE%8F",
+      "title": "櫻井孝宏 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s4",
+      "url": "https://game.kimetsu.com/board/news/?article_id=65800",
+      "title": "【無償アップデート】プレイアブルキャラクター「不死川玄弥」「栗花落カナヲ」を追加いたしました！ | 『鬼滅の刃 目指せ！最強隊士！』公式サイト",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s5",
+      "url": "https://animeanime.jp/article/2024/07/17/85483.html",
+      "title": "「鬼滅の刃 目指せ！最強隊士！」PS5/PS4/Xbox/Steam版発売 - アニメ！アニメ！",
+      "publisher": "news",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s6",
+      "url": "https://www.famitsu.com/article/202404/2933",
+      "title": "『鬼滅の刃 目指せ！最強隊士！』レビュー。大人4人で本気出して半天狗を追い込むと楽しい。意外と少ない“誰でも遊べるボードゲーム”の穴を埋める良作",
+      "publisher": "news",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

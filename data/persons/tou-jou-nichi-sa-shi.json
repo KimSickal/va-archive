@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "tou-jou-nichi-sa-shi",
+  "slug": "hisako-tojo",
+  "name": {
+    "original_lang": "ja",
+    "original": "東城日沙子",
+    "latin": "Hisako Tojo",
+    "aliases": {
+      "ja": [
+        "とうじょうひさこ"
+      ],
+      "ko": [
+        "토죠 히사코"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1990-08-21",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%9F%8E%E6%97%A5%E6%B2%99%E5%AD%90",
+    "en": "https://en.wikipedia.org/wiki/Hisako_T%C5%8Dj%C5%8D",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%86%A0%EC%A3%A0_%ED%9E%88%EC%82%AC%EC%BD%94"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%9F%8E%E6%97%A5%E6%B2%99%E5%AD%90",
+      "title": "東城日沙子 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

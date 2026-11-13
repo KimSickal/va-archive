@@ -1,0 +1,35 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "i-sae-byeok",
+  "slug": "lee-sae-byeok",
+  "name": {
+    "original_lang": "ko",
+    "original": "이새벽",
+    "latin": "Lee Sae-byeok"
+  },
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1987-10-23",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%83%88%EB%B2%BD"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%83%88%EB%B2%BD",
+      "title": "이새벽 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "do-ki-jun-ichi",
+  "slug": "shun-ichi-toki",
+  "name": {
+    "original_lang": "ja",
+    "original": "土岐隼一",
+    "latin": "Shun'ichi Toki",
+    "aliases": {
+      "ja": [
+        "ときしゅんいち"
+      ],
+      "ko": [
+        "토키 슌이치"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1989-05-07",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B2%90%E9%9A%BC%E4%B8%80",
+    "en": "https://en.wikipedia.org/wiki/Shun%27ichi_Toki",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%86%A0%ED%82%A4_%EC%8A%8C%EC%9D%B4%EC%B9%98"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B2%90%E9%9A%BC%E4%B8%80",
+      "title": "土岐隼一 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

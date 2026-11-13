@@ -1,0 +1,35 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "gwon-da-ye",
+  "slug": "kwon-da-ye",
+  "name": {
+    "original_lang": "ko",
+    "original": "권다예",
+    "latin": "Kwon Da-ye"
+  },
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1993-01-18",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EA%B6%8C%EB%8B%A4%EC%98%88"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B6%8C%EB%8B%A4%EC%98%88",
+      "title": "권다예 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

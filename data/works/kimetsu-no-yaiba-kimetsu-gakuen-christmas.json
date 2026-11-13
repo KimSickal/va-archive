@@ -1,0 +1,81 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "kimetsu-no-yaiba-kimetsu-gakuen-christmas",
+  "franchise_id": "kimetsu-no-yaiba",
+  "type": "anime_special",
+  "title": {
+    "original_lang": "ja",
+    "original": "中高一貫!!キメツ学園物語 クリスマス編",
+    "latin": "Chuko Ikkan!! Kimetsu Gakuen Monogatari: Christmas-hen"
+  },
+  "order": 14,
+  "status": "finished",
+  "start_date": "2021-12-19",
+  "episodes": 1,
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "ufotable",
+      "latin": "ufotable",
+      "official": {
+        "en": "ufotable"
+      }
+    }
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2021-12-19",
+      "credits": [
+        {
+          "character": "giyu-tomioka",
+          "person": "ou-sei-kou-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83_(%E3%82%A2%E3%83%8B%E3%83%A1)",
+      "title": "鬼滅の刃 (アニメ) - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://times.abema.tv/articles/-/10009202",
+      "title": "「『中高一貫!!キメツ学園物語』クリスマス編」冨岡義勇が「メリークリスマス」貴重な笑顔にファン「可愛いが溢れてしゃーないっ」",
+      "publisher": "news",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

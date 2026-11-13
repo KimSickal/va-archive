@@ -1,0 +1,764 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "kimetsu-no-yaiba-movie-mugen-train",
+  "franchise_id": "kimetsu-no-yaiba",
+  "type": "anime_movie",
+  "title": {
+    "original_lang": "ja",
+    "original": "劇場版「鬼滅の刃」無限列車編",
+    "latin": "Gekijoban Kimetsu no Yaiba: Mugen Ressha-hen",
+    "official": {
+      "en": "Demon Slayer: Kimetsu no Yaiba – The Movie: Mugen Train",
+      "ko": "극장판 귀멸의 칼날: 무한열차편"
+    }
+  },
+  "order": 5,
+  "status": "finished",
+  "start_date": "2020-10-16",
+  "runtime_min": 117,
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "ufotable",
+      "latin": "ufotable",
+      "official": {
+        "en": "ufotable"
+      }
+    }
+  ],
+  "publishers": [
+    {
+      "original_lang": "ja",
+      "original": "東宝",
+      "latin": "Toho",
+      "official": {
+        "en": "Toho"
+      }
+    },
+    {
+      "original_lang": "ja",
+      "original": "アニプレックス",
+      "latin": "Aniplex",
+      "official": {
+        "en": "Aniplex",
+        "ko": "애니플렉스"
+      }
+    }
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%8A%87%E5%A0%B4%E7%89%88%E3%80%8C%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83%E3%80%8D%E7%84%A1%E9%99%90%E5%88%97%E8%BB%8A%E7%B7%A8",
+    "ko": "https://ko.wikipedia.org/wiki/%EA%B7%B9%EC%9E%A5%ED%8C%90_%EA%B7%80%EB%A9%B8%EC%9D%98_%EC%B9%BC%EB%82%A0%3A_%EB%AC%B4%ED%95%9C%EC%97%B4%EC%B0%A8%ED%8E%B8",
+    "en": "https://en.wikipedia.org/wiki/Demon_Slayer%3A_Kimetsu_no_Yaiba_%E2%80%93_The_Movie%3A_Mugen_Train"
+  },
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2020-10-16",
+      "credits": [
+        {
+          "character": "tanjiro-kamado",
+          "person": "ka-kou-ka-ju",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "character": "nezuko-kamado",
+          "person": "ki-tou-mei-ri",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s4"
+          ]
+        },
+        {
+          "character": "zenitsu-agatsuma",
+          "person": "ka-ya-kou",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s5"
+          ]
+        },
+        {
+          "character": "inosuke-hashibira",
+          "person": "shou-kou-tei-shou",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s6"
+          ]
+        },
+        {
+          "character": "kyojuro-rengoku",
+          "person": "nichi-ya-sou",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s7"
+          ],
+          "part": "regular"
+        },
+        {
+          "character": "enmu",
+          "person": "hei-sen-tai-fu",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s8"
+          ]
+        },
+        {
+          "character": "akaza",
+          "person": "shaku-den-shou",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s9"
+          ]
+        },
+        {
+          "character": "ruka-rengoku",
+          "person": "hou-kou-megumi",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s10"
+          ]
+        },
+        {
+          "character": "shinjuro-rengoku",
+          "person": "shou-san-ryoku-ya",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s11"
+          ]
+        },
+        {
+          "character": "senjuro-rengoku",
+          "person": "ka-boku-shun-mi",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s12"
+          ]
+        },
+        {
+          "character": "tanjuro-kamado",
+          "person": "san-boku-shin-ichi-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s13"
+          ]
+        },
+        {
+          "character": "kie-kamado",
+          "person": "sou-tou-hou-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s14"
+          ]
+        },
+        {
+          "character": "takeo-kamado",
+          "person": "tai-chi-you",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s15"
+          ]
+        },
+        {
+          "character": "hanako-kamado",
+          "person": "shou-gen-kou-bi",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s16"
+          ]
+        },
+        {
+          "character": "shigeru-kamado",
+          "person": "hon-to-fuu",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s17"
+          ]
+        },
+        {
+          "character": "rokuta-kamado",
+          "person": "ko-ga-ki",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s18"
+          ]
+        },
+        {
+          "character": "shinobu-kocho",
+          "person": "sou-ken-sa-shoku",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s19"
+          ]
+        },
+        {
+          "character": "gyomei-himejima",
+          "person": "san-den-chi-wa",
+          "role": "supporting",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "tengen-uzui",
+          "person": "shou-sei-koku-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s20"
+          ]
+        },
+        {
+          "character": "sanemi-shinazugawa",
+          "person": "kan-chi-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s21"
+          ]
+        },
+        {
+          "character": "obanai-iguro",
+          "person": "rei-son-ken-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s22"
+          ]
+        },
+        {
+          "character": "giyu-tomioka",
+          "person": "ou-sei-kou-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s23"
+          ]
+        },
+        {
+          "character": "kagaya-ubuyashiki",
+          "person": "shin-sen-chi-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s24"
+          ]
+        },
+        {
+          "character": "amane-ubuyashiki",
+          "person": "sa-tou-ri-na",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s25"
+          ]
+        },
+        {
+          "character": "train-conductor",
+          "person": "ryuu-kan-shun",
+          "role": "minor",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "tuberculosis-youth",
+          "person": "kou-kou-taku-ya",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s26"
+          ]
+        },
+        {
+          "character": "braided-girl",
+          "person": "sen-hon-boku-sai-ka",
+          "role": "minor",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "kyojuro-rengoku",
+          "person": "i-rai-matsu-chi-ya",
+          "role": "minor",
+          "part": "young",
+          "credited_as": "煉獄杏寿郎（幼少期）",
+          "source_refs": [
+            "s1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ko-waterhole",
+      "language": "ko",
+      "kind": "dub",
+      "label": {
+        "original_lang": "ko",
+        "original": "한국어 더빙 (극장판)",
+        "translations": {
+          "ja": "韓国語吹き替え（劇場公開版）",
+          "en": "Korean dub (theatrical)"
+        },
+        "translated": [
+          "ja",
+          "en"
+        ]
+      },
+      "distributor": {
+        "original_lang": "ko",
+        "original": "워터홀컴퍼니",
+        "latin": "Waterhole Company"
+      },
+      "release_date": "2022-04-21",
+      "source_refs": [
+        "s2"
+      ],
+      "credits": [
+        {
+          "character": "tanjiro-kamado",
+          "person": "i-gyeong-tae",
+          "role": "main",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "nezuko-kamado",
+          "person": "gim-yeon-u",
+          "role": "main",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "zenitsu-agatsuma",
+          "person": "gim-ji-yul",
+          "role": "main",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "inosuke-hashibira",
+          "person": "i-ho-san",
+          "role": "main",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "kyojuro-rengoku",
+          "person": "jang-min-hyeok",
+          "role": "main",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "enmu",
+          "person": "gim-hyeon-uk",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "akaza",
+          "person": "jeon-tae-yeol",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "shinjuro-rengoku",
+          "person": "pyo-yeong-jae",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "ruka-rengoku",
+          "person": "gim-bo-na",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "senjuro-rengoku",
+          "person": "pyo-yeong-jae",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "giyu-tomioka",
+          "person": "gang-seong-u",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "tengen-uzui",
+          "person": "yun-yong-sik",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "shinobu-kocho",
+          "person": "yun-a-yeong",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "obanai-iguro",
+          "person": "jeon-tae-yeol",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "sanemi-shinazugawa",
+          "person": "i-chang-min",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "gyomei-himejima",
+          "person": "gim-hyeon-uk",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "kagaya-ubuyashiki",
+          "person": "pyo-yeong-jae",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "amane-ubuyashiki",
+          "person": "bak-si-yun",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "tanjuro-kamado",
+          "person": "yun-yong-sik",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "kie-kamado",
+          "person": "yun-a-yeong",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "shigeru-kamado",
+          "person": "yu-yeong",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "takeo-kamado",
+          "person": "gim-bo-na",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "hanako-kamado",
+          "person": "bak-si-yun",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "rokuta-kamado",
+          "person": "jang-mi",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8A%87%E5%A0%B4%E7%89%88%E3%80%8C%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83%E3%80%8D%E7%84%A1%E9%99%90%E5%88%97%E8%BB%8A%E7%B7%A8",
+      "title": "劇場版「鬼滅の刃」無限列車編 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B7%B9%EC%9E%A5%ED%8C%90_%EA%B7%80%EB%A9%B8%EC%9D%98_%EC%B9%BC%EB%82%A0%3A_%EB%AC%B4%ED%95%9C%EC%97%B4%EC%B0%A8%ED%8E%B8",
+      "title": "극장판 귀멸의 칼날: 무한열차편 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8A%B1%E6%B1%9F%E5%A4%8F%E6%A8%B9",
+      "title": "花江夏樹 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s4",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AC%BC%E9%A0%AD%E6%98%8E%E9%87%8C",
+      "title": "鬼頭明里 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s5",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E9%87%8E%E7%B4%98",
+      "title": "下野紘 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s6",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B2%A1%E7%A6%8E%E4%B8%9E",
+      "title": "松岡禎丞 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s7",
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%87%8E%E8%81%A1",
+      "title": "日野聡 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s8",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%B7%9D%E5%A4%A7%E8%BC%94",
+      "title": "平川大輔 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s9",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E7%94%B0%E5%BD%B0",
+      "title": "石田彰 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s10",
+      "url": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E5%8F%A3%E3%82%81%E3%81%90%E3%81%BF",
+      "title": "豊口めぐみ - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s11",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B1%B1%E5%8A%9B%E4%B9%9F",
+      "title": "小山力也 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s12",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A6%8E%E6%9C%A8%E6%B7%B3%E5%BC%A5",
+      "title": "榎木淳弥 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s13",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E6%9C%A8%E7%9C%9E%E4%B8%80%E9%83%8E",
+      "title": "三木眞一郎 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s14",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A1%91%E5%B3%B6%E6%B3%95%E5%AD%90",
+      "title": "桑島法子 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s15",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9C%B0%E8%91%89",
+      "title": "大地葉 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s16",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%8E%9F%E5%A5%BD%E7%BE%8E",
+      "title": "小原好美 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s17",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E6%B8%A1%E6%A5%93",
+      "title": "本渡楓 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s18",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E8%B3%80%E8%91%B5",
+      "title": "古賀葵 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s19",
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%A9%E8%A6%8B%E6%B2%99%E7%B9%94",
+      "title": "早見沙織 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s20",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E8%A5%BF%E5%85%8B%E5%B9%B8",
+      "title": "小西克幸 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s21",
+      "url": "https://ja.wikipedia.org/wiki/%E9%96%A2%E6%99%BA%E4%B8%80",
+      "title": "関智一 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s22",
+      "url": "https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9D%91%E5%81%A5%E4%B8%80",
+      "title": "鈴村健一 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s23",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AB%BB%E4%BA%95%E5%AD%9D%E5%AE%8F",
+      "title": "櫻井孝宏 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s24",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E5%B7%9D%E6%99%BA%E4%B9%8B",
+      "title": "森川智之 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s25",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E5%88%A9%E5%A5%88",
+      "title": "佐藤利奈 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s26",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%8F%A3%E6%8B%93%E4%B9%9F",
+      "title": "江口拓也 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

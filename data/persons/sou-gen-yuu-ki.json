@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sou-gen-yuu-ki",
+  "slug": "yuki-kuwahara",
+  "name": {
+    "original_lang": "ja",
+    "original": "桑原由気",
+    "latin": "Yuki Kuwahara",
+    "aliases": {
+      "ja": [
+        "くわはらゆうき"
+      ],
+      "ko": [
+        "쿠와하라 유우키"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1991-06-24",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%A1%91%E5%8E%9F%E7%94%B1%E6%B0%97",
+    "en": "https://en.wikipedia.org/wiki/Y%C5%ABki_Kuwahara",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%BF%A0%EC%99%80%ED%95%98%EB%9D%BC_%EC%9C%A0%EC%9A%B0%ED%82%A4"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A1%91%E5%8E%9F%E7%94%B1%E6%B0%97",
+      "title": "桑原由気 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

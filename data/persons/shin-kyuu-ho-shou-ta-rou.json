@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shin-kyuu-ho-shou-ta-rou",
+  "slug": "showtaro-morikubo",
+  "name": {
+    "original_lang": "ja",
+    "original": "森久保祥太郎",
+    "latin": "Showtaro Morikubo",
+    "aliases": {
+      "ja": [
+        "もりくぼしょうたろう"
+      ],
+      "ko": [
+        "모리쿠보 쇼타로"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1974-02-25",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E4%B9%85%E4%BF%9D%E7%A5%A5%E5%A4%AA%E9%83%8E",
+    "en": "https://en.wikipedia.org/wiki/Showtaro_Morikubo",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%AA%A8%EB%A6%AC%EC%BF%A0%EB%B3%B4_%EC%87%BC%ED%83%80%EB%A1%9C"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E4%B9%85%E4%BF%9D%E7%A5%A5%E5%A4%AA%E9%83%8E",
+      "title": "森久保祥太郎 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

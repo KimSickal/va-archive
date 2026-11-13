@@ -1,0 +1,35 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "yu-yeong",
+  "slug": "yuyeong",
+  "name": {
+    "original_lang": "ko",
+    "original": "유영",
+    "latin": "Yuyeong"
+  },
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1997-03-07",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9C%A0%EC%98%81_(%EC%84%B1%EC%9A%B0)"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EC%9C%A0%EC%98%81_(%EC%84%B1%EC%9A%B0)",
+      "title": "유영 (성우) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

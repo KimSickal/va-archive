@@ -1,0 +1,40 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "tou-den-bin",
+  "slug": "bin-shimada",
+  "name": {
+    "original_lang": "ja",
+    "original": "島田敏",
+    "latin": "Bin Shimada",
+    "aliases": {
+      "ja": [
+        "しまだびん"
+      ]
+    }
+  },
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1954-11-20",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E7%94%B0%E6%95%8F"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E7%94%B0%E6%95%8F",
+      "title": "島田敏 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

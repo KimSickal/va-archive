@@ -1,0 +1,27 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "eom-ji-eun",
+  "slug": "eom-ji-eun",
+  "name": {
+    "original_lang": "ko",
+    "original": "엄지은",
+    "latin": "Eom Ji-eun"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://namu.wiki/w/%EA%B7%B9%EC%9E%A5%ED%8C%90%20%EA%B7%80%EB%A9%B8%EC%9D%98%20%EC%B9%BC%EB%82%A0:%20%EB%AC%B4%ED%95%9C%EC%84%B1%ED%8E%B8",
+      "title": "극장판 귀멸의 칼날: 무한성편 - 나무위키",
+      "publisher": "namuwiki",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "unverified"
+    },
+    "skill_version": "0.5.1"
+  }
+}

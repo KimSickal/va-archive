@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sa-tou-sou-bi",
+  "slug": "satomi-sato",
+  "name": {
+    "original_lang": "ja",
+    "original": "佐藤聡美",
+    "latin": "Satomi Sato",
+    "aliases": {
+      "ja": [
+        "さとうさとみ"
+      ],
+      "ko": [
+        "사토 사토미"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1986-05-08",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E8%81%A1%E7%BE%8E",
+    "en": "https://en.wikipedia.org/wiki/Satomi_Sat%C5%8D",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%82%AC%ED%86%A0_%EC%82%AC%ED%86%A0%EB%AF%B8"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E8%81%A1%E7%BE%8E",
+      "title": "佐藤聡美 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,2448 @@
+{
+  "$schema": "../schema/franchise.schema.json",
+  "id": "kimetsu-no-yaiba",
+  "title": {
+    "original_lang": "ja",
+    "original": "鬼滅の刃",
+    "latin": "Kimetsu no Yaiba",
+    "official": {
+      "en": "Demon Slayer: Kimetsu no Yaiba",
+      "ko": "귀멸의 칼날"
+    },
+    "aliases": {
+      "ja": [
+        "きめつのやいば"
+      ]
+    }
+  },
+  "original_media": "manga",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83",
+    "ko": "https://ko.wikipedia.org/wiki/%EA%B7%80%EB%A9%B8%EC%9D%98_%EC%B9%BC%EB%82%A0",
+    "en": "https://en.wikipedia.org/wiki/Demon_Slayer%3A_Kimetsu_no_Yaiba"
+  },
+  "characters": [
+    {
+      "id": "tanjiro-kamado",
+      "name": {
+        "original_lang": "ja",
+        "original": "竈門炭治郎",
+        "latin": "Tanjiro Kamado",
+        "official": {
+          "en": "Tanjiro Kamado",
+          "ko": "카마도 탄지로"
+        },
+        "aliases": {
+          "ja": [
+            "かまどたんじろう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-kyodai-no-kizuna"
+      }
+    },
+    {
+      "id": "nezuko-kamado",
+      "name": {
+        "original_lang": "ja",
+        "original": "竈門禰豆子",
+        "latin": "Nezuko Kamado",
+        "official": {
+          "en": "Nezuko Kamado",
+          "ko": "카마도 네즈코"
+        },
+        "aliases": {
+          "ja": [
+            "かまどねずこ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-kyodai-no-kizuna"
+      }
+    },
+    {
+      "id": "zenitsu-agatsuma",
+      "name": {
+        "original_lang": "ja",
+        "original": "我妻善逸",
+        "latin": "Zenitsu Agatsuma",
+        "official": {
+          "en": "Zenitsu Agatsuma",
+          "ko": "아가츠마 젠이츠"
+        },
+        "aliases": {
+          "ja": [
+            "あがつまぜんいつ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-kyodai-no-kizuna"
+      }
+    },
+    {
+      "id": "inosuke-hashibira",
+      "name": {
+        "original_lang": "ja",
+        "original": "嘴平伊之助",
+        "latin": "Inosuke Hashibira",
+        "official": {
+          "en": "Inosuke Hashibira",
+          "ko": "하시비라 이노스케"
+        },
+        "aliases": {
+          "ja": [
+            "はしびらいのすけ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-kyodai-no-kizuna"
+      }
+    },
+    {
+      "id": "giyu-tomioka",
+      "name": {
+        "original_lang": "ja",
+        "original": "冨岡義勇",
+        "latin": "Giyu Tomioka",
+        "official": {
+          "en": "Giyu Tomioka",
+          "ko": "토미오카 기유"
+        },
+        "aliases": {
+          "ja": [
+            "とみおかぎゆう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-kyodai-no-kizuna"
+      }
+    },
+    {
+      "id": "shinobu-kocho",
+      "name": {
+        "original_lang": "ja",
+        "original": "胡蝶しのぶ",
+        "latin": "Shinobu Kocho",
+        "official": {
+          "en": "Shinobu Kocho",
+          "ko": "코쵸우 시노부"
+        },
+        "aliases": {
+          "ja": [
+            "こちょうしのぶ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 15
+      }
+    },
+    {
+      "id": "kyojuro-rengoku",
+      "name": {
+        "original_lang": "ja",
+        "original": "煉獄杏寿郎",
+        "latin": "Kyojuro Rengoku",
+        "official": {
+          "en": "Kyojuro Rengoku",
+          "ko": "렌고쿠 쿄쥬로"
+        },
+        "aliases": {
+          "ja": [
+            "れんごくきょうじゅろう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 22
+      }
+    },
+    {
+      "id": "tengen-uzui",
+      "name": {
+        "original_lang": "ja",
+        "original": "宇髄天元",
+        "latin": "Tengen Uzui",
+        "official": {
+          "en": "Tengen Uzui",
+          "ko": "우즈이 텐겐"
+        },
+        "aliases": {
+          "ja": [
+            "うずいてんげん"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 22
+      }
+    },
+    {
+      "id": "muichiro-tokito",
+      "name": {
+        "original_lang": "ja",
+        "original": "時透無一郎",
+        "latin": "Muichiro Tokito",
+        "official": {
+          "en": "Muichiro Tokito",
+          "ko": "토키토 무이치로"
+        },
+        "aliases": {
+          "ja": [
+            "ときとうむいちろう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 22
+      }
+    },
+    {
+      "id": "mitsuri-kanroji",
+      "name": {
+        "original_lang": "ja",
+        "original": "甘露寺蜜璃",
+        "latin": "Mitsuri Kanroji",
+        "official": {
+          "en": "Mitsuri Kanroji",
+          "ko": "칸로지 미츠리"
+        },
+        "aliases": {
+          "ja": [
+            "かんろじみつり"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 22
+      }
+    },
+    {
+      "id": "obanai-iguro",
+      "name": {
+        "original_lang": "ja",
+        "original": "伊黒小芭内",
+        "latin": "Obanai Iguro",
+        "official": {
+          "en": "Obanai Iguro",
+          "ko": "이구로 오바나이"
+        },
+        "aliases": {
+          "ja": [
+            "いぐろおばない"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 22
+      }
+    },
+    {
+      "id": "sanemi-shinazugawa",
+      "name": {
+        "original_lang": "ja",
+        "original": "不死川実弥",
+        "latin": "Sanemi Shinazugawa",
+        "official": {
+          "en": "Sanemi Shinazugawa",
+          "ko": "시나즈가와 사네미"
+        },
+        "aliases": {
+          "ja": [
+            "しなずがわさねみ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 22
+      }
+    },
+    {
+      "id": "gyomei-himejima",
+      "name": {
+        "original_lang": "ja",
+        "original": "悲鳴嶼行冥",
+        "latin": "Gyomei Himejima",
+        "official": {
+          "en": "Gyomei Himejima",
+          "ko": "히메지마 교메이"
+        },
+        "aliases": {
+          "ja": [
+            "ひめじまぎょうめい"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 22
+      }
+    },
+    {
+      "id": "kagaya-ubuyashiki",
+      "name": {
+        "original_lang": "ja",
+        "original": "産屋敷耀哉",
+        "latin": "Kagaya Ubuyashiki",
+        "official": {
+          "en": "Kagaya Ubuyashiki",
+          "ko": "우부야시키 카가야"
+        },
+        "aliases": {
+          "ja": [
+            "うぶやしきかがや"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-kyodai-no-kizuna"
+      }
+    },
+    {
+      "id": "amane-ubuyashiki",
+      "name": {
+        "original_lang": "ja",
+        "original": "産屋敷あまね",
+        "latin": "Amane Ubuyashiki",
+        "official": {
+          "en": "Amane Ubuyashiki",
+          "ko": "우부야시키 아마네"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-mugen-train"
+      }
+    },
+    {
+      "id": "kiriya-ubuyashiki",
+      "name": {
+        "original_lang": "ja",
+        "original": "産屋敷輝利哉",
+        "latin": "Kiriya Ubuyashiki",
+        "official": {
+          "en": "Kiriya Ubuyashiki",
+          "ko": "우부야시키 키리야"
+        },
+        "aliases": {
+          "ja": [
+            "うぶやしききりや"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-kyodai-no-kizuna"
+      }
+    },
+    {
+      "id": "kanata-ubuyashiki",
+      "name": {
+        "original_lang": "ja",
+        "original": "産屋敷かなた",
+        "latin": "Kanata Ubuyashiki",
+        "official": {
+          "en": "Kanata Ubuyashiki",
+          "ko": "우부야시키 카나타"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-kyodai-no-kizuna"
+      }
+    },
+    {
+      "id": "hinaki-ubuyashiki",
+      "name": {
+        "original_lang": "ja",
+        "original": "産屋敷ひなき",
+        "latin": "Hinaki Ubuyashiki",
+        "official": {
+          "en": "Hinaki Ubuyashiki",
+          "ko": "우부야시키 히나키"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 22
+      }
+    },
+    {
+      "id": "nichika-ubuyashiki",
+      "name": {
+        "original_lang": "ja",
+        "original": "産屋敷にちか",
+        "latin": "Nichika Ubuyashiki",
+        "official": {
+          "en": "Nichika Ubuyashiki",
+          "ko": "우부야시키 니치카"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 22
+      }
+    },
+    {
+      "id": "kuina-ubuyashiki",
+      "name": {
+        "original_lang": "ja",
+        "original": "産屋敷くいな",
+        "latin": "Kuina Ubuyashiki",
+        "official": {
+          "en": "Kuina Ubuyashiki",
+          "ko": "우부야시키 쿠이나"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-mugenjo-1"
+      }
+    },
+    {
+      "id": "kanao-tsuyuri",
+      "name": {
+        "original_lang": "ja",
+        "original": "栗花落カナヲ",
+        "latin": "Kanao Tsuyuri",
+        "official": {
+          "en": "Kanao Tsuyuri",
+          "ko": "츠유리 카나오"
+        },
+        "aliases": {
+          "ja": [
+            "つゆりかなお"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 21
+      }
+    },
+    {
+      "id": "genya-shinazugawa",
+      "name": {
+        "original_lang": "ja",
+        "original": "不死川玄弥",
+        "latin": "Genya Shinazugawa",
+        "official": {
+          "en": "Genya Shinazugawa",
+          "ko": "시나즈가와 겐야"
+        },
+        "aliases": {
+          "ja": [
+            "しなずがわげんや"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-kyodai-no-kizuna"
+      }
+    },
+    {
+      "id": "aoi-kanzaki",
+      "name": {
+        "original_lang": "ja",
+        "original": "神崎アオイ",
+        "latin": "Aoi Kanzaki",
+        "official": {
+          "en": "Aoi Kanzaki",
+          "ko": "칸자키 아오이"
+        },
+        "aliases": {
+          "ja": [
+            "かんざきあおい"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 23
+      }
+    },
+    {
+      "id": "kiyo-terauchi",
+      "name": {
+        "original_lang": "ja",
+        "original": "寺内きよ",
+        "latin": "Kiyo Terauchi",
+        "official": {
+          "en": "Kiyo Terauchi",
+          "ko": "테라우치 키요"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 23
+      }
+    },
+    {
+      "id": "sumi-nakahara",
+      "name": {
+        "original_lang": "ja",
+        "original": "中原すみ",
+        "latin": "Sumi Nakahara",
+        "official": {
+          "en": "Sumi Nakahara",
+          "ko": "나카하라 스미"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 24
+      }
+    },
+    {
+      "id": "naho-takada",
+      "name": {
+        "original_lang": "ja",
+        "original": "高田なほ",
+        "latin": "Naho Takada",
+        "official": {
+          "en": "Naho Takada",
+          "ko": "타카다 나호"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 24
+      }
+    },
+    {
+      "id": "kanae-kocho",
+      "name": {
+        "original_lang": "ja",
+        "original": "胡蝶カナエ",
+        "latin": "Kanae Kocho",
+        "official": {
+          "en": "Kanae Kocho",
+          "ko": "코쵸우 카나에"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 25
+      }
+    },
+    {
+      "id": "goto",
+      "name": {
+        "original_lang": "ja",
+        "original": "後藤",
+        "latin": "Goto",
+        "official": {
+          "en": "Goto",
+          "ko": "고토"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 19
+      }
+    },
+    {
+      "id": "murata",
+      "name": {
+        "original_lang": "ja",
+        "original": "村田",
+        "latin": "Murata",
+        "official": {
+          "en": "Murata",
+          "ko": "무라타"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 15
+      }
+    },
+    {
+      "id": "sakonji-urokodaki",
+      "name": {
+        "original_lang": "ja",
+        "original": "鱗滝左近次",
+        "latin": "Sakonji Urokodaki",
+        "official": {
+          "en": "Sakonji Urokodaki",
+          "ko": "우로코다키 사콘지"
+        },
+        "aliases": {
+          "ja": [
+            "うろこだきさこんじ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-kyodai-no-kizuna"
+      }
+    },
+    {
+      "id": "sabito",
+      "name": {
+        "original_lang": "ja",
+        "original": "錆兎",
+        "latin": "Sabito",
+        "official": {
+          "en": "Sabito",
+          "ko": "사비토"
+        },
+        "aliases": {
+          "ja": [
+            "さびと"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-kyodai-no-kizuna"
+      }
+    },
+    {
+      "id": "makomo",
+      "name": {
+        "original_lang": "ja",
+        "original": "真菰",
+        "latin": "Makomo",
+        "official": {
+          "en": "Makomo",
+          "ko": "마코모"
+        },
+        "aliases": {
+          "ja": [
+            "まこも"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-kyodai-no-kizuna"
+      }
+    },
+    {
+      "id": "jigoro-kuwajima",
+      "name": {
+        "original_lang": "ja",
+        "original": "桑島慈悟郎",
+        "latin": "Jigoro Kuwajima",
+        "official": {
+          "en": "Jigoro Kuwajima",
+          "ko": "쿠와지마 지고로"
+        },
+        "aliases": {
+          "ja": [
+            "くわじまじごろう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 17
+      }
+    },
+    {
+      "id": "shinjuro-rengoku",
+      "name": {
+        "original_lang": "ja",
+        "original": "煉獄槇寿郎",
+        "latin": "Shinjuro Rengoku",
+        "official": {
+          "en": "Shinjuro Rengoku",
+          "ko": "렌고쿠 신쥬로"
+        },
+        "aliases": {
+          "ja": [
+            "れんごくしんじゅろう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-mugen-train"
+      }
+    },
+    {
+      "id": "senjuro-rengoku",
+      "name": {
+        "original_lang": "ja",
+        "original": "煉獄千寿郎",
+        "latin": "Senjuro Rengoku",
+        "official": {
+          "en": "Senjuro Rengoku",
+          "ko": "렌고쿠 센쥬로"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-mugen-train"
+      }
+    },
+    {
+      "id": "ruka-rengoku",
+      "name": {
+        "original_lang": "ja",
+        "original": "煉獄瑠火",
+        "latin": "Ruka Rengoku",
+        "official": {
+          "en": "Ruka Rengoku",
+          "ko": "렌고쿠 루카"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-mugen-train"
+      }
+    },
+    {
+      "id": "hotaru-haganezuka",
+      "name": {
+        "original_lang": "ja",
+        "original": "鋼鐵塚蛍",
+        "latin": "Hotaru Haganezuka",
+        "official": {
+          "en": "Hotaru Haganezuka",
+          "ko": "하가네즈카 호타루"
+        },
+        "aliases": {
+          "ja": [
+            "はがねづかほたる"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-kyodai-no-kizuna"
+      }
+    },
+    {
+      "id": "kozo-kanamori",
+      "name": {
+        "original_lang": "ja",
+        "original": "鉄穴森鋼蔵",
+        "latin": "Kozo Kanamori",
+        "official": {
+          "en": "Kozo Kanamori",
+          "ko": "카나모리 코조"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 25
+      }
+    },
+    {
+      "id": "kotetsu",
+      "name": {
+        "original_lang": "ja",
+        "original": "小鉄",
+        "latin": "Kotetsu",
+        "official": {
+          "en": "Kotetsu",
+          "ko": "코테츠"
+        },
+        "aliases": {
+          "ja": [
+            "こてつ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-jogen-shuketsu"
+      }
+    },
+    {
+      "id": "tecchin-tecchikawahara",
+      "name": {
+        "original_lang": "ja",
+        "original": "鉄地河原鉄珍",
+        "latin": "Tecchin Tecchikawahara",
+        "official": {
+          "en": "Tecchin Tecchikawahara",
+          "ko": "텟치카와하라 텟친"
+        },
+        "aliases": {
+          "ja": [
+            "てっちかわはらてっちん"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-jogen-shuketsu"
+      }
+    },
+    {
+      "id": "tetsuido",
+      "name": {
+        "original_lang": "ja",
+        "original": "鉄井戸",
+        "latin": "Tetsuido",
+        "official": {
+          "en": "Tetsuido",
+          "ko": "테츠이도"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-katanakaji"
+      }
+    },
+    {
+      "id": "hanafuda-swordsman",
+      "name": {
+        "original_lang": "ja",
+        "original": "継国縁壱",
+        "latin": "Yoriichi Tsugikuni",
+        "official": {
+          "en": "Yoriichi Tsugikuni"
+        },
+        "aliases": {
+          "ja": [
+            "つぎくによりいち"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-yukaku"
+      },
+      "spoiler": true
+    },
+    {
+      "id": "sumiyoshi",
+      "name": {
+        "original_lang": "ja",
+        "original": "炭吉",
+        "latin": "Sumiyoshi",
+        "official": {
+          "en": "Sumiyoshi",
+          "ko": "스미요시"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-jogen-shuketsu"
+      }
+    },
+    {
+      "id": "tanjuro-kamado",
+      "name": {
+        "original_lang": "ja",
+        "original": "竈門炭十郎",
+        "latin": "Tanjuro Kamado",
+        "official": {
+          "en": "Tanjuro Kamado",
+          "ko": "카마도 탄쥬로"
+        },
+        "aliases": {
+          "ja": [
+            "かまどたんじゅうろう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 19
+      }
+    },
+    {
+      "id": "kie-kamado",
+      "name": {
+        "original_lang": "ja",
+        "original": "竈門葵枝",
+        "latin": "Kie Kamado",
+        "official": {
+          "en": "Kie Kamado",
+          "ko": "카마도 키에"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-kyodai-no-kizuna"
+      }
+    },
+    {
+      "id": "takeo-kamado",
+      "name": {
+        "original_lang": "ja",
+        "original": "竈門竹雄",
+        "latin": "Takeo Kamado",
+        "official": {
+          "en": "Takeo Kamado",
+          "ko": "카마도 타케오"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-kyodai-no-kizuna"
+      }
+    },
+    {
+      "id": "hanako-kamado",
+      "name": {
+        "original_lang": "ja",
+        "original": "竈門花子",
+        "latin": "Hanako Kamado",
+        "official": {
+          "en": "Hanako Kamado",
+          "ko": "카마도 하나코"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-kyodai-no-kizuna"
+      }
+    },
+    {
+      "id": "shigeru-kamado",
+      "name": {
+        "original_lang": "ja",
+        "original": "竈門茂",
+        "latin": "Shigeru Kamado",
+        "official": {
+          "en": "Shigeru Kamado",
+          "ko": "카마도 시게루"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-kyodai-no-kizuna"
+      }
+    },
+    {
+      "id": "rokuta-kamado",
+      "name": {
+        "original_lang": "ja",
+        "original": "竈門六太",
+        "latin": "Rokuta Kamado",
+        "official": {
+          "en": "Rokuta Kamado",
+          "ko": "카마도 로쿠타"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-mugen-train"
+      }
+    },
+    {
+      "id": "saburo",
+      "name": {
+        "original_lang": "ja",
+        "original": "三郎",
+        "latin": "Saburo",
+        "official": {
+          "en": "Saburo",
+          "ko": "사부로"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-kyodai-no-kizuna"
+      }
+    },
+    {
+      "id": "tamayo",
+      "name": {
+        "original_lang": "ja",
+        "original": "珠世",
+        "latin": "Tamayo",
+        "official": {
+          "en": "Tamayo",
+          "ko": "타마요"
+        },
+        "aliases": {
+          "ja": [
+            "たまよ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 8
+      }
+    },
+    {
+      "id": "yushiro",
+      "name": {
+        "original_lang": "ja",
+        "original": "愈史郎",
+        "latin": "Yushiro",
+        "official": {
+          "en": "Yushiro",
+          "ko": "유시로"
+        },
+        "aliases": {
+          "ja": [
+            "ゆしろう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 8
+      }
+    },
+    {
+      "id": "muzan-kibutsuji",
+      "name": {
+        "original_lang": "ja",
+        "original": "鬼舞辻無惨",
+        "latin": "Muzan Kibutsuji",
+        "official": {
+          "en": "Muzan Kibutsuji",
+          "ko": "키부츠지 무잔"
+        },
+        "aliases": {
+          "ja": [
+            "きぶつじむざん"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 7
+      }
+    },
+    {
+      "id": "kokushibo",
+      "name": {
+        "original_lang": "ja",
+        "original": "黒死牟",
+        "latin": "Kokushibo",
+        "official": {
+          "en": "Kokushibo",
+          "ko": "코쿠시보"
+        },
+        "aliases": {
+          "ja": [
+            "こくしぼう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-jogen-shuketsu"
+      }
+    },
+    {
+      "id": "doma",
+      "name": {
+        "original_lang": "ja",
+        "original": "童磨",
+        "latin": "Doma",
+        "official": {
+          "en": "Doma",
+          "ko": "도우마"
+        },
+        "aliases": {
+          "ja": [
+            "どうま"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-yukaku"
+      }
+    },
+    {
+      "id": "akaza",
+      "name": {
+        "original_lang": "ja",
+        "original": "猗窩座",
+        "latin": "Akaza",
+        "official": {
+          "en": "Akaza",
+          "ko": "아카자"
+        },
+        "aliases": {
+          "ja": [
+            "あかざ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-mugen-train"
+      }
+    },
+    {
+      "id": "hantengu",
+      "name": {
+        "original_lang": "ja",
+        "original": "半天狗",
+        "latin": "Hantengu",
+        "official": {
+          "en": "Hantengu",
+          "ko": "한텐구"
+        },
+        "aliases": {
+          "ja": [
+            "はんてんぐ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-jogen-shuketsu"
+      }
+    },
+    {
+      "id": "gyokko",
+      "name": {
+        "original_lang": "ja",
+        "original": "玉壺",
+        "latin": "Gyokko",
+        "official": {
+          "en": "Gyokko",
+          "ko": "굣코"
+        },
+        "aliases": {
+          "ja": [
+            "ぎょっこ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-jogen-shuketsu"
+      }
+    },
+    {
+      "id": "daki",
+      "name": {
+        "original_lang": "ja",
+        "original": "堕姫",
+        "latin": "Daki",
+        "official": {
+          "en": "Daki",
+          "ko": "다키"
+        },
+        "aliases": {
+          "ja": [
+            "だき"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-yukaku"
+      }
+    },
+    {
+      "id": "gyutaro",
+      "name": {
+        "original_lang": "ja",
+        "original": "妓夫太郎",
+        "latin": "Gyutaro",
+        "official": {
+          "en": "Gyutaro",
+          "ko": "규타로"
+        },
+        "aliases": {
+          "ja": [
+            "ぎゅうたろう"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-yukaku"
+      }
+    },
+    {
+      "id": "nakime",
+      "name": {
+        "original_lang": "ja",
+        "original": "鳴女",
+        "latin": "Nakime",
+        "official": {
+          "en": "Nakime",
+          "ko": "나키메"
+        },
+        "aliases": {
+          "ja": [
+            "なきめ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-jogen-shuketsu"
+      }
+    },
+    {
+      "id": "kaigaku",
+      "name": {
+        "original_lang": "ja",
+        "original": "獪岳",
+        "latin": "Kaigaku",
+        "official": {
+          "en": "Kaigaku",
+          "ko": "카이가쿠"
+        },
+        "aliases": {
+          "ja": [
+            "かいがく"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 17
+      }
+    },
+    {
+      "id": "sekido",
+      "name": {
+        "original_lang": "ja",
+        "original": "積怒",
+        "latin": "Sekido",
+        "official": {
+          "en": "Sekido",
+          "ko": "세키도"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-katanakaji",
+        "episode": 3
+      }
+    },
+    {
+      "id": "karaku",
+      "name": {
+        "original_lang": "ja",
+        "original": "可楽",
+        "latin": "Karaku",
+        "official": {
+          "en": "Karaku",
+          "ko": "카라쿠"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-katanakaji",
+        "episode": 3
+      }
+    },
+    {
+      "id": "urogi",
+      "name": {
+        "original_lang": "ja",
+        "original": "空喜",
+        "latin": "Urogi",
+        "official": {
+          "en": "Urogi",
+          "ko": "우로기"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-katanakaji",
+        "episode": 3
+      }
+    },
+    {
+      "id": "aizetsu",
+      "name": {
+        "original_lang": "ja",
+        "original": "哀絶",
+        "latin": "Aizetsu",
+        "official": {
+          "en": "Aizetsu",
+          "ko": "아이제츠"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-katanakaji",
+        "episode": 3
+      }
+    },
+    {
+      "id": "zohakuten",
+      "name": {
+        "original_lang": "ja",
+        "original": "憎珀天",
+        "latin": "Zohakuten",
+        "official": {
+          "en": "Zohakuten",
+          "ko": "조하쿠텐"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-katanakaji",
+        "episode": 7
+      }
+    },
+    {
+      "id": "enmu",
+      "name": {
+        "original_lang": "ja",
+        "original": "魘夢",
+        "latin": "Enmu",
+        "official": {
+          "en": "Enmu",
+          "ko": "엔무"
+        },
+        "aliases": {
+          "ja": [
+            "えんむ"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 26
+      }
+    },
+    {
+      "id": "rui",
+      "name": {
+        "original_lang": "ja",
+        "original": "累",
+        "latin": "Rui",
+        "official": {
+          "en": "Rui",
+          "ko": "루이"
+        },
+        "aliases": {
+          "ja": [
+            "るい"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 15
+      }
+    },
+    {
+      "id": "kamanue",
+      "name": {
+        "original_lang": "ja",
+        "original": "釜鵺",
+        "latin": "Kamanue",
+        "official": {
+          "en": "Kamanue",
+          "ko": "하현 2"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 26
+      }
+    },
+    {
+      "id": "rokuro",
+      "name": {
+        "original_lang": "ja",
+        "original": "轆轤",
+        "latin": "Rokuro",
+        "official": {
+          "en": "Rokuro",
+          "ko": "하현 3"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 26
+      }
+    },
+    {
+      "id": "wakuraba",
+      "name": {
+        "original_lang": "ja",
+        "original": "病葉",
+        "latin": "Wakuraba",
+        "official": {
+          "en": "Wakuraba",
+          "ko": "하현 4"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 26
+      }
+    },
+    {
+      "id": "mukago",
+      "name": {
+        "original_lang": "ja",
+        "original": "零余子",
+        "latin": "Mukago",
+        "official": {
+          "en": "Mukago"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 26
+      }
+    },
+    {
+      "id": "spider-demon-mother",
+      "name": {
+        "original_lang": "ja",
+        "original": "母蜘蛛",
+        "latin": "Spider Demon (Mother)",
+        "official": {
+          "en": "Spider Demon (Mother)",
+          "ko": "거미 혈귀 엄마"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 15
+      }
+    },
+    {
+      "id": "spider-demon-father",
+      "name": {
+        "original_lang": "ja",
+        "original": "父蜘蛛",
+        "latin": "Spider Demon (Father)",
+        "official": {
+          "en": "Spider Demon (Father)",
+          "ko": "거미 혈귀 아빠"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 17
+      }
+    },
+    {
+      "id": "spider-demon-son",
+      "name": {
+        "original_lang": "ja",
+        "original": "兄蜘蛛",
+        "latin": "Spider Demon (Son)",
+        "official": {
+          "en": "Spider Demon (Son)",
+          "ko": "거미 혈귀 형"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 16
+      }
+    },
+    {
+      "id": "spider-demon-daughter",
+      "name": {
+        "original_lang": "ja",
+        "original": "姉蜘蛛",
+        "latin": "Spider Demon (Daughter)",
+        "official": {
+          "en": "Spider Demon (Daughter)",
+          "ko": "거미 혈귀 누나"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 17
+      }
+    },
+    {
+      "id": "rui-mother",
+      "name": {
+        "original_lang": "ja",
+        "original": "累の母",
+        "latin": "Rui's Mother",
+        "official": {
+          "ko": "루이 엄마"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 21
+      }
+    },
+    {
+      "id": "rui-father",
+      "name": {
+        "original_lang": "ja",
+        "original": "累の父",
+        "latin": "Rui's Father",
+        "official": {
+          "ko": "루이 아빠"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 21
+      }
+    },
+    {
+      "id": "temple-demon",
+      "name": {
+        "original_lang": "ja",
+        "original": "お堂の鬼",
+        "latin": "Temple Demon",
+        "official": {
+          "en": "Temple Demon",
+          "ko": "사당의 혈귀"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-kyodai-no-kizuna"
+      }
+    },
+    {
+      "id": "hand-demon",
+      "name": {
+        "original_lang": "ja",
+        "original": "手鬼",
+        "latin": "Hand Demon",
+        "official": {
+          "en": "Hand Demon",
+          "ko": "손 혈귀"
+        },
+        "aliases": {
+          "ja": [
+            "ておに"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-kyodai-no-kizuna"
+      }
+    },
+    {
+      "id": "hand-demon-brother",
+      "name": {
+        "original_lang": "ja",
+        "original": "手鬼の兄",
+        "latin": "Hand Demon's Brother",
+        "official": {
+          "ko": "손 혈귀 형"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-kyodai-no-kizuna"
+      }
+    },
+    {
+      "id": "swamp-demon",
+      "name": {
+        "original_lang": "ja",
+        "original": "沼の鬼",
+        "latin": "Swamp Demon",
+        "official": {
+          "en": "Swamp Demon",
+          "ko": "늪 혈귀"
+        },
+        "aliases": {
+          "ja": [
+            "ぬまのおに"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 6
+      }
+    },
+    {
+      "id": "susamaru",
+      "name": {
+        "original_lang": "ja",
+        "original": "朱紗丸",
+        "latin": "Susamaru",
+        "official": {
+          "en": "Susamaru",
+          "ko": "스사마루"
+        },
+        "aliases": {
+          "ja": [
+            "すさまる"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 8
+      }
+    },
+    {
+      "id": "yahaba",
+      "name": {
+        "original_lang": "ja",
+        "original": "矢琶羽",
+        "latin": "Yahaba",
+        "official": {
+          "en": "Yahaba",
+          "ko": "야하바"
+        },
+        "aliases": {
+          "ja": [
+            "やはば"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 8
+      }
+    },
+    {
+      "id": "kyogai",
+      "name": {
+        "original_lang": "ja",
+        "original": "響凱",
+        "latin": "Kyogai",
+        "official": {
+          "en": "Kyogai",
+          "ko": "쿄우가이"
+        },
+        "aliases": {
+          "ja": [
+            "きょうがい"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 11
+      }
+    },
+    {
+      "id": "kazumi",
+      "name": {
+        "original_lang": "ja",
+        "original": "和巳",
+        "latin": "Kazumi",
+        "official": {
+          "en": "Kazumi",
+          "ko": "카즈미"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 6
+      }
+    },
+    {
+      "id": "tokie",
+      "name": {
+        "original_lang": "ja",
+        "original": "トキエ",
+        "latin": "Tokie",
+        "official": {
+          "ko": "토키에"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 6
+      }
+    },
+    {
+      "id": "muzan-wife",
+      "name": {
+        "original_lang": "ja",
+        "original": "鬼舞辻の妻",
+        "latin": "Muzan's Wife",
+        "official": {
+          "ko": "키부츠지 아내"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 7
+      }
+    },
+    {
+      "id": "muzan-daughter",
+      "name": {
+        "original_lang": "ja",
+        "original": "鬼舞辻の娘",
+        "latin": "Muzan's Daughter",
+        "official": {
+          "ko": "키부츠지 딸"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 7
+      }
+    },
+    {
+      "id": "udon-vendor",
+      "name": {
+        "original_lang": "ja",
+        "original": "うどん屋の店主",
+        "latin": "Udon Shop Owner",
+        "official": {
+          "ko": "우동가게 주인"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 7
+      },
+      "nameless": true
+    },
+    {
+      "id": "shoichi",
+      "name": {
+        "original_lang": "ja",
+        "original": "正一",
+        "latin": "Shoichi",
+        "official": {
+          "en": "Shoichi",
+          "ko": "쇼이치"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 11
+      }
+    },
+    {
+      "id": "teruko",
+      "name": {
+        "original_lang": "ja",
+        "original": "てる子",
+        "latin": "Teruko",
+        "official": {
+          "en": "Teruko",
+          "ko": "테루코"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 11
+      }
+    },
+    {
+      "id": "kiyoshi",
+      "name": {
+        "original_lang": "ja",
+        "original": "清",
+        "latin": "Kiyoshi",
+        "official": {
+          "en": "Kiyoshi",
+          "ko": "키요시"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 12
+      }
+    },
+    {
+      "id": "wisteria-house-old-woman",
+      "name": {
+        "original_lang": "ja",
+        "original": "お婆さん",
+        "latin": "Old Woman",
+        "official": {
+          "ko": "할머니"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 14
+      },
+      "nameless": true
+    },
+    {
+      "id": "mysterious-woman",
+      "name": {
+        "original_lang": "ja",
+        "original": "嘴平琴葉",
+        "latin": "Kotoha Hashibira",
+        "official": {
+          "en": "Kotoha Hashibira"
+        },
+        "aliases": {
+          "ja": [
+            "はしびらことは"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 18
+      },
+      "spoiler": true
+    },
+    {
+      "id": "chuntaro",
+      "name": {
+        "original_lang": "ja",
+        "original": "チュン太郎",
+        "latin": "Chuntaro",
+        "official": {
+          "en": "Chuntaro",
+          "ko": "츈타로"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 11
+      }
+    },
+    {
+      "id": "matsuemon",
+      "name": {
+        "original_lang": "ja",
+        "original": "天王寺松右衛門",
+        "latin": "Matsuemon Tennoji",
+        "official": {
+          "en": "Matsuemon",
+          "ko": "꺾쇠 까마귀(텐노지 마츠에몽)"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-kyodai-no-kizuna"
+      }
+    },
+    {
+      "id": "kasugai-crow",
+      "name": {
+        "original_lang": "ja",
+        "original": "鎹鴉",
+        "latin": "Kasugai Crow",
+        "official": {
+          "en": "Kasugai Crow",
+          "ko": "꺾쇠 까마귀"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 21
+      },
+      "nameless": true
+    },
+    {
+      "id": "kanzaburo",
+      "name": {
+        "original_lang": "ja",
+        "original": "寛三郎",
+        "latin": "Kanzaburo",
+        "official": {
+          "en": "Kanzaburo",
+          "ko": "꺾쇠 까마귀(칸자부로)"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-mugenjo-1"
+      }
+    },
+    {
+      "id": "dongurimaru",
+      "name": {
+        "original_lang": "ja",
+        "original": "どんぐり丸",
+        "latin": "Dongurimaru"
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-mugenjo-1"
+      }
+    },
+    {
+      "id": "kakushi",
+      "name": {
+        "original_lang": "ja",
+        "original": "隠",
+        "latin": "Kakushi",
+        "official": {
+          "ko": "은"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-kyodai-no-kizuna"
+      },
+      "nameless": true
+    },
+    {
+      "id": "tomi",
+      "name": {
+        "original_lang": "ja",
+        "original": "トミ",
+        "latin": "Tomi",
+        "official": {
+          "ko": "토미"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-mugen-train-tv",
+        "episode": 1
+      }
+    },
+    {
+      "id": "fuku",
+      "name": {
+        "original_lang": "ja",
+        "original": "ふく",
+        "latin": "Fuku",
+        "official": {
+          "ko": "후쿠"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-mugen-train-tv",
+        "episode": 1
+      }
+    },
+    {
+      "id": "train-conductor",
+      "name": {
+        "original_lang": "ja",
+        "original": "車掌",
+        "latin": "Conductor",
+        "aliases": {
+          "ko": [
+            "차장"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-mugen-train"
+      },
+      "nameless": true
+    },
+    {
+      "id": "tuberculosis-youth",
+      "name": {
+        "original_lang": "ja",
+        "original": "結核の青年",
+        "latin": "Young Man with Tuberculosis"
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-mugen-train"
+      },
+      "nameless": true
+    },
+    {
+      "id": "braided-girl",
+      "name": {
+        "original_lang": "ja",
+        "original": "三つ編みの少女",
+        "latin": "Girl with Braids"
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-mugen-train"
+      },
+      "nameless": true
+    },
+    {
+      "id": "koinatsu",
+      "name": {
+        "original_lang": "ja",
+        "original": "鯉夏",
+        "latin": "Koinatsu",
+        "official": {
+          "en": "Koinatsu",
+          "ko": "코이나츠"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-yukaku"
+      }
+    },
+    {
+      "id": "makio",
+      "name": {
+        "original_lang": "ja",
+        "original": "まきを",
+        "latin": "Makio",
+        "official": {
+          "en": "Makio",
+          "ko": "마키오"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-yukaku"
+      }
+    },
+    {
+      "id": "suma",
+      "name": {
+        "original_lang": "ja",
+        "original": "須磨",
+        "latin": "Suma",
+        "official": {
+          "en": "Suma",
+          "ko": "스마"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-yukaku"
+      }
+    },
+    {
+      "id": "hinatsuru",
+      "name": {
+        "original_lang": "ja",
+        "original": "雛鶴",
+        "latin": "Hinatsuru",
+        "official": {
+          "en": "Hinatsuru",
+          "ko": "히나츠루"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-yukaku"
+      }
+    },
+    {
+      "id": "omitsu",
+      "name": {
+        "original_lang": "ja",
+        "original": "おみつ",
+        "latin": "Omitsu",
+        "official": {
+          "ko": "오미츠"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-yukaku"
+      }
+    },
+    {
+      "id": "muscle-mouse",
+      "name": {
+        "original_lang": "ja",
+        "original": "ムキムキねずみ",
+        "latin": "Muscle Mice",
+        "official": {
+          "ko": "불끈불끈 쥐"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-yukaku"
+      }
+    },
+    {
+      "id": "shizu-shinazugawa",
+      "name": {
+        "original_lang": "ja",
+        "original": "不死川志津",
+        "latin": "Shizu Shinazugawa",
+        "official": {
+          "en": "Shizu Shinazugawa",
+          "ko": "시나즈가와 시즈"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-katanakaji",
+        "episode": 6
+      }
+    },
+    {
+      "id": "teiko-shinazugawa",
+      "name": {
+        "original_lang": "ja",
+        "original": "不死川貞子",
+        "latin": "Teiko Shinazugawa",
+        "official": {
+          "ko": "시나즈가와 테이코"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-katanakaji",
+        "episode": 6
+      }
+    },
+    {
+      "id": "sumi-shinazugawa",
+      "name": {
+        "original_lang": "ja",
+        "original": "不死川寿美",
+        "latin": "Sumi Shinazugawa",
+        "official": {
+          "ko": "시나즈가와 스미"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-katanakaji",
+        "episode": 6
+      }
+    },
+    {
+      "id": "shuya-shinazugawa",
+      "name": {
+        "original_lang": "ja",
+        "original": "不死川就也",
+        "latin": "Shuya Shinazugawa",
+        "official": {
+          "ko": "시나즈가와 슈야"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-katanakaji",
+        "episode": 6
+      }
+    },
+    {
+      "id": "hiroshi-shinazugawa",
+      "name": {
+        "original_lang": "ja",
+        "original": "不死川弘",
+        "latin": "Hiroshi Shinazugawa",
+        "official": {
+          "ko": "시나즈가와 히로시"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-katanakaji",
+        "episode": 6
+      }
+    },
+    {
+      "id": "koto-shinazugawa",
+      "name": {
+        "original_lang": "ja",
+        "original": "不死川こと",
+        "latin": "Koto Shinazugawa",
+        "official": {
+          "ko": "시나즈가와 코토"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-katanakaji",
+        "episode": 6
+      }
+    },
+    {
+      "id": "tokito-father",
+      "name": {
+        "original_lang": "ja",
+        "original": "時透の父",
+        "latin": "Tokito's Father",
+        "official": {
+          "ko": "토키토의 아빠"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-katanakaji",
+        "episode": 7
+      }
+    },
+    {
+      "id": "tokito-mother",
+      "name": {
+        "original_lang": "ja",
+        "original": "時透の母",
+        "latin": "Tokito's Mother",
+        "official": {
+          "ko": "토키토의 엄마"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-katanakaji",
+        "episode": 8
+      }
+    },
+    {
+      "id": "yuichiro-tokito",
+      "name": {
+        "original_lang": "ja",
+        "original": "時透有一郎",
+        "latin": "Yuichiro Tokito",
+        "official": {
+          "en": "Yuichiro Tokito"
+        },
+        "aliases": {
+          "ko": [
+            "토키토 유이치로"
+          ]
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-katanakaji",
+        "episode": 8
+      }
+    },
+    {
+      "id": "inspector",
+      "name": {
+        "original_lang": "ja",
+        "original": "検査官",
+        "latin": "Inspector",
+        "official": {
+          "ko": "검사"
+        }
+      },
+      "nameless": true
+    },
+    {
+      "id": "koyuki",
+      "name": {
+        "original_lang": "ja",
+        "original": "恋雪",
+        "latin": "Koyuki",
+        "official": {
+          "en": "Koyuki",
+          "ko": "코유키"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-mugenjo-1"
+      }
+    },
+    {
+      "id": "keizo",
+      "name": {
+        "original_lang": "ja",
+        "original": "慶蔵",
+        "latin": "Keizo",
+        "official": {
+          "en": "Keizo",
+          "ko": "케이조"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-mugenjo-1"
+      }
+    },
+    {
+      "id": "hakuji-father",
+      "name": {
+        "original_lang": "ja",
+        "original": "狛治の父",
+        "latin": "Hakuji's Father",
+        "official": {
+          "ko": "하쿠지의 아버지"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-mugenjo-1"
+      }
+    },
+    {
+      "id": "doma-father",
+      "name": {
+        "original_lang": "ja",
+        "original": "童磨の父",
+        "latin": "Doma's Father"
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-mugenjo-1"
+      }
+    },
+    {
+      "id": "doma-mother",
+      "name": {
+        "original_lang": "ja",
+        "original": "童磨の母",
+        "latin": "Doma's Mother"
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-mugenjo-1"
+      }
+    },
+    {
+      "id": "shimamoto",
+      "name": {
+        "original_lang": "ja",
+        "original": "島本",
+        "latin": "Shimamoto",
+        "official": {
+          "ko": "시마모토"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-mugenjo-1"
+      }
+    },
+    {
+      "id": "noguchi",
+      "name": {
+        "original_lang": "ja",
+        "original": "野口",
+        "latin": "Noguchi",
+        "official": {
+          "ko": "노구치"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-mugenjo-1"
+      }
+    },
+    {
+      "id": "takeuchi",
+      "name": {
+        "original_lang": "ja",
+        "original": "竹内",
+        "latin": "Takeuchi",
+        "official": {
+          "ko": "타케우치"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-movie-kizuna-no-kiseki"
+      }
+    },
+    {
+      "id": "biwa-woman",
+      "name": {
+        "original_lang": "ja",
+        "original": "琵琶の女",
+        "latin": "Biwa Woman",
+        "official": {
+          "ko": "비파녀"
+        }
+      }
+    },
+    {
+      "id": "daki-sash",
+      "name": {
+        "original_lang": "ja",
+        "original": "堕姫の帯の鬼",
+        "latin": "Daki's Sash Demon"
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-yukaku"
+      },
+      "nameless": true
+    },
+    {
+      "id": "kamuro",
+      "name": {
+        "original_lang": "ja",
+        "original": "禿",
+        "latin": "Kamuro"
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-yukaku"
+      },
+      "nameless": true
+    },
+    {
+      "id": "mansion-demon-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "屋敷の鬼2",
+        "latin": "Mansion Demon 2"
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 12
+      },
+      "nameless": true
+    },
+    {
+      "id": "masao-maeda",
+      "name": {
+        "original_lang": "ja",
+        "original": "前田まさお",
+        "latin": "Masao Maeda",
+        "official": {
+          "en": "Masao Maeda"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-mitsuri-no-taifuku"
+      }
+    },
+    {
+      "id": "mitsuri-father",
+      "name": {
+        "original_lang": "ja",
+        "original": "甘露寺の父",
+        "latin": "Mitsuri's Father"
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-katanakaji"
+      }
+    },
+    {
+      "id": "mitsuri-mother",
+      "name": {
+        "original_lang": "ja",
+        "original": "甘露寺の母",
+        "latin": "Mitsuri's Mother"
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-katanakaji"
+      }
+    },
+    {
+      "id": "ozaki",
+      "name": {
+        "original_lang": "ja",
+        "original": "尾崎",
+        "latin": "Ozaki",
+        "official": {
+          "en": "Ozaki"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 16
+      }
+    },
+    {
+      "id": "temple-children",
+      "name": {
+        "original_lang": "ja",
+        "original": "寺の子どもたち",
+        "latin": "Temple Children"
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-hashira-geiko"
+      },
+      "nameless": true
+    },
+    {
+      "id": "toyo",
+      "name": {
+        "original_lang": "ja",
+        "original": "豊",
+        "latin": "Toyo",
+        "official": {
+          "en": "Toyo"
+        }
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-game-hinokami-keppuutan"
+      }
+    },
+    {
+      "id": "tsuzumi-mansion-demon",
+      "name": {
+        "original_lang": "ja",
+        "original": "鼓屋敷の鬼",
+        "latin": "Tsuzumi Mansion Demon"
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 12
+      },
+      "nameless": true
+    },
+    {
+      "id": "yocchan",
+      "name": {
+        "original_lang": "ja",
+        "original": "よっちゃん",
+        "latin": "Yocchan"
+      },
+      "first_appearance": {
+        "work": "kimetsu-no-yaiba-tanjiro-risshi",
+        "episode": 8
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83",
+      "title": "鬼滅の刃 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://en.wikipedia.org/wiki/List_of_Demon_Slayer%3A_Kimetsu_no_Yaiba_characters",
+      "title": "List of Demon Slayer: Kimetsu no Yaiba characters - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s3",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B7%80%EB%A9%B8%EC%9D%98_%EC%B9%BC%EB%82%A0%EC%9D%98_%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC_%EB%AA%A9%EB%A1%9D",
+      "title": "귀멸의 칼날의 등장인물 목록 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

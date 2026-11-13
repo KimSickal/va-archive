@@ -1,0 +1,42 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "fu-atsushi",
+  "slug": "atsushi-ono",
+  "name": {
+    "original_lang": "ja",
+    "original": "斧アツシ",
+    "latin": "Atsushi Ono",
+    "aliases": {
+      "ja": [
+        "おのあつし"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1961-09-09",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%96%A7%E3%82%A2%E3%83%84%E3%82%B7",
+    "en": "https://en.wikipedia.org/wiki/Atsushi_Ono"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%96%A7%E3%82%A2%E3%83%84%E3%82%B7",
+      "title": "斧アツシ - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

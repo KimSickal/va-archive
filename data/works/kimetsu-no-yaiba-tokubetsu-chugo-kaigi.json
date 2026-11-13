@@ -1,0 +1,1578 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "kimetsu-no-yaiba-tokubetsu-chugo-kaigi",
+  "franchise_id": "kimetsu-no-yaiba",
+  "type": "anime_special",
+  "title": {
+    "original_lang": "ja",
+    "original": "「鬼滅の刃」特別編集版 柱合会議・蝶屋敷編",
+    "latin": "Kimetsu no Yaiba Tokubetsu Henshuban: Chugo Kaigi / Cho Yashiki-hen",
+    "official": {
+      "en": "Demon Slayer: Kimetsu no Yaiba Hashira Meeting Arc",
+      "ko": "귀멸의 칼날: 주합회의·나비저택 편"
+    }
+  },
+  "order": 7,
+  "status": "finished",
+  "start_date": "2020-12-20",
+  "episodes": 1,
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "ufotable",
+      "latin": "ufotable",
+      "official": {
+        "en": "ufotable"
+      }
+    }
+  ],
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EA%B7%80%EB%A9%B8%EC%9D%98_%EC%B9%BC%EB%82%A0%3A_%EC%A3%BC%ED%95%A9%ED%9A%8C%EC%9D%98%C2%B7%EB%82%98%EB%B9%84%EC%A0%80%ED%83%9D_%ED%8E%B8"
+  },
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2020-12-20",
+      "credits": [
+        {
+          "character": "tanjiro-kamado",
+          "person": "ka-kou-ka-ju",
+          "role": "main",
+          "source_refs": [
+            "s2",
+            "s4",
+            "s5",
+            "s6",
+            "s7",
+            "s8",
+            "s9"
+          ]
+        },
+        {
+          "character": "nezuko-kamado",
+          "person": "ki-tou-mei-ri",
+          "role": "main",
+          "source_refs": [
+            "s2",
+            "s4",
+            "s10",
+            "s6",
+            "s8"
+          ]
+        },
+        {
+          "character": "zenitsu-agatsuma",
+          "person": "ka-ya-kou",
+          "role": "main",
+          "source_refs": [
+            "s2",
+            "s6",
+            "s11",
+            "s7",
+            "s8",
+            "s9"
+          ]
+        },
+        {
+          "character": "inosuke-hashibira",
+          "person": "shou-kou-tei-shou",
+          "role": "main",
+          "source_refs": [
+            "s2",
+            "s6",
+            "s12",
+            "s7",
+            "s8",
+            "s9"
+          ]
+        },
+        {
+          "character": "giyu-tomioka",
+          "person": "ou-sei-kou-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s13",
+            "s9"
+          ]
+        },
+        {
+          "character": "kyojuro-rengoku",
+          "person": "nichi-ya-sou",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s14",
+            "s6",
+            "s7"
+          ]
+        },
+        {
+          "character": "tengen-uzui",
+          "person": "shou-sei-koku-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s15",
+            "s6"
+          ]
+        },
+        {
+          "character": "muichiro-tokito",
+          "person": "ka-sei-ken-go",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s16",
+            "s6"
+          ]
+        },
+        {
+          "character": "shinobu-kocho",
+          "person": "sou-ken-sa-shoku",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s17",
+            "s6",
+            "s7",
+            "s8",
+            "s9"
+          ]
+        },
+        {
+          "character": "mitsuri-kanroji",
+          "person": "ka-taku-kou-sai",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s18",
+            "s6"
+          ]
+        },
+        {
+          "character": "obanai-iguro",
+          "person": "rei-son-ken-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s19",
+            "s6"
+          ]
+        },
+        {
+          "character": "sanemi-shinazugawa",
+          "person": "kan-chi-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s20",
+            "s6"
+          ]
+        },
+        {
+          "character": "gyomei-himejima",
+          "person": "san-den-chi-wa",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s21",
+            "s6"
+          ]
+        },
+        {
+          "character": "sakonji-urokodaki",
+          "person": "tai-chou-hou-chuu",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s22",
+            "s6"
+          ]
+        },
+        {
+          "character": "kagaya-ubuyashiki",
+          "person": "shin-sen-chi-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s23",
+            "s6",
+            "s9"
+          ]
+        },
+        {
+          "character": "hinaki-ubuyashiki",
+          "person": "ka-shu-yumiri",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s24",
+            "s6"
+          ]
+        },
+        {
+          "character": "nichika-ubuyashiki",
+          "person": "shou-taku-a-ri",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s25",
+            "s6"
+          ]
+        },
+        {
+          "character": "goto",
+          "person": "ko-sen-shin",
+          "role": "supporting",
+          "source_refs": [
+            "s4",
+            "s26",
+            "s6"
+          ]
+        },
+        {
+          "character": "kakushi",
+          "person": "tou-jou-nichi-sa-shi",
+          "role": "minor",
+          "source_refs": [
+            "s4",
+            "s27",
+            "s6"
+          ]
+        },
+        {
+          "character": "aoi-kanzaki",
+          "person": "kou-gen-yuu-ri",
+          "role": "supporting",
+          "source_refs": [
+            "s6",
+            "s28",
+            "s7",
+            "s8",
+            "s9"
+          ]
+        },
+        {
+          "character": "kiyo-terauchi",
+          "person": "san-ka-shichi-kai",
+          "role": "supporting",
+          "source_refs": [
+            "s6",
+            "s29",
+            "s7",
+            "s8",
+            "s9"
+          ]
+        },
+        {
+          "character": "murata",
+          "person": "kyuu-den-kou-ki",
+          "role": "supporting",
+          "source_refs": [
+            "s7",
+            "s30"
+          ]
+        },
+        {
+          "character": "hotaru-haganezuka",
+          "person": "rou-sen-tai-fu",
+          "role": "supporting",
+          "source_refs": [
+            "s7",
+            "s31",
+            "s8"
+          ]
+        },
+        {
+          "character": "sumi-nakahara",
+          "person": "shin-ya-ayumi",
+          "role": "supporting",
+          "source_refs": [
+            "s7",
+            "s32",
+            "s8",
+            "s9"
+          ]
+        },
+        {
+          "character": "naho-takada",
+          "person": "sou-gen-yuu-ki",
+          "role": "supporting",
+          "source_refs": [
+            "s7",
+            "s33",
+            "s8",
+            "s9"
+          ]
+        },
+        {
+          "character": "kanao-tsuyuri",
+          "person": "jou-den-rei-na",
+          "role": "supporting",
+          "source_refs": [
+            "s8",
+            "s34",
+            "s9"
+          ]
+        },
+        {
+          "character": "kanae-kocho",
+          "person": "bou-ya-ai-i",
+          "role": "supporting",
+          "source_refs": [
+            "s8",
+            "s35"
+          ]
+        },
+        {
+          "character": "matsuemon",
+          "person": "san-ki-takumi",
+          "role": "supporting",
+          "source_refs": [
+            "s8",
+            "s36",
+            "s9"
+          ]
+        },
+        {
+          "character": "chuntaro",
+          "person": "shaku-ken-bu-sai-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s8",
+            "s37"
+          ]
+        },
+        {
+          "character": "kozo-kanamori",
+          "person": "chiku-hon-ei-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s8",
+            "s38"
+          ]
+        },
+        {
+          "character": "muzan-kibutsuji",
+          "person": "kan-shun-gen",
+          "role": "supporting",
+          "source_refs": [
+            "s9",
+            "s39"
+          ]
+        },
+        {
+          "character": "enmu",
+          "person": "hei-sen-tai-fu",
+          "role": "supporting",
+          "credited_as": "下弦の壱",
+          "source_refs": [
+            "s9",
+            "s40"
+          ]
+        },
+        {
+          "character": "kamanue",
+          "person": "nan-tai-ten",
+          "role": "supporting",
+          "source_refs": [
+            "s9",
+            "s41"
+          ]
+        },
+        {
+          "character": "rokuro",
+          "person": "ho-shi-sou-ichi-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s9",
+            "s42"
+          ]
+        },
+        {
+          "character": "wakuraba",
+          "person": "shoku-den-ka-na",
+          "role": "supporting",
+          "source_refs": [
+            "s9",
+            "s43"
+          ]
+        },
+        {
+          "character": "mukago",
+          "person": "kenn",
+          "role": "supporting",
+          "source_refs": [
+            "s9",
+            "s44"
+          ]
+        },
+        {
+          "character": "kakushi",
+          "person": "kou-kyou-shin-ya",
+          "role": "minor",
+          "source_refs": [
+            "s9",
+            "s45",
+            "s46"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ko-animax",
+      "language": "ko",
+      "kind": "dub",
+      "label": {
+        "original_lang": "ko",
+        "original": "한국어 더빙 (애니맥스)",
+        "translations": {
+          "ja": "韓国語吹き替え（アニマックス）",
+          "en": "Korean dub (Animax)"
+        },
+        "translated": [
+          "ja",
+          "en"
+        ]
+      },
+      "distributor": {
+        "original_lang": "ko",
+        "original": "애니맥스",
+        "latin": "Animax"
+      },
+      "release_date": "2025-05-02",
+      "source_refs": [
+        "s47",
+        "s48"
+      ],
+      "credits": [
+        {
+          "character": "tanjiro-kamado",
+          "person": "i-gyeong-tae",
+          "role": "main",
+          "part": "regular",
+          "source_refs": [
+            "s48",
+            "s49"
+          ]
+        },
+        {
+          "character": "nezuko-kamado",
+          "person": "i-i-ro",
+          "role": "main",
+          "source_refs": [
+            "s48",
+            "s49"
+          ]
+        },
+        {
+          "character": "giyu-tomioka",
+          "person": "jeong-jae-heon",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "애니맥스 TV 더빙판 22,26화 배역(캐스팅뱅크)에서 추정. 극장판(특별편집판) 더빙 크레딧 원문 미확인",
+            "translations": {
+              "ja": "アニマックスTV吹替版第22,26話の配役（CastingBank）から推定。特別編集版吹替のクレジット原文は未確認",
+              "en": "Inferred from the Animax TV dub episode(s) 22,26 (CastingBank). Credit roll of the dubbed special edit not seen"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s49"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "sakonji-urokodaki",
+          "person": "song-jun-seok",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "애니맥스 TV 더빙판 22,23화 배역(캐스팅뱅크)에서 추정. 극장판(특별편집판) 더빙 크레딧 원문 미확인",
+            "translations": {
+              "ja": "アニマックスTV吹替版第22,23話の配役（CastingBank）から推定。特別編集版吹替のクレジット原文は未確認",
+              "en": "Inferred from the Animax TV dub episode(s) 22,23 (CastingBank). Credit roll of the dubbed special edit not seen"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s49"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "zenitsu-agatsuma",
+          "person": "seok-seung-hun",
+          "role": "main",
+          "source_refs": [
+            "s48",
+            "s49"
+          ]
+        },
+        {
+          "character": "hotaru-haganezuka",
+          "person": "i-hyeon",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "애니맥스 TV 더빙판 24,25화 배역(캐스팅뱅크)에서 추정. 극장판(특별편집판) 더빙 크레딧 원문 미확인",
+            "translations": {
+              "ja": "アニマックスTV吹替版第24,25話の配役（CastingBank）から推定。特別編集版吹替のクレジット原文は未確認",
+              "en": "Inferred from the Animax TV dub episode(s) 24,25 (CastingBank). Credit roll of the dubbed special edit not seen"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s49"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "kagaya-ubuyashiki",
+          "person": "sin-yong-u",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "애니맥스 TV 더빙판 22,23,26화 배역(캐스팅뱅크)에서 추정. 극장판(특별편집판) 더빙 크레딧 원문 미확인",
+            "translations": {
+              "ja": "アニマックスTV吹替版第22,23,26話の配役（CastingBank）から推定。特別編集版吹替のクレジット原文は未確認",
+              "en": "Inferred from the Animax TV dub episode(s) 22,23,26 (CastingBank). Credit roll of the dubbed special edit not seen"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s49"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "matsuemon",
+          "person": "gim-so-hyeong",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "애니맥스 TV 더빙판 25,26화 배역(캐스팅뱅크)에서 추정. 극장판(특별편집판) 더빙 크레딧 원문 미확인",
+            "translations": {
+              "ja": "アニマックスTV吹替版第25,26話の配役（CastingBank）から推定。特別編集版吹替のクレジット原文は未確認",
+              "en": "Inferred from the Animax TV dub episode(s) 25,26 (CastingBank). Credit roll of the dubbed special edit not seen"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s49"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "muzan-kibutsuji",
+          "person": "gim-seung-jun",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "애니맥스 TV 더빙판 26화 배역(캐스팅뱅크)에서 추정. 극장판(특별편집판) 더빙 크레딧 원문 미확인",
+            "translations": {
+              "ja": "アニマックスTV吹替版第26話の配役（CastingBank）から推定。特別編集版吹替のクレジット原文は未確認",
+              "en": "Inferred from the Animax TV dub episode(s) 26 (CastingBank). Credit roll of the dubbed special edit not seen"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s49"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "inosuke-hashibira",
+          "person": "min-seung-u",
+          "role": "main",
+          "source_refs": [
+            "s48",
+            "s49"
+          ]
+        },
+        {
+          "character": "chuntaro",
+          "person": "jeong-hae-eun",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "애니맥스 TV 더빙판 25화 배역(캐스팅뱅크)에서 추정. 극장판(특별편집판) 더빙 크레딧 원문 미확인",
+            "translations": {
+              "ja": "アニマックスTV吹替版第25話の配役（CastingBank）から推定。特別編集版吹替のクレジット原文は未確認",
+              "en": "Inferred from the Animax TV dub episode(s) 25 (CastingBank). Credit roll of the dubbed special edit not seen"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s49"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "shinobu-kocho",
+          "person": "gim-ha-ru",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "애니맥스 TV 더빙판 22,23,24,25,26화 배역(캐스팅뱅크)에서 추정. 극장판(특별편집판) 더빙 크레딧 원문 미확인",
+            "translations": {
+              "ja": "アニマックスTV吹替版第22,23,24,25,26話の配役（CastingBank）から推定。特別編集版吹替のクレジット原文は未確認",
+              "en": "Inferred from the Animax TV dub episode(s) 22,23,24,25,26 (CastingBank). Credit roll of the dubbed special edit not seen"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s49"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "murata",
+          "person": "gim-min-ju",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "애니맥스 TV 더빙판 24화 배역(캐스팅뱅크)에서 추정. 극장판(특별편집판) 더빙 크레딧 원문 미확인",
+            "translations": {
+              "ja": "アニマックスTV吹替版第24話の配役（CastingBank）から推定。特別編集版吹替のクレジット原文は未確認",
+              "en": "Inferred from the Animax TV dub episode(s) 24 (CastingBank). Credit roll of the dubbed special edit not seen"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s49"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "kakushi",
+          "person": "sin-gyeong-seon",
+          "role": "minor",
+          "note": {
+            "original_lang": "ko",
+            "original": "애니맥스 TV 더빙판 22,23화 배역(캐스팅뱅크)에서 추정. 극장판(특별편집판) 더빙 크레딧 원문 미확인",
+            "translations": {
+              "ja": "アニマックスTV吹替版第22,23話の配役（CastingBank）から推定。特別編集版吹替のクレジット原文は未確認",
+              "en": "Inferred from the Animax TV dub episode(s) 22,23 (CastingBank). Credit roll of the dubbed special edit not seen"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s49"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "kanao-tsuyuri",
+          "person": "gim-sun-mi",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "애니맥스 TV 더빙판 25,26화 배역(캐스팅뱅크)에서 추정. 극장판(특별편집판) 더빙 크레딧 원문 미확인",
+            "translations": {
+              "ja": "アニマックスTV吹替版第25,26話の配役（CastingBank）から推定。特別編集版吹替のクレジット原文は未確認",
+              "en": "Inferred from the Animax TV dub episode(s) 25,26 (CastingBank). Credit roll of the dubbed special edit not seen"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s49"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "kakushi",
+          "person": "son-seon-yeong",
+          "role": "minor",
+          "note": {
+            "original_lang": "ko",
+            "original": "애니맥스 TV 더빙판 22,23화 배역(캐스팅뱅크)에서 추정. 극장판(특별편집판) 더빙 크레딧 원문 미확인",
+            "translations": {
+              "ja": "アニマックスTV吹替版第22,23話の配役（CastingBank）から推定。特別編集版吹替のクレジット原文は未確認",
+              "en": "Inferred from the Animax TV dub episode(s) 22,23 (CastingBank). Credit roll of the dubbed special edit not seen"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s49"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "kyojuro-rengoku",
+          "person": "bak-jun-hyeong",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "애니맥스 TV 더빙판 22,23,24화 배역(캐스팅뱅크)에서 추정. 극장판(특별편집판) 더빙 크레딧 원문 미확인",
+            "translations": {
+              "ja": "アニマックスTV吹替版第22,23,24話の配役（CastingBank）から推定。特別編集版吹替のクレジット原文は未確認",
+              "en": "Inferred from the Animax TV dub episode(s) 22,23,24 (CastingBank). Credit roll of the dubbed special edit not seen"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s49"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "tengen-uzui",
+          "person": "gim-jang",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "애니맥스 TV 더빙판 22,23화 배역(캐스팅뱅크)에서 추정. 극장판(특별편집판) 더빙 크레딧 원문 미확인",
+            "translations": {
+              "ja": "アニマックスTV吹替版第22,23話の配役（CastingBank）から推定。特別編集版吹替のクレジット原文は未確認",
+              "en": "Inferred from the Animax TV dub episode(s) 22,23 (CastingBank). Credit roll of the dubbed special edit not seen"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s49"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "muichiro-tokito",
+          "person": "im-chae-bin",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "애니맥스 TV 더빙판 22,23화 배역(캐스팅뱅크)에서 추정. 극장판(특별편집판) 더빙 크레딧 원문 미확인",
+            "translations": {
+              "ja": "アニマックスTV吹替版第22,23話の配役（CastingBank）から推定。特別編集版吹替のクレジット原文は未確認",
+              "en": "Inferred from the Animax TV dub episode(s) 22,23 (CastingBank). Credit roll of the dubbed special edit not seen"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s49"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "mitsuri-kanroji",
+          "person": "choe-ha-ri",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "애니맥스 TV 더빙판 22,23화 배역(캐스팅뱅크)에서 추정. 극장판(특별편집판) 더빙 크레딧 원문 미확인",
+            "translations": {
+              "ja": "アニマックスTV吹替版第22,23話の配役（CastingBank）から推定。特別編集版吹替のクレジット原文は未確認",
+              "en": "Inferred from the Animax TV dub episode(s) 22,23 (CastingBank). Credit roll of the dubbed special edit not seen"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s49"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "obanai-iguro",
+          "person": "seo-ban-seok",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "애니맥스 TV 더빙판 22,23화 배역(캐스팅뱅크)에서 추정. 극장판(특별편집판) 더빙 크레딧 원문 미확인",
+            "translations": {
+              "ja": "アニマックスTV吹替版第22,23話の配役（CastingBank）から推定。特別編集版吹替のクレジット原文は未確認",
+              "en": "Inferred from the Animax TV dub episode(s) 22,23 (CastingBank). Credit roll of the dubbed special edit not seen"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s49"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "sanemi-shinazugawa",
+          "person": "bak-seong-tae",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "애니맥스 TV 더빙판 22,23화 배역(캐스팅뱅크)에서 추정. 극장판(특별편집판) 더빙 크레딧 원문 미확인",
+            "translations": {
+              "ja": "アニマックスTV吹替版第22,23話の配役（CastingBank）から推定。特別編集版吹替のクレジット原文は未確認",
+              "en": "Inferred from the Animax TV dub episode(s) 22,23 (CastingBank). Credit roll of the dubbed special edit not seen"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s49"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "gyomei-himejima",
+          "person": "gu-ja-hyeong",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "애니맥스 TV 더빙판 22,23화 배역(캐스팅뱅크)에서 추정. 극장판(특별편집판) 더빙 크레딧 원문 미확인",
+            "translations": {
+              "ja": "アニマックスTV吹替版第22,23話の配役（CastingBank）から推定。特別編集版吹替のクレジット原文は未確認",
+              "en": "Inferred from the Animax TV dub episode(s) 22,23 (CastingBank). Credit roll of the dubbed special edit not seen"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s49"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "hinaki-ubuyashiki",
+          "person": "gim-do-hui",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "애니맥스 TV 더빙판 22,23화 배역(캐스팅뱅크)에서 추정. 극장판(특별편집판) 더빙 크레딧 원문 미확인",
+            "translations": {
+              "ja": "アニマックスTV吹替版第22,23話の配役（CastingBank）から推定。特別編集版吹替のクレジット原文は未確認",
+              "en": "Inferred from the Animax TV dub episode(s) 22,23 (CastingBank). Credit roll of the dubbed special edit not seen"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s49"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "nichika-ubuyashiki",
+          "person": "gang-eun-ae",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "애니맥스 TV 더빙판 22,23화 배역(캐스팅뱅크)에서 추정. 극장판(특별편집판) 더빙 크레딧 원문 미확인",
+            "translations": {
+              "ja": "アニマックスTV吹替版第22,23話の配役（CastingBank）から推定。特別編集版吹替のクレジット原文は未確認",
+              "en": "Inferred from the Animax TV dub episode(s) 22,23 (CastingBank). Credit roll of the dubbed special edit not seen"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s49"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "aoi-kanzaki",
+          "person": "jang-mi",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "애니맥스 TV 더빙판 23,24,25,26화 배역(캐스팅뱅크)에서 추정. 극장판(특별편집판) 더빙 크레딧 원문 미확인",
+            "translations": {
+              "ja": "アニマックスTV吹替版第23,24,25,26話の配役（CastingBank）から推定。特別編集版吹替のクレジット原文は未確認",
+              "en": "Inferred from the Animax TV dub episode(s) 23,24,25,26 (CastingBank). Credit roll of the dubbed special edit not seen"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s49"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "kiyo-terauchi",
+          "person": "gim-seo-hyeon",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "애니맥스 TV 더빙판 23,24,25,26화 배역(캐스팅뱅크)에서 추정. 극장판(특별편집판) 더빙 크레딧 원문 미확인",
+            "translations": {
+              "ja": "アニマックスTV吹替版第23,24,25,26話の配役（CastingBank）から推定。特別編集版吹替のクレジット原文は未確認",
+              "en": "Inferred from the Animax TV dub episode(s) 23,24,25,26 (CastingBank). Credit roll of the dubbed special edit not seen"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s49"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "sumi-nakahara",
+          "person": "mi-so",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "애니맥스 TV 더빙판 24,25,26화 배역(캐스팅뱅크)에서 추정. 극장판(특별편집판) 더빙 크레딧 원문 미확인",
+            "translations": {
+              "ja": "アニマックスTV吹替版第24,25,26話の配役（CastingBank）から推定。特別編集版吹替のクレジット原文は未確認",
+              "en": "Inferred from the Animax TV dub episode(s) 24,25,26 (CastingBank). Credit roll of the dubbed special edit not seen"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s49"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "naho-takada",
+          "person": "jang-chae-yeon",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ko",
+            "original": "애니맥스 TV 더빙판 24,25,26화 배역(캐스팅뱅크)에서 추정. 극장판(특별편집판) 더빙 크레딧 원문 미확인",
+            "translations": {
+              "ja": "アニマックスTV吹替版第24,25,26話の配役（CastingBank）から推定。特別編集版吹替のクレジット原文は未確認",
+              "en": "Inferred from the Animax TV dub episode(s) 24,25,26 (CastingBank). Credit roll of the dubbed special edit not seen"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s49"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "kanae-kocho",
+          "person": "i-ji-hyeon",
+          "role": "minor",
+          "note": {
+            "original_lang": "ko",
+            "original": "애니맥스 TV 더빙판 25화 배역(캐스팅뱅크)에서 추정. 극장판(특별편집판) 더빙 크레딧 원문 미확인",
+            "translations": {
+              "ja": "アニマックスTV吹替版第25話の配役（CastingBank）から推定。特別編集版吹替のクレジット原文は未確認",
+              "en": "Inferred from the Animax TV dub episode(s) 25 (CastingBank). Credit roll of the dubbed special edit not seen"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s49"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "kozo-kanamori",
+          "person": "bak-jun-won",
+          "role": "minor",
+          "note": {
+            "original_lang": "ko",
+            "original": "애니맥스 TV 더빙판 25화 배역(캐스팅뱅크)에서 추정. 극장판(특별편집판) 더빙 크레딧 원문 미확인",
+            "translations": {
+              "ja": "アニマックスTV吹替版第25話の配役（CastingBank）から推定。特別編集版吹替のクレジット原文は未確認",
+              "en": "Inferred from the Animax TV dub episode(s) 25 (CastingBank). Credit roll of the dubbed special edit not seen"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s49"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "enmu",
+          "person": "jeon-gwang-ju",
+          "role": "minor",
+          "note": {
+            "original_lang": "ko",
+            "original": "애니맥스 TV 더빙판 26화 배역(캐스팅뱅크)에서 추정. 극장판(특별편집판) 더빙 크레딧 원문 미확인",
+            "translations": {
+              "ja": "アニマックスTV吹替版第26話の配役（CastingBank）から推定。特別編集版吹替のクレジット原文は未確認",
+              "en": "Inferred from the Animax TV dub episode(s) 26 (CastingBank). Credit roll of the dubbed special edit not seen"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s49"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "kamanue",
+          "person": "choe-nak-yun",
+          "role": "minor",
+          "note": {
+            "original_lang": "ko",
+            "original": "애니맥스 TV 더빙판 26화 배역(캐스팅뱅크)에서 추정. 극장판(특별편집판) 더빙 크레딧 원문 미확인",
+            "translations": {
+              "ja": "アニマックスTV吹替版第26話の配役（CastingBank）から推定。特別編集版吹替のクレジット原文は未確認",
+              "en": "Inferred from the Animax TV dub episode(s) 26 (CastingBank). Credit roll of the dubbed special edit not seen"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s49"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "rokuro",
+          "person": "song-gi-won",
+          "role": "minor",
+          "note": {
+            "original_lang": "ko",
+            "original": "애니맥스 TV 더빙판 26화 배역(캐스팅뱅크)에서 추정. 극장판(특별편집판) 더빙 크레딧 원문 미확인",
+            "translations": {
+              "ja": "アニマックスTV吹替版第26話の配役（CastingBank）から推定。特別編集版吹替のクレジット原文は未確認",
+              "en": "Inferred from the Animax TV dub episode(s) 26 (CastingBank). Credit roll of the dubbed special edit not seen"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s49"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "wakuraba",
+          "person": "yu-yeong",
+          "role": "minor",
+          "note": {
+            "original_lang": "ko",
+            "original": "애니맥스 TV 더빙판 26화 배역(캐스팅뱅크)에서 추정. 극장판(특별편집판) 더빙 크레딧 원문 미확인",
+            "translations": {
+              "ja": "アニマックスTV吹替版第26話の配役（CastingBank）から推定。特別編集版吹替のクレジット原文は未確認",
+              "en": "Inferred from the Animax TV dub episode(s) 26 (CastingBank). Credit roll of the dubbed special edit not seen"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s49"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "mukago",
+          "person": "jeong-ui-jin",
+          "role": "minor",
+          "note": {
+            "original_lang": "ko",
+            "original": "애니맥스 TV 더빙판 26화 배역(캐스팅뱅크)에서 추정. 극장판(특별편집판) 더빙 크레딧 원문 미확인",
+            "translations": {
+              "ja": "アニマックスTV吹替版第26話の配役（CastingBank）から推定。特別編集版吹替のクレジット原文は未確認",
+              "en": "Inferred from the Animax TV dub episode(s) 26 (CastingBank). Credit roll of the dubbed special edit not seen"
+            },
+            "translated": [
+              "ja",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s49"
+          ],
+          "verification": "unverified"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83_(%E3%82%A2%E3%83%8B%E3%83%A1)",
+      "title": "鬼滅の刃 (アニメ) - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://eiga.com/movie/103533/",
+      "title": "「鬼滅の刃」特別編集版　柱合会議・蝶屋敷編 : 作品情報・声優・キャスト・あらすじ - 映画.com",
+      "publisher": "news",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s3",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B7%80%EB%A9%B8%EC%9D%98_%EC%B9%BC%EB%82%A0%3A_%EC%A3%BC%ED%95%A9%ED%9A%8C%EC%9D%98%C2%B7%EB%82%98%EB%B9%84%EC%A0%80%ED%83%9D_%ED%8E%B8",
+      "title": "귀멸의 칼날: 주합회의·나비저택 편 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s4",
+      "url": "https://kimetsu.com/anime/risshihen/story/?story=22",
+      "title": "ストーリー | アニメ「鬼滅の刃」竈門炭治郎 立志編 公式サイト",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s5",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8A%B1%E6%B1%9F%E5%A4%8F%E6%A8%B9",
+      "title": "花江夏樹 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s6",
+      "url": "https://kimetsu.com/anime/risshihen/story/?story=23",
+      "title": "ストーリー | アニメ「鬼滅の刃」竈門炭治郎 立志編 公式サイト",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s7",
+      "url": "https://kimetsu.com/anime/risshihen/story/?story=24",
+      "title": "ストーリー | アニメ「鬼滅の刃」竈門炭治郎 立志編 公式サイト",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s8",
+      "url": "https://kimetsu.com/anime/risshihen/story/?story=25",
+      "title": "ストーリー | アニメ「鬼滅の刃」竈門炭治郎 立志編 公式サイト",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s9",
+      "url": "https://kimetsu.com/anime/risshihen/story/?story=26",
+      "title": "ストーリー | アニメ「鬼滅の刃」竈門炭治郎 立志編 公式サイト",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s10",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AC%BC%E9%A0%AD%E6%98%8E%E9%87%8C",
+      "title": "鬼頭明里 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s11",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E9%87%8E%E7%B4%98",
+      "title": "下野紘 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s12",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B2%A1%E7%A6%8E%E4%B8%9E",
+      "title": "松岡禎丞 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s13",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AB%BB%E4%BA%95%E5%AD%9D%E5%AE%8F",
+      "title": "櫻井孝宏 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s14",
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%87%8E%E8%81%A1",
+      "title": "日野聡 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s15",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E8%A5%BF%E5%85%8B%E5%B9%B8",
+      "title": "小西克幸 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s16",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B2%B3%E8%A5%BF%E5%81%A5%E5%90%BE",
+      "title": "河西健吾 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s17",
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%A9%E8%A6%8B%E6%B2%99%E7%B9%94",
+      "title": "早見沙織 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s18",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8A%B1%E6%BE%A4%E9%A6%99%E8%8F%9C",
+      "title": "花澤香菜 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s19",
+      "url": "https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9D%91%E5%81%A5%E4%B8%80",
+      "title": "鈴村健一 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s20",
+      "url": "https://ja.wikipedia.org/wiki/%E9%96%A2%E6%99%BA%E4%B8%80",
+      "title": "関智一 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s21",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%89%E7%94%B0%E6%99%BA%E5%92%8C",
+      "title": "杉田智和 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s22",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%A1%9A%E8%8A%B3%E5%BF%A0",
+      "title": "大塚芳忠 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s23",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E5%B7%9D%E6%99%BA%E4%B9%8B",
+      "title": "森川智之 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s24",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8A%B1%E5%AE%88%E3%82%86%E3%81%BF%E3%82%8A",
+      "title": "花守ゆみり - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s25",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%BE%A4%E4%BA%9C%E6%9D%8E",
+      "title": "小澤亜李 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s26",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E5%B7%9D%E6%85%8E",
+      "title": "古川慎 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s27",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%9F%8E%E6%97%A5%E6%B2%99%E5%AD%90",
+      "title": "東城日沙子 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s28",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%8E%9F%E8%A3%95%E7%90%86",
+      "title": "江原裕理 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s29",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E4%B8%8B%E4%B8%83%E6%B5%B7",
+      "title": "山下七海 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s30",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E7%94%B0%E5%B9%B8%E5%AD%A3",
+      "title": "宮田幸季 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s31",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B5%AA%E5%B7%9D%E5%A4%A7%E8%BC%94",
+      "title": "浪川大輔 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s32",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9C%9F%E9%87%8E%E3%81%82%E3%82%86%E3%81%BF",
+      "title": "真野あゆみ - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s33",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A1%91%E5%8E%9F%E7%94%B1%E6%B0%97",
+      "title": "桑原由気 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s34",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E7%94%B0%E9%BA%97%E5%A5%88",
+      "title": "上田麗奈 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s35",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8C%85%E9%87%8E%E6%84%9B%E8%A1%A3",
+      "title": "茅野愛衣 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s36",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%B4%8E%E3%81%9F%E3%81%8F%E3%81%BF",
+      "title": "山崎たくみ - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s37",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E8%A6%8B%E8%88%9E%E8%8F%9C%E9%A6%99",
+      "title": "石見舞菜香 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s38",
+      "url": "https://ja.wikipedia.org/wiki/%E7%AB%B9%E6%9C%AC%E8%8B%B1%E5%8F%B2",
+      "title": "竹本英史 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s39",
+      "url": "https://ja.wikipedia.org/wiki/%E9%96%A2%E4%BF%8A%E5%BD%A6",
+      "title": "関俊彦 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s40",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%B7%9D%E5%A4%A7%E8%BC%94",
+      "title": "平川大輔 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s41",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A5%A0%E5%A4%A7%E5%85%B8",
+      "title": "楠大典 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s42",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BF%9D%E5%BF%97%E7%B7%8F%E4%B8%80%E6%9C%97",
+      "title": "保志総一朗 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s43",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A4%8D%E7%94%B0%E4%BD%B3%E5%A5%88",
+      "title": "植田佳奈 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s44",
+      "url": "https://ja.wikipedia.org/wiki/KENN",
+      "title": "KENN - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s45",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%A9%8B%E4%BC%B8%E4%B9%9F",
+      "title": "高橋伸也 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s46",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%A9%8B%E4%BC%B8%E4%B9%9F_(%E5%A3%B0%E5%84%AA)",
+      "title": "高橋伸也 (声優) - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s47",
+      "url": "https://www.animaxtv.co.kr/content/776",
+      "title": "극장판 귀멸의 칼날: 주합회의·나비저택 편(더빙) - 애니맥스",
+      "publisher": "broadcaster",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s48",
+      "url": "https://www.tving.com/contents/M000378734",
+      "title": "극장판 귀멸의 칼날: 주합회의·나비저택 편 | TVING",
+      "publisher": "other",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s49",
+      "url": "https://m.cafe.daum.net/CastingBank/54Pt/203",
+      "title": "[애니맥스] '귀멸의 칼날' 성우진 - 첫 만남과 어울림의 장 - 캐스팅뱅크[한국성우DB카페]",
+      "publisher": "other",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

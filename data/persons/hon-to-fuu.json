@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "hon-to-fuu",
+  "slug": "kaede-hondo",
+  "name": {
+    "original_lang": "ja",
+    "original": "本渡楓",
+    "latin": "Kaede Hondo",
+    "aliases": {
+      "ja": [
+        "ほんどかえで"
+      ],
+      "ko": [
+        "혼도 카에데"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1996-03-06",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E6%B8%A1%E6%A5%93",
+    "en": "https://en.wikipedia.org/wiki/Kaede_Hondo",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%98%BC%EB%8F%84_%EC%B9%B4%EC%97%90%EB%8D%B0"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E6%B8%A1%E6%A5%93",
+      "title": "本渡楓 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

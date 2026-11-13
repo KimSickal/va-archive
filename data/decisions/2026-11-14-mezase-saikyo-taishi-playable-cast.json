@@ -1,0 +1,16 @@
+{
+  "$schema": "../schema/decision.schema.json",
+  "id": "2026-11-14-mezase-saikyo-taishi-playable-cast",
+  "date": "2026-11-14",
+  "kind": "field_value",
+  "subjects": [
+    { "kind": "work", "id": "kimetsu-no-yaiba-game-mezase-saikyo-taishi", "field": "/versions/0/credits" },
+    { "kind": "character", "id": "kimetsu-no-yaiba/shinobu-kocho" }
+  ],
+  "decision": "Famitsu 리뷰(s6)를 출처로 플레이어블 9명(炭治郎/花江夏樹, 善逸/下野紘, 煉獄/日野聡, 宇髄/小西克幸, 甘露寺/花澤香菜, 時透/河西健吾, 悲鳴嶼/杉田智和, 伊黒/鈴村健一, 不死川実弥/関智一)의 크레딧을 추가하고 伊之助·冨岡 크레딧에 s6을 추가. 胡蝶しのぶ는 크레딧을 추가하지 않음.",
+  "rationale": "famitsu.com/article/202404/2933(2024-04-22 리뷰)을 직접 확인: 'プレイアブルキャラクター（敬称略）' 목록에 11명이 '（声：…）' 표기로 실려 있고 모두 TV 시리즈 성우와 일치. 기사는 12명이라고 하지만 12번째 캐릭터와 성우는 본문에 없음. 胡蝶しのぶ가 이 게임에서 플레이어블이며 早見沙織가 연기했다는 출처를 1회 검색했으나 찾지 못함(검색 결과는 ヒノカミ血風譚 정보뿐). 출처 없는 크레딧은 추정으로도 넣지 않음.",
+  "evidence": [
+    { "url": "https://www.famitsu.com/article/202404/2933", "quote": "竈門炭治郎（声：花江夏樹）… 我妻善逸（声：下野紘）… 煉獄杏寿郎（※2）（声：日野 聡）… 宇髄天元（声：小西克幸）… 甘露寺蜜璃（声：花澤香菜）… 時透無一郎（声：河西健吾）… 悲鳴嶼行冥（声：杉田智和）… 伊黒小芭内（声：鈴村健一）… 不死川実弥（声：関智一）", "tier": 2 }
+  ],
+  "decided_by": "mediator"
+}

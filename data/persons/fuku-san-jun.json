@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "fuku-san-jun",
+  "slug": "jun-fukuyama",
+  "name": {
+    "original_lang": "ja",
+    "original": "福山潤",
+    "latin": "Jun Fukuyama",
+    "aliases": {
+      "ja": [
+        "ふくやまじゅん"
+      ],
+      "ko": [
+        "후쿠야마 준"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1978-11-26",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B1%B1%E6%BD%A4",
+    "en": "https://en.wikipedia.org/wiki/Jun_Fukuyama",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%9B%84%EC%BF%A0%EC%95%BC%EB%A7%88_%EC%A4%80"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B1%B1%E6%BD%A4",
+      "title": "福山潤 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

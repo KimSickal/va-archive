@@ -1,0 +1,42 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ten-kai-yuu-ri-na",
+  "slug": "yurina-amami",
+  "name": {
+    "original_lang": "ja",
+    "original": "天海由梨奈",
+    "latin": "Yurina Amami",
+    "aliases": {
+      "ja": [
+        "あまみゆりな"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1996-07-07",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%B5%B7%E7%94%B1%E6%A2%A8%E5%A5%88",
+    "en": "https://en.wikipedia.org/wiki/Yurina_Amami"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%B5%B7%E7%94%B1%E6%A2%A8%E5%A5%88",
+      "title": "天海由梨奈 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

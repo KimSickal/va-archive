@@ -1,0 +1,35 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "i-sang-ho",
+  "slug": "lee-sang-ho",
+  "name": {
+    "original_lang": "ko",
+    "original": "이상호",
+    "latin": "Lee Sang-ho"
+  },
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1990-10-02",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%83%81%ED%98%B8_(%EC%84%B1%EC%9A%B0)"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%83%81%ED%98%B8_(%EC%84%B1%EC%9A%B0)",
+      "title": "이상호 (성우) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

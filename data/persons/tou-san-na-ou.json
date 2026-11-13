@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "tou-san-na-ou",
+  "slug": "nao-toyama",
+  "name": {
+    "original_lang": "ja",
+    "original": "東山奈央",
+    "latin": "Nao Toyama",
+    "aliases": {
+      "ja": [
+        "とうやまなお"
+      ],
+      "ko": [
+        "토야마 나오"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1992-03-11",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%B1%B1%E5%A5%88%E5%A4%AE",
+    "en": "https://en.wikipedia.org/wiki/Nao_T%C5%8Dyama",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%86%A0%EC%95%BC%EB%A7%88_%EB%82%98%EC%98%A4_(%EC%84%B1%EC%9A%B0)"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%B1%B1%E5%A5%88%E5%A4%AE",
+      "title": "東山奈央 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

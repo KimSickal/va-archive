@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "san-ka-shichi-kai",
+  "slug": "nanami-yamashita",
+  "name": {
+    "original_lang": "ja",
+    "original": "山下七海",
+    "latin": "Nanami Yamashita",
+    "aliases": {
+      "ja": [
+        "やましたななみ"
+      ],
+      "ko": [
+        "야마시타 나나미"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1995-07-19",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E4%B8%8B%E4%B8%83%E6%B5%B7",
+    "en": "https://en.wikipedia.org/wiki/Nanami_Yamashita",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%95%BC%EB%A7%88%EC%8B%9C%ED%83%80_%EB%82%98%EB%82%98%EB%AF%B8"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E4%B8%8B%E4%B8%83%E6%B5%B7",
+      "title": "山下七海 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shu-tou-shi-na",
+  "slug": "yukina-shuto",
+  "name": {
+    "original_lang": "ja",
+    "original": "首藤志奈",
+    "latin": "Yukina Shuto",
+    "aliases": {
+      "ja": [
+        "しゅとうゆきな"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%A6%96%E8%97%A4%E5%BF%97%E5%A5%88",
+    "en": "https://en.wikipedia.org/wiki/Yukina_Shuto"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%A6%96%E8%97%A4%E5%BF%97%E5%A5%88",
+      "title": "首藤志奈 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

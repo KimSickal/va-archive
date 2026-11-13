@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "a-za-jou-you-hei",
+  "slug": "yohei-azakami",
+  "name": {
+    "original_lang": "ja",
+    "original": "阿座上洋平",
+    "latin": "Yohei Azakami",
+    "aliases": {
+      "ja": [
+        "あざかみようへい"
+      ],
+      "ko": [
+        "아자카미 요헤이"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1991-08-07",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%98%BF%E5%BA%A7%E4%B8%8A%E6%B4%8B%E5%B9%B3",
+    "en": "https://en.wikipedia.org/wiki/Y%C5%8Dhei_Azakami",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%9E%90%EC%B9%B4%EB%AF%B8_%EC%9A%94%ED%97%A4%EC%9D%B4"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%98%BF%E5%BA%A7%E4%B8%8A%E6%B4%8B%E5%B9%B3",
+      "title": "阿座上洋平 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "i-i-ro",
+  "slug": "lee-i-ro",
+  "name": {
+    "original_lang": "ko",
+    "original": "이이로",
+    "latin": "Lee I-ro"
+  },
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1999-10-21",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%9D%B4%EB%A1%9C"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%9D%B4%EB%A1%9C",
+      "title": "이이로 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

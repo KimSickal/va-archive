@@ -1,0 +1,35 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "gim-yun-gi",
+  "slug": "kim-yun-gi",
+  "name": {
+    "original_lang": "ko",
+    "original": "김윤기",
+    "latin": "Kim Yun-gi"
+  },
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1996-11-23",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%9C%A4%EA%B8%B0_(%EC%84%B1%EC%9A%B0)"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%9C%A4%EA%B8%B0_(%EC%84%B1%EC%9A%B0)",
+      "title": "김윤기 (성우) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

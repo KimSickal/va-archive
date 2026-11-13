@@ -1,0 +1,35 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "gim-ji-yul",
+  "slug": "kim-ji-yul",
+  "name": {
+    "original_lang": "ko",
+    "original": "김지율",
+    "latin": "Kim Ji-yul"
+  },
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1990-07-29",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%A7%80%EC%9C%A8_(%EC%84%B1%EC%9A%B0)"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%A7%80%EC%9C%A8_(%EC%84%B1%EC%9A%B0)",
+      "title": "김지율 (성우) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

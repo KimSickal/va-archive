@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kutsu-kou-yuu-i",
+  "slug": "yui-horie",
+  "name": {
+    "original_lang": "ja",
+    "original": "堀江由衣",
+    "latin": "Yui Horie",
+    "aliases": {
+      "ja": [
+        "ほりえゆい"
+      ],
+      "ko": [
+        "호리에 유이"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1976-09-20",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%A0%80%E6%B1%9F%E7%94%B1%E8%A1%A3",
+    "en": "https://en.wikipedia.org/wiki/Yui_Horie",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%98%B8%EB%A6%AC%EC%97%90_%EC%9C%A0%EC%9D%B4"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A0%80%E6%B1%9F%E7%94%B1%E8%A1%A3",
+      "title": "堀江由衣 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

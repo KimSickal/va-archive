@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "chuu-bi-ryuu-sei",
+  "slug": "ryusei-nakao",
+  "name": {
+    "original_lang": "ja",
+    "original": "中尾隆聖",
+    "latin": "Ryusei Nakao",
+    "aliases": {
+      "ja": [
+        "なかおりゅうせい"
+      ],
+      "ko": [
+        "나카오 류세이"
+      ]
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1951-02-05",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B0%BE%E9%9A%86%E8%81%96",
+    "en": "https://en.wikipedia.org/wiki/Ry%C5%ABsei_Nakao",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%82%98%EC%B9%B4%EC%98%A4_%EB%A5%98%EC%84%B8%EC%9D%B4"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B0%BE%E9%9A%86%E8%81%96",
+      "title": "中尾隆聖 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

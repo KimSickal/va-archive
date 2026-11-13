@@ -1,0 +1,35 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "gu-ja-hyeong",
+  "slug": "koo-ja-hyeong",
+  "name": {
+    "original_lang": "ko",
+    "original": "구자형",
+    "latin": "Koo Ja-hyeong"
+  },
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1965-03-21",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EC%9E%90%ED%98%95"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EC%9E%90%ED%98%95",
+      "title": "구자형 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

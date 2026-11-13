@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kou-gen-yuu-ri",
+  "slug": "yuri-ehara",
+  "name": {
+    "original_lang": "ja",
+    "original": "江原裕理",
+    "latin": "Yuri Ehara",
+    "aliases": {
+      "ja": [
+        "えはらゆり"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1997-08-22",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%8E%9F%E8%A3%95%E7%90%86"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%8E%9F%E8%A3%95%E7%90%86",
+      "title": "江原裕理 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "san-kon-ki",
+  "slug": "aya-yamane",
+  "name": {
+    "original_lang": "ja",
+    "original": "山根綺",
+    "latin": "Aya Yamane",
+    "aliases": {
+      "ja": [
+        "やまねあや"
+      ],
+      "ko": [
+        "야마네 아야"
+      ]
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1997-02-04",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%A0%B9%E7%B6%BA",
+    "en": "https://en.wikipedia.org/wiki/Aya_Yamane",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%95%BC%EB%A7%88%EB%84%A4_%EC%95%84%EC%95%BC"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%A0%B9%E7%B6%BA",
+      "title": "山根綺 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-14"
+    },
+    "skill_version": "0.5.1"
+  }
+}
