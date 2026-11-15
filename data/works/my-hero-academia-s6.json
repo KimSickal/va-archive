@@ -8,14 +8,12 @@
     "original": "僕のヒーローアカデミア（第6期）",
     "latin": "Boku no Hero Academia (Dai 6-ki)",
     "official": {
-      "en": "My Hero Academia Season 6"
+      "en": "My Hero Academia Season 6",
+      "ko": "나의 히어로 아카데미아 6기"
     },
     "aliases": {
       "ja": [
         "ヒロアカ 6期"
-      ],
-      "ko": [
-        "나의 히어로 아카데미아 6기"
       ]
     }
   },
@@ -3027,6 +3025,14 @@
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s115",
+      "url": "https://pedia.watcha.com/ko/contents/tR4JazL",
+      "title": "나의 히어로 아카데미아 6기 - 왓챠피디아",
+      "publisher": "other",
+      "tier": 2,
+      "accessed_at": "2026-11-16"
     }
   ],
   "meta": {

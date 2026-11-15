@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "권다예",
-    "latin": "Kwon Da-ye"
+    "latin": "Kwon Da-ye",
+    "translated": {
+      "en": "Da-ye Kwon",
+      "ja": "クォン・ダイェ"
+    }
   },
   "nationality": [
     "KR"

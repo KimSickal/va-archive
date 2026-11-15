@@ -4,7 +4,11 @@
   "slug": "gwak-gyu-mi",
   "name": {
     "original_lang": "ko",
-    "original": "곽규미"
+    "original": "곽규미",
+    "translated": {
+      "en": "Gyu-mi Kwak",
+      "ja": "クァク・ギュミ"
+    }
   },
   "gender": "female",
   "birth": "1992-03-06",

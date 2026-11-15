@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "조현정",
-    "latin": "Jo Hyeon-jeong"
+    "latin": "Jo Hyeon-jeong",
+    "translated": {
+      "en": "Hyeon-jeong Jo",
+      "ja": "チョ・ヒョンジョン"
+    }
   },
   "nationality": [
     "KR"

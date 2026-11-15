@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "방성준",
-    "latin": "Bang Seong-jun"
+    "latin": "Bang Seong-jun",
+    "translated": {
+      "en": "Seong-jun Bang",
+      "ja": "パン・ソンジュン"
+    }
   },
   "gender": "male",
   "nationality": [

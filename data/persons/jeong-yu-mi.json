@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "정유미",
-    "latin": "Jung Yu-mi"
+    "latin": "Jung Yu-mi",
+    "translated": {
+      "en": "Yu-mi Jung",
+      "ja": "チョン・ユミ"
+    }
   },
   "sources": [
     {

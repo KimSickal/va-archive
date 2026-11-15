@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "임채빈",
-    "latin": "Lim Chae-bin"
+    "latin": "Lim Chae-bin",
+    "translated": {
+      "en": "Chae-bin Lim",
+      "ja": "イム・チェビン"
+    }
   },
   "nationality": [
     "KR"

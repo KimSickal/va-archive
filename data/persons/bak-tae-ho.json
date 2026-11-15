@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "박태호",
-    "latin": "Park Tae-ho"
+    "latin": "Park Tae-ho",
+    "translated": {
+      "en": "Tae-ho Park",
+      "ja": "パク・テホ"
+    }
   },
   "gender": "male",
   "nationality": [

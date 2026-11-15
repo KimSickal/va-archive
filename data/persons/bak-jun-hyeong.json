@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "박준형",
-    "latin": "Park Jun-hyeong"
+    "latin": "Park Jun-hyeong",
+    "translated": {
+      "en": "Jun-hyeong Park",
+      "ja": "パク・ジュンヒョン"
+    }
   },
   "nationality": [
     "KR"

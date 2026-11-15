@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김혜성",
-    "latin": "Kim Hye-seong"
+    "latin": "Kim Hye-seong",
+    "translated": {
+      "en": "Hye-seong Kim",
+      "ja": "キム・ヘソン"
+    }
   },
   "nationality": [
     "KR"

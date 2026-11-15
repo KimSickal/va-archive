@@ -8,7 +8,8 @@
     "original": "劇場版総集編 呪術廻戦 懐玉・玉折",
     "latin": "Gekijoban Soshuhen Jujutsu Kaisen Kaigyoku / Gyokusetsu",
     "official": {
-      "en": "JUJUTSU KAISEN: Hidden Inventory / Premature Death – The Movie"
+      "en": "JUJUTSU KAISEN: Hidden Inventory / Premature Death – The Movie",
+      "ko": "극장판 주술회전: 회옥·옥절"
     }
   },
   "order": 9,
@@ -94,6 +95,14 @@
       "publisher": "ann",
       "tier": 2,
       "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EC%A3%BC%EC%88%A0%ED%9A%8C%EC%A0%84",
+      "title": "영화정보 검색 (주술회전) - KOBIS 영화관입장권통합전산망",
+      "publisher": "other",
+      "tier": 1,
+      "accessed_at": "2026-11-16"
     }
   ],
   "meta": {

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "서반석",
-    "latin": "Seo Ban-seok"
+    "latin": "Seo Ban-seok",
+    "translated": {
+      "en": "Ban-seok Seo",
+      "ja": "ソ・バンソク"
+    }
   },
   "nationality": [
     "KR"

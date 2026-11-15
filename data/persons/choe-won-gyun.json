@@ -4,7 +4,11 @@
   "slug": "choe-won-gyun",
   "name": {
     "original_lang": "ko",
-    "original": "최원균"
+    "original": "최원균",
+    "translated": {
+      "en": "Won-gyun Choi",
+      "ja": "チェ・ウォンギュン"
+    }
   },
   "sources": [
     {

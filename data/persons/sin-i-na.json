@@ -4,7 +4,11 @@
   "slug": "sin-i-na",
   "name": {
     "original_lang": "ko",
-    "original": "신이나"
+    "original": "신이나",
+    "translated": {
+      "en": "I-na Shin",
+      "ja": "シン・イナ"
+    }
   },
   "sources": [
     {

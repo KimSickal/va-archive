@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김윤채",
-    "latin": "Kim Yun-chae"
+    "latin": "Kim Yun-chae",
+    "translated": {
+      "en": "Yun-chae Kim",
+      "ja": "キム・ユンチェ"
+    }
   },
   "nationality": [
     "KR"

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "서원석",
-    "latin": "Seo Won-seok"
+    "latin": "Seo Won-seok",
+    "translated": {
+      "en": "Won-seok Seo",
+      "ja": "ソ・ウォンソク"
+    }
   },
   "gender": "male",
   "nationality": [

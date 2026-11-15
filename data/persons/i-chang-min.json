@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이창민",
-    "latin": "Lee Chang-min"
+    "latin": "Lee Chang-min",
+    "translated": {
+      "en": "Chang-min Lee",
+      "ja": "イ・チャンミン"
+    }
   },
   "gender": "male",
   "nationality": [

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "민응식",
-    "latin": "Min Eung-sik"
+    "latin": "Min Eung-sik",
+    "translated": {
+      "en": "Eung-sik Min",
+      "ja": "ミン・ウンシク"
+    }
   },
   "nationality": [
     "KR"

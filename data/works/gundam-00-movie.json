@@ -8,7 +8,8 @@
     "original": "劇場版 機動戦士ガンダム00 -A wakening of the Trailblazer-",
     "latin": "Gekijoban Kido Senshi Gundam Daburu O: A wakening of the Trailblazer",
     "official": {
-      "en": "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer"
+      "en": "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+      "ko": "극장판 기동전사 건담 더블오"
     },
     "aliases": {
       "ko": [
@@ -549,6 +550,14 @@
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s8",
+      "url": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EB%8D%94%EB%B8%94%EC%98%A4",
+      "title": "영화정보검색 - 더블오 | KOBIS 영화관입장권통합전산망",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-16"
     }
   ],
   "meta": {

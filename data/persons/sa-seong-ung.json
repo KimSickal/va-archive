@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "사성웅",
-    "latin": "Sa Seong-ung"
+    "latin": "Sa Seong-ung",
+    "translated": {
+      "en": "Seong-ung Sa",
+      "ja": "サ・ソンウン"
+    }
   },
   "nationality": [
     "KR"

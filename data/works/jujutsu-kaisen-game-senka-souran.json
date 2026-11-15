@@ -8,7 +8,8 @@
     "original": "呪術廻戦 戦華双乱",
     "latin": "Jujutsu Kaisen Senka Soran",
     "official": {
-      "en": "Jujutsu Kaisen Cursed Clash"
+      "en": "Jujutsu Kaisen Cursed Clash",
+      "ko": "주술회전 전화향명"
     },
     "aliases": {
       "ja": [
@@ -370,6 +371,14 @@
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s37",
+      "url": "https://www.playstation.com/ko-kr/games/jujutsu-kaisen-cursed-clash/",
+      "title": "주술회전 전화향명 - PS4 & PS5 게임 | PlayStation (한국)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-16"
     }
   ],
   "meta": {

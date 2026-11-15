@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김연우",
-    "latin": "Kim Yeon-u"
+    "latin": "Kim Yeon-u",
+    "translated": {
+      "en": "Yeon-u Kim",
+      "ja": "キム・ヨヌ"
+    }
   },
   "nationality": [
     "KR"

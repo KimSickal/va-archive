@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "소정환",
-    "latin": "So Jeong-hwan"
+    "latin": "So Jeong-hwan",
+    "translated": {
+      "en": "Jeong-hwan So",
+      "ja": "ソ・ジョンファン"
+    }
   },
   "nationality": [
     "KR"

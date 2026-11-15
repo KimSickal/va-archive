@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이현주",
-    "latin": "Lee Hyeon-ju"
+    "latin": "Lee Hyeon-ju",
+    "translated": {
+      "en": "Hyeon-ju Lee",
+      "ja": "イ・ヒョンジュ"
+    }
   },
   "nationality": [
     "KR"

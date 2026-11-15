@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "박시윤",
-    "latin": "Park Si-yun"
+    "latin": "Park Si-yun",
+    "translated": {
+      "en": "Si-yun Park",
+      "ja": "パク・シユン"
+    }
   },
   "nationality": [
     "KR"

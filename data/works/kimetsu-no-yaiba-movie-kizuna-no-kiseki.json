@@ -8,12 +8,8 @@
     "original": "「鬼滅の刃」絆の奇跡、そして柱稽古へ",
     "latin": "Kimetsu no Yaiba: Kizuna no Kiseki, Soshite Hashira Geiko e",
     "official": {
-      "en": "Demon Slayer: Kimetsu no Yaiba – To the Hashira Training"
-    },
-    "aliases": {
-      "ko": [
-        "귀멸의 칼날: 인연의 기적, 그리고 합동 강화 훈련으로"
-      ]
+      "en": "Demon Slayer: Kimetsu no Yaiba – To the Hashira Training",
+      "ko": "귀멸의 칼날: 인연의 기적, 그리고 합동 강화 훈련으로"
     }
   },
   "order": 20,
@@ -1015,6 +1011,14 @@
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s38",
+      "url": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EA%B7%80%EB%A9%B8%EC%9D%98",
+      "title": "영화정보 검색 (귀멸의) - KOBIS 영화관입장권통합전산망",
+      "publisher": "other",
+      "tier": 1,
+      "accessed_at": "2026-11-16"
     }
   ],
   "meta": {

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이장원",
-    "latin": "Lee Jang-won"
+    "latin": "Lee Jang-won",
+    "translated": {
+      "en": "Jang-won Lee",
+      "ja": "イ・ジャンウォン"
+    }
   },
   "nationality": [
     "KR"

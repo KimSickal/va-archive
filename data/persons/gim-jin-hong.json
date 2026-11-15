@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김진홍",
-    "latin": "Kim Jin-hong"
+    "latin": "Kim Jin-hong",
+    "translated": {
+      "en": "Jin-hong Kim",
+      "ja": "キム・ジンホン"
+    }
   },
   "gender": "male",
   "nationality": [

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ja",
     "original": "Lynn",
-    "latin": "Lynn"
+    "latin": "Lynn",
+    "translated": {
+      "en": "Lynn",
+      "ko": "린"
+    }
   },
   "gender": "female",
   "nationality": [

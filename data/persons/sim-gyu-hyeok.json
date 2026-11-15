@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "심규혁",
-    "latin": "Shim Gyu-hyeok"
+    "latin": "Shim Gyu-hyeok",
+    "translated": {
+      "en": "Gyu-hyeok Shim",
+      "ja": "シム・ギュヒョク"
+    }
   },
   "nationality": [
     "KR"

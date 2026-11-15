@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "강호철",
-    "latin": "Kang Ho-cheol"
+    "latin": "Kang Ho-cheol",
+    "translated": {
+      "en": "Ho-cheol Kang",
+      "ja": "カン・ホチョル"
+    }
   },
   "nationality": [
     "KR"

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "최문자",
-    "latin": "Choi Mun-ja"
+    "latin": "Choi Mun-ja",
+    "translated": {
+      "en": "Mun-ja Choi",
+      "ja": "チェ・ムンジャ"
+    }
   },
   "nationality": [
     "KR"

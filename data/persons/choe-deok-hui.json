@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "최덕희",
-    "latin": "Choi Deok-hui"
+    "latin": "Choi Deok-hui",
+    "translated": {
+      "en": "Deok-hui Choi",
+      "ja": "チェ・ドクヒ"
+    }
   },
   "nationality": [
     "KR"

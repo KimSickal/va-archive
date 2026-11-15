@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이경태",
-    "latin": "Lee Gyeong-tae"
+    "latin": "Lee Gyeong-tae",
+    "translated": {
+      "en": "Gyeong-tae Lee",
+      "ja": "イ・ギョンテ"
+    }
   },
   "nationality": [
     "KR"

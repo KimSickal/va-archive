@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "최지훈",
-    "latin": "Choi Ji-hun"
+    "latin": "Choi Ji-hun",
+    "translated": {
+      "en": "Ji-hun Choi",
+      "ja": "チェ・ジフン"
+    }
   },
   "nationality": [
     "KR"

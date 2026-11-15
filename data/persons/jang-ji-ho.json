@@ -4,7 +4,11 @@
   "slug": "jang-ji-ho",
   "name": {
     "original_lang": "ko",
-    "original": "장지호"
+    "original": "장지호",
+    "translated": {
+      "en": "Ji-ho Jang",
+      "ja": "チャン・ジホ"
+    }
   },
   "sources": [
     {

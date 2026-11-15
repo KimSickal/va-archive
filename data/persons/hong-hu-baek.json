@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "홍후백",
-    "latin": "Hong Hu-baek"
+    "latin": "Hong Hu-baek",
+    "translated": {
+      "en": "Hu-baek Hong",
+      "ja": "ホン・フベク"
+    }
   },
   "sources": [
     {

@@ -4,7 +4,11 @@
   "slug": "bak-hye-jin",
   "name": {
     "original_lang": "ko",
-    "original": "박혜진"
+    "original": "박혜진",
+    "translated": {
+      "en": "Hye-jin Park",
+      "ja": "パク・ヘジン"
+    }
   },
   "sources": [
     {

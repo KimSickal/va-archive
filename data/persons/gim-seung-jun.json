@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김승준",
-    "latin": "Kim Seung-jun"
+    "latin": "Kim Seung-jun",
+    "translated": {
+      "en": "Seung-jun Kim",
+      "ja": "キム・スンジュン"
+    }
   },
   "nationality": [
     "KR"

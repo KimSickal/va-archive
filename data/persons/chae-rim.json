@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "채림",
-    "latin": "Chaerim"
+    "latin": "Chaerim",
+    "translated": {
+      "en": "Chaerim",
+      "ja": "チェリム"
+    }
   },
   "nationality": [
     "KR"

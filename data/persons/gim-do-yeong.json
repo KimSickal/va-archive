@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김도영",
-    "latin": "Kim Do-yeong"
+    "latin": "Kim Do-yeong",
+    "translated": {
+      "en": "Do-yeong Kim",
+      "ja": "キム・ドヨン"
+    }
   },
   "nationality": [
     "KR"

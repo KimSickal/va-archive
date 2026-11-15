@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "변현우",
-    "latin": "Byun Hyeon-u"
+    "latin": "Byun Hyeon-u",
+    "translated": {
+      "en": "Hyeon-u Byun",
+      "ja": "ピョン・ヒョヌ"
+    }
   },
   "nationality": [
     "KR"

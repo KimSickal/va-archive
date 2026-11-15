@@ -4,7 +4,11 @@
   "slug": "bi-ju-eon",
   "name": {
     "original_lang": "ko",
-    "original": "비주언"
+    "original": "비주언",
+    "translated": {
+      "en": "Ju-eon Bi",
+      "ja": "ピ・ジュオン"
+    }
   },
   "gender": "female",
   "birth": "1989-12-14",

@@ -8,14 +8,12 @@
     "original": "僕のヒーローアカデミア（第3期）",
     "latin": "Boku no Hero Academia (Dai 3-ki)",
     "official": {
-      "en": "My Hero Academia Season 3"
+      "en": "My Hero Academia Season 3",
+      "ko": "나의 히어로 아카데미아 3기"
     },
     "aliases": {
       "ja": [
         "ヒロアカ 3期"
-      ],
-      "ko": [
-        "나의 히어로 아카데미아 3기"
       ]
     }
   },
@@ -2620,6 +2618,14 @@
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s106",
+      "url": "https://laftel.net/item/38962/%28%EB%8D%94%EB%B9%99%29-%EB%82%98%EC%9D%98-%ED%9E%88%EC%96%B4%EB%A1%9C-%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%EC%95%84-3%EA%B8%B0",
+      "title": "(더빙) 나의 히어로 아카데미아 3기 - 라프텔",
+      "publisher": "broadcaster",
+      "tier": 1,
+      "accessed_at": "2026-11-16"
     }
   ],
   "meta": {

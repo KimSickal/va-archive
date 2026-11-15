@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "원종준",
-    "latin": "Won Jong-jun"
+    "latin": "Won Jong-jun",
+    "translated": {
+      "en": "Jong-jun Won",
+      "ja": "ウォン・ジョンジュン"
+    }
   },
   "nationality": [
     "KR"

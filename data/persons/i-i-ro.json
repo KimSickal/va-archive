@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이이로",
-    "latin": "Lee I-ro"
+    "latin": "Lee I-ro",
+    "translated": {
+      "en": "I-ro Lee",
+      "ja": "イ・イロ"
+    }
   },
   "nationality": [
     "KR"

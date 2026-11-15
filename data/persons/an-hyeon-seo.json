@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "안현서",
-    "latin": "Ahn Hyeon-seo"
+    "latin": "Ahn Hyeon-seo",
+    "translated": {
+      "en": "Hyeon-seo Ahn",
+      "ja": "アン・ヒョンソ"
+    }
   },
   "gender": "female",
   "nationality": [

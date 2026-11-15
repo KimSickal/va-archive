@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이주승",
-    "latin": "Lee Ju-seung"
+    "latin": "Lee Ju-seung",
+    "translated": {
+      "en": "Ju-seung Lee",
+      "ja": "イ・ジュスン"
+    }
   },
   "nationality": [
     "KR"

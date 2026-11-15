@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "송하림",
-    "latin": "Song Ha-rim"
+    "latin": "Song Ha-rim",
+    "translated": {
+      "en": "Ha-rim Song",
+      "ja": "ソン・ハリム"
+    }
   },
   "nationality": [
     "KR"

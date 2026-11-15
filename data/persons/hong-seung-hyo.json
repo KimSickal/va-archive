@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "홍승효",
-    "latin": "Hong Seung-hyo"
+    "latin": "Hong Seung-hyo",
+    "translated": {
+      "en": "Seung-hyo Hong",
+      "ja": "ホン・スンヒョ"
+    }
   },
   "nationality": [
     "KR"

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "박희은",
-    "latin": "Park Hui-eun"
+    "latin": "Park Hui-eun",
+    "translated": {
+      "en": "Hui-eun Park",
+      "ja": "パク・ヒウン"
+    }
   },
   "sources": [
     {

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이세레나",
-    "latin": "Lee Se-re-na"
+    "latin": "Lee Se-re-na",
+    "translated": {
+      "en": "Se-re-na Lee",
+      "ja": "イ・セレナ"
+    }
   },
   "nationality": [
     "KR"

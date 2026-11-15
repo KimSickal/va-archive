@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김윤기",
-    "latin": "Kim Yun-gi"
+    "latin": "Kim Yun-gi",
+    "translated": {
+      "en": "Yun-gi Kim",
+      "ja": "キム・ユンギ"
+    }
   },
   "nationality": [
     "KR"

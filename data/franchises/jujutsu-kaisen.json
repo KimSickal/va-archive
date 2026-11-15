@@ -6,14 +6,12 @@
     "original": "呪術廻戦",
     "latin": "Jujutsu Kaisen",
     "official": {
-      "en": "Jujutsu Kaisen"
+      "en": "Jujutsu Kaisen",
+      "ko": "주술회전"
     },
     "aliases": {
       "ja": [
         "じゅじゅつかいせん"
-      ],
-      "ko": [
-        "주술회전"
       ]
     }
   },
@@ -235,6 +233,9 @@
           "ja": [
             "いたどりわすけ"
           ]
+        },
+        "translated": {
+          "ko": "이타도리 와스케"
         }
       },
       "first_appearance": {
@@ -449,6 +450,9 @@
           "ja": [
             "よしのなぎ"
           ]
+        },
+        "translated": {
+          "ko": "요시노 나기"
         }
       },
       "first_appearance": {
@@ -468,6 +472,9 @@
           "ja": [
             "がくがんじよしのぶ"
           ]
+        },
+        "translated": {
+          "ko": "가쿠간지 요시노부"
         }
       },
       "first_appearance": {
@@ -550,6 +557,10 @@
           "ja": [
             "かものりとしのはは"
           ]
+        },
+        "translated": {
+          "ko": "카모 노리토시의 어머니",
+          "en": "Noritoshi Kamo's Mother"
         }
       },
       "first_appearance": {
@@ -684,6 +695,9 @@
           "ja": [
             "ぜんいんなおびと"
           ]
+        },
+        "translated": {
+          "ko": "젠인 나오비토"
         }
       },
       "first_appearance": {
@@ -725,6 +739,9 @@
           "ja": [
             "いのたくま"
           ]
+        },
+        "translated": {
+          "ko": "이노 타쿠마"
         }
       },
       "first_appearance": {
@@ -744,6 +761,9 @@
           "ja": [
             "にったあかり"
           ]
+        },
+        "translated": {
+          "ko": "닛타 아카리"
         }
       },
       "first_appearance": {
@@ -785,6 +805,9 @@
           "ja": [
             "えそう"
           ]
+        },
+        "translated": {
+          "ko": "에소"
         }
       },
       "first_appearance": {
@@ -804,6 +827,9 @@
           "ja": [
             "けちず"
           ]
+        },
+        "translated": {
+          "ko": "케치즈"
         }
       },
       "first_appearance": {
@@ -823,6 +849,9 @@
           "ja": [
             "しげもはるた"
           ]
+        },
+        "translated": {
+          "ko": "시게모 하루타"
         }
       },
       "first_appearance": {
@@ -842,6 +871,9 @@
           "ja": [
             "くみやじゅうぞう"
           ]
+        },
+        "translated": {
+          "ko": "쿠미야 쥬조"
         }
       },
       "first_appearance": {
@@ -861,6 +893,9 @@
           "ja": [
             "たかだちゃん"
           ]
+        },
+        "translated": {
+          "ko": "타카다 짱"
         }
       },
       "first_appearance": {
@@ -877,6 +912,10 @@
           "ja": [
             "ぱんやのてんいん"
           ]
+        },
+        "translated": {
+          "ko": "빵집 점원",
+          "en": "Bakery Clerk"
         }
       },
       "first_appearance": {
@@ -894,6 +933,10 @@
           "ja": [
             "たかぎ"
           ]
+        },
+        "translated": {
+          "ko": "타카기",
+          "en": "Takagi"
         }
       },
       "first_appearance": {
@@ -910,6 +953,10 @@
           "ja": [
             "ささき"
           ]
+        },
+        "translated": {
+          "ko": "사사키 선배",
+          "en": "Sasaki-senpai"
         }
       },
       "first_appearance": {
@@ -926,6 +973,10 @@
           "ja": [
             "いぐち"
           ]
+        },
+        "translated": {
+          "ko": "이구치 선배",
+          "en": "Iguchi-senpai"
         }
       },
       "first_appearance": {
@@ -942,6 +993,10 @@
           "ja": [
             "せいとかいちょう"
           ]
+        },
+        "translated": {
+          "ko": "학생회장",
+          "en": "Student Council President"
         }
       },
       "first_appearance": {
@@ -959,6 +1014,10 @@
           "ja": [
             "せいと"
           ]
+        },
+        "translated": {
+          "ko": "학생",
+          "en": "Student"
         }
       },
       "first_appearance": {
@@ -976,6 +1035,10 @@
           "ja": [
             "しょうねん"
           ]
+        },
+        "translated": {
+          "ko": "소년",
+          "en": "Boy"
         }
       },
       "first_appearance": {
@@ -988,7 +1051,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ファン",
-        "latin": "Fan"
+        "latin": "Fan",
+        "translated": {
+          "ko": "팬",
+          "en": "Fan"
+        }
       },
       "first_appearance": {
         "work": "jujutsu-kaisen-s1"
@@ -1005,6 +1072,10 @@
           "ja": [
             "だんしせいと"
           ]
+        },
+        "translated": {
+          "ko": "남학생",
+          "en": "Male Student"
         }
       },
       "first_appearance": {
@@ -1022,6 +1093,10 @@
           "ja": [
             "いけざわ"
           ]
+        },
+        "translated": {
+          "ko": "이케자와",
+          "en": "Ikezawa"
         }
       },
       "first_appearance": {
@@ -1038,6 +1113,10 @@
           "ja": [
             "あいだ"
           ]
+        },
+        "translated": {
+          "ko": "아이다",
+          "en": "Aida"
         }
       },
       "first_appearance": {
@@ -1054,6 +1133,10 @@
           "ja": [
             "かんごし"
           ]
+        },
+        "translated": {
+          "ko": "간호사",
+          "en": "Nurse"
         }
       },
       "first_appearance": {
@@ -1071,6 +1154,10 @@
           "ja": [
             "おかざきただし"
           ]
+        },
+        "translated": {
+          "ko": "오카자키 타다시",
+          "en": "Tadashi Okazaki"
         }
       },
       "first_appearance": {
@@ -1082,7 +1169,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ギャル",
-        "latin": "Gyaru"
+        "latin": "Gyaru",
+        "translated": {
+          "ko": "갸루",
+          "en": "Gyaru"
+        }
       },
       "first_appearance": {
         "work": "jujutsu-kaisen-s1"
@@ -1099,6 +1190,10 @@
           "ja": [
             "おとこのこ"
           ]
+        },
+        "translated": {
+          "ko": "남자아이",
+          "en": "Boy"
         }
       },
       "first_appearance": {
@@ -1116,6 +1211,10 @@
           "ja": [
             "とっきゅうじゅれい"
           ]
+        },
+        "translated": {
+          "ko": "특급 주령",
+          "en": "Special Grade Curse"
         }
       },
       "first_appearance": {
@@ -1128,7 +1227,11 @@
       "name": {
         "original_lang": "ja",
         "original": "スカウト",
-        "latin": "Sukauto"
+        "latin": "Sukauto",
+        "translated": {
+          "ko": "스카우트",
+          "en": "Talent Scout"
+        }
       },
       "first_appearance": {
         "work": "jujutsu-kaisen-s1"
@@ -1145,6 +1248,10 @@
           "ja": [
             "かかりいん"
           ]
+        },
+        "translated": {
+          "ko": "직원",
+          "en": "Attendant"
         }
       },
       "first_appearance": {
@@ -1162,6 +1269,10 @@
           "ja": [
             "くもじゅれい"
           ]
+        },
+        "translated": {
+          "ko": "거미 주령",
+          "en": "Spider Curse"
         }
       },
       "first_appearance": {
@@ -1179,6 +1290,10 @@
           "ja": [
             "かねだ"
           ]
+        },
+        "translated": {
+          "ko": "카네다",
+          "en": "Kaneda"
         }
       },
       "first_appearance": {
@@ -1190,7 +1305,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ウェイトレス",
-        "latin": "Ueitoresu"
+        "latin": "Ueitoresu",
+        "translated": {
+          "ko": "웨이트리스",
+          "en": "Waitress"
+        }
       },
       "first_appearance": {
         "work": "jujutsu-kaisen-s1"
@@ -1207,6 +1326,10 @@
           "ja": [
             "てんいん"
           ]
+        },
+        "translated": {
+          "ko": "점원",
+          "en": "Clerk"
         }
       },
       "first_appearance": {
@@ -1224,6 +1347,10 @@
           "ja": [
             "きゃく"
           ]
+        },
+        "translated": {
+          "ko": "손님",
+          "en": "Customer"
         }
       },
       "first_appearance": {
@@ -1236,7 +1363,11 @@
       "name": {
         "original_lang": "ja",
         "original": "プロード",
-        "latin": "Purodo"
+        "latin": "Purodo",
+        "translated": {
+          "ko": "프로드",
+          "en": "Purodo"
+        }
       },
       "first_appearance": {
         "work": "jujutsu-kaisen-s1"
@@ -1247,7 +1378,11 @@
       "name": {
         "original_lang": "ja",
         "original": "サァーム",
-        "latin": "Saamu"
+        "latin": "Saamu",
+        "translated": {
+          "ko": "사아무",
+          "en": "Saamu"
+        }
       },
       "first_appearance": {
         "work": "jujutsu-kaisen-s1"
@@ -1263,6 +1398,10 @@
           "ja": [
             "さやま"
           ]
+        },
+        "translated": {
+          "ko": "사야마",
+          "en": "Sayama"
         }
       },
       "first_appearance": {
@@ -1279,6 +1418,10 @@
           "ja": [
             "にしむら"
           ]
+        },
+        "translated": {
+          "ko": "니시무라",
+          "en": "Nishimura"
         }
       },
       "first_appearance": {
@@ -1295,6 +1438,10 @@
           "ja": [
             "きょうきのいしゃ"
           ]
+        },
+        "translated": {
+          "ko": "광기의 의사",
+          "en": "Mad Doctor"
         }
       },
       "first_appearance": {
@@ -1312,6 +1459,10 @@
           "ja": [
             "こうはいけいじ"
           ]
+        },
+        "translated": {
+          "ko": "후배 형사",
+          "en": "Junior Detective"
         }
       },
       "first_appearance": {
@@ -1329,6 +1480,10 @@
           "ja": [
             "じゅうぎょういん"
           ]
+        },
+        "translated": {
+          "ko": "종업원",
+          "en": "Employee"
         }
       },
       "first_appearance": {
@@ -1341,7 +1496,11 @@
       "name": {
         "original_lang": "ja",
         "original": "つばさ",
-        "latin": "Tsubasa"
+        "latin": "Tsubasa",
+        "translated": {
+          "ko": "츠바사",
+          "en": "Tsubasa"
+        }
       },
       "first_appearance": {
         "work": "jujutsu-kaisen-s1"
@@ -1357,6 +1516,10 @@
           "ja": [
             "ほんだ"
           ]
+        },
+        "translated": {
+          "ko": "혼다",
+          "en": "Honda"
         }
       },
       "first_appearance": {
@@ -1373,6 +1536,10 @@
           "ja": [
             "ようとう"
           ]
+        },
+        "translated": {
+          "ko": "승두",
+          "en": "Fly Head"
         }
       },
       "first_appearance": {
@@ -1390,6 +1557,10 @@
           "ja": [
             "だんせい"
           ]
+        },
+        "translated": {
+          "ko": "남성",
+          "en": "Man"
         }
       },
       "first_appearance": {
@@ -1407,6 +1578,10 @@
           "ja": [
             "こうせんすたっふ"
           ]
+        },
+        "translated": {
+          "ko": "고전 스태프",
+          "en": "Jujutsu High Staff"
         }
       },
       "first_appearance": {
@@ -1424,6 +1599,10 @@
           "ja": [
             "てんちょう"
           ]
+        },
+        "translated": {
+          "ko": "점장",
+          "en": "Store Manager"
         }
       },
       "first_appearance": {
@@ -1441,6 +1620,10 @@
           "ja": [
             "せんぱいけいじ"
           ]
+        },
+        "translated": {
+          "ko": "선배 형사",
+          "en": "Senior Detective"
         }
       },
       "first_appearance": {
@@ -1458,6 +1641,10 @@
           "ja": [
             "こうちょう"
           ]
+        },
+        "translated": {
+          "ko": "교장",
+          "en": "Principal"
         }
       },
       "first_appearance": {
@@ -1475,6 +1662,10 @@
           "ja": [
             "すしやたいしょう"
           ]
+        },
+        "translated": {
+          "ko": "초밥집 주인",
+          "en": "Sushi Chef"
         }
       },
       "first_appearance": {
@@ -1492,6 +1683,10 @@
           "ja": [
             "そとむら"
           ]
+        },
+        "translated": {
+          "ko": "소토무라",
+          "en": "Sotomura"
         }
       },
       "first_appearance": {
@@ -1508,6 +1703,10 @@
           "ja": [
             "ゆうじん"
           ]
+        },
+        "translated": {
+          "ko": "친구",
+          "en": "Friend"
         }
       },
       "first_appearance": {
@@ -1525,6 +1724,10 @@
           "ja": [
             "いとう"
           ]
+        },
+        "translated": {
+          "ko": "이토",
+          "en": "Ito"
         }
       },
       "first_appearance": {
@@ -1541,6 +1744,10 @@
           "ja": [
             "るすでんさーびす"
           ]
+        },
+        "translated": {
+          "ko": "자동 응답 서비스",
+          "en": "Voicemail Service"
         }
       },
       "first_appearance": {
@@ -1553,7 +1760,11 @@
       "name": {
         "original_lang": "ja",
         "original": "たかしくん",
-        "latin": "Takashi-kun"
+        "latin": "Takashi-kun",
+        "translated": {
+          "ko": "타카시 군",
+          "en": "Takashi-kun"
+        }
       },
       "first_appearance": {
         "work": "jujutsu-kaisen-s1"
@@ -1569,6 +1780,10 @@
           "ja": [
             "じょゆう"
           ]
+        },
+        "translated": {
+          "ko": "여배우",
+          "en": "Actress"
         }
       },
       "first_appearance": {
@@ -1586,6 +1801,10 @@
           "ja": [
             "しゃちょう"
           ]
+        },
+        "translated": {
+          "ko": "사장",
+          "en": "Company President"
         }
       },
       "first_appearance": {
@@ -1598,7 +1817,11 @@
       "name": {
         "original_lang": "ja",
         "original": "キセル",
-        "latin": "Kiseru"
+        "latin": "Kiseru",
+        "translated": {
+          "ko": "키세루",
+          "en": "Kiseru"
+        }
       },
       "first_appearance": {
         "work": "jujutsu-kaisen-s1"
@@ -1609,7 +1832,11 @@
       "name": {
         "original_lang": "ja",
         "original": "DJ",
-        "latin": "DJ"
+        "latin": "DJ",
+        "translated": {
+          "ko": "DJ",
+          "en": "DJ"
+        }
       },
       "first_appearance": {
         "work": "jujutsu-kaisen-s1"
@@ -1621,7 +1848,11 @@
       "name": {
         "original_lang": "ja",
         "original": "アナウンサー",
-        "latin": "Anaunsa"
+        "latin": "Anaunsa",
+        "translated": {
+          "ko": "아나운서",
+          "en": "Announcer"
+        }
       },
       "first_appearance": {
         "work": "jujutsu-kaisen-s1"
@@ -1638,6 +1869,10 @@
           "ja": [
             "じょしせいと"
           ]
+        },
+        "translated": {
+          "ko": "여학생",
+          "en": "Female Student"
         }
       },
       "first_appearance": {
@@ -1655,6 +1890,10 @@
           "ja": [
             "じょせい"
           ]
+        },
+        "translated": {
+          "ko": "여성",
+          "en": "Woman"
         }
       },
       "first_appearance": {
@@ -1672,6 +1911,10 @@
           "ja": [
             "ふじぬま"
           ]
+        },
+        "translated": {
+          "ko": "후지누마(남동생)",
+          "en": "Fujinuma (Younger Brother)"
         }
       },
       "first_appearance": {
@@ -1688,6 +1931,10 @@
           "ja": [
             "ふじぬま"
           ]
+        },
+        "translated": {
+          "ko": "후지누마(누나)",
+          "en": "Fujinuma (Older Sister)"
         }
       },
       "first_appearance": {
@@ -1704,6 +1951,10 @@
           "ja": [
             "たけだ"
           ]
+        },
+        "translated": {
+          "ko": "타케다",
+          "en": "Takeda"
         }
       },
       "first_appearance": {
@@ -1720,6 +1971,10 @@
           "ja": [
             "ふりょう"
           ]
+        },
+        "translated": {
+          "ko": "불량배 B",
+          "en": "Delinquent B"
         }
       },
       "first_appearance": {
@@ -1737,6 +1992,10 @@
           "ja": [
             "るすでん"
           ]
+        },
+        "translated": {
+          "ko": "자동 응답기",
+          "en": "Answering Machine"
         }
       },
       "first_appearance": {
@@ -1801,6 +2060,9 @@
           "ja": [
             "くろいみさと"
           ]
+        },
+        "translated": {
+          "ko": "쿠로이 미사토"
         }
       },
       "first_appearance": {
@@ -1820,6 +2082,9 @@
           "ja": [
             "こんしう"
           ]
+        },
+        "translated": {
+          "ko": "공시우"
         }
       },
       "first_appearance": {
@@ -1861,6 +2126,9 @@
           "ja": [
             "はさばななこ"
           ]
+        },
+        "translated": {
+          "ko": "하사바 나나코"
         }
       },
       "first_appearance": {
@@ -1880,6 +2148,9 @@
           "ja": [
             "はさばみみこ"
           ]
+        },
+        "translated": {
+          "ko": "하사바 미미코"
         }
       },
       "first_appearance": {
@@ -1896,6 +2167,10 @@
           "ja": [
             "そのだしげる"
           ]
+        },
+        "translated": {
+          "ko": "소노다 시게루",
+          "en": "Shigeru Sonoda"
         }
       },
       "first_appearance": {
@@ -1907,7 +2182,11 @@
       "name": {
         "original_lang": "ja",
         "original": "コークン",
-        "latin": "Kokun"
+        "latin": "Kokun",
+        "translated": {
+          "ko": "코쿤",
+          "en": "Kokun"
+        }
       },
       "first_appearance": {
         "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu"
@@ -1918,7 +2197,11 @@
       "name": {
         "original_lang": "ja",
         "original": "バイエル",
-        "latin": "Baieru"
+        "latin": "Baieru",
+        "translated": {
+          "ko": "바이엘",
+          "en": "Bayer"
+        }
       },
       "first_appearance": {
         "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu"
@@ -1934,6 +2217,10 @@
           "ja": [
             "ほじょかんとく"
           ]
+        },
+        "translated": {
+          "ko": "보조 감독",
+          "en": "Assistant Manager"
         }
       },
       "first_appearance": {
@@ -1951,6 +2238,10 @@
           "ja": [
             "ろうれいじゅそし"
           ]
+        },
+        "translated": {
+          "ko": "노령 저주사",
+          "en": "Elderly Curse User"
         }
       },
       "first_appearance": {
@@ -1968,6 +2259,10 @@
           "ja": [
             "かみぶくろじゅそし"
           ]
+        },
+        "translated": {
+          "ko": "종이봉투 저주사",
+          "en": "Paper Bag Curse User"
         }
       },
       "first_appearance": {
@@ -1985,6 +2280,10 @@
           "ja": [
             "きょうし"
           ]
+        },
+        "translated": {
+          "ko": "교사",
+          "en": "Teacher"
         }
       },
       "first_appearance": {
@@ -2002,6 +2301,10 @@
           "ja": [
             "せいと"
           ]
+        },
+        "translated": {
+          "ko": "학생",
+          "en": "Student"
         }
       },
       "first_appearance": {
@@ -2014,7 +2317,11 @@
       "name": {
         "original_lang": "ja",
         "original": "TVアナウンス",
-        "latin": "TV Anaunsu"
+        "latin": "TV Anaunsu",
+        "translated": {
+          "ko": "TV 안내 방송",
+          "en": "TV Announcement"
+        }
       },
       "first_appearance": {
         "work": "jujutsu-kaisen-s2-kaigyoku-gyokusetsu"
@@ -2031,6 +2338,10 @@
           "ja": [
             "しんじゃ"
           ]
+        },
+        "translated": {
+          "ko": "신자",
+          "en": "Believer"
         }
       },
       "first_appearance": {
@@ -2048,6 +2359,10 @@
           "ja": [
             "くちさけおんな"
           ]
+        },
+        "translated": {
+          "ko": "입 찢어진 여자",
+          "en": "Slit-Mouthed Woman"
         }
       },
       "first_appearance": {
@@ -2065,6 +2380,10 @@
           "ja": [
             "かくのうじゅれい"
           ]
+        },
+        "translated": {
+          "ko": "격납 주령",
+          "en": "Storage Curse"
         }
       },
       "first_appearance": {
@@ -2082,6 +2401,10 @@
           "ja": [
             "きょうていじょう"
           ]
+        },
+        "translated": {
+          "ko": "경정장 안내 방송",
+          "en": "Boat Race Stadium Announcement"
         }
       },
       "first_appearance": {
@@ -2099,6 +2422,10 @@
           "ja": [
             "むらびと"
           ]
+        },
+        "translated": {
+          "ko": "마을 사람",
+          "en": "Villager"
         }
       },
       "first_appearance": {
@@ -2163,6 +2490,9 @@
           "ja": [
             "くさかべあつや"
           ]
+        },
+        "translated": {
+          "ko": "쿠사카베 아츠야"
         }
       },
       "first_appearance": {
@@ -2182,6 +2512,9 @@
           "ja": [
             "にったあらた"
           ]
+        },
+        "translated": {
+          "ko": "닛타 아라타"
         }
       },
       "first_appearance": {
@@ -2201,6 +2534,9 @@
           "ja": [
             "ういうい"
           ]
+        },
+        "translated": {
+          "ko": "우이우이"
         }
       },
       "first_appearance": {
@@ -2217,6 +2553,10 @@
           "ja": [
             "おがみばばのまご"
           ]
+        },
+        "translated": {
+          "ko": "오가미 할멈의 손자",
+          "en": "Grandma Ogami's Grandson"
         }
       },
       "first_appearance": {
@@ -2234,6 +2574,10 @@
           "ja": [
             "いっぱんじん"
           ]
+        },
+        "translated": {
+          "ko": "일반인",
+          "en": "Civilian"
         }
       },
       "first_appearance": {
@@ -2254,6 +2598,9 @@
           "ja": [
             "おがみばば"
           ]
+        },
+        "translated": {
+          "ko": "오가미 할멈"
         }
       },
       "first_appearance": {
@@ -2273,6 +2620,9 @@
           "ja": [
             "あわさかじろう"
           ]
+        },
+        "translated": {
+          "ko": "아와사카 지로"
         }
       },
       "first_appearance": {
@@ -2292,6 +2642,9 @@
           "ja": [
             "こうがい"
           ]
+        },
+        "translated": {
+          "ko": "메뚜기 GUY"
         }
       },
       "first_appearance": {
@@ -2308,6 +2661,10 @@
           "ja": [
             "えびなにじ"
           ]
+        },
+        "translated": {
+          "ko": "에비나 니지",
+          "en": "Niji Ebina"
         }
       },
       "first_appearance": {
@@ -2341,7 +2698,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ミミズ人間",
-        "latin": "Mimizu Ningen"
+        "latin": "Mimizu Ningen",
+        "translated": {
+          "ko": "지렁이 인간",
+          "en": "Earthworm Man"
+        }
       },
       "first_appearance": {
         "work": "jujutsu-kaisen-s2-shibuya-jihen"
@@ -2361,6 +2722,9 @@
           "ja": [
             "おざわゆうこ"
           ]
+        },
+        "translated": {
+          "ko": "오자와 유코"
         }
       },
       "first_appearance": {
@@ -2377,6 +2741,10 @@
           "ja": [
             "さおりちゃん"
           ]
+        },
+        "translated": {
+          "ko": "사오리 짱",
+          "en": "Saori-chan"
         }
       },
       "first_appearance": {
@@ -2388,7 +2756,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ふみ",
-        "latin": "Fumi"
+        "latin": "Fumi",
+        "translated": {
+          "ko": "후미",
+          "en": "Fumi"
+        }
       },
       "first_appearance": {
         "work": "jujutsu-kaisen-s2-shibuya-jihen"
@@ -2404,6 +2776,10 @@
           "ja": [
             "ふみのちち"
           ]
+        },
+        "translated": {
+          "ko": "후미의 아버지",
+          "en": "Fumi's Father"
         }
       },
       "first_appearance": {
@@ -2421,6 +2797,10 @@
           "ja": [
             "さおりのせんぱい"
           ]
+        },
+        "translated": {
+          "ko": "사오리의 선배",
+          "en": "Saori's Senior"
         }
       },
       "first_appearance": {
@@ -2441,6 +2821,9 @@
           "ja": [
             "ねぎとしひさ"
           ]
+        },
+        "translated": {
+          "ko": "네기 토시히사"
         }
       },
       "first_appearance": {
@@ -2457,6 +2840,10 @@
           "ja": [
             "ねぎのいっぱ"
           ]
+        },
+        "translated": {
+          "ko": "네기 일파",
+          "en": "Negi's Faction"
         }
       },
       "first_appearance": {
@@ -2477,6 +2864,9 @@
           "ja": [
             "すだまなみ"
           ]
+        },
+        "translated": {
+          "ko": "스다 마나미"
         }
       },
       "first_appearance": {
@@ -2491,6 +2881,9 @@
         "latin": "Raru",
         "official": {
           "en": "Larue"
+        },
+        "translated": {
+          "ko": "라루"
         }
       },
       "first_appearance": {
@@ -2507,6 +2900,10 @@
           "ja": [
             "ふしぐろめぐみのはは"
           ]
+        },
+        "translated": {
+          "ko": "후시구로 메구미의 어머니",
+          "en": "Megumi Fushiguro's Mother"
         }
       },
       "first_appearance": {
@@ -2524,6 +2921,10 @@
           "ja": [
             "ちちおや"
           ]
+        },
+        "translated": {
+          "ko": "아버지",
+          "en": "Father"
         }
       },
       "first_appearance": {
@@ -2541,6 +2942,10 @@
           "ja": [
             "むすめ"
           ]
+        },
+        "translated": {
+          "ko": "딸",
+          "en": "Daughter"
         }
       },
       "first_appearance": {
@@ -2558,6 +2963,10 @@
           "ja": [
             "ひとのすがたのじゅれい"
           ]
+        },
+        "translated": {
+          "ko": "사람 모습의 주령",
+          "en": "Human-Shaped Curse"
         }
       },
       "first_appearance": {
@@ -2575,6 +2984,10 @@
           "ja": [
             "しょうじょ"
           ]
+        },
+        "translated": {
+          "ko": "소녀",
+          "en": "Girl"
         }
       },
       "first_appearance": {
@@ -2609,7 +3022,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ナレーション",
-        "latin": "Nareshon"
+        "latin": "Nareshon",
+        "translated": {
+          "ko": "내레이션",
+          "en": "Narration"
+        }
       },
       "first_appearance": {
         "work": "jujutsu-kaisen-s2-shibuya-jihen"
@@ -2626,6 +3043,10 @@
           "ja": [
             "そうかんぶ"
           ]
+        },
+        "translated": {
+          "ko": "총감부",
+          "en": "Headquarters"
         }
       },
       "first_appearance": {
@@ -2638,7 +3059,11 @@
       "name": {
         "original_lang": "ja",
         "original": "アナウンサー",
-        "latin": "Anaunsa"
+        "latin": "Anaunsa",
+        "translated": {
+          "ko": "아나운서",
+          "en": "Announcer"
+        }
       },
       "first_appearance": {
         "work": "jujutsu-kaisen-s2-shibuya-jihen"
@@ -2650,7 +3075,11 @@
       "name": {
         "original_lang": "ja",
         "original": "カメラマン",
-        "latin": "Kameraman"
+        "latin": "Kameraman",
+        "translated": {
+          "ko": "카메라맨",
+          "en": "Cameraman"
+        }
       },
       "first_appearance": {
         "work": "jujutsu-kaisen-s2-shibuya-jihen"
@@ -2667,6 +3096,10 @@
           "ja": [
             "めかまるきないおんせい"
           ]
+        },
+        "translated": {
+          "ko": "메카마루 기내 음성",
+          "en": "Mechamaru Cockpit Voice"
         }
       },
       "first_appearance": {
@@ -2679,7 +3112,11 @@
       "name": {
         "original_lang": "ja",
         "original": "リポーター",
-        "latin": "Ripota"
+        "latin": "Ripota",
+        "translated": {
+          "ko": "리포터",
+          "en": "Reporter"
+        }
       },
       "first_appearance": {
         "work": "jujutsu-kaisen-s2-shibuya-jihen"
@@ -2696,6 +3133,10 @@
           "ja": [
             "わかもの"
           ]
+        },
+        "translated": {
+          "ko": "젊은이",
+          "en": "Young Person"
         }
       },
       "first_appearance": {
@@ -2713,6 +3154,10 @@
           "ja": [
             "かいぞうにんげん"
           ]
+        },
+        "translated": {
+          "ko": "개조인간",
+          "en": "Transfigured Human"
         }
       },
       "first_appearance": {
@@ -2730,6 +3175,10 @@
           "ja": [
             "かいぞうにんげん"
           ]
+        },
+        "translated": {
+          "ko": "개조인간",
+          "en": "Transfigured Human"
         }
       },
       "first_appearance": {
@@ -2747,6 +3196,10 @@
           "ja": [
             "かんこうちょうしょくいん"
           ]
+        },
+        "translated": {
+          "ko": "관공서 직원",
+          "en": "Government Official"
         }
       },
       "first_appearance": {
@@ -2764,6 +3217,10 @@
           "ja": [
             "ほうそうがみ"
           ]
+        },
+        "translated": {
+          "ko": "포창신",
+          "en": "Smallpox Deity"
         }
       },
       "first_appearance": {
@@ -2780,6 +3237,10 @@
           "ja": [
             "えき"
           ]
+        },
+        "translated": {
+          "ko": "역 안내 방송",
+          "en": "Station Announcement"
         }
       },
       "first_appearance": {
@@ -2797,6 +3258,10 @@
           "ja": [
             "はいゆう"
           ]
+        },
+        "translated": {
+          "ko": "배우",
+          "en": "Actor"
         }
       },
       "first_appearance": {
@@ -2814,6 +3279,10 @@
           "ja": [
             "せいと"
           ]
+        },
+        "translated": {
+          "ko": "학생",
+          "en": "Student"
         }
       },
       "first_appearance": {
@@ -2831,6 +3300,10 @@
           "ja": [
             "じゅがい"
           ]
+        },
+        "translated": {
+          "ko": "주해",
+          "en": "Cursed Corpse"
         }
       },
       "first_appearance": {
@@ -2890,6 +3363,10 @@
           "ja": [
             "かんきゃく"
           ]
+        },
+        "translated": {
+          "ko": "관객",
+          "en": "Spectator"
         }
       },
       "first_appearance": {
@@ -2954,6 +3431,9 @@
           "ja": [
             "ほしきらら"
           ]
+        },
+        "translated": {
+          "ko": "호시 키라라"
         }
       },
       "first_appearance": {
@@ -2995,6 +3475,9 @@
           "ja": [
             "ぜんいんおうぎ"
           ]
+        },
+        "translated": {
+          "ko": "젠인 오기"
         }
       },
       "first_appearance": {
@@ -3014,6 +3497,9 @@
           "ja": [
             "ぜんいんじんいち"
           ]
+        },
+        "translated": {
+          "ko": "젠인 진이치"
         }
       },
       "first_appearance": {
@@ -3030,6 +3516,10 @@
           "ja": [
             "じゅれい"
           ]
+        },
+        "translated": {
+          "ko": "주령",
+          "en": "Curse"
         }
       },
       "first_appearance": {
@@ -3050,6 +3540,9 @@
           "ja": [
             "ぜんいんらんた"
           ]
+        },
+        "translated": {
+          "ko": "젠인 란타"
         }
       },
       "first_appearance": {
@@ -3069,6 +3562,9 @@
           "ja": [
             "ぜんいんのぶあき"
           ]
+        },
+        "translated": {
+          "ko": "젠인 노부아키"
         }
       },
       "first_appearance": {
@@ -3085,6 +3581,10 @@
           "ja": [
             "まきとまいのはは"
           ]
+        },
+        "translated": {
+          "ko": "마키와 마이의 어머니",
+          "en": "Maki and Mai's Mother"
         }
       },
       "first_appearance": {
@@ -3105,6 +3605,9 @@
           "ja": [
             "いたどりじん"
           ]
+        },
+        "translated": {
+          "ko": "이타도리 진"
         }
       },
       "first_appearance": {
@@ -3124,6 +3627,9 @@
           "ja": [
             "いたどりかおり"
           ]
+        },
+        "translated": {
+          "ko": "이타도리 카오리"
         }
       },
       "first_appearance": {
@@ -3135,7 +3641,11 @@
       "name": {
         "original_lang": "ja",
         "original": "フルダテ",
-        "latin": "Furudate"
+        "latin": "Furudate",
+        "translated": {
+          "ko": "후루다테",
+          "en": "Furudate"
+        }
       },
       "first_appearance": {
         "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
@@ -3192,6 +3702,10 @@
           "ja": [
             "せんぱいげいにん"
           ]
+        },
+        "translated": {
+          "ko": "선배 개그맨",
+          "en": "Senior Comedian"
         }
       },
       "first_appearance": {
@@ -3207,6 +3721,9 @@
         "latin": "Kogane",
         "official": {
           "en": "Kogane"
+        },
+        "translated": {
+          "ko": "코가네"
         }
       },
       "first_appearance": {
@@ -3248,6 +3765,9 @@
           "ja": [
             "あまいりん"
           ]
+        },
+        "translated": {
+          "ko": "아마이 린"
         }
       },
       "first_appearance": {
@@ -3267,6 +3787,9 @@
           "ja": [
             "れみ"
           ]
+        },
+        "translated": {
+          "ko": "레미"
         }
       },
       "first_appearance": {
@@ -3283,6 +3806,10 @@
           "ja": [
             "はにゅう"
           ]
+        },
+        "translated": {
+          "ko": "하뉴",
+          "en": "Hanyu"
         }
       },
       "first_appearance": {
@@ -3299,6 +3826,10 @@
           "ja": [
             "はば"
           ]
+        },
+        "translated": {
+          "ko": "하바",
+          "en": "Haba"
         }
       },
       "first_appearance": {
@@ -3335,6 +3866,9 @@
         "latin": "Rejii Suta",
         "official": {
           "en": "Reggie Star"
+        },
+        "translated": {
+          "ko": "레지 스타"
         }
       },
       "first_appearance": {
@@ -3351,6 +3885,10 @@
           "ja": [
             "しみず"
           ]
+        },
+        "translated": {
+          "ko": "시미즈",
+          "en": "Shimizu"
         }
       },
       "first_appearance": {
@@ -3367,6 +3905,10 @@
           "ja": [
             "おおえけいた"
           ]
+        },
+        "translated": {
+          "ko": "오에 케이타",
+          "en": "Keita Oe"
         }
       },
       "first_appearance": {
@@ -3383,6 +3925,10 @@
           "ja": [
             "たかぎ"
           ]
+        },
+        "translated": {
+          "ko": "타카기",
+          "en": "Takagi"
         }
       },
       "first_appearance": {
@@ -3397,6 +3943,9 @@
         "latin": "Jajjiman",
         "official": {
           "en": "Judgeman"
+        },
+        "translated": {
+          "ko": "저지맨"
         }
       },
       "first_appearance": {
@@ -3413,6 +3962,10 @@
           "ja": [
             "よしざわ"
           ]
+        },
+        "translated": {
+          "ko": "요시자와",
+          "en": "Yoshizawa"
         }
       },
       "first_appearance": {
@@ -3432,6 +3985,9 @@
           "ja": [
             "はぜのきいおり"
           ]
+        },
+        "translated": {
+          "ko": "하제노키 이오리"
         }
       },
       "first_appearance": {
@@ -3452,6 +4008,9 @@
             "針千釣",
             "はりちづる"
           ]
+        },
+        "translated": {
+          "ko": "하리 치즈루"
         }
       },
       "first_appearance": {
@@ -3493,6 +4052,9 @@
           "ja": [
             "うろたかこ"
           ]
+        },
+        "translated": {
+          "ko": "우로 타카코"
         }
       },
       "first_appearance": {
@@ -3512,6 +4074,9 @@
           "ja": [
             "くろうるし"
           ]
+        },
+        "translated": {
+          "ko": "쿠로루시"
         }
       },
       "first_appearance": {
@@ -3523,7 +4088,11 @@
       "name": {
         "original_lang": "ja",
         "original": "タケル",
-        "latin": "Takeru"
+        "latin": "Takeru",
+        "translated": {
+          "ko": "타케루",
+          "en": "Takeru"
+        }
       },
       "first_appearance": {
         "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
@@ -3539,6 +4108,10 @@
           "ja": [
             "くさかべのいもうと"
           ]
+        },
+        "translated": {
+          "ko": "쿠사카베의 여동생",
+          "en": "Kusakabe's Younger Sister"
         }
       },
       "first_appearance": {
@@ -3556,6 +4129,10 @@
           "ja": [
             "しかく"
           ]
+        },
+        "translated": {
+          "ko": "자객",
+          "en": "Assassin"
         }
       },
       "first_appearance": {
@@ -3568,7 +4145,11 @@
       "name": {
         "original_lang": "ja",
         "original": "クラブのメンバー",
-        "latin": "Kurabu no Menba"
+        "latin": "Kurabu no Menba",
+        "translated": {
+          "ko": "클럽 멤버",
+          "en": "Club Member"
+        }
       },
       "first_appearance": {
         "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
@@ -3585,6 +4166,10 @@
           "ja": [
             "みはり"
           ]
+        },
+        "translated": {
+          "ko": "망보는 사람",
+          "en": "Lookout"
         }
       },
       "first_appearance": {
@@ -3597,7 +4182,11 @@
       "name": {
         "original_lang": "ja",
         "original": "アナウンサー",
-        "latin": "Anaunsa"
+        "latin": "Anaunsa",
+        "translated": {
+          "ko": "아나운서",
+          "en": "Announcer"
+        }
       },
       "first_appearance": {
         "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
@@ -3614,6 +4203,10 @@
           "ja": [
             "くくるたい"
           ]
+        },
+        "translated": {
+          "ko": "쿠쿠루대",
+          "en": "Kukuru Unit"
         }
       },
       "first_appearance": {
@@ -3631,6 +4224,10 @@
           "ja": [
             "かんきゃくたち"
           ]
+        },
+        "translated": {
+          "ko": "관객들",
+          "en": "Spectators"
         }
       },
       "first_appearance": {
@@ -3648,6 +4245,10 @@
           "ja": [
             "いっぱんじん"
           ]
+        },
+        "translated": {
+          "ko": "일반인",
+          "en": "Civilian"
         }
       },
       "first_appearance": {
@@ -3665,6 +4266,10 @@
           "ja": [
             "さいばんかん"
           ]
+        },
+        "translated": {
+          "ko": "재판관",
+          "en": "Judge"
         }
       },
       "first_appearance": {
@@ -3682,6 +4287,10 @@
           "ja": [
             "いらいにん"
           ]
+        },
+        "translated": {
+          "ko": "의뢰인",
+          "en": "Client"
         }
       },
       "first_appearance": {
@@ -3699,6 +4308,10 @@
           "ja": [
             "こうこうせい"
           ]
+        },
+        "translated": {
+          "ko": "고등학생",
+          "en": "High School Student"
         }
       },
       "first_appearance": {
@@ -3716,6 +4329,10 @@
           "ja": [
             "おんなのこ"
           ]
+        },
+        "translated": {
+          "ko": "여자아이",
+          "en": "Girl"
         }
       },
       "first_appearance": {
@@ -3728,7 +4345,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ケンさん",
-        "latin": "Ken-san"
+        "latin": "Ken-san",
+        "translated": {
+          "ko": "켄 씨",
+          "en": "Ken-san"
+        }
       },
       "first_appearance": {
         "work": "jujutsu-kaisen-s3-shimetsu-kaiyu-1"
@@ -3766,6 +4387,10 @@
           "ja": [
             "おっこつのどうきゅうせい"
           ]
+        },
+        "translated": {
+          "ko": "옷코츠의 동급생",
+          "en": "Okkotsu's Classmate"
         }
       },
       "first_appearance": {
@@ -3783,6 +4408,10 @@
           "ja": [
             "かなもり"
           ]
+        },
+        "translated": {
+          "ko": "카나모리",
+          "en": "Kanamori"
         }
       },
       "first_appearance": {
@@ -3799,6 +4428,10 @@
           "ja": [
             "さいとうむすめ"
           ]
+        },
+        "translated": {
+          "ko": "사이토 딸",
+          "en": "Saito's Daughter"
         }
       },
       "first_appearance": {
@@ -3816,6 +4449,10 @@
           "ja": [
             "さいとうはは"
           ]
+        },
+        "translated": {
+          "ko": "사이토 어머니",
+          "en": "Saito's Mother"
         }
       },
       "first_appearance": {
@@ -3833,6 +4470,10 @@
           "ja": [
             "じゅじゅつし"
           ]
+        },
+        "translated": {
+          "ko": "주술사",
+          "en": "Jujutsu Sorcerer"
         }
       },
       "first_appearance": {
@@ -3850,6 +4491,10 @@
           "ja": [
             "そうかんぶ"
           ]
+        },
+        "translated": {
+          "ko": "총감부",
+          "en": "Headquarters"
         }
       },
       "first_appearance": {
@@ -3867,6 +4512,10 @@
           "ja": [
             "つうこうにん"
           ]
+        },
+        "translated": {
+          "ko": "행인",
+          "en": "Passerby"
         }
       },
       "first_appearance": {
@@ -3887,6 +4536,9 @@
           "ja": [
             "かものりとし"
           ]
+        },
+        "translated": {
+          "ko": "카모 노리토시"
         }
       },
       "first_appearance": {
@@ -3902,6 +4554,9 @@
         "latin": "Saki Rindo",
         "official": {
           "en": "Saki Rindo"
+        },
+        "translated": {
+          "ko": "린도 사키"
         }
       },
       "first_appearance": {
@@ -3916,6 +4571,9 @@
         "latin": "Kaito Yuki",
         "official": {
           "en": "Kaito Yuki"
+        },
+        "translated": {
+          "ko": "유키 카이토"
         }
       },
       "first_appearance": {
@@ -3930,6 +4588,9 @@
         "latin": "Kensuke Nagino",
         "official": {
           "en": "Kensuke Nagino"
+        },
+        "translated": {
+          "ko": "나기노 켄스케"
         }
       },
       "first_appearance": {
@@ -3941,7 +4602,11 @@
       "name": {
         "original_lang": "ja",
         "original": "白倉飛鷹",
-        "latin": "Hidaka Shirakura"
+        "latin": "Hidaka Shirakura",
+        "translated": {
+          "ko": "시라쿠라 히다카",
+          "en": "Hidaka Shirakura"
+        }
       },
       "first_appearance": {
         "work": "jujutsu-kaisen-game-phantom-parade"
@@ -3952,7 +4617,11 @@
       "name": {
         "original_lang": "ja",
         "original": "漆英司",
-        "latin": "Eiji Urushi"
+        "latin": "Eiji Urushi",
+        "translated": {
+          "ko": "우루시 에이지",
+          "en": "Eiji Urushi"
+        }
       },
       "first_appearance": {
         "work": "jujutsu-kaisen-game-phantom-parade"
@@ -3963,7 +4632,11 @@
       "name": {
         "original_lang": "ja",
         "original": "光藤律",
-        "latin": "Ritsu Mitsufuji"
+        "latin": "Ritsu Mitsufuji",
+        "translated": {
+          "ko": "미츠후지 리츠",
+          "en": "Ritsu Mitsufuji"
+        }
       },
       "first_appearance": {
         "work": "jujutsu-kaisen-game-phantom-parade"
@@ -3974,7 +4647,11 @@
       "name": {
         "original_lang": "ja",
         "original": "トワ",
-        "latin": "Towa"
+        "latin": "Towa",
+        "translated": {
+          "ko": "토와",
+          "en": "Towa"
+        }
       },
       "first_appearance": {
         "work": "jujutsu-kaisen-game-phantom-parade"
@@ -3985,7 +4662,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ナレーション",
-        "latin": "Nareshon"
+        "latin": "Nareshon",
+        "translated": {
+          "ko": "내레이션",
+          "en": "Narration"
+        }
       },
       "first_appearance": {
         "work": "jujutsu-kaisen-game-phantom-parade"
@@ -4009,6 +4690,22 @@
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EC%A3%BC%EC%88%A0%ED%9A%8C%EC%A0%84",
+      "title": "영화정보 검색 (주술회전) - KOBIS 영화관입장권통합전산망",
+      "publisher": "other",
+      "tier": 1,
+      "accessed_at": "2026-11-16"
+    },
+    {
+      "id": "s4",
+      "url": "https://www.justwatch.com/kr/TV-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/jusulhoejeon",
+      "title": "주술회전 - 스트리밍: 어디에서 볼 수 있나요? - JustWatch",
+      "publisher": "other",
+      "tier": 2,
+      "accessed_at": "2026-11-16"
     }
   ],
   "meta": {

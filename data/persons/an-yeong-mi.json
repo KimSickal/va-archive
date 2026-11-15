@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "안영미",
-    "latin": "Ahn Yeong-mi"
+    "latin": "Ahn Yeong-mi",
+    "translated": {
+      "en": "Yeong-mi Ahn",
+      "ja": "アン・ヨンミ"
+    }
   },
   "nationality": [
     "KR"

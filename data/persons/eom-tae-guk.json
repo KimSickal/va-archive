@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "엄태국",
-    "latin": "Eom Tae-guk"
+    "latin": "Eom Tae-guk",
+    "translated": {
+      "en": "Tae-guk Eom",
+      "ja": "オム・テグク"
+    }
   },
   "gender": "male",
   "nationality": [

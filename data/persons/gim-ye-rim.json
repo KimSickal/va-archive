@@ -4,7 +4,11 @@
   "slug": "gim-ye-rim",
   "name": {
     "original_lang": "ko",
-    "original": "김예림"
+    "original": "김예림",
+    "translated": {
+      "en": "Ye-rim Kim",
+      "ja": "キム・イェリム"
+    }
   },
   "gender": "female",
   "birth": "1994-11-03",

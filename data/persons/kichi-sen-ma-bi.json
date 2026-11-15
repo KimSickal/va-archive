@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ja",
     "original": "吉川麻美",
-    "latin": "Asami Yoshikawa"
+    "latin": "Asami Yoshikawa",
+    "translated": {
+      "en": "Asami Yoshikawa",
+      "ko": "요시카와 아사미"
+    }
   },
   "sources": [
     {

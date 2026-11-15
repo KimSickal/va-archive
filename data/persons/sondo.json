@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ja",
     "original": "ソンド",
-    "latin": "Sondo"
+    "latin": "Sondo",
+    "translated": {
+      "en": "Sondo",
+      "ko": "손도"
+    }
   },
   "gender": "male",
   "nationality": [

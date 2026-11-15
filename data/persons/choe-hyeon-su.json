@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "최현수",
-    "latin": "Choi Hyeon-su"
+    "latin": "Choi Hyeon-su",
+    "translated": {
+      "en": "Hyeon-su Choi",
+      "ja": "チェ・ヒョンス"
+    }
   },
   "nationality": [
     "KR"

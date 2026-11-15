@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "황원",
-    "latin": "Hwang Won"
+    "latin": "Hwang Won",
+    "translated": {
+      "en": "Won Hwang",
+      "ja": "ファン・ウォン"
+    }
   },
   "gender": "male",
   "nationality": [

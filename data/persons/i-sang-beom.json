@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이상범",
-    "latin": "Lee Sang-beom"
+    "latin": "Lee Sang-beom",
+    "translated": {
+      "en": "Sang-beom Lee",
+      "ja": "イ・サンボム"
+    }
   },
   "nationality": [
     "KR"

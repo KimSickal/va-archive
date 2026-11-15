@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "송기원",
-    "latin": "Song Gi-won"
+    "latin": "Song Gi-won",
+    "translated": {
+      "en": "Gi-won Song",
+      "ja": "ソン・ギウォン"
+    }
   },
   "sources": [
     {

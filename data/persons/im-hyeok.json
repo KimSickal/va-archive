@@ -4,7 +4,11 @@
   "slug": "im-hyeok",
   "name": {
     "original_lang": "ko",
-    "original": "임혁"
+    "original": "임혁",
+    "translated": {
+      "en": "Hyeok Lim",
+      "ja": "イム・ヒョク"
+    }
   },
   "birth": "1995-02-10",
   "nationality": [

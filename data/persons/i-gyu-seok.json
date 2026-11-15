@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이규석",
-    "latin": "Lee Gyu-seok"
+    "latin": "Lee Gyu-seok",
+    "translated": {
+      "en": "Gyu-seok Lee",
+      "ja": "イ・ギュソク"
+    }
   },
   "gender": "male",
   "nationality": [

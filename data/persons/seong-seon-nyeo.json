@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "성선녀",
-    "latin": "Seong Seon-nyeo"
+    "latin": "Seong Seon-nyeo",
+    "translated": {
+      "en": "Seon-nyeo Seong",
+      "ja": "ソン・ソンニョ"
+    }
   },
   "nationality": [
     "KR"

@@ -4,7 +4,11 @@
   "slug": "i-seung-haeng",
   "name": {
     "original_lang": "ko",
-    "original": "이승행"
+    "original": "이승행",
+    "translated": {
+      "en": "Seung-haeng Lee",
+      "ja": "イ・スンヘン"
+    }
   },
   "birth": "1989-04-01",
   "nationality": [

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김대중",
-    "latin": "Kim Dae-jung"
+    "latin": "Kim Dae-jung",
+    "translated": {
+      "en": "Dae-jung Kim",
+      "ja": "キム・デジュン"
+    }
   },
   "gender": "male",
   "nationality": [

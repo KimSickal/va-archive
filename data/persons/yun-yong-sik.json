@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "윤용식",
-    "latin": "Yoon Yong-sik"
+    "latin": "Yoon Yong-sik",
+    "translated": {
+      "en": "Yong-sik Yoon",
+      "ja": "ユン・ヨンシク"
+    }
   },
   "nationality": [
     "KR"

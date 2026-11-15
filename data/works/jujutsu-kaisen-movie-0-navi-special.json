@@ -6,7 +6,11 @@
   "title": {
     "original_lang": "ja",
     "original": "『劇場版 呪術廻戦 0』公開記念ナビ特番 東京都立呪術高等専門学校 学校案内",
-    "latin": "\"Gekijoban Jujutsu Kaisen 0\" Kokai Kinen Nabi Tokuban Tokyo Toritsu Jujutsu Koto Senmon Gakko Gakko Annai"
+    "latin": "\"Gekijoban Jujutsu Kaisen 0\" Kokai Kinen Nabi Tokuban Tokyo Toritsu Jujutsu Koto Senmon Gakko Gakko Annai",
+    "translated": {
+      "ko": "『극장판 주술회전 0』 개봉 기념 내비게이션 특별 방송 도쿄도립 주술고등전문학교 학교 안내",
+      "en": "Jujutsu Kaisen 0 Release Navigation Special: Tokyo Prefectural Jujutsu High School Guide"
+    }
   },
   "order": 2,
   "status": "finished",

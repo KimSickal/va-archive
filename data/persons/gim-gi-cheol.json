@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김기철",
-    "latin": "Kim Gi-cheol"
+    "latin": "Kim Gi-cheol",
+    "translated": {
+      "en": "Gi-cheol Kim",
+      "ja": "キム・ギチョル"
+    }
   },
   "gender": "male",
   "nationality": [

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김성연",
-    "latin": "Kim Seong-yeon"
+    "latin": "Kim Seong-yeon",
+    "translated": {
+      "en": "Seong-yeon Kim",
+      "ja": "キム・ソンヨン"
+    }
   },
   "gender": "female",
   "nationality": [

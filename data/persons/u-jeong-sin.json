@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "우정신",
-    "latin": "Woo Jeong-sin"
+    "latin": "Woo Jeong-sin",
+    "translated": {
+      "en": "Jeong-sin Woo",
+      "ja": "ウ・ジョンシン"
+    }
   },
   "gender": "female",
   "nationality": [

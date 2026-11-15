@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김하영",
-    "latin": "Kim Ha-yeong"
+    "latin": "Kim Ha-yeong",
+    "translated": {
+      "en": "Ha-yeong Kim",
+      "ja": "キム・ハヨン"
+    }
   },
   "sources": [
     {

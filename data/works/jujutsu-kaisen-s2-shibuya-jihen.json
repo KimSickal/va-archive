@@ -8,7 +8,8 @@
     "original": "呪術廻戦「渋谷事変」",
     "latin": "Jujutsu Kaisen \"Shibuya Jihen\"",
     "official": {
-      "en": "Jujutsu Kaisen: Shibuya Incident"
+      "en": "Jujutsu Kaisen: Shibuya Incident",
+      "ko": "주술회전 2기: 시부야 사변"
     },
     "aliases": {
       "ja": [
@@ -2171,6 +2172,22 @@
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s113",
+      "url": "https://www.tving.com/contents/P001743574",
+      "title": "주술회전 2기 : 시부야 사변 | TVING",
+      "publisher": "other",
+      "tier": 2,
+      "accessed_at": "2026-11-16"
+    },
+    {
+      "id": "s114",
+      "url": "https://pedia.watcha.com/ko/contents/tPDOaX4",
+      "title": "주술회전 2기: 시부야 사변 - 왓챠피디아",
+      "publisher": "other",
+      "tier": 2,
+      "accessed_at": "2026-11-16"
     }
   ],
   "meta": {

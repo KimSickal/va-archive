@@ -8,14 +8,12 @@
     "original": "僕のヒーローアカデミア FINAL SEASON",
     "latin": "Boku no Hero Academia FINAL SEASON",
     "official": {
-      "en": "My Hero Academia Final Season"
+      "en": "My Hero Academia Final Season",
+      "ko": "나의 히어로 아카데미아 FINAL SEASON"
     },
     "aliases": {
       "ja": [
         "僕のヒーローアカデミア（第8期）"
-      ],
-      "ko": [
-        "나의 히어로 아카데미아 FINAL SEASON"
       ]
     }
   },
@@ -2772,6 +2770,14 @@
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s118",
+      "url": "https://www.tving.com/contents/P001782139",
+      "title": "나의 히어로 아카데미아 FINAL SEASON (더빙) 1화 | TVING",
+      "publisher": "broadcaster",
+      "tier": 1,
+      "accessed_at": "2026-11-16"
     }
   ],
   "meta": {

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김서영",
-    "latin": "Kim Seo-yeong"
+    "latin": "Kim Seo-yeong",
+    "translated": {
+      "en": "Seo-yeong Kim",
+      "ja": "キム・ソヨン"
+    }
   },
   "gender": "female",
   "nationality": [

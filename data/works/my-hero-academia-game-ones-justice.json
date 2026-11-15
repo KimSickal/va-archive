@@ -8,7 +8,8 @@
     "original": "僕のヒーローアカデミア One's Justice",
     "latin": "Boku no Hero Academia One's Justice",
     "official": {
-      "en": "My Hero One's Justice"
+      "en": "My Hero One's Justice",
+      "ko": "나의 히어로 원즈 저스티스"
     }
   },
   "order": 33,
@@ -232,6 +233,14 @@
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s22",
+      "url": "https://xbox.com/ko-KR/games/store/1/BVFF56S7PXFJ",
+      "title": "나의 히어로 원즈 저스티스 구매 | Xbox",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-16"
     }
   ],
   "meta": {

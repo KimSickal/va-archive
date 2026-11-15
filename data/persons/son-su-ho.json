@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "손수호",
-    "latin": "Son Su-ho"
+    "latin": "Son Su-ho",
+    "translated": {
+      "en": "Su-ho Son",
+      "ja": "ソン・スホ"
+    }
   },
   "nationality": [
     "KR"

@@ -8,14 +8,12 @@
     "original": "僕のヒーローアカデミア（第5期）",
     "latin": "Boku no Hero Academia (Dai 5-ki)",
     "official": {
-      "en": "My Hero Academia Season 5"
+      "en": "My Hero Academia Season 5",
+      "ko": "나의 히어로 아카데미아 5기"
     },
     "aliases": {
       "ja": [
         "ヒロアカ 5期"
-      ],
-      "ko": [
-        "나의 히어로 아카데미아 5기"
       ]
     }
   },
@@ -2655,6 +2653,14 @@
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s94",
+      "url": "https://laftel.net/item/40276/나의-히어로-아카데미아-5기",
+      "title": "(자막) 나의 히어로 아카데미아 5기 - 라프텔",
+      "publisher": "broadcaster",
+      "tier": 1,
+      "accessed_at": "2026-11-16"
     }
   ],
   "meta": {

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "최승훈",
-    "latin": "Choi Seung-hun"
+    "latin": "Choi Seung-hun",
+    "translated": {
+      "en": "Seung-hun Choi",
+      "ja": "チェ・スンフン"
+    }
   },
   "nationality": [
     "KR"

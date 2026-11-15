@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김영선",
-    "latin": "Kim Yeong-seon"
+    "latin": "Kim Yeong-seon",
+    "translated": {
+      "en": "Yeong-seon Kim",
+      "ja": "キム・ヨンソン"
+    }
   },
   "nationality": [
     "KR"

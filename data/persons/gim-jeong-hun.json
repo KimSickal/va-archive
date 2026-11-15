@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김정훈",
-    "latin": "Kim Jeong-hun"
+    "latin": "Kim Jeong-hun",
+    "translated": {
+      "en": "Jeong-hun Kim",
+      "ja": "キム・ジョンフン"
+    }
   },
   "sources": [
     {

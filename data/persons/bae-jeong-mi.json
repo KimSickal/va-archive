@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "배정미",
-    "latin": "Bae Jeong-mi"
+    "latin": "Bae Jeong-mi",
+    "translated": {
+      "en": "Jeong-mi Bae",
+      "ja": "ペ・ジョンミ"
+    }
   },
   "nationality": [
     "KR"

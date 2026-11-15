@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ja",
     "original": "こばたけまさふみ",
-    "latin": "Masafumi Kobatake"
+    "latin": "Masafumi Kobatake",
+    "translated": {
+      "en": "Masafumi Kobatake",
+      "ko": "코바타케 마사후미"
+    }
   },
   "gender": "male",
   "nationality": [

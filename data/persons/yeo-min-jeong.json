@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "여민정",
-    "latin": "Yeo Min-jeong"
+    "latin": "Yeo Min-jeong",
+    "translated": {
+      "en": "Min-jeong Yeo",
+      "ja": "ヨ・ミンジョン"
+    }
   },
   "nationality": [
     "KR"

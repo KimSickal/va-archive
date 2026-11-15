@@ -4,7 +4,11 @@
   "slug": "jo-yeong-seo",
   "name": {
     "original_lang": "ko",
-    "original": "조영서"
+    "original": "조영서",
+    "translated": {
+      "en": "Yeong-seo Jo",
+      "ja": "チョ・ヨンソ"
+    }
   },
   "sources": [
     {

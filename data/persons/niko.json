@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ja",
     "original": "ニーコ",
-    "latin": "Neeko"
+    "latin": "Neeko",
+    "translated": {
+      "en": "Neeko",
+      "ko": "니코"
+    }
   },
   "gender": "female",
   "nationality": [

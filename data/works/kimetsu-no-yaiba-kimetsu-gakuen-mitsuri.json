@@ -6,7 +6,11 @@
   "title": {
     "original_lang": "ja",
     "original": "中高一貫!! キメツ学園物語 甘露寺蜜璃紹介",
-    "latin": "Chuko Ikkan!! Kimetsu Gakuen Monogatari: Kanroji Mitsuri Shokai"
+    "latin": "Chuko Ikkan!! Kimetsu Gakuen Monogatari: Kanroji Mitsuri Shokai",
+    "translated": {
+      "ko": "중고일관!! 키메츠 학원 이야기 칸로지 미츠리 소개",
+      "en": "Combined Middle and High School!! Kimetsu Academy Story: Introducing Mitsuri Kanroji"
+    }
   },
   "order": 19,
   "status": "finished",

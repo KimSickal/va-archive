@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "유영",
-    "latin": "Yuyeong"
+    "latin": "Yuyeong",
+    "translated": {
+      "en": "Yuyeong",
+      "ja": "ユヨン"
+    }
   },
   "nationality": [
     "KR"

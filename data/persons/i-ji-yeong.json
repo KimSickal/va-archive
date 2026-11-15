@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이지영",
-    "latin": "Lee Ji-yeong"
+    "latin": "Lee Ji-yeong",
+    "translated": {
+      "en": "Ji-yeong Lee",
+      "ja": "イ・ジヨン"
+    }
   },
   "sources": [
     {

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "최재호",
-    "latin": "Choi Jae-ho"
+    "latin": "Choi Jae-ho",
+    "translated": {
+      "en": "Jae-ho Choi",
+      "ja": "チェ・ジェホ"
+    }
   },
   "sources": [
     {

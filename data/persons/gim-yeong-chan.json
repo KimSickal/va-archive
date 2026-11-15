@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김영찬",
-    "latin": "Kim Yeong-chan"
+    "latin": "Kim Yeong-chan",
+    "translated": {
+      "en": "Yeong-chan Kim",
+      "ja": "キム・ヨンチャン"
+    }
   },
   "nationality": [
     "KR"

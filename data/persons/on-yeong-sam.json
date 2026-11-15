@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "온영삼",
-    "latin": "On Yeong-sam"
+    "latin": "On Yeong-sam",
+    "translated": {
+      "en": "Yeong-sam On",
+      "ja": "オン・ヨンサム"
+    }
   },
   "nationality": [
     "KR"

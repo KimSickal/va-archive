@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "윤동기",
-    "latin": "Yoon Dong-gi"
+    "latin": "Yoon Dong-gi",
+    "translated": {
+      "en": "Dong-gi Yoon",
+      "ja": "ユン・ドンギ"
+    }
   },
   "gender": "male",
   "nationality": [

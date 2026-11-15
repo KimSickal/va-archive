@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이새벽",
-    "latin": "Lee Sae-byeok"
+    "latin": "Lee Sae-byeok",
+    "translated": {
+      "en": "Sae-byeok Lee",
+      "ja": "イ・セビョク"
+    }
   },
   "nationality": [
     "KR"

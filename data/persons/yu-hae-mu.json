@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "유해무",
-    "latin": "Yoo Hae-mu"
+    "latin": "Yoo Hae-mu",
+    "translated": {
+      "en": "Hae-mu Yoo",
+      "ja": "ユ・ヘム"
+    }
   },
   "nationality": [
     "KR"

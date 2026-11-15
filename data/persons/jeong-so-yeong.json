@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "정소영",
-    "latin": "Jung So-yeong"
+    "latin": "Jung So-yeong",
+    "translated": {
+      "en": "So-yeong Jung",
+      "ja": "チョン・ソヨン"
+    }
   },
   "nationality": [
     "KR"

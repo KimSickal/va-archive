@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "오건우",
-    "latin": "Oh Geon-u"
+    "latin": "Oh Geon-u",
+    "translated": {
+      "en": "Geon-u Oh",
+      "ja": "オ・ゴヌ"
+    }
   },
   "nationality": [
     "KR"

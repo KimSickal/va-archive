@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "강시현",
-    "latin": "Kang Si-hyeon"
+    "latin": "Kang Si-hyeon",
+    "translated": {
+      "en": "Si-hyeon Kang",
+      "ja": "カン・シヒョン"
+    }
   },
   "nationality": [
     "KR"

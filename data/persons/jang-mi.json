@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "장미",
-    "latin": "Jangmi"
+    "latin": "Jangmi",
+    "translated": {
+      "en": "Jangmi",
+      "ja": "チャンミ"
+    }
   },
   "nationality": [
     "KR"

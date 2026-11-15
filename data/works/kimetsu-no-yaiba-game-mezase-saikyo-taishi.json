@@ -8,7 +8,8 @@
     "original": "鬼滅の刃 目指せ！最強隊士！",
     "latin": "Kimetsu no Yaiba: Mezase! Saikyo Taishi!",
     "official": {
-      "en": "Demon Slayer: Kimetsu no Yaiba – Sweep the Board!"
+      "en": "Demon Slayer: Kimetsu no Yaiba – Sweep the Board!",
+      "ko": "귀멸의 칼날: 도전, 최강의 대원!"
     }
   },
   "order": 23,
@@ -102,6 +103,14 @@
       "publisher": "news",
       "tier": 2,
       "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s7",
+      "url": "https://m.ruliweb.com/news/read/231264",
+      "title": "세가퍼블리싱코리아 『귀멸의 칼날 히노카미 혈풍담2 Nintendo Switch 2 Edition』 발매 보도자료 - 루리웹",
+      "publisher": "news",
+      "tier": 2,
+      "accessed_at": "2026-11-16"
     }
   ],
   "meta": {

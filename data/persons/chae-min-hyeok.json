@@ -4,7 +4,11 @@
   "slug": "chae-min-hyeok",
   "name": {
     "original_lang": "ko",
-    "original": "채민혁"
+    "original": "채민혁",
+    "translated": {
+      "en": "Min-hyeok Chae",
+      "ja": "チェ・ミンヒョク"
+    }
   },
   "gender": "male",
   "birth": "1997-10-25",

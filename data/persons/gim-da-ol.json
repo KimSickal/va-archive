@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김다올",
-    "latin": "Kim Da-ol"
+    "latin": "Kim Da-ol",
+    "translated": {
+      "en": "Da-ol Kim",
+      "ja": "キム・ダオル"
+    }
   },
   "nationality": [
     "KR"

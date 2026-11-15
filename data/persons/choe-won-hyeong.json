@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "최원형",
-    "latin": "Choi Won-hyeong"
+    "latin": "Choi Won-hyeong",
+    "translated": {
+      "en": "Won-hyeong Choi",
+      "ja": "チェ・ウォンヒョン"
+    }
   },
   "nationality": [
     "KR"

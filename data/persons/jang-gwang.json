@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "장광",
-    "latin": "Jang Gwang"
+    "latin": "Jang Gwang",
+    "translated": {
+      "en": "Gwang Jang",
+      "ja": "チャン・グァン"
+    }
   },
   "nationality": [
     "KR"

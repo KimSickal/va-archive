@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김서현",
-    "latin": "Kim Seo-hyeon"
+    "latin": "Kim Seo-hyeon",
+    "translated": {
+      "en": "Seo-hyeon Kim",
+      "ja": "キム・ソヒョン"
+    }
   },
   "nationality": [
     "KR"

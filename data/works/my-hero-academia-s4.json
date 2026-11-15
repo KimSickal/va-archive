@@ -8,14 +8,12 @@
     "original": "僕のヒーローアカデミア（第4期）",
     "latin": "Boku no Hero Academia (Dai 4-ki)",
     "official": {
-      "en": "My Hero Academia Season 4"
+      "en": "My Hero Academia Season 4",
+      "ko": "나의 히어로 아카데미아 4기"
     },
     "aliases": {
       "ja": [
         "ヒロアカ 4期"
-      ],
-      "ko": [
-        "나의 히어로 아카데미아 4기"
       ]
     }
   },
@@ -2814,6 +2812,14 @@
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s112",
+      "url": "https://www.tving.com/contents/P001698954",
+      "title": "나의 히어로 아카데미아 4기 (더빙) 1화 | TVING",
+      "publisher": "broadcaster",
+      "tier": 1,
+      "accessed_at": "2026-11-16"
     }
   ],
   "meta": {

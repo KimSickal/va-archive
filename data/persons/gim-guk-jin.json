@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김국진",
-    "latin": "Kim Guk-jin"
+    "latin": "Kim Guk-jin",
+    "translated": {
+      "en": "Guk-jin Kim",
+      "ja": "キム・グクチン"
+    }
   },
   "sources": [
     {

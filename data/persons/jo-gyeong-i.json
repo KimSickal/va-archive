@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "조경이",
-    "latin": "Jo Gyeong-i"
+    "latin": "Jo Gyeong-i",
+    "translated": {
+      "en": "Gyeong-i Jo",
+      "ja": "チョ・ギョンイ"
+    }
   },
   "nationality": [
     "KR"

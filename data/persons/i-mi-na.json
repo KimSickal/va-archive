@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이미나",
-    "latin": "Lee Mi-na"
+    "latin": "Lee Mi-na",
+    "translated": {
+      "en": "Mi-na Lee",
+      "ja": "イ・ミナ"
+    }
   },
   "gender": "female",
   "nationality": [

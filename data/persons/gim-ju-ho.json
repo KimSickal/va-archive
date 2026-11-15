@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김주호",
-    "latin": "Kim Ju-ho"
+    "latin": "Kim Ju-ho",
+    "translated": {
+      "en": "Ju-ho Kim",
+      "ja": "キム・ジュホ"
+    }
   },
   "nationality": [
     "KR"

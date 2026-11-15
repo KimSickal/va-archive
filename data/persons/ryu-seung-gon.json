@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "류승곤",
-    "latin": "Ryu Seung-gon"
+    "latin": "Ryu Seung-gon",
+    "translated": {
+      "en": "Seung-gon Ryu",
+      "ja": "リュ・スンゴン"
+    }
   },
   "nationality": [
     "KR"

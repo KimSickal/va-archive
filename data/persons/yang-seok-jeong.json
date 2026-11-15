@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "양석정",
-    "latin": "Yang Seok-jeong"
+    "latin": "Yang Seok-jeong",
+    "translated": {
+      "en": "Seok-jeong Yang",
+      "ja": "ヤン・ソクチョン"
+    }
   },
   "gender": "male",
   "nationality": [

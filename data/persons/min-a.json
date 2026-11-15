@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "민아",
-    "latin": "Mina"
+    "latin": "Mina",
+    "translated": {
+      "en": "Mina",
+      "ja": "ミナ"
+    }
   },
   "nationality": [
     "KR"

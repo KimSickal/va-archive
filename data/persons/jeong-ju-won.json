@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "정주원",
-    "latin": "Jung Ju-won"
+    "latin": "Jung Ju-won",
+    "translated": {
+      "en": "Ju-won Jung",
+      "ja": "チョン・ジュウォン"
+    }
   },
   "nationality": [
     "KR"

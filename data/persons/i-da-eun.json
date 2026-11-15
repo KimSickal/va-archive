@@ -4,7 +4,11 @@
   "slug": "i-da-eun",
   "name": {
     "original_lang": "ko",
-    "original": "이다은"
+    "original": "이다은",
+    "translated": {
+      "en": "Da-eun Lee",
+      "ja": "イ・ダウン"
+    }
   },
   "gender": "female",
   "birth": "1990-02-02",

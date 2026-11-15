@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "현경수",
-    "latin": "Hyun Gyeong-su"
+    "latin": "Hyun Gyeong-su",
+    "translated": {
+      "en": "Gyeong-su Hyun",
+      "ja": "ヒョン・ギョンス"
+    }
   },
   "nationality": [
     "KR"

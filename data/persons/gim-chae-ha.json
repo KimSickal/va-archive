@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김채하",
-    "latin": "Kim Chae-ha"
+    "latin": "Kim Chae-ha",
+    "translated": {
+      "en": "Chae-ha Kim",
+      "ja": "キム・チェハ"
+    }
   },
   "sources": [
     {

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "박서진",
-    "latin": "Park Seo-jin"
+    "latin": "Park Seo-jin",
+    "translated": {
+      "en": "Seo-jin Park",
+      "ja": "パク・ソジン"
+    }
   },
   "gender": "male",
   "nationality": [

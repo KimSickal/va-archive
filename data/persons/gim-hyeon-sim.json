@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김현심",
-    "latin": "Kim Hyeon-sim"
+    "latin": "Kim Hyeon-sim",
+    "translated": {
+      "en": "Hyeon-sim Kim",
+      "ja": "キム・ヒョンシム"
+    }
   },
   "sources": [
     {

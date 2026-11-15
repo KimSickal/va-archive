@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이인성",
-    "latin": "Lee In-seong"
+    "latin": "Lee In-seong",
+    "translated": {
+      "en": "In-seong Lee",
+      "ja": "イ・インソン"
+    }
   },
   "nationality": [
     "KR"

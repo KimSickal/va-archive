@@ -8,7 +8,8 @@
     "original": "僕のヒーローアカデミア THE MOVIE 〜2人の英雄〜",
     "latin": "Boku no Hero Academia THE MOVIE: Futari no Eiyu",
     "official": {
-      "en": "My Hero Academia: Two Heroes"
+      "en": "My Hero Academia: Two Heroes",
+      "ko": "나의 히어로 아카데미아 더 무비: 두 명의 히어로"
     },
     "aliases": {
       "ko": [
@@ -673,6 +674,14 @@
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s33",
+      "url": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%ED%9E%88%EC%96%B4%EB%A1%9C+%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%EC%95%84",
+      "title": "영화정보검색 - 히어로 아카데미아 | KOBIS 영화관입장권통합전산망",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-16"
     }
   ],
   "meta": {

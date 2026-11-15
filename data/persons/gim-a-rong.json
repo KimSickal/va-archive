@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김아롱",
-    "latin": "Kim A-rong"
+    "latin": "Kim A-rong",
+    "translated": {
+      "en": "A-rong Kim",
+      "ja": "キム・アロン"
+    }
   },
   "nationality": [
     "KR"

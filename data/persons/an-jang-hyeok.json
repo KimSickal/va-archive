@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "안장혁",
-    "latin": "An Jang-hyeok"
+    "latin": "An Jang-hyeok",
+    "translated": {
+      "en": "Jang-hyeok An",
+      "ja": "アン・ジャンヒョク"
+    }
   },
   "gender": "male",
   "nationality": [

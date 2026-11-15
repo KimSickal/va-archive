@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "심정민",
-    "latin": "Shim Jeong-min"
+    "latin": "Shim Jeong-min",
+    "translated": {
+      "en": "Jeong-min Shim",
+      "ja": "シム・ジョンミン"
+    }
   },
   "gender": "male",
   "nationality": [
