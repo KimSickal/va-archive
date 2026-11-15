@@ -69,11 +69,17 @@ function mergePerson(a: Person, b: Person): Person {
   const aliases: Record<string, string[]> = {};
   for (const src of [a.name.aliases, b.name.aliases])
     for (const [l, list] of Object.entries(src ?? {})) aliases[l] = [...new Set([...(aliases[l] ?? []), ...list])];
+  // 자체 번역: 먼저 나온 값 우선, 공식 표기가 생긴 언어는 뺀다
+  const translated = Object.fromEntries(
+    Object.entries({ ...(b.name.translated ?? {}), ...(a.name.translated ?? {}) }).filter(([l]) => !official[l]),
+  );
   out.name = {
     ...a.name,
     ...(Object.keys(official).length ? { official } : {}),
     ...(Object.keys(aliases).length ? { aliases } : {}),
   };
+  delete out.name.translated;
+  if (Object.keys(translated).length) out.name.translated = translated;
   if (a.name.original !== b.name.original || a.name.latin !== b.name.latin)
     conflicts.push(
       `persons/${a.id}.name: ${a.name.original}/${a.name.latin ?? '-'} vs ${b.name.original}/${b.name.latin ?? '-'}`,
