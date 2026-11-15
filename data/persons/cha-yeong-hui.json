@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "차영희",
-    "latin": "Cha Yeong-hui"
+    "latin": "Cha Yeong-hui",
+    "translated": {
+      "en": "Yeong-hui Cha",
+      "ja": "チャ・ヨンヒ"
+    }
   },
   "nationality": [
     "KR"

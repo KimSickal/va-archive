@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "신온유",
-    "latin": "Shin On-yu"
+    "latin": "Shin On-yu",
+    "translated": {
+      "en": "On-yu Shin",
+      "ja": "シン・オニュ"
+    }
   },
   "nationality": [
     "KR"

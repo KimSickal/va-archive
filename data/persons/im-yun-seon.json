@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "임윤선",
-    "latin": "Lim Yun-seon"
+    "latin": "Lim Yun-seon",
+    "translated": {
+      "en": "Yun-seon Lim",
+      "ja": "イム・ユンソン"
+    }
   },
   "sources": [
     {

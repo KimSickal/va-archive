@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "미소",
-    "latin": "Miso"
+    "latin": "Miso",
+    "translated": {
+      "en": "Miso",
+      "ja": "ミソ"
+    }
   },
   "nationality": [
     "KR"

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "박이서",
-    "latin": "Park I-seo"
+    "latin": "Park I-seo",
+    "translated": {
+      "en": "I-seo Park",
+      "ja": "パク・イソ"
+    }
   },
   "gender": "female",
   "nationality": [

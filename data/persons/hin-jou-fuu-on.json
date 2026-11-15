@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ja",
     "original": "濱上風音",
-    "latin": "Futo Hamagami"
+    "latin": "Futo Hamagami",
+    "translated": {
+      "en": "Futo Hamagami",
+      "ko": "하마가미 후토"
+    }
   },
   "sources": [
     {

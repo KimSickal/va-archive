@@ -1004,6 +1004,9 @@
           "ko": [
             "도니"
           ]
+        },
+        "translated": {
+          "en": "Doni"
         }
       },
       "first_appearance": {
@@ -1020,6 +1023,9 @@
           "ko": [
             "피오닐"
           ]
+        },
+        "translated": {
+          "en": "Fionil"
         }
       },
       "first_appearance": {
@@ -1031,7 +1037,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ダンダン",
-        "latin": "Dandan"
+        "latin": "Dandan",
+        "translated": {
+          "ko": "단단",
+          "en": "Dandan"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1145,6 +1155,9 @@
           "ko": [
             "존"
           ]
+        },
+        "translated": {
+          "en": "Zon"
         }
       },
       "first_appearance": {
@@ -1161,6 +1174,9 @@
           "ko": [
             "리드"
           ]
+        },
+        "translated": {
+          "en": "Leed"
         }
       },
       "first_appearance": {
@@ -1180,6 +1196,9 @@
           "ko": [
             "데르갈 멜리니"
           ]
+        },
+        "translated": {
+          "en": "Delgal Merini"
         }
       },
       "first_appearance": {
@@ -1199,6 +1218,9 @@
           "ko": [
             "프리나그 멜리니"
           ]
+        },
+        "translated": {
+          "en": "Freinag Merini"
         }
       },
       "first_appearance": {
@@ -1215,6 +1237,9 @@
           "ko": [
             "섬주"
           ]
+        },
+        "translated": {
+          "en": "Island Lord"
         }
       },
       "first_appearance": {
@@ -1226,7 +1251,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ギリン",
-        "latin": "Gillin"
+        "latin": "Gillin",
+        "translated": {
+          "ko": "길린",
+          "en": "Gillin"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1237,7 +1266,11 @@
       "name": {
         "original_lang": "ja",
         "original": "トタン",
-        "latin": "Totan"
+        "latin": "Totan",
+        "translated": {
+          "ko": "토탄",
+          "en": "Totan"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1248,7 +1281,11 @@
       "name": {
         "original_lang": "ja",
         "original": "インバー",
-        "latin": "Invar"
+        "latin": "Invar",
+        "translated": {
+          "ko": "인바",
+          "en": "Invar"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1259,7 +1296,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ヌール",
-        "latin": "Noor"
+        "latin": "Noor",
+        "translated": {
+          "ko": "누르",
+          "en": "Noor"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1270,7 +1311,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ブリガン",
-        "latin": "Brigan"
+        "latin": "Brigan",
+        "translated": {
+          "ko": "브리간",
+          "en": "Brigan"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1281,7 +1326,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ライオスの父",
-        "latin": "Laios's father"
+        "latin": "Laios's father",
+        "translated": {
+          "ko": "라이오스의 아버지",
+          "en": "Laios's Father"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1292,7 +1341,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ライオスの母",
-        "latin": "Laios's mother"
+        "latin": "Laios's mother",
+        "translated": {
+          "ko": "라이오스의 어머니",
+          "en": "Laios's Mother"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1303,7 +1356,11 @@
       "name": {
         "original_lang": "ja",
         "original": "マルシルの母",
-        "latin": "Marcille's mother"
+        "latin": "Marcille's mother",
+        "translated": {
+          "ko": "마르실의 어머니",
+          "en": "Marcille's Mother"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1314,7 +1371,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ナレーション",
-        "latin": "Narrator"
+        "latin": "Narrator",
+        "translated": {
+          "ko": "내레이션",
+          "en": "Narration"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1326,7 +1387,11 @@
       "name": {
         "original_lang": "ja",
         "original": "迷宮初心者",
-        "latin": "Rookie adventurer"
+        "latin": "Rookie adventurer",
+        "translated": {
+          "ko": "미궁 초심자",
+          "en": "Dungeon Beginner"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1338,7 +1403,11 @@
       "name": {
         "original_lang": "ja",
         "original": "金剥ぎリーダー",
-        "latin": "Gold stripper leader"
+        "latin": "Gold stripper leader",
+        "translated": {
+          "ko": "금품털이 리더",
+          "en": "Robber Leader"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1350,7 +1419,11 @@
       "name": {
         "original_lang": "ja",
         "original": "金剥ぎドワーフ",
-        "latin": "Gold stripper dwarf"
+        "latin": "Gold stripper dwarf",
+        "translated": {
+          "ko": "금품털이 드워프",
+          "en": "Robber Dwarf"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1362,7 +1435,11 @@
       "name": {
         "original_lang": "ja",
         "original": "用心棒",
-        "latin": "Bodyguard"
+        "latin": "Bodyguard",
+        "translated": {
+          "ko": "경호원",
+          "en": "Bodyguard"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1374,7 +1451,11 @@
       "name": {
         "original_lang": "ja",
         "original": "店主",
-        "latin": "Shopkeeper"
+        "latin": "Shopkeeper",
+        "translated": {
+          "ko": "가게 주인",
+          "en": "Shopkeeper"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1386,7 +1467,11 @@
       "name": {
         "original_lang": "ja",
         "original": "女オーク",
-        "latin": "Female orc"
+        "latin": "Female orc",
+        "translated": {
+          "ko": "여자 오크",
+          "en": "Female Orc"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1398,7 +1483,11 @@
       "name": {
         "original_lang": "ja",
         "original": "男オーク",
-        "latin": "Male orc"
+        "latin": "Male orc",
+        "translated": {
+          "ko": "남자 오크",
+          "en": "Male Orc"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1410,7 +1499,11 @@
       "name": {
         "original_lang": "ja",
         "original": "子オーク",
-        "latin": "Orc child"
+        "latin": "Orc child",
+        "translated": {
+          "ko": "아기 오크",
+          "en": "Orc Child"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1422,7 +1515,11 @@
       "name": {
         "original_lang": "ja",
         "original": "男",
-        "latin": "Man"
+        "latin": "Man",
+        "translated": {
+          "ko": "남자",
+          "en": "Man"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1434,7 +1531,11 @@
       "name": {
         "original_lang": "ja",
         "original": "男",
-        "latin": "Man"
+        "latin": "Man",
+        "translated": {
+          "ko": "남자",
+          "en": "Man"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1446,7 +1547,11 @@
       "name": {
         "original_lang": "ja",
         "original": "王妃",
-        "latin": "Queen"
+        "latin": "Queen",
+        "translated": {
+          "ko": "왕비",
+          "en": "Queen"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1458,7 +1563,11 @@
       "name": {
         "original_lang": "ja",
         "original": "侍女",
-        "latin": "Maid"
+        "latin": "Maid",
+        "translated": {
+          "ko": "시녀",
+          "en": "Maid"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1470,7 +1579,11 @@
       "name": {
         "original_lang": "ja",
         "original": "死体回収屋A",
-        "latin": "Corpse collector A"
+        "latin": "Corpse collector A",
+        "translated": {
+          "ko": "시체 회수꾼 A",
+          "en": "Corpse Collector A"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1482,7 +1595,11 @@
       "name": {
         "original_lang": "ja",
         "original": "死体回収屋B",
-        "latin": "Corpse collector B"
+        "latin": "Corpse collector B",
+        "translated": {
+          "ko": "시체 회수꾼 B",
+          "en": "Corpse Collector B"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1494,7 +1611,11 @@
       "name": {
         "original_lang": "ja",
         "original": "人魚",
-        "latin": "Mermaid"
+        "latin": "Mermaid",
+        "translated": {
+          "ko": "인어",
+          "en": "Mermaid"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1506,7 +1627,11 @@
       "name": {
         "original_lang": "ja",
         "original": "先生",
-        "latin": "Teacher"
+        "latin": "Teacher",
+        "translated": {
+          "ko": "선생님",
+          "en": "Teacher"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1518,7 +1643,11 @@
       "name": {
         "original_lang": "ja",
         "original": "生徒1",
-        "latin": "Student 1"
+        "latin": "Student 1",
+        "translated": {
+          "ko": "학생 1",
+          "en": "Student 1"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1530,7 +1659,11 @@
       "name": {
         "original_lang": "ja",
         "original": "生徒2",
-        "latin": "Student 2"
+        "latin": "Student 2",
+        "translated": {
+          "ko": "학생 2",
+          "en": "Student 2"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1542,7 +1675,11 @@
       "name": {
         "original_lang": "ja",
         "original": "生徒3",
-        "latin": "Student 3"
+        "latin": "Student 3",
+        "translated": {
+          "ko": "학생 3",
+          "en": "Student 3"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1554,7 +1691,11 @@
       "name": {
         "original_lang": "ja",
         "original": "受付",
-        "latin": "Receptionist"
+        "latin": "Receptionist",
+        "translated": {
+          "ko": "접수원",
+          "en": "Receptionist"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1566,7 +1707,11 @@
       "name": {
         "original_lang": "ja",
         "original": "村人1",
-        "latin": "Villager 1"
+        "latin": "Villager 1",
+        "translated": {
+          "ko": "마을 사람 1",
+          "en": "Villager 1"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1578,7 +1723,11 @@
       "name": {
         "original_lang": "ja",
         "original": "村人2",
-        "latin": "Villager 2"
+        "latin": "Villager 2",
+        "translated": {
+          "ko": "마을 사람 2",
+          "en": "Villager 2"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1590,7 +1739,11 @@
       "name": {
         "original_lang": "ja",
         "original": "村人3",
-        "latin": "Villager 3"
+        "latin": "Villager 3",
+        "translated": {
+          "ko": "마을 사람 3",
+          "en": "Villager 3"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1602,7 +1755,11 @@
       "name": {
         "original_lang": "ja",
         "original": "オークA",
-        "latin": "Orc A"
+        "latin": "Orc A",
+        "translated": {
+          "ko": "오크 A",
+          "en": "Orc A"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1614,7 +1771,11 @@
       "name": {
         "original_lang": "ja",
         "original": "オークB",
-        "latin": "Orc B"
+        "latin": "Orc B",
+        "translated": {
+          "ko": "오크 B",
+          "en": "Orc B"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1626,7 +1787,11 @@
       "name": {
         "original_lang": "ja",
         "original": "オークC",
-        "latin": "Orc C"
+        "latin": "Orc C",
+        "translated": {
+          "ko": "오크 C",
+          "en": "Orc C"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1638,7 +1803,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ドライアド1",
-        "latin": "Dryad 1"
+        "latin": "Dryad 1",
+        "translated": {
+          "ko": "드라이어드 1",
+          "en": "Dryad 1"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1650,7 +1819,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ドライアド2",
-        "latin": "Dryad 2"
+        "latin": "Dryad 2",
+        "translated": {
+          "ko": "드라이어드 2",
+          "en": "Dryad 2"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1662,7 +1835,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ドライアド3",
-        "latin": "Dryad 3"
+        "latin": "Dryad 3",
+        "translated": {
+          "ko": "드라이어드 3",
+          "en": "Dryad 3"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1674,7 +1851,11 @@
       "name": {
         "original_lang": "ja",
         "original": "山姥",
-        "latin": "Hag"
+        "latin": "Hag",
+        "translated": {
+          "ko": "산할멈",
+          "en": "Mountain Hag"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1686,7 +1867,11 @@
       "name": {
         "original_lang": "ja",
         "original": "村人1",
-        "latin": "Villager 1"
+        "latin": "Villager 1",
+        "translated": {
+          "ko": "마을 사람 1",
+          "en": "Villager 1"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1698,7 +1883,11 @@
       "name": {
         "original_lang": "ja",
         "original": "村人2",
-        "latin": "Villager 2"
+        "latin": "Villager 2",
+        "translated": {
+          "ko": "마을 사람 2",
+          "en": "Villager 2"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1710,7 +1899,11 @@
       "name": {
         "original_lang": "ja",
         "original": "村人3",
-        "latin": "Villager 3"
+        "latin": "Villager 3",
+        "translated": {
+          "ko": "마을 사람 3",
+          "en": "Villager 3"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1722,7 +1915,11 @@
       "name": {
         "original_lang": "ja",
         "original": "村人4",
-        "latin": "Villager 4"
+        "latin": "Villager 4",
+        "translated": {
+          "ko": "마을 사람 4",
+          "en": "Villager 4"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1734,7 +1931,11 @@
       "name": {
         "original_lang": "ja",
         "original": "村人5",
-        "latin": "Villager 5"
+        "latin": "Villager 5",
+        "translated": {
+          "ko": "마을 사람 5",
+          "en": "Villager 5"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1746,7 +1947,11 @@
       "name": {
         "original_lang": "ja",
         "original": "村人6",
-        "latin": "Villager 6"
+        "latin": "Villager 6",
+        "translated": {
+          "ko": "마을 사람 6",
+          "en": "Villager 6"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"
@@ -1758,7 +1963,11 @@
       "name": {
         "original_lang": "ja",
         "original": "村人7",
-        "latin": "Villager 7"
+        "latin": "Villager 7",
+        "translated": {
+          "ko": "마을 사람 7",
+          "en": "Villager 7"
+        }
       },
       "first_appearance": {
         "work": "dungeon-meshi-s1"

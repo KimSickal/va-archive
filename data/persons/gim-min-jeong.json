@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김민정",
-    "latin": "Kim Min-jeong"
+    "latin": "Kim Min-jeong",
+    "translated": {
+      "en": "Min-jeong Kim",
+      "ja": "キム・ミンジョン"
+    }
   },
   "nationality": [
     "KR"

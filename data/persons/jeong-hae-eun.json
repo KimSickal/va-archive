@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "정해은",
-    "latin": "Jung Hae-eun"
+    "latin": "Jung Hae-eun",
+    "translated": {
+      "en": "Hae-eun Jung",
+      "ja": "チョン・ヘウン"
+    }
   },
   "sources": [
     {

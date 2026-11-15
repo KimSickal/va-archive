@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이보희",
-    "latin": "Lee Bo-hui"
+    "latin": "Lee Bo-hui",
+    "translated": {
+      "en": "Bo-hui Lee",
+      "ja": "イ・ボヒ"
+    }
   },
   "gender": "female",
   "nationality": [

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "정유정",
-    "latin": "Jung Yu-jeong"
+    "latin": "Jung Yu-jeong",
+    "translated": {
+      "en": "Yu-jeong Jung",
+      "ja": "チョン・ユジョン"
+    }
   },
   "nationality": [
     "KR"

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "안경진",
-    "latin": "Ahn Gyeong-jin"
+    "latin": "Ahn Gyeong-jin",
+    "translated": {
+      "en": "Gyeong-jin Ahn",
+      "ja": "アン・ギョンジン"
+    }
   },
   "nationality": [
     "KR"

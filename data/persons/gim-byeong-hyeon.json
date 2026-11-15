@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김병현",
-    "latin": "Kim Byeong-hyeon"
+    "latin": "Kim Byeong-hyeon",
+    "translated": {
+      "en": "Byeong-hyeon Kim",
+      "ja": "キム・ビョンヒョン"
+    }
   },
   "gender": "male",
   "nationality": [

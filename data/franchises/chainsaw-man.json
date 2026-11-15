@@ -342,6 +342,9 @@
           "en": [
             "Galgali"
           ]
+        },
+        "translated": {
+          "ko": "폭력의 마인"
         }
       },
       "first_appearance": {
@@ -369,6 +372,9 @@
             "Princi",
             "Spider Devil"
           ]
+        },
+        "translated": {
+          "ko": "거미의 악마"
         }
       },
       "first_appearance": {
@@ -415,6 +421,9 @@
           "ja": [
             "こうもりのあくま"
           ]
+        },
+        "translated": {
+          "ko": "박쥐의 악마"
         }
       },
       "first_appearance": {
@@ -431,6 +440,9 @@
           "en": [
             "Leech Devil"
           ]
+        },
+        "translated": {
+          "ko": "거머리의 악마"
         }
       },
       "first_appearance": {
@@ -450,6 +462,9 @@
           "ja": [
             "きつねのあくま"
           ]
+        },
+        "translated": {
+          "ko": "여우의 악마"
         }
       },
       "first_appearance": {
@@ -469,6 +484,9 @@
           "ja": [
             "えいえんのあくま"
           ]
+        },
+        "translated": {
+          "ko": "영원의 악마"
         }
       },
       "first_appearance": {
@@ -489,6 +507,9 @@
             "のろいのあくま",
             "カース"
           ]
+        },
+        "translated": {
+          "ko": "저주의 악마"
         }
       },
       "first_appearance": {
@@ -509,6 +530,9 @@
             "ゆうれいのあくま",
             "ゴースト"
           ]
+        },
+        "translated": {
+          "ko": "유령의 악마"
         }
       },
       "first_appearance": {
@@ -528,6 +552,9 @@
           "ja": [
             "みらいのあくま"
           ]
+        },
+        "translated": {
+          "ko": "미래의 악마"
         }
       },
       "first_appearance": {
@@ -547,6 +574,9 @@
           "ja": [
             "たいふうのあくま"
           ]
+        },
+        "translated": {
+          "ko": "태풍의 악마"
         }
       },
       "first_appearance": {
@@ -573,6 +603,9 @@
           "ja": [
             "ぞんびのあくま"
           ]
+        },
+        "translated": {
+          "ko": "좀비의 악마"
         }
       },
       "first_appearance": {
@@ -589,6 +622,9 @@
           "en": [
             "Tomato Devil"
           ]
+        },
+        "translated": {
+          "ko": "토마토의 악마"
         }
       },
       "first_appearance": {
@@ -608,6 +644,9 @@
           "ja": [
             "さわたりあかね"
           ]
+        },
+        "translated": {
+          "ko": "사와타리 아카네"
         }
       },
       "first_appearance": {
@@ -630,6 +669,9 @@
           "en": [
             "Katana Man"
           ]
+        },
+        "translated": {
+          "ko": "사무라이 소드"
         }
       },
       "first_appearance": {
@@ -646,6 +688,10 @@
           "ja": [
             "はやかわたいよう"
           ]
+        },
+        "translated": {
+          "ko": "하야카와 타이요",
+          "en": "Taiyo Hayakawa"
         }
       },
       "first_appearance": {
@@ -665,6 +711,9 @@
           "ja": [
             "てんどうみちこ"
           ]
+        },
+        "translated": {
+          "ko": "텐도 미치코"
         }
       },
       "first_appearance": {
@@ -684,6 +733,9 @@
           "ja": [
             "くろせゆうたろう"
           ]
+        },
+        "translated": {
+          "ko": "쿠로세 유타로"
         }
       },
       "first_appearance": {
@@ -695,7 +747,11 @@
       "name": {
         "original_lang": "ja",
         "original": "椎名",
-        "latin": "Shiina"
+        "latin": "Shiina",
+        "translated": {
+          "ko": "시이나",
+          "en": "Shiina"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -711,6 +767,10 @@
           "ja": [
             "ふるの"
           ]
+        },
+        "translated": {
+          "ko": "후루노",
+          "en": "Furuno"
         }
       },
       "first_appearance": {
@@ -755,6 +815,9 @@
           "ja": [
             "のも"
           ]
+        },
+        "translated": {
+          "ko": "노모"
         }
       },
       "first_appearance": {
@@ -778,6 +841,10 @@
           "ja": [
             "かとう"
           ]
+        },
+        "translated": {
+          "ko": "카토",
+          "en": "Kato"
         }
       },
       "first_appearance": {
@@ -794,6 +861,10 @@
           "ja": [
             "たなべ"
           ]
+        },
+        "translated": {
+          "ko": "타나베",
+          "en": "Tanabe"
         }
       },
       "first_appearance": {
@@ -810,6 +881,10 @@
           "ja": [
             "あんどうまさき"
           ]
+        },
+        "translated": {
+          "ko": "안도 마사키",
+          "en": "Masaki Ando"
         }
       },
       "first_appearance": {
@@ -821,7 +896,11 @@
       "name": {
         "original_lang": "ja",
         "original": "早川父親",
-        "latin": "Aki's Father"
+        "latin": "Aki's Father",
+        "translated": {
+          "ko": "아키의 아버지",
+          "en": "Aki's Father"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -833,7 +912,11 @@
       "name": {
         "original_lang": "ja",
         "original": "早川母親",
-        "latin": "Aki's Mother"
+        "latin": "Aki's Mother",
+        "translated": {
+          "ko": "아키의 어머니",
+          "en": "Aki's Mother"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -845,7 +928,11 @@
       "name": {
         "original_lang": "ja",
         "original": "姫野の妹",
-        "latin": "Himeno's Sister"
+        "latin": "Himeno's Sister",
+        "translated": {
+          "ko": "히메노의 여동생",
+          "en": "Himeno's Younger Sister"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -857,7 +944,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ヤクザ",
-        "latin": "Yakuza"
+        "latin": "Yakuza",
+        "translated": {
+          "ko": "야쿠자",
+          "en": "Yakuza"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -869,7 +960,11 @@
       "name": {
         "original_lang": "ja",
         "original": "子分",
-        "latin": "Henchman"
+        "latin": "Henchman",
+        "translated": {
+          "ko": "부하",
+          "en": "Henchman"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -881,7 +976,11 @@
       "name": {
         "original_lang": "ja",
         "original": "部下A",
-        "latin": "Subordinate A"
+        "latin": "Subordinate A",
+        "translated": {
+          "ko": "부하 A",
+          "en": "Subordinate A"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -893,7 +992,11 @@
       "name": {
         "original_lang": "ja",
         "original": "部下B",
-        "latin": "Subordinate B"
+        "latin": "Subordinate B",
+        "translated": {
+          "ko": "부하 B",
+          "en": "Subordinate B"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -905,7 +1008,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ゾンビ達",
-        "latin": "Zombies"
+        "latin": "Zombies",
+        "translated": {
+          "ko": "좀비들",
+          "en": "Zombies"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -917,7 +1024,11 @@
       "name": {
         "original_lang": "ja",
         "original": "店員",
-        "latin": "Shop Clerk"
+        "latin": "Shop Clerk",
+        "translated": {
+          "ko": "점원",
+          "en": "Shop Clerk"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -929,7 +1040,11 @@
       "name": {
         "original_lang": "ja",
         "original": "警官A",
-        "latin": "Police Officer A"
+        "latin": "Police Officer A",
+        "translated": {
+          "ko": "경찰관 A",
+          "en": "Police Officer A"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -941,7 +1056,11 @@
       "name": {
         "original_lang": "ja",
         "original": "警官B",
-        "latin": "Police Officer B"
+        "latin": "Police Officer B",
+        "translated": {
+          "ko": "경찰관 B",
+          "en": "Police Officer B"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -953,7 +1072,11 @@
       "name": {
         "original_lang": "ja",
         "original": "警官C",
-        "latin": "Police Officer C"
+        "latin": "Police Officer C",
+        "translated": {
+          "ko": "경찰관 C",
+          "en": "Police Officer C"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -965,7 +1088,11 @@
       "name": {
         "original_lang": "ja",
         "original": "魔人",
-        "latin": "Fiend"
+        "latin": "Fiend",
+        "translated": {
+          "ko": "마인",
+          "en": "Fiend"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -977,7 +1104,11 @@
       "name": {
         "original_lang": "ja",
         "original": "民間のデビルハンター",
-        "latin": "Private Devil Hunter"
+        "latin": "Private Devil Hunter",
+        "translated": {
+          "ko": "민간 데블 헌터",
+          "en": "Private Devil Hunter"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -989,7 +1120,11 @@
       "name": {
         "original_lang": "ja",
         "original": "受付職員",
-        "latin": "Receptionist"
+        "latin": "Receptionist",
+        "translated": {
+          "ko": "접수 직원",
+          "en": "Receptionist"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -1001,7 +1136,11 @@
       "name": {
         "original_lang": "ja",
         "original": "幹部A",
-        "latin": "Executive A"
+        "latin": "Executive A",
+        "translated": {
+          "ko": "간부 A",
+          "en": "Executive A"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -1013,7 +1152,11 @@
       "name": {
         "original_lang": "ja",
         "original": "幹部C",
-        "latin": "Executive C"
+        "latin": "Executive C",
+        "translated": {
+          "ko": "간부 C",
+          "en": "Executive C"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -1025,7 +1168,11 @@
       "name": {
         "original_lang": "ja",
         "original": "女性OL",
-        "latin": "Female Office Worker"
+        "latin": "Female Office Worker",
+        "translated": {
+          "ko": "여성 직장인",
+          "en": "Female Office Worker"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -1037,7 +1184,11 @@
       "name": {
         "original_lang": "ja",
         "original": "父",
-        "latin": "Father"
+        "latin": "Father",
+        "translated": {
+          "ko": "아버지",
+          "en": "Father"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -1049,7 +1200,11 @@
       "name": {
         "original_lang": "ja",
         "original": "娘",
-        "latin": "Daughter"
+        "latin": "Daughter",
+        "translated": {
+          "ko": "딸",
+          "en": "Daughter"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -1061,7 +1216,11 @@
       "name": {
         "original_lang": "ja",
         "original": "車内の男",
-        "latin": "Man in the Car"
+        "latin": "Man in the Car",
+        "translated": {
+          "ko": "차 안의 남자",
+          "en": "Man in the Car"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -1073,7 +1232,11 @@
       "name": {
         "original_lang": "ja",
         "original": "女性課員",
-        "latin": "Female Division Member"
+        "latin": "Female Division Member",
+        "translated": {
+          "ko": "여성 과원",
+          "en": "Female Division Member"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -1085,7 +1248,11 @@
       "name": {
         "original_lang": "ja",
         "original": "男性課員",
-        "latin": "Male Division Member"
+        "latin": "Male Division Member",
+        "translated": {
+          "ko": "남성 과원",
+          "en": "Male Division Member"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -1097,7 +1264,11 @@
       "name": {
         "original_lang": "ja",
         "original": "部下",
-        "latin": "Subordinate"
+        "latin": "Subordinate",
+        "translated": {
+          "ko": "부하",
+          "en": "Subordinate"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -1109,7 +1280,11 @@
       "name": {
         "original_lang": "ja",
         "original": "男の声",
-        "latin": "Man's Voice"
+        "latin": "Man's Voice",
+        "translated": {
+          "ko": "남자 목소리",
+          "en": "Man's Voice"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -1121,7 +1296,11 @@
       "name": {
         "original_lang": "ja",
         "original": "子分A",
-        "latin": "Henchman A"
+        "latin": "Henchman A",
+        "translated": {
+          "ko": "부하 A",
+          "en": "Henchman A"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -1133,7 +1312,11 @@
       "name": {
         "original_lang": "ja",
         "original": "子分B",
-        "latin": "Henchman B"
+        "latin": "Henchman B",
+        "translated": {
+          "ko": "부하 B",
+          "en": "Henchman B"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -1145,7 +1328,11 @@
       "name": {
         "original_lang": "ja",
         "original": "子分C",
-        "latin": "Henchman C"
+        "latin": "Henchman C",
+        "translated": {
+          "ko": "부하 C",
+          "en": "Henchman C"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -1157,7 +1344,11 @@
       "name": {
         "original_lang": "ja",
         "original": "子分D",
-        "latin": "Henchman D"
+        "latin": "Henchman D",
+        "translated": {
+          "ko": "부하 D",
+          "en": "Henchman D"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -1169,7 +1360,11 @@
       "name": {
         "original_lang": "ja",
         "original": "乗客A",
-        "latin": "Passenger A"
+        "latin": "Passenger A",
+        "translated": {
+          "ko": "승객 A",
+          "en": "Passenger A"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -1181,7 +1376,11 @@
       "name": {
         "original_lang": "ja",
         "original": "男A",
-        "latin": "Man A"
+        "latin": "Man A",
+        "translated": {
+          "ko": "남자 A",
+          "en": "Man A"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -1193,7 +1392,11 @@
       "name": {
         "original_lang": "ja",
         "original": "職員",
-        "latin": "Staff Member"
+        "latin": "Staff Member",
+        "translated": {
+          "ko": "직원",
+          "en": "Staff Member"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -1205,7 +1408,11 @@
       "name": {
         "original_lang": "ja",
         "original": "犯罪者A",
-        "latin": "Criminal A"
+        "latin": "Criminal A",
+        "translated": {
+          "ko": "범죄자 A",
+          "en": "Criminal A"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -1217,7 +1424,11 @@
       "name": {
         "original_lang": "ja",
         "original": "犯罪者B",
-        "latin": "Criminal B"
+        "latin": "Criminal B",
+        "translated": {
+          "ko": "범죄자 B",
+          "en": "Criminal B"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -1229,7 +1440,11 @@
       "name": {
         "original_lang": "ja",
         "original": "人質の女性",
-        "latin": "Hostage Woman"
+        "latin": "Hostage Woman",
+        "translated": {
+          "ko": "인질 여성",
+          "en": "Hostage Woman"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -1241,7 +1456,11 @@
       "name": {
         "original_lang": "ja",
         "original": "アナウンサー",
-        "latin": "Announcer"
+        "latin": "Announcer",
+        "translated": {
+          "ko": "아나운서",
+          "en": "Announcer"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -1253,7 +1472,11 @@
       "name": {
         "original_lang": "ja",
         "original": "子分A",
-        "latin": "Henchman A"
+        "latin": "Henchman A",
+        "translated": {
+          "ko": "부하 A",
+          "en": "Henchman A"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -1265,7 +1488,11 @@
       "name": {
         "original_lang": "ja",
         "original": "子分B",
-        "latin": "Henchman B"
+        "latin": "Henchman B",
+        "translated": {
+          "ko": "부하 B",
+          "en": "Henchman B"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -1277,7 +1504,11 @@
       "name": {
         "original_lang": "ja",
         "original": "子分C",
-        "latin": "Henchman C"
+        "latin": "Henchman C",
+        "translated": {
+          "ko": "부하 C",
+          "en": "Henchman C"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -1289,7 +1520,11 @@
       "name": {
         "original_lang": "ja",
         "original": "子分D",
-        "latin": "Henchman D"
+        "latin": "Henchman D",
+        "translated": {
+          "ko": "부하 D",
+          "en": "Henchman D"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -1301,7 +1536,11 @@
       "name": {
         "original_lang": "ja",
         "original": "組長",
-        "latin": "Yakuza Boss"
+        "latin": "Yakuza Boss",
+        "translated": {
+          "ko": "조장",
+          "en": "Yakuza Boss"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -1313,7 +1552,11 @@
       "name": {
         "original_lang": "ja",
         "original": "アナウンス",
-        "latin": "Announcement"
+        "latin": "Announcement",
+        "translated": {
+          "ko": "안내 방송",
+          "en": "Announcement"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -1325,7 +1568,11 @@
       "name": {
         "original_lang": "ja",
         "original": "大男ゾンビ",
-        "latin": "Large Zombie"
+        "latin": "Large Zombie",
+        "translated": {
+          "ko": "거한 좀비",
+          "en": "Large Zombie"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -1337,7 +1584,11 @@
       "name": {
         "original_lang": "ja",
         "original": "逃げ遅れた乗客",
-        "latin": "Stranded Passenger"
+        "latin": "Stranded Passenger",
+        "translated": {
+          "ko": "미처 도망치지 못한 승객",
+          "en": "Stranded Passenger"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -1349,7 +1600,11 @@
       "name": {
         "original_lang": "ja",
         "original": "幹部",
-        "latin": "Executive"
+        "latin": "Executive",
+        "translated": {
+          "ko": "간부",
+          "en": "Executive"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-tv"
@@ -1361,7 +1616,11 @@
       "name": {
         "original_lang": "ja",
         "original": "副隊長",
-        "latin": "Vice Captain"
+        "latin": "Vice Captain",
+        "translated": {
+          "ko": "부대장",
+          "en": "Vice Captain"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-reze"
@@ -1385,6 +1644,10 @@
           "ja": [
             "モヒカン男"
           ]
+        },
+        "translated": {
+          "ko": "수수께끼의 남자",
+          "en": "Mysterious Man"
         }
       },
       "first_appearance": {
@@ -1404,7 +1667,11 @@
       "name": {
         "original_lang": "ja",
         "original": "二道のマスター",
-        "latin": "Master of Nimichi"
+        "latin": "Master of Nimichi",
+        "translated": {
+          "ko": "니미치 마스터",
+          "en": "Master of Nimichi"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-reze"
@@ -1416,7 +1683,11 @@
       "name": {
         "original_lang": "ja",
         "original": "お笑い芸人",
-        "latin": "Comedian"
+        "latin": "Comedian",
+        "translated": {
+          "ko": "개그맨",
+          "en": "Comedian"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-chainsaw-biyori"
@@ -1428,7 +1699,11 @@
       "name": {
         "original_lang": "ja",
         "original": "女性",
-        "latin": "Woman"
+        "latin": "Woman",
+        "translated": {
+          "ko": "여성",
+          "en": "Woman"
+        }
       },
       "first_appearance": {
         "work": "chainsaw-man-chainsaw-biyori"

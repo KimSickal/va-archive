@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "전광주",
-    "latin": "Jeon Gwang-ju"
+    "latin": "Jeon Gwang-ju",
+    "translated": {
+      "en": "Gwang-ju Jeon",
+      "ja": "チョン・グァンジュ"
+    }
   },
   "nationality": [
     "KR"

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "하미경",
-    "latin": "Ha Mi-gyeong"
+    "latin": "Ha Mi-gyeong",
+    "translated": {
+      "en": "Mi-gyeong Ha",
+      "ja": "ハ・ミギョン"
+    }
   },
   "nationality": [
     "KR"

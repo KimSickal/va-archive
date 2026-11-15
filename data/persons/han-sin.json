@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "한신",
-    "latin": "Han Sin"
+    "latin": "Han Sin",
+    "translated": {
+      "en": "Sin Han",
+      "ja": "ハン・シン"
+    }
   },
   "sources": [
     {

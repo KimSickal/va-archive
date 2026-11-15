@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "고성일",
-    "latin": "Ko Seong-il"
+    "latin": "Ko Seong-il",
+    "translated": {
+      "en": "Seong-il Ko",
+      "ja": "コ・ソンイル"
+    }
   },
   "gender": "male",
   "nationality": [

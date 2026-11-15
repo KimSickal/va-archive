@@ -8,7 +8,8 @@
     "original": "呪術廻戦「死滅回游 前編」",
     "latin": "Jujutsu Kaisen \"Shimetsu Kaiyu Zenpen\"",
     "official": {
-      "en": "Jujutsu Kaisen Season 3: The Culling Game Part 1"
+      "en": "Jujutsu Kaisen Season 3: The Culling Game Part 1",
+      "ko": "주술회전 3기: 사멸회유 전편"
     },
     "aliases": {
       "ja": [
@@ -1554,6 +1555,22 @@
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s88",
+      "url": "https://pedia.watcha.com/ko/contents/tPj15pw",
+      "title": "주술회전 3기: 사멸회유 전편 - 왓챠피디아",
+      "publisher": "other",
+      "tier": 2,
+      "accessed_at": "2026-11-16"
+    },
+    {
+      "id": "s89",
+      "url": "https://www.justwatch.com/kr/TV-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/jusulhoejeon",
+      "title": "주술회전 - 스트리밍: 어디에서 볼 수 있나요? - JustWatch",
+      "publisher": "other",
+      "tier": 2,
+      "accessed_at": "2026-11-16"
     }
   ],
   "meta": {

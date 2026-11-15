@@ -8,7 +8,8 @@
     "original": "TVアニメNo.170+1『More』",
     "latin": "TV Anime No.170+1 \"More\"",
     "official": {
-      "en": "My Hero Academia: More"
+      "en": "My Hero Academia: More",
+      "ko": "나의 히어로 아카데미아 FINAL SEASON More"
     }
   },
   "order": 22,
@@ -863,6 +864,14 @@
       "publisher": "other",
       "tier": 2,
       "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s7",
+      "url": "https://pedia.watcha.com/ko/contents/tl9grnj",
+      "title": "나의 히어로 아카데미아 FINAL SEASON More - 왓챠피디아",
+      "publisher": "other",
+      "tier": 2,
+      "accessed_at": "2026-11-16"
     }
   ],
   "meta": {

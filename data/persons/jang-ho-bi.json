@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "장호비",
-    "latin": "Jang Ho-bi"
+    "latin": "Jang Ho-bi",
+    "translated": {
+      "en": "Ho-bi Jang",
+      "ja": "チャン・ホビ"
+    }
   },
   "sources": [
     {

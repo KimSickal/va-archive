@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "정성훈",
-    "latin": "Jung Seong-hun"
+    "latin": "Jung Seong-hun",
+    "translated": {
+      "en": "Seong-hun Jung",
+      "ja": "チョン・ソンフン"
+    }
   },
   "gender": "male",
   "nationality": [

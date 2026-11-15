@@ -8,7 +8,8 @@
     "original": "僕のヒーローアカデミア ULTRA RUMBLE",
     "latin": "Boku no Hero Academia Ultra Rumble",
     "official": {
-      "en": "My Hero Ultra Rumble"
+      "en": "My Hero Ultra Rumble",
+      "ko": "MY HERO ULTRA RUMBLE"
     }
   },
   "order": 36,
@@ -262,6 +263,14 @@
       "publisher": "official",
       "tier": 1,
       "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s23",
+      "url": "https://www.playstation.com/ko-kr/games/my-hero-ultra-rumble/",
+      "title": "MY HERO ULTRA RUMBLE",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-16"
     }
   ],
   "meta": {

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "방연지",
-    "latin": "Bang Yeon-ji"
+    "latin": "Bang Yeon-ji",
+    "translated": {
+      "en": "Yeon-ji Bang",
+      "ja": "パン・ヨンジ"
+    }
   },
   "nationality": [
     "KR"

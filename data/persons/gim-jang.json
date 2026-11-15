@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김장",
-    "latin": "Kim Jang"
+    "latin": "Kim Jang",
+    "translated": {
+      "en": "Jang Kim",
+      "ja": "キム・ジャン"
+    }
   },
   "gender": "male",
   "nationality": [

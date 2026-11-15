@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ja",
     "original": "あべそういち",
-    "latin": "Soichi Abe"
+    "latin": "Soichi Abe",
+    "translated": {
+      "en": "Soichi Abe",
+      "ko": "아베 소이치"
+    }
   },
   "gender": "male",
   "nationality": [

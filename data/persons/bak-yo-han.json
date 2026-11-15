@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "박요한",
-    "latin": "Park Yo-han"
+    "latin": "Park Yo-han",
+    "translated": {
+      "en": "Yo-han Park",
+      "ja": "パク・ヨハン"
+    }
   },
   "nationality": [
     "KR"

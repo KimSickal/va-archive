@@ -4,7 +4,11 @@
   "slug": "hwang-chang-yeong",
   "name": {
     "original_lang": "ko",
-    "original": "황창영"
+    "original": "황창영",
+    "translated": {
+      "en": "Chang-yeong Hwang",
+      "ja": "ファン・チャンヨン"
+    }
   },
   "birth": "1987-05-26",
   "nationality": [

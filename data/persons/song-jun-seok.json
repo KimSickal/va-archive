@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "송준석",
-    "latin": "Song Jun-seok"
+    "latin": "Song Jun-seok",
+    "translated": {
+      "en": "Jun-seok Song",
+      "ja": "ソン・ジュンソク"
+    }
   },
   "nationality": [
     "KR"

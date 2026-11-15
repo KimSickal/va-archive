@@ -8,14 +8,12 @@
     "original": "僕のヒーローアカデミア（第7期）",
     "latin": "Boku no Hero Academia (Dai 7-ki)",
     "official": {
-      "en": "My Hero Academia Season 7"
+      "en": "My Hero Academia Season 7",
+      "ko": "나의 히어로 아카데미아 7기"
     },
     "aliases": {
       "ja": [
         "ヒロアカ 7期"
-      ],
-      "ko": [
-        "나의 히어로 아카데미아 7기"
       ]
     }
   },
@@ -2718,6 +2716,14 @@
       "publisher": "other",
       "tier": 3,
       "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s112",
+      "url": "https://www.tving.com/contents/P001759241",
+      "title": "나의 히어로 아카데미아 7기 (더빙) 1화 | TVING",
+      "publisher": "broadcaster",
+      "tier": 1,
+      "accessed_at": "2026-11-16"
     }
   ],
   "meta": {

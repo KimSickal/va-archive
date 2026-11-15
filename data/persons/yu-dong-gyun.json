@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "유동균",
-    "latin": "Yoo Dong-gyun"
+    "latin": "Yoo Dong-gyun",
+    "translated": {
+      "en": "Dong-gyun Yoo",
+      "ja": "ユ・ドンギュン"
+    }
   },
   "gender": "male",
   "nationality": [

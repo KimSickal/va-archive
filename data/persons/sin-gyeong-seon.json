@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "신경선",
-    "latin": "Shin Gyeong-seon"
+    "latin": "Shin Gyeong-seon",
+    "translated": {
+      "en": "Gyeong-seon Shin",
+      "ja": "シン・ギョンソン"
+    }
   },
   "nationality": [
     "KR"

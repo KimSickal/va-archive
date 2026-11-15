@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "정의택",
-    "latin": "Jung Ui-taek"
+    "latin": "Jung Ui-taek",
+    "translated": {
+      "en": "Ui-taek Jung",
+      "ja": "チョン・ウィテク"
+    }
   },
   "nationality": [
     "KR"

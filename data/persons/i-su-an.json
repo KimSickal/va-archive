@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이수안",
-    "latin": "Lee Su-an"
+    "latin": "Lee Su-an",
+    "translated": {
+      "en": "Su-an Lee",
+      "ja": "イ・スアン"
+    }
   },
   "sources": [
     {

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김현욱",
-    "latin": "Kim Hyeon-uk"
+    "latin": "Kim Hyeon-uk",
+    "translated": {
+      "en": "Hyeon-uk Kim",
+      "ja": "キム・ヒョヌク"
+    }
   },
   "nationality": [
     "KR"

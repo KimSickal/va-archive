@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "지미애",
-    "latin": "Ji Mi-ae"
+    "latin": "Ji Mi-ae",
+    "translated": {
+      "en": "Mi-ae Ji",
+      "ja": "チ・ミエ"
+    }
   },
   "gender": "female",
   "nationality": [

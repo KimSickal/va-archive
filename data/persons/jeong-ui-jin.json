@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "정의진",
-    "latin": "Jung Ui-jin"
+    "latin": "Jung Ui-jin",
+    "translated": {
+      "en": "Ui-jin Jung",
+      "ja": "チョン・ウィジン"
+    }
   },
   "nationality": [
     "KR"

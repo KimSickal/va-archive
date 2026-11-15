@@ -8,14 +8,12 @@
     "original": "呪術廻戦 ファントムパレード",
     "latin": "Jujutsu Kaisen Phantom Parade",
     "official": {
-      "en": "Jujutsu Kaisen Phantom Parade"
+      "en": "Jujutsu Kaisen Phantom Parade",
+      "ko": "주술회전 팬텀 퍼레이드"
     },
     "aliases": {
       "ja": [
         "ファンパレ"
-      ],
-      "ko": [
-        "주술회전 팬텀 퍼레이드"
       ]
     }
   },
@@ -460,6 +458,14 @@
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s39",
+      "url": "https://apps.apple.com/kr/app/id6475925341",
+      "title": "주술회전 팬텀 퍼레이드 - App Store",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-16"
     }
   ],
   "meta": {

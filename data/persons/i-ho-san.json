@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이호산",
-    "latin": "Lee Ho-san"
+    "latin": "Lee Ho-san",
+    "translated": {
+      "en": "Ho-san Lee",
+      "ja": "イ・ホサン"
+    }
   },
   "nationality": [
     "KR"

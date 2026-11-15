@@ -8,7 +8,8 @@
     "original": "僕のヒーローアカデミア All's Justice",
     "latin": "Boku no Hero Academia All's Justice",
     "official": {
-      "en": "My Hero Academia: All's Justice"
+      "en": "My Hero Academia: All's Justice",
+      "ko": "나의 히어로 아카데미아 올즈 저스티스"
     }
   },
   "order": 37,
@@ -588,6 +589,22 @@
       "publisher": "official",
       "tier": 1,
       "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s64",
+      "url": "https://www.invenglobal.com/articles/25521/my-hero-academia-alls-justice-released-on-nintendo-switch-2",
+      "title": "'My Hero Academia: All's Justice' Released on Nintendo Switch 2",
+      "publisher": "news",
+      "tier": 2,
+      "accessed_at": "2026-11-16"
+    },
+    {
+      "id": "s65",
+      "url": "https://www.playstation.com/ko-kr/games/my-hero-academia-alls-justice/",
+      "title": "나의 히어로 아카데미아 올즈 저스티스 | PlayStation (한국)",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-16"
     }
   ],
   "meta": {

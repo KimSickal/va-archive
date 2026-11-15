@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김새해",
-    "latin": "Kim Sae-hae"
+    "latin": "Kim Sae-hae",
+    "translated": {
+      "en": "Sae-hae Kim",
+      "ja": "キム・セヘ"
+    }
   },
   "nationality": [
     "KR"

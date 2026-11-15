@@ -6,7 +6,13 @@
   "title": {
     "original_lang": "ja",
     "original": "「鬼滅の刃」特別編集版 刀鍛冶の里 敵襲編",
-    "latin": "Kimetsu no Yaiba Tokubetsu Henshuban: Katanakaji no Sato Tekishu-hen"
+    "latin": "Kimetsu no Yaiba Tokubetsu Henshuban: Katanakaji no Sato Tekishu-hen",
+    "official": {
+      "ko": "귀멸의 칼날: 도공 마을 적습편"
+    },
+    "translated": {
+      "en": "Demon Slayer: Kimetsu no Yaiba Special Edition – Swordsmith Village Enemy Attack Arc"
+    }
   },
   "order": 24,
   "status": "finished",
@@ -1163,6 +1169,14 @@
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s43",
+      "url": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EA%B7%80%EB%A9%B8%EC%9D%98",
+      "title": "영화정보 검색 (귀멸의) - KOBIS 영화관입장권통합전산망",
+      "publisher": "other",
+      "tier": 1,
+      "accessed_at": "2026-11-16"
     }
   ],
   "meta": {

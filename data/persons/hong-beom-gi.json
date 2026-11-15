@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "홍범기",
-    "latin": "Hong Beom-gi"
+    "latin": "Hong Beom-gi",
+    "translated": {
+      "en": "Beom-gi Hong",
+      "ja": "ホン・ボムギ"
+    }
   },
   "gender": "male",
   "nationality": [

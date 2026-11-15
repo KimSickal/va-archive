@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이선주",
-    "latin": "Lee Seon-ju"
+    "latin": "Lee Seon-ju",
+    "translated": {
+      "en": "Seon-ju Lee",
+      "ja": "イ・ソンジュ"
+    }
   },
   "gender": "female",
   "nationality": [

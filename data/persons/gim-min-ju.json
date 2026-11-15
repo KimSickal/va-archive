@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김민주",
-    "latin": "Kim Min-ju"
+    "latin": "Kim Min-ju",
+    "translated": {
+      "en": "Min-ju Kim",
+      "ja": "キム・ミンジュ"
+    }
   },
   "nationality": [
     "KR"

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김광국",
-    "latin": "Kim Gwang-guk"
+    "latin": "Kim Gwang-guk",
+    "translated": {
+      "en": "Gwang-guk Kim",
+      "ja": "キム・グァングク"
+    }
   },
   "nationality": [
     "KR"

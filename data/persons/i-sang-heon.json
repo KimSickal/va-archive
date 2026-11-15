@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이상헌",
-    "latin": "Lee Sang-heon"
+    "latin": "Lee Sang-heon",
+    "translated": {
+      "en": "Sang-heon Lee",
+      "ja": "イ・サンホン"
+    }
   },
   "nationality": [
     "KR"

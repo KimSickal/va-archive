@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이재범",
-    "latin": "Lee Jae-beom"
+    "latin": "Lee Jae-beom",
+    "translated": {
+      "en": "Jae-beom Lee",
+      "ja": "イ・ジェボム"
+    }
   },
   "nationality": [
     "KR"

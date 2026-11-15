@@ -118,6 +118,9 @@
           "en": [
             "Lockon Stratos"
           ]
+        },
+        "translated": {
+          "ko": "라일 디란디"
         }
       },
       "description": {
@@ -522,6 +525,9 @@
         "latin": "Aka Haro",
         "official": {
           "en": "Red Haro"
+        },
+        "translated": {
+          "ko": "빨간 하로"
         }
       },
       "first_appearance": {
@@ -536,6 +542,9 @@
         "latin": "Ao Haro",
         "official": {
           "en": "Blue Haro"
+        },
+        "translated": {
+          "ko": "파란 하로"
         }
       },
       "first_appearance": {
@@ -550,6 +559,9 @@
         "latin": "HARO",
         "official": {
           "en": "HARO"
+        },
+        "translated": {
+          "ko": "HARO"
         }
       },
       "description": {
@@ -955,6 +967,9 @@
           "en": [
             "Innovade soldier"
           ]
+        },
+        "translated": {
+          "ko": "이노베이드 병사"
         }
       },
       "first_appearance": {
@@ -972,6 +987,9 @@
           "en": [
             "Innovade technical staff"
           ]
+        },
+        "translated": {
+          "ko": "이노베이드 기술 담당"
         }
       },
       "first_appearance": {
@@ -989,6 +1007,9 @@
           "en": [
             "Press secretary"
           ]
+        },
+        "translated": {
+          "ko": "보도관"
         }
       },
       "first_appearance": {
@@ -1129,6 +1150,9 @@
         "latin": "Joshua Edwards",
         "official": {
           "en": "Joshua Edwards"
+        },
+        "translated": {
+          "ko": "조슈아 에드워즈"
         }
       },
       "first_appearance": {
@@ -1143,6 +1167,9 @@
         "latin": "Brian Stegmeyer",
         "official": {
           "en": "Brian Stegmeyer"
+        },
+        "translated": {
+          "ko": "브라이언 스테그마이어"
         }
       },
       "first_appearance": {
@@ -1157,6 +1184,9 @@
         "latin": "David Carnegie",
         "official": {
           "en": "David Carnegie"
+        },
+        "translated": {
+          "ko": "데이비드 카네기"
         }
       },
       "first_appearance": {
@@ -1275,6 +1305,9 @@
           "ja": [
             "いけだ"
           ]
+        },
+        "translated": {
+          "ko": "이케다"
         }
       },
       "first_appearance": {
@@ -1351,6 +1384,9 @@
         "latin": "Emilio Ribisi",
         "official": {
           "en": "Emilio Ribisi"
+        },
+        "translated": {
+          "ko": "에밀리오 리비시"
         }
       },
       "first_appearance": {
@@ -1433,6 +1469,9 @@
         "latin": "Min",
         "official": {
           "en": "Min"
+        },
+        "translated": {
+          "ko": "민"
         }
       },
       "first_appearance": {
@@ -1447,6 +1486,9 @@
         "latin": "Kim",
         "official": {
           "en": "Kim"
+        },
+        "translated": {
+          "ko": "김"
         }
       },
       "first_appearance": {
@@ -1463,6 +1505,9 @@
           "en": [
             "HRL Chairman"
           ]
+        },
+        "translated": {
+          "ko": "국가주석"
         }
       },
       "first_appearance": {
@@ -1478,6 +1523,9 @@
         "latin": "Holly Smirnov",
         "official": {
           "en": "Holly Smirnov"
+        },
+        "translated": {
+          "ko": "홀리 스미르노프"
         }
       },
       "first_appearance": {
@@ -1492,6 +1540,9 @@
         "latin": "Mina Carmine",
         "official": {
           "en": "Mina Carmine"
+        },
+        "translated": {
+          "ko": "미나 카마인"
         }
       },
       "first_appearance": {
@@ -1508,6 +1559,9 @@
           "en": [
             "Earth Federation President (first)"
           ]
+        },
+        "translated": {
+          "ko": "지구연방 대통령 (초대)"
         }
       },
       "first_appearance": {
@@ -1525,6 +1579,9 @@
           "en": [
             "Earth Federation President (second)"
           ]
+        },
+        "translated": {
+          "ko": "지구연방 대통령 (2대)"
         }
       },
       "first_appearance": {
@@ -1540,6 +1597,9 @@
         "latin": "Pang Herculy",
         "official": {
           "en": "Pang Herculy"
+        },
+        "translated": {
+          "ko": "팡 허큘리"
         }
       },
       "first_appearance": {
@@ -1554,6 +1614,9 @@
         "latin": "Descartes Shaman",
         "official": {
           "en": "Descartes Shaman"
+        },
+        "translated": {
+          "ko": "데카르트 샤먼"
         }
       },
       "first_appearance": {
@@ -1565,7 +1628,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ネフェル・ナギーブ",
-        "latin": "Nefer Nagib"
+        "latin": "Nefer Nagib",
+        "translated": {
+          "ko": "네페르 나기브",
+          "en": "Nefer Nagib"
+        }
       },
       "first_appearance": {
         "work": "gundam-00-movie"
@@ -1674,6 +1741,9 @@
         "latin": "Araga",
         "official": {
           "en": "Araga"
+        },
+        "translated": {
+          "ko": "아라가"
         }
       },
       "first_appearance": {
@@ -1788,6 +1858,9 @@
         "latin": "Klaus Grado",
         "official": {
           "en": "Klaus Grado"
+        },
+        "translated": {
+          "ko": "클라우스 그라드"
         }
       },
       "first_appearance": {
@@ -1802,6 +1875,9 @@
         "latin": "Mahal",
         "official": {
           "en": "Mahal"
+        },
+        "translated": {
+          "ko": "마할"
         }
       },
       "first_appearance": {
@@ -1816,6 +1892,9 @@
         "latin": "Eddie Miyasaka",
         "official": {
           "en": "Eddie Miyasaka"
+        },
+        "translated": {
+          "ko": "에디 미야사카"
         }
       },
       "first_appearance": {
@@ -1830,6 +1909,9 @@
         "latin": "Yael",
         "official": {
           "en": "Yael"
+        },
+        "translated": {
+          "ko": "야엘"
         }
       },
       "first_appearance": {
@@ -1844,6 +1926,9 @@
         "latin": "Josef",
         "official": {
           "en": "Josef"
+        },
+        "translated": {
+          "ko": "요제프"
         }
       },
       "first_appearance": {
@@ -1858,6 +1943,9 @@
         "latin": "David",
         "official": {
           "en": "David"
+        },
+        "translated": {
+          "ko": "다비드"
         }
       },
       "first_appearance": {
@@ -1903,6 +1991,9 @@
         "latin": "Bolz Assan",
         "official": {
           "en": "Bolz Assan"
+        },
+        "translated": {
+          "ko": "볼츠 아산"
         }
       },
       "first_appearance": {
@@ -1922,6 +2013,9 @@
           "ja": [
             "エターナル・アラン・レイ"
           ]
+        },
+        "translated": {
+          "ko": "E. A. 레이"
         }
       },
       "first_appearance": {
@@ -1933,7 +2027,11 @@
       "name": {
         "original_lang": "ja",
         "original": "アーミア・リー",
-        "latin": "Amia Lee"
+        "latin": "Amia Lee",
+        "translated": {
+          "ko": "아미아 리",
+          "en": "Amia Lee"
+        }
       },
       "first_appearance": {
         "work": "gundam-00-movie"
@@ -1947,6 +2045,9 @@
         "latin": "Henry",
         "official": {
           "en": "Henry"
+        },
+        "translated": {
+          "ko": "헨리"
         }
       },
       "first_appearance": {
@@ -1963,6 +2064,9 @@
           "en": [
             "Louise's mother"
           ]
+        },
+        "translated": {
+          "ko": "루이스의 어머니"
         }
       },
       "first_appearance": {
@@ -1980,6 +2084,9 @@
           "en": [
             "Narrator"
           ]
+        },
+        "translated": {
+          "ko": "내레이션"
         }
       },
       "first_appearance": {
@@ -1997,6 +2104,9 @@
           "en": [
             "Attendant"
           ]
+        },
+        "translated": {
+          "ko": "승무원"
         }
       },
       "first_appearance": {
@@ -2014,6 +2124,9 @@
           "en": [
             "News caster"
           ]
+        },
+        "translated": {
+          "ko": "캐스터"
         }
       },
       "first_appearance": {
@@ -2031,6 +2144,9 @@
           "en": [
             "Controller A"
           ]
+        },
+        "translated": {
+          "ko": "관제관 A"
         }
       },
       "first_appearance": {
@@ -2048,6 +2164,9 @@
           "en": [
             "Controller B"
           ]
+        },
+        "translated": {
+          "ko": "관제관 B"
         }
       },
       "first_appearance": {
@@ -2065,6 +2184,9 @@
           "en": [
             "Controller"
           ]
+        },
+        "translated": {
+          "ko": "관제관"
         }
       },
       "first_appearance": {
@@ -2082,6 +2204,9 @@
           "en": [
             "Marina's follower"
           ]
+        },
+        "translated": {
+          "ko": "마리나의 시종"
         }
       },
       "first_appearance": {
@@ -2094,7 +2219,11 @@
       "name": {
         "original_lang": "en",
         "original": "Crew",
-        "latin": "Crew"
+        "latin": "Crew",
+        "translated": {
+          "ja": "クルー",
+          "ko": "승무원"
+        }
       },
       "first_appearance": {
         "work": "gundam-00-s1"
@@ -2106,7 +2235,11 @@
       "name": {
         "original_lang": "en",
         "original": "Engineer",
-        "latin": "Engineer"
+        "latin": "Engineer",
+        "translated": {
+          "ja": "技術者",
+          "ko": "기술자"
+        }
       },
       "first_appearance": {
         "work": "gundam-00-s1"
@@ -2123,6 +2256,10 @@
           "en": [
             "Italian assembly member"
           ]
+        },
+        "translated": {
+          "ja": "イタリア議員",
+          "ko": "이탈리아 의원"
         }
       },
       "first_appearance": {
@@ -2140,6 +2277,9 @@
           "en": [
             "Kinue's staff"
           ]
+        },
+        "translated": {
+          "ko": "키누에의 부하"
         }
       },
       "first_appearance": {
@@ -2152,7 +2292,11 @@
       "name": {
         "original_lang": "en",
         "original": "Policeman",
-        "latin": "Policeman"
+        "latin": "Policeman",
+        "translated": {
+          "ja": "警官",
+          "ko": "경찰관"
+        }
       },
       "first_appearance": {
         "work": "gundam-00-s1"
@@ -2164,7 +2308,11 @@
       "name": {
         "original_lang": "en",
         "original": "Scientist",
-        "latin": "Scientist"
+        "latin": "Scientist",
+        "translated": {
+          "ja": "科学者",
+          "ko": "과학자"
+        }
       },
       "first_appearance": {
         "work": "gundam-00-s1"
@@ -2176,7 +2324,11 @@
       "name": {
         "original_lang": "en",
         "original": "Soldier",
-        "latin": "Soldier"
+        "latin": "Soldier",
+        "translated": {
+          "ja": "兵士",
+          "ko": "병사"
+        }
       },
       "first_appearance": {
         "work": "gundam-00-s1"
@@ -2193,6 +2345,9 @@
           "en": [
             "Vice Minister of Foreign Affairs"
           ]
+        },
+        "translated": {
+          "ko": "외무차관"
         }
       },
       "first_appearance": {
@@ -2210,6 +2365,9 @@
           "en": [
             "Prime Minister of Taribia"
           ]
+        },
+        "translated": {
+          "ko": "타리비아 수상"
         }
       },
       "first_appearance": {
@@ -2227,6 +2385,9 @@
           "en": [
             "al-Saachez's staff"
           ]
+        },
+        "translated": {
+          "ko": "사셰스의 부하"
         }
       },
       "first_appearance": {
@@ -2244,6 +2405,9 @@
           "en": [
             "Commander"
           ]
+        },
+        "translated": {
+          "ko": "사령관"
         }
       },
       "first_appearance": {
@@ -2261,6 +2425,9 @@
           "en": [
             "Commander"
           ]
+        },
+        "translated": {
+          "ko": "인혁련 소대장"
         }
       },
       "first_appearance": {
@@ -2278,6 +2445,9 @@
           "en": [
             "Kinue's boss"
           ]
+        },
+        "translated": {
+          "ko": "부장"
         }
       },
       "first_appearance": {
@@ -2290,7 +2460,11 @@
       "name": {
         "original_lang": "en",
         "original": "Manager",
-        "latin": "Manager"
+        "latin": "Manager",
+        "translated": {
+          "ja": "マネージャー",
+          "ko": "매니저"
+        }
       },
       "first_appearance": {
         "work": "gundam-00-s1"
@@ -2307,6 +2481,9 @@
           "en": [
             "Marina's SP"
           ]
+        },
+        "translated": {
+          "ko": "마리나의 SP"
         }
       },
       "first_appearance": {
@@ -2324,6 +2501,9 @@
           "en": [
             "Pilot"
           ]
+        },
+        "translated": {
+          "ko": "조타수"
         }
       },
       "first_appearance": {
@@ -2341,6 +2521,9 @@
           "en": [
             "Waitress"
           ]
+        },
+        "translated": {
+          "ko": "급사"
         }
       },
       "first_appearance": {
@@ -2358,6 +2541,9 @@
           "en": [
             "British assembly member"
           ]
+        },
+        "translated": {
+          "ko": "영국 의원"
         }
       },
       "first_appearance": {
@@ -2375,6 +2561,9 @@
           "en": [
             "Ragna's secretary"
           ]
+        },
+        "translated": {
+          "ko": "라그나의 비서"
         }
       },
       "first_appearance": {
@@ -2392,6 +2581,9 @@
           "en": [
             "Saji's colleague"
           ]
+        },
+        "translated": {
+          "ko": "사지의 동료"
         }
       },
       "first_appearance": {
@@ -2404,7 +2596,11 @@
       "name": {
         "original_lang": "en",
         "original": "Captain",
-        "latin": "Captain"
+        "latin": "Captain",
+        "translated": {
+          "ja": "艦長",
+          "ko": "함장"
+        }
       },
       "first_appearance": {
         "work": "gundam-00-s1"
@@ -2421,6 +2617,9 @@
           "en": [
             "Aircraft carrier captain"
           ]
+        },
+        "translated": {
+          "ko": "미국 항공모함 함장"
         }
       },
       "first_appearance": {
@@ -2438,6 +2637,9 @@
           "en": [
             "Mother"
           ]
+        },
+        "translated": {
+          "ko": "어머니"
         }
       },
       "first_appearance": {
@@ -2455,6 +2657,9 @@
           "en": [
             "Water seller boy's grandfather"
           ]
+        },
+        "translated": {
+          "ko": "물장수 소년의 할아버지"
         }
       },
       "first_appearance": {
@@ -2472,6 +2677,10 @@
           "en": [
             "AEU intelligence chief"
           ]
+        },
+        "translated": {
+          "ja": "AEU情報部長",
+          "ko": "AEU 정보부장"
         }
       },
       "first_appearance": {
@@ -2489,6 +2698,9 @@
           "en": [
             "United Nations Secretary-General"
           ]
+        },
+        "translated": {
+          "ko": "UN 사무총장"
         }
       },
       "first_appearance": {
@@ -2506,6 +2718,9 @@
           "en": [
             "News caster"
           ]
+        },
+        "translated": {
+          "ko": "캐스터"
         }
       },
       "first_appearance": {
@@ -2523,6 +2738,9 @@
           "en": [
             "Foreign Legion colonel"
           ]
+        },
+        "translated": {
+          "ko": "외인부대 대령"
         }
       },
       "first_appearance": {
@@ -2540,6 +2758,9 @@
           "en": [
             "Officer"
           ]
+        },
+        "translated": {
+          "ko": "장교"
         }
       },
       "first_appearance": {
@@ -2557,6 +2778,9 @@
           "en": [
             "Spanish assembly member"
           ]
+        },
+        "translated": {
+          "ko": "스페인 의원"
         }
       },
       "first_appearance": {
@@ -2574,6 +2798,9 @@
           "en": [
             "Chief engineer"
           ]
+        },
+        "translated": {
+          "ko": "기술주임"
         }
       },
       "first_appearance": {
@@ -2591,6 +2818,9 @@
           "en": [
             "German assembly member"
           ]
+        },
+        "translated": {
+          "ko": "독일 의원"
         }
       },
       "first_appearance": {
@@ -2608,6 +2838,9 @@
           "en": [
             "French assembly member"
           ]
+        },
+        "translated": {
+          "ko": "프랑스 의원"
         }
       },
       "first_appearance": {
@@ -2625,6 +2858,9 @@
           "en": [
             "Boy"
           ]
+        },
+        "translated": {
+          "ko": "소년"
         }
       },
       "first_appearance": {
@@ -2642,6 +2878,9 @@
           "en": [
             "Boy (Allelujah's past)"
           ]
+        },
+        "translated": {
+          "ko": "소년 (알렐루야의 과거)"
         }
       },
       "first_appearance": {
@@ -2659,6 +2898,9 @@
           "en": [
             "Boy (Setsuna's past)"
           ]
+        },
+        "translated": {
+          "ko": "소년 (세츠나의 과거)"
         }
       },
       "first_appearance": {
@@ -2671,7 +2913,11 @@
       "name": {
         "original_lang": "ja",
         "original": "情報屋",
-        "latin": "Johoya"
+        "latin": "Johoya",
+        "translated": {
+          "ko": "정보상",
+          "en": "Informant"
+        }
       },
       "first_appearance": {
         "work": "gundam-00-s1"
@@ -2683,7 +2929,11 @@
       "name": {
         "original_lang": "ja",
         "original": "王家の老執事",
-        "latin": "Oke no Roshitsuji"
+        "latin": "Oke no Roshitsuji",
+        "translated": {
+          "ko": "왕가의 늙은 집사",
+          "en": "Old royal butler"
+        }
       },
       "first_appearance": {
         "work": "gundam-00-s1"
@@ -2700,6 +2950,9 @@
           "en": [
             "Spokesperson"
           ]
+        },
+        "translated": {
+          "ko": "보도관"
         }
       },
       "first_appearance": {
@@ -2717,6 +2970,9 @@
           "en": [
             "Federation soldier"
           ]
+        },
+        "translated": {
+          "ko": "연방 병사"
         }
       },
       "first_appearance": {
@@ -2734,6 +2990,9 @@
           "en": [
             "Katharon executive"
           ]
+        },
+        "translated": {
+          "ko": "카타론 간부"
         }
       },
       "first_appearance": {
@@ -2751,6 +3010,9 @@
           "en": [
             "Laborer"
           ]
+        },
+        "translated": {
+          "ko": "노동자"
         }
       },
       "first_appearance": {
@@ -2768,6 +3030,9 @@
           "en": [
             "Katharon soldier"
           ]
+        },
+        "translated": {
+          "ko": "카타론 병사"
         }
       },
       "first_appearance": {
@@ -2785,6 +3050,9 @@
           "en": [
             "HRL soldier"
           ]
+        },
+        "translated": {
+          "ko": "인혁 병사"
         }
       },
       "first_appearance": {
@@ -2802,6 +3070,9 @@
           "en": [
             "Cruiser crew"
           ]
+        },
+        "translated": {
+          "ko": "순양함 승무원"
         }
       },
       "first_appearance": {
@@ -2819,6 +3090,10 @@
           "en": [
             "A-Laws crew"
           ]
+        },
+        "translated": {
+          "ja": "アロウズクルー",
+          "ko": "아로우즈 승무원"
         }
       },
       "first_appearance": {
@@ -2831,7 +3106,11 @@
       "name": {
         "original_lang": "en",
         "original": "Operator",
-        "latin": "Operator"
+        "latin": "Operator",
+        "translated": {
+          "ja": "オペレーター",
+          "ko": "오퍼레이터"
+        }
       },
       "first_appearance": {
         "work": "gundam-00-s2"
@@ -2848,6 +3127,9 @@
           "en": [
             "Rebel crew"
           ]
+        },
+        "translated": {
+          "ko": "반란군 승무원"
         }
       },
       "first_appearance": {
@@ -2865,6 +3147,9 @@
           "en": [
             "Regular army captain"
           ]
+        },
+        "translated": {
+          "ko": "정규군 함장"
         }
       },
       "first_appearance": {
@@ -2882,6 +3167,9 @@
           "en": [
             "Katharon staff"
           ]
+        },
+        "translated": {
+          "ko": "카타론 직원"
         }
       },
       "first_appearance": {
@@ -2899,6 +3187,9 @@
           "en": [
             "A-Laws lieutenant"
           ]
+        },
+        "translated": {
+          "ko": "아로우즈 부관"
         }
       },
       "first_appearance": {
@@ -2916,6 +3207,9 @@
           "en": [
             "Katharon crew"
           ]
+        },
+        "translated": {
+          "ko": "카타론 승무원"
         }
       },
       "first_appearance": {
@@ -2933,6 +3227,9 @@
           "en": [
             "Katharon captain"
           ]
+        },
+        "translated": {
+          "ko": "카타론 함장"
         }
       },
       "first_appearance": {
@@ -2950,6 +3247,9 @@
           "en": [
             "Aircraft carrier crew"
           ]
+        },
+        "translated": {
+          "ko": "항공모함 승무원"
         }
       },
       "first_appearance": {
@@ -2967,6 +3267,9 @@
           "en": [
             "Adjutant"
           ]
+        },
+        "translated": {
+          "ko": "부관"
         }
       },
       "first_appearance": {
@@ -2984,6 +3287,10 @@
           "en": [
             "A-Laws soldier"
           ]
+        },
+        "translated": {
+          "ja": "アロウズ兵士",
+          "ko": "아로우즈 병사"
         }
       },
       "first_appearance": {
@@ -2996,7 +3303,11 @@
       "name": {
         "original_lang": "en",
         "original": "Crew",
-        "latin": "Crew"
+        "latin": "Crew",
+        "translated": {
+          "ja": "クルー",
+          "ko": "승무원"
+        }
       },
       "first_appearance": {
         "work": "gundam-00-s2"
@@ -3008,7 +3319,11 @@
       "name": {
         "original_lang": "en",
         "original": "Observer",
-        "latin": "Observer"
+        "latin": "Observer",
+        "translated": {
+          "ja": "観測員",
+          "ko": "관측원"
+        }
       },
       "first_appearance": {
         "work": "gundam-00-s2"
@@ -3020,7 +3335,11 @@
       "name": {
         "original_lang": "en",
         "original": "Soldier",
-        "latin": "Soldier"
+        "latin": "Soldier",
+        "translated": {
+          "ja": "兵士",
+          "ko": "병사"
+        }
       },
       "first_appearance": {
         "work": "gundam-00-s2"
@@ -3037,6 +3356,9 @@
           "en": [
             "Boy"
           ]
+        },
+        "translated": {
+          "ko": "소년"
         }
       },
       "first_appearance": {
@@ -3049,7 +3371,11 @@
       "name": {
         "original_lang": "ja",
         "original": "アッシュ",
-        "latin": "Ash"
+        "latin": "Ash",
+        "translated": {
+          "ko": "애시",
+          "en": "Ash"
+        }
       },
       "first_appearance": {
         "work": "gundam-00-s2"
@@ -3060,7 +3386,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ケニー",
-        "latin": "Kenny"
+        "latin": "Kenny",
+        "translated": {
+          "ko": "케니",
+          "en": "Kenny"
+        }
       },
       "first_appearance": {
         "work": "gundam-00-s2"
@@ -3076,6 +3406,9 @@
           "en": [
             "Secretary of Defense"
           ]
+        },
+        "translated": {
+          "ko": "국방장관"
         }
       },
       "first_appearance": {
@@ -3093,6 +3426,9 @@
           "en": [
             "Chairman of the Chiefs of Staff"
           ]
+        },
+        "translated": {
+          "ko": "합참의장"
         }
       },
       "first_appearance": {
@@ -3110,6 +3446,9 @@
           "en": [
             "Chief presidential aide"
           ]
+        },
+        "translated": {
+          "ko": "수석 보좌관"
         }
       },
       "first_appearance": {
@@ -3127,6 +3466,9 @@
           "en": [
             "Presidential aide"
           ]
+        },
+        "translated": {
+          "ko": "보좌관"
         }
       },
       "first_appearance": {
@@ -3144,6 +3486,9 @@
           "en": [
             "Technical officer"
           ]
+        },
+        "translated": {
+          "ko": "기술사관"
         }
       },
       "first_appearance": {
@@ -3161,6 +3506,9 @@
           "en": [
             "Adjutant"
           ]
+        },
+        "translated": {
+          "ko": "부관"
         }
       },
       "first_appearance": {
@@ -3178,6 +3526,9 @@
           "en": [
             "Newscaster"
           ]
+        },
+        "translated": {
+          "ko": "캐스터"
         }
       },
       "first_appearance": {
@@ -3190,7 +3541,11 @@
       "name": {
         "original_lang": "ja",
         "original": "議員",
-        "latin": "Giin"
+        "latin": "Giin",
+        "translated": {
+          "ko": "의원",
+          "en": "Assembly member"
+        }
       },
       "first_appearance": {
         "work": "gundam-00-movie"
@@ -3202,7 +3557,11 @@
       "name": {
         "original_lang": "ja",
         "original": "議員",
-        "latin": "Giin"
+        "latin": "Giin",
+        "translated": {
+          "ko": "의원",
+          "en": "Assembly member"
+        }
       },
       "nameless": true,
       "first_appearance": {

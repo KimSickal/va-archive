@@ -780,6 +780,9 @@
           "ja": [
             "つぎくによりいち"
           ]
+        },
+        "translated": {
+          "ko": "츠기쿠니 요리이치"
         }
       },
       "first_appearance": {
@@ -1320,6 +1323,9 @@
         "latin": "Mukago",
         "official": {
           "en": "Mukago"
+        },
+        "translated": {
+          "ko": "무카고"
         }
       },
       "first_appearance": {
@@ -1394,6 +1400,9 @@
         "latin": "Rui's Mother",
         "official": {
           "ko": "루이 엄마"
+        },
+        "translated": {
+          "en": "Rui's Mother"
         }
       },
       "first_appearance": {
@@ -1408,6 +1417,9 @@
         "latin": "Rui's Father",
         "official": {
           "ko": "루이 아빠"
+        },
+        "translated": {
+          "en": "Rui's Father"
         }
       },
       "first_appearance": {
@@ -1457,6 +1469,9 @@
         "latin": "Hand Demon's Brother",
         "official": {
           "ko": "손 혈귀 형"
+        },
+        "translated": {
+          "en": "Hand Demon's Brother"
         }
       },
       "first_appearance": {
@@ -1566,6 +1581,9 @@
         "latin": "Tokie",
         "official": {
           "ko": "토키에"
+        },
+        "translated": {
+          "en": "Tokie"
         }
       },
       "first_appearance": {
@@ -1580,6 +1598,9 @@
         "latin": "Muzan's Wife",
         "official": {
           "ko": "키부츠지 아내"
+        },
+        "translated": {
+          "en": "Muzan's Wife"
         }
       },
       "first_appearance": {
@@ -1594,6 +1615,9 @@
         "latin": "Muzan's Daughter",
         "official": {
           "ko": "키부츠지 딸"
+        },
+        "translated": {
+          "en": "Muzan's Daughter"
         }
       },
       "first_appearance": {
@@ -1608,6 +1632,9 @@
         "latin": "Udon Shop Owner",
         "official": {
           "ko": "우동가게 주인"
+        },
+        "translated": {
+          "en": "Udon Shop Owner"
         }
       },
       "first_appearance": {
@@ -1668,6 +1695,9 @@
         "latin": "Old Woman",
         "official": {
           "ko": "할머니"
+        },
+        "translated": {
+          "en": "Old Woman"
         }
       },
       "first_appearance": {
@@ -1688,6 +1718,9 @@
           "ja": [
             "はしびらことは"
           ]
+        },
+        "translated": {
+          "ko": "하시비라 코토하"
         }
       },
       "first_appearance": {
@@ -1761,7 +1794,11 @@
       "name": {
         "original_lang": "ja",
         "original": "どんぐり丸",
-        "latin": "Dongurimaru"
+        "latin": "Dongurimaru",
+        "translated": {
+          "ko": "돈구리마루",
+          "en": "Dongurimaru"
+        }
       },
       "first_appearance": {
         "work": "kimetsu-no-yaiba-movie-mugenjo-1"
@@ -1775,6 +1812,9 @@
         "latin": "Kakushi",
         "official": {
           "ko": "은"
+        },
+        "translated": {
+          "en": "Kakushi"
         }
       },
       "first_appearance": {
@@ -1790,6 +1830,9 @@
         "latin": "Tomi",
         "official": {
           "ko": "토미"
+        },
+        "translated": {
+          "en": "Tomi"
         }
       },
       "first_appearance": {
@@ -1804,6 +1847,9 @@
         "latin": "Fuku",
         "official": {
           "ko": "후쿠"
+        },
+        "translated": {
+          "en": "Fuku"
         }
       },
       "first_appearance": {
@@ -1820,6 +1866,9 @@
           "ko": [
             "차장"
           ]
+        },
+        "translated": {
+          "en": "Conductor"
         }
       },
       "first_appearance": {
@@ -1832,7 +1881,11 @@
       "name": {
         "original_lang": "ja",
         "original": "結核の青年",
-        "latin": "Young Man with Tuberculosis"
+        "latin": "Young Man with Tuberculosis",
+        "translated": {
+          "ko": "결핵 걸린 청년",
+          "en": "Young Man with Tuberculosis"
+        }
       },
       "first_appearance": {
         "work": "kimetsu-no-yaiba-movie-mugen-train"
@@ -1844,7 +1897,11 @@
       "name": {
         "original_lang": "ja",
         "original": "三つ編みの少女",
-        "latin": "Girl with Braids"
+        "latin": "Girl with Braids",
+        "translated": {
+          "ko": "땋은 머리 소녀",
+          "en": "Girl with Braids"
+        }
       },
       "first_appearance": {
         "work": "kimetsu-no-yaiba-movie-mugen-train"
@@ -1919,6 +1976,9 @@
         "latin": "Omitsu",
         "official": {
           "ko": "오미츠"
+        },
+        "translated": {
+          "en": "Omitsu"
         }
       },
       "first_appearance": {
@@ -1933,6 +1993,9 @@
         "latin": "Muscle Mice",
         "official": {
           "ko": "불끈불끈 쥐"
+        },
+        "translated": {
+          "en": "Muscle Mice"
         }
       },
       "first_appearance": {
@@ -1962,6 +2025,9 @@
         "latin": "Teiko Shinazugawa",
         "official": {
           "ko": "시나즈가와 테이코"
+        },
+        "translated": {
+          "en": "Teiko Shinazugawa"
         }
       },
       "first_appearance": {
@@ -1976,6 +2042,9 @@
         "latin": "Sumi Shinazugawa",
         "official": {
           "ko": "시나즈가와 스미"
+        },
+        "translated": {
+          "en": "Sumi Shinazugawa"
         }
       },
       "first_appearance": {
@@ -1990,6 +2059,9 @@
         "latin": "Shuya Shinazugawa",
         "official": {
           "ko": "시나즈가와 슈야"
+        },
+        "translated": {
+          "en": "Shuya Shinazugawa"
         }
       },
       "first_appearance": {
@@ -2004,6 +2076,9 @@
         "latin": "Hiroshi Shinazugawa",
         "official": {
           "ko": "시나즈가와 히로시"
+        },
+        "translated": {
+          "en": "Hiroshi Shinazugawa"
         }
       },
       "first_appearance": {
@@ -2018,6 +2093,9 @@
         "latin": "Koto Shinazugawa",
         "official": {
           "ko": "시나즈가와 코토"
+        },
+        "translated": {
+          "en": "Koto Shinazugawa"
         }
       },
       "first_appearance": {
@@ -2032,6 +2110,9 @@
         "latin": "Tokito's Father",
         "official": {
           "ko": "토키토의 아빠"
+        },
+        "translated": {
+          "en": "Tokito's Father"
         }
       },
       "first_appearance": {
@@ -2046,6 +2127,9 @@
         "latin": "Tokito's Mother",
         "official": {
           "ko": "토키토의 엄마"
+        },
+        "translated": {
+          "en": "Tokito's Mother"
         }
       },
       "first_appearance": {
@@ -2079,6 +2163,9 @@
         "latin": "Inspector",
         "official": {
           "ko": "검사"
+        },
+        "translated": {
+          "en": "Inspector"
         }
       },
       "nameless": true
@@ -2121,6 +2208,9 @@
         "latin": "Hakuji's Father",
         "official": {
           "ko": "하쿠지의 아버지"
+        },
+        "translated": {
+          "en": "Hakuji's Father"
         }
       },
       "first_appearance": {
@@ -2132,7 +2222,11 @@
       "name": {
         "original_lang": "ja",
         "original": "童磨の父",
-        "latin": "Doma's Father"
+        "latin": "Doma's Father",
+        "translated": {
+          "ko": "도우마의 아버지",
+          "en": "Doma's Father"
+        }
       },
       "first_appearance": {
         "work": "kimetsu-no-yaiba-movie-mugenjo-1"
@@ -2143,7 +2237,11 @@
       "name": {
         "original_lang": "ja",
         "original": "童磨の母",
-        "latin": "Doma's Mother"
+        "latin": "Doma's Mother",
+        "translated": {
+          "ko": "도우마의 어머니",
+          "en": "Doma's Mother"
+        }
       },
       "first_appearance": {
         "work": "kimetsu-no-yaiba-movie-mugenjo-1"
@@ -2157,6 +2255,9 @@
         "latin": "Shimamoto",
         "official": {
           "ko": "시마모토"
+        },
+        "translated": {
+          "en": "Shimamoto"
         }
       },
       "first_appearance": {
@@ -2171,6 +2272,9 @@
         "latin": "Noguchi",
         "official": {
           "ko": "노구치"
+        },
+        "translated": {
+          "en": "Noguchi"
         }
       },
       "first_appearance": {
@@ -2185,6 +2289,9 @@
         "latin": "Takeuchi",
         "official": {
           "ko": "타케우치"
+        },
+        "translated": {
+          "en": "Takeuchi"
         }
       },
       "first_appearance": {
@@ -2199,6 +2306,9 @@
         "latin": "Biwa Woman",
         "official": {
           "ko": "비파녀"
+        },
+        "translated": {
+          "en": "Biwa Woman"
         }
       }
     },
@@ -2207,7 +2317,11 @@
       "name": {
         "original_lang": "ja",
         "original": "堕姫の帯の鬼",
-        "latin": "Daki's Sash Demon"
+        "latin": "Daki's Sash Demon",
+        "translated": {
+          "ko": "다키의 띠 혈귀",
+          "en": "Daki's Sash Demon"
+        }
       },
       "first_appearance": {
         "work": "kimetsu-no-yaiba-yukaku"
@@ -2219,7 +2333,11 @@
       "name": {
         "original_lang": "ja",
         "original": "禿",
-        "latin": "Kamuro"
+        "latin": "Kamuro",
+        "translated": {
+          "ko": "카무로",
+          "en": "Kamuro"
+        }
       },
       "first_appearance": {
         "work": "kimetsu-no-yaiba-yukaku"
@@ -2231,7 +2349,11 @@
       "name": {
         "original_lang": "ja",
         "original": "屋敷の鬼2",
-        "latin": "Mansion Demon 2"
+        "latin": "Mansion Demon 2",
+        "translated": {
+          "ko": "저택의 혈귀 2",
+          "en": "Mansion Demon 2"
+        }
       },
       "first_appearance": {
         "work": "kimetsu-no-yaiba-tanjiro-risshi"
@@ -2246,6 +2368,9 @@
         "latin": "Masao Maeda",
         "official": {
           "en": "Masao Maeda"
+        },
+        "translated": {
+          "ko": "마에다 마사오"
         }
       },
       "first_appearance": {
@@ -2257,7 +2382,11 @@
       "name": {
         "original_lang": "ja",
         "original": "甘露寺の父",
-        "latin": "Mitsuri's Father"
+        "latin": "Mitsuri's Father",
+        "translated": {
+          "ko": "칸로지의 아버지",
+          "en": "Kanroji's Father"
+        }
       },
       "first_appearance": {
         "work": "kimetsu-no-yaiba-katanakaji"
@@ -2268,7 +2397,11 @@
       "name": {
         "original_lang": "ja",
         "original": "甘露寺の母",
-        "latin": "Mitsuri's Mother"
+        "latin": "Mitsuri's Mother",
+        "translated": {
+          "ko": "칸로지의 어머니",
+          "en": "Kanroji's Mother"
+        }
       },
       "first_appearance": {
         "work": "kimetsu-no-yaiba-katanakaji"
@@ -2282,6 +2415,9 @@
         "latin": "Ozaki",
         "official": {
           "en": "Ozaki"
+        },
+        "translated": {
+          "ko": "오자키"
         }
       },
       "first_appearance": {
@@ -2293,7 +2429,11 @@
       "name": {
         "original_lang": "ja",
         "original": "寺の子どもたち",
-        "latin": "Temple Children"
+        "latin": "Temple Children",
+        "translated": {
+          "ko": "절의 아이들",
+          "en": "Temple Children"
+        }
       },
       "first_appearance": {
         "work": "kimetsu-no-yaiba-hashira-geiko"
@@ -2308,6 +2448,9 @@
         "latin": "Toyo",
         "official": {
           "en": "Toyo"
+        },
+        "translated": {
+          "ko": "토요"
         }
       },
       "first_appearance": {
@@ -2319,7 +2462,11 @@
       "name": {
         "original_lang": "ja",
         "original": "鼓屋敷の鬼",
-        "latin": "Tsuzumi Mansion Demon"
+        "latin": "Tsuzumi Mansion Demon",
+        "translated": {
+          "ko": "장구저택의 혈귀",
+          "en": "Tsuzumi Mansion Demon"
+        }
       },
       "first_appearance": {
         "work": "kimetsu-no-yaiba-tanjiro-risshi"
@@ -2331,7 +2478,11 @@
       "name": {
         "original_lang": "ja",
         "original": "よっちゃん",
-        "latin": "Yocchan"
+        "latin": "Yocchan",
+        "translated": {
+          "ko": "욧짱",
+          "en": "Yocchan"
+        }
       },
       "first_appearance": {
         "work": "kimetsu-no-yaiba-tanjiro-risshi"

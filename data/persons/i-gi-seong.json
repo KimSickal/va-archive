@@ -4,7 +4,11 @@
   "slug": "i-gi-seong",
   "name": {
     "original_lang": "ko",
-    "original": "이기성"
+    "original": "이기성",
+    "translated": {
+      "en": "Gi-seong Lee",
+      "ja": "イ・ギソン"
+    }
   },
   "gender": "male",
   "nationality": [

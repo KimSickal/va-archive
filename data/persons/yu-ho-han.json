@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "유호한",
-    "latin": "Yoo Ho-han"
+    "latin": "Yoo Ho-han",
+    "translated": {
+      "en": "Ho-han Yoo",
+      "ja": "ユ・ホハン"
+    }
   },
   "gender": "male",
   "nationality": [

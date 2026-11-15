@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김보영",
-    "latin": "Kim Bo-yeong"
+    "latin": "Kim Bo-yeong",
+    "translated": {
+      "en": "Bo-yeong Kim",
+      "ja": "キム・ボヨン"
+    }
   },
   "sources": [
     {

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이동윤",
-    "latin": "Lee Dong-yun"
+    "latin": "Lee Dong-yun",
+    "translated": {
+      "en": "Dong-yun Lee",
+      "ja": "イ・ドンユン"
+    }
   },
   "nationality": [
     "KR"

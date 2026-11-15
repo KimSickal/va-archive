@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이원찬",
-    "latin": "Lee Won-chan"
+    "latin": "Lee Won-chan",
+    "translated": {
+      "en": "Won-chan Lee",
+      "ja": "イ・ウォンチャン"
+    }
   },
   "nationality": [
     "KR"

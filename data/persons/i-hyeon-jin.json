@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이현진",
-    "latin": "Lee Hyeon-jin"
+    "latin": "Lee Hyeon-jin",
+    "translated": {
+      "en": "Hyeon-jin Lee",
+      "ja": "イ・ヒョンジン"
+    }
   },
   "nationality": [
     "KR"

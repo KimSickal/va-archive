@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "박경혜",
-    "latin": "Park Gyeong-hye"
+    "latin": "Park Gyeong-hye",
+    "translated": {
+      "en": "Gyeong-hye Park",
+      "ja": "パク・ギョンヘ"
+    }
   },
   "nationality": [
     "KR"

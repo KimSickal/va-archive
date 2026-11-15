@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "정현경",
-    "latin": "Jung Hyeon-gyeong"
+    "latin": "Jung Hyeon-gyeong",
+    "translated": {
+      "en": "Hyeon-gyeong Jung",
+      "ja": "チョン・ヒョンギョン"
+    }
   },
   "nationality": [
     "KR"

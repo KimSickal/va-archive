@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김지율",
-    "latin": "Kim Ji-yul"
+    "latin": "Kim Ji-yul",
+    "translated": {
+      "en": "Ji-yul Kim",
+      "ja": "キム・ジユル"
+    }
   },
   "nationality": [
     "KR"

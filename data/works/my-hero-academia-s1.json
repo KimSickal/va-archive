@@ -8,14 +8,12 @@
     "original": "僕のヒーローアカデミア（第1期）",
     "latin": "Boku no Hero Academia (Dai 1-ki)",
     "official": {
-      "en": "My Hero Academia Season 1"
+      "en": "My Hero Academia Season 1",
+      "ko": "나의 히어로 아카데미아 1기"
     },
     "aliases": {
       "ja": [
         "ヒロアカ 1期"
-      ],
-      "ko": [
-        "나의 히어로 아카데미아 1기"
       ]
     }
   },
@@ -1344,6 +1342,14 @@
       "publisher": "namuwiki",
       "tier": 3,
       "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s53",
+      "url": "https://laftel.net/item/27209/(%EC%9E%90%EB%A7%89)-%EB%82%98%EC%9D%98-%ED%9E%88%EC%96%B4%EB%A1%9C-%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%EC%95%84-1%EA%B8%B0",
+      "title": "(자막) 나의 히어로 아카데미아 1기 - 라프텔",
+      "publisher": "broadcaster",
+      "tier": 1,
+      "accessed_at": "2026-11-16"
     }
   ],
   "meta": {

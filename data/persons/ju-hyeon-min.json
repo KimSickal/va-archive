@@ -4,7 +4,11 @@
   "slug": "ju-hyeon-min",
   "name": {
     "original_lang": "ko",
-    "original": "주현민"
+    "original": "주현민",
+    "translated": {
+      "en": "Hyeon-min Joo",
+      "ja": "チュ・ヒョンミン"
+    }
   },
   "sources": [
     {

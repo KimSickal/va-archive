@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ja",
     "original": "石原雅人",
-    "latin": "Masato Ishihara"
+    "latin": "Masato Ishihara",
+    "translated": {
+      "en": "Masato Ishihara",
+      "ko": "이시하라 마사토"
+    }
   },
   "sources": [
     {

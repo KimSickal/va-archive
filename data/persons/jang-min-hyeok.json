@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "장민혁",
-    "latin": "Jang Min-hyeok"
+    "latin": "Jang Min-hyeok",
+    "translated": {
+      "en": "Min-hyeok Jang",
+      "ja": "チャン・ミンヒョク"
+    }
   },
   "nationality": [
     "KR"

@@ -9,7 +9,13 @@
     "latin": "Gekijoban Kimetsu no Yaiba: Mugenjo-hen Dai-issho Akaza Sairai",
     "official": {
       "en": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-      "ko": "극장판 귀멸의 칼날: 무한성편 제1장 아카자 재림"
+      "ko": "극장판 귀멸의 칼날: 무한성편"
+    },
+    "aliases": {
+      "ko": [
+        "극장판 귀멸의 칼날: 무한성편 제1장",
+        "극장판 귀멸의 칼날: 무한성편 제1장 아카자 재림"
+      ]
     }
   },
   "order": 29,
@@ -1322,6 +1328,22 @@
       "publisher": "namuwiki",
       "tier": 3,
       "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s48",
+      "url": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EA%B7%80%EB%A9%B8%EC%9D%98",
+      "title": "영화정보 검색 (귀멸의) - KOBIS",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-16"
+    },
+    {
+      "id": "s49",
+      "url": "https://www.tving.com/contents/M000380212",
+      "title": "극장판 귀멸의 칼날: 무한성편 제1장 - TVING",
+      "publisher": "broadcaster",
+      "tier": 1,
+      "accessed_at": "2026-11-16"
     }
   ],
   "meta": {

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "손정민",
-    "latin": "Son Jeong-min"
+    "latin": "Son Jeong-min",
+    "translated": {
+      "en": "Jeong-min Son",
+      "ja": "ソン・ジョンミン"
+    }
   },
   "nationality": [
     "KR"

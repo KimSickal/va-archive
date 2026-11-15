@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이봉준",
-    "latin": "Lee Bong-jun"
+    "latin": "Lee Bong-jun",
+    "translated": {
+      "en": "Bong-jun Lee",
+      "ja": "イ・ボンジュン"
+    }
   },
   "gender": "male",
   "nationality": [

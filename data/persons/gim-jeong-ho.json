@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김정호",
-    "latin": "Kim Jeong-ho"
+    "latin": "Kim Jeong-ho",
+    "translated": {
+      "en": "Jeong-ho Kim",
+      "ja": "キム・ジョンホ"
+    }
   },
   "nationality": [
     "KR"

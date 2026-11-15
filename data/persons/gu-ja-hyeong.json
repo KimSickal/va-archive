@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "구자형",
-    "latin": "Koo Ja-hyeong"
+    "latin": "Koo Ja-hyeong",
+    "translated": {
+      "en": "Ja-hyeong Koo",
+      "ja": "ク・ジャヒョン"
+    }
   },
   "nationality": [
     "KR"

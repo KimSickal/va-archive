@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "차명화",
-    "latin": "Cha Myeong-hwa"
+    "latin": "Cha Myeong-hwa",
+    "translated": {
+      "en": "Myeong-hwa Cha",
+      "ja": "チャ・ミョンファ"
+    }
   },
   "nationality": [
     "KR"

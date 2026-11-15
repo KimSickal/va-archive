@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "강성우",
-    "latin": "Kang Seong-u"
+    "latin": "Kang Seong-u",
+    "translated": {
+      "en": "Seong-u Kang",
+      "ja": "カン・ソンウ"
+    }
   },
   "nationality": [
     "KR"

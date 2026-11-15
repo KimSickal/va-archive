@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "강수진",
-    "latin": "Kang Su-jin"
+    "latin": "Kang Su-jin",
+    "translated": {
+      "en": "Su-jin Kang",
+      "ja": "カン・スジン"
+    }
   },
   "sources": [
     {

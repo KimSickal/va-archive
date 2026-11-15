@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김율",
-    "latin": "Kim Yul"
+    "latin": "Kim Yul",
+    "translated": {
+      "en": "Yul Kim",
+      "ja": "キム・ユル"
+    }
   },
   "nationality": [
     "KR"

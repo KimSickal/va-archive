@@ -632,7 +632,7 @@
         "latin": "Ardbert",
         "official": {
           "en": "Ardbert",
-          "ko": "알버트"
+          "ko": "아르버트"
         }
       },
       "first_appearance": {
@@ -764,7 +764,8 @@
         "original": "グリノー・ド・ゼーメル",
         "latin": "Grinnaux de Dzemael",
         "official": {
-          "en": "Grinnaux de Dzemael"
+          "en": "Grinnaux de Dzemael",
+          "ko": "그리노 드 제멜"
         }
       },
       "first_appearance": {
@@ -854,7 +855,7 @@
         "latin": "Lamimi",
         "official": {
           "en": "Lamimi",
-          "ko": "라라미"
+          "ko": "라미미"
         },
         "aliases": {
           "ja": [
@@ -1184,7 +1185,8 @@
         "original": "グ・ラハ・ティア",
         "latin": "G'raha Tia",
         "official": {
-          "en": "G'raha Tia"
+          "en": "G'raha Tia",
+          "ko": "그라하 티아"
         },
         "aliases": {
           "ja": [
@@ -1192,9 +1194,6 @@
           ],
           "en": [
             "Crystal Exarch"
-          ],
-          "ko": [
-            "그라하 티아"
           ]
         }
       },
@@ -1300,7 +1299,8 @@
         "original": "マキシマ・クォ・プリスクス",
         "latin": "Maxima quo Priscus",
         "official": {
-          "en": "Maxima quo Priscus"
+          "en": "Maxima quo Priscus",
+          "ko": "막시마"
         }
       },
       "first_appearance": {
@@ -1405,7 +1405,8 @@
         "original": "スサノオ",
         "latin": "Susano",
         "official": {
-          "en": "Susano"
+          "en": "Susano",
+          "ko": "스사노오"
         }
       },
       "first_appearance": {
@@ -1435,7 +1436,7 @@
         "latin": "Temulun",
         "official": {
           "en": "Temulun",
-          "ko": "테무룬"
+          "ko": "테물룬"
         }
       },
       "first_appearance": {
@@ -1487,12 +1488,8 @@
         "original": "アルメ",
         "latin": "Almet",
         "official": {
-          "en": "Almet"
-        },
-        "aliases": {
-          "ko": [
-            "아르메"
-          ]
+          "en": "Almet",
+          "ko": "아르메"
         }
       },
       "first_appearance": {
@@ -1506,12 +1503,8 @@
         "original": "ベーク＝ラグ",
         "latin": "Beq Lugg",
         "official": {
-          "en": "Beq Lugg"
-        },
-        "aliases": {
-          "ko": [
-            "베크 러그"
-          ]
+          "en": "Beq Lugg",
+          "ko": "베크 러그"
         }
       },
       "first_appearance": {
@@ -1525,12 +1518,8 @@
         "original": "チャイ・ヌズ",
         "latin": "Chai-Nuzz",
         "official": {
-          "en": "Chai-Nuzz"
-        },
-        "aliases": {
-          "ko": [
-            "차이 누즈"
-          ]
+          "en": "Chai-Nuzz",
+          "ko": "차이 누즈"
         }
       },
       "first_appearance": {
@@ -1544,12 +1533,8 @@
         "original": "シャイメ",
         "latin": "Cymet",
         "official": {
-          "en": "Cymet"
-        },
-        "aliases": {
-          "ko": [
-            "샤이메"
-          ]
+          "en": "Cymet",
+          "ko": "샤이메"
         }
       },
       "first_appearance": {
@@ -1563,12 +1548,8 @@
         "original": "ドゥリア・チャイ",
         "latin": "Dulia-Chai",
         "official": {
-          "en": "Dulia-Chai"
-        },
-        "aliases": {
-          "ko": [
-            "둘리아 차이"
-          ]
+          "en": "Dulia-Chai",
+          "ko": "둘리아 차이"
         }
       },
       "first_appearance": {
@@ -1582,7 +1563,8 @@
         "original": "アシエン・ファダニエル",
         "latin": "Fandaniel",
         "official": {
-          "en": "Fandaniel"
+          "en": "Fandaniel",
+          "ko": "아씨엔 파다니엘"
         }
       },
       "first_appearance": {
@@ -1596,7 +1578,8 @@
         "original": "フェオ＝ウル",
         "latin": "Feo Ul",
         "official": {
-          "en": "Feo Ul"
+          "en": "Feo Ul",
+          "ko": "페오 울"
         }
       },
       "first_appearance": {
@@ -1610,7 +1593,8 @@
         "original": "フルシュノ・ルヴェユール",
         "latin": "Fourchenault Leveilleur",
         "official": {
-          "en": "Fourchenault Leveilleur"
+          "en": "Fourchenault Leveilleur",
+          "ko": "푸르슈노 르베유르"
         }
       },
       "first_appearance": {
@@ -1624,7 +1608,8 @@
         "original": "カイ・シル",
         "latin": "Kai-Shirr",
         "official": {
-          "en": "Kai-Shirr"
+          "en": "Kai-Shirr",
+          "ko": "카이 시르"
         }
       },
       "first_appearance": {
@@ -1638,12 +1623,8 @@
         "original": "ライナ",
         "latin": "Lyna",
         "official": {
-          "en": "Lyna"
-        },
-        "aliases": {
-          "ko": [
-            "라이나"
-          ]
+          "en": "Lyna",
+          "ko": "라이나"
         }
       },
       "first_appearance": {
@@ -1657,7 +1638,8 @@
         "original": "ランジート",
         "latin": "Ran'jit",
         "official": {
-          "en": "Ran'jit"
+          "en": "Ran'jit",
+          "ko": "란지트"
         }
       },
       "first_appearance": {
@@ -1671,7 +1653,8 @@
         "original": "ルナル",
         "latin": "Runar",
         "official": {
-          "en": "Runar"
+          "en": "Runar",
+          "ko": "루나르"
         }
       },
       "first_appearance": {
@@ -1685,7 +1668,8 @@
         "original": "リーン",
         "latin": "Ryne",
         "official": {
-          "en": "Ryne"
+          "en": "Ryne",
+          "ko": "린"
         }
       },
       "first_appearance": {
@@ -1699,7 +1683,8 @@
         "original": "セト",
         "latin": "Seto",
         "official": {
-          "en": "Seto"
+          "en": "Seto",
+          "ko": "세토"
         }
       },
       "first_appearance": {
@@ -1713,7 +1698,8 @@
         "original": "テスリーン",
         "latin": "Tesleen",
         "official": {
-          "en": "Tesleen"
+          "en": "Tesleen",
+          "ko": "테슬린"
         }
       },
       "first_appearance": {
@@ -1727,7 +1713,8 @@
         "original": "ティターニア",
         "latin": "Titania",
         "official": {
-          "en": "Titania"
+          "en": "Titania",
+          "ko": "티타니아"
         }
       },
       "first_appearance": {
@@ -1741,12 +1728,8 @@
         "original": "ウィメ",
         "latin": "Uimet",
         "official": {
-          "en": "Uimet"
-        },
-        "aliases": {
-          "ko": [
-            "위메"
-          ]
+          "en": "Uimet",
+          "ko": "위메"
         }
       },
       "first_appearance": {
@@ -1760,7 +1743,8 @@
         "original": "ドン・ヴァウスリー",
         "latin": "Vauthry",
         "official": {
-          "en": "Vauthry"
+          "en": "Vauthry",
+          "ko": "바우스리"
         }
       },
       "first_appearance": {
@@ -1774,7 +1758,8 @@
         "original": "ア・ルン・センナ",
         "latin": "A-Ruhn-Senna",
         "official": {
-          "en": "A-Ruhn-Senna"
+          "en": "A-Ruhn-Senna",
+          "ko": "아 룬 센나"
         }
       },
       "first_appearance": {
@@ -1788,7 +1773,8 @@
         "original": "アヒワーン",
         "latin": "Ahewann",
         "official": {
-          "en": "Ahewann"
+          "en": "Ahewann",
+          "ko": "아히완"
         }
       },
       "first_appearance": {
@@ -1802,7 +1788,8 @@
         "original": "アメリアンス・ルヴェユール",
         "latin": "Ameliance Leveilleur",
         "official": {
-          "en": "Ameliance Leveilleur"
+          "en": "Ameliance Leveilleur",
+          "ko": "아멜리앙스 르베유르"
         }
       },
       "first_appearance": {
@@ -1816,7 +1803,8 @@
         "original": "バルバリシア",
         "latin": "Barbariccia",
         "official": {
-          "en": "Barbariccia"
+          "en": "Barbariccia",
+          "ko": "바르바리차"
         }
       },
       "first_appearance": {
@@ -1830,7 +1818,8 @@
         "original": "バルニエ・クラーク",
         "latin": "Barnier Clarke",
         "official": {
-          "en": "Barnier Clarke"
+          "en": "Barnier Clarke",
+          "ko": "바르니에르"
         }
       },
       "first_appearance": {
@@ -1844,7 +1833,8 @@
         "original": "カイナッツォ",
         "latin": "Cagnazzo",
         "official": {
-          "en": "Cagnazzo"
+          "en": "Cagnazzo",
+          "ko": "카냐초"
         }
       },
       "first_appearance": {
@@ -1858,7 +1848,8 @@
         "original": "ドゥランテ",
         "latin": "Durante",
         "official": {
-          "en": "Durante"
+          "en": "Durante",
+          "ko": "두란테"
         }
       },
       "first_appearance": {
@@ -1887,7 +1878,8 @@
         "original": "ゴルベーザ",
         "latin": "Golbez",
         "official": {
-          "en": "Golbez"
+          "en": "Golbez",
+          "ko": "골베자"
         }
       },
       "first_appearance": {
@@ -1901,7 +1893,8 @@
         "original": "グローウィングウェイ",
         "latin": "Growingway",
         "official": {
-          "en": "Growingway"
+          "en": "Growingway",
+          "ko": "그로잉웨이"
         }
       },
       "first_appearance": {
@@ -1915,7 +1908,8 @@
         "original": "ヘルメス",
         "latin": "Hermes",
         "official": {
-          "en": "Hermes"
+          "en": "Hermes",
+          "ko": "헤르메스"
         }
       },
       "first_appearance": {
@@ -1944,7 +1938,8 @@
         "original": "ユルス・ピル・ノルバヌス",
         "latin": "Jullus pyr Norbanus",
         "official": {
-          "en": "Jullus pyr Norbanus"
+          "en": "Jullus pyr Norbanus",
+          "ko": "율루스 피르 노르바누스"
         }
       },
       "first_appearance": {
@@ -1958,7 +1953,8 @@
         "original": "ククロ・ダンクロ",
         "latin": "Kokkol Dankkol",
         "official": {
-          "en": "Kokkol Dankkol"
+          "en": "Kokkol Dankkol",
+          "ko": "쿠쿠로 단쿠로"
         }
       },
       "first_appearance": {
@@ -1972,7 +1968,8 @@
         "original": "リヴィングウェイ",
         "latin": "Livingway",
         "official": {
-          "en": "Livingway"
+          "en": "Livingway",
+          "ko": "리빙웨이"
         }
       },
       "first_appearance": {
@@ -1986,7 +1983,8 @@
         "original": "マッピングウェイ",
         "latin": "Mappingway",
         "official": {
-          "en": "Mappingway"
+          "en": "Mappingway",
+          "ko": "매핑웨이"
         }
       },
       "first_appearance": {
@@ -2000,7 +1998,8 @@
         "original": "マトシャ",
         "latin": "Matsya",
         "official": {
-          "en": "Matsya"
+          "en": "Matsya",
+          "ko": "마트샤"
         }
       },
       "first_appearance": {
@@ -2014,7 +2013,8 @@
         "original": "メーティオン",
         "latin": "Meteion",
         "official": {
-          "en": "Meteion"
+          "en": "Meteion",
+          "ko": "메테이온"
         }
       },
       "first_appearance": {
@@ -2028,7 +2028,8 @@
         "original": "モンティシェーニュ",
         "latin": "Montichaigne",
         "official": {
-          "en": "Montichaigne"
+          "en": "Montichaigne",
+          "ko": "몽티셰뉴"
         }
       },
       "first_appearance": {
@@ -2042,7 +2043,8 @@
         "original": "ニッダーナ",
         "latin": "Nidhana",
         "official": {
-          "en": "Nidhana"
+          "en": "Nidhana",
+          "ko": "니다나"
         }
       },
       "first_appearance": {
@@ -2056,7 +2058,8 @@
         "original": "プディングウェイ",
         "latin": "Puddingway",
         "official": {
-          "en": "Puddingway"
+          "en": "Puddingway",
+          "ko": "푸딩웨이"
         }
       },
       "first_appearance": {
@@ -2070,7 +2073,8 @@
         "original": "クイントゥス・ヴァン・キンナ",
         "latin": "Quintus van Cinna",
         "official": {
-          "en": "Quintus van Cinna"
+          "en": "Quintus van Cinna",
+          "ko": "퀸투스"
         }
       },
       "first_appearance": {
@@ -2084,7 +2088,8 @@
         "original": "ルビカンテ",
         "latin": "Rubicante",
         "official": {
-          "en": "Rubicante"
+          "en": "Rubicante",
+          "ko": "루비칸테"
         }
       },
       "first_appearance": {
@@ -2098,7 +2103,8 @@
         "original": "スカルミリョーネ",
         "latin": "Scarmiglione",
         "official": {
-          "en": "Scarmiglione"
+          "en": "Scarmiglione",
+          "ko": "스카르밀리오네"
         }
       },
       "first_appearance": {
@@ -2112,7 +2118,8 @@
         "original": "シンギングウェイ",
         "latin": "Singingway",
         "official": {
-          "en": "Singingway"
+          "en": "Singingway",
+          "ko": "싱잉웨이"
         }
       },
       "first_appearance": {
@@ -2126,7 +2133,8 @@
         "original": "スリーピングウェイ",
         "latin": "Sleepingway",
         "official": {
-          "en": "Sleepingway"
+          "en": "Sleepingway",
+          "ko": "슬리핑웨이"
         }
       },
       "first_appearance": {
@@ -2140,7 +2148,8 @@
         "original": "ヴェーネス",
         "latin": "Venat",
         "official": {
-          "en": "Venat"
+          "en": "Venat",
+          "ko": "베네스"
         }
       },
       "first_appearance": {
@@ -2154,12 +2163,8 @@
         "original": "ヴリトラ",
         "latin": "Vrtra",
         "official": {
-          "en": "Vrtra"
-        },
-        "aliases": {
-          "ko": [
-            "브리트라"
-          ]
+          "en": "Vrtra",
+          "ko": "브리트라"
         }
       },
       "first_appearance": {
@@ -2173,7 +2178,8 @@
         "original": "ゼロ",
         "latin": "Zero",
         "official": {
-          "en": "Zero"
+          "en": "Zero",
+          "ko": "제로"
         }
       },
       "first_appearance": {
@@ -2187,7 +2193,8 @@
         "original": "アライラ",
         "latin": "Alayla",
         "official": {
-          "en": "Alayla"
+          "en": "Alayla",
+          "ko": "알라일라"
         }
       },
       "first_appearance": {
@@ -2201,12 +2208,8 @@
         "original": "バクージャジャ",
         "latin": "Bakool Ja Ja",
         "official": {
-          "en": "Bakool Ja Ja"
-        },
-        "aliases": {
-          "ko": [
-            "바쿠쟈자"
-          ]
+          "en": "Bakool Ja Ja",
+          "ko": "바쿠쟈쟈"
         }
       },
       "first_appearance": {
@@ -2220,7 +2223,8 @@
         "original": "ボロノック",
         "latin": "Bol Noq'",
         "official": {
-          "en": "Bol Noq'"
+          "en": "Bol Noq'",
+          "ko": "볼노크"
         }
       },
       "first_appearance": {
@@ -2234,7 +2238,8 @@
         "original": "ブルケブ",
         "latin": "Br'uk Evu",
         "official": {
-          "en": "Br'uk Evu"
+          "en": "Br'uk Evu",
+          "ko": "브루케부"
         }
       },
       "first_appearance": {
@@ -2248,12 +2253,8 @@
         "original": "カフキワ",
         "latin": "Cahciua",
         "official": {
-          "en": "Cahciua"
-        },
-        "aliases": {
-          "ko": [
-            "카흐키와"
-          ]
+          "en": "Cahciua",
+          "ko": "카흐키와"
         }
       },
       "first_appearance": {
@@ -2267,7 +2268,8 @@
         "original": "カリュクス",
         "latin": "Calyx",
         "official": {
-          "en": "Calyx"
+          "en": "Calyx",
+          "ko": "칼릭스"
         }
       },
       "first_appearance": {
@@ -2281,7 +2283,8 @@
         "original": "エカーテ",
         "latin": "Ecaate",
         "official": {
-          "en": "Ecaate"
+          "en": "Ecaate",
+          "ko": "에카아테"
         }
       },
       "first_appearance": {
@@ -2295,7 +2298,8 @@
         "original": "エヌオー",
         "latin": "Enuo",
         "official": {
-          "en": "Enuo"
+          "en": "Enuo",
+          "ko": "에누오"
         }
       },
       "first_appearance": {
@@ -2309,7 +2313,8 @@
         "original": "ガラフ・バルデシオン",
         "latin": "Galuf Baldesion",
         "official": {
-          "en": "Galuf Baldesion"
+          "en": "Galuf Baldesion",
+          "ko": "갈러프 발데시온"
         }
       },
       "first_appearance": {
@@ -2323,7 +2328,8 @@
         "original": "ゲノルト",
         "latin": "Genolt",
         "official": {
-          "en": "Genolt"
+          "en": "Genolt",
+          "ko": "게놀트"
         }
       },
       "first_appearance": {
@@ -2337,7 +2343,8 @@
         "original": "ジオード",
         "latin": "Geode",
         "official": {
-          "en": "Geode"
+          "en": "Geode",
+          "ko": "지오드"
         }
       },
       "first_appearance": {
@@ -2351,7 +2358,8 @@
         "original": "グルージャ",
         "latin": "Gulool Ja",
         "official": {
-          "en": "Gulool Ja"
+          "en": "Gulool Ja",
+          "ko": "굴루쟈"
         }
       },
       "first_appearance": {
@@ -2365,12 +2373,8 @@
         "original": "グルージャジャ",
         "latin": "Gulool Ja Ja",
         "official": {
-          "en": "Gulool Ja Ja"
-        },
-        "aliases": {
-          "ko": [
-            "굴루쟈쟈"
-          ]
+          "en": "Gulool Ja Ja",
+          "ko": "굴루쟈쟈"
         }
       },
       "first_appearance": {
@@ -2384,7 +2388,8 @@
         "original": "グーフールー",
         "latin": "Gurfurlur",
         "official": {
-          "en": "Gurfurlur"
+          "en": "Gurfurlur",
+          "ko": "구푸루"
         }
       },
       "first_appearance": {
@@ -2398,7 +2403,8 @@
         "original": "ハルマルト",
         "latin": "Halmarut",
         "official": {
-          "en": "Halmarut"
+          "en": "Halmarut",
+          "ko": "할마루트"
         }
       },
       "first_appearance": {
@@ -2413,7 +2419,7 @@
         "latin": "Hunmu Rruk",
         "official": {
           "en": "Hunmu Rruk",
-          "ko": "훈무르크"
+          "ko": "훈무루크"
         }
       },
       "first_appearance": {
@@ -2427,7 +2433,8 @@
         "original": "ケマッカ",
         "latin": "Kemakka",
         "official": {
-          "en": "Kemakka"
+          "en": "Kemakka",
+          "ko": "케마카"
         }
       },
       "first_appearance": {
@@ -2441,7 +2448,8 @@
         "original": "ケティル",
         "latin": "Ketill",
         "official": {
-          "en": "Ketill"
+          "en": "Ketill",
+          "ko": "케틸"
         }
       },
       "first_appearance": {
@@ -2455,12 +2463,8 @@
         "original": "コーナ",
         "latin": "Koana",
         "official": {
-          "en": "Koana"
-        },
-        "aliases": {
-          "ko": [
-            "쿼나"
-          ]
+          "en": "Koana",
+          "ko": "쿼나"
         }
       },
       "first_appearance": {
@@ -2474,7 +2478,8 @@
         "original": "リヌハヌ",
         "latin": "Linuhanu",
         "official": {
-          "en": "Linuhanu"
+          "en": "Linuhanu",
+          "ko": "리누하누"
         }
       },
       "first_appearance": {
@@ -2488,7 +2493,8 @@
         "original": "マーブル",
         "latin": "Mablu",
         "official": {
-          "en": "Mablu"
+          "en": "Mablu",
+          "ko": "마블루"
         }
       },
       "first_appearance": {
@@ -2502,7 +2508,8 @@
         "original": "マフーサ",
         "latin": "Mahuwsa",
         "official": {
-          "en": "Mahuwsa"
+          "en": "Mahuwsa",
+          "ko": "마후사"
         }
       },
       "first_appearance": {
@@ -2516,7 +2523,8 @@
         "original": "ミーラジャ",
         "latin": "Miilal Ja",
         "official": {
-          "en": "Miilal Ja"
+          "en": "Miilal Ja",
+          "ko": "미라쟈"
         }
       },
       "first_appearance": {
@@ -2530,7 +2538,8 @@
         "original": "ミロス",
         "latin": "Milos",
         "official": {
-          "en": "Milos"
+          "en": "Milos",
+          "ko": "밀로스"
         }
       },
       "first_appearance": {
@@ -2544,7 +2553,8 @@
         "original": "ナーヘ",
         "latin": "Naahe",
         "official": {
-          "en": "Naahe"
+          "en": "Naahe",
+          "ko": "나아헤"
         }
       },
       "first_appearance": {
@@ -2558,7 +2568,8 @@
         "original": "ナミーカ",
         "latin": "Namikka",
         "official": {
-          "en": "Namikka"
+          "en": "Namikka",
+          "ko": "나미카"
         }
       },
       "first_appearance": {
@@ -2572,7 +2583,8 @@
         "original": "ニトウィケ",
         "latin": "Nitowikwe",
         "official": {
-          "en": "Nitowikwe"
+          "en": "Nitowikwe",
+          "ko": "니토위퀘"
         }
       },
       "first_appearance": {
@@ -2586,7 +2598,8 @@
         "original": "ノスタルジア",
         "latin": "Nostalgia",
         "official": {
-          "en": "Nostalgia"
+          "en": "Nostalgia",
+          "ko": "노스탤지어"
         }
       },
       "first_appearance": {
@@ -2600,7 +2613,8 @@
         "original": "オーティス",
         "latin": "Otis",
         "official": {
-          "en": "Otis"
+          "en": "Otis",
+          "ko": "오티스"
         },
         "aliases": {
           "ja": [
@@ -2622,7 +2636,8 @@
         "original": "ペポーネ",
         "latin": "Pepoane",
         "official": {
-          "en": "Pepoane"
+          "en": "Pepoane",
+          "ko": "페포네"
         }
       },
       "first_appearance": {
@@ -2636,7 +2651,8 @@
         "original": "ロボル",
         "latin": "Robor",
         "official": {
-          "en": "Robor"
+          "en": "Robor",
+          "ko": "로보르"
         }
       },
       "first_appearance": {
@@ -2650,12 +2666,8 @@
         "original": "サレージャ",
         "latin": "Sareel Ja",
         "official": {
-          "en": "Sareel Ja"
-        },
-        "aliases": {
-          "ko": [
-            "사레쟈"
-          ]
+          "en": "Sareel Ja",
+          "ko": "사레쟈"
         }
       },
       "first_appearance": {
@@ -2669,7 +2681,8 @@
         "original": "シェール",
         "latin": "Shale",
         "official": {
-          "en": "Shale"
+          "en": "Shale",
+          "ko": "셰일"
         }
       },
       "first_appearance": {
@@ -2683,7 +2696,8 @@
         "original": "シェンダ",
         "latin": "Shenza",
         "official": {
-          "en": "Shenza"
+          "en": "Shenza",
+          "ko": "셴다"
         }
       },
       "first_appearance": {
@@ -2697,7 +2711,8 @@
         "original": "スフェーン",
         "latin": "Sphene",
         "official": {
-          "en": "Sphene"
+          "en": "Sphene",
+          "ko": "스펜"
         },
         "aliases": {
           "ja": [
@@ -2719,7 +2734,8 @@
         "original": "トーブリ",
         "latin": "Tobli",
         "official": {
-          "en": "Tobli"
+          "en": "Tobli",
+          "ko": "토블리"
         }
       },
       "first_appearance": {
@@ -2733,7 +2749,8 @@
         "original": "ヴィスナ",
         "latin": "Visna",
         "official": {
-          "en": "Visna"
+          "en": "Visna",
+          "ko": "비스나"
         }
       },
       "first_appearance": {
@@ -2747,7 +2764,8 @@
         "original": "ヴォーポーロー",
         "latin": "Vorporlor",
         "official": {
-          "en": "Vorporlor"
+          "en": "Vorporlor",
+          "ko": "보포로"
         }
       },
       "first_appearance": {
@@ -2761,7 +2779,8 @@
         "original": "ワーリカ",
         "latin": "Wawlika",
         "official": {
-          "en": "Wawlika"
+          "en": "Wawlika",
+          "ko": "왈리카"
         }
       },
       "first_appearance": {
@@ -2775,7 +2794,8 @@
         "original": "ワヤッケ",
         "latin": "Wayakkwe",
         "official": {
-          "en": "Wayakkwe"
+          "en": "Wayakkwe",
+          "ko": "와야퀘"
         }
       },
       "first_appearance": {
@@ -2789,7 +2809,8 @@
         "original": "ウィフーテ",
         "latin": "Wihuwte",
         "official": {
-          "en": "Wihuwte"
+          "en": "Wihuwte",
+          "ko": "위후우테"
         }
       },
       "first_appearance": {
@@ -2803,12 +2824,8 @@
         "original": "ウケブ",
         "latin": "Wuk Evu",
         "official": {
-          "en": "Wuk Evu"
-        },
-        "aliases": {
-          "ko": [
-            "우크에부"
-          ]
+          "en": "Wuk Evu",
+          "ko": "우크에부"
         }
       },
       "first_appearance": {
@@ -2837,7 +2854,8 @@
         "original": "ザヌハリ",
         "latin": "Zanuhali",
         "official": {
-          "en": "Zanuhali"
+          "en": "Zanuhali",
+          "ko": "자누할리"
         }
       },
       "first_appearance": {
@@ -2851,7 +2869,8 @@
         "original": "ダーピャ",
         "latin": "Zawpya",
         "official": {
-          "en": "Zawpya"
+          "en": "Zawpya",
+          "ko": "다퍄"
         }
       },
       "first_appearance": {
@@ -2865,7 +2884,8 @@
         "original": "デコワ",
         "latin": "Zekowa",
         "official": {
-          "en": "Zekowa"
+          "en": "Zekowa",
+          "ko": "데코와"
         }
       },
       "first_appearance": {
@@ -2879,7 +2899,8 @@
         "original": "ゼレニア",
         "latin": "Zelenia",
         "official": {
-          "en": "Zelenia"
+          "en": "Zelenia",
+          "ko": "젤레니아"
         }
       },
       "first_appearance": {
@@ -2893,7 +2914,8 @@
         "original": "ゼレージャ",
         "latin": "Zereel Ja",
         "official": {
-          "en": "Zereel Ja"
+          "en": "Zereel Ja",
+          "ko": "제레쟈"
         }
       },
       "first_appearance": {
@@ -2907,12 +2929,8 @@
         "original": "ゾラージャ",
         "latin": "Zoraal Ja",
         "official": {
-          "en": "Zoraal Ja"
-        },
-        "aliases": {
-          "ko": [
-            "조라쟈"
-          ]
+          "en": "Zoraal Ja",
+          "ko": "조라쟈"
         }
       },
       "first_appearance": {
@@ -2926,7 +2944,8 @@
         "original": "ズームーウー",
         "latin": "Zurmurwur",
         "official": {
-          "en": "Zurmurwur"
+          "en": "Zurmurwur",
+          "ko": "주무우"
         }
       },
       "first_appearance": {
@@ -2950,6 +2969,30 @@
       "publisher": "fandom",
       "tier": 3,
       "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s3",
+      "url": "https://github.com/Ra-Workspace/ffxiv-datamining-ko/blob/master/csv/ENpcResident.csv",
+      "title": "ffxiv-datamining-ko/csv/ENpcResident.csv at master · Ra-Workspace/ffxiv-datamining-ko",
+      "publisher": "other",
+      "tier": 2,
+      "accessed_at": "2026-11-16"
+    },
+    {
+      "id": "s4",
+      "url": "https://github.com/Ra-Workspace/ffxiv-datamining-ko/blob/master/csv/BNpcName.csv",
+      "title": "ffxiv-datamining-ko/csv/BNpcName.csv at master · Ra-Workspace/ffxiv-datamining-ko",
+      "publisher": "other",
+      "tier": 2,
+      "accessed_at": "2026-11-16"
+    },
+    {
+      "id": "s5",
+      "url": "https://github.com/Ra-Workspace/ffxiv-datamining-ko/blob/master/csv/PlaceName.csv",
+      "title": "ffxiv-datamining-ko/csv/PlaceName.csv at master · Ra-Workspace/ffxiv-datamining-ko",
+      "publisher": "other",
+      "tier": 2,
+      "accessed_at": "2026-11-16"
     }
   ],
   "meta": {

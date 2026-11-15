@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김보나",
-    "latin": "Kim Bo-na"
+    "latin": "Kim Bo-na",
+    "translated": {
+      "en": "Bo-na Kim",
+      "ja": "キム・ボナ"
+    }
   },
   "gender": "female",
   "nationality": [

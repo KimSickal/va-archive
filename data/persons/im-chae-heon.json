@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "임채헌",
-    "latin": "Lim Chae-heon"
+    "latin": "Lim Chae-heon",
+    "translated": {
+      "en": "Chae-heon Lim",
+      "ja": "イム・チェホン"
+    }
   },
   "gender": "male",
   "nationality": [

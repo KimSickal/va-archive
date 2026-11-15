@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김선혜",
-    "latin": "Kim Seon-hye"
+    "latin": "Kim Seon-hye",
+    "translated": {
+      "en": "Seon-hye Kim",
+      "ja": "キム・ソンヘ"
+    }
   },
   "gender": "female",
   "nationality": [

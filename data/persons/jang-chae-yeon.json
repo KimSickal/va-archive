@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "장채연",
-    "latin": "Jang Chae-yeon"
+    "latin": "Jang Chae-yeon",
+    "translated": {
+      "en": "Chae-yeon Jang",
+      "ja": "チャン・チェヨン"
+    }
   },
   "nationality": [
     "KR"

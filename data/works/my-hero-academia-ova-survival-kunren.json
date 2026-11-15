@@ -8,7 +8,8 @@
     "original": "生き残れ！決死のサバイバル訓練",
     "latin": "Ikinokore! Kesshi no Survival Kunren",
     "official": {
-      "en": "My Hero Academia: Make It! Do-or-Die Survival Training"
+      "en": "My Hero Academia: Make It! Do-or-Die Survival Training",
+      "ko": "나의 히어로 아카데미아 : 살아남아라! 결사의 서바이벌 훈련"
     }
   },
   "order": 11,
@@ -151,6 +152,14 @@
       "publisher": "ann",
       "tier": 2,
       "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s3",
+      "url": "https://laftel.net/item/40194/나의-히어로-아카데미아-:-살아남아라!-결사의-서바이벌-훈련",
+      "title": "나의 히어로 아카데미아 : 살아남아라! 결사의 서바이벌 훈련 - 라프텔",
+      "publisher": "broadcaster",
+      "tier": 1,
+      "accessed_at": "2026-11-16"
     }
   ],
   "meta": {

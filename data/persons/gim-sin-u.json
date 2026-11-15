@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김신우",
-    "latin": "Kim Sin-u"
+    "latin": "Kim Sin-u",
+    "translated": {
+      "en": "Sin-u Kim",
+      "ja": "キム・シヌ"
+    }
   },
   "nationality": [
     "KR"

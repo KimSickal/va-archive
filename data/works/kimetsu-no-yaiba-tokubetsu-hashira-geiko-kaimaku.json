@@ -6,7 +6,13 @@
   "title": {
     "original_lang": "ja",
     "original": "「鬼滅の刃」特別編集版 柱稽古 開幕編",
-    "latin": "Kimetsu no Yaiba Tokubetsu Henshuban: Hashira Geiko Kaimaku-hen"
+    "latin": "Kimetsu no Yaiba Tokubetsu Henshuban: Hashira Geiko Kaimaku-hen",
+    "official": {
+      "ko": "귀멸의 칼날: 합동 강화 훈련 개막편"
+    },
+    "translated": {
+      "en": "Demon Slayer: Kimetsu no Yaiba Special Edition – Hashira Training Opening Arc"
+    }
   },
   "order": 27,
   "status": "finished",
@@ -821,6 +827,14 @@
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s26",
+      "url": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EA%B7%80%EB%A9%B8%EC%9D%98",
+      "title": "영화정보 검색 (귀멸의) - KOBIS 영화관입장권통합전산망",
+      "publisher": "other",
+      "tier": 1,
+      "accessed_at": "2026-11-16"
     }
   ],
   "meta": {

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "신용우",
-    "latin": "Shin Yong-u"
+    "latin": "Shin Yong-u",
+    "translated": {
+      "en": "Yong-u Shin",
+      "ja": "シン・ヨンウ"
+    }
   },
   "nationality": [
     "KR"

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "정재헌",
-    "latin": "Jung Jae-heon"
+    "latin": "Jung Jae-heon",
+    "translated": {
+      "en": "Jae-heon Jung",
+      "ja": "チョン・ジェホン"
+    }
   },
   "nationality": [
     "KR"

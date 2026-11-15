@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김현지",
-    "latin": "Kim Hyeon-ji"
+    "latin": "Kim Hyeon-ji",
+    "translated": {
+      "en": "Hyeon-ji Kim",
+      "ja": "キム・ヒョンジ"
+    }
   },
   "nationality": [
     "KR"

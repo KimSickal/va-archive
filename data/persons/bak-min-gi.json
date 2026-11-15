@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "박민기",
-    "latin": "Park Min-gi"
+    "latin": "Park Min-gi",
+    "translated": {
+      "en": "Min-gi Park",
+      "ja": "パク・ミンギ"
+    }
   },
   "nationality": [
     "KR"

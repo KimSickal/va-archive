@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "표영재",
-    "latin": "Pyo Yeong-jae"
+    "latin": "Pyo Yeong-jae",
+    "translated": {
+      "en": "Yeong-jae Pyo",
+      "ja": "ピョ・ヨンジェ"
+    }
   },
   "nationality": [
     "KR"

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이주은",
-    "latin": "Lee Ju-eun"
+    "latin": "Lee Ju-eun",
+    "translated": {
+      "en": "Ju-eun Lee",
+      "ja": "イ・ジュウン"
+    }
   },
   "nationality": [
     "KR"

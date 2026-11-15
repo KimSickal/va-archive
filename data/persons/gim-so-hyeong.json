@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김소형",
-    "latin": "Kim So-hyeong"
+    "latin": "Kim So-hyeong",
+    "translated": {
+      "en": "So-hyeong Kim",
+      "ja": "キム・ソヒョン"
+    }
   },
   "nationality": [
     "KR"

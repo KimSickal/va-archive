@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "강새봄",
-    "latin": "Kang Sae-bom"
+    "latin": "Kang Sae-bom",
+    "translated": {
+      "en": "Sae-bom Kang",
+      "ja": "カン・セボム"
+    }
   },
   "nationality": [
     "KR"

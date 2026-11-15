@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "강은애",
-    "latin": "Kang Eun-ae"
+    "latin": "Kang Eun-ae",
+    "translated": {
+      "en": "Eun-ae Kang",
+      "ja": "カン・ウネ"
+    }
   },
   "nationality": [
     "KR"

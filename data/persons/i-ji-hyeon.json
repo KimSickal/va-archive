@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이지현",
-    "latin": "Lee Ji-hyeon"
+    "latin": "Lee Ji-hyeon",
+    "translated": {
+      "en": "Ji-hyeon Lee",
+      "ja": "イ・ジヒョン"
+    }
   },
   "gender": "female",
   "nationality": [

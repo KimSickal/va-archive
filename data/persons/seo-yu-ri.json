@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "서유리",
-    "latin": "Seo Yu-ri"
+    "latin": "Seo Yu-ri",
+    "translated": {
+      "en": "Yu-ri Seo",
+      "ja": "ソ・ユリ"
+    }
   },
   "gender": "female",
   "nationality": [

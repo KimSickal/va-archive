@@ -4,7 +4,11 @@
   "slug": "gim-bo-yeon",
   "name": {
     "original_lang": "ko",
-    "original": "김보연"
+    "original": "김보연",
+    "translated": {
+      "en": "Bo-yeon Kim",
+      "ja": "キム・ボヨン"
+    }
   },
   "sources": [
     {

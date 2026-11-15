@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "장예나",
-    "latin": "Jang Ye-na"
+    "latin": "Jang Ye-na",
+    "translated": {
+      "en": "Ye-na Jang",
+      "ja": "チャン・イェナ"
+    }
   },
   "nationality": [
     "KR"

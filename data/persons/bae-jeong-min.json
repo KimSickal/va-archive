@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "배정민",
-    "latin": "Bae Jeong-min"
+    "latin": "Bae Jeong-min",
+    "translated": {
+      "en": "Jeong-min Bae",
+      "ja": "ペ・ジョンミン"
+    }
   },
   "gender": "female",
   "nationality": [

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김명준",
-    "latin": "Kim Myeong-jun"
+    "latin": "Kim Myeong-jun",
+    "translated": {
+      "en": "Myeong-jun Kim",
+      "ja": "キム・ミョンジュン"
+    }
   },
   "nationality": [
     "KR"

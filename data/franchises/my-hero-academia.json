@@ -6,7 +6,8 @@
     "original": "僕のヒーローアカデミア",
     "latin": "Boku no Hero Academia",
     "official": {
-      "en": "My Hero Academia"
+      "en": "My Hero Academia",
+      "ko": "나의 히어로 아카데미아"
     },
     "aliases": {
       "ja": [
@@ -14,7 +15,6 @@
         "ぼくのひーろーあかでみあ"
       ],
       "ko": [
-        "나의 히어로 아카데미아",
         "히로아카"
       ]
     }
@@ -31,7 +31,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ヘドロ・ヴィラン",
-        "latin": "Sludge Villain"
+        "latin": "Sludge Villain",
+        "translated": {
+          "ko": "슬러지 빌런",
+          "en": "Sludge Villain"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s1"
@@ -44,7 +48,8 @@
         "original": "尾白猿夫",
         "latin": "Mashirao Ojiro",
         "official": {
-          "ko": "오지로 마시라오"
+          "ko": "오지로 마시라오",
+          "en": "Mashirao Ojiro"
         },
         "aliases": {
           "ja": [
@@ -63,7 +68,8 @@
         "original": "オールマイト",
         "latin": "All Might",
         "official": {
-          "ko": "올마이트"
+          "ko": "올마이트",
+          "en": "All Might"
         },
         "aliases": {
           "ja": [
@@ -80,7 +86,11 @@
       "name": {
         "original_lang": "ja",
         "original": "民衆",
-        "latin": "Minshu"
+        "latin": "Minshu",
+        "translated": {
+          "ko": "군중",
+          "en": "Crowd"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -94,7 +104,8 @@
         "original": "八百万百",
         "latin": "Momo Yaoyorozu",
         "official": {
-          "ko": "야오요로즈 모모"
+          "ko": "야오요로즈 모모",
+          "en": "Momo Yaoyorozu"
         },
         "aliases": {
           "ja": [
@@ -113,7 +124,8 @@
         "original": "麗日お茶子",
         "latin": "Ochaco Uraraka",
         "official": {
-          "ko": "우라라카 오차코"
+          "ko": "우라라카 오차코",
+          "en": "Ochaco Uraraka"
         },
         "aliases": {
           "ja": [
@@ -132,7 +144,8 @@
         "original": "死柄木弔",
         "latin": "Tomura Shigaraki",
         "official": {
-          "ko": "시가라키 토무라"
+          "ko": "시가라키 토무라",
+          "en": "Tomura Shigaraki"
         },
         "aliases": {
           "ja": [
@@ -150,7 +163,11 @@
       "name": {
         "original_lang": "ja",
         "original": "オールマイトのファン",
-        "latin": "All Might no Fan"
+        "latin": "All Might no Fan",
+        "translated": {
+          "ko": "올마이트의 팬",
+          "en": "All Might's fan"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -164,7 +181,8 @@
         "original": "シンリンカムイ",
         "latin": "Kamui Woods",
         "official": {
-          "ko": "신린 카무이"
+          "ko": "신린 카무이",
+          "en": "Kamui Woods"
         },
         "aliases": {
           "ja": [
@@ -181,7 +199,11 @@
       "name": {
         "original_lang": "ja",
         "original": "市民",
-        "latin": "Shimin"
+        "latin": "Shimin",
+        "translated": {
+          "ko": "시민",
+          "en": "Citizen"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -195,7 +217,8 @@
         "original": "瀬呂範太",
         "latin": "Hanta Sero",
         "official": {
-          "ko": "세로 한타"
+          "ko": "세로 한타",
+          "en": "Hanta Sero"
         },
         "aliases": {
           "ja": [
@@ -214,7 +237,8 @@
         "original": "プレゼント・マイク",
         "latin": "Present Mic",
         "official": {
-          "ko": "프레젠트 마이크"
+          "ko": "프레젠트 마이크",
+          "en": "Present Mic"
         },
         "aliases": {
           "ja": [
@@ -231,7 +255,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ナレーション",
-        "latin": "Narration"
+        "latin": "Narration",
+        "translated": {
+          "ko": "내레이션",
+          "en": "Narration"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s1"
@@ -244,7 +272,8 @@
         "original": "Mt.レディ",
         "latin": "Mt. Lady",
         "official": {
-          "ko": "마운트 레이디"
+          "ko": "마운트 레이디",
+          "en": "Mt. Lady"
         },
         "aliases": {
           "ja": [
@@ -261,7 +290,11 @@
       "name": {
         "original_lang": "ja",
         "original": "勝己の友人",
-        "latin": "Katsuki no Yujin"
+        "latin": "Katsuki no Yujin",
+        "translated": {
+          "ko": "카츠키의 친구",
+          "en": "Katsuki's friend"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -275,7 +308,8 @@
         "original": "葉隠透",
         "latin": "Toru Hagakure",
         "official": {
-          "ko": "하가쿠레 토루"
+          "ko": "하가쿠레 토루",
+          "en": "Toru Hagakure"
         },
         "aliases": {
           "ja": [
@@ -294,7 +328,8 @@
         "original": "芦戸三奈",
         "latin": "Mina Ashido",
         "official": {
-          "ko": "아시도 미나"
+          "ko": "아시도 미나",
+          "en": "Mina Ashido"
         },
         "aliases": {
           "ja": [
@@ -313,7 +348,8 @@
         "original": "爆豪勝己",
         "latin": "Katsuki Bakugo",
         "official": {
-          "ko": "바쿠고 카츠키"
+          "ko": "바쿠고 카츠키",
+          "en": "Katsuki Bakugo"
         },
         "aliases": {
           "ja": [
@@ -332,7 +368,8 @@
         "original": "切島鋭児郎",
         "latin": "Eijiro Kirishima",
         "official": {
-          "ko": "키리시마 에이지로"
+          "ko": "키리시마 에이지로",
+          "en": "Eijiro Kirishima"
         },
         "aliases": {
           "ja": [
@@ -351,7 +388,8 @@
         "original": "オール・フォー・ワン",
         "latin": "All For One",
         "official": {
-          "ko": "올 포 원"
+          "ko": "올 포 원",
+          "en": "All For One"
         },
         "aliases": {
           "ja": [
@@ -370,7 +408,8 @@
         "original": "セメントス",
         "latin": "Cementoss",
         "official": {
-          "ko": "시멘터스"
+          "ko": "시멘터스",
+          "en": "Cementoss"
         },
         "aliases": {
           "ja": [
@@ -389,7 +428,8 @@
         "original": "砂藤力道",
         "latin": "Rikido Sato",
         "official": {
-          "ko": "사토 리키도"
+          "ko": "사토 리키도",
+          "en": "Rikido Sato"
         },
         "aliases": {
           "ja": [
@@ -406,7 +446,11 @@
       "name": {
         "original_lang": "ja",
         "original": "生徒",
-        "latin": "Seito"
+        "latin": "Seito",
+        "translated": {
+          "ko": "학생",
+          "en": "Student"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -418,7 +462,11 @@
       "name": {
         "original_lang": "ja",
         "original": "若者",
-        "latin": "Wakamono"
+        "latin": "Wakamono",
+        "translated": {
+          "ko": "젊은이",
+          "en": "Young man"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -432,7 +480,8 @@
         "original": "緑谷出久",
         "latin": "Izuku Midoriya",
         "official": {
-          "ko": "미도리야 이즈쿠"
+          "ko": "미도리야 이즈쿠",
+          "en": "Izuku Midoriya"
         },
         "aliases": {
           "ja": [
@@ -450,7 +499,11 @@
       "name": {
         "original_lang": "ja",
         "original": "女性記者",
-        "latin": "Josei Kisha"
+        "latin": "Josei Kisha",
+        "translated": {
+          "ko": "여성 기자",
+          "en": "Female reporter"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -464,7 +517,8 @@
         "original": "緑谷引子",
         "latin": "Inko Midoriya",
         "official": {
-          "ko": "미도리야 인코"
+          "ko": "미도리야 인코",
+          "en": "Inko Midoriya"
         },
         "aliases": {
           "ja": [
@@ -483,7 +537,8 @@
         "original": "塚内直正",
         "latin": "Naomasa Tsukauchi",
         "official": {
-          "ko": "츠카우치 나오마사"
+          "ko": "츠카우치 나오마사",
+          "en": "Naomasa Tsukauchi"
         },
         "aliases": {
           "ja": [
@@ -500,7 +555,11 @@
       "name": {
         "original_lang": "ja",
         "original": "男性記者",
-        "latin": "Dansei Kisha"
+        "latin": "Dansei Kisha",
+        "translated": {
+          "ko": "남성 기자",
+          "en": "Male reporter"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -514,7 +573,8 @@
         "original": "峰田実",
         "latin": "Minoru Mineta",
         "official": {
-          "ko": "미네타 미노루"
+          "ko": "미네타 미노루",
+          "en": "Minoru Mineta"
         },
         "aliases": {
           "ja": [
@@ -533,7 +593,8 @@
         "original": "蛙吹梅雨",
         "latin": "Tsuyu Asui",
         "official": {
-          "ko": "아스이 츠유"
+          "ko": "아스이 츠유",
+          "en": "Tsuyu Asui"
         },
         "aliases": {
           "ja": [
@@ -550,7 +611,13 @@
       "name": {
         "original_lang": "ja",
         "original": "デステゴロ",
-        "latin": "Death Arms"
+        "latin": "Death Arms",
+        "translated": {
+          "ko": "데스테고로"
+        },
+        "official": {
+          "en": "Death Arms"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s1"
@@ -566,6 +633,10 @@
           "ja": [
             "のうむ"
           ]
+        },
+        "official": {
+          "en": "Nomu",
+          "ko": "노무"
         }
       },
       "first_appearance": {
@@ -577,7 +648,11 @@
       "name": {
         "original_lang": "ja",
         "original": "バックドラフト",
-        "latin": "Backdraft"
+        "latin": "Backdraft",
+        "translated": {
+          "ko": "백드래프트",
+          "en": "Backdraft"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s1"
@@ -590,7 +665,8 @@
         "original": "青山優雅",
         "latin": "Yuga Aoyama",
         "official": {
-          "ko": "아오야마 유가"
+          "ko": "아오야마 유가",
+          "en": "Yuga Aoyama"
         },
         "aliases": {
           "ja": [
@@ -609,7 +685,8 @@
         "original": "轟焦凍",
         "latin": "Shoto Todoroki",
         "official": {
-          "ko": "토도로키 쇼토"
+          "ko": "토도로키 쇼토",
+          "en": "Shoto Todoroki"
         },
         "aliases": {
           "ja": [
@@ -628,7 +705,8 @@
         "original": "ミッドナイト",
         "latin": "Midnight",
         "official": {
-          "ko": "미드나이트"
+          "ko": "미드나이트",
+          "en": "Midnight"
         },
         "aliases": {
           "ja": [
@@ -647,7 +725,8 @@
         "original": "13号",
         "latin": "Thirteen",
         "official": {
-          "ko": "13호"
+          "ko": "13호",
+          "en": "Thirteen"
         },
         "aliases": {
           "ja": [
@@ -667,7 +746,8 @@
         "original": "上鳴電気",
         "latin": "Denki Kaminari",
         "official": {
-          "ko": "카미나리 덴키"
+          "ko": "카미나리 덴키",
+          "en": "Denki Kaminari"
         },
         "aliases": {
           "ja": [
@@ -686,7 +766,8 @@
         "original": "耳郎響香",
         "latin": "Kyoka Jiro",
         "official": {
-          "ko": "지로 쿄카"
+          "ko": "지로 쿄카",
+          "en": "Kyoka Jiro"
         },
         "aliases": {
           "ja": [
@@ -705,7 +786,8 @@
         "original": "飯田天哉",
         "latin": "Tenya Iida",
         "official": {
-          "ko": "이이다 텐야"
+          "ko": "이이다 텐야",
+          "en": "Tenya Iida"
         },
         "aliases": {
           "ja": [
@@ -724,7 +806,8 @@
         "original": "殻木球大",
         "latin": "Kyudai Garaki",
         "official": {
-          "ko": "가라키 큐다이"
+          "ko": "가라키 큐다이",
+          "en": "Kyudai Garaki"
         },
         "aliases": {
           "ja": [
@@ -745,7 +828,8 @@
         "original": "常闇踏陰",
         "latin": "Fumikage Tokoyami",
         "official": {
-          "ko": "토코야미 후미카게"
+          "ko": "토코야미 후미카게",
+          "en": "Fumikage Tokoyami"
         },
         "aliases": {
           "ja": [
@@ -762,7 +846,11 @@
       "name": {
         "original_lang": "ja",
         "original": "1Pメカ",
-        "latin": "1P Mecha"
+        "latin": "1P Mecha",
+        "translated": {
+          "ko": "1P 메카",
+          "en": "1P Mecha"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s1"
@@ -775,7 +863,8 @@
         "original": "黒霧",
         "latin": "Kurogiri",
         "official": {
-          "ko": "쿠로기리"
+          "ko": "쿠로기리",
+          "en": "Kurogiri"
         },
         "aliases": {
           "ja": [
@@ -794,7 +883,8 @@
         "original": "障子目蔵",
         "latin": "Mezo Shoji",
         "official": {
-          "ko": "쇼지 메조"
+          "ko": "쇼지 메조",
+          "en": "Mezo Shoji"
         },
         "aliases": {
           "ja": [
@@ -813,7 +903,8 @@
         "original": "相澤消太",
         "latin": "Shota Aizawa",
         "official": {
-          "ko": "아이자와 쇼타"
+          "ko": "아이자와 쇼타",
+          "en": "Shota Aizawa"
         },
         "aliases": {
           "ja": [
@@ -833,7 +924,8 @@
         "original": "根津",
         "latin": "Nezu",
         "official": {
-          "ko": "네즈"
+          "ko": "네즈",
+          "en": "Nezu"
         },
         "aliases": {
           "ja": [
@@ -853,7 +945,8 @@
         "original": "リカバリーガール",
         "latin": "Recovery Girl",
         "official": {
-          "ko": "리커버리 걸"
+          "ko": "리커버리 걸",
+          "en": "Recovery Girl"
         },
         "aliases": {
           "ja": [
@@ -875,6 +968,10 @@
           "ja": [
             "ネイティヴ"
           ]
+        },
+        "translated": {
+          "ko": "네이티브",
+          "en": "Native"
         }
       },
       "first_appearance": {
@@ -888,7 +985,8 @@
         "original": "荼毘",
         "latin": "Dabi",
         "official": {
-          "ko": "다비"
+          "ko": "다비",
+          "en": "Dabi"
         },
         "aliases": {
           "ja": [
@@ -906,7 +1004,11 @@
       "name": {
         "original_lang": "ja",
         "original": "海上保安官",
-        "latin": "Kaijo Hoankan"
+        "latin": "Kaijo Hoankan",
+        "translated": {
+          "ko": "해상보안관",
+          "en": "Coast guard officer"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -918,7 +1020,11 @@
       "name": {
         "original_lang": "ja",
         "original": "生徒",
-        "latin": "Seito"
+        "latin": "Seito",
+        "translated": {
+          "ko": "학생",
+          "en": "Student"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -932,7 +1038,8 @@
         "original": "ステイン",
         "latin": "Stain",
         "official": {
-          "ko": "스테인"
+          "ko": "스테인",
+          "en": "Stain"
         },
         "aliases": {
           "ja": [
@@ -949,7 +1056,11 @@
       "name": {
         "original_lang": "ja",
         "original": "カメラマン",
-        "latin": "Kameraman"
+        "latin": "Kameraman",
+        "translated": {
+          "ko": "카메라맨",
+          "en": "Cameraman"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -961,7 +1072,11 @@
       "name": {
         "original_lang": "ja",
         "original": "セルキーの部下",
-        "latin": "Selkie no Buka"
+        "latin": "Selkie no Buka",
+        "translated": {
+          "ko": "셀키의 부하",
+          "en": "Selkie's subordinate"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -973,7 +1088,11 @@
       "name": {
         "original_lang": "ja",
         "original": "インスマス",
-        "latin": "Insmouth"
+        "latin": "Insmouth",
+        "translated": {
+          "ko": "인스머스",
+          "en": "Insmouth"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s2"
@@ -989,6 +1108,10 @@
           "ja": [
             "埋島干狩"
           ]
+        },
+        "official": {
+          "en": "Power Loader",
+          "ko": "파워 로더"
         }
       },
       "first_appearance": {
@@ -1009,6 +1132,9 @@
             "いいだてんせい",
             "インゲニウム"
           ]
+        },
+        "translated": {
+          "en": "Tensei Iida"
         }
       },
       "first_appearance": {
@@ -1020,7 +1146,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ハンソーロボ",
-        "latin": "Hanso Robo"
+        "latin": "Hanso Robo",
+        "translated": {
+          "ko": "한소 로보",
+          "en": "Hanso Robo"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s2"
@@ -1036,6 +1166,10 @@
           "ja": [
             "ばくごうみつき"
           ]
+        },
+        "translated": {
+          "ko": "바쿠고 미츠키",
+          "en": "Mitsuki Bakugo"
         }
       },
       "first_appearance": {
@@ -1052,6 +1186,10 @@
           "ja": [
             "いいだてんやのはは"
           ]
+        },
+        "translated": {
+          "ko": "이이다 텐야의 어머니",
+          "en": "Tenya Iida's mother"
         }
       },
       "first_appearance": {
@@ -1065,7 +1203,8 @@
         "original": "マニュアル",
         "latin": "Manual",
         "official": {
-          "ko": "매뉴얼"
+          "ko": "매뉴얼",
+          "en": "Manual"
         },
         "aliases": {
           "ja": [
@@ -1087,6 +1226,12 @@
           "ja": [
             "ものまねいと"
           ]
+        },
+        "translated": {
+          "ko": "모노마 네이토"
+        },
+        "official": {
+          "en": "Neito Monoma"
         }
       },
       "first_appearance": {
@@ -1098,7 +1243,11 @@
       "name": {
         "original_lang": "ja",
         "original": "スナイプ",
-        "latin": "Snipe"
+        "latin": "Snipe",
+        "official": {
+          "en": "Snipe",
+          "ko": "스나이프"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s2"
@@ -1109,7 +1258,11 @@
       "name": {
         "original_lang": "ja",
         "original": "シリウス",
-        "latin": "Sirius"
+        "latin": "Sirius",
+        "official": {
+          "en": "Sirius",
+          "ko": "시리우스"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s2"
@@ -1125,6 +1278,12 @@
           "ja": [
             "けんどういつか"
           ]
+        },
+        "translated": {
+          "ko": "켄도 이츠카"
+        },
+        "official": {
+          "en": "Itsuka Kendo"
         }
       },
       "first_appearance": {
@@ -1136,7 +1295,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ウワバミ",
-        "latin": "Uwabami"
+        "latin": "Uwabami",
+        "translated": {
+          "ko": "우와바미",
+          "en": "Uwabami"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s2"
@@ -1147,7 +1310,11 @@
       "name": {
         "original_lang": "ja",
         "original": "インスマスの部下",
-        "latin": "Insmouth no Buka"
+        "latin": "Insmouth no Buka",
+        "translated": {
+          "ko": "인스머스의 부하",
+          "en": "Insmouth's subordinate"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -1159,7 +1326,11 @@
       "name": {
         "original_lang": "ja",
         "original": "リポーター",
-        "latin": "Ripota"
+        "latin": "Ripota",
+        "translated": {
+          "ko": "리포터",
+          "en": "Reporter"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -1171,7 +1342,11 @@
       "name": {
         "original_lang": "ja",
         "original": "勝己の友人",
-        "latin": "Katsuki no Yujin"
+        "latin": "Katsuki no Yujin",
+        "translated": {
+          "ko": "카츠키의 친구",
+          "en": "Katsuki's friend"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -1188,6 +1363,10 @@
           "ja": [
             "管赤慈郎"
           ]
+        },
+        "official": {
+          "en": "Vlad King",
+          "ko": "블러드 킹"
         }
       },
       "first_appearance": {
@@ -1204,6 +1383,10 @@
           "ja": [
             "おちゃこのちち"
           ]
+        },
+        "translated": {
+          "ko": "오차코의 아버지",
+          "en": "Ochaco's father"
         }
       },
       "first_appearance": {
@@ -1217,7 +1400,8 @@
         "original": "轟冷",
         "latin": "Rei Todoroki",
         "official": {
-          "ko": "토도로키 레이"
+          "ko": "토도로키 레이",
+          "en": "Rei Todoroki"
         },
         "aliases": {
           "ja": [
@@ -1240,6 +1424,12 @@
             "りんひりゅう",
             "鱗飛竜"
           ]
+        },
+        "translated": {
+          "ko": "린 히류"
+        },
+        "official": {
+          "en": "Hiryu Rin"
         }
       },
       "first_appearance": {
@@ -1253,7 +1443,8 @@
         "original": "発目明",
         "latin": "Mei Hatsume",
         "official": {
-          "ko": "하츠메 메이"
+          "ko": "하츠메 메이",
+          "en": "Mei Hatsume"
         },
         "aliases": {
           "ja": [
@@ -1275,6 +1466,12 @@
           "ja": [
             "しおざきいばら"
           ]
+        },
+        "translated": {
+          "ko": "시오자키 이바라"
+        },
+        "official": {
+          "en": "Ibara Shiozaki"
         }
       },
       "first_appearance": {
@@ -1291,6 +1488,12 @@
           "ja": [
             "福門笑"
           ]
+        },
+        "translated": {
+          "ko": "미스 조크"
+        },
+        "official": {
+          "en": "Ms. Joke"
         }
       },
       "first_appearance": {
@@ -1304,7 +1507,8 @@
         "original": "口田甲司",
         "latin": "Koji Koda",
         "official": {
-          "ko": "코다 코지"
+          "ko": "코다 코지",
+          "en": "Koji Koda"
         },
         "aliases": {
           "ja": [
@@ -1326,6 +1530,10 @@
           "ja": [
             "おちゃこのはは"
           ]
+        },
+        "translated": {
+          "ko": "오차코의 어머니",
+          "en": "Ochaco's mother"
         }
       },
       "first_appearance": {
@@ -1342,6 +1550,12 @@
           "ja": [
             "てつてつてつてつ"
           ]
+        },
+        "translated": {
+          "ko": "테츠테츠 테츠테츠"
+        },
+        "official": {
+          "en": "Tetsutetsu Tetsutetsu"
         }
       },
       "first_appearance": {
@@ -1355,7 +1569,8 @@
         "original": "ガンヘッド",
         "latin": "Gunhead",
         "official": {
-          "ko": "건헤드"
+          "ko": "건헤드",
+          "en": "Gunhead"
         }
       },
       "first_appearance": {
@@ -1369,7 +1584,8 @@
         "original": "トガヒミコ",
         "latin": "Himiko Toga",
         "official": {
-          "ko": "토가 히미코"
+          "ko": "토가 히미코",
+          "en": "Himiko Toga"
         },
         "aliases": {
           "ja": [
@@ -1388,7 +1604,8 @@
         "original": "エンデヴァー",
         "latin": "Endeavor",
         "official": {
-          "ko": "엔데버"
+          "ko": "엔데버",
+          "en": "Endeavor"
         },
         "aliases": {
           "ja": [
@@ -1410,6 +1627,12 @@
           "ja": [
             "つらがまえけんじ"
           ]
+        },
+        "translated": {
+          "en": "Kenji Tsuragamae"
+        },
+        "official": {
+          "ko": "츠루가메 켄지"
         }
       },
       "first_appearance": {
@@ -1423,7 +1646,8 @@
         "original": "ベストジーニスト",
         "latin": "Best Jeanist",
         "official": {
-          "ko": "베스트 지니스트"
+          "ko": "베스트 지니스트",
+          "en": "Best Jeanist"
         },
         "aliases": {
           "ja": [
@@ -1442,7 +1666,8 @@
         "original": "グラントリノ",
         "latin": "Gran Torino",
         "official": {
-          "ko": "그랜 토리노"
+          "ko": "그랜 토리노",
+          "en": "Gran Torino"
         },
         "aliases": {
           "ja": [
@@ -1461,7 +1686,8 @@
         "original": "心操人使",
         "latin": "Hitoshi Shinso",
         "official": {
-          "ko": "신소 히토시"
+          "ko": "신소 히토시",
+          "en": "Hitoshi Shinso"
         },
         "aliases": {
           "ja": [
@@ -1484,6 +1710,10 @@
             "ぎらん",
             "憶田影朧"
           ]
+        },
+        "official": {
+          "en": "Giran",
+          "ko": "기란"
         }
       },
       "first_appearance": {
@@ -1495,7 +1725,11 @@
       "name": {
         "original_lang": "ja",
         "original": "カップル",
-        "latin": "Kappuru"
+        "latin": "Kappuru",
+        "translated": {
+          "ko": "커플",
+          "en": "Couple"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -1507,7 +1741,11 @@
       "name": {
         "original_lang": "ja",
         "original": "フォースカインド",
-        "latin": "Fourth Kind"
+        "latin": "Fourth Kind",
+        "translated": {
+          "ko": "포스 카인드",
+          "en": "Fourth Kind"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s2"
@@ -1518,7 +1756,11 @@
       "name": {
         "original_lang": "ja",
         "original": "エクトプラズム",
-        "latin": "Ectoplasm"
+        "latin": "Ectoplasm",
+        "official": {
+          "en": "Ectoplasm",
+          "ko": "엑토플라즘"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s2"
@@ -1534,6 +1776,10 @@
           "ja": [
             "ほうそうのこえ"
           ]
+        },
+        "translated": {
+          "ko": "방송 목소리",
+          "en": "Announcement voice"
         }
       },
       "first_appearance": {
@@ -1545,7 +1791,11 @@
       "name": {
         "original_lang": "ja",
         "original": "セルキー",
-        "latin": "Selkie"
+        "latin": "Selkie",
+        "official": {
+          "en": "Selkie",
+          "ko": "셀키"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s2"
@@ -1561,6 +1811,12 @@
           "ja": [
             "ふじみろめろ"
           ]
+        },
+        "translated": {
+          "ko": "후지미 로메로"
+        },
+        "official": {
+          "en": "Romero Fujimi"
         }
       },
       "first_appearance": {
@@ -1577,6 +1833,12 @@
           "ja": [
             "まんぐうすはぶこ"
           ]
+        },
+        "translated": {
+          "ko": "몽구스 하부코"
+        },
+        "official": {
+          "en": "Habuko Mongoose"
         }
       },
       "first_appearance": {
@@ -1593,6 +1855,12 @@
           "ja": [
             "ただんだだん"
           ]
+        },
+        "translated": {
+          "ko": "타단 다단"
+        },
+        "official": {
+          "en": "Dadan Tadan"
         }
       },
       "first_appearance": {
@@ -1609,6 +1877,12 @@
           "ja": [
             "せきがいかしこ"
           ]
+        },
+        "translated": {
+          "ko": "세키가이 카시코"
+        },
+        "official": {
+          "en": "Kashiko Sekigai"
         }
       },
       "first_appearance": {
@@ -1625,6 +1899,12 @@
           "ja": [
             "こだいゆい"
           ]
+        },
+        "translated": {
+          "ko": "코다이 유이"
+        },
+        "official": {
+          "en": "Yui Kodai"
         }
       },
       "first_appearance": {
@@ -1641,6 +1921,12 @@
           "ja": [
             "もうらながまさ"
           ]
+        },
+        "translated": {
+          "ko": "모라 나가마사"
+        },
+        "official": {
+          "en": "Nagamasa Mora"
         }
       },
       "first_appearance": {
@@ -1652,7 +1938,11 @@
       "name": {
         "original_lang": "ja",
         "original": "誠刃校受験者",
-        "latin": "Seijinko Jukensha"
+        "latin": "Seijinko Jukensha",
+        "translated": {
+          "ko": "세이진 고교 수험생",
+          "en": "Seijin High examinee"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -1664,7 +1954,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ギャングオルガのサイドキック",
-        "latin": "Gang Orca no Saidokikku"
+        "latin": "Gang Orca no Saidokikku",
+        "translated": {
+          "ko": "갱 오르카의 사이드킥",
+          "en": "Gang Orca's sidekick"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -1678,7 +1972,8 @@
         "original": "天喰環",
         "latin": "Tamaki Amajiki",
         "official": {
-          "ko": "아마지키 타마키"
+          "ko": "아마지키 타마키",
+          "en": "Tamaki Amajiki"
         },
         "aliases": {
           "ja": [
@@ -1700,6 +1995,12 @@
           "ja": [
             "いんてりさいこ"
           ]
+        },
+        "translated": {
+          "ko": "인테리 사이코"
+        },
+        "official": {
+          "en": "Saiko Intelli"
         }
       },
       "first_appearance": {
@@ -1711,7 +2012,11 @@
       "name": {
         "original_lang": "ja",
         "original": "おばさんフック",
-        "latin": "Obasan Hook"
+        "latin": "Obasan Hook",
+        "translated": {
+          "ko": "아줌마 훅",
+          "en": "Auntie Hook"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -1728,6 +2033,10 @@
           "ja": [
             "みやぎだいかく"
           ]
+        },
+        "translated": {
+          "ko": "미야기 다이카쿠",
+          "en": "Daikaku Miyagi"
         }
       },
       "first_appearance": {
@@ -1744,6 +2053,10 @@
           "ja": [
             "引石健磁"
           ]
+        },
+        "official": {
+          "en": "Magne",
+          "ko": "마그네"
         }
       },
       "first_appearance": {
@@ -1755,7 +2068,11 @@
       "name": {
         "original_lang": "ja",
         "original": "警視庁幹部",
-        "latin": "Keishicho Kanbu"
+        "latin": "Keishicho Kanbu",
+        "translated": {
+          "ko": "경시청 간부",
+          "en": "Metropolitan Police executive"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -1767,7 +2084,11 @@
       "name": {
         "original_lang": "ja",
         "original": "マスタード",
-        "latin": "Mustard"
+        "latin": "Mustard",
+        "official": {
+          "en": "Mustard",
+          "ko": "머스타드"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s3"
@@ -1783,6 +2104,12 @@
           "ja": [
             "ししくらせいじ"
           ]
+        },
+        "translated": {
+          "ko": "시시쿠라 세이지"
+        },
+        "official": {
+          "en": "Seiji Shishikura"
         }
       },
       "first_appearance": {
@@ -1800,6 +2127,12 @@
             "しむらなな",
             "七代目・志村菜奈"
           ]
+        },
+        "translated": {
+          "ko": "시무라 나나"
+        },
+        "official": {
+          "en": "Nana Shimura"
         }
       },
       "first_appearance": {
@@ -1811,7 +2144,11 @@
       "name": {
         "original_lang": "ja",
         "original": "駅員",
-        "latin": "Ekiin"
+        "latin": "Ekiin",
+        "translated": {
+          "ko": "역무원",
+          "en": "Station staff"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -1828,6 +2165,12 @@
           "ja": [
             "とうてきいてじろう"
           ]
+        },
+        "translated": {
+          "ko": "토테키 이테지로"
+        },
+        "official": {
+          "en": "Itejiro Toteki"
         }
       },
       "first_appearance": {
@@ -1839,7 +2182,11 @@
       "name": {
         "original_lang": "ja",
         "original": "男性受験者",
-        "latin": "Dansei Jukensha"
+        "latin": "Dansei Jukensha",
+        "translated": {
+          "ko": "남성 수험생",
+          "en": "Male examinee"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -1851,7 +2198,11 @@
       "name": {
         "original_lang": "ja",
         "original": "公安委員",
-        "latin": "Koan Iin"
+        "latin": "Koan Iin",
+        "translated": {
+          "ko": "공안위원",
+          "en": "Public Safety Commission member"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -1865,7 +2216,8 @@
         "original": "波動ねじれ",
         "latin": "Nejire Hado",
         "official": {
-          "ko": "하도 네지레"
+          "ko": "하도 네지레",
+          "en": "Nejire Hado"
         },
         "aliases": {
           "ja": [
@@ -1882,7 +2234,11 @@
       "name": {
         "original_lang": "ja",
         "original": "赤ちゃんフック",
-        "latin": "Akachan Hook"
+        "latin": "Akachan Hook",
+        "translated": {
+          "ko": "아기 훅",
+          "en": "Baby Hook"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -1899,6 +2255,12 @@
           "ja": [
             "まかべしっくい"
           ]
+        },
+        "translated": {
+          "ko": "마카베 싯쿠이"
+        },
+        "official": {
+          "en": "Shikkui Makabe"
         }
       },
       "first_appearance": {
@@ -1912,7 +2274,8 @@
         "original": "出水洸汰",
         "latin": "Kota Izumi",
         "official": {
-          "ko": "이즈미 코타"
+          "ko": "이즈미 코타",
+          "en": "Kota Izumi"
         },
         "aliases": {
           "ja": [
@@ -1931,7 +2294,8 @@
         "original": "スピナー",
         "latin": "Spinner",
         "official": {
-          "ko": "스피너"
+          "ko": "스피너",
+          "en": "Spinner"
         },
         "aliases": {
           "ja": [
@@ -1953,6 +2317,10 @@
           "ja": [
             "めらよくみる"
           ]
+        },
+        "translated": {
+          "ko": "메라 요쿠미루",
+          "en": "Yokumiru Mera"
         }
       },
       "first_appearance": {
@@ -1969,6 +2337,12 @@
           "ja": [
             "よあらしいなさ"
           ]
+        },
+        "translated": {
+          "ko": "요아라시 이나사"
+        },
+        "official": {
+          "en": "Inasa Yoarashi"
         }
       },
       "first_appearance": {
@@ -1980,7 +2354,11 @@
       "name": {
         "original_lang": "ja",
         "original": "女性アナウンサー",
-        "latin": "Josei Anaunsa"
+        "latin": "Josei Anaunsa",
+        "translated": {
+          "ko": "여성 아나운서",
+          "en": "Female announcer"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -1997,6 +2375,10 @@
           "ja": [
             "送崎信乃"
           ]
+        },
+        "official": {
+          "en": "Mandalay",
+          "ko": "만달레이"
         }
       },
       "first_appearance": {
@@ -2014,6 +2396,10 @@
             "とら",
             "茶虎柔"
           ]
+        },
+        "official": {
+          "en": "Tiger",
+          "ko": "타이거"
         }
       },
       "first_appearance": {
@@ -2025,7 +2411,11 @@
       "name": {
         "original_lang": "ja",
         "original": "警視庁報告官",
-        "latin": "Keishicho Hokokukan"
+        "latin": "Keishicho Hokokukan",
+        "translated": {
+          "ko": "경시청 보고관",
+          "en": "Metropolitan Police briefing officer"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -2039,7 +2429,8 @@
         "original": "通形ミリオ",
         "latin": "Mirio Togata",
         "official": {
-          "ko": "토가타 미리오"
+          "ko": "토가타 미리오",
+          "en": "Mirio Togata"
         },
         "aliases": {
           "ja": [
@@ -2056,7 +2447,11 @@
       "name": {
         "original_lang": "ja",
         "original": "アナウンサー",
-        "latin": "Anaunsa"
+        "latin": "Anaunsa",
+        "translated": {
+          "ko": "아나운서",
+          "en": "Announcer"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -2070,7 +2465,8 @@
         "original": "Mr.コンプレス",
         "latin": "Mr. Compress",
         "official": {
-          "ko": "미스터 컴프레스"
+          "ko": "미스터 컴프레스",
+          "en": "Mr. Compress"
         },
         "aliases": {
           "ja": [
@@ -2092,6 +2488,10 @@
           "ja": [
             "玄野針"
           ]
+        },
+        "official": {
+          "en": "Chronostasis",
+          "ko": "크로노스타시스"
         }
       },
       "first_appearance": {
@@ -2108,6 +2508,12 @@
           "ja": [
             "青年デヴィッド"
           ]
+        },
+        "translated": {
+          "ko": "데이비드 실드"
+        },
+        "official": {
+          "en": "David Shield"
         }
       },
       "first_appearance": {
@@ -2124,6 +2530,12 @@
           "ja": [
             "あわせようせつ"
           ]
+        },
+        "translated": {
+          "ko": "아와세 요세츠"
+        },
+        "official": {
+          "en": "Yosetsu Awase"
         }
       },
       "first_appearance": {
@@ -2135,7 +2547,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ムーンフィッシュ",
-        "latin": "Moonfish"
+        "latin": "Moonfish",
+        "official": {
+          "en": "Moonfish",
+          "ko": "문피시"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s3"
@@ -2148,7 +2564,8 @@
         "original": "ギャングオルカ",
         "latin": "Gang Orca",
         "official": {
-          "ko": "갱 오르카"
+          "ko": "갱 오르카",
+          "en": "Gang Orca"
         },
         "aliases": {
           "ja": [
@@ -2165,7 +2582,11 @@
       "name": {
         "original_lang": "ja",
         "original": "士傑教師",
-        "latin": "Shiketsu Kyoshi"
+        "latin": "Shiketsu Kyoshi",
+        "translated": {
+          "ko": "시케츠 교사",
+          "en": "Shiketsu teacher"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -2177,7 +2598,11 @@
       "name": {
         "original_lang": "ja",
         "original": "女性市民",
-        "latin": "Josei Shimin"
+        "latin": "Josei Shimin",
+        "translated": {
+          "ko": "여성 시민",
+          "en": "Female citizen"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -2195,6 +2620,10 @@
             "じろうきょうとく",
             "耳郎の父"
           ]
+        },
+        "translated": {
+          "ko": "지로 쿄토쿠",
+          "en": "Kyotoku Jiro"
         }
       },
       "first_appearance": {
@@ -2211,6 +2640,10 @@
           "ja": [
             "ばくごうまさる"
           ]
+        },
+        "translated": {
+          "ko": "바쿠고 마사루",
+          "en": "Masaru Bakugo"
         }
       },
       "first_appearance": {
@@ -2222,7 +2655,11 @@
       "name": {
         "original_lang": "ja",
         "original": "聖愛学院受験者",
-        "latin": "Seiai Gakuin Jukensha"
+        "latin": "Seiai Gakuin Jukensha",
+        "translated": {
+          "ko": "세이아이 학원 수험생",
+          "en": "Seiai Academy examinee"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -2236,7 +2673,8 @@
         "original": "オーバーホール",
         "latin": "Overhaul",
         "official": {
-          "ko": "오버홀"
+          "ko": "오버홀",
+          "en": "Overhaul"
         },
         "aliases": {
           "ja": [
@@ -2258,6 +2696,12 @@
           "ja": [
             "なかがめたたみ"
           ]
+        },
+        "translated": {
+          "ko": "나카가메 타타미"
+        },
+        "official": {
+          "en": "Tatami Nakagame"
         }
       },
       "first_appearance": {
@@ -2274,6 +2718,10 @@
           "ja": [
             "土川流子"
           ]
+        },
+        "official": {
+          "en": "Pixie-Bob",
+          "ko": "픽시 밥"
         }
       },
       "first_appearance": {
@@ -2290,6 +2738,10 @@
           "ja": [
             "しんどうよう"
           ]
+        },
+        "official": {
+          "en": "Yo Shindo",
+          "ko": "신도 요"
         }
       },
       "first_appearance": {
@@ -2301,7 +2753,11 @@
       "name": {
         "original_lang": "ja",
         "original": "女性受験者",
-        "latin": "Josei Jukensha"
+        "latin": "Josei Jukensha",
+        "translated": {
+          "ko": "여성 수험생",
+          "en": "Female examinee"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -2318,6 +2774,12 @@
           "ja": [
             "犬井猟"
           ]
+        },
+        "translated": {
+          "ko": "하운드 도그"
+        },
+        "official": {
+          "en": "Hound Dog"
         }
       },
       "first_appearance": {
@@ -2334,6 +2796,12 @@
           "ja": [
             "うつしみけみぃ"
           ]
+        },
+        "translated": {
+          "ko": "우츠시미 케미"
+        },
+        "official": {
+          "en": "Camie Utsushimi"
         }
       },
       "first_appearance": {
@@ -2350,6 +2818,10 @@
           "ja": [
             "知床知子"
           ]
+        },
+        "official": {
+          "en": "Ragdoll",
+          "ko": "래그돌"
         }
       },
       "first_appearance": {
@@ -2363,7 +2835,8 @@
         "original": "トゥワイス",
         "latin": "Twice",
         "official": {
-          "ko": "트와이스"
+          "ko": "트와이스",
+          "en": "Twice"
         },
         "aliases": {
           "ja": [
@@ -2380,7 +2853,11 @@
       "name": {
         "original_lang": "ja",
         "original": "警視庁長官",
-        "latin": "Keishicho Chokan"
+        "latin": "Keishicho Chokan",
+        "translated": {
+          "ko": "경시총감",
+          "en": "Superintendent-General of the Metropolitan Police"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -2392,7 +2869,11 @@
       "name": {
         "original_lang": "ja",
         "original": "子供フック",
-        "latin": "Kodomo Hook"
+        "latin": "Kodomo Hook",
+        "translated": {
+          "ko": "아이 훅",
+          "en": "Kid Hook"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -2404,7 +2885,11 @@
       "name": {
         "original_lang": "ja",
         "original": "女性職員",
-        "latin": "Josei Shokuin"
+        "latin": "Josei Shokuin",
+        "translated": {
+          "ko": "여성 직원",
+          "en": "Female staff member"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -2418,7 +2903,8 @@
         "original": "マスキュラー",
         "latin": "Muscular",
         "official": {
-          "ko": "머스큘러"
+          "ko": "머스큘러",
+          "en": "Muscular"
         },
         "aliases": {
           "ja": [
@@ -2435,7 +2921,11 @@
       "name": {
         "original_lang": "ja",
         "original": "おじさんフック",
-        "latin": "Ojisan Hook"
+        "latin": "Ojisan Hook",
+        "translated": {
+          "ko": "아저씨 훅",
+          "en": "Uncle Hook"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -2447,7 +2937,11 @@
       "name": {
         "original_lang": "ja",
         "original": "メリッサ・シールド",
-        "latin": "Melissa Shield"
+        "latin": "Melissa Shield",
+        "official": {
+          "en": "Melissa Shield",
+          "ko": "멜리사 실드"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s3"
@@ -2460,7 +2954,8 @@
         "original": "エッジショット",
         "latin": "Edgeshot",
         "official": {
-          "ko": "엣지 쇼트"
+          "ko": "엣지 쇼트",
+          "en": "Edgeshot"
         },
         "aliases": {
           "ja": [
@@ -2477,7 +2972,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ウォルフラム",
-        "latin": "Wolfram"
+        "latin": "Wolfram",
+        "official": {
+          "en": "Wolfram",
+          "ko": "울프럼"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-2-heroes"
@@ -2488,7 +2987,11 @@
       "name": {
         "original_lang": "ja",
         "original": "サミュエル・エイブラハム",
-        "latin": "Samuel Abraham"
+        "latin": "Samuel Abraham",
+        "translated": {
+          "ko": "새뮤얼 에이브러햄",
+          "en": "Samuel Abraham"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-2-heroes"
@@ -2499,7 +3002,11 @@
       "name": {
         "original_lang": "ja",
         "original": "エレクプラント",
-        "latin": "Elecplant"
+        "latin": "Elecplant",
+        "translated": {
+          "ko": "일렉플랜트",
+          "en": "Elecplant"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-2-heroes"
@@ -2510,7 +3017,11 @@
       "name": {
         "original_lang": "ja",
         "original": "カウレディ",
-        "latin": "Cow Lady"
+        "latin": "Cow Lady",
+        "translated": {
+          "ko": "카우 레이디",
+          "en": "Cow Lady"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-2-heroes"
@@ -2521,7 +3032,11 @@
       "name": {
         "original_lang": "ja",
         "original": "島内アナウンス",
-        "latin": "Tonai Anaunsu"
+        "latin": "Tonai Anaunsu",
+        "translated": {
+          "ko": "섬 안내방송",
+          "en": "Island announcement"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -2533,7 +3048,11 @@
       "name": {
         "original_lang": "ja",
         "original": "MCのお姉さん",
-        "latin": "MC no Onesan"
+        "latin": "MC no Onesan",
+        "translated": {
+          "ko": "MC 언니",
+          "en": "MC lady"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -2550,6 +3069,12 @@
           "ja": [
             "せつのとうや"
           ]
+        },
+        "translated": {
+          "ko": "세츠노 토야"
+        },
+        "official": {
+          "en": "Toya Setsuno"
         }
       },
       "first_appearance": {
@@ -2566,6 +3091,10 @@
           "ja": [
             "はずかしてるお"
           ]
+        },
+        "translated": {
+          "ko": "하즈카시 테루오",
+          "en": "Teruo Hazukashi"
         }
       },
       "first_appearance": {
@@ -2582,6 +3111,10 @@
           "ja": [
             "とげいけちくち"
           ]
+        },
+        "translated": {
+          "ko": "토게이케 치쿠치",
+          "en": "Chikuchi Togeike"
         }
       },
       "first_appearance": {
@@ -2595,7 +3128,8 @@
         "original": "ロックロック",
         "latin": "Rock Lock",
         "official": {
-          "ko": "로크로크"
+          "ko": "로크로크",
+          "en": "Rock Lock"
         },
         "aliases": {
           "ja": [
@@ -2612,7 +3146,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ニット帽の少年",
-        "latin": "Nitto Bo no Shonen"
+        "latin": "Nitto Bo no Shonen",
+        "translated": {
+          "ko": "니트 모자를 쓴 소년",
+          "en": "Boy in a knit cap"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -2626,7 +3164,8 @@
         "original": "サー・ナイトアイ",
         "latin": "Sir Nighteye",
         "official": {
-          "ko": "서 나이트아이"
+          "ko": "서 나이트아이",
+          "en": "Sir Nighteye"
         },
         "aliases": {
           "ja": [
@@ -2643,7 +3182,11 @@
       "name": {
         "original_lang": "ja",
         "original": "女子児童",
-        "latin": "Joshi Jido"
+        "latin": "Joshi Jido",
+        "translated": {
+          "ko": "여자아이",
+          "en": "Schoolgirl"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -2657,7 +3200,8 @@
         "original": "ホークス",
         "latin": "Hawks",
         "official": {
-          "ko": "호크스"
+          "ko": "호크스",
+          "en": "Hawks"
         },
         "aliases": {
           "ja": [
@@ -2674,7 +3218,11 @@
       "name": {
         "original_lang": "ja",
         "original": "警察庁長官",
-        "latin": "Keisatsucho Chokan"
+        "latin": "Keisatsucho Chokan",
+        "translated": {
+          "ko": "경찰청 장관",
+          "en": "Commissioner General of the National Police Agency"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -2686,7 +3234,11 @@
       "name": {
         "original_lang": "ja",
         "original": "警官",
-        "latin": "Keikan"
+        "latin": "Keikan",
+        "translated": {
+          "ko": "경찰관",
+          "en": "Police officer"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -2703,6 +3255,12 @@
           "ja": [
             "やなぎれいこ"
           ]
+        },
+        "translated": {
+          "ko": "야나기 레이코"
+        },
+        "official": {
+          "en": "Reiko Yanagi"
         }
       },
       "first_appearance": {
@@ -2716,7 +3274,8 @@
         "original": "リューキュウ",
         "latin": "Ryukyu",
         "official": {
-          "ko": "류큐"
+          "ko": "류큐",
+          "en": "Ryukyu"
         },
         "aliases": {
           "ja": [
@@ -2733,7 +3292,11 @@
       "name": {
         "original_lang": "ja",
         "original": "記者",
-        "latin": "Kisha"
+        "latin": "Kisha",
+        "translated": {
+          "ko": "기자",
+          "en": "Reporter"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -2747,7 +3310,8 @@
         "original": "ラブラバ",
         "latin": "La Brava",
         "official": {
-          "ko": "러브러버"
+          "ko": "러브러버",
+          "en": "La Brava"
         },
         "aliases": {
           "ja": [
@@ -2764,7 +3328,11 @@
       "name": {
         "original_lang": "ja",
         "original": "“個性”がサメの少年",
-        "latin": "\"Kosei\" ga Same no Shonen"
+        "latin": "\"Kosei\" ga Same no Shonen",
+        "translated": {
+          "ko": "'개성'이 상어인 소년",
+          "en": "Boy with a shark \"Quirk\""
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -2781,6 +3349,12 @@
           "ja": [
             "ねもとしん"
           ]
+        },
+        "translated": {
+          "ko": "네모토 신"
+        },
+        "official": {
+          "en": "Shin Nemoto"
         }
       },
       "first_appearance": {
@@ -2792,7 +3366,11 @@
       "name": {
         "original_lang": "ja",
         "original": "女性市民",
-        "latin": "Josei Shimin"
+        "latin": "Josei Shimin",
+        "translated": {
+          "ko": "여성 시민",
+          "en": "Female citizen"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -2804,7 +3382,11 @@
       "name": {
         "original_lang": "ja",
         "original": "女子生徒",
-        "latin": "Joshi Seito"
+        "latin": "Joshi Seito",
+        "translated": {
+          "ko": "여학생",
+          "en": "Female student"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -2818,7 +3400,8 @@
         "original": "センチピーダー",
         "latin": "Centipeder",
         "official": {
-          "ko": "센티피더"
+          "ko": "센티피더",
+          "en": "Centipeder"
         },
         "aliases": {
           "ja": [
@@ -2840,6 +3423,12 @@
           "ja": [
             "かつかめりきや"
           ]
+        },
+        "translated": {
+          "ko": "카츠카메 리키야"
+        },
+        "official": {
+          "en": "Rikiya Katsukame"
         }
       },
       "first_appearance": {
@@ -2856,6 +3445,12 @@
           "ja": [
             "てんがいへきじ"
           ]
+        },
+        "translated": {
+          "ko": "텐가이 헤키지"
+        },
+        "official": {
+          "en": "Hekiji Tengai"
         }
       },
       "first_appearance": {
@@ -2867,7 +3462,11 @@
       "name": {
         "original_lang": "ja",
         "original": "プロヒーロー",
-        "latin": "Puro Hiro"
+        "latin": "Puro Hiro",
+        "translated": {
+          "ko": "프로 히어로",
+          "en": "Pro hero"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -2884,6 +3483,10 @@
           "ja": [
             "みりおのちち"
           ]
+        },
+        "translated": {
+          "ko": "미리오의 아버지",
+          "en": "Mirio's father"
         }
       },
       "first_appearance": {
@@ -2897,7 +3500,8 @@
         "original": "ジェントル・クリミナル",
         "latin": "Gentle Criminal",
         "official": {
-          "ko": "젠틀 크리미널"
+          "ko": "젠틀 크리미널",
+          "en": "Gentle Criminal"
         },
         "aliases": {
           "ja": [
@@ -2914,7 +3518,11 @@
       "name": {
         "original_lang": "ja",
         "original": "チンピラヴィラン",
-        "latin": "Chinpira Viran"
+        "latin": "Chinpira Viran",
+        "translated": {
+          "ko": "양아치 빌런",
+          "en": "Thug villain"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -2926,7 +3534,11 @@
       "name": {
         "original_lang": "ja",
         "original": "男子児童",
-        "latin": "Danshi Jido"
+        "latin": "Danshi Jido",
+        "translated": {
+          "ko": "남자아이",
+          "en": "Schoolboy"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -2938,7 +3550,11 @@
       "name": {
         "original_lang": "ja",
         "original": "リポーター",
-        "latin": "Ripota"
+        "latin": "Ripota",
+        "translated": {
+          "ko": "리포터",
+          "en": "Reporter"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -2955,6 +3571,12 @@
           "ja": [
             "くりむぞんらいおっと"
           ]
+        },
+        "translated": {
+          "ko": "크림슨 라이엇"
+        },
+        "official": {
+          "en": "Crimson Riot"
         }
       },
       "first_appearance": {
@@ -2968,7 +3590,8 @@
         "original": "轟夏雄",
         "latin": "Natsuo Todoroki",
         "official": {
-          "ko": "토도로키 나츠오"
+          "ko": "토도로키 나츠오",
+          "en": "Natsuo Todoroki"
         },
         "aliases": {
           "ja": [
@@ -2985,7 +3608,13 @@
       "name": {
         "original_lang": "ja",
         "original": "ハイエンド",
-        "latin": "High-End"
+        "latin": "High-End",
+        "translated": {
+          "ko": "하이엔드"
+        },
+        "official": {
+          "en": "High-End"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s4"
@@ -2996,7 +3625,11 @@
       "name": {
         "original_lang": "ja",
         "original": "編集長",
-        "latin": "Henshucho"
+        "latin": "Henshucho",
+        "translated": {
+          "ko": "편집장",
+          "en": "Editor-in-chief"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -3008,7 +3641,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ヒーロー公安委員会会長",
-        "latin": "Hiro Koan Iinkai Kaicho"
+        "latin": "Hiro Koan Iinkai Kaicho",
+        "translated": {
+          "ko": "히어로 공안위원회 회장",
+          "en": "President of the Hero Public Safety Commission"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -3022,7 +3659,8 @@
         "original": "バブルガール",
         "latin": "Bubble Girl",
         "official": {
-          "ko": "버블 걸"
+          "ko": "버블 걸",
+          "en": "Bubble Girl"
         },
         "aliases": {
           "ja": [
@@ -3044,6 +3682,10 @@
           "ja": [
             "いこまこまり"
           ]
+        },
+        "translated": {
+          "ko": "이코마 코마리",
+          "en": "Komari Ikoma"
         }
       },
       "first_appearance": {
@@ -3060,6 +3702,12 @@
           "ja": [
             "ほうじょうゆう"
           ]
+        },
+        "translated": {
+          "ko": "호조 유"
+        },
+        "official": {
+          "en": "Yu Hojo"
         }
       },
       "first_appearance": {
@@ -3076,6 +3724,12 @@
           "ja": [
             "らっぱけんどう"
           ]
+        },
+        "translated": {
+          "ko": "랏파 켄도"
+        },
+        "official": {
+          "en": "Kendo Rappa"
         }
       },
       "first_appearance": {
@@ -3093,6 +3747,10 @@
             "くみちょう",
             "八斎會組長"
           ]
+        },
+        "translated": {
+          "ko": "조장",
+          "en": "Boss"
         }
       },
       "first_appearance": {
@@ -3104,7 +3762,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ヒーロー",
-        "latin": "Hiro"
+        "latin": "Hiro",
+        "translated": {
+          "ko": "히어로",
+          "en": "Hero"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -3121,6 +3783,10 @@
           "ja": [
             "とびたのはは"
           ]
+        },
+        "translated": {
+          "ko": "토비타의 어머니",
+          "en": "Tobita's mother"
         }
       },
       "first_appearance": {
@@ -3137,6 +3803,10 @@
           "ja": [
             "じろうみか"
           ]
+        },
+        "translated": {
+          "ko": "지로 미카",
+          "en": "Mika Jiro"
         }
       },
       "first_appearance": {
@@ -3153,6 +3823,12 @@
           "ja": [
             "ためだひろし"
           ]
+        },
+        "translated": {
+          "ko": "타메다 히로시"
+        },
+        "official": {
+          "en": "Hiroshi Tameda"
         }
       },
       "first_appearance": {
@@ -3166,7 +3842,8 @@
         "original": "轟冬美",
         "latin": "Fuyumi Todoroki",
         "official": {
-          "ko": "토도로키 후유미"
+          "ko": "토도로키 후유미",
+          "en": "Fuyumi Todoroki"
         },
         "aliases": {
           "ja": [
@@ -3188,6 +3865,10 @@
           "ja": [
             "日河原砂塵"
           ]
+        },
+        "translated": {
+          "ko": "스내치",
+          "en": "Snatch"
         }
       },
       "first_appearance": {
@@ -3204,6 +3885,10 @@
           "ja": [
             "はやゆうゆ"
           ]
+        },
+        "translated": {
+          "ko": "하야 유유",
+          "en": "Yuyu Haya"
         }
       },
       "first_appearance": {
@@ -3215,7 +3900,11 @@
       "name": {
         "original_lang": "ja",
         "original": "八斎會構成員",
-        "latin": "Hassaikai Koseiin"
+        "latin": "Hassaikai Koseiin",
+        "translated": {
+          "ko": "팔재회 조직원",
+          "en": "Shie Hassaikai member"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -3227,7 +3916,11 @@
       "name": {
         "original_lang": "ja",
         "original": "講習生",
-        "latin": "Koshusei"
+        "latin": "Koshusei",
+        "translated": {
+          "ko": "강습생",
+          "en": "Trainee"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -3241,7 +3934,8 @@
         "original": "ファットガム",
         "latin": "Fat Gum",
         "official": {
-          "ko": "팻껌"
+          "ko": "팻껌",
+          "en": "Fat Gum"
         },
         "aliases": {
           "ja": [
@@ -3258,7 +3952,11 @@
       "name": {
         "original_lang": "ja",
         "original": "男子生徒",
-        "latin": "Danshi Seito"
+        "latin": "Danshi Seito",
+        "translated": {
+          "ko": "남학생",
+          "en": "Male student"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -3275,6 +3973,12 @@
           "ja": [
             "たべそらみつ"
           ]
+        },
+        "translated": {
+          "ko": "타베 소라미츠"
+        },
+        "official": {
+          "en": "Soramitsu Tabe"
         }
       },
       "first_appearance": {
@@ -3286,7 +3990,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ケサギリマン",
-        "latin": "Kesagiriman"
+        "latin": "Kesagiriman",
+        "translated": {
+          "ko": "케사기리맨",
+          "en": "Kesagiriman"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s4"
@@ -3302,6 +4010,10 @@
           "ja": [
             "入中常衣"
           ]
+        },
+        "official": {
+          "en": "Mimic",
+          "ko": "미믹"
         }
       },
       "first_appearance": {
@@ -3318,6 +4030,12 @@
           "ja": [
             "さかきでいどろ"
           ]
+        },
+        "translated": {
+          "ko": "사카키 데이도로"
+        },
+        "official": {
+          "en": "Deidoro Sakaki"
         }
       },
       "first_appearance": {
@@ -3329,7 +4047,11 @@
       "name": {
         "original_lang": "ja",
         "original": "リーダー男子児童",
-        "latin": "Rida Danshi Jido"
+        "latin": "Rida Danshi Jido",
+        "translated": {
+          "ko": "대장 남자아이",
+          "en": "Leader schoolboy"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -3346,6 +4068,12 @@
           "ja": [
             "けんらんざきびびみ"
           ]
+        },
+        "translated": {
+          "ko": "켄란자키 비비미"
+        },
+        "official": {
+          "en": "Bibimi Kenranzaki"
         }
       },
       "first_appearance": {
@@ -3359,7 +4087,8 @@
         "original": "壊理",
         "latin": "Eri",
         "official": {
-          "ko": "에리"
+          "ko": "에리",
+          "en": "Eri"
         },
         "aliases": {
           "ja": [
@@ -3382,6 +4111,12 @@
             "しまのかつま",
             "活真"
           ]
+        },
+        "translated": {
+          "ko": "시마노 카츠마"
+        },
+        "official": {
+          "en": "Katsuma Shimano"
         }
       },
       "first_appearance": {
@@ -3399,6 +4134,12 @@
             "しまのまほろ",
             "島野真幌"
           ]
+        },
+        "translated": {
+          "ko": "시마노 마호로"
+        },
+        "official": {
+          "en": "Mahoro Shimano"
         }
       },
       "first_appearance": {
@@ -3410,7 +4151,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ナイン",
-        "latin": "Nine"
+        "latin": "Nine",
+        "official": {
+          "en": "Nine",
+          "ko": "나인"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-heroes-rising"
@@ -3421,7 +4166,11 @@
       "name": {
         "original_lang": "ja",
         "original": "キメラ",
-        "latin": "Chimera"
+        "latin": "Chimera",
+        "official": {
+          "en": "Chimera",
+          "ko": "키메라"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-heroes-rising"
@@ -3432,7 +4181,11 @@
       "name": {
         "original_lang": "ja",
         "original": "スライス",
-        "latin": "Slice"
+        "latin": "Slice",
+        "official": {
+          "en": "Slice",
+          "ko": "슬라이스"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-heroes-rising"
@@ -3443,7 +4196,11 @@
       "name": {
         "original_lang": "ja",
         "original": "マミー",
-        "latin": "Mummy"
+        "latin": "Mummy",
+        "official": {
+          "en": "Mummy",
+          "ko": "머미"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-heroes-rising"
@@ -3454,7 +4211,11 @@
       "name": {
         "original_lang": "ja",
         "original": "公安幹部",
-        "latin": "Koan Kanbu"
+        "latin": "Koan Kanbu",
+        "translated": {
+          "ko": "공안 간부",
+          "en": "Public Safety executive"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -3466,7 +4227,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ヒーロー公安委員会会長",
-        "latin": "Hiro Koan Iinkai Kaicho"
+        "latin": "Hiro Koan Iinkai Kaicho",
+        "translated": {
+          "ko": "히어로 공안위원회 회장",
+          "en": "President of the Hero Public Safety Commission"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -3478,7 +4243,11 @@
       "name": {
         "original_lang": "ja",
         "original": "女の子",
-        "latin": "Onna no Ko"
+        "latin": "Onna no Ko",
+        "translated": {
+          "ko": "여자아이",
+          "en": "Girl"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -3495,6 +4264,10 @@
           "ja": [
             "かつままほろのちち"
           ]
+        },
+        "translated": {
+          "ko": "카츠마와 마호로의 아버지",
+          "en": "Katsuma and Mahoro's father"
         }
       },
       "first_appearance": {
@@ -3511,6 +4284,10 @@
           "ja": [
             "しむらはな"
           ]
+        },
+        "translated": {
+          "ko": "시무라 하나",
+          "en": "Hana Shimura"
         }
       },
       "first_appearance": {
@@ -3522,7 +4299,11 @@
       "name": {
         "original_lang": "ja",
         "original": "フレクト・ターン",
-        "latin": "Flect Turn"
+        "latin": "Flect Turn",
+        "official": {
+          "en": "Flect Turn",
+          "ko": "플렉트 턴"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s5"
@@ -3533,7 +4314,11 @@
       "name": {
         "original_lang": "ja",
         "original": "男性",
-        "latin": "Dansei"
+        "latin": "Dansei",
+        "translated": {
+          "ko": "남성",
+          "en": "Man"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -3545,7 +4330,11 @@
       "name": {
         "original_lang": "ja",
         "original": "女性",
-        "latin": "Josei"
+        "latin": "Josei",
+        "translated": {
+          "ko": "여성",
+          "en": "Woman"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -3563,6 +4352,12 @@
             "しがらきよいち",
             "与一"
           ]
+        },
+        "translated": {
+          "ko": "시가라키 요이치"
+        },
+        "official": {
+          "en": "Yoichi Shigaraki"
         }
       },
       "first_appearance": {
@@ -3574,7 +4369,11 @@
       "name": {
         "original_lang": "ja",
         "original": "市民",
-        "latin": "Shimin"
+        "latin": "Shimin",
+        "translated": {
+          "ko": "시민",
+          "en": "Citizen"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -3591,6 +4390,12 @@
           "ja": [
             "かまきりとがる"
           ]
+        },
+        "translated": {
+          "ko": "카마키리 토가루"
+        },
+        "official": {
+          "en": "Togaru Kamakiri"
         }
       },
       "first_appearance": {
@@ -3602,7 +4407,11 @@
       "name": {
         "original_lang": "ja",
         "original": "キドウ",
-        "latin": "Kido"
+        "latin": "Kido",
+        "translated": {
+          "ko": "키도",
+          "en": "Kido"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s5"
@@ -3613,7 +4422,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ヴィラン",
-        "latin": "Viran"
+        "latin": "Viran",
+        "translated": {
+          "ko": "빌런",
+          "en": "Villain"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -3625,7 +4438,11 @@
       "name": {
         "original_lang": "ja",
         "original": "男子生徒",
-        "latin": "Danshi Seito"
+        "latin": "Danshi Seito",
+        "translated": {
+          "ko": "남학생",
+          "en": "Male student"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -3642,6 +4459,10 @@
           "ja": [
             "しむらてんこのそふ"
           ]
+        },
+        "translated": {
+          "ko": "시무라 텐코의 할아버지",
+          "en": "Tenko Shimura's grandfather"
         }
       },
       "first_appearance": {
@@ -3653,7 +4474,11 @@
       "name": {
         "original_lang": "ja",
         "original": "女性市民",
-        "latin": "Josei Shimin"
+        "latin": "Josei Shimin",
+        "translated": {
+          "ko": "여성 시민",
+          "en": "Female citizen"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -3665,7 +4490,11 @@
       "name": {
         "original_lang": "ja",
         "original": "女子生徒",
-        "latin": "Joshi Seito"
+        "latin": "Joshi Seito",
+        "translated": {
+          "ko": "여학생",
+          "en": "Female student"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -3682,6 +4511,12 @@
           "ja": [
             "しょうだにれんげき"
           ]
+        },
+        "translated": {
+          "ko": "쇼다 니렌게키"
+        },
+        "official": {
+          "en": "Nirengeki Shoda"
         }
       },
       "first_appearance": {
@@ -3698,6 +4533,12 @@
           "ja": [
             "くろいろしはい"
           ]
+        },
+        "translated": {
+          "ko": "쿠로이로 시하이"
+        },
+        "official": {
+          "en": "Shihai Kuroiro"
         }
       },
       "first_appearance": {
@@ -3709,7 +4550,11 @@
       "name": {
         "original_lang": "ja",
         "original": "オニマー",
-        "latin": "Onima"
+        "latin": "Onima",
+        "translated": {
+          "ko": "오니머",
+          "en": "Onima"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s5"
@@ -3727,6 +4572,12 @@
             "五代目・万縄大悟郎",
             "ラリアット"
           ]
+        },
+        "translated": {
+          "ko": "반조 다이고로"
+        },
+        "official": {
+          "en": "Daigoro Banjo"
         }
       },
       "first_appearance": {
@@ -3743,6 +4594,10 @@
           "ja": [
             "常滑達行"
           ]
+        },
+        "official": {
+          "en": "Slidin' Go",
+          "ko": "슬라이딩 고"
         }
       },
       "first_appearance": {
@@ -3754,7 +4609,11 @@
       "name": {
         "original_lang": "ja",
         "original": "エンデヴァーのサイドキック",
-        "latin": "Endeavor no Saidokikku"
+        "latin": "Endeavor no Saidokikku",
+        "translated": {
+          "ko": "엔데버의 사이드킥",
+          "en": "Endeavor's sidekick"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -3768,7 +4627,8 @@
         "original": "白雲朧",
         "latin": "Oboro Shirakumo",
         "official": {
-          "ko": "시라쿠모 오보로"
+          "ko": "시라쿠모 오보로",
+          "en": "Oboro Shirakumo"
         },
         "aliases": {
           "ja": [
@@ -3790,6 +4650,10 @@
           "ja": [
             "げてん"
           ]
+        },
+        "official": {
+          "en": "Geten",
+          "ko": "게텐"
         }
       },
       "first_appearance": {
@@ -3801,7 +4665,11 @@
       "name": {
         "original_lang": "ja",
         "original": "公安幹部",
-        "latin": "Koan Kanbu"
+        "latin": "Koan Kanbu",
+        "translated": {
+          "ko": "공안 간부",
+          "en": "Public Safety executive"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -3818,6 +4686,12 @@
           "ja": [
             "四ツ橋力也"
           ]
+        },
+        "translated": {
+          "ko": "리디스트로"
+        },
+        "official": {
+          "en": "Re-Destro"
         }
       },
       "first_appearance": {
@@ -3829,7 +4703,11 @@
       "name": {
         "original_lang": "ja",
         "original": "硝子を操るヴィラン",
-        "latin": "Garasu o Ayatsuru Viran"
+        "latin": "Garasu o Ayatsuru Viran",
+        "translated": {
+          "ko": "유리를 다루는 빌런",
+          "en": "Glass-manipulating villain"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -3846,6 +4724,12 @@
           "ja": [
             "つのとりぽにー"
           ]
+        },
+        "translated": {
+          "ko": "츠노토리 포니"
+        },
+        "official": {
+          "en": "Pony Tsunotori"
         }
       },
       "first_appearance": {
@@ -3863,6 +4747,12 @@
             "とかげせつな",
             "取陰切奈"
           ]
+        },
+        "translated": {
+          "ko": "토카게 세츠나"
+        },
+        "official": {
+          "en": "Setsuna Tokage"
         }
       },
       "first_appearance": {
@@ -3876,7 +4766,8 @@
         "original": "ミルコ",
         "latin": "Mirko",
         "official": {
-          "ko": "미르코"
+          "ko": "미르코",
+          "en": "Mirko"
         },
         "aliases": {
           "ja": [
@@ -3898,6 +4789,10 @@
           "ja": [
             "気月置歳"
           ]
+        },
+        "official": {
+          "en": "Curious",
+          "ko": "큐리어스"
         }
       },
       "first_appearance": {
@@ -3914,6 +4809,10 @@
           "ja": [
             "近属友保"
           ]
+        },
+        "official": {
+          "en": "Skeptic",
+          "ko": "스켑틱"
         }
       },
       "first_appearance": {
@@ -3931,6 +4830,10 @@
             "くるまだうんてんまる",
             "車田運転丸"
           ]
+        },
+        "translated": {
+          "ko": "쿠루마다 운텐마루",
+          "en": "Untenmaru Kurumada"
         }
       },
       "first_appearance": {
@@ -3947,6 +4850,12 @@
           "ja": [
             "ぼんどこじろう"
           ]
+        },
+        "translated": {
+          "ko": "본도 코지로"
+        },
+        "official": {
+          "en": "Kojiro Bondo"
         }
       },
       "first_appearance": {
@@ -3963,6 +4872,10 @@
           "ja": [
             "とがのははおや"
           ]
+        },
+        "translated": {
+          "ko": "토가의 어머니",
+          "en": "Toga's mother"
         }
       },
       "first_appearance": {
@@ -3979,6 +4892,10 @@
           "ja": [
             "しむらてんこのはは"
           ]
+        },
+        "translated": {
+          "ko": "시무라 텐코의 어머니",
+          "en": "Tenko Shimura's mother"
         }
       },
       "first_appearance": {
@@ -3995,6 +4912,10 @@
           "ja": [
             "しむらこたろう"
           ]
+        },
+        "translated": {
+          "ko": "시무라 코타로",
+          "en": "Kotaro Shimura"
         }
       },
       "first_appearance": {
@@ -4011,6 +4932,12 @@
           "ja": [
             "こもりきのこ"
           ]
+        },
+        "translated": {
+          "ko": "코모리 키노코"
+        },
+        "official": {
+          "en": "Kinoko Komori"
         }
       },
       "first_appearance": {
@@ -4027,6 +4954,12 @@
           "ja": [
             "ふきだしまんが"
           ]
+        },
+        "translated": {
+          "ko": "후키다시 만가"
+        },
+        "official": {
+          "en": "Manga Fukidashi"
         }
       },
       "first_appearance": {
@@ -4043,6 +4976,12 @@
           "ja": [
             "つぶらばこうせい"
           ]
+        },
+        "translated": {
+          "ko": "츠부라바 코세이"
+        },
+        "official": {
+          "en": "Kosei Tsuburaba"
         }
       },
       "first_appearance": {
@@ -4059,6 +4998,12 @@
           "ja": [
             "かいばらせん"
           ]
+        },
+        "translated": {
+          "ko": "카이바라 센"
+        },
+        "official": {
+          "en": "Sen Kaibara"
         }
       },
       "first_appearance": {
@@ -4075,6 +5020,10 @@
           "ja": [
             "しむらてんこのそぼ"
           ]
+        },
+        "translated": {
+          "ko": "시무라 텐코의 할머니",
+          "en": "Tenko Shimura's grandmother"
         }
       },
       "first_appearance": {
@@ -4091,6 +5040,12 @@
           "ja": [
             "ししだじゅうろうた"
           ]
+        },
+        "translated": {
+          "ko": "시시다 쥬로타"
+        },
+        "official": {
+          "en": "Jurota Shishida"
         }
       },
       "first_appearance": {
@@ -4102,7 +5057,11 @@
       "name": {
         "original_lang": "ja",
         "original": "エンディング",
-        "latin": "Ending"
+        "latin": "Ending",
+        "official": {
+          "en": "Ending",
+          "ko": "엔딩"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s5"
@@ -4118,6 +5077,10 @@
           "ja": [
             "花畑孔腔"
           ]
+        },
+        "official": {
+          "en": "Trumpet",
+          "ko": "트럼펫"
         }
       },
       "first_appearance": {
@@ -4129,7 +5092,11 @@
       "name": {
         "original_lang": "ja",
         "original": "アナウンサー",
-        "latin": "Anaunsa"
+        "latin": "Anaunsa",
+        "translated": {
+          "ko": "아나운서",
+          "en": "Announcer"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -4141,7 +5108,11 @@
       "name": {
         "original_lang": "ja",
         "original": "リューキュウのサイドキック",
-        "latin": "Ryukyu no Saidokikku"
+        "latin": "Ryukyu no Saidokikku",
+        "translated": {
+          "ko": "류큐의 사이드킥",
+          "en": "Ryukyu's sidekick"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -4158,6 +5129,10 @@
           "ja": [
             "ふわまわた"
           ]
+        },
+        "translated": {
+          "ko": "후와 마와타",
+          "en": "Mawata Fuwa"
         }
       },
       "first_appearance": {
@@ -4171,7 +5146,8 @@
         "original": "バーニン",
         "latin": "Burnin",
         "official": {
-          "ko": "버닝"
+          "ko": "버닝",
+          "en": "Burnin"
         },
         "aliases": {
           "ja": [
@@ -4191,7 +5167,8 @@
         "original": "ギガントマキア",
         "latin": "Gigantomachia",
         "official": {
-          "ko": "기간토마키아"
+          "ko": "기간토마키아",
+          "en": "Gigantomachia"
         }
       },
       "first_appearance": {
@@ -4208,6 +5185,12 @@
           "ja": [
             "ほねぬきじゅうぞう"
           ]
+        },
+        "translated": {
+          "ko": "호네누키 쥬조"
+        },
+        "official": {
+          "en": "Juzo Honenuki"
         }
       },
       "first_appearance": {
@@ -4219,7 +5202,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ピノ",
-        "latin": "Pino"
+        "latin": "Pino",
+        "official": {
+          "en": "Pino",
+          "ko": "피노"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-whm"
@@ -4230,7 +5217,11 @@
       "name": {
         "original_lang": "ja",
         "original": "アラン・ケイ",
-        "latin": "Allen Kay"
+        "latin": "Allen Kay",
+        "official": {
+          "en": "Allen Kay",
+          "ko": "앨런 케이"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-whm"
@@ -4241,7 +5232,13 @@
       "name": {
         "original_lang": "ja",
         "original": "クレア・ボヤンス",
-        "latin": "Claire Voyance"
+        "latin": "Claire Voyance",
+        "translated": {
+          "ko": "클레어 보이언스"
+        },
+        "official": {
+          "en": "Claire Voyance"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-whm"
@@ -4252,7 +5249,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ベロス",
-        "latin": "Belos"
+        "latin": "Belos",
+        "official": {
+          "en": "Belos",
+          "ko": "베로스"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-whm"
@@ -4263,7 +5264,13 @@
       "name": {
         "original_lang": "ja",
         "original": "サーペンターズ",
-        "latin": "Sir Pentas"
+        "latin": "Sir Pentas",
+        "translated": {
+          "en": "Sir Pentas"
+        },
+        "official": {
+          "ko": "서펜터즈"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-whm"
@@ -4274,7 +5281,11 @@
       "name": {
         "original_lang": "ja",
         "original": "シデロ",
-        "latin": "Sidero"
+        "latin": "Sidero",
+        "official": {
+          "en": "Sidero",
+          "ko": "시데로"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-whm"
@@ -4285,7 +5296,13 @@
       "name": {
         "original_lang": "ja",
         "original": "ロディ・ソウル",
-        "latin": "Rody Soul"
+        "latin": "Rody Soul",
+        "translated": {
+          "ko": "로디 소울"
+        },
+        "official": {
+          "en": "Rody Soul"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-whm"
@@ -4296,7 +5313,11 @@
       "name": {
         "original_lang": "ja",
         "original": "レヴィアタン",
-        "latin": "Leviathan"
+        "latin": "Leviathan",
+        "official": {
+          "en": "Leviathan",
+          "ko": "레비아탄"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-whm"
@@ -4307,7 +5328,13 @@
       "name": {
         "original_lang": "ja",
         "original": "シシド",
-        "latin": "Shishido"
+        "latin": "Shishido",
+        "translated": {
+          "ko": "시시도"
+        },
+        "official": {
+          "en": "Shishido"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-whm"
@@ -4323,6 +5350,10 @@
           "ja": [
             "巫円真"
           ]
+        },
+        "translated": {
+          "ko": "머제스틱",
+          "en": "Majestic"
         }
       },
       "first_appearance": {
@@ -4334,7 +5365,13 @@
       "name": {
         "original_lang": "ja",
         "original": "エディ・ソウル",
-        "latin": "Eddie Soul"
+        "latin": "Eddie Soul",
+        "translated": {
+          "ko": "에디 소울"
+        },
+        "official": {
+          "en": "Eddie Soul"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-whm"
@@ -4345,7 +5382,11 @@
       "name": {
         "original_lang": "ja",
         "original": "スタンリーク",
-        "latin": "Stanreek"
+        "latin": "Stanreek",
+        "translated": {
+          "ko": "스탠리크",
+          "en": "Stanreek"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-whm"
@@ -4356,7 +5397,11 @@
       "name": {
         "original_lang": "ja",
         "original": "サラーム",
-        "latin": "Salaam"
+        "latin": "Salaam",
+        "official": {
+          "en": "Salaam",
+          "ko": "살람"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-whm"
@@ -4367,7 +5412,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ロゴン",
-        "latin": "Rogon"
+        "latin": "Rogon",
+        "translated": {
+          "ko": "로곤",
+          "en": "Rogon"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-whm"
@@ -4378,7 +5427,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ララ・ソウル",
-        "latin": "Lala Soul"
+        "latin": "Lala Soul",
+        "translated": {
+          "ko": "랄라 소울",
+          "en": "Lala Soul"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-whm"
@@ -4389,7 +5442,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ロロ・ソウル",
-        "latin": "Lolo Soul"
+        "latin": "Lolo Soul",
+        "translated": {
+          "ko": "롤로 소울",
+          "en": "Lolo Soul"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-whm"
@@ -4400,7 +5457,11 @@
       "name": {
         "original_lang": "ja",
         "original": "WHA長官",
-        "latin": "WHA Chokan"
+        "latin": "WHA Chokan",
+        "translated": {
+          "ko": "WHA 장관",
+          "en": "WHA director"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -4412,7 +5473,11 @@
       "name": {
         "original_lang": "ja",
         "original": "オセオン警察長官",
-        "latin": "Oseon Keisatsu Chokan"
+        "latin": "Oseon Keisatsu Chokan",
+        "translated": {
+          "ko": "오세온 경찰청장",
+          "en": "Otheon police commissioner"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -4424,7 +5489,13 @@
       "name": {
         "original_lang": "ja",
         "original": "ミスター・スマイリー",
-        "latin": "Mr. Smiley"
+        "latin": "Mr. Smiley",
+        "translated": {
+          "ko": "미스터 스마일리"
+        },
+        "official": {
+          "en": "Mr. Smiley"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-ova-warae"
@@ -4435,7 +5506,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ヨロイムシャ",
-        "latin": "Yoroi Musha"
+        "latin": "Yoroi Musha",
+        "official": {
+          "en": "Yoroi Musha",
+          "ko": "요로이 무샤"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s6"
@@ -4446,7 +5521,11 @@
       "name": {
         "original_lang": "ja",
         "original": "子供",
-        "latin": "Kodomo"
+        "latin": "Kodomo",
+        "translated": {
+          "ko": "아이",
+          "en": "Child"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -4463,6 +5542,10 @@
           "ja": [
             "御手洗濯"
           ]
+        },
+        "official": {
+          "en": "Wash",
+          "ko": "워시"
         }
       },
       "first_appearance": {
@@ -4474,7 +5557,11 @@
       "name": {
         "original_lang": "ja",
         "original": "異能解放軍メンバー",
-        "latin": "Ino Kaihogun Menba"
+        "latin": "Ino Kaihogun Menba",
+        "translated": {
+          "ko": "이능해방군 멤버",
+          "en": "Meta Liberation Army member"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -4486,7 +5573,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ミカ",
-        "latin": "Mika"
+        "latin": "Mika",
+        "translated": {
+          "ko": "미카",
+          "en": "Mika"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s6"
@@ -4497,7 +5588,11 @@
       "name": {
         "original_lang": "ja",
         "original": "通信オペレーター",
-        "latin": "Tsushin Opereta"
+        "latin": "Tsushin Opereta",
+        "translated": {
+          "ko": "통신 오퍼레이터",
+          "en": "Communications operator"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -4509,7 +5604,11 @@
       "name": {
         "original_lang": "ja",
         "original": "タルタロス職員",
-        "latin": "Tartarus Shokuin"
+        "latin": "Tartarus Shokuin",
+        "translated": {
+          "ko": "타르타로스 직원",
+          "en": "Tartarus staff member"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -4521,7 +5620,11 @@
       "name": {
         "original_lang": "ja",
         "original": "鮮魚店店主",
-        "latin": "Sengyoten Tenshu"
+        "latin": "Sengyoten Tenshu",
+        "translated": {
+          "ko": "생선가게 주인",
+          "en": "Fishmonger"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -4533,7 +5636,11 @@
       "name": {
         "original_lang": "ja",
         "original": "記者",
-        "latin": "Kisha"
+        "latin": "Kisha",
+        "translated": {
+          "ko": "기자",
+          "en": "Reporter"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -4545,7 +5652,11 @@
       "name": {
         "original_lang": "ja",
         "original": "老婆",
-        "latin": "Roba"
+        "latin": "Roba",
+        "translated": {
+          "ko": "노파",
+          "en": "Old woman"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -4562,6 +5673,10 @@
           "ja": [
             "ためだのゆうじん"
           ]
+        },
+        "translated": {
+          "ko": "타메다의 친구",
+          "en": "Tameda's friend"
         }
       },
       "first_appearance": {
@@ -4573,7 +5688,11 @@
       "name": {
         "original_lang": "ja",
         "original": "看護師",
-        "latin": "Kangoshi"
+        "latin": "Kangoshi",
+        "translated": {
+          "ko": "간호사",
+          "en": "Nurse"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -4590,6 +5709,12 @@
           "ja": [
             "くどうとしつぐ"
           ]
+        },
+        "translated": {
+          "ko": "쿠도 토시츠구"
+        },
+        "official": {
+          "en": "Toshitsugu Kudo"
         }
       },
       "first_appearance": {
@@ -4601,7 +5726,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ヒーロー",
-        "latin": "Hiro"
+        "latin": "Hiro",
+        "translated": {
+          "ko": "히어로",
+          "en": "Hero"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -4618,6 +5747,10 @@
           "ja": [
             "みすたーこんぷれすのちちおや"
           ]
+        },
+        "translated": {
+          "ko": "미스터 컴프레스의 아버지",
+          "en": "Mr. Compress's father"
         }
       },
       "first_appearance": {
@@ -4629,7 +5762,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ギュゲス",
-        "latin": "Gyges"
+        "latin": "Gyges",
+        "translated": {
+          "ko": "기게스",
+          "en": "Gyges"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s6"
@@ -4640,7 +5777,11 @@
       "name": {
         "original_lang": "ja",
         "original": "BROWN幹部",
-        "latin": "BROWN Kanbu"
+        "latin": "BROWN Kanbu",
+        "translated": {
+          "ko": "BROWN 간부",
+          "en": "BROWN executive"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -4652,7 +5793,11 @@
       "name": {
         "original_lang": "ja",
         "original": "市民",
-        "latin": "Shimin"
+        "latin": "Shimin",
+        "translated": {
+          "ko": "시민",
+          "en": "Citizen"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -4664,7 +5809,11 @@
       "name": {
         "original_lang": "ja",
         "original": "医師",
-        "latin": "Ishi"
+        "latin": "Ishi",
+        "translated": {
+          "ko": "의사",
+          "en": "Doctor"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -4676,7 +5825,11 @@
       "name": {
         "original_lang": "ja",
         "original": "虎ヒーロー",
-        "latin": "Tora Hiro"
+        "latin": "Tora Hiro",
+        "translated": {
+          "ko": "호랑이 히어로",
+          "en": "Tiger hero"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -4688,7 +5841,11 @@
       "name": {
         "original_lang": "ja",
         "original": "僧侶ヒーロー",
-        "latin": "Soryo Hiro"
+        "latin": "Soryo Hiro",
+        "translated": {
+          "ko": "승려 히어로",
+          "en": "Monk hero"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -4700,7 +5857,11 @@
       "name": {
         "original_lang": "ja",
         "original": "エクスレス",
-        "latin": "Ex-Less"
+        "latin": "Ex-Less",
+        "translated": {
+          "ko": "엑스레스",
+          "en": "Ex-Less"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s6"
@@ -4711,7 +5872,11 @@
       "name": {
         "original_lang": "ja",
         "original": "警察高官",
-        "latin": "Keisatsu Kokan"
+        "latin": "Keisatsu Kokan",
+        "translated": {
+          "ko": "경찰 고위 간부",
+          "en": "Senior police official"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -4723,7 +5888,11 @@
       "name": {
         "original_lang": "ja",
         "original": "CRC団員",
-        "latin": "CRC Danin"
+        "latin": "CRC Danin",
+        "translated": {
+          "ko": "CRC 단원",
+          "en": "CRC member"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -4735,7 +5904,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ウェッジ",
-        "latin": "Wedge"
+        "latin": "Wedge",
+        "translated": {
+          "ko": "웨지",
+          "en": "Wedge"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s6"
@@ -4746,7 +5919,11 @@
       "name": {
         "original_lang": "ja",
         "original": "クラスト",
-        "latin": "Crust"
+        "latin": "Crust",
+        "official": {
+          "en": "Crust",
+          "ko": "크러스트"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s6"
@@ -4762,6 +5939,10 @@
           "ja": [
             "キャスリーン・ベイト"
           ]
+        },
+        "official": {
+          "en": "Star and Stripe",
+          "ko": "스타 앤 스트라이프"
         }
       },
       "first_appearance": {
@@ -4778,6 +5959,10 @@
           "ja": [
             "ほーくすのはは"
           ]
+        },
+        "translated": {
+          "ko": "호크스의 어머니",
+          "en": "Hawks's mother"
         }
       },
       "first_appearance": {
@@ -4795,6 +5980,12 @@
             "たゆたいえん",
             "六代目・揺蕩井煙"
           ]
+        },
+        "translated": {
+          "ko": "타유타이 엔"
+        },
+        "official": {
+          "en": "En Tayutai"
         }
       },
       "first_appearance": {
@@ -4812,6 +6003,12 @@
             "しのもりひかげ",
             "四代目・四ノ森避影"
           ]
+        },
+        "translated": {
+          "ko": "시노모리 히카게"
+        },
+        "official": {
+          "en": "Hikage Shinomori"
         }
       },
       "first_appearance": {
@@ -4823,7 +6020,11 @@
       "name": {
         "original_lang": "ja",
         "original": "アメリカ大使",
-        "latin": "Amerika Taishi"
+        "latin": "Amerika Taishi",
+        "translated": {
+          "ko": "미국 대사",
+          "en": "American ambassador"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -4835,7 +6036,11 @@
       "name": {
         "original_lang": "ja",
         "original": "サイダーハウス",
-        "latin": "Cider House"
+        "latin": "Cider House",
+        "translated": {
+          "ko": "사이더 하우스",
+          "en": "Cider House"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s6"
@@ -4851,6 +6056,10 @@
           "ja": [
             "くいしんぼーい"
           ]
+        },
+        "translated": {
+          "ko": "쿠이신 BOY",
+          "en": "Kuishin Boy"
         }
       },
       "first_appearance": {
@@ -4862,7 +6071,11 @@
       "name": {
         "original_lang": "ja",
         "original": "自警団",
-        "latin": "Jikeidan"
+        "latin": "Jikeidan",
+        "translated": {
+          "ko": "자경단",
+          "en": "Vigilante group"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -4874,7 +6087,11 @@
       "name": {
         "original_lang": "ja",
         "original": "パイロット",
-        "latin": "Pairotto"
+        "latin": "Pairotto",
+        "translated": {
+          "ko": "파일럿",
+          "en": "Pilot"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -4891,6 +6108,10 @@
           "ja": [
             "ほーくすのすまーとふぉんおんせい"
           ]
+        },
+        "translated": {
+          "ko": "호크스의 스마트폰 음성",
+          "en": "Hawks's smartphone voice"
         }
       },
       "first_appearance": {
@@ -4904,7 +6125,8 @@
         "original": "レディ・ナガン",
         "latin": "Lady Nagant",
         "official": {
-          "ko": "레이디 나강"
+          "ko": "레이디 나강",
+          "en": "Lady Nagant"
         },
         "aliases": {
           "ja": [
@@ -4926,6 +6148,10 @@
           "ja": [
             "ほーくすのちち"
           ]
+        },
+        "translated": {
+          "ko": "호크스의 아버지",
+          "en": "Hawks's father"
         }
       },
       "first_appearance": {
@@ -4937,7 +6163,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ヴィラン",
-        "latin": "Viran"
+        "latin": "Viran",
+        "translated": {
+          "ko": "빌런",
+          "en": "Villain"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -4949,7 +6179,11 @@
       "name": {
         "original_lang": "ja",
         "original": "一般女性",
-        "latin": "Ippan Josei"
+        "latin": "Ippan Josei",
+        "translated": {
+          "ko": "일반 여성",
+          "en": "Woman"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -4966,6 +6200,10 @@
           "ja": [
             "ブルース・リー"
           ]
+        },
+        "translated": {
+          "ko": "3대째 원 포 올",
+          "en": "Third One For All User"
         }
       },
       "first_appearance": {
@@ -4977,7 +6215,11 @@
       "name": {
         "original_lang": "ja",
         "original": "公安委員会前会長",
-        "latin": "Koan Iinkai Zen Kaicho"
+        "latin": "Koan Iinkai Zen Kaicho",
+        "translated": {
+          "ko": "공안위원회 전 회장",
+          "en": "Former President of the Public Safety Commission"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -4989,7 +6231,11 @@
       "name": {
         "original_lang": "ja",
         "original": "少年",
-        "latin": "Shonen"
+        "latin": "Shonen",
+        "translated": {
+          "ko": "소년",
+          "en": "Boy"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -5006,6 +6252,10 @@
           "ja": [
             "あおやまのちちおや"
           ]
+        },
+        "translated": {
+          "ko": "아오야마의 아버지",
+          "en": "Aoyama's father"
         }
       },
       "first_appearance": {
@@ -5017,7 +6267,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ヴィラン",
-        "latin": "Viran"
+        "latin": "Viran",
+        "translated": {
+          "ko": "빌런",
+          "en": "Villain"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -5029,7 +6283,11 @@
       "name": {
         "original_lang": "ja",
         "original": "村民",
-        "latin": "Sonmin"
+        "latin": "Sonmin",
+        "translated": {
+          "ko": "마을 주민",
+          "en": "Villager"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -5041,7 +6299,11 @@
       "name": {
         "original_lang": "ja",
         "original": "異形市民",
-        "latin": "Igyo Shimin"
+        "latin": "Igyo Shimin",
+        "translated": {
+          "ko": "이형 시민",
+          "en": "Heteromorph citizen"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -5053,7 +6315,11 @@
       "name": {
         "original_lang": "ja",
         "original": "サポート科の生徒",
-        "latin": "Sapoto-ka no Seito"
+        "latin": "Sapoto-ka no Seito",
+        "translated": {
+          "ko": "서포트과 학생",
+          "en": "Support Course student"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -5065,7 +6331,11 @@
       "name": {
         "original_lang": "ja",
         "original": "生徒",
-        "latin": "Seito"
+        "latin": "Seito",
+        "translated": {
+          "ko": "학생",
+          "en": "Student"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -5077,7 +6347,11 @@
       "name": {
         "original_lang": "ja",
         "original": "警官",
-        "latin": "Keikan"
+        "latin": "Keikan",
+        "translated": {
+          "ko": "경찰관",
+          "en": "Police officer"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -5089,7 +6363,11 @@
       "name": {
         "original_lang": "ja",
         "original": "警察官",
-        "latin": "Keisatsukan"
+        "latin": "Keisatsukan",
+        "translated": {
+          "ko": "경찰관",
+          "en": "Police officer"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -5101,7 +6379,11 @@
       "name": {
         "original_lang": "ja",
         "original": "カシ・カシコ",
-        "latin": "Kashi Kashiko"
+        "latin": "Kashi Kashiko",
+        "translated": {
+          "ko": "카시 카시코",
+          "en": "Kashi Kashiko"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s7"
@@ -5112,7 +6394,11 @@
       "name": {
         "original_lang": "ja",
         "original": "パイロット",
-        "latin": "Pairotto"
+        "latin": "Pairotto",
+        "translated": {
+          "ko": "파일럿",
+          "en": "Pilot"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -5129,6 +6415,10 @@
           "ja": [
             "ながしろふうと"
           ]
+        },
+        "translated": {
+          "ko": "나가시로 후토",
+          "en": "Futo Nagashiro"
         }
       },
       "first_appearance": {
@@ -5140,7 +6430,11 @@
       "name": {
         "original_lang": "ja",
         "original": "女生徒",
-        "latin": "Joseito"
+        "latin": "Joseito",
+        "translated": {
+          "ko": "여학생",
+          "en": "Female student"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -5157,6 +6451,10 @@
           "ja": [
             "とがのちちおや"
           ]
+        },
+        "translated": {
+          "ko": "토가의 아버지",
+          "en": "Toga's father"
         }
       },
       "first_appearance": {
@@ -5173,6 +6471,10 @@
           "ja": [
             "ぷらすまいな"
           ]
+        },
+        "translated": {
+          "ko": "푸라스 마이나",
+          "en": "Maina Purasu"
         }
       },
       "first_appearance": {
@@ -5184,7 +6486,11 @@
       "name": {
         "original_lang": "ja",
         "original": "解放戦士幹部",
-        "latin": "Kaiho Senshi Kanbu"
+        "latin": "Kaiho Senshi Kanbu",
+        "translated": {
+          "ko": "해방전사 간부",
+          "en": "Liberation Warrior executive"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -5196,7 +6502,11 @@
       "name": {
         "original_lang": "ja",
         "original": "オペレーター",
-        "latin": "Opereta"
+        "latin": "Opereta",
+        "translated": {
+          "ko": "오퍼레이터",
+          "en": "Operator"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -5208,7 +6518,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ティモシー・アグパー",
-        "latin": "Timothy Agpar"
+        "latin": "Timothy Agpar",
+        "translated": {
+          "ko": "티모시 애그퍼",
+          "en": "Timothy Agpar"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s7"
@@ -5219,7 +6533,11 @@
       "name": {
         "original_lang": "ja",
         "original": "カメラマン",
-        "latin": "Kameraman"
+        "latin": "Kameraman",
+        "translated": {
+          "ko": "카메라맨",
+          "en": "Cameraman"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -5236,6 +6554,10 @@
           "ja": [
             "あおやまのははおや"
           ]
+        },
+        "translated": {
+          "ko": "아오야마의 어머니",
+          "en": "Aoyama's mother"
         }
       },
       "first_appearance": {
@@ -5252,6 +6574,10 @@
           "ja": [
             "イーサン・ドライブ"
           ]
+        },
+        "translated": {
+          "ko": "이선",
+          "en": "Ethan Drive"
         }
       },
       "first_appearance": {
@@ -5263,7 +6589,11 @@
       "name": {
         "original_lang": "ja",
         "original": "タジマ",
-        "latin": "Tajima"
+        "latin": "Tajima",
+        "translated": {
+          "ko": "타지마",
+          "en": "Tajima"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s7"
@@ -5274,7 +6604,11 @@
       "name": {
         "original_lang": "ja",
         "original": "大統領",
-        "latin": "Daitoryo"
+        "latin": "Daitoryo",
+        "translated": {
+          "ko": "대통령",
+          "en": "President"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -5286,7 +6620,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ゴリさん",
-        "latin": "Gori-san"
+        "latin": "Gori-san",
+        "translated": {
+          "ko": "고리 씨",
+          "en": "Gori-san"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s7"
@@ -5297,7 +6635,11 @@
       "name": {
         "original_lang": "ja",
         "original": "KUNIEDA",
-        "latin": "Kunieda"
+        "latin": "Kunieda",
+        "translated": {
+          "ko": "KUNIEDA",
+          "en": "Kunieda"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s7"
@@ -5313,6 +6655,10 @@
           "ja": [
             "こうだのはは"
           ]
+        },
+        "translated": {
+          "ko": "코다의 어머니",
+          "en": "Koda's mother"
         }
       },
       "first_appearance": {
@@ -5324,7 +6670,11 @@
       "name": {
         "original_lang": "ja",
         "original": "女性記者",
-        "latin": "Josei Kisha"
+        "latin": "Josei Kisha",
+        "translated": {
+          "ko": "여성 기자",
+          "en": "Female reporter"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -5341,6 +6691,10 @@
           "ja": [
             "けあげろこんつとむ"
           ]
+        },
+        "translated": {
+          "ko": "케아게 로콘츠토무",
+          "en": "Rokontsutomu Keage"
         }
       },
       "first_appearance": {
@@ -5352,7 +6706,11 @@
       "name": {
         "original_lang": "ja",
         "original": "男児",
-        "latin": "Danji"
+        "latin": "Danji",
+        "translated": {
+          "ko": "남자아이",
+          "en": "Boy"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -5364,7 +6722,11 @@
       "name": {
         "original_lang": "ja",
         "original": "エルクレス",
-        "latin": "Ercules"
+        "latin": "Ercules",
+        "translated": {
+          "ko": "에르클레스",
+          "en": "Ercules"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s7"
@@ -5375,7 +6737,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ミハエラ",
-        "latin": "Mihaela"
+        "latin": "Mihaela",
+        "translated": {
+          "ko": "미하엘라",
+          "en": "Mihaela"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s7"
@@ -5386,7 +6752,11 @@
       "name": {
         "original_lang": "ja",
         "original": "メリル",
-        "latin": "Meryl"
+        "latin": "Meryl",
+        "translated": {
+          "ko": "메릴",
+          "en": "Meryl"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-s7"
@@ -5397,7 +6767,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ジュリオ・ガンディーニ",
-        "latin": "Giulio Gandini"
+        "latin": "Giulio Gandini",
+        "official": {
+          "en": "Giulio Gandini",
+          "ko": "줄리오 간디니"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-youre-next"
@@ -5408,7 +6782,13 @@
       "name": {
         "original_lang": "ja",
         "original": "ダークマイト",
-        "latin": "Dark Might"
+        "latin": "Dark Might",
+        "translated": {
+          "ko": "다크 마이트"
+        },
+        "official": {
+          "en": "Dark Might"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-youre-next"
@@ -5419,7 +6799,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ブルーノ・ゴリーニ",
-        "latin": "Bruno Gorrini"
+        "latin": "Bruno Gorrini",
+        "translated": {
+          "ko": "브루노 고리니",
+          "en": "Bruno Gorrini"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-youre-next"
@@ -5430,7 +6814,11 @@
       "name": {
         "original_lang": "ja",
         "original": "カミル・ゴリーニ",
-        "latin": "Kamil Gorrini"
+        "latin": "Kamil Gorrini",
+        "translated": {
+          "ko": "카밀 고리니",
+          "en": "Kamil Gorrini"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-youre-next"
@@ -5441,7 +6829,13 @@
       "name": {
         "original_lang": "ja",
         "original": "デボラ・ゴリーニ",
-        "latin": "Deborah Gorrini"
+        "latin": "Deborah Gorrini",
+        "translated": {
+          "ko": "데보라 고리니"
+        },
+        "official": {
+          "en": "Deborah Gorrini"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-youre-next"
@@ -5452,7 +6846,13 @@
       "name": {
         "original_lang": "ja",
         "original": "パウロ・ゴリーニ",
-        "latin": "Paulo Gorrini"
+        "latin": "Paulo Gorrini",
+        "translated": {
+          "ko": "파울로 고리니"
+        },
+        "official": {
+          "en": "Paulo Gorrini"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-youre-next"
@@ -5463,7 +6863,11 @@
       "name": {
         "original_lang": "ja",
         "original": "アンナ・シェルビーノ",
-        "latin": "Anna Scervino"
+        "latin": "Anna Scervino",
+        "official": {
+          "en": "Anna Scervino",
+          "ko": "안나 셰르비노"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-youre-next"
@@ -5474,7 +6878,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ウーゴ・ゴリーニ",
-        "latin": "Hugo Gorrini"
+        "latin": "Hugo Gorrini",
+        "translated": {
+          "ko": "우고 고리니",
+          "en": "Hugo Gorrini"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-youre-next"
@@ -5485,7 +6893,13 @@
       "name": {
         "original_lang": "ja",
         "original": "サイモン・ゴリーニ",
-        "latin": "Simon Gorrini"
+        "latin": "Simon Gorrini",
+        "translated": {
+          "ko": "사이먼 고리니"
+        },
+        "official": {
+          "en": "Simon Gorrini"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-youre-next"
@@ -5501,6 +6915,10 @@
           "ja": [
             "せんだいごりーに"
           ]
+        },
+        "translated": {
+          "ko": "선대 고리니",
+          "en": "The previous Gorrini head"
         }
       },
       "first_appearance": {
@@ -5517,6 +6935,10 @@
           "ja": [
             "あんなのちちおや"
           ]
+        },
+        "translated": {
+          "ko": "안나의 아버지",
+          "en": "Anna's father"
         }
       },
       "first_appearance": {
@@ -5528,7 +6950,11 @@
       "name": {
         "original_lang": "ja",
         "original": "喰有銀次",
-        "latin": "Ginji Kuiari"
+        "latin": "Ginji Kuiari",
+        "translated": {
+          "ko": "쿠이아리 긴지",
+          "en": "Ginji Kuiari"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-movie-youre-next"
@@ -5539,7 +6965,11 @@
       "name": {
         "original_lang": "ja",
         "original": "アナウンサー",
-        "latin": "Anaunsa"
+        "latin": "Anaunsa",
+        "translated": {
+          "ko": "아나운서",
+          "en": "Announcer"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -5551,7 +6981,11 @@
       "name": {
         "original_lang": "ja",
         "original": "男子生徒",
-        "latin": "Danshi Seito"
+        "latin": "Danshi Seito",
+        "translated": {
+          "ko": "남학생",
+          "en": "Male student"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -5563,7 +6997,11 @@
       "name": {
         "original_lang": "ja",
         "original": "生徒",
-        "latin": "Seito"
+        "latin": "Seito",
+        "translated": {
+          "ko": "학생",
+          "en": "Student"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -5575,7 +7013,11 @@
       "name": {
         "original_lang": "ja",
         "original": "おばあちゃん",
-        "latin": "Obaachan"
+        "latin": "Obaachan",
+        "translated": {
+          "ko": "할머니",
+          "en": "Grandma"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -5587,7 +7029,11 @@
       "name": {
         "original_lang": "ja",
         "original": "少年",
-        "latin": "Shonen"
+        "latin": "Shonen",
+        "translated": {
+          "ko": "소년",
+          "en": "Boy"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -5599,7 +7045,11 @@
       "name": {
         "original_lang": "ja",
         "original": "子供",
-        "latin": "Kodomo"
+        "latin": "Kodomo",
+        "translated": {
+          "ko": "아이",
+          "en": "Child"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -5611,7 +7061,11 @@
       "name": {
         "original_lang": "ja",
         "original": "少女",
-        "latin": "Shojo"
+        "latin": "Shojo",
+        "translated": {
+          "ko": "소녀",
+          "en": "Girl"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -5623,7 +7077,11 @@
       "name": {
         "original_lang": "ja",
         "original": "アストロ",
-        "latin": "Astro"
+        "latin": "Astro",
+        "translated": {
+          "ko": "아스트로",
+          "en": "Astro"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-final-season"
@@ -5639,6 +7097,10 @@
           "ja": [
             "てるもとこうきのそふ"
           ]
+        },
+        "translated": {
+          "ko": "테루모토 코키의 할아버지",
+          "en": "Koki Terumoto's grandfather"
         }
       },
       "first_appearance": {
@@ -5650,7 +7112,11 @@
       "name": {
         "original_lang": "ja",
         "original": "キャスター",
-        "latin": "Kyasuta"
+        "latin": "Kyasuta",
+        "translated": {
+          "ko": "캐스터",
+          "en": "Newscaster"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -5667,6 +7133,10 @@
           "ja": [
             "よしだりゅう"
           ]
+        },
+        "translated": {
+          "ko": "요시다 류",
+          "en": "Ryu Yoshida"
         }
       },
       "first_appearance": {
@@ -5678,7 +7148,11 @@
       "name": {
         "original_lang": "ja",
         "original": "警察官 他",
-        "latin": "Keisatsukan"
+        "latin": "Keisatsukan",
+        "translated": {
+          "ko": "경찰관 외",
+          "en": "Police officer and others"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -5690,7 +7164,11 @@
       "name": {
         "original_lang": "ja",
         "original": "市民",
-        "latin": "Shimin"
+        "latin": "Shimin",
+        "translated": {
+          "ko": "시민",
+          "en": "Citizen"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -5702,7 +7180,11 @@
       "name": {
         "original_lang": "ja",
         "original": "デモ隊員",
-        "latin": "Demo Taiin"
+        "latin": "Demo Taiin",
+        "translated": {
+          "ko": "시위대원",
+          "en": "Protester"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -5714,7 +7196,11 @@
       "name": {
         "original_lang": "ja",
         "original": "老人",
-        "latin": "Rojin"
+        "latin": "Rojin",
+        "translated": {
+          "ko": "노인",
+          "en": "Old man"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -5731,6 +7217,10 @@
           "ja": [
             "てるもとこうき"
           ]
+        },
+        "translated": {
+          "ko": "테루모토 코키",
+          "en": "Koki Terumoto"
         }
       },
       "first_appearance": {
@@ -5742,7 +7232,11 @@
       "name": {
         "original_lang": "ja",
         "original": "医師",
-        "latin": "Ishi"
+        "latin": "Ishi",
+        "translated": {
+          "ko": "의사",
+          "en": "Doctor"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -5754,7 +7248,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ダイくん",
-        "latin": "Dai-kun"
+        "latin": "Dai-kun",
+        "translated": {
+          "ko": "다이 군",
+          "en": "Dai-kun"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-final-season"
@@ -5765,7 +7263,11 @@
       "name": {
         "original_lang": "ja",
         "original": "キュレーター",
-        "latin": "Curator"
+        "latin": "Curator",
+        "translated": {
+          "ko": "큐레이터",
+          "en": "Curator"
+        }
       },
       "first_appearance": {
         "work": "my-hero-academia-game-gekitotsu-heroes-battle"
@@ -6075,7 +7577,11 @@
       "id": "ui-sa",
       "name": {
         "original_lang": "ko",
-        "original": "의사"
+        "original": "의사",
+        "translated": {
+          "ja": "医者",
+          "en": "Doctor"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -6191,7 +7697,11 @@
       "id": "robber",
       "name": {
         "original_lang": "en",
-        "original": "Robber"
+        "original": "Robber",
+        "translated": {
+          "ja": "強盗",
+          "ko": "강도"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -6205,6 +7715,9 @@
         "original": "Train Announcement",
         "official": {
           "ko": "안내방송"
+        },
+        "translated": {
+          "ja": "車内アナウンス"
         }
       },
       "nameless": true,
@@ -6216,7 +7729,11 @@
       "id": "elementary-school-student",
       "name": {
         "original_lang": "en",
-        "original": "Elementary School Student"
+        "original": "Elementary School Student",
+        "translated": {
+          "ja": "小学生",
+          "ko": "초등학생"
+        }
       },
       "nameless": true,
       "first_appearance": {
@@ -6248,6 +7765,54 @@
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s4",
+      "url": "https://laftel.net/item/27209/(%EC%9E%90%EB%A7%89)-%EB%82%98%EC%9D%98-%ED%9E%88%EC%96%B4%EB%A1%9C-%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%EC%95%84-1%EA%B8%B0",
+      "title": "(자막) 나의 히어로 아카데미아 1기 - 라프텔",
+      "publisher": "broadcaster",
+      "tier": 1,
+      "accessed_at": "2026-11-16"
+    },
+    {
+      "id": "s5",
+      "url": "https://www.tving.com/contents/P001683528",
+      "title": "나의 히어로 아카데미아 2기 (더빙) - TVING",
+      "publisher": "broadcaster",
+      "tier": 1,
+      "accessed_at": "2026-11-16"
+    },
+    {
+      "id": "s6",
+      "url": "https://en.wikipedia.org/wiki/List_of_My_Hero_Academia_characters",
+      "title": "List of My Hero Academia characters - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-16"
+    },
+    {
+      "id": "s7",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=17786",
+      "title": "My Hero Academia (TV) - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-16"
+    },
+    {
+      "id": "s8",
+      "url": "https://www.animenewsnetwork.com/news/2017-04-09/funimation-reveals-english-dub-cast-for-my-hero-academia-season-2-anime/.114563",
+      "title": "Funimation Reveals English Dub Cast for My Hero Academia Season 2 Anime - News - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-16"
+    },
+    {
+      "id": "s9",
+      "url": "https://ko.wikipedia.org/wiki/%EB%82%98%EC%9D%98_%ED%9E%88%EC%96%B4%EB%A1%9C_%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%EC%95%84%EC%9D%98_%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC_%EB%AA%A9%EB%A1%9D",
+      "title": "나의 히어로 아카데미아의 등장인물 목록 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-16"
     }
   ],
   "meta": {

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "전태열",
-    "latin": "Jeon Tae-yeol"
+    "latin": "Jeon Tae-yeol",
+    "translated": {
+      "en": "Tae-yeol Jeon",
+      "ja": "チョン・テヨル"
+    }
   },
   "nationality": [
     "KR"

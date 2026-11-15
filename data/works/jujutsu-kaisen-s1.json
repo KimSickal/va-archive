@@ -8,7 +8,8 @@
     "original": "呪術廻戦（第1期）",
     "latin": "Jujutsu Kaisen (Dai 1-ki)",
     "official": {
-      "en": "Jujutsu Kaisen Season 1"
+      "en": "Jujutsu Kaisen Season 1",
+      "ko": "주술회전"
     },
     "aliases": {
       "ko": [
@@ -1848,6 +1849,14 @@
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s99",
+      "url": "https://www.justwatch.com/kr/TV-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/jusulhoejeon",
+      "title": "주술회전 - 스트리밍: 어디에서 볼 수 있나요? - JustWatch",
+      "publisher": "other",
+      "tier": 2,
+      "accessed_at": "2026-11-16"
     }
   ],
   "meta": {

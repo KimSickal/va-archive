@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김가령",
-    "latin": "Kim Ga-ryeong"
+    "latin": "Kim Ga-ryeong",
+    "translated": {
+      "en": "Ga-ryeong Kim",
+      "ja": "キム・ガリョン"
+    }
   },
   "nationality": [
     "KR"

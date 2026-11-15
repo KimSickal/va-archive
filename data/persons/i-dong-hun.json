@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이동훈",
-    "latin": "Lee Dong-hun"
+    "latin": "Lee Dong-hun",
+    "translated": {
+      "en": "Dong-hun Lee",
+      "ja": "イ・ドンフン"
+    }
   },
   "birth": "1980-01-03",
   "wikipedia": {

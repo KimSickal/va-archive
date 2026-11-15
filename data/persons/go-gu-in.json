@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "고구인",
-    "latin": "Ko Gu-in"
+    "latin": "Ko Gu-in",
+    "translated": {
+      "en": "Gu-in Ko",
+      "ja": "コ・グイン"
+    }
   },
   "nationality": [
     "KR"

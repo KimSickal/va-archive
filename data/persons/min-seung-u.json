@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "민승우",
-    "latin": "Min Seung-u"
+    "latin": "Min Seung-u",
+    "translated": {
+      "en": "Seung-u Min",
+      "ja": "ミン・スンウ"
+    }
   },
   "nationality": [
     "KR"

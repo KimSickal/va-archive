@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "박성영",
-    "latin": "Park Seong-yeong"
+    "latin": "Park Seong-yeong",
+    "translated": {
+      "en": "Seong-yeong Park",
+      "ja": "パク・ソンヨン"
+    }
   },
   "nationality": [
     "KR"

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "최낙윤",
-    "latin": "Choi Nak-yun"
+    "latin": "Choi Nak-yun",
+    "translated": {
+      "en": "Nak-yun Choi",
+      "ja": "チェ・ナキュン"
+    }
   },
   "nationality": [
     "KR"

@@ -4,7 +4,11 @@
   "slug": "i-yeo-reum",
   "name": {
     "original_lang": "ko",
-    "original": "이여름"
+    "original": "이여름",
+    "translated": {
+      "en": "Yeo-reum Lee",
+      "ja": "イ・ヨルム"
+    }
   },
   "sources": [
     {

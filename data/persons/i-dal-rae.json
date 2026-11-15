@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이달래",
-    "latin": "Lee Dal-rae"
+    "latin": "Lee Dal-rae",
+    "translated": {
+      "en": "Dal-rae Lee",
+      "ja": "イ・ダルレ"
+    }
   },
   "nationality": [
     "KR"

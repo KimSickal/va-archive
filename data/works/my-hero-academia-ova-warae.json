@@ -7,10 +7,11 @@
     "original_lang": "ja",
     "original": "笑え！地獄のように",
     "latin": "Warae! Jigoku no Yo ni",
-    "aliases": {
-      "en": [
-        "Laugh! As If You Are in Hell"
-      ]
+    "official": {
+      "en": "Laugh! As If You Are in Hell"
+    },
+    "translated": {
+      "ko": "웃어라! 지옥처럼"
     }
   },
   "order": 15,
@@ -176,6 +177,14 @@
       "publisher": "official",
       "tier": 1,
       "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s5",
+      "url": "https://animecorner.me/crunchyroll-to-stream-my-hero-academia-season-5-ovas-on-august-1/",
+      "title": "Crunchyroll to Stream My Hero Academia Season 5 OVAs on August 1",
+      "publisher": "news",
+      "tier": 2,
+      "accessed_at": "2026-11-16"
     }
   ],
   "meta": {

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "권인지",
-    "latin": "Kwon In-ji"
+    "latin": "Kwon In-ji",
+    "translated": {
+      "en": "In-ji Kwon",
+      "ja": "クォン・インジ"
+    }
   },
   "gender": "female",
   "nationality": [

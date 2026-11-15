@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김동현",
-    "latin": "Kim Dong-hyeon"
+    "latin": "Kim Dong-hyeon",
+    "translated": {
+      "en": "Dong-hyeon Kim",
+      "ja": "キム・ドンヒョン"
+    }
   },
   "sources": [
     {

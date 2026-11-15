@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이재현",
-    "latin": "Lee Jae-hyeon"
+    "latin": "Lee Jae-hyeon",
+    "translated": {
+      "en": "Jae-hyeon Lee",
+      "ja": "イ・ジェヒョン"
+    }
   },
   "gender": "female",
   "nationality": [

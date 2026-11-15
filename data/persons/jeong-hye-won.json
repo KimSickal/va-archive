@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "정혜원",
-    "latin": "Jung Hye-won"
+    "latin": "Jung Hye-won",
+    "translated": {
+      "en": "Hye-won Jung",
+      "ja": "チョン・ヘウォン"
+    }
   },
   "gender": "female",
   "nationality": [

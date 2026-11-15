@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "시영준",
-    "latin": "Si Yeong-jun"
+    "latin": "Si Yeong-jun",
+    "translated": {
+      "en": "Yeong-jun Si",
+      "ja": "シ・ヨンジュン"
+    }
   },
   "nationality": [
     "KR"

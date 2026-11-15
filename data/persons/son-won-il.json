@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "손원일",
-    "latin": "Son Won-il"
+    "latin": "Son Won-il",
+    "translated": {
+      "en": "Won-il Son",
+      "ja": "ソン・ウォニル"
+    }
   },
   "sources": [
     {

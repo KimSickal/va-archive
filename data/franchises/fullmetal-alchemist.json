@@ -24,7 +24,8 @@
         "original": "エドワード・エルリック",
         "latin": "Edward Elric",
         "official": {
-          "ko": "에드워드 엘릭"
+          "ko": "에드워드 엘릭",
+          "en": "Edward Elric"
         }
       },
       "description": {
@@ -61,7 +62,8 @@
         "original": "アルフォンス・エルリック",
         "latin": "Alphonse Elric",
         "official": {
-          "ko": "알폰스 엘릭"
+          "ko": "알폰스 엘릭",
+          "en": "Alphonse Elric"
         }
       },
       "description": {
@@ -98,7 +100,8 @@
         "original": "ウィンリィ・ロックベル",
         "latin": "Winry Rockbell",
         "official": {
-          "ko": "윈리 록벨"
+          "ko": "윈리 록벨",
+          "en": "Winry Rockbell"
         }
       },
       "description": {
@@ -131,7 +134,8 @@
         "original": "ロイ・マスタング",
         "latin": "Roy Mustang",
         "official": {
-          "ko": "로이 머스탱"
+          "ko": "로이 머스탱",
+          "en": "Roy Mustang"
         }
       },
       "description": {
@@ -167,7 +171,8 @@
         "original": "リザ・ホークアイ",
         "latin": "Riza Hawkeye",
         "official": {
-          "ko": "리자 호크아이"
+          "ko": "리자 호크아이",
+          "en": "Riza Hawkeye"
         }
       },
       "description": {
@@ -200,7 +205,8 @@
         "original": "アレックス・ルイ・アームストロング",
         "latin": "Alex Louis Armstrong",
         "official": {
-          "ko": "알렉스 루이 암스트롱"
+          "ko": "알렉스 루이 암스트롱",
+          "en": "Alex Louis Armstrong"
         }
       },
       "description": {
@@ -233,7 +239,8 @@
         "original": "マース・ヒューズ",
         "latin": "Maes Hughes",
         "official": {
-          "ko": "매스 휴즈"
+          "ko": "매스 휴즈",
+          "en": "Maes Hughes"
         }
       },
       "description": {
@@ -266,7 +273,8 @@
         "original": "ラスト",
         "latin": "Lust",
         "official": {
-          "ko": "러스트"
+          "ko": "러스트",
+          "en": "Lust"
         }
       },
       "description": {
@@ -299,7 +307,8 @@
         "original": "グラトニー",
         "latin": "Gluttony",
         "official": {
-          "ko": "글러트니"
+          "ko": "글러트니",
+          "en": "Gluttony"
         }
       },
       "description": {
@@ -332,7 +341,8 @@
         "original": "エンヴィー",
         "latin": "Envy",
         "official": {
-          "ko": "엔비"
+          "ko": "엔비",
+          "en": "Envy"
         }
       },
       "description": {
@@ -365,7 +375,8 @@
         "original": "スカー",
         "latin": "Scar",
         "official": {
-          "ko": "스카"
+          "ko": "스카",
+          "en": "Scar"
         },
         "aliases": {
           "ja": [
@@ -403,7 +414,8 @@
         "original": "ピナコ・ロックベル",
         "latin": "Pinako Rockbell",
         "official": {
-          "ko": "피나코 록벨"
+          "ko": "피나코 록벨",
+          "en": "Pinako Rockbell"
         }
       },
       "description": {
@@ -436,7 +448,8 @@
         "original": "トリシャ・エルリック",
         "latin": "Trisha Elric",
         "official": {
-          "ko": "트리샤 엘릭"
+          "ko": "트리샤 엘릭",
+          "en": "Trisha Elric"
         }
       },
       "description": {
@@ -472,6 +485,9 @@
           "ko": [
             "그레이시아 휴즈"
           ]
+        },
+        "translated": {
+          "en": "Gracia Hughes"
         }
       },
       "description": {
@@ -508,6 +524,9 @@
             "엘리시아 휴즈",
             "엘리시아"
           ]
+        },
+        "translated": {
+          "en": "Elicia Hughes"
         }
       },
       "description": {
@@ -540,7 +559,8 @@
         "original": "ティム・マルコー",
         "latin": "Tim Marcoh",
         "official": {
-          "ko": "팀 마르코"
+          "ko": "팀 마르코",
+          "en": "Tim Marcoh"
         }
       },
       "description": {
@@ -573,7 +593,8 @@
         "original": "ジャン・ハボック",
         "latin": "Jean Havoc",
         "official": {
-          "ko": "장 하보크"
+          "ko": "장 하보크",
+          "en": "Jean Havoc"
         },
         "aliases": {
           "ko": [
@@ -611,7 +632,8 @@
         "original": "ハイマンス・ブレダ",
         "latin": "Heymans Breda",
         "official": {
-          "ko": "하이만스 브레다"
+          "ko": "하이만스 브레다",
+          "en": "Heymans Breda"
         }
       },
       "description": {
@@ -644,7 +666,8 @@
         "original": "マリア・ロス",
         "latin": "Maria Ross",
         "official": {
-          "ko": "마리아 로스"
+          "ko": "마리아 로스",
+          "en": "Maria Ross"
         }
       },
       "description": {
@@ -680,6 +703,9 @@
           "ko": [
             "대니 블로슈"
           ]
+        },
+        "official": {
+          "en": "Denny Brosh"
         }
       },
       "description": {
@@ -715,6 +741,9 @@
           "ko": [
             "셰스카"
           ]
+        },
+        "official": {
+          "en": "Sheska"
         }
       },
       "description": {
@@ -750,6 +779,9 @@
           "ko": [
             "밸리 더 쵸퍼"
           ]
+        },
+        "official": {
+          "en": "Barry the Chopper"
         }
       },
       "description": {
@@ -782,7 +814,8 @@
         "original": "スライサー",
         "latin": "Slicer",
         "official": {
-          "ko": "슬라이서"
+          "ko": "슬라이서",
+          "en": "Slicer"
         },
         "aliases": {
           "ja": [
@@ -820,7 +853,8 @@
         "original": "ヨキ",
         "latin": "Yoki",
         "official": {
-          "ko": "요키"
+          "ko": "요키",
+          "en": "Yoki"
         }
       },
       "description": {
@@ -853,7 +887,8 @@
         "original": "イズミ・カーティス",
         "latin": "Izumi Curtis",
         "official": {
-          "ko": "이즈미 커티스"
+          "ko": "이즈미 커티스",
+          "en": "Izumi Curtis"
         }
       },
       "description": {
@@ -889,6 +924,9 @@
           "ko": [
             "시그 커티스"
           ]
+        },
+        "official": {
+          "en": "Sig Curtis"
         }
       },
       "description": {
@@ -921,7 +959,8 @@
         "original": "グリード",
         "latin": "Greed",
         "official": {
-          "ko": "그리드"
+          "ko": "그리드",
+          "en": "Greed"
         }
       },
       "description": {
@@ -954,7 +993,8 @@
         "original": "キング・ブラッドレイ",
         "latin": "King Bradley",
         "official": {
-          "ko": "킹 브래들리"
+          "ko": "킹 브래들리",
+          "en": "King Bradley"
         },
         "aliases": {
           "ko": [
@@ -992,7 +1032,8 @@
         "original": "リン・ヤオ",
         "latin": "Ling Yao",
         "official": {
-          "ko": "린 야오"
+          "ko": "린 야오",
+          "en": "Ling Yao"
         }
       },
       "description": {
@@ -1025,7 +1066,8 @@
         "original": "ランファン",
         "latin": "Lan Fan",
         "official": {
-          "ko": "란팡"
+          "ko": "란팡",
+          "en": "Lan Fan"
         },
         "aliases": {
           "ko": [
@@ -1063,7 +1105,8 @@
         "original": "フー",
         "latin": "Fu",
         "official": {
-          "ko": "후"
+          "ko": "후",
+          "en": "Fu"
         }
       },
       "description": {
@@ -1096,7 +1139,8 @@
         "original": "メイ・チャン",
         "latin": "May Chang",
         "official": {
-          "ko": "메이 창"
+          "ko": "메이 창",
+          "en": "May Chang"
         }
       },
       "description": {
@@ -1167,7 +1211,8 @@
         "original": "ヴァン・ホーエンハイム",
         "latin": "Van Hohenheim",
         "official": {
-          "ko": "반 호엔하임"
+          "ko": "반 호엔하임",
+          "en": "Van Hohenheim"
         }
       },
       "description": {
@@ -1203,6 +1248,9 @@
           "ko": [
             "스카의 형"
           ]
+        },
+        "translated": {
+          "en": "Scar's older brother"
         }
       },
       "description": {
@@ -1234,7 +1282,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ユーリ・ロックベル",
-        "latin": "Yuriy Rockbell"
+        "latin": "Yuriy Rockbell",
+        "translated": {
+          "ko": "유리 록벨",
+          "en": "Yuriy Rockbell"
+        }
       },
       "description": {
         "original_lang": "ja",
@@ -1264,7 +1316,11 @@
       "name": {
         "original_lang": "ja",
         "original": "サラ・ロックベル",
-        "latin": "Sara Rockbell"
+        "latin": "Sara Rockbell",
+        "translated": {
+          "ko": "사라 록벨",
+          "en": "Sara Rockbell"
+        }
       },
       "description": {
         "original_lang": "ja",
@@ -1334,7 +1390,8 @@
         "original": "セリム・ブラッドレイ",
         "latin": "Selim Bradley",
         "official": {
-          "ko": "셀림 브래들리"
+          "ko": "셀림 브래들리",
+          "en": "Selim Bradley"
         },
         "aliases": {
           "ko": [
@@ -1372,7 +1429,8 @@
         "original": "プライド",
         "latin": "Pride",
         "official": {
-          "ko": "프라이드"
+          "ko": "프라이드",
+          "en": "Pride"
         }
       },
       "description": {
@@ -1399,7 +1457,8 @@
         "original": "ゾルフ・J・キンブリー",
         "latin": "Solf J. Kimblee",
         "official": {
-          "ko": "졸프 J. 킴블리"
+          "ko": "졸프 J. 킴블리",
+          "en": "Solf J. Kimblee"
         }
       },
       "description": {
@@ -1473,6 +1532,9 @@
         "latin": "Knox",
         "official": {
           "ko": "녹스"
+        },
+        "translated": {
+          "en": "Knox"
         }
       },
       "description": {
@@ -1505,7 +1567,8 @@
         "original": "オリヴィエ・ミラ・アームストロング",
         "latin": "Olivier Mira Armstrong",
         "official": {
-          "ko": "올리비에 밀라 암스트롱"
+          "ko": "올리비에 밀라 암스트롱",
+          "en": "Olivier Mira Armstrong"
         }
       },
       "description": {
@@ -1538,7 +1601,8 @@
         "original": "マイルズ",
         "latin": "Miles",
         "official": {
-          "ko": "마일즈"
+          "ko": "마일즈",
+          "en": "Miles"
         }
       },
       "description": {
@@ -1571,7 +1635,8 @@
         "original": "バッカニア",
         "latin": "Buccaneer",
         "official": {
-          "ko": "배커니어"
+          "ko": "배커니어",
+          "en": "Buccaneer"
         },
         "aliases": {
           "ko": [
@@ -1609,7 +1674,8 @@
         "original": "スロウス",
         "latin": "Sloth",
         "official": {
-          "ko": "슬로스"
+          "ko": "슬로스",
+          "en": "Sloth"
         }
       },
       "description": {
@@ -1646,6 +1712,9 @@
             "글래먼",
             "그루먼"
           ]
+        },
+        "translated": {
+          "en": "Grumman"
         }
       },
       "description": {
@@ -1681,6 +1750,9 @@
           "ko": [
             "레이븐"
           ]
+        },
+        "translated": {
+          "en": "Raven"
         }
       },
       "description": {
@@ -1713,7 +1785,8 @@
         "original": "ケイン・フュリー",
         "latin": "Kain Fuery",
         "official": {
-          "ko": "케인 휴리"
+          "ko": "케인 휴리",
+          "en": "Kain Fuery"
         }
       },
       "first_appearance": {
@@ -1727,7 +1800,8 @@
         "original": "ヴァトー・ファルマン",
         "latin": "Vato Falman",
         "official": {
-          "ko": "버트 펄만"
+          "ko": "버트 펄만",
+          "en": "Vato Falman"
         }
       },
       "first_appearance": {
@@ -1741,7 +1815,8 @@
         "original": "ショウ・タッカー",
         "latin": "Shou Tucker",
         "official": {
-          "ko": "쇼우 터커"
+          "ko": "쇼우 터커",
+          "en": "Shou Tucker"
         }
       },
       "first_appearance": {
@@ -1758,6 +1833,9 @@
           "ko": [
             "니나 터커"
           ]
+        },
+        "official": {
+          "en": "Nina Tucker"
         }
       },
       "first_appearance": {
@@ -1771,7 +1849,8 @@
         "original": "ロゼ",
         "latin": "Rose",
         "official": {
-          "ko": "로제 토마스"
+          "ko": "로제 토마스",
+          "en": "Rose"
         },
         "aliases": {
           "ko": [
@@ -1793,6 +1872,9 @@
           "ko": [
             "코네로"
           ]
+        },
+        "official": {
+          "en": "Cornello"
         }
       },
       "first_appearance": {
@@ -1804,7 +1886,11 @@
       "name": {
         "original_lang": "ja",
         "original": "クレイ",
-        "latin": "Cray"
+        "latin": "Cray",
+        "translated": {
+          "ko": "클레이",
+          "en": "Cray"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -1820,6 +1906,9 @@
           "ko": [
             "바스크 글랜"
           ]
+        },
+        "translated": {
+          "en": "Basque Grand"
         }
       },
       "first_appearance": {
@@ -1857,6 +1946,9 @@
           "ko": [
             "마담 크리스마스"
           ]
+        },
+        "translated": {
+          "en": "Madame Christmas"
         }
       },
       "first_appearance": {
@@ -1873,6 +1965,9 @@
           "ko": [
             "레베카 카테리나"
           ]
+        },
+        "translated": {
+          "en": "Rebecca Catalina"
         }
       },
       "first_appearance": {
@@ -1884,7 +1979,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ヴァネッサ",
-        "latin": "Vanessa"
+        "latin": "Vanessa",
+        "translated": {
+          "ko": "바네사",
+          "en": "Vanessa"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -1900,6 +1999,9 @@
           "ko": [
             "패니냐"
           ]
+        },
+        "translated": {
+          "en": "Paninya"
         }
       },
       "first_appearance": {
@@ -1916,6 +2018,9 @@
           "ko": [
             "도미니크 레코르트"
           ]
+        },
+        "translated": {
+          "en": "Dominic LeCourt"
         }
       },
       "first_appearance": {
@@ -1927,7 +2032,11 @@
       "name": {
         "original_lang": "ja",
         "original": "リドル・レコルト",
-        "latin": "Ridel LeCourt"
+        "latin": "Ridel LeCourt",
+        "translated": {
+          "ko": "리들 레코르트",
+          "en": "Ridel LeCourt"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -1938,7 +2047,11 @@
       "name": {
         "original_lang": "ja",
         "original": "サテラ・レコルト",
-        "latin": "Satella LeCourt"
+        "latin": "Satella LeCourt",
+        "translated": {
+          "ko": "사텔라 레코르트",
+          "en": "Satella LeCourt"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -1954,6 +2067,9 @@
           "ko": [
             "가필"
           ]
+        },
+        "translated": {
+          "en": "Garfiel"
         }
       },
       "first_appearance": {
@@ -1965,7 +2081,13 @@
       "name": {
         "original_lang": "ja",
         "original": "テツ",
-        "latin": "Tetsu"
+        "latin": "Tetsu",
+        "translated": {
+          "ko": "테츠"
+        },
+        "official": {
+          "en": "Tetsu"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -1981,6 +2103,9 @@
           "ko": [
             "메이슨"
           ]
+        },
+        "translated": {
+          "en": "Mason"
         }
       },
       "first_appearance": {
@@ -1994,7 +2119,8 @@
         "original": "ドルチェット",
         "latin": "Dolcetto",
         "official": {
-          "ko": "돌체트"
+          "ko": "돌체트",
+          "en": "Dolcetto"
         }
       },
       "first_appearance": {
@@ -2008,7 +2134,8 @@
         "original": "ロア",
         "latin": "Roa",
         "official": {
-          "ko": "로어"
+          "ko": "로어",
+          "en": "Roa"
         }
       },
       "first_appearance": {
@@ -2022,7 +2149,8 @@
         "original": "マーテル",
         "latin": "Martel",
         "official": {
-          "ko": "마텔"
+          "ko": "마텔",
+          "en": "Martel"
         }
       },
       "first_appearance": {
@@ -2039,6 +2167,9 @@
           "ko": [
             "비드"
           ]
+        },
+        "official": {
+          "en": "Bido"
         }
       },
       "first_appearance": {
@@ -2055,6 +2186,9 @@
           "ko": [
             "하인켈"
           ]
+        },
+        "official": {
+          "en": "Heinkel"
         }
       },
       "first_appearance": {
@@ -2071,6 +2205,9 @@
           "ko": [
             "다리우스"
           ]
+        },
+        "official": {
+          "en": "Darius"
         }
       },
       "first_appearance": {
@@ -2087,6 +2224,9 @@
           "ko": [
             "젤소"
           ]
+        },
+        "official": {
+          "en": "Jerso"
         }
       },
       "first_appearance": {
@@ -2100,7 +2240,8 @@
         "original": "ザンパノ",
         "latin": "Zampano",
         "official": {
-          "ko": "잠파노"
+          "ko": "잠파노",
+          "en": "Zampano"
         }
       },
       "first_appearance": {
@@ -2114,7 +2255,8 @@
         "original": "アイザック・マクドゥーガル",
         "latin": "Isaac McDougal",
         "official": {
-          "ko": "아이작 맥두걸"
+          "ko": "아이작 맥두걸",
+          "en": "Isaac McDougal"
         },
         "aliases": {
           "ko": [
@@ -2136,6 +2278,9 @@
           "ko": [
             "조리오 코만치"
           ]
+        },
+        "translated": {
+          "en": "Giolio Comanche"
         }
       },
       "first_appearance": {
@@ -2152,6 +2297,9 @@
           "ko": [
             "헨리 더글러스"
           ]
+        },
+        "translated": {
+          "en": "Henry Douglas"
         }
       },
       "first_appearance": {
@@ -2168,6 +2316,9 @@
           "ko": [
             "포커"
           ]
+        },
+        "translated": {
+          "en": "Focker"
         }
       },
       "first_appearance": {
@@ -2184,6 +2335,9 @@
           "ko": [
             "훼슬러"
           ]
+        },
+        "translated": {
+          "en": "Fessler"
         }
       },
       "first_appearance": {
@@ -2200,6 +2354,9 @@
           "ko": [
             "슈트르히"
           ]
+        },
+        "translated": {
+          "en": "Storch"
         }
       },
       "first_appearance": {
@@ -2216,6 +2373,9 @@
           "ko": [
             "야코브레프"
           ]
+        },
+        "translated": {
+          "en": "Yakovlev"
         }
       },
       "first_appearance": {
@@ -2227,7 +2387,11 @@
       "name": {
         "original_lang": "ja",
         "original": "クレミン",
-        "latin": "Clemin"
+        "latin": "Clemin",
+        "translated": {
+          "ko": "클레민",
+          "en": "Clemin"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -2238,7 +2402,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ガードナー",
-        "latin": "Gardner"
+        "latin": "Gardner",
+        "translated": {
+          "ko": "가드너",
+          "en": "Gardner"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -2249,7 +2417,11 @@
       "name": {
         "original_lang": "ja",
         "original": "エジソン",
-        "latin": "Edison"
+        "latin": "Edison",
+        "translated": {
+          "ko": "에디슨",
+          "en": "Edison"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -2260,7 +2432,11 @@
       "name": {
         "original_lang": "ja",
         "original": "フォックス",
-        "latin": "Fox"
+        "latin": "Fox",
+        "translated": {
+          "ko": "폭스",
+          "en": "Fox"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -2271,7 +2447,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ゲルトナー",
-        "latin": "Gertner"
+        "latin": "Gertner",
+        "translated": {
+          "ko": "게르트너",
+          "en": "Gertner"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -2287,6 +2467,9 @@
           "ko": [
             "하쿠로"
           ]
+        },
+        "translated": {
+          "en": "Hakuro"
         }
       },
       "first_appearance": {
@@ -2303,6 +2486,9 @@
           "ko": [
             "찰리"
           ]
+        },
+        "translated": {
+          "en": "Charlie"
         }
       },
       "first_appearance": {
@@ -2314,7 +2500,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ダミアノ",
-        "latin": "Damiano"
+        "latin": "Damiano",
+        "translated": {
+          "ko": "다미아노",
+          "en": "Damiano"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -2330,6 +2520,9 @@
           "ko": [
             "헨셸"
           ]
+        },
+        "translated": {
+          "en": "Henschel"
         }
       },
       "first_appearance": {
@@ -2346,6 +2539,9 @@
           "ko": [
             "리암"
           ]
+        },
+        "translated": {
+          "en": "Liam Roach"
         }
       },
       "first_appearance": {
@@ -2362,6 +2558,9 @@
           "ko": [
             "믹"
           ]
+        },
+        "translated": {
+          "en": "Mick Murray"
         }
       },
       "first_appearance": {
@@ -2378,6 +2577,9 @@
           "ko": [
             "칼리"
           ]
+        },
+        "translated": {
+          "en": "Karley"
         }
       },
       "first_appearance": {
@@ -2389,7 +2591,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ニール",
-        "latin": "Neil"
+        "latin": "Neil",
+        "translated": {
+          "ko": "닐",
+          "en": "Neil"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -2405,6 +2611,9 @@
           "ko": [
             "바비"
           ]
+        },
+        "translated": {
+          "en": "Bobby"
         }
       },
       "first_appearance": {
@@ -2416,7 +2625,11 @@
       "name": {
         "original_lang": "ja",
         "original": "アイヴァン",
-        "latin": "Ivan"
+        "latin": "Ivan",
+        "translated": {
+          "ko": "이반",
+          "en": "Ivan"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -2427,7 +2640,13 @@
       "name": {
         "original_lang": "ja",
         "original": "エリック",
-        "latin": "Eric"
+        "latin": "Eric",
+        "translated": {
+          "ko": "에릭"
+        },
+        "official": {
+          "en": "Eric"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -2443,6 +2662,9 @@
           "ko": [
             "필립 가르강토스 암스트롱"
           ]
+        },
+        "translated": {
+          "en": "Philip Gargantos Armstrong"
         }
       },
       "first_appearance": {
@@ -2459,6 +2681,9 @@
           "ko": [
             "캐슬린 엘 암스트롱"
           ]
+        },
+        "translated": {
+          "en": "Catherine Elle Armstrong"
         }
       },
       "first_appearance": {
@@ -2475,6 +2700,9 @@
           "ko": [
             "샨"
           ]
+        },
+        "translated": {
+          "en": "Shan"
         }
       },
       "first_appearance": {
@@ -2486,7 +2714,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ヒース",
-        "latin": "Heath"
+        "latin": "Heath",
+        "translated": {
+          "ko": "히스",
+          "en": "Heath"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -2497,7 +2729,11 @@
       "name": {
         "original_lang": "ja",
         "original": "グスタフ",
-        "latin": "Gustav"
+        "latin": "Gustav",
+        "translated": {
+          "ko": "구스타프",
+          "en": "Gustav"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -2508,7 +2744,11 @@
       "name": {
         "original_lang": "ja",
         "original": "カスパー",
-        "latin": "Casper"
+        "latin": "Casper",
+        "translated": {
+          "ko": "캐스퍼",
+          "en": "Casper"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -2519,7 +2759,13 @@
       "name": {
         "original_lang": "ja",
         "original": "フランク",
-        "latin": "Frank"
+        "latin": "Frank",
+        "translated": {
+          "ko": "프랭크"
+        },
+        "official": {
+          "en": "Frank"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -2530,7 +2776,11 @@
       "name": {
         "original_lang": "ja",
         "original": "フラナガン",
-        "latin": "Flanagan"
+        "latin": "Flanagan",
+        "translated": {
+          "ko": "플래너건",
+          "en": "Flanagan"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -2541,7 +2791,11 @@
       "name": {
         "original_lang": "ja",
         "original": "ブリス",
-        "latin": "Bliss"
+        "latin": "Bliss",
+        "translated": {
+          "ko": "블리스",
+          "en": "Bliss"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -2557,6 +2811,10 @@
           "ja": [
             "ハン"
           ]
+        },
+        "translated": {
+          "ko": "미스터 한",
+          "en": "Mister Han"
         }
       },
       "first_appearance": {
@@ -2573,6 +2831,9 @@
           "en": [
             "Mrs. Armstrong"
           ]
+        },
+        "translated": {
+          "ko": "암스트롱 부인"
         }
       },
       "first_appearance": {
@@ -2636,6 +2897,9 @@
           "ja": [
             "ノックスの妻"
           ]
+        },
+        "translated": {
+          "ko": "녹스의 아내"
         }
       },
       "first_appearance": {
@@ -2656,6 +2920,9 @@
           "ja": [
             "ノックスの息子"
           ]
+        },
+        "translated": {
+          "ko": "녹스의 아들"
         }
       },
       "first_appearance": {
@@ -2673,6 +2940,9 @@
           "en": [
             "Gold-Toothed Doctor"
           ]
+        },
+        "translated": {
+          "ko": "금니 의사"
         }
       },
       "first_appearance": {
@@ -2690,6 +2960,9 @@
           "en": [
             "Grandma"
           ]
+        },
+        "translated": {
+          "ko": "꽃집 아주머니"
         }
       },
       "first_appearance": {
@@ -2707,6 +2980,9 @@
           "en": [
             "Briggs Doctor"
           ]
+        },
+        "translated": {
+          "ko": "여의사"
         }
       },
       "first_appearance": {
@@ -2724,6 +3000,9 @@
           "en": [
             "Brosh's Little Sister"
           ]
+        },
+        "translated": {
+          "ko": "브로슈의 여동생"
         }
       },
       "first_appearance": {
@@ -2741,6 +3020,9 @@
           "en": [
             "Brosh's Little Brother"
           ]
+        },
+        "translated": {
+          "ko": "브로슈의 남동생"
         }
       },
       "first_appearance": {
@@ -2758,6 +3040,9 @@
           "en": [
             "Boy"
           ]
+        },
+        "translated": {
+          "ko": "소년"
         }
       },
       "first_appearance": {
@@ -2775,6 +3060,9 @@
           "en": [
             "Narrator"
           ]
+        },
+        "translated": {
+          "ko": "내레이션"
         }
       },
       "first_appearance": {
@@ -2792,6 +3080,9 @@
           "en": [
             "Boy B"
           ]
+        },
+        "translated": {
+          "ko": "남자아이 B"
         }
       },
       "first_appearance": {
@@ -2809,6 +3100,9 @@
           "en": [
             "Soldier C"
           ]
+        },
+        "translated": {
+          "ko": "병사 C"
         }
       },
       "first_appearance": {
@@ -2826,6 +3120,9 @@
           "en": [
             "Ishbalan Boy"
           ]
+        },
+        "translated": {
+          "ko": "소년"
         }
       },
       "first_appearance": {
@@ -2838,7 +3135,11 @@
       "name": {
         "original_lang": "en",
         "original": "Doctor",
-        "latin": "Doctor"
+        "latin": "Doctor",
+        "translated": {
+          "ja": "医者",
+          "ko": "의사"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -2850,7 +3151,11 @@
       "name": {
         "original_lang": "en",
         "original": "Face B",
-        "latin": "Face B"
+        "latin": "Face B",
+        "translated": {
+          "ja": "顔B",
+          "ko": "얼굴 B"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -2862,7 +3167,11 @@
       "name": {
         "original_lang": "en",
         "original": "Fellow Countryman",
-        "latin": "Fellow Countryman"
+        "latin": "Fellow Countryman",
+        "translated": {
+          "ja": "同胞",
+          "ko": "동포"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -2874,7 +3183,11 @@
       "name": {
         "original_lang": "en",
         "original": "Man A",
-        "latin": "Man A"
+        "latin": "Man A",
+        "translated": {
+          "ja": "男A",
+          "ko": "남자 A"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -2886,7 +3199,11 @@
       "name": {
         "original_lang": "en",
         "original": "Military A",
-        "latin": "Military A"
+        "latin": "Military A",
+        "translated": {
+          "ja": "軍人A",
+          "ko": "군인 A"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -2898,7 +3215,11 @@
       "name": {
         "original_lang": "en",
         "original": "Military Policeman B",
-        "latin": "Military Policeman B"
+        "latin": "Military Policeman B",
+        "translated": {
+          "ja": "憲兵B",
+          "ko": "헌병 B"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -2910,7 +3231,11 @@
       "name": {
         "original_lang": "en",
         "original": "Order Member B",
-        "latin": "Order Member B"
+        "latin": "Order Member B",
+        "translated": {
+          "ja": "教団員B",
+          "ko": "교단원 B"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -2922,7 +3247,11 @@
       "name": {
         "original_lang": "en",
         "original": "Prison Guard A",
-        "latin": "Prison Guard A"
+        "latin": "Prison Guard A",
+        "translated": {
+          "ja": "看守A",
+          "ko": "간수 A"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -2934,7 +3263,11 @@
       "name": {
         "original_lang": "en",
         "original": "Subordinate",
-        "latin": "Subordinate"
+        "latin": "Subordinate",
+        "translated": {
+          "ja": "部下",
+          "ko": "부하"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -2946,7 +3279,11 @@
       "name": {
         "original_lang": "en",
         "original": "Villager A",
-        "latin": "Villager A"
+        "latin": "Villager A",
+        "translated": {
+          "ja": "村人A",
+          "ko": "마을 사람 A"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -2958,7 +3295,11 @@
       "name": {
         "original_lang": "en",
         "original": "Doctor",
-        "latin": "Doctor"
+        "latin": "Doctor",
+        "translated": {
+          "ja": "医者",
+          "ko": "의사"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -2975,6 +3316,9 @@
           "en": [
             "Military Policeman A"
           ]
+        },
+        "translated": {
+          "ko": "헌병 A"
         }
       },
       "first_appearance": {
@@ -2992,6 +3336,9 @@
           "en": [
             "Producer"
           ]
+        },
+        "translated": {
+          "ko": "프로듀서"
         }
       },
       "first_appearance": {
@@ -3009,6 +3356,9 @@
           "en": [
             "White Coat"
           ]
+        },
+        "translated": {
+          "ko": "흰 가운"
         }
       },
       "first_appearance": {
@@ -3026,6 +3376,9 @@
           "en": [
             "Guard Soldier B"
           ]
+        },
+        "translated": {
+          "ko": "경비병 B"
         }
       },
       "first_appearance": {
@@ -3043,6 +3396,9 @@
           "en": [
             "Military Policeman A"
           ]
+        },
+        "translated": {
+          "ko": "헌병 A"
         }
       },
       "first_appearance": {
@@ -3060,6 +3416,9 @@
           "en": [
             "Sheska's Superior"
           ]
+        },
+        "translated": {
+          "ko": "셰스카의 상관"
         }
       },
       "first_appearance": {
@@ -3072,7 +3431,11 @@
       "name": {
         "original_lang": "en",
         "original": "Photographer",
-        "latin": "Photographer"
+        "latin": "Photographer",
+        "translated": {
+          "ja": "カメラマン",
+          "ko": "사진사"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -3089,6 +3452,9 @@
           "en": [
             "Military Policeman A"
           ]
+        },
+        "translated": {
+          "ko": "헌병 A"
         }
       },
       "first_appearance": {
@@ -3106,6 +3472,9 @@
           "en": [
             "Commander"
           ]
+        },
+        "translated": {
+          "ko": "대장"
         }
       },
       "first_appearance": {
@@ -3118,7 +3487,11 @@
       "name": {
         "original_lang": "en",
         "original": "Branch Manager",
-        "latin": "Branch Manager"
+        "latin": "Branch Manager",
+        "translated": {
+          "ja": "支店長",
+          "ko": "지점장"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -3135,6 +3508,9 @@
           "en": [
             "Commander"
           ]
+        },
+        "translated": {
+          "ko": "대장"
         }
       },
       "first_appearance": {
@@ -3147,7 +3523,11 @@
       "name": {
         "original_lang": "en",
         "original": "Face A",
-        "latin": "Face A"
+        "latin": "Face A",
+        "translated": {
+          "ja": "顔A",
+          "ko": "얼굴 A"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -3164,6 +3544,9 @@
           "en": [
             "Guard Soldier A"
           ]
+        },
+        "translated": {
+          "ko": "경비병 A"
         }
       },
       "first_appearance": {
@@ -3176,7 +3559,11 @@
       "name": {
         "original_lang": "en",
         "original": "Sergeant",
-        "latin": "Sergeant"
+        "latin": "Sergeant",
+        "translated": {
+          "ja": "軍曹",
+          "ko": "중사"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -3193,6 +3580,9 @@
           "en": [
             "Slum Dweller"
           ]
+        },
+        "translated": {
+          "ko": "빈민가 주민"
         }
       },
       "first_appearance": {
@@ -3210,6 +3600,9 @@
           "en": [
             "Engineer"
           ]
+        },
+        "translated": {
+          "ko": "기관사 B"
         }
       },
       "first_appearance": {
@@ -3227,6 +3620,9 @@
           "en": [
             "Second Officer"
           ]
+        },
+        "translated": {
+          "ko": "부관"
         }
       },
       "first_appearance": {
@@ -3244,6 +3640,9 @@
           "en": [
             "Radio Voice"
           ]
+        },
+        "translated": {
+          "ko": "무전 목소리"
         }
       },
       "first_appearance": {
@@ -3261,6 +3660,9 @@
           "en": [
             "Subordinate"
           ]
+        },
+        "translated": {
+          "ko": "부하"
         }
       },
       "first_appearance": {
@@ -3278,6 +3680,9 @@
           "en": [
             "Military Policeman A"
           ]
+        },
+        "translated": {
+          "ko": "헌병 A"
         }
       },
       "first_appearance": {
@@ -3295,6 +3700,9 @@
           "en": [
             "Order Member A"
           ]
+        },
+        "translated": {
+          "ko": "교단원 A"
         }
       },
       "first_appearance": {
@@ -3312,6 +3720,9 @@
           "en": [
             "Soldier"
           ]
+        },
+        "translated": {
+          "ko": "병사"
         }
       },
       "first_appearance": {
@@ -3329,6 +3740,9 @@
           "en": [
             "Soldier A"
           ]
+        },
+        "translated": {
+          "ko": "병사 A"
         }
       },
       "first_appearance": {
@@ -3346,6 +3760,9 @@
           "en": [
             "Lady"
           ]
+        },
+        "translated": {
+          "ko": "아주머니"
         }
       },
       "first_appearance": {
@@ -3363,6 +3780,9 @@
           "en": [
             "Villager C"
           ]
+        },
+        "translated": {
+          "ko": "마을 사람 C"
         }
       },
       "first_appearance": {
@@ -3380,6 +3800,9 @@
           "en": [
             "Station Attendant"
           ]
+        },
+        "translated": {
+          "ko": "역무원"
         }
       },
       "first_appearance": {
@@ -3397,6 +3820,9 @@
           "en": [
             "Man B"
           ]
+        },
+        "translated": {
+          "ko": "남자 B"
         }
       },
       "first_appearance": {
@@ -3414,6 +3840,9 @@
           "en": [
             "Prison Guard B"
           ]
+        },
+        "translated": {
+          "ko": "간수 B"
         }
       },
       "first_appearance": {
@@ -3431,6 +3860,9 @@
           "en": [
             "Briggs Soldier"
           ]
+        },
+        "translated": {
+          "ko": "브릭스 병사 B"
         }
       },
       "first_appearance": {
@@ -3448,6 +3880,9 @@
           "en": [
             "Engineer B"
           ]
+        },
+        "translated": {
+          "ko": "기사 B"
         }
       },
       "first_appearance": {
@@ -3465,6 +3900,9 @@
           "en": [
             "Military Policeman"
           ]
+        },
+        "translated": {
+          "ko": "헌병"
         }
       },
       "first_appearance": {
@@ -3482,6 +3920,9 @@
           "en": [
             "Soldier B"
           ]
+        },
+        "translated": {
+          "ko": "병사 B"
         }
       },
       "first_appearance": {
@@ -3499,6 +3940,9 @@
           "en": [
             "Man C"
           ]
+        },
+        "translated": {
+          "ko": "남자 C"
         }
       },
       "first_appearance": {
@@ -3516,6 +3960,9 @@
           "en": [
             "Military Policeman D"
           ]
+        },
+        "translated": {
+          "ko": "헌병 D"
         }
       },
       "first_appearance": {
@@ -3533,6 +3980,9 @@
           "en": [
             "Order Member C"
           ]
+        },
+        "translated": {
+          "ko": "교단원 C"
         }
       },
       "first_appearance": {
@@ -3545,7 +3995,11 @@
       "name": {
         "original_lang": "en",
         "original": "Proctor",
-        "latin": "Proctor"
+        "latin": "Proctor",
+        "translated": {
+          "ja": "試験官",
+          "ko": "시험관"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -3562,6 +4016,9 @@
           "en": [
             "Soldier"
           ]
+        },
+        "translated": {
+          "ko": "병사"
         }
       },
       "first_appearance": {
@@ -3579,6 +4036,9 @@
           "en": [
             "Villager B"
           ]
+        },
+        "translated": {
+          "ko": "마을 사람 B"
         }
       },
       "first_appearance": {
@@ -3591,7 +4051,11 @@
       "name": {
         "original_lang": "en",
         "original": "Briggs Soldier",
-        "latin": "Briggs Soldier"
+        "latin": "Briggs Soldier",
+        "translated": {
+          "ja": "ブリッグズ兵",
+          "ko": "브릭스 병사"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -3608,6 +4072,9 @@
           "en": [
             "Citizen"
           ]
+        },
+        "translated": {
+          "ko": "시민"
         }
       },
       "first_appearance": {
@@ -3625,6 +4092,9 @@
           "en": [
             "Ishvalan"
           ]
+        },
+        "translated": {
+          "ko": "이슈발 사람"
         }
       },
       "first_appearance": {
@@ -3642,6 +4112,9 @@
           "en": [
             "Worker"
           ]
+        },
+        "translated": {
+          "ko": "작업원"
         }
       },
       "first_appearance": {
@@ -3659,6 +4132,9 @@
           "en": [
             "Receptionist"
           ]
+        },
+        "translated": {
+          "ko": "창구 직원"
         }
       },
       "first_appearance": {
@@ -3671,7 +4147,11 @@
       "name": {
         "original_lang": "en",
         "original": "Housewife",
-        "latin": "Housewife"
+        "latin": "Housewife",
+        "translated": {
+          "ja": "主婦",
+          "ko": "주부"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -3683,7 +4163,11 @@
       "name": {
         "original_lang": "en",
         "original": "Executive",
-        "latin": "Executive"
+        "latin": "Executive",
+        "translated": {
+          "ja": "幹部",
+          "ko": "간부"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -3700,6 +4184,9 @@
           "en": [
             "High Official"
           ]
+        },
+        "translated": {
+          "ko": "고관"
         }
       },
       "first_appearance": {
@@ -3717,6 +4204,9 @@
           "en": [
             "The Employee"
           ]
+        },
+        "translated": {
+          "ko": "공원"
         }
       },
       "first_appearance": {
@@ -3729,7 +4219,11 @@
       "name": {
         "original_lang": "en",
         "original": "Worker",
-        "latin": "Worker"
+        "latin": "Worker",
+        "translated": {
+          "ja": "作業員",
+          "ko": "작업원"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -3746,6 +4240,9 @@
           "en": [
             "Soldier"
           ]
+        },
+        "translated": {
+          "ko": "병사"
         }
       },
       "first_appearance": {
@@ -3763,6 +4260,9 @@
           "en": [
             "Boy A"
           ]
+        },
+        "translated": {
+          "ko": "남자아이 A"
         }
       },
       "first_appearance": {
@@ -3780,6 +4280,9 @@
           "en": [
             "Engineer A"
           ]
+        },
+        "translated": {
+          "ko": "기사 A"
         }
       },
       "first_appearance": {
@@ -3797,6 +4300,9 @@
           "en": [
             "Soldier"
           ]
+        },
+        "translated": {
+          "ko": "군인"
         }
       },
       "first_appearance": {
@@ -3814,6 +4320,9 @@
           "en": [
             "Trader A"
           ]
+        },
+        "translated": {
+          "ko": "상인 A"
         }
       },
       "first_appearance": {
@@ -3831,6 +4340,9 @@
           "en": [
             "Employee"
           ]
+        },
+        "translated": {
+          "ko": "여성 직원 B"
         }
       },
       "first_appearance": {
@@ -3843,7 +4355,11 @@
       "name": {
         "original_lang": "en",
         "original": "Older Man",
-        "latin": "Older Man"
+        "latin": "Older Man",
+        "translated": {
+          "ja": "年配の男",
+          "ko": "중년 남자"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -3855,7 +4371,11 @@
       "name": {
         "original_lang": "en",
         "original": "Store Owner",
-        "latin": "Store Owner"
+        "latin": "Store Owner",
+        "translated": {
+          "ja": "店主",
+          "ko": "가게 주인"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -3872,6 +4392,9 @@
           "en": [
             "Cadreman"
           ]
+        },
+        "translated": {
+          "ko": "간부 A"
         }
       },
       "first_appearance": {
@@ -3889,6 +4412,9 @@
           "en": [
             "Military policeman C"
           ]
+        },
+        "translated": {
+          "ko": "헌병 C"
         }
       },
       "first_appearance": {
@@ -3906,6 +4432,9 @@
           "en": [
             "Briggs Soldier"
           ]
+        },
+        "translated": {
+          "ko": "브릭스 병사"
         }
       },
       "first_appearance": {
@@ -3923,6 +4452,9 @@
           "en": [
             "Commander of the Main Gate"
           ]
+        },
+        "translated": {
+          "ko": "정문 대장"
         }
       },
       "first_appearance": {
@@ -3940,6 +4472,9 @@
           "en": [
             "Briggs Soldier A"
           ]
+        },
+        "translated": {
+          "ko": "브릭스 병사 A"
         }
       },
       "first_appearance": {
@@ -3957,6 +4492,9 @@
           "en": [
             "Ishvalian A"
           ]
+        },
+        "translated": {
+          "ko": "이슈발 사람 A"
         }
       },
       "first_appearance": {
@@ -3974,6 +4512,9 @@
           "en": [
             "Ishvalian B"
           ]
+        },
+        "translated": {
+          "ko": "이슈발 사람 B"
         }
       },
       "first_appearance": {
@@ -3991,6 +4532,9 @@
           "en": [
             "Tank Officer"
           ]
+        },
+        "translated": {
+          "ko": "전차병"
         }
       },
       "first_appearance": {
@@ -4008,6 +4552,9 @@
           "en": [
             "Trader B"
           ]
+        },
+        "translated": {
+          "ko": "상인 B"
         }
       },
       "first_appearance": {
@@ -4025,6 +4572,9 @@
           "en": [
             "Central Soldier"
           ]
+        },
+        "translated": {
+          "ko": "중앙군 병사"
         }
       },
       "first_appearance": {
@@ -4042,6 +4592,9 @@
           "en": [
             "Ishvalan"
           ]
+        },
+        "translated": {
+          "ko": "이슈발 사람"
         }
       },
       "first_appearance": {
@@ -4059,6 +4612,9 @@
           "en": [
             "Owner"
           ]
+        },
+        "translated": {
+          "ko": "주인"
         }
       },
       "first_appearance": {
@@ -4076,6 +4632,9 @@
           "en": [
             "Engineer"
           ]
+        },
+        "translated": {
+          "ko": "기관사 A"
         }
       },
       "first_appearance": {
@@ -4093,6 +4652,9 @@
           "en": [
             "A Guard Soldier"
           ]
+        },
+        "translated": {
+          "ko": "경비병"
         }
       },
       "first_appearance": {
@@ -4110,6 +4672,9 @@
           "en": [
             "Ishvalian A"
           ]
+        },
+        "translated": {
+          "ko": "이슈발 사람 A"
         }
       },
       "first_appearance": {
@@ -4127,6 +4692,9 @@
           "en": [
             "Executive B"
           ]
+        },
+        "translated": {
+          "ko": "간부 B"
         }
       },
       "first_appearance": {
@@ -4144,6 +4712,9 @@
           "en": [
             "Master of Ceremonies"
           ]
+        },
+        "translated": {
+          "ko": "캐스터"
         }
       },
       "first_appearance": {
@@ -4161,6 +4732,9 @@
           "en": [
             "Military Policeman C"
           ]
+        },
+        "translated": {
+          "ko": "헌병 C"
         }
       },
       "first_appearance": {
@@ -4178,6 +4752,9 @@
           "en": [
             "Officer"
           ]
+        },
+        "translated": {
+          "ko": "사관"
         }
       },
       "first_appearance": {
@@ -4195,6 +4772,9 @@
           "en": [
             "Station Attendant"
           ]
+        },
+        "translated": {
+          "ko": "역무원"
         }
       },
       "first_appearance": {
@@ -4212,6 +4792,9 @@
           "en": [
             "Girl"
           ]
+        },
+        "translated": {
+          "ko": "소녀"
         }
       },
       "first_appearance": {
@@ -4229,6 +4812,9 @@
           "en": [
             "Woman"
           ]
+        },
+        "translated": {
+          "ko": "여자"
         }
       },
       "first_appearance": {
@@ -4246,6 +4832,9 @@
           "en": [
             "Commander"
           ]
+        },
+        "translated": {
+          "ko": "사령관"
         }
       },
       "first_appearance": {
@@ -4263,6 +4852,9 @@
           "en": [
             "Leader"
           ]
+        },
+        "translated": {
+          "ko": "리더"
         }
       },
       "first_appearance": {
@@ -4280,6 +4872,9 @@
           "en": [
             "Front Desk Clerk"
           ]
+        },
+        "translated": {
+          "ko": "접수원"
         }
       },
       "first_appearance": {
@@ -4292,7 +4887,11 @@
       "name": {
         "original_lang": "en",
         "original": "Briggs Soldier",
-        "latin": "Briggs Soldier"
+        "latin": "Briggs Soldier",
+        "translated": {
+          "ja": "ブリッグズ兵",
+          "ko": "브릭스 병사"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -4304,7 +4903,11 @@
       "name": {
         "original_lang": "en",
         "original": "Briggs Soldier B",
-        "latin": "Briggs Soldier B"
+        "latin": "Briggs Soldier B",
+        "translated": {
+          "ja": "ブリッグズ兵B",
+          "ko": "브릭스 병사 B"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -4321,6 +4924,9 @@
           "en": [
             "Central Soldier"
           ]
+        },
+        "translated": {
+          "ko": "중앙군 병사"
         }
       },
       "first_appearance": {
@@ -4333,7 +4939,11 @@
       "name": {
         "original_lang": "en",
         "original": "Farmer",
-        "latin": "Farmer"
+        "latin": "Farmer",
+        "translated": {
+          "ja": "農夫",
+          "ko": "농부"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -4345,7 +4955,11 @@
       "name": {
         "original_lang": "en",
         "original": "Ishvalian B",
-        "latin": "Ishvalian B"
+        "latin": "Ishvalian B",
+        "translated": {
+          "ja": "イシュヴァール人B",
+          "ko": "이슈발 사람 B"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -4357,7 +4971,11 @@
       "name": {
         "original_lang": "en",
         "original": "Man",
-        "latin": "Man"
+        "latin": "Man",
+        "translated": {
+          "ja": "男",
+          "ko": "남자"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -4369,7 +4987,11 @@
       "name": {
         "original_lang": "en",
         "original": "Military B",
-        "latin": "Military B"
+        "latin": "Military B",
+        "translated": {
+          "ja": "軍人B",
+          "ko": "군인 B"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -4381,7 +5003,11 @@
       "name": {
         "original_lang": "en",
         "original": "Military Personnel",
-        "latin": "Military Personnel"
+        "latin": "Military Personnel",
+        "translated": {
+          "ja": "軍人",
+          "ko": "군인"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -4393,7 +5019,11 @@
       "name": {
         "original_lang": "en",
         "original": "Military Policeman",
-        "latin": "Military Policeman"
+        "latin": "Military Policeman",
+        "translated": {
+          "ja": "憲兵",
+          "ko": "헌병"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -4405,7 +5035,11 @@
       "name": {
         "original_lang": "en",
         "original": "Military Policeman B",
-        "latin": "Military Policeman B"
+        "latin": "Military Policeman B",
+        "translated": {
+          "ja": "憲兵B",
+          "ko": "헌병 B"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -4417,7 +5051,11 @@
       "name": {
         "original_lang": "en",
         "original": "Military Policeman E",
-        "latin": "Military Policeman E"
+        "latin": "Military Policeman E",
+        "translated": {
+          "ja": "憲兵E",
+          "ko": "헌병 E"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -4429,7 +5067,11 @@
       "name": {
         "original_lang": "en",
         "original": "Officer",
-        "latin": "Officer"
+        "latin": "Officer",
+        "translated": {
+          "ja": "将校",
+          "ko": "장교"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -4441,7 +5083,11 @@
       "name": {
         "original_lang": "en",
         "original": "Order Member D",
-        "latin": "Order Member D"
+        "latin": "Order Member D",
+        "translated": {
+          "ja": "教団員D",
+          "ko": "교단원 D"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -4453,7 +5099,11 @@
       "name": {
         "original_lang": "en",
         "original": "Pilot",
-        "latin": "Pilot"
+        "latin": "Pilot",
+        "translated": {
+          "ja": "パイロット",
+          "ko": "파일럿"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -4465,7 +5115,11 @@
       "name": {
         "original_lang": "en",
         "original": "Post Officer",
-        "latin": "Post Officer"
+        "latin": "Post Officer",
+        "translated": {
+          "ja": "郵便局員",
+          "ko": "우체국 직원"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -4482,6 +5136,9 @@
           "en": [
             "Researcher"
           ]
+        },
+        "translated": {
+          "ko": "연구원"
         }
       },
       "first_appearance": {
@@ -4494,7 +5151,11 @@
       "name": {
         "original_lang": "en",
         "original": "Soldier A",
-        "latin": "Soldier A"
+        "latin": "Soldier A",
+        "translated": {
+          "ja": "兵士A",
+          "ko": "병사 A"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -4506,7 +5167,11 @@
       "name": {
         "original_lang": "en",
         "original": "Soldier B",
-        "latin": "Soldier B"
+        "latin": "Soldier B",
+        "translated": {
+          "ja": "兵士B",
+          "ko": "병사 B"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -4518,7 +5183,11 @@
       "name": {
         "original_lang": "en",
         "original": "Villager",
-        "latin": "Villager"
+        "latin": "Villager",
+        "translated": {
+          "ja": "村人",
+          "ko": "마을 사람"
+        }
       },
       "first_appearance": {
         "work": "fullmetal-alchemist-brotherhood"
@@ -4535,6 +5204,9 @@
           "en": [
             "Woman"
           ]
+        },
+        "translated": {
+          "ko": "여자"
         }
       },
       "first_appearance": {
@@ -4552,6 +5224,9 @@
           "en": [
             "Bose"
           ]
+        },
+        "translated": {
+          "ko": "보즈"
         }
       },
       "first_appearance": {
@@ -4568,6 +5243,9 @@
           "en": [
             "Buribi"
           ]
+        },
+        "translated": {
+          "ko": "프리피"
         }
       },
       "first_appearance": {
@@ -4584,6 +5262,9 @@
           "en": [
             "Briah"
           ]
+        },
+        "translated": {
+          "ko": "프리아"
         }
       },
       "first_appearance": {
@@ -4639,6 +5320,14 @@
       "publisher": "wikipedia",
       "tier": 2,
       "accessed_at": "2026-11-13"
+    },
+    {
+      "id": "s7",
+      "url": "https://en.wikipedia.org/wiki/List_of_Fullmetal_Alchemist_characters",
+      "title": "List of Fullmetal Alchemist characters - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-16"
     }
   ],
   "meta": {

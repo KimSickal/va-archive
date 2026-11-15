@@ -7,6 +7,9 @@
     "original_lang": "ja",
     "original": "HLB",
     "latin": "HLB",
+    "official": {
+      "en": "My Hero Academia: Hero League Baseball"
+    },
     "aliases": {
       "ja": [
         "ヒーローリーグベースボール"
@@ -14,6 +17,9 @@
       "en": [
         "Hero League Baseball"
       ]
+    },
+    "translated": {
+      "ko": "HLB"
     }
   },
   "order": 14,
@@ -242,6 +248,14 @@
       "publisher": "official",
       "tier": 1,
       "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s6",
+      "url": "https://animecorner.me/crunchyroll-to-stream-my-hero-academia-season-5-ovas-on-august-1/",
+      "title": "Crunchyroll to Stream My Hero Academia Season 5 OVAs on August 1",
+      "publisher": "news",
+      "tier": 2,
+      "accessed_at": "2026-11-16"
     }
   ],
   "meta": {

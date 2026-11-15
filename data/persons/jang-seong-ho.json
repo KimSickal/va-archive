@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "장성호",
-    "latin": "Jang Seong-ho"
+    "latin": "Jang Seong-ho",
+    "translated": {
+      "en": "Seong-ho Jang",
+      "ja": "チャン・ソンホ"
+    }
   },
   "gender": "male",
   "nationality": [

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이은조",
-    "latin": "Lee Eun-jo"
+    "latin": "Lee Eun-jo",
+    "translated": {
+      "en": "Eun-jo Lee",
+      "ja": "イ・ウンジョ"
+    }
   },
   "nationality": [
     "KR"

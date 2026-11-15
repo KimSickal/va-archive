@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이유리",
-    "latin": "Lee Yu-ri"
+    "latin": "Lee Yu-ri",
+    "translated": {
+      "en": "Yu-ri Lee",
+      "ja": "イ・ユリ"
+    }
   },
   "gender": "female",
   "nationality": [

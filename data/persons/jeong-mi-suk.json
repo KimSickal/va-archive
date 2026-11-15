@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "정미숙",
-    "latin": "Jung Mi-suk"
+    "latin": "Jung Mi-suk",
+    "translated": {
+      "en": "Mi-suk Jung",
+      "ja": "チョン・ミスク"
+    }
   },
   "nationality": [
     "KR"

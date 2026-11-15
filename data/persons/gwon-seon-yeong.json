@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "권선영",
-    "latin": "Kwon Seon-yeong"
+    "latin": "Kwon Seon-yeong",
+    "translated": {
+      "en": "Seon-yeong Kwon",
+      "ja": "クォン・ソニョン"
+    }
   },
   "sources": [
     {

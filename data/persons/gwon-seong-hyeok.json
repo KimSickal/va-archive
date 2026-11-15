@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "권성혁",
-    "latin": "Kwon Seong-hyeok"
+    "latin": "Kwon Seong-hyeok",
+    "translated": {
+      "en": "Seong-hyeok Kwon",
+      "ja": "クォン・ソンヒョク"
+    }
   },
   "sources": [
     {

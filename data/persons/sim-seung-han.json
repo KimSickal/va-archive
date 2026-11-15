@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "심승한",
-    "latin": "Shim Seung-han"
+    "latin": "Shim Seung-han",
+    "translated": {
+      "en": "Seung-han Shim",
+      "ja": "シム・スンハン"
+    }
   },
   "gender": "male",
   "nationality": [

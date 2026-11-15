@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "류점희",
-    "latin": "Ryu Jeom-hui"
+    "latin": "Ryu Jeom-hui",
+    "translated": {
+      "en": "Jeom-hui Ryu",
+      "ja": "リュ・ジョムヒ"
+    }
   },
   "gender": "female",
   "nationality": [

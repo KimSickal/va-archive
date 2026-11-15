@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이상호",
-    "latin": "Lee Sang-ho"
+    "latin": "Lee Sang-ho",
+    "translated": {
+      "en": "Sang-ho Lee",
+      "ja": "イ・サンホ"
+    }
   },
   "nationality": [
     "KR"

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이새아",
-    "latin": "Lee Sae-a"
+    "latin": "Lee Sae-a",
+    "translated": {
+      "en": "Sae-a Lee",
+      "ja": "イ・セア"
+    }
   },
   "nationality": [
     "KR"

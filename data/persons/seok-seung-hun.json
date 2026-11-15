@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "석승훈",
-    "latin": "Seok Seung-hun"
+    "latin": "Seok Seung-hun",
+    "translated": {
+      "en": "Seung-hun Seok",
+      "ja": "ソク・スンフン"
+    }
   },
   "nationality": [
     "KR"

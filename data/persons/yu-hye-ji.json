@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "유혜지",
-    "latin": "Yoo Hye-ji"
+    "latin": "Yoo Hye-ji",
+    "translated": {
+      "en": "Hye-ji Yoo",
+      "ja": "ユ・ヘジ"
+    }
   },
   "gender": "female",
   "nationality": [

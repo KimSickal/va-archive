@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "박성태",
-    "latin": "Park Seong-tae"
+    "latin": "Park Seong-tae",
+    "translated": {
+      "en": "Seong-tae Park",
+      "ja": "パク・ソンテ"
+    }
   },
   "nationality": [
     "KR"

@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "엄상현",
-    "latin": "Eom Sang-hyeon"
+    "latin": "Eom Sang-hyeon",
+    "translated": {
+      "en": "Sang-hyeon Eom",
+      "ja": "オム・サンヒョン"
+    }
   },
   "nationality": [
     "KR"

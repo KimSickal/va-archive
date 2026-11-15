@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이광수",
-    "latin": "Lee Gwang-su"
+    "latin": "Lee Gwang-su",
+    "translated": {
+      "en": "Gwang-su Lee",
+      "ja": "イ・グァンス"
+    }
   },
   "gender": "male",
   "nationality": [

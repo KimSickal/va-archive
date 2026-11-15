@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ja",
     "original": "ヤスヒロ",
-    "latin": "Yasuhiro"
+    "latin": "Yasuhiro",
+    "translated": {
+      "en": "Yasuhiro",
+      "ko": "야스히로"
+    }
   },
   "gender": "male",
   "nationality": [

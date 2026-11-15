@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "이계윤",
-    "latin": "Lee Gye-yun"
+    "latin": "Lee Gye-yun",
+    "translated": {
+      "en": "Gye-yun Lee",
+      "ja": "イ・ゲユン"
+    }
   },
   "sources": [
     {

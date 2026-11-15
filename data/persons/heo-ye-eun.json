@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "허예은",
-    "latin": "Heo Ye-eun"
+    "latin": "Heo Ye-eun",
+    "translated": {
+      "en": "Ye-eun Heo",
+      "ja": "ホ・イェウン"
+    }
   },
   "nationality": [
     "KR"

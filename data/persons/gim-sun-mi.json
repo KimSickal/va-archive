@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "김순미",
-    "latin": "Kim Sun-mi"
+    "latin": "Kim Sun-mi",
+    "translated": {
+      "en": "Sun-mi Kim",
+      "ja": "キム・スンミ"
+    }
   },
   "sources": [
     {

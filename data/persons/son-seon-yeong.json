@@ -5,7 +5,11 @@
   "name": {
     "original_lang": "ko",
     "original": "손선영",
-    "latin": "Son Seon-yeong"
+    "latin": "Son Seon-yeong",
+    "translated": {
+      "en": "Seon-yeong Son",
+      "ja": "ソン・ソニョン"
+    }
   },
   "nationality": [
     "KR"

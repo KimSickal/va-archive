@@ -4,7 +4,11 @@
   "slug": "yun-eun-seo",
   "name": {
     "original_lang": "ko",
-    "original": "윤은서"
+    "original": "윤은서",
+    "translated": {
+      "en": "Eun-seo Yoon",
+      "ja": "ユン・ウンソ"
+    }
   },
   "birth": "1992-07-24",
   "nationality": [
