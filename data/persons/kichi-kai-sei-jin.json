@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kichi-kai-sei-jin",
+  "slug": "kiyohito-yoshikai",
+  "name": {
+    "original_lang": "ja",
+    "original": "吉開清人",
+    "latin": "Kiyohito Yoshikai",
+    "aliases": {
+      "ja": [
+        "よしかいきよひと"
+      ]
+    },
+    "translated": {
+      "ko": "요시카이 키요히토",
+      "en": "Kiyohito Yoshikai"
+    }
+  },
+  "gender": "male",
+  "birth": "1978-09-10",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%90%89%E9%96%8B%E6%B8%85%E4%BA%BA"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%90%89%E9%96%8B%E6%B8%85%E4%BA%BA",
+      "title": "吉開清人 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=74985",
+      "title": "Kiyohito Yoshikai - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

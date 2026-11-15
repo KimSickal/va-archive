@@ -1,0 +1,2594 @@
+{
+  "$schema": "../schema/franchise.schema.json",
+  "id": "vigilante",
+  "title": {
+    "original_lang": "ja",
+    "original": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS-",
+    "latin": "Vigilante -Boku no Hero Academia ILLEGALS-",
+    "official": {
+      "ko": "비질랜티-나의 히어로 아카데미아 ILLEGALS-",
+      "en": "My Hero Academia: Vigilantes"
+    },
+    "aliases": {
+      "ja": [
+        "ヴィジランテ"
+      ],
+      "ko": [
+        "비질랜티 -나의 히어로 아카데미아 ILLEGALS-"
+      ]
+    }
+  },
+  "original_media": "manga",
+  "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/My_Hero_Academia%3A_Vigilantes"
+  },
+  "characters": [
+    {
+      "id": "kai-kai-kou-ichi",
+      "name": {
+        "original_lang": "ja",
+        "original": "灰廻航一",
+        "latin": "Koichi Haimawari",
+        "official": {
+          "en": "Koichi Haimawari"
+        },
+        "aliases": {
+          "ja": [
+            "はいまわりこういち",
+            "ザ・クロウラー",
+            "親切マン"
+          ]
+        },
+        "translated": {
+          "ko": "하이마와리 고이치"
+        }
+      },
+      "image": {
+        "url": "https://vigilante-anime.com/assets/img/character/main/chara_main1_1.png",
+        "page_url": "https://vigilante-anime.com/character/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会"
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "poppu-suteppu",
+      "name": {
+        "original_lang": "ja",
+        "original": "ポップ☆ステップ",
+        "latin": "Pop Step",
+        "official": {
+          "en": "Pop Step"
+        },
+        "aliases": {
+          "ja": [
+            "羽根山和歩",
+            "はねやまかずほ"
+          ]
+        },
+        "translated": {
+          "ko": "팝☆스텝"
+        }
+      },
+      "image": {
+        "url": "https://vigilante-anime.com/assets/img/character/main/chara_main2_1.png",
+        "page_url": "https://vigilante-anime.com/character/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会"
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "nakkurudasuta",
+      "name": {
+        "original_lang": "ja",
+        "original": "ナックルダスター",
+        "latin": "Knuckle Duster",
+        "official": {
+          "en": "Knuckle Duster"
+        },
+        "aliases": {
+          "ja": [
+            "雄黒巌",
+            "おぐろいわお"
+          ]
+        },
+        "translated": {
+          "ko": "너클더스터"
+        }
+      },
+      "image": {
+        "url": "https://vigilante-anime.com/assets/img/character/main/chara_main3_1.png",
+        "page_url": "https://vigilante-anime.com/character/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会"
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "chou-dai-shin",
+      "name": {
+        "original_lang": "ja",
+        "original": "塚内真",
+        "latin": "Makoto Tsukauchi",
+        "official": {
+          "en": "Makoto Tsukauchi"
+        },
+        "aliases": {
+          "ja": [
+            "つかうちまこと"
+          ]
+        },
+        "translated": {
+          "ko": "쓰카우치 마코토"
+        }
+      },
+      "image": {
+        "url": "https://vigilante-anime.com/assets/img/character/main/chara_main25_1.png",
+        "page_url": "https://vigilante-anime.com/character/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会"
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "nareshon",
+      "name": {
+        "original_lang": "ja",
+        "original": "ナレーション",
+        "translated": {
+          "ko": "내레이션",
+          "en": "Narration"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "tei-ki-sou-ga",
+      "name": {
+        "original_lang": "ja",
+        "original": "釘崎爪牙",
+        "latin": "Soga Kugizaki",
+        "official": {
+          "en": "Soga Kugizaki"
+        },
+        "aliases": {
+          "ja": [
+            "くぎざきそうが"
+          ]
+        },
+        "translated": {
+          "ko": "구기자키 소가"
+        }
+      },
+      "image": {
+        "url": "https://vigilante-anime.com/assets/img/character/main/chara_main9_1.png",
+        "page_url": "https://vigilante-anime.com/character/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会"
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "hou-shu-ga-kyuu-in",
+      "name": {
+        "original_lang": "ja",
+        "original": "蜂須賀九印",
+        "latin": "Kuin Hachisuka",
+        "official": {
+          "en": "Kuin Hachisuka"
+        },
+        "aliases": {
+          "ja": [
+            "はちすかくいん"
+          ]
+        },
+        "translated": {
+          "ko": "하치스카 구인"
+        }
+      },
+      "image": {
+        "url": "https://vigilante-anime.com/assets/img/character/main/chara_main11_1.png",
+        "page_url": "https://vigilante-anime.com/character/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会"
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "kyaputen-sereburiti",
+      "name": {
+        "original_lang": "ja",
+        "original": "キャプテン・セレブリティ",
+        "latin": "Captain Celebrity",
+        "official": {
+          "en": "Captain Celebrity"
+        },
+        "aliases": {
+          "ja": [
+            "クリストファー・スカイライン"
+          ]
+        },
+        "translated": {
+          "ko": "캡틴 셀러브리티"
+        }
+      },
+      "image": {
+        "url": "https://vigilante-anime.com/assets/img/character/main/chara_main27_1.png",
+        "page_url": "https://vigilante-anime.com/character/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会"
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "shi-min",
+      "name": {
+        "original_lang": "ja",
+        "original": "市民",
+        "translated": {
+          "ko": "시민",
+          "en": "Citizen"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "fan",
+      "name": {
+        "original_lang": "ja",
+        "original": "ファン",
+        "translated": {
+          "ko": "팬",
+          "en": "Fan"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "so-in",
+      "name": {
+        "original_lang": "ja",
+        "original": "組員",
+        "translated": {
+          "ko": "조직원",
+          "en": "Gang Member"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "rou-gan-juu-hei-ei",
+      "name": {
+        "original_lang": "ja",
+        "original": "浪丸十兵衛",
+        "latin": "Jube Namimaru",
+        "official": {
+          "en": "Jube Namimaru"
+        },
+        "aliases": {
+          "ja": [
+            "なみまるじゅうべえ"
+          ]
+        },
+        "translated": {
+          "ko": "나미마루 주베"
+        }
+      },
+      "image": {
+        "url": "https://vigilante-anime.com/assets/img/character/main/chara_main15_1.png",
+        "page_url": "https://vigilante-anime.com/character/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会"
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "female-student",
+      "name": {
+        "original_lang": "en",
+        "original": "Female Student",
+        "translated": {
+          "ja": "女子学生",
+          "ko": "여학생"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "bi-u",
+      "name": {
+        "original_lang": "ja",
+        "original": "美羽",
+        "latin": "Miu",
+        "official": {
+          "en": "Miu"
+        },
+        "aliases": {
+          "ja": [
+            "みう"
+          ]
+        },
+        "translated": {
+          "ko": "미우"
+        }
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "dansu-bu-in",
+      "name": {
+        "original_lang": "ja",
+        "original": "ダンス部員",
+        "translated": {
+          "ko": "댄스부원",
+          "en": "Dance Club Member"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "eniguma",
+      "name": {
+        "original_lang": "ja",
+        "original": "エニグマ",
+        "translated": {
+          "ko": "에니그마",
+          "en": "Enigma"
+        }
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "jo-kan-toku",
+      "name": {
+        "original_lang": "ja",
+        "original": "助監督",
+        "translated": {
+          "ko": "조감독",
+          "en": "Assistant Director"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "enpera-shi-ho",
+      "name": {
+        "original_lang": "ja",
+        "original": "エンペラー四浦",
+        "latin": "Emperor Yotsuura",
+        "official": {
+          "en": "Emperor Yotsuura"
+        },
+        "aliases": {
+          "ja": [
+            "えんぺらーよつうら"
+          ]
+        },
+        "translated": {
+          "ko": "엠퍼러 요쓰우라"
+        }
+      },
+      "image": {
+        "url": "https://vigilante-anime.com/assets/img/character/main/chara_main26_1.png",
+        "page_url": "https://vigilante-anime.com/character/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会"
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "kin-niku-shitsu-no-dan",
+      "name": {
+        "original_lang": "ja",
+        "original": "筋肉質の男",
+        "translated": {
+          "ko": "근육질 남자",
+          "en": "Muscular Man"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "chiagaru",
+      "name": {
+        "original_lang": "ja",
+        "original": "チアガール",
+        "translated": {
+          "ko": "치어걸",
+          "en": "Cheerleader"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "tottokoshisutazu",
+      "name": {
+        "original_lang": "ja",
+        "original": "とっとこシスターズ",
+        "translated": {
+          "ko": "돗토코 시스터즈",
+          "en": "Tottoko Sisters"
+        }
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "bo-shin",
+      "name": {
+        "original_lang": "ja",
+        "original": "母親",
+        "translated": {
+          "ko": "어머니",
+          "en": "Mother"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "hou-shu-ga-no-yuu-jin",
+      "name": {
+        "original_lang": "ja",
+        "original": "蜂須賀の友人",
+        "translated": {
+          "ko": "하치스카의 친구",
+          "en": "Hachisuka's Friend"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "uotchibado",
+      "name": {
+        "original_lang": "ja",
+        "original": "ウォッチバード",
+        "translated": {
+          "ko": "워치버드",
+          "en": "Watchbird"
+        }
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "kan-go-shi",
+      "name": {
+        "original_lang": "ja",
+        "original": "看護士",
+        "translated": {
+          "ko": "간호사",
+          "en": "Nurse"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "kyasuta",
+      "name": {
+        "original_lang": "ja",
+        "original": "キャスター",
+        "translated": {
+          "ko": "캐스터",
+          "en": "Newscaster"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "bus-guide",
+      "name": {
+        "original_lang": "en",
+        "original": "Bus Guide",
+        "translated": {
+          "ja": "バスガイド",
+          "ko": "버스 가이드"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "sa-kan-shin-ichi-moku",
+      "name": {
+        "original_lang": "ja",
+        "original": "佐間津一目",
+        "latin": "Ichimoku Samazu",
+        "official": {
+          "en": "Ichimoku Samazu"
+        },
+        "aliases": {
+          "ja": [
+            "さまづいちもく"
+          ]
+        },
+        "translated": {
+          "ko": "사마즈 이치모쿠"
+        }
+      },
+      "image": {
+        "url": "https://vigilante-anime.com/assets/img/character/main/chara_main14_1.png",
+        "page_url": "https://vigilante-anime.com/character/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会"
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "gan-kou-shou",
+      "name": {
+        "original_lang": "ja",
+        "original": "岩甲晶",
+        "latin": "Akira Iwako",
+        "official": {
+          "en": "Akira Iwako"
+        },
+        "aliases": {
+          "ja": [
+            "いわこうあきら"
+          ]
+        },
+        "translated": {
+          "ko": "이와코 아키라"
+        }
+      },
+      "image": {
+        "url": "https://vigilante-anime.com/assets/img/character/main/chara_main16_1.png",
+        "page_url": "https://vigilante-anime.com/character/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会"
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "shuu-ni",
+      "name": {
+        "original_lang": "ja",
+        "original": "宗二",
+        "translated": {
+          "ko": "소지",
+          "en": "Soji"
+        }
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "den-shou-ei-san",
+      "name": {
+        "original_lang": "ja",
+        "original": "田沼栄三",
+        "latin": "Eizo Tanuma",
+        "official": {
+          "en": "Eizo Tanuma"
+        },
+        "aliases": {
+          "ja": [
+            "たぬまえいぞう"
+          ]
+        },
+        "translated": {
+          "ko": "다누마 에이조"
+        }
+      },
+      "image": {
+        "url": "https://vigilante-anime.com/assets/img/character/main/chara_main20_1.png",
+        "page_url": "https://vigilante-anime.com/character/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会"
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "ya-sou-sen-batsu-jin",
+      "name": {
+        "original_lang": "ja",
+        "original": "夜早川跋人",
+        "latin": "Batto Yobayakawa",
+        "official": {
+          "en": "Batto Yobayakawa"
+        },
+        "aliases": {
+          "ja": [
+            "よばやかわばっと"
+          ]
+        },
+        "translated": {
+          "ko": "요바야카와 밧토"
+        }
+      },
+      "image": {
+        "url": "https://vigilante-anime.com/assets/img/character/main/chara_main23_1.png",
+        "page_url": "https://vigilante-anime.com/character/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会"
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "mad-hatter-akira",
+      "name": {
+        "original_lang": "ja",
+        "original": "MAD HATTERアキラ",
+        "translated": {
+          "ko": "MAD HATTER 아키라",
+          "en": "MAD HATTER Akira"
+        }
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "ren-chi-dou-jin",
+      "name": {
+        "original_lang": "ja",
+        "original": "鎌池桐仁",
+        "latin": "Kirihito Kamachi",
+        "official": {
+          "en": "Kirihito Kamachi"
+        },
+        "aliases": {
+          "ja": [
+            "かまちきりひと"
+          ]
+        },
+        "translated": {
+          "ko": "가마치 기리히토"
+        }
+      },
+      "image": {
+        "url": "https://vigilante-anime.com/assets/img/character/main/chara_main37_1.png",
+        "page_url": "https://vigilante-anime.com/character/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会"
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "professor",
+      "name": {
+        "original_lang": "en",
+        "original": "Professor",
+        "translated": {
+          "ja": "教授",
+          "ko": "교수"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "opereta",
+      "name": {
+        "original_lang": "ja",
+        "original": "オペレーター",
+        "translated": {
+          "ko": "오퍼레이터",
+          "en": "Operator"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "image-hero",
+      "name": {
+        "original_lang": "en",
+        "original": "Image Hero",
+        "translated": {
+          "ja": "イメージヒーロー",
+          "ko": "이미지 히어로"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "teacher",
+      "name": {
+        "original_lang": "en",
+        "original": "Teacher",
+        "translated": {
+          "ja": "教師",
+          "ko": "교사"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "yankee",
+      "name": {
+        "original_lang": "en",
+        "original": "Yankee",
+        "translated": {
+          "ja": "ヤンキー",
+          "ko": "양키"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "jo-sei-opereta",
+      "name": {
+        "original_lang": "ja",
+        "original": "女性オペレーター",
+        "translated": {
+          "ko": "여성 오퍼레이터",
+          "en": "Female Operator"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "tou-shi-nen",
+      "name": {
+        "original_lang": "ja",
+        "original": "灯市燃",
+        "latin": "Moyuru Tochi",
+        "official": {
+          "en": "Moyuru Tochi"
+        },
+        "aliases": {
+          "ja": [
+            "とうちもゆる"
+          ]
+        },
+        "translated": {
+          "ko": "도치 모유루"
+        }
+      },
+      "image": {
+        "url": "https://vigilante-anime.com/assets/img/character/main/chara_main12_1.png",
+        "page_url": "https://vigilante-anime.com/character/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会"
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "yaku-gan-chuu-ba",
+      "name": {
+        "original_lang": "ja",
+        "original": "薬丸忠馬",
+        "latin": "Chuma Yakumaru",
+        "official": {
+          "en": "Chuma Yakumaru"
+        },
+        "aliases": {
+          "ja": [
+            "やくまるちゅうま"
+          ]
+        },
+        "translated": {
+          "ko": "야쿠마루 주마"
+        }
+      },
+      "image": {
+        "url": "https://vigilante-anime.com/assets/img/character/main/chara_main22_1.png",
+        "page_url": "https://vigilante-anime.com/character/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会"
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "tafugurappu",
+      "name": {
+        "original_lang": "ja",
+        "original": "タフグラップ",
+        "translated": {
+          "ko": "터프그랩",
+          "en": "Toughgrap"
+        }
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "tv-kyasuta",
+      "name": {
+        "original_lang": "ja",
+        "original": "TVキャスター",
+        "translated": {
+          "ko": "TV 캐스터",
+          "en": "TV Newscaster"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "gyoku-sen-san-cha",
+      "name": {
+        "original_lang": "ja",
+        "original": "玉川三茶",
+        "latin": "Sansa Tamagawa",
+        "official": {
+          "en": "Sansa Tamagawa"
+        },
+        "aliases": {
+          "ja": [
+            "たまがわさんさ"
+          ]
+        },
+        "translated": {
+          "ko": "다마가와 산사"
+        }
+      },
+      "image": {
+        "url": "https://vigilante-anime.com/assets/img/character/main/chara_main18_1.png",
+        "page_url": "https://vigilante-anime.com/character/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会"
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "ban-taku-shou-sei",
+      "name": {
+        "original_lang": "ja",
+        "original": "鰻沢照生",
+        "latin": "Teruo Unagisawa",
+        "official": {
+          "en": "Teruo Unagisawa"
+        },
+        "aliases": {
+          "ja": [
+            "うなぎさわてるお"
+          ]
+        },
+        "translated": {
+          "ko": "우나기사와 데루오"
+        }
+      },
+      "image": {
+        "url": "https://vigilante-anime.com/assets/img/character/main/chara_main19_1.png",
+        "page_url": "https://vigilante-anime.com/character/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会"
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "tanuki-sha-chou",
+      "name": {
+        "original_lang": "ja",
+        "original": "タヌキ社長",
+        "translated": {
+          "ko": "너구리 사장",
+          "en": "President Tanuki"
+        }
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "kai-sha-in",
+      "name": {
+        "original_lang": "ja",
+        "original": "会社員",
+        "translated": {
+          "ko": "회사원",
+          "en": "Office Worker"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "mad-hatter-hiroto",
+      "name": {
+        "original_lang": "ja",
+        "original": "MAD HATTERヒロト",
+        "translated": {
+          "ko": "MAD HATTER 히로토",
+          "en": "MAD HATTER Hiroto"
+        }
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "sutaffu",
+      "name": {
+        "original_lang": "ja",
+        "original": "スタッフ",
+        "translated": {
+          "ko": "스태프",
+          "en": "Staff"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "kei-ji",
+      "name": {
+        "original_lang": "ja",
+        "original": "刑事",
+        "translated": {
+          "ko": "형사",
+          "en": "Detective"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "dansu-bu-bu-chou",
+      "name": {
+        "original_lang": "ja",
+        "original": "ダンス部部長",
+        "official": {
+          "en": "President of the East Naruhata High Dance Squad"
+        },
+        "aliases": {
+          "ja": [
+            "鳴羽田東高校ダンス部部長"
+          ]
+        },
+        "translated": {
+          "ko": "댄스부 부장"
+        }
+      },
+      "image": {
+        "url": "https://vigilante-anime.com/assets/img/character/main/chara_main31_1.png",
+        "page_url": "https://vigilante-anime.com/character/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会"
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "kai-kai-shou-shi",
+      "name": {
+        "original_lang": "ja",
+        "original": "灰廻掌子",
+        "latin": "Shoko Haimawari",
+        "official": {
+          "en": "Shoko Haimawari"
+        },
+        "aliases": {
+          "ja": [
+            "はいまわりしょうこ"
+          ]
+        },
+        "translated": {
+          "ko": "하이마와리 쇼코"
+        }
+      },
+      "image": {
+        "url": "https://vigilante-anime.com/assets/img/character/main/chara_main28_1.png",
+        "page_url": "https://vigilante-anime.com/character/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会"
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "byou-viran",
+      "name": {
+        "original_lang": "ja",
+        "original": "猫ヴィラン",
+        "translated": {
+          "ko": "고양이 빌런",
+          "en": "Cat Villain"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "nakkuruno-sai",
+      "name": {
+        "original_lang": "ja",
+        "original": "ナックルの妻",
+        "translated": {
+          "ko": "너클의 아내",
+          "en": "Knuckle's Wife"
+        }
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "en-ji",
+      "name": {
+        "original_lang": "ja",
+        "original": "園児",
+        "translated": {
+          "ko": "유치원생",
+          "en": "Kindergartener"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "shou-jo",
+      "name": {
+        "original_lang": "ja",
+        "original": "少女",
+        "translated": {
+          "ko": "소녀",
+          "en": "Girl"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "shitsu-fuu-do-tou-san-kei-tei",
+      "name": {
+        "original_lang": "ja",
+        "original": "疾風怒濤三兄弟",
+        "official": {
+          "en": "Three Sturm und Drang Brothers"
+        },
+        "aliases": {
+          "ja": [
+            "しっぷうどとうさんきょうだい"
+          ]
+        },
+        "translated": {
+          "ko": "질풍노도 삼형제"
+        }
+      },
+      "image": {
+        "url": "https://vigilante-anime.com/assets/img/character/main/chara_main21_1.png",
+        "page_url": "https://vigilante-anime.com/character/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会"
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "shu-fu",
+      "name": {
+        "original_lang": "ja",
+        "original": "主婦",
+        "translated": {
+          "ko": "주부",
+          "en": "Housewife"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "gaku-sei",
+      "name": {
+        "original_lang": "ja",
+        "original": "学生",
+        "translated": {
+          "ko": "학생",
+          "en": "Student"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "jo-shi-kou-sei",
+      "name": {
+        "original_lang": "ja",
+        "original": "女子高生",
+        "translated": {
+          "ko": "여고생",
+          "en": "High School Girl"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "driver",
+      "name": {
+        "original_lang": "en",
+        "original": "Driver",
+        "translated": {
+          "ja": "運転手",
+          "ko": "운전사"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "dolphin-villain",
+      "name": {
+        "original_lang": "en",
+        "original": "Dolphin Villain",
+        "translated": {
+          "ja": "イルカヴィラン",
+          "ko": "돌고래 빌런"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "yuu-u",
+      "name": {
+        "original_lang": "ja",
+        "original": "由羽",
+        "latin": "Yu",
+        "official": {
+          "en": "Yu"
+        },
+        "aliases": {
+          "ja": [
+            "ゆう"
+          ]
+        },
+        "translated": {
+          "ko": "유"
+        }
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "shin-no-dou-kyuu-sei",
+      "name": {
+        "original_lang": "ja",
+        "original": "真の同級生",
+        "translated": {
+          "ko": "마코토의 동급생",
+          "en": "Makoto's Classmate"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "basuno-un-ten-shu",
+      "name": {
+        "original_lang": "ja",
+        "original": "バスの運転手",
+        "translated": {
+          "ko": "버스 운전사",
+          "en": "Bus Driver"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "kyuu-shin-shin-ri-fu",
+      "name": {
+        "original_lang": "ja",
+        "original": "久々津真理夫",
+        "latin": "Mario Kugutsu",
+        "official": {
+          "en": "Mario Kugutsu"
+        },
+        "aliases": {
+          "ja": [
+            "くぐつまりお"
+          ]
+        },
+        "translated": {
+          "ko": "구구쓰 마리오"
+        }
+      },
+      "image": {
+        "url": "https://vigilante-anime.com/assets/img/character/main/chara_main17_1.png",
+        "page_url": "https://vigilante-anime.com/character/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会"
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "bei-chou-ro-ji-ya",
+      "name": {
+        "original_lang": "ja",
+        "original": "米長路次也",
+        "translated": {
+          "ko": "요네나가 로지야",
+          "en": "Rojiya Yonenaga"
+        }
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "shou-gan-no-dan",
+      "name": {
+        "original_lang": "ja",
+        "original": "傷顔の男",
+        "official": {
+          "en": "The Scarred Man"
+        },
+        "aliases": {
+          "ja": [
+            "きずがおのおとこ"
+          ]
+        },
+        "translated": {
+          "ko": "흉터 얼굴의 남자"
+        }
+      },
+      "image": {
+        "url": "https://vigilante-anime.com/assets/img/character/main/chara_main32_1.png",
+        "page_url": "https://vigilante-anime.com/character/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会"
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "dan-sei-opereta",
+      "name": {
+        "original_lang": "ja",
+        "original": "男性オペレーター",
+        "translated": {
+          "ko": "남성 오퍼레이터",
+          "en": "Male Operator"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "sen-hai",
+      "name": {
+        "original_lang": "ja",
+        "original": "先輩",
+        "translated": {
+          "ko": "선배",
+          "en": "Senior"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "tetsu",
+      "name": {
+        "original_lang": "ja",
+        "original": "鉄",
+        "translated": {
+          "ko": "데쓰",
+          "en": "Tetsu"
+        }
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "shun-kyuu",
+      "name": {
+        "original_lang": "ja",
+        "original": "春久",
+        "translated": {
+          "ko": "하루히사",
+          "en": "Haruhisa"
+        }
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "dj",
+      "name": {
+        "original_lang": "ja",
+        "original": "DJ",
+        "translated": {
+          "ko": "DJ",
+          "en": "DJ"
+        }
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "kou-ichi-no-fu",
+      "name": {
+        "original_lang": "ja",
+        "original": "航一の父",
+        "translated": {
+          "ko": "고이치의 아버지",
+          "en": "Koichi's Father"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "ryoku-shi",
+      "name": {
+        "original_lang": "ja",
+        "original": "力士",
+        "translated": {
+          "ko": "스모 선수",
+          "en": "Sumo Wrestler"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "otaku",
+      "name": {
+        "original_lang": "ja",
+        "original": "オタク",
+        "translated": {
+          "ko": "오타쿠",
+          "en": "Otaku"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "juu-nichi-ka-raputo",
+      "name": {
+        "original_lang": "ja",
+        "original": "十日夏ラプト",
+        "latin": "Rapt Tokage",
+        "official": {
+          "en": "Rapt Tokage"
+        },
+        "aliases": {
+          "ja": [
+            "とおかげらぷと"
+          ]
+        },
+        "translated": {
+          "ko": "도카게 랍토"
+        }
+      },
+      "image": {
+        "url": "https://vigilante-anime.com/assets/img/character/main/chara_main13_1.png",
+        "page_url": "https://vigilante-anime.com/character/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会"
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "kan-toku",
+      "name": {
+        "original_lang": "ja",
+        "original": "監督",
+        "translated": {
+          "ko": "감독",
+          "en": "Director"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "tan-hatsu-no-dan",
+      "name": {
+        "original_lang": "ja",
+        "original": "短髪の男",
+        "translated": {
+          "ko": "짧은 머리 남자",
+          "en": "Short-Haired Man"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "mad-hatter-rida",
+      "name": {
+        "original_lang": "ja",
+        "original": "MAD HATTERリーダー",
+        "official": {
+          "en": "Leader of the Mad Hatter"
+        },
+        "translated": {
+          "ko": "MAD HATTER 리더"
+        }
+      },
+      "image": {
+        "url": "https://vigilante-anime.com/assets/img/character/main/chara_main30_1.png",
+        "page_url": "https://vigilante-anime.com/character/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会"
+      },
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "kai-oku-fu-monika",
+      "name": {
+        "original_lang": "ja",
+        "original": "蟹屋敷モニカ",
+        "latin": "Monika Kaniyashiki",
+        "official": {
+          "en": "Monika Kaniyashiki"
+        },
+        "aliases": {
+          "ja": [
+            "かにやしきもにか"
+          ]
+        },
+        "translated": {
+          "ko": "가니야시키 모니카"
+        }
+      },
+      "image": {
+        "url": "https://vigilante-anime.com/assets/img/character/main/chara_main34_1.png",
+        "page_url": "https://vigilante-anime.com/character/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会"
+      },
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "hainesu-papuru",
+      "name": {
+        "original_lang": "ja",
+        "original": "ハイネス・パープル",
+        "official": {
+          "en": "His Purple Highness"
+        },
+        "translated": {
+          "ko": "하이네스 퍼플"
+        }
+      },
+      "image": {
+        "url": "https://vigilante-anime.com/assets/img/character/main/chara_main43_1.png",
+        "page_url": "https://vigilante-anime.com/character/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会"
+      },
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "bukkomihiro",
+      "name": {
+        "original_lang": "ja",
+        "original": "ぶっこみヒーロー",
+        "translated": {
+          "ko": "붓코미 히어로",
+          "en": "Bukkomi Hero"
+        }
+      },
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "dansu-bu-in-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "ダンス部員",
+        "translated": {
+          "ko": "댄스부원",
+          "en": "Dance Club Member"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "sen-sou-ji",
+      "name": {
+        "original_lang": "ja",
+        "original": "閃走寺",
+        "latin": "Sensoji",
+        "official": {
+          "en": "Sensoji"
+        },
+        "aliases": {
+          "ja": [
+            "せんそうじ"
+          ]
+        },
+        "translated": {
+          "ko": "센소지"
+        }
+      },
+      "image": {
+        "url": "https://vigilante-anime.com/assets/img/character/main/chara_main44_1.png",
+        "page_url": "https://vigilante-anime.com/character/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会"
+      },
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "sou-shu-taku-rin",
+      "name": {
+        "original_lang": "ja",
+        "original": "槍手沢リン",
+        "translated": {
+          "ko": "야리테자와 린",
+          "en": "Rin Yaritezawa"
+        }
+      },
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "kei-kan",
+      "name": {
+        "original_lang": "ja",
+        "original": "警官",
+        "translated": {
+          "ko": "경관",
+          "en": "Police Officer"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "ki-sha",
+      "name": {
+        "original_lang": "ja",
+        "original": "記者",
+        "translated": {
+          "ko": "기자",
+          "en": "Reporter"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "dan-sei-kyou-shi",
+      "name": {
+        "original_lang": "ja",
+        "original": "男性教師",
+        "translated": {
+          "ko": "남자 교사",
+          "en": "Male Teacher"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "kyou-shi",
+      "name": {
+        "original_lang": "ja",
+        "original": "教師",
+        "translated": {
+          "ko": "교사",
+          "en": "Teacher"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "shi-min-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "市民",
+        "translated": {
+          "ko": "시민",
+          "en": "Citizen"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "sarudo",
+      "name": {
+        "original_lang": "en",
+        "original": "Sarudo",
+        "translated": {
+          "ja": "サルド",
+          "ko": "사루도"
+        }
+      },
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "dan-shi-sei-to",
+      "name": {
+        "original_lang": "ja",
+        "original": "男子生徒",
+        "translated": {
+          "ko": "남학생",
+          "en": "Male Student"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "kuu-shu-bu-bu-in",
+      "name": {
+        "original_lang": "ja",
+        "original": "空手部 部員",
+        "translated": {
+          "ko": "가라테부 부원",
+          "en": "Karate Club Member"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "kutsu-den-ichi-rou",
+      "name": {
+        "original_lang": "ja",
+        "original": "堀田一郎",
+        "latin": "Ichiro Hotta",
+        "official": {
+          "en": "Ichiro Hotta"
+        },
+        "aliases": {
+          "ja": [
+            "ほったいちろう"
+          ]
+        },
+        "translated": {
+          "ko": "홋타 이치로"
+        }
+      },
+      "image": {
+        "url": "https://vigilante-anime.com/assets/img/character/main/chara_main35_1.png",
+        "page_url": "https://vigilante-anime.com/character/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会"
+      },
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "jo-sei-kyou-shi",
+      "name": {
+        "original_lang": "ja",
+        "original": "女性教師",
+        "translated": {
+          "ko": "여자 교사",
+          "en": "Female Teacher"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "retsu-sha-viran",
+      "name": {
+        "original_lang": "ja",
+        "original": "列車ヴィラン",
+        "translated": {
+          "ko": "열차 빌런",
+          "en": "Train Villain"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "ten-in",
+      "name": {
+        "original_lang": "ja",
+        "original": "店員",
+        "translated": {
+          "ko": "점원",
+          "en": "Clerk"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "saku-gyou-in",
+      "name": {
+        "original_lang": "ja",
+        "original": "作業員",
+        "translated": {
+          "ko": "작업원",
+          "en": "Worker"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "den-ko-bu-u-zoku-ji-rou",
+      "name": {
+        "original_lang": "ja",
+        "original": "田古部烏賊次郎",
+        "latin": "Ikajiro Takobe",
+        "official": {
+          "en": "Ikajiro Takobe"
+        },
+        "aliases": {
+          "ja": [
+            "たこべいかじろう",
+            "オクトイッド"
+          ]
+        },
+        "translated": {
+          "ko": "다코베 이카지로"
+        }
+      },
+      "image": {
+        "url": "https://vigilante-anime.com/assets/img/character/main/chara_main45_1.png",
+        "page_url": "https://vigilante-anime.com/character/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会"
+      },
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "rou-viran",
+      "name": {
+        "original_lang": "ja",
+        "original": "狼ヴィラン",
+        "translated": {
+          "ko": "늑대 빌런",
+          "en": "Wolf Villain"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "chiagaru-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "チアガール",
+        "translated": {
+          "ko": "치어걸",
+          "en": "Cheerleader"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "childcare-worker",
+      "name": {
+        "original_lang": "en",
+        "original": "Childcare Worker",
+        "translated": {
+          "ja": "保育士",
+          "ko": "보육교사"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "kou-kou-sei",
+      "name": {
+        "original_lang": "ja",
+        "original": "高校生",
+        "translated": {
+          "ko": "고등학생",
+          "en": "High School Student"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "en-viran",
+      "name": {
+        "original_lang": "ja",
+        "original": "煙ヴィラン",
+        "translated": {
+          "ko": "연기 빌런",
+          "en": "Smoke Villain"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "jo-shi-sei-to",
+      "name": {
+        "original_lang": "ja",
+        "original": "女子生徒",
+        "translated": {
+          "ko": "여학생",
+          "en": "Female Student"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "airport-announcement",
+      "name": {
+        "original_lang": "en",
+        "original": "Airport Announcement",
+        "translated": {
+          "ja": "空港アナウンス",
+          "ko": "공항 안내 방송"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "chinpira",
+      "name": {
+        "original_lang": "ja",
+        "original": "チンピラ",
+        "translated": {
+          "ko": "양아치",
+          "en": "Thug"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "juu-gyou-in",
+      "name": {
+        "original_lang": "ja",
+        "original": "従業員",
+        "translated": {
+          "ko": "종업원",
+          "en": "Employee"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "kyaku",
+      "name": {
+        "original_lang": "ja",
+        "original": "客",
+        "translated": {
+          "ko": "손님",
+          "en": "Customer"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "sai-dan",
+      "name": {
+        "original_lang": "ja",
+        "original": "サイ男",
+        "translated": {
+          "ko": "코뿔소 남자",
+          "en": "Rhino Man"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "you-shin-bou",
+      "name": {
+        "original_lang": "ja",
+        "original": "用心棒",
+        "translated": {
+          "ko": "경호원",
+          "en": "Bodyguard"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "anaunsa",
+      "name": {
+        "original_lang": "ja",
+        "original": "アナウンサー",
+        "translated": {
+          "ko": "아나운서",
+          "en": "Announcer"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "hina",
+      "name": {
+        "original_lang": "ja",
+        "original": "ヒナ",
+        "translated": {
+          "ko": "히나",
+          "en": "Hina"
+        }
+      },
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "dokuta",
+      "name": {
+        "original_lang": "ja",
+        "original": "ドクター",
+        "translated": {
+          "ko": "닥터",
+          "en": "Doctor"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "mad-hatter-daiki",
+      "name": {
+        "original_lang": "ja",
+        "original": "MAD HATTERダイキ",
+        "translated": {
+          "ko": "MAD HATTER 다이키",
+          "en": "MAD HATTER Daiki"
+        }
+      },
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "en-ji-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "園児",
+        "translated": {
+          "ko": "유치원생",
+          "en": "Kindergartener"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "mc",
+      "name": {
+        "original_lang": "en",
+        "original": "MC",
+        "translated": {
+          "ja": "司会",
+          "ko": "사회자"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "shou-jo-2",
+      "name": {
+        "original_lang": "ja",
+        "original": "少女",
+        "translated": {
+          "ko": "소녀",
+          "en": "Girl"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "kutsu-den-ni-rou",
+      "name": {
+        "original_lang": "ja",
+        "original": "堀田二郎",
+        "latin": "Jiro Hotta",
+        "official": {
+          "en": "Jiro Hotta"
+        },
+        "aliases": {
+          "ja": [
+            "ほったじろう"
+          ]
+        },
+        "translated": {
+          "ko": "홋타 지로"
+        }
+      },
+      "image": {
+        "url": "https://vigilante-anime.com/assets/img/character/main/chara_main36_1.png",
+        "page_url": "https://vigilante-anime.com/character/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会"
+      },
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "tan-nin",
+      "name": {
+        "original_lang": "ja",
+        "original": "担任",
+        "translated": {
+          "ko": "담임",
+          "en": "Homeroom Teacher"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "kani-dou-ka-ten-chou",
+      "name": {
+        "original_lang": "ja",
+        "original": "カニ道化店長",
+        "translated": {
+          "ko": "가니도케 점장",
+          "en": "Kanidouge Manager"
+        }
+      },
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "kei-bi-in",
+      "name": {
+        "original_lang": "ja",
+        "original": "警備員",
+        "translated": {
+          "ko": "경비원",
+          "en": "Security Guard"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "jo-gaku-sei",
+      "name": {
+        "original_lang": "ja",
+        "original": "女学生",
+        "translated": {
+          "ko": "여학생",
+          "en": "Schoolgirl"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "ten-shu",
+      "name": {
+        "original_lang": "ja",
+        "original": "店主",
+        "translated": {
+          "ko": "가게 주인",
+          "en": "Shopkeeper"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "pamera",
+      "name": {
+        "original_lang": "ja",
+        "original": "パメラ",
+        "latin": "Pamela",
+        "official": {
+          "en": "Pamela"
+        },
+        "aliases": {
+          "en": [
+            "Pamela Skyline"
+          ]
+        },
+        "translated": {
+          "ko": "파멜라"
+        }
+      },
+      "image": {
+        "url": "https://vigilante-anime.com/assets/img/character/main/chara_main46_1.png",
+        "page_url": "https://vigilante-anime.com/character/",
+        "source_ref": "s1",
+        "license": "official_promotional",
+        "credit": "© 古橋秀之・別天荒人・堀越耕平／集英社・ヴィジランテ製作委員会"
+      },
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "ji-mu-in",
+      "name": {
+        "original_lang": "ja",
+        "original": "事務員",
+        "translated": {
+          "ko": "사무원",
+          "en": "Office Clerk"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "uma-dan",
+      "name": {
+        "original_lang": "ja",
+        "original": "ウマ男",
+        "translated": {
+          "ko": "말 남자",
+          "en": "Horse Man"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "citizen",
+      "name": {
+        "original_lang": "en",
+        "original": "Citizen",
+        "translated": {
+          "ja": "市民",
+          "ko": "시민"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "fan-2",
+      "name": {
+        "original_lang": "en",
+        "original": "Fan",
+        "translated": {
+          "ja": "ファン",
+          "ko": "팬"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "yakuza-member",
+      "name": {
+        "original_lang": "en",
+        "original": "Yakuza Member",
+        "translated": {
+          "ja": "ヤクザの組員",
+          "ko": "야쿠자 조직원"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "dance-club-member",
+      "name": {
+        "original_lang": "en",
+        "original": "Dance Club Member",
+        "translated": {
+          "ja": "ダンス部員",
+          "ko": "댄스부원"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "operator",
+      "name": {
+        "original_lang": "en",
+        "original": "Operator",
+        "translated": {
+          "ja": "オペレーター",
+          "ko": "오퍼레이터"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "makoto-s-classmate",
+      "name": {
+        "original_lang": "en",
+        "original": "Makoto's Classmate",
+        "translated": {
+          "ja": "真の同級生",
+          "ko": "마코토의 동급생"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s1"
+      }
+    },
+    {
+      "id": "citizen-2",
+      "name": {
+        "original_lang": "en",
+        "original": "Citizen",
+        "translated": {
+          "ja": "市民",
+          "ko": "시민"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "dance-club-member-2",
+      "name": {
+        "original_lang": "en",
+        "original": "Dance Club Member",
+        "translated": {
+          "ja": "ダンス部員",
+          "ko": "댄스부원"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "cheerleader",
+      "name": {
+        "original_lang": "en",
+        "original": "Cheerleader",
+        "translated": {
+          "ja": "チアリーダー",
+          "ko": "치어리더"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "high-school-student",
+      "name": {
+        "original_lang": "en",
+        "original": "High School Student",
+        "translated": {
+          "ja": "高校生",
+          "ko": "고등학생"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    },
+    {
+      "id": "police-officer",
+      "name": {
+        "original_lang": "en",
+        "original": "Police Officer",
+        "translated": {
+          "ja": "警察官",
+          "ko": "경찰관"
+        }
+      },
+      "nameless": true,
+      "first_appearance": {
+        "work": "vigilante-s2"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://vigilante-anime.com/character/",
+      "title": "ヴィジランテ-僕のヒーローアカデミア ILLEGALS-｜テレビアニメ公式サイト",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E5%83%95%E3%81%AE%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%82%A2",
+      "title": "僕のヒーローアカデミア",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s3",
+      "url": "https://en.wikipedia.org/wiki/My_Hero_Academia%3A_Vigilantes",
+      "title": "My Hero Academia: Vigilantes",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  }
+}

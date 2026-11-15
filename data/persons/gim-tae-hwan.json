@@ -1,0 +1,38 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "gim-tae-hwan",
+  "slug": "gim-tae-hwan",
+  "name": {
+    "original_lang": "ko",
+    "original": "김태환",
+    "translated": {
+      "ja": "キム・テファン",
+      "en": "Gim Tae-hwan"
+    }
+  },
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1994-06-15",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%83%9C%ED%99%98_%28%EC%84%B1%EC%9A%B0%29"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%83%9C%ED%99%98_%28%EC%84%B1%EC%9A%B0%29",
+      "title": "김태환 (성우) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  }
+}

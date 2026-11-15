@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kou-boku-rei-shi",
+  "slug": "reiko-takagi",
+  "name": {
+    "original_lang": "ja",
+    "original": "高木礼子",
+    "latin": "Reiko Takagi",
+    "aliases": {
+      "ja": [
+        "たかぎれいこ"
+      ]
+    },
+    "translated": {
+      "ko": "타카기 레이코",
+      "en": "Reiko Takagi"
+    }
+  },
+  "gender": "female",
+  "birth": "1973-11-26",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%9C%A8%E7%A4%BC%E5%AD%90"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%9C%A8%E7%A4%BC%E5%AD%90",
+      "title": "高木礼子 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=389",
+      "title": "Reiko Takagi - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

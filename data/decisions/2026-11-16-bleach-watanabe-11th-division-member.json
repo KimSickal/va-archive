@@ -1,0 +1,29 @@
+{
+  "$schema": "../schema/decision.schema.json",
+  "id": "2026-11-16-bleach-watanabe-11th-division-member",
+  "date": "2026-11-16",
+  "kind": "field_value",
+  "subjects": [
+    {
+      "kind": "character",
+      "id": "bleach/11th-division-member-2"
+    },
+    {
+      "kind": "person",
+      "id": "to-hen-ei-yuu"
+    }
+  ],
+  "decision": "矛盾はない。渡辺英雄のクレジットは十一番隊隊員2（ANN）、十三番隊隊員、二組担当教官のすべてを残す。ANNだけが出典の十一番隊クレジットはunverifiedのまま",
+  "rationale": "渡辺英雄のja.wikipediaは「BLEACH（二組担当教官、十三番隊隊員 他）」と書いており、「他」があるので一覧は網羅的ではない。十一番隊の役を否定する出典はない",
+  "evidence": [
+    {
+      "url": "https://ja.wikipedia.org/wiki/渡辺英雄",
+      "tier": 2
+    },
+    {
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4240",
+      "tier": 2
+    }
+  ],
+  "decided_by": "mediator"
+}

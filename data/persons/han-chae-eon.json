@@ -1,0 +1,38 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "han-chae-eon",
+  "slug": "han-chae-eon",
+  "name": {
+    "original_lang": "ko",
+    "original": "한채언",
+    "translated": {
+      "ja": "ハン・チェオン",
+      "en": "Han Chae-eon"
+    }
+  },
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1974-11-08",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%B1%84%EC%96%B8"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%B1%84%EC%96%B8",
+      "title": "한채언 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  }
+}

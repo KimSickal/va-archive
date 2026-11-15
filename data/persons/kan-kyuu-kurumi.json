@@ -1,0 +1,49 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kan-kyuu-kurumi",
+  "slug": "kurumi-mamiya",
+  "name": {
+    "original_lang": "ja",
+    "original": "間宮くるみ",
+    "latin": "Kurumi Mamiya",
+    "aliases": {
+      "ja": [
+        "まみやくるみ"
+      ]
+    },
+    "translated": {
+      "ko": "마미야 쿠루미",
+      "en": "Kurumi Mamiya"
+    }
+  },
+  "gender": "female",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%96%93%E5%AE%AE%E3%81%8F%E3%82%8B%E3%81%BF"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%96%93%E5%AE%AE%E3%81%8F%E3%82%8B%E3%81%BF",
+      "title": "間宮くるみ - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=6843",
+      "title": "Kurumi Mamiya - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kei-ho-tai-fu",
+  "slug": "daisuke-kageura",
+  "name": {
+    "original_lang": "ja",
+    "original": "景浦大輔",
+    "latin": "Daisuke Kageura",
+    "aliases": {
+      "ja": [
+        "かげうらだいすけ"
+      ]
+    },
+    "translated": {
+      "ko": "카게우라 다이스케",
+      "en": "Daisuke Kageura"
+    }
+  },
+  "gender": "male",
+  "birth": "1981-05-11",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%99%AF%E6%B5%A6%E5%A4%A7%E8%BC%94"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%99%AF%E6%B5%A6%E5%A4%A7%E8%BC%94",
+      "title": "景浦大輔 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=85870",
+      "title": "Daisuke Kageura - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

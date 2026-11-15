@@ -1,0 +1,44 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shou-ryuu-gen-jin",
+  "slug": "jin-ogasawara",
+  "name": {
+    "original_lang": "ja",
+    "original": "小笠原仁",
+    "latin": "Jin Ogasawara",
+    "translated": {
+      "ko": "오가사와라 진",
+      "en": "Jin Ogasawara"
+    }
+  },
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%AC%A0%E5%8E%9F%E4%BB%81"
+  },
+  "birth": "1994-08-16",
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%AC%A0%E5%8E%9F%E4%BB%81",
+      "title": "小笠原仁 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=190896",
+      "title": "Jin Ogasawara - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

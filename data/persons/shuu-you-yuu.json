@@ -1,0 +1,49 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shuu-you-yuu",
+  "slug": "yu-akiba",
+  "name": {
+    "original_lang": "ja",
+    "original": "秋葉佑",
+    "latin": "Yu Akiba",
+    "aliases": {
+      "ja": [
+        "あきばゆう"
+      ]
+    },
+    "translated": {
+      "ko": "아키바 유",
+      "en": "Yu Akiba"
+    }
+  },
+  "gender": "male",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%A7%8B%E8%91%89%E4%BD%91"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A7%8B%E8%91%89%E4%BD%91",
+      "title": "秋葉佑 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=184540",
+      "title": "Yu Akiba - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

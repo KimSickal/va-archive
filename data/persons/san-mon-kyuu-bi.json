@@ -1,0 +1,44 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "san-mon-kyuu-bi",
+  "slug": "kumi-yamakado",
+  "name": {
+    "original_lang": "ja",
+    "original": "山門久美",
+    "latin": "Kumi Yamakado",
+    "aliases": {
+      "ja": [
+        "やまかどくみ"
+      ]
+    },
+    "translated": {
+      "ko": "야마카도 쿠미",
+      "en": "Kumi Yamakado"
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%96%80%E4%B9%85%E7%BE%8E"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%96%80%E4%B9%85%E7%BE%8E",
+      "title": "山門久美 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  }
+}

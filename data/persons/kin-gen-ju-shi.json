@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kin-gen-ju-shi",
+  "slug": "hisako-kanemoto",
+  "name": {
+    "original_lang": "ja",
+    "original": "金元寿子",
+    "latin": "Hisako Kanemoto",
+    "aliases": {
+      "ja": [
+        "かねもとひさこ"
+      ]
+    },
+    "translated": {
+      "ko": "카네모토 히사코",
+      "en": "Hisako Kanemoto"
+    }
+  },
+  "gender": "female",
+  "birth": "1987-12-16",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%87%91%E5%85%83%E5%AF%BF%E5%AD%90"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%91%E5%85%83%E5%AF%BF%E5%AD%90",
+      "title": "金元寿子 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=85826",
+      "title": "Hisako Kanemoto - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

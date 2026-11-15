@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kan-shou-kyuu-gi",
+  "slug": "hisayoshi-suganuma",
+  "name": {
+    "original_lang": "ja",
+    "original": "菅沼久義",
+    "latin": "Hisayoshi Suganuma",
+    "aliases": {
+      "ja": [
+        "すがぬまひさよし"
+      ]
+    },
+    "translated": {
+      "ko": "스가누마 히사요시",
+      "en": "Hisayoshi Suganuma"
+    }
+  },
+  "gender": "male",
+  "birth": "1978-09-30",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E8%8F%85%E6%B2%BC%E4%B9%85%E7%BE%A9"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8F%85%E6%B2%BC%E4%B9%85%E7%BE%A9",
+      "title": "菅沼久義 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=14385",
+      "title": "Hisayoshi Suganuma - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

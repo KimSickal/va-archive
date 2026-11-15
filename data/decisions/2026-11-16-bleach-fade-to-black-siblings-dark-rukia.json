@@ -1,0 +1,37 @@
+{
+  "$schema": "../schema/decision.schema.json",
+  "id": "2026-11-16-bleach-fade-to-black-siblings-dark-rukia",
+  "date": "2026-11-16",
+  "kind": "field_value",
+  "subjects": [
+    {
+      "kind": "character",
+      "id": "bleach/shi"
+    },
+    {
+      "kind": "character",
+      "id": "bleach/tei"
+    },
+    {
+      "kind": "character",
+      "id": "bleach/dakurukia"
+    }
+  ],
+  "decision": "姉は焔、弟は雫で、同じキャラクター（最後にルキアが名前を付ける）。ダークルキアは姉弟とルキアが融合した別の姿で、折笠富美子・平野綾・神谷浩史の3人が声を担当している。Fade to Blackのクレジットは正しいので変更しない。姉と弟にja aliases 焔・雫を追加し、latinの誤り（Young Sister/Young Brother）を削除した。HtS6のダークルキア平野綾の削除はそのまま（2008-12の映画で同じ声）",
+  "rationale": "劇場版のja.wikipediaは「ダークルキア 声 - 折笠富美子、平野綾、神谷浩史」と書き、名前を付ける場面も書いている。平野綾のページは「姉 / 焔」、神谷浩史のページは「弟 / 雫」と書いている",
+  "evidence": [
+    {
+      "url": "https://ja.wikipedia.org/wiki/劇場版BLEACH_Fade_to_Black_君の名を呼ぶ",
+      "tier": 2
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/平野綾",
+      "tier": 2
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/神谷浩史",
+      "tier": 2
+    }
+  ],
+  "decided_by": "mediator"
+}

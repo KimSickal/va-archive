@@ -1,0 +1,258 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "bleach-soul-carnival-1",
+  "franchise_id": "bleach",
+  "type": "game",
+  "title": {
+    "original_lang": "ja",
+    "original": "BLEACH 〜ソウル・カーニバル〜",
+    "aliases": {
+      "en": [
+        "Bleach: Soul Carnival"
+      ]
+    },
+    "translated": {
+      "ko": "블리치 소울 카니발"
+    }
+  },
+  "order": 115,
+  "status": "released",
+  "start_date": "2008-10-23",
+  "developers": [
+    {
+      "original_lang": "ja",
+      "original": "ラクジン",
+      "latin": "Racjin",
+      "official": {
+        "en": "Racjin"
+      }
+    }
+  ],
+  "platforms": [
+    "other"
+  ],
+  "publishers": [
+    {
+      "original_lang": "ja",
+      "original": "ソニー・コンピュータエンタテインメント",
+      "latin": "Sony Computer Entertainment",
+      "official": {
+        "en": "Sony Computer Entertainment"
+      }
+    }
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/BLEACH_%E3%80%9C%E3%82%BD%E3%82%A6%E3%83%AB%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%8B%E3%83%90%E3%83%AB%E3%80%9C"
+  },
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2008-10-23",
+      "credits": [],
+      "source_refs": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/BLEACH",
+      "title": "BLEACH",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/BLEACH_%E3%80%9C%E3%82%BD%E3%82%A6%E3%83%AB%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%8B%E3%83%90%E3%83%AB%E3%80%9C",
+      "title": "BLEACH 〜ソウル・カーニバル〜",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s3",
+      "url": "https://bleach.fandom.com/wiki/Bleach%3A_Soul_Carnival",
+      "title": "Bleach: Soul Carnival | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s4",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%89%E7%94%B0%E6%99%BA%E5%92%8C",
+      "title": "杉田智和",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s5",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8F%85%E7%94%9F%E9%9A%86%E4%B9%8B",
+      "title": "菅生隆之",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s6",
+      "url": "https://ja.wikipedia.org/wiki/%E8%AB%8F%E8%A8%AA%E9%83%A8%E9%A0%86%E4%B8%80",
+      "title": "諏訪部順一",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s7",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E7%94%B0%E6%88%90%E4%B8%80",
+      "title": "森田成一",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s8",
+      "url": "https://ja.wikipedia.org/wiki/%E6%8A%98%E7%AC%A0%E5%AF%8C%E7%BE%8E%E5%AD%90",
+      "title": "折笠富美子",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s9",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%89%E5%B1%B1%E7%B4%80%E5%BD%B0",
+      "title": "杉山紀彰",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s10",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%89%E5%85%83%E6%B4%8B%E8%B2%B4",
+      "title": "安元洋貴",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s11",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%86%E3%81%8D%E3%81%AE%E3%81%95%E3%81%A4%E3%81%8D",
+      "title": "ゆきのさつき",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s12",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%8E%E5%9D%82%E6%98%8C%E4%B9%9F",
+      "title": "小野坂昌也",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s13",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%9C%A8%E7%A4%BC%E5%AD%90",
+      "title": "高木礼子",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s14",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A1%9A%E7%94%B0%E6%AD%A3%E6%98%AD",
+      "title": "塚田正昭",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s15",
+      "url": "https://ja.wikipedia.org/wiki/%E7%BD%AE%E9%AE%8E%E9%BE%8D%E5%A4%AA%E9%83%8E",
+      "title": "置鮎龍太郎",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s16",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E5%81%A5%E5%A4%AA%E9%83%8E_%28%E5%A3%B0%E5%84%AA%29",
+      "title": "伊藤健太郎 (声優)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s17",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%B4%E7%92%90%E7%BE%8E",
+      "title": "朴璐美",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s18",
+      "url": "https://ja.wikipedia.org/wiki/%E7%AB%8B%E6%9C%A8%E6%96%87%E5%BD%A6",
+      "title": "立木文彦",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s19",
+      "url": "https://ja.wikipedia.org/wiki/%E9%80%9F%E6%B0%B4%E5%A5%A8",
+      "title": "速水奨",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s20",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9C%9F%E6%AE%BF%E5%85%89%E6%98%AD",
+      "title": "真殿光昭",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s21",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B5%AA%E5%B7%9D%E5%A4%A7%E8%BC%94",
+      "title": "浪川大輔",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s22",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%A5%88%E5%BB%B6%E5%B9%B4",
+      "title": "神奈延年",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  },
+  "cast_follows_anime": true
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sen-ya-shin-chou",
+  "slug": "masumi-asano",
+  "name": {
+    "original_lang": "ja",
+    "original": "浅野真澄",
+    "latin": "Masumi Asano",
+    "aliases": {
+      "ja": [
+        "あさのますみ"
+      ]
+    },
+    "translated": {
+      "ko": "아사노 마스미",
+      "en": "Masumi Asano"
+    }
+  },
+  "gender": "female",
+  "birth": "1977-08-25",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%B5%85%E9%87%8E%E7%9C%9F%E6%BE%84"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B5%85%E9%87%8E%E7%9C%9F%E6%BE%84",
+      "title": "浅野真澄",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "takahashi-chi-shuu",
+  "slug": "chiaki-takahashi",
+  "name": {
+    "original_lang": "ja",
+    "original": "たかはし智秋",
+    "latin": "Chiaki Takahashi",
+    "aliases": {
+      "ja": [
+        "たかはしちあき"
+      ]
+    },
+    "translated": {
+      "ko": "타카하시 치아키",
+      "en": "Chiaki Takahashi"
+    }
+  },
+  "gender": "female",
+  "birth": "1977-05-08",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E3%81%9F%E3%81%8B%E3%81%AF%E3%81%97%E6%99%BA%E7%A7%8B"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%9F%E3%81%8B%E3%81%AF%E3%81%97%E6%99%BA%E7%A7%8B",
+      "title": "たかはし智秋 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=7591",
+      "title": "Chiaki Takahashi - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

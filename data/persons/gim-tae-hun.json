@@ -1,0 +1,38 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "gim-tae-hun",
+  "slug": "gim-tae-hun",
+  "name": {
+    "original_lang": "ko",
+    "original": "김태훈",
+    "translated": {
+      "ja": "キム・テフン",
+      "en": "Gim Tae-hun"
+    }
+  },
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1946-05-01",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%83%9C%ED%9B%88_%28%EC%84%B1%EC%9A%B0%29"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%83%9C%ED%9B%88_%28%EC%84%B1%EC%9A%B0%29",
+      "title": "김태훈 (성우) - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  }
+}

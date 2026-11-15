@@ -1,0 +1,45 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shu-kan-kou-kou",
+  "slug": "mitsuhiro-sakamaki",
+  "name": {
+    "original_lang": "ja",
+    "original": "酒巻光宏",
+    "latin": "Mitsuhiro Sakamaki",
+    "aliases": {
+      "ja": [
+        "さかまきみつひろ"
+      ]
+    },
+    "translated": {
+      "ko": "사카마키 미츠히로",
+      "en": "Mitsuhiro Sakamaki"
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1983-06-08",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%85%92%E5%B7%BB%E5%85%89%E5%AE%8F"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%85%92%E5%B7%BB%E5%85%89%E5%AE%8F",
+      "title": "酒巻光宏 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "bleach-memories-in-the-rain",
+  "franchise_id": "bleach",
+  "type": "anime_ova",
+  "title": {
+    "original_lang": "ja",
+    "original": "BLEACH memories in the rain",
+    "latin": "BLEACH memories in the rain",
+    "translated": {
+      "ko": "블리치 memories in the rain",
+      "en": "Bleach: Memories in the Rain"
+    }
+  },
+  "order": 0.5,
+  "status": "finished",
+  "start_date": "2004-09-23",
+  "end_date": "2004-11-21",
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "studioぴえろ",
+      "latin": "studio Pierrot"
+    }
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "credits": [
+        {
+          "character": "koku-ki-ichi-go",
+          "person": "shin-den-sei-ichi",
+          "role": "main",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "sei-jou-shoku-ki",
+          "person": "shou-kou-yuu-ki",
+          "role": "main",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "kyuu-boku-rukia",
+          "person": "setsu-ryuu-fu-bi-shi",
+          "role": "main",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "gurandofissha",
+          "person": "cha-fuu-rin",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "koku-ki-ichi-shin",
+          "person": "shin-sen-chi-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "fu-chiku-juu-shi-rou",
+          "person": "shaku-sen-ei-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "koku-ki-ka-ri",
+          "person": "tei-kyuu-ri-kei",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "kon",
+          "person": "kyuu-ho-tai-jin",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s4"
+          ]
+        },
+        {
+          "character": "koku-ki-shin-shou",
+          "person": "tai-gen-sayaka",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "shou-sen-michiru",
+          "person": "shin-den-asami",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "yuu-taku-ryuu-ki",
+          "person": "ya-den-jun-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "koku-ki-yuu-shi",
+          "person": "rai-da-ho-bi",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        }
+      ],
+      "release_date": "2004-09-23"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5440",
+      "title": "Bleach: Memories in the Rain (OAV) - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3_%28BLEACH%29",
+      "title": "コン (BLEACH) - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s4",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B9%85%E4%BF%9D%E5%B8%AF%E4%BA%BA",
+      "title": "久保帯人 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

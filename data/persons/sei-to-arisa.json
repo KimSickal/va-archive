@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sei-to-arisa",
+  "slug": "arisa-kiyoto",
+  "name": {
+    "original_lang": "ja",
+    "original": "清都ありさ",
+    "latin": "Arisa Kiyoto",
+    "aliases": {
+      "ja": [
+        "きよとありさ"
+      ]
+    },
+    "translated": {
+      "ko": "키요토 아리사",
+      "en": "Arisa Kiyoto"
+    }
+  },
+  "gender": "female",
+  "birth": "1989-11-07",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%B8%85%E9%83%BD%E3%81%82%E3%82%8A%E3%81%95"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%85%E9%83%BD%E3%81%82%E3%82%8A%E3%81%95",
+      "title": "清都ありさ - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=118239",
+      "title": "Arisa Kiyoto - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ou-sei-tooru",
+  "slug": "toru-sakurai",
+  "name": {
+    "original_lang": "ja",
+    "original": "櫻井トオル",
+    "latin": "Toru Sakurai",
+    "aliases": {
+      "ja": [
+        "さくらいとおる"
+      ]
+    },
+    "translated": {
+      "ko": "사쿠라이 도루",
+      "en": "Toru Sakurai"
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1987-11-10",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%AB%BB%E4%BA%95%E3%83%88%E3%82%AA%E3%83%AB"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=269022",
+      "title": "Tōru SAKURAI - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AB%BB%E4%BA%95%E3%83%88%E3%82%AA%E3%83%AB",
+      "title": "櫻井トオル",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  }
+}

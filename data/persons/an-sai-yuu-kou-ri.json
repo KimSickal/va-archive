@@ -1,0 +1,49 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "an-sai-yuu-kou-ri",
+  "slug": "yukari-anzai",
+  "name": {
+    "original_lang": "ja",
+    "original": "安齋由香里",
+    "latin": "Yukari Anzai",
+    "aliases": {
+      "ja": [
+        "あんざいゆかり"
+      ]
+    },
+    "translated": {
+      "ko": "안자이 유카리",
+      "en": "Yukari Anzai"
+    }
+  },
+  "gender": "female",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%AE%89%E9%BD%8B%E7%94%B1%E9%A6%99%E9%87%8C"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%89%E9%BD%8B%E7%94%B1%E9%A6%99%E9%87%8C",
+      "title": "安齋由香里 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=134708",
+      "title": "Yukari Anzai - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

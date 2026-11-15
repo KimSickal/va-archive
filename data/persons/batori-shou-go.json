@@ -1,0 +1,42 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "batori-shou-go",
+  "slug": "shogo-batori",
+  "name": {
+    "original_lang": "ja",
+    "original": "バトリ勝悟",
+    "latin": "Shogo Batori",
+    "aliases": {
+      "ja": [
+        "ばとりしょうご"
+      ]
+    },
+    "translated": {
+      "ko": "바토리 쇼고",
+      "en": "Shogo Batori"
+    }
+  },
+  "gender": "male",
+  "birth": "1995-05-31",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%88%E3%83%AA%E5%8B%9D%E6%82%9F"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%88%E3%83%AA%E5%8B%9D%E6%82%9F",
+      "title": "バトリ勝悟",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  }
+}

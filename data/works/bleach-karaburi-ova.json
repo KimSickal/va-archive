@@ -1,0 +1,503 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "bleach-karaburi-ova",
+  "franchise_id": "bleach",
+  "type": "anime_ova",
+  "title": {
+    "original_lang": "ja",
+    "original": "BLEACH カラブリ！護廷十三屋台大作戦！",
+    "translated": {
+      "ko": "블리치 카라부리! 호정 13 포장마차 대작전!",
+      "en": "Bleach: Karaburi! The Gotei 13 Food Stall Operation!"
+    }
+  },
+  "order": 9.5,
+  "status": "finished",
+  "start_date": "2008-09-21",
+  "end_date": "2008-11-23",
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "studioぴえろ",
+      "latin": "studio Pierrot"
+    }
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2008-09-21",
+      "credits": [
+        {
+          "character": "koku-ki-ichi-go",
+          "person": "shin-den-sei-ichi",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "kon",
+          "person": "shin-ten-kou-shou",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "character": "i-sei-shichi-sho",
+          "person": "sei-ten-moku-jin-bi",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s4"
+          ]
+        },
+        {
+          "character": "a-san-sei-ren-ji",
+          "person": "i-tou-ken-ta-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s5"
+          ]
+        },
+        {
+          "character": "kyuu-boku-rukia",
+          "person": "setsu-ryuu-fu-bi-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s6"
+          ]
+        },
+        {
+          "character": "kyuu-boku-haku-sai",
+          "person": "chi-nen-ryuu-ta-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s7"
+          ]
+        },
+        {
+          "character": "san-hon-gen-ryuu-sai-chou-koku",
+          "person": "chou-den-sei-shou",
+          "role": "supporting",
+          "source_refs": [
+            "s8"
+          ]
+        },
+        {
+          "character": "han-moku-ichi-kaku",
+          "person": "kai-san-shuu-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s9"
+          ]
+        },
+        {
+          "character": "bou-no-ka-retsu",
+          "person": "kyuu-sen-ryou",
+          "role": "supporting",
+          "source_refs": [
+            "s10"
+          ]
+        },
+        {
+          "character": "ko-tetsu-yuu-on",
+          "person": "yukana",
+          "role": "supporting",
+          "source_refs": [
+            "s11"
+          ]
+        },
+        {
+          "character": "kichi-ryou-izuru",
+          "person": "ou-sei-kou-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s12"
+          ]
+        },
+        {
+          "character": "fu-chiku-juu-shi-rou",
+          "person": "shaku-sen-ei-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s13"
+          ]
+        },
+        {
+          "character": "netsu-nemu",
+          "person": "tei-kyuu-ri-kei",
+          "role": "supporting",
+          "source_refs": [
+            "s14"
+          ]
+        },
+        {
+          "character": "ko-tetsu-sei-on",
+          "person": "sei-son-chinami",
+          "role": "supporting",
+          "source_refs": [
+            "s15"
+          ]
+        },
+        {
+          "character": "netsu-mayuri",
+          "person": "chuu-bi-ryuu-sei",
+          "role": "supporting",
+          "source_refs": [
+            "s16"
+          ]
+        },
+        {
+          "character": "shou-hon-ran-kiku",
+          "person": "shou-koku-hi-sai",
+          "role": "supporting",
+          "source_refs": [
+            "s17"
+          ]
+        },
+        {
+          "character": "haku-son-sa-jin",
+          "person": "tou-den-tetsu",
+          "role": "supporting",
+          "source_refs": [
+            "s18"
+          ]
+        },
+        {
+          "character": "shou-chin-sen-ta-rou",
+          "person": "en-kin-kou-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s19"
+          ]
+        },
+        {
+          "character": "kai-sa-boku-shuu-hei",
+          "person": "shou-sei-koku-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s20"
+          ]
+        },
+        {
+          "character": "kyou-gaku-shun-sui",
+          "person": "tai-chou-mei-fu",
+          "role": "supporting",
+          "source_refs": [
+            "s21"
+          ]
+        },
+        {
+          "character": "sai-hou",
+          "person": "sen-jou-tomo-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s22"
+          ]
+        },
+        {
+          "character": "sha-jou-tetsu-sa-ei-mon",
+          "person": "sei-rin-ta-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s23"
+          ]
+        },
+        {
+          "character": "nichi-ban-koku-tou-shi-rou",
+          "person": "boku-ro-bi",
+          "role": "supporting",
+          "source_refs": [
+            "s24"
+          ]
+        },
+        {
+          "character": "sou-roku-yachiru",
+          "person": "bou-getsu-kyuu-dai",
+          "role": "supporting",
+          "source_refs": [
+            "s25"
+          ]
+        },
+        {
+          "character": "a-kin",
+          "person": "ou-den-kei-jin",
+          "role": "supporting",
+          "source_refs": [
+            "s26"
+          ]
+        },
+        {
+          "character": "suu-shin-tou",
+          "person": "sa-kyuu-kan-ku-bi",
+          "role": "supporting",
+          "source_refs": [
+            "s27"
+          ]
+        },
+        {
+          "character": "tai-zen-den-ki-sen-dai",
+          "person": "kashi-sei-sou-jin",
+          "role": "supporting",
+          "source_refs": [
+            "s28"
+          ]
+        }
+      ],
+      "source_refs": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/BLEACH_%28%E3%82%A2%E3%83%8B%E3%83%A1%29",
+      "title": "BLEACH (アニメ) - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E7%94%B0%E6%88%90%E4%B8%80",
+      "title": "森田成一 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9C%9F%E6%AE%BF%E5%85%89%E6%98%AD",
+      "title": "真殿光昭 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s4",
+      "url": "https://ja.wikipedia.org/wiki/%E7%94%9F%E5%A4%A9%E7%9B%AE%E4%BB%81%E7%BE%8E",
+      "title": "生天目仁美 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s5",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E5%81%A5%E5%A4%AA%E9%83%8E_%28%E5%A3%B0%E5%84%AA%29",
+      "title": "伊藤健太郎 (声優) - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s6",
+      "url": "https://ja.wikipedia.org/wiki/%E6%8A%98%E7%AC%A0%E5%AF%8C%E7%BE%8E%E5%AD%90",
+      "title": "折笠富美子 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s7",
+      "url": "https://ja.wikipedia.org/wiki/%E7%BD%AE%E9%AE%8E%E9%BE%8D%E5%A4%AA%E9%83%8E",
+      "title": "置鮎龍太郎 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s8",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A1%9A%E7%94%B0%E6%AD%A3%E6%98%AD",
+      "title": "塚田正昭 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s9",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AA%9C%E5%B1%B1%E4%BF%AE%E4%B9%8B",
+      "title": "檜山修之 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s10",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B9%85%E5%B7%9D%E7%B6%BE",
+      "title": "久川綾 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s11",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%86%E3%81%8B%E3%81%AA",
+      "title": "ゆかな - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s12",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AB%BB%E4%BA%95%E5%AD%9D%E5%AE%8F",
+      "title": "櫻井孝宏 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s13",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B7%9D%E8%8B%B1%E9%83%8E",
+      "title": "石川英郎 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s14",
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%98%E5%AE%AE%E7%90%86%E6%81%B5",
+      "title": "釘宮理恵 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s15",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%9D%91%E3%81%A1%E3%81%AA%E3%81%BF",
+      "title": "西村ちなみ - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s16",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B0%BE%E9%9A%86%E8%81%96",
+      "title": "中尾隆聖 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s17",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E8%B0%B7%E5%BD%BC%E5%93%89",
+      "title": "松谷彼哉 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s18",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A8%B2%E7%94%B0%E5%BE%B9",
+      "title": "稲田徹 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s19",
+      "url": "https://ja.wikipedia.org/wiki/%E9%81%A0%E8%BF%91%E5%AD%9D%E4%B8%80",
+      "title": "遠近孝一 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s20",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E8%A5%BF%E5%85%8B%E5%B9%B8",
+      "title": "小西克幸 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s21",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%A1%9A%E6%98%8E%E5%A4%AB",
+      "title": "大塚明夫 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s22",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E4%B8%8A%E3%81%A8%E3%82%82%E5%AD%90",
+      "title": "川上とも子 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s23",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%87%9C%E5%A4%AA%E6%9C%97",
+      "title": "西凜太朗 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s24",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%B4%E7%92%90%E7%BE%8E",
+      "title": "朴璐美 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s25",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%9B%E6%9C%88%E4%B9%85%E4%BB%A3",
+      "title": "望月久代 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s26",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A5%A5%E7%94%B0%E5%95%93%E4%BA%BA",
+      "title": "奥田啓人 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s27",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E4%B9%85%E9%96%93%E7%B4%85%E7%BE%8E",
+      "title": "佐久間紅美 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s28",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A8%AB%E4%BA%95%E7%AC%99%E4%BA%BA",
+      "title": "樫井笙人 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  }
+}

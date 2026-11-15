@@ -1,0 +1,49 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shin-shu-rei-rou",
+  "slug": "reo-tatsumori",
+  "name": {
+    "original_lang": "ja",
+    "original": "辰守伶郎",
+    "latin": "Reo Tatsumori",
+    "aliases": {
+      "ja": [
+        "たつもりれお"
+      ]
+    },
+    "translated": {
+      "ko": "타츠모리 레오",
+      "en": "Reo Tatsumori"
+    }
+  },
+  "gender": "male",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E8%BE%B0%E5%AE%88%E4%BC%B6%E9%83%8E"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E8%BE%B0%E5%AE%88%E4%BC%B6%E9%83%8E",
+      "title": "辰守伶郎 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=246314",
+      "title": "Reo Tatsumori - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "bleach-movie-fade-to-black",
+  "franchise_id": "bleach",
+  "type": "anime_movie",
+  "title": {
+    "original_lang": "ja",
+    "original": "劇場版BLEACH Fade to Black 君の名を呼ぶ",
+    "latin": "Gekijoban BLEACH Fade to Black Kimi no Na o Yobu",
+    "official": {
+      "en": "Bleach: Fade to Black"
+    },
+    "translated": {
+      "ko": "극장판 블리치 Fade to Black 너의 이름을 부른다"
+    }
+  },
+  "order": 10.5,
+  "status": "finished",
+  "start_date": "2008-12-13",
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "studioぴえろ",
+      "latin": "studio Pierrot"
+    }
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%8A%87%E5%A0%B4%E7%89%88BLEACH_Fade_to_Black_%E5%90%9B%E3%81%AE%E5%90%8D%E3%82%92%E5%91%BC%E3%81%B6"
+  },
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "credits": [
+        {
+          "character": "koku-ki-ichi-go",
+          "person": "shin-den-sei-ichi",
+          "role": "main",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "a-san-sei-ren-ji",
+          "person": "i-tou-ken-ta-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "kyuu-boku-rukia",
+          "person": "setsu-ryuu-fu-bi-shi",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "kyuu-boku-haku-sai",
+          "person": "chi-nen-ryuu-ta-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "jaku-bu-chou-ji-rou-chuu-soku",
+          "person": "san-kou-ta-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "dakurukia",
+          "person": "setsu-ryuu-fu-bi-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "dakurukia",
+          "person": "hei-ya-ryou",
+          "role": "supporting",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "dakurukia",
+          "person": "shin-koku-kou-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "san-hon-gen-ryuu-sai-chou-koku",
+          "person": "chou-den-sei-shou",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "san-den-ka-ta-rou",
+          "person": "kyuu-den-kou-ki",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "kyuu-boku-hi-shin",
+          "person": "setsu-ryuu-fu-bi-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "han-moku-ichi-kaku",
+          "person": "kai-san-shuu-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "fu-chiku-juu-shi-rou",
+          "person": "shaku-sen-ei-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "kou-boku-ken-hachi",
+          "person": "ritsu-boku-bun-gen",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "ho-gen-ki-jo",
+          "person": "san-boku-shin-ichi-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "kon",
+          "person": "shin-ten-kou-shou",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "kuchiki-elder",
+          "person": "hachi-na-ken-jou-ji",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "tai-zen-den-ki-sen-dai",
+          "person": "kashi-sei-sou-jin",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "netsu-mayuri",
+          "person": "chuu-bi-ryuu-sei",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "netsu-nemu",
+          "person": "tei-kyuu-ri-kei",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "shou-hon-ran-kiku",
+          "person": "shou-koku-hi-sai",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "bou-no-ka-retsu",
+          "person": "kyuu-sen-ryou",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "ko-fu-rin",
+          "person": "sei-boku-bi-han",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "haku-son-sa-jin",
+          "person": "tou-den-tetsu",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "kai-sa-boku-shuu-hei",
+          "person": "shou-sei-koku-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "kyou-gaku-shun-sui",
+          "person": "tai-chou-mei-fu",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "sai-hou",
+          "person": "sen-jou-tomo-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "sha-jou-tetsu-sa-ei-mon",
+          "person": "sei-rin-ta-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "nichi-ban-koku-tou-shi-rou",
+          "person": "boku-ro-bi",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "chuu-oku-u",
+          "person": "ka-oku-soku-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "sou-roku-yachiru",
+          "person": "bou-getsu-kyuu-dai",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "shi-fuu-in-ya-ichi",
+          "person": "yukinosatsuki",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "tei",
+          "person": "shin-koku-kou-shi",
+          "role": "main",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "shi",
+          "person": "hei-ya-ryou",
+          "role": "main",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "ryou-rai-sen-kyuu-shin",
+          "person": "fuku-san-jun",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "ja-bi-gan",
+          "person": "ko-taku-yuu",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        }
+      ],
+      "release_date": "2008-12-13"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8A%87%E5%A0%B4%E7%89%88BLEACH_Fade_to_Black_%E5%90%9B%E3%81%AE%E5%90%8D%E3%82%92%E5%91%BC%E3%81%B6",
+      "title": "劇場版BLEACH Fade to Black 君の名を呼ぶ - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10055",
+      "title": "Bleach the Movie: Fade to Black - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  },
+  "runtime_min": 94
+}

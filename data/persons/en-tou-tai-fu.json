@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "en-tou-tai-fu",
+  "slug": "daisuke-endo",
+  "name": {
+    "original_lang": "ja",
+    "original": "遠藤大輔",
+    "latin": "Daisuke Endo",
+    "aliases": {
+      "ja": [
+        "えんどうだいすけ"
+      ]
+    },
+    "translated": {
+      "ko": "엔도 다이스케",
+      "en": "Daisuke Endo"
+    }
+  },
+  "gender": "male",
+  "birth": "1979-11-26",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%81%A0%E8%97%A4%E5%A4%A7%E8%BC%94"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%81%A0%E8%97%A4%E5%A4%A7%E8%BC%94",
+      "title": "遠藤大輔 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=18094",
+      "title": "Daisuke Endo - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

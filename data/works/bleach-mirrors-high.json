@@ -1,0 +1,541 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "bleach-mirrors-high",
+  "franchise_id": "bleach",
+  "type": "game",
+  "title": {
+    "original_lang": "ja",
+    "original": "BLEACH Mirrors High",
+    "latin": "BLEACH Mirrors High",
+    "aliases": {
+      "ja": [
+        "ミラハイ"
+      ]
+    },
+    "translated": {
+      "ko": "블리치 Mirrors High",
+      "en": "BLEACH Mirrors High"
+    }
+  },
+  "order": 130,
+  "status": "live_service",
+  "start_date": "2026-10-28",
+  "platforms": [
+    "ios",
+    "android"
+  ],
+  "publishers": [
+    {
+      "original_lang": "ja",
+      "original": "バンダイナムコエンターテインメント",
+      "latin": "Bandai Namco Entertainment",
+      "official": {
+        "en": "Bandai Namco Entertainment"
+      }
+    }
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2026-10-28",
+      "credits": [
+        {
+          "character": "u-tou-shi-rin",
+          "person": "shou-rin-sen-kou",
+          "role": "main",
+          "source_refs": [
+            "s4",
+            "s8"
+          ]
+        },
+        {
+          "character": "ji-son-tasuku",
+          "person": "hou-den-tai-mu",
+          "role": "supporting",
+          "source_refs": [
+            "s5",
+            "s43"
+          ]
+        },
+        {
+          "character": "sa-mei-haku-dei",
+          "person": "shi-shutsu-kyuu-a",
+          "role": "main",
+          "source_refs": [
+            "s6",
+            "s8"
+          ]
+        },
+        {
+          "character": "gan-ji-bi-ju-ki",
+          "person": "tou-gen-ka-kai",
+          "role": "supporting",
+          "source_refs": [
+            "s7",
+            "s43"
+          ]
+        },
+        {
+          "character": "shu-rin-da-sei",
+          "person": "wa-sen-fuu-ka",
+          "role": "supporting",
+          "source_refs": [
+            "s9"
+          ]
+        },
+        {
+          "character": "han-tou-giro",
+          "person": "batori-shou-go",
+          "role": "supporting",
+          "source_refs": [
+            "s9"
+          ]
+        },
+        {
+          "character": "ji-tou-maiko",
+          "person": "shou-gen-yuu",
+          "role": "supporting",
+          "source_refs": [
+            "s9"
+          ]
+        },
+        {
+          "character": "ro-bu-hachi-ryuu-ta",
+          "person": "sa-tou-yuu-ga",
+          "role": "supporting",
+          "source_refs": [
+            "s43"
+          ]
+        },
+        {
+          "character": "sei-son-kuon",
+          "person": "gan-kou-wa-ka-na",
+          "role": "supporting",
+          "source_refs": [
+            "s43"
+          ]
+        },
+        {
+          "character": "ga-chi-gan-ibuki",
+          "person": "dai-den-shuu-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s43"
+          ]
+        },
+        {
+          "character": "zo-ha-chi-tai-kaku",
+          "person": "san-ka-taiki",
+          "role": "supporting",
+          "source_refs": [
+            "s43"
+          ]
+        },
+        {
+          "character": "gyuu-chou-ken",
+          "person": "kon-sei-bun-ya",
+          "role": "supporting",
+          "source_refs": [
+            "s43"
+          ]
+        },
+        {
+          "character": "shu-na-sou-kanu-ka",
+          "person": "haku-sa-sa-han",
+          "role": "supporting",
+          "source_refs": [
+            "s43"
+          ]
+        },
+        {
+          "character": "gin-za-sei-shi-rou",
+          "person": "kou-chou-chi-jin",
+          "role": "supporting",
+          "source_refs": [
+            "s43"
+          ]
+        },
+        {
+          "character": "jo-ei-sen",
+          "person": "you-san-shou-ta",
+          "role": "supporting",
+          "source_refs": [
+            "s43"
+          ]
+        }
+      ],
+      "source_refs": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/BLEACH",
+      "title": "BLEACH",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://bleach.fandom.com/wiki/BLEACH_Mirrors_High",
+      "title": "BLEACH Mirrors High | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B9%85%E4%BF%9D%E5%B8%AF%E4%BA%BA",
+      "title": "久保帯人",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s4",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9E%97%E5%8D%83%E6%99%83",
+      "title": "小林千晃",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s5",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B3%AF%E7%94%B0%E5%A4%A7%E5%A4%A2",
+      "title": "峯田大夢",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s6",
+      "url": "https://ja.wikipedia.org/wiki/%E6%8C%87%E5%87%BA%E6%AF%AC%E4%BA%9C",
+      "title": "指出毬亜",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s7",
+      "url": "https://ja.wikipedia.org/wiki/%E8%97%A4%E5%8E%9F%E5%A4%8F%E6%B5%B7",
+      "title": "藤原夏海",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s8",
+      "url": "https://www.famitsu.com/article/202610/91568",
+      "title": "『BLEACH Mirrors High』重大発表がある特別放送が10月27日19時より公開。小林千晃、指出毬亜、森田成一、折笠富美子が出演",
+      "publisher": "news",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s9",
+      "url": "https://www.gamer.ne.jp/news/202607180017/",
+      "title": "「BLEACH Mirrors High」久保帯人先生が手掛ける新人隊士の珠輪那生(CV:和泉風花)、半藤ギロ(CV:バトリ勝悟)、時島まいこ(CV:篠原侑)が公開!彼らの活躍が垣間見えるシステムトレーラーもチェック",
+      "publisher": "news",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s10",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B2%A1%E7%94%B1%E8%B2%B4",
+      "title": "松岡由貴",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s11",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%89%E5%85%83%E6%B4%8B%E8%B2%B4",
+      "title": "安元洋貴",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s12",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%89%E5%B1%B1%E7%B4%80%E5%BD%B0",
+      "title": "杉山紀彰",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s13",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E5%81%A5%E5%A4%AA%E9%83%8E_%28%E5%A3%B0%E5%84%AA%29",
+      "title": "伊藤健太郎",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s14",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%A1%9A%E6%98%8E%E5%A4%AB",
+      "title": "大塚明夫",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s15",
+      "url": "https://ja.wikipedia.org/wiki/%E7%94%9F%E5%A4%A9%E7%9B%AE%E4%BB%81%E7%BE%8E",
+      "title": "生天目仁美",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s16",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A1%91%E5%B3%B6%E6%B3%95%E5%AD%90",
+      "title": "桑島法子",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s17",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A8%AB%E4%BA%95%E7%AC%99%E4%BA%BA",
+      "title": "樫井笙人",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s18",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AB%BB%E4%BA%95%E5%AD%9D%E5%AE%8F",
+      "title": "櫻井孝宏",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s19",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%86%E3%81%8B%E3%81%AA",
+      "title": "ゆかな",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s20",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E7%94%B0%E5%B9%B8%E5%AD%A3",
+      "title": "宮田幸季",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s21",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%8E%E5%9D%82%E6%98%8C%E4%B9%9F",
+      "title": "小野坂昌也",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s22",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E4%B9%85%E9%96%93%E7%B4%85%E7%BE%8E",
+      "title": "佐久間紅美",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s23",
+      "url": "https://ja.wikipedia.org/wiki/置鮎龍太郎",
+      "title": "置鮎龍太郎",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s24",
+      "url": "https://ja.wikipedia.org/wiki/西凜太朗",
+      "title": "西凜太朗",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s25",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%A1%9A%E3%81%95%E3%82%88%E3%82%8A",
+      "title": "石塚さより",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s26",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%89%E7%94%B0%E6%99%BA%E5%92%8C",
+      "title": "杉田智和",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s27",
+      "url": "https://ja.wikipedia.org/wiki/小西克幸",
+      "title": "小西克幸",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s28",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A2%B6%E8%A3%95%E8%B2%B4",
+      "title": "梶裕貴",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s29",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%B4%E7%92%90%E7%BE%8E",
+      "title": "朴璐美",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s30",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E8%B0%B7%E5%BD%BC%E5%93%89",
+      "title": "松谷彼哉",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s31",
+      "url": "https://ja.wikipedia.org/wiki/%E7%AB%8B%E6%9C%A8%E6%96%87%E5%BD%A6",
+      "title": "立木文彦",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s32",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B0%BE%E9%9A%86%E8%81%96",
+      "title": "中尾隆聖",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s33",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AA%9C%E5%B1%B1%E4%BF%AE%E4%B9%8B",
+      "title": "檜山修之",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s34",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B1%B1%E6%BD%A4",
+      "title": "福山潤",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s35",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A5%A5%E7%94%B0%E5%95%93%E4%BA%BA",
+      "title": "奥田啓人",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s36",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E4%B8%8B%E5%A4%A7%E8%BC%9D",
+      "title": "山下大輝",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s37",
+      "url": "https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E9%BA%BB%E6%B2%99%E7%BE%8E",
+      "title": "瀬戸麻沙美",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s38",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E6%9C%A8%E7%9C%9E%E4%B8%80%E9%83%8E",
+      "title": "三木眞一郎",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s39",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%86%E3%81%8D%E3%81%AE%E3%81%95%E3%81%A4%E3%81%8D",
+      "title": "ゆきのさつき",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s40",
+      "url": "https://ja.wikipedia.org/wiki/%E9%80%9F%E6%B0%B4%E5%A5%A8",
+      "title": "速水奨",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s41",
+      "url": "https://ja.wikipedia.org/wiki/%E8%AB%8F%E8%A8%AA%E9%83%A8%E9%A0%86%E4%B8%80",
+      "title": "諏訪部順一",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s42",
+      "url": "https://ja.wikipedia.org/wiki/%E7%AB%B9%E9%81%94%E5%BD%A9%E5%A5%88",
+      "title": "竹達彩奈",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s43",
+      "url": "https://news.denfaminicogamer.jp/news/2610273c",
+      "title": "『BLEACH』新作スマホゲーム『BLEACH Mirrors High』久保帯人氏が手がける新人隊士10名が公開",
+      "publisher": "news",
+      "tier": 2,
+      "accessed_at": "2026-11-16"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  },
+  "cast_follows_anime": true
+}

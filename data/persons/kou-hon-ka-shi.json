@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kou-hon-ka-shi",
+  "slug": "yoshiko-okamoto",
+  "name": {
+    "original_lang": "ja",
+    "original": "岡本嘉子",
+    "latin": "Yoshiko Okamoto",
+    "aliases": {
+      "ja": [
+        "おかもとよしこ"
+      ]
+    },
+    "translated": {
+      "ko": "오카모토 요시코",
+      "en": "Yoshiko Okamoto"
+    }
+  },
+  "gender": "female",
+  "birth": "1956-07-04",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%B2%A1%E6%9C%AC%E5%98%89%E5%AD%90"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%A1%E6%9C%AC%E5%98%89%E5%AD%90",
+      "title": "岡本嘉子 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=3247",
+      "title": "Yoshiko Okamoto - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

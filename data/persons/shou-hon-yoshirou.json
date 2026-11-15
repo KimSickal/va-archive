@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shou-hon-yoshirou",
+  "slug": "yoshiro-matsumoto",
+  "name": {
+    "original_lang": "ja",
+    "original": "松本ヨシロウ",
+    "latin": "Yoshiro Matsumoto",
+    "aliases": {
+      "ja": [
+        "まつもとよしろう"
+      ]
+    },
+    "translated": {
+      "ko": "마츠모토 요시로",
+      "en": "Yoshiro Matsumoto"
+    }
+  },
+  "gender": "male",
+  "birth": "1972-12-05",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%9C%AC%E3%83%A8%E3%82%B7%E3%83%AD%E3%82%A6"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%9C%AC%E3%83%A8%E3%82%B7%E3%83%AD%E3%82%A6",
+      "title": "松本ヨシロウ - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=51332",
+      "title": "Yoshiro Matsumoto - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

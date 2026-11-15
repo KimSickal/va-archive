@@ -1,0 +1,43 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "san-ya-den-nuki",
+  "slug": "tanuki-sugino",
+  "name": {
+    "original_lang": "ja",
+    "original": "杉野田ぬき",
+    "latin": "Tanuki Sugino",
+    "aliases": {
+      "ja": [
+        "すぎのたぬき",
+        "杉野博臣"
+      ]
+    },
+    "translated": {
+      "ko": "스기노 타누키",
+      "en": "Tanuki Sugino"
+    }
+  },
+  "gender": "male",
+  "birth": "1964-08-26",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%9D%89%E9%87%8E%E7%94%B0%E3%81%AC%E3%81%8D"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%89%E9%87%8E%E7%94%B0%E3%81%AC%E3%81%8D",
+      "title": "杉野田ぬき - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-16"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-16",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.9.0"
+  }
+}

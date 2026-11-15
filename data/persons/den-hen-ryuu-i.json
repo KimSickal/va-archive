@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "den-hen-ryuu-i",
+  "slug": "rui-tanabe",
+  "name": {
+    "original_lang": "ja",
+    "original": "田辺留依",
+    "latin": "Rui Tanabe",
+    "aliases": {
+      "ja": [
+        "たなべるい"
+      ]
+    },
+    "translated": {
+      "ko": "타나베 루이",
+      "en": "Rui Tanabe"
+    }
+  },
+  "gender": "female",
+  "birth": "1997-05-23",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%94%B0%E8%BE%BA%E7%95%99%E4%BE%9D"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%94%B0%E8%BE%BA%E7%95%99%E4%BE%9D",
+      "title": "田辺留依 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=120615",
+      "title": "Rui Tanabe - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

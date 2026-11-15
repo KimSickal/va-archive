@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "mo-ryo-den-kaoru",
+  "slug": "kaoru-morota",
+  "name": {
+    "original_lang": "ja",
+    "original": "茂呂田かおる",
+    "latin": "Kaoru Morota",
+    "aliases": {
+      "ja": [
+        "もろたかおる"
+      ]
+    },
+    "translated": {
+      "ko": "모로타 카오루",
+      "en": "Kaoru Morota"
+    }
+  },
+  "gender": "female",
+  "birth": "1971-09-26",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E8%8C%82%E5%91%82%E7%94%B0%E3%81%8B%E3%81%8A%E3%82%8B"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8C%82%E5%91%82%E7%94%B0%E3%81%8B%E3%81%8A%E3%82%8B",
+      "title": "茂呂田かおる - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=5109",
+      "title": "Kaoru Morota - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

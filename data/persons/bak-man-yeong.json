@@ -1,0 +1,39 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "bak-man-yeong",
+  "slug": "bak-man-yeong",
+  "name": {
+    "original_lang": "ko",
+    "original": "박만영",
+    "translated": {
+      "ja": "パク・マンヨン",
+      "en": "Bak Man-yeong"
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1972-01-15",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EB%B0%95%EB%A7%8C%EC%98%81"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B0%95%EB%A7%8C%EC%98%81",
+      "title": "박만영 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  }
+}

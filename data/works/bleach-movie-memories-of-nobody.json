@@ -1,0 +1,408 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "bleach-movie-memories-of-nobody",
+  "franchise_id": "bleach",
+  "type": "anime_movie",
+  "title": {
+    "original_lang": "ja",
+    "original": "劇場版BLEACH MEMORIES OF NOBODY",
+    "latin": "Gekijoban BLEACH MEMORIES OF NOBODY",
+    "official": {
+      "ko": "극장판 블리치 : 메모리즈 오브 노바디",
+      "en": "Bleach: Memories of Nobody"
+    }
+  },
+  "order": 8.5,
+  "status": "finished",
+  "start_date": "2006-12-16",
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "studioぴえろ",
+      "latin": "studio Pierrot"
+    }
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%8A%87%E5%A0%B4%E7%89%88BLEACH_MEMORIES_OF_NOBODY"
+  },
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "credits": [
+        {
+          "character": "koku-ki-ichi-go",
+          "person": "shin-den-sei-ichi",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "sei-jou-shoku-ki",
+          "person": "shou-kou-yuu-ki",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "a-san-sei-ren-ji",
+          "person": "i-tou-ken-ta-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "kyuu-boku-rukia",
+          "person": "setsu-ryuu-fu-bi-shi",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "shaku-den-u-ryuu",
+          "person": "san-san-ki-shou",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "cha-to-tai-ko",
+          "person": "an-gen-you-ki",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "a-kin",
+          "person": "ou-den-kei-jin",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "baku",
+          "person": "ryou-den-sei-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "benin",
+          "person": "hon-den-ki-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "kyuu-boku-haku-sai",
+          "person": "chi-nen-ryuu-ta-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "dan-chou-an-den",
+          "person": "dan-chou-an-den",
+          "role": "supporting",
+          "credited_as": "団長",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "gen-ryuu",
+          "person": "kou-gen-sei-shi",
+          "role": "main",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "san-hon-gen-ryuu-sai-chou-koku",
+          "person": "chou-den-sei-shou",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "hiro",
+          "person": "hiro",
+          "role": "supporting",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "han-moku-ichi-kaku",
+          "person": "kai-san-shuu-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "koku-ki-ichi-shin",
+          "person": "shin-sen-chi-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "kichi-ryou-izuru",
+          "person": "ou-sei-kou-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "jai",
+          "person": "shou-hon-tai",
+          "role": "supporting",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "ka-gai-jin-ta",
+          "person": "hon-den-ki-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "fu-chiku-juu-shi-rou",
+          "person": "shaku-sen-ei-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "koku-ki-ka-ri",
+          "person": "tei-kyuu-ri-kei",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "kawaii-ten-in",
+          "person": "shin-ka-sen-ri",
+          "role": "supporting",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "kou-boku-ken-hachi",
+          "person": "ritsu-boku-bun-gen",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "ho-gen-ki-jo",
+          "person": "san-boku-shin-ichi-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "kon",
+          "person": "shin-ten-kou-shou",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "kurochan",
+          "person": "kurochan",
+          "role": "supporting",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "netsu-mayuri",
+          "person": "chuu-bi-ryuu-sei",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "shou-hon-ran-kiku",
+          "person": "shou-koku-hi-sai",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "ko-fu-rin",
+          "person": "sei-boku-bi-han",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "ryan",
+          "person": "shin-sen-chi-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "sen-da",
+          "person": "sai-tou-sen-wa",
+          "role": "main",
+          "source_refs": [
+            "s1"
+          ]
+        },
+        {
+          "character": "kai-sa-boku-shuu-hei",
+          "person": "shou-sei-koku-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "kyou-gaku-shun-sui",
+          "person": "tai-chou-mei-fu",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "sai-hou",
+          "person": "sen-jou-tomo-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "aku-ryou-tetsu-sai",
+          "person": "ryou-den-sei-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "sha-jou-tetsu-sa-ei-mon",
+          "person": "sei-rin-ta-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "nichi-ban-koku-tou-shi-rou",
+          "person": "boku-ro-bi",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "chuu-oku-u",
+          "person": "ka-oku-soku-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "sou-roku-yachiru",
+          "person": "bou-getsu-kyuu-dai",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "ryou-rai-sen-kyuu-shin",
+          "person": "fuku-san-jun",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        },
+        {
+          "character": "koku-ki-yuu-shi",
+          "person": "rai-da-ho-bi",
+          "role": "supporting",
+          "source_refs": [
+            "s2"
+          ]
+        }
+      ],
+      "release_date": "2006-12-16"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8A%87%E5%A0%B4%E7%89%88BLEACH_MEMORIES_OF_NOBODY",
+      "title": "劇場版BLEACH MEMORIES OF NOBODY - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6600",
+      "title": "Bleach the Movie: Memories of Nobody - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  },
+  "runtime_min": 93
+}

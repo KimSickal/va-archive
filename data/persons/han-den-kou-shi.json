@@ -1,0 +1,49 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "han-den-kou-shi",
+  "slug": "hiroshi-iida",
+  "name": {
+    "original_lang": "ja",
+    "original": "飯田浩志",
+    "latin": "Hiroshi Iida",
+    "aliases": {
+      "ja": [
+        "いいだひろし"
+      ]
+    },
+    "translated": {
+      "ko": "이이다 히로시",
+      "en": "Hiroshi Iida"
+    }
+  },
+  "birth": "1976-11-06",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%A3%AF%E7%94%B0%E6%B5%A9%E5%BF%97"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%A3%AF%E7%94%B0%E6%B5%A9%E5%BF%97",
+      "title": "飯田浩志 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=10861",
+      "title": "Hiroshi Iida - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

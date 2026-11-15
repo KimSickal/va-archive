@@ -1,0 +1,311 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "bleach-versus-crusade",
+  "franchise_id": "bleach",
+  "type": "game",
+  "title": {
+    "original_lang": "ja",
+    "original": "BLEACH バーサス・クルセイド",
+    "aliases": {
+      "en": [
+        "Bleach: Versus Crusade"
+      ]
+    },
+    "translated": {
+      "ko": "블리치 버서스 크루세이드"
+    }
+  },
+  "order": 116,
+  "status": "released",
+  "start_date": "2008-12-18",
+  "developers": [
+    {
+      "original_lang": "ja",
+      "original": "トレジャー",
+      "latin": "Treasure",
+      "official": {
+        "en": "Treasure"
+      }
+    }
+  ],
+  "platforms": [
+    "other"
+  ],
+  "publishers": [
+    {
+      "original_lang": "ja",
+      "original": "セガ",
+      "latin": "Sega",
+      "official": {
+        "en": "Sega"
+      }
+    }
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2008-12-18",
+      "credits": [],
+      "source_refs": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/BLEACH",
+      "title": "BLEACH",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://bleach.fandom.com/wiki/Bleach%3A_Versus_Crusade",
+      "title": "Bleach: Versus Crusade | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%86%E3%81%8D%E3%81%AE%E3%81%95%E3%81%A4%E3%81%8D",
+      "title": "ゆきのさつき",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s4",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E5%81%A5%E5%A4%AA%E9%83%8E_%28%E5%A3%B0%E5%84%AA%29",
+      "title": "伊藤健太郎 (声優)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s5",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A1%9A%E7%94%B0%E6%AD%A3%E6%98%AD",
+      "title": "塚田正昭",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s6",
+      "url": "https://ja.wikipedia.org/wiki/%E6%88%90%E7%94%B0%E5%89%A3",
+      "title": "成田剣",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s7",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E8%B0%B7%E5%BD%BC%E5%93%89",
+      "title": "松谷彼哉",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s8",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E7%94%B0%E6%88%90%E4%B8%80",
+      "title": "森田成一",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s9",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A5%A0%E5%A4%A7%E5%85%B8",
+      "title": "楠大典",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s10",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B5%AA%E5%B7%9D%E5%A4%A7%E8%BC%94",
+      "title": "浪川大輔",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s11",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%A5%88%E5%BB%B6%E5%B9%B4",
+      "title": "神奈延年",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s12",
+      "url": "https://ja.wikipedia.org/wiki/%E7%AB%8B%E6%9C%A8%E6%96%87%E5%BD%A6",
+      "title": "立木文彦",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s13",
+      "url": "https://ja.wikipedia.org/wiki/%E7%BD%AE%E9%AE%8E%E9%BE%8D%E5%A4%AA%E9%83%8E",
+      "title": "置鮎龍太郎",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s14",
+      "url": "https://ja.wikipedia.org/wiki/%E8%AB%8F%E8%A8%AA%E9%83%A8%E9%A0%86%E4%B8%80",
+      "title": "諏訪部順一",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s15",
+      "url": "https://ja.wikipedia.org/wiki/%E9%81%8A%E4%BD%90%E6%B5%A9%E4%BA%8C",
+      "title": "遊佐浩二",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s16",
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%91%E7%94%B0%E6%9C%8B%E5%AD%90",
+      "title": "金田朋子",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s17",
+      "url": "https://ja.wikipedia.org/wiki/%E9%96%A2%E4%BF%8A%E5%BD%A6",
+      "title": "関俊彦",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s18",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AA%9C%E5%B1%B1%E4%BF%AE%E4%B9%8B",
+      "title": "檜山修之",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s19",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%B8%E5%B0%BE%E3%81%A0%E3%81%84%E3%81%99%E3%81%91",
+      "title": "岸尾だいすけ",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s20",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B0%BE%E9%9A%86%E8%81%96",
+      "title": "中尾隆聖",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s21",
+      "url": "https://ja.wikipedia.org/wiki/%E6%8A%98%E7%AC%A0%E5%AF%8C%E7%BE%8E%E5%AD%90",
+      "title": "折笠富美子",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s22",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%8E%E5%9D%82%E6%98%8C%E4%B9%9F",
+      "title": "小野坂昌也",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s23",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A0%80%E5%86%85%E8%B3%A2%E9%9B%84",
+      "title": "堀内賢雄",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s24",
+      "url": "https://ja.wikipedia.org/wiki/%E9%80%9F%E6%B0%B4%E5%A5%A8",
+      "title": "速水奨",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s25",
+      "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E6%B5%B7%E6%B5%A9%E8%BC%94",
+      "title": "鳥海浩輔",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s26",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%B4%E7%92%90%E7%BE%8E",
+      "title": "朴璐美",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s27",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%89%E5%B1%B1%E7%B4%80%E5%BD%B0",
+      "title": "杉山紀彰",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s28",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B9%83%E6%9D%91%E5%81%A5%E6%AC%A1",
+      "title": "乃村健次",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s29",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%89%E5%85%83%E6%B4%8B%E8%B2%B4",
+      "title": "安元洋貴",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  },
+  "cast_follows_anime": true
+}

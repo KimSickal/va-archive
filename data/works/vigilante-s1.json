@@ -1,0 +1,1950 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "vigilante-s1",
+  "franchise_id": "vigilante",
+  "type": "anime_tv",
+  "title": {
+    "original_lang": "ja",
+    "original": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS-（第1期）",
+    "latin": "Vigilante -Boku no Hero Academia ILLEGALS- (Dai 1-ki)",
+    "official": {
+      "en": "My Hero Academia: Vigilantes",
+      "ko": "비질랜티-나의 히어로 아카데미아 ILLEGALS-"
+    },
+    "aliases": {
+      "ja": [
+        "ヴィジランテ -僕のヒーローアカデミア ILLEGALS-"
+      ],
+      "ko": [
+        "비질랜티 -나의 히어로 아카데미아 ILLEGALS-"
+      ]
+    }
+  },
+  "order": 1,
+  "status": "finished",
+  "start_date": "2025-04-07",
+  "end_date": "2025-06-30",
+  "episodes": 13,
+  "runtime_min": 23,
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "ボンズフィルム",
+      "latin": "Bones Film",
+      "official": {
+        "en": "Bones Film"
+      }
+    }
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2025-04-07",
+      "last_release_date": "2025-06-30",
+      "credits": [
+        {
+          "character": "kai-kai-kou-ichi",
+          "person": "bai-den-shuu-ichi-rou",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s3",
+            "s5"
+          ]
+        },
+        {
+          "character": "poppu-suteppu",
+          "person": "chou-koku-sen-iku-bi",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s3",
+            "s6"
+          ]
+        },
+        {
+          "character": "nakkurudasuta",
+          "person": "kan-kyuu-kou-kou",
+          "role": "main",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s3",
+            "s7"
+          ]
+        },
+        {
+          "character": "my-hero-academia/middonaito",
+          "person": "to-hen-mei-dai",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s3",
+            "s8"
+          ]
+        },
+        {
+          "character": "chou-dai-shin",
+          "person": "rai-ko-ma-sa-bi",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s3",
+            "s9"
+          ]
+        },
+        {
+          "character": "my-hero-academia/purezento-maiku",
+          "person": "kichi-ya-yuu-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s3",
+            "s10"
+          ]
+        },
+        {
+          "character": "nareshon",
+          "person": "kichi-ya-yuu-kou",
+          "role": "minor",
+          "source_refs": [
+            "s10"
+          ]
+        },
+        {
+          "character": "my-hero-academia/shou-taku-shou-ta",
+          "person": "shu-hou-bu-jun-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s3",
+            "s11"
+          ]
+        },
+        {
+          "character": "my-hero-academia/orumaito",
+          "person": "san-taku-ken-ta",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s3",
+            "s12"
+          ]
+        },
+        {
+          "character": "tei-ki-sou-ga",
+          "person": "chou-kai-kou-fu",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s13"
+          ]
+        },
+        {
+          "character": "my-hero-academia/han-den-ten-sei",
+          "person": "hoku-den-ri-dou",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s3",
+            "s14"
+          ]
+        },
+        {
+          "character": "hou-shu-ga-kyuu-in",
+          "person": "sen-hon-boku-sai-ka",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s15"
+          ]
+        },
+        {
+          "character": "my-hero-academia/chou-dai-choku-sei",
+          "person": "sen-tou-toku-ai",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s3",
+            "s16"
+          ]
+        },
+        {
+          "character": "kyaputen-sereburiti",
+          "person": "shin-sen-chi-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s17"
+          ]
+        },
+        {
+          "character": "my-hero-academia/oru-fo-wan",
+          "person": "tai-chou-mei-fu",
+          "role": "minor",
+          "note": {
+            "original_lang": "ja",
+            "original": "「謎の男」名義",
+            "translations": {
+              "ko": "'수수께끼의 남자' 명의",
+              "en": "Credited as \"Mysterious Man\""
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1",
+            "s18"
+          ]
+        },
+        {
+          "character": "citizen",
+          "person": "toku-ei-akira",
+          "role": "minor",
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "fan-2",
+          "person": "toku-ei-akira",
+          "role": "minor",
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "yakuza-member",
+          "person": "toku-ei-akira",
+          "role": "minor",
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "rou-gan-juu-hei-ei",
+          "person": "shou-kyou-ri",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s19"
+          ]
+        },
+        {
+          "character": "female-student",
+          "person": "kou-hon-sai-ka",
+          "role": "minor",
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "bi-u",
+          "person": "chiku-tatsu-sai-na",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s20"
+          ]
+        },
+        {
+          "character": "shi-min",
+          "person": "kin-kyuu-ho-mu",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s21"
+          ]
+        },
+        {
+          "character": "fan",
+          "person": "kin-kyuu-ho-mu",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s21"
+          ]
+        },
+        {
+          "character": "dansu-bu-in",
+          "person": "kin-kyuu-ho-mu",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s21"
+          ]
+        },
+        {
+          "character": "eniguma",
+          "person": "ki-azusa",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s22"
+          ]
+        },
+        {
+          "character": "my-hero-academia/ryoku-koku-shutsu-kyuu",
+          "person": "san-ka-tai-ki",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s23"
+          ]
+        },
+        {
+          "character": "jo-kan-toku",
+          "person": "shaku-koku-shi-gou",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s24"
+          ]
+        },
+        {
+          "character": "enpera-shi-ho",
+          "person": "shaku-koku-shi-gou",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "kin-niku-shitsu-no-dan",
+          "person": "shaku-koku-shi-gou",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s24"
+          ]
+        },
+        {
+          "character": "my-hero-academia/sutein",
+          "person": "sei-jou-gou",
+          "role": "supporting",
+          "note": {
+            "original_lang": "ja",
+            "original": "「スタンダール」名義",
+            "translations": {
+              "ko": "'스탕달' 명의",
+              "en": "Credited as \"Stendhal\""
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1",
+            "s2",
+            "s25"
+          ]
+        },
+        {
+          "character": "chiagaru",
+          "person": "ka-moku-hi-sai",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s26"
+          ]
+        },
+        {
+          "character": "tottokoshisutazu",
+          "person": "ka-moku-hi-sai",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s26"
+          ]
+        },
+        {
+          "character": "bo-shin",
+          "person": "kou-kyou-suu-shi",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s27"
+          ]
+        },
+        {
+          "character": "hou-shu-ga-no-yuu-jin",
+          "person": "kou-kyou-suu-shi",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s27"
+          ]
+        },
+        {
+          "character": "uotchibado",
+          "person": "kou-kyou-suu-shi",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s27"
+          ]
+        },
+        {
+          "character": "kan-go-shi",
+          "person": "kou-kyou-suu-shi",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s27"
+          ]
+        },
+        {
+          "character": "kyasuta",
+          "person": "kou-kyou-suu-shi",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s27"
+          ]
+        },
+        {
+          "character": "bus-guide",
+          "person": "kou-kyou-suu-shi",
+          "role": "minor",
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "dance-club-member",
+          "person": "kou-kyou-suu-shi",
+          "role": "minor",
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "sa-kan-shin-ichi-moku",
+          "person": "ou-den-kan-shou",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s28"
+          ]
+        },
+        {
+          "character": "gan-kou-shou",
+          "person": "shou-jou-yuu-tsuu",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s29"
+          ]
+        },
+        {
+          "character": "shuu-ni",
+          "person": "kou-tou-kou-sai",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s30"
+          ]
+        },
+        {
+          "character": "den-shou-ei-san",
+          "person": "kou-sen-ou-sei",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s31"
+          ]
+        },
+        {
+          "character": "ya-sou-sen-batsu-jin",
+          "person": "kyuu-hon-shun",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s32"
+          ]
+        },
+        {
+          "character": "mad-hatter-akira",
+          "person": "kou-sei-katsunori",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s33"
+          ]
+        },
+        {
+          "character": "ren-chi-dou-jin",
+          "person": "chou-ki-ichi-han",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "character": "professor",
+          "person": "chou-ki-ichi-han",
+          "role": "minor",
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "opereta",
+          "person": "san-boku-ichi-shin",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s34"
+          ]
+        },
+        {
+          "character": "citizen",
+          "person": "seki-san-ichi-shin",
+          "role": "minor",
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "image-hero",
+          "person": "seki-san-ichi-shin",
+          "role": "minor",
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "teacher",
+          "person": "seki-san-ichi-shin",
+          "role": "minor",
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "yankee",
+          "person": "seki-san-ichi-shin",
+          "role": "minor",
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "jo-sei-opereta",
+          "person": "ka-son-kei",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s35"
+          ]
+        },
+        {
+          "character": "opereta",
+          "person": "ka-son-kei",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s35"
+          ]
+        },
+        {
+          "character": "tou-shi-nen",
+          "person": "hei-sei-kei-ni",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s36"
+          ]
+        },
+        {
+          "character": "yaku-gan-chuu-ba",
+          "person": "tsuji-sei-ken-go",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s37"
+          ]
+        },
+        {
+          "character": "tafugurappu",
+          "person": "tsuji-sei-ken-go",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s37"
+          ]
+        },
+        {
+          "character": "tv-kyasuta",
+          "person": "kou-ya-ken-ta-rou",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s38"
+          ]
+        },
+        {
+          "character": "gyoku-sen-san-cha",
+          "person": "ko-tou-sei-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s39"
+          ]
+        },
+        {
+          "character": "ban-taku-shou-sei",
+          "person": "shin-boku-kou-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s40"
+          ]
+        },
+        {
+          "character": "tanuki-sha-chou",
+          "person": "go-tou-kou-yuu",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s41"
+          ]
+        },
+        {
+          "character": "shi-min",
+          "person": "san-ki-shin-ka",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s42"
+          ]
+        },
+        {
+          "character": "tottokoshisutazu",
+          "person": "chou-jou-maria",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s43"
+          ]
+        },
+        {
+          "character": "shi-min",
+          "person": "chuu-sei-sei-ju",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s44"
+          ]
+        },
+        {
+          "character": "kai-sha-in",
+          "person": "chuu-sei-sei-ju",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s44"
+          ]
+        },
+        {
+          "character": "shi-min",
+          "person": "san-san-yuu-to",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s45"
+          ]
+        },
+        {
+          "character": "so-in",
+          "person": "san-san-yuu-to",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s45"
+          ]
+        },
+        {
+          "character": "mad-hatter-hiroto",
+          "person": "san-san-yuu-to",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s45"
+          ]
+        },
+        {
+          "character": "sutaffu",
+          "person": "san-san-yuu-to",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s45"
+          ]
+        },
+        {
+          "character": "opereta",
+          "person": "san-san-yuu-to",
+          "role": "minor",
+          "source_refs": [
+            "s45"
+          ]
+        },
+        {
+          "character": "kei-ji",
+          "person": "fuku-sei-shou-ya",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s46"
+          ]
+        },
+        {
+          "character": "dansu-bu-bu-chou",
+          "person": "den-taku-matsu-shun",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s47"
+          ]
+        },
+        {
+          "character": "nareshon",
+          "person": "makkusuueru-pawazu",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s48"
+          ]
+        },
+        {
+          "character": "kai-kai-shou-shi",
+          "person": "kou-den-kei",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s49"
+          ]
+        },
+        {
+          "character": "byou-viran",
+          "person": "ka-koku-bi-ki",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s50"
+          ]
+        },
+        {
+          "character": "nakkuruno-sai",
+          "person": "bu-u-bi-kai",
+          "role": "minor",
+          "note": {
+            "original_lang": "ja",
+            "original": "「珠緒の母」名義でも出演",
+            "translations": {
+              "ko": "'타마오의 어머니' 명의로도 출연",
+              "en": "Also credited as \"Tamao's mother\""
+            },
+            "translated": [
+              "ko",
+              "en"
+            ]
+          },
+          "source_refs": [
+            "s1",
+            "s51"
+          ]
+        },
+        {
+          "character": "fan",
+          "person": "shaku-sei-mi-sa",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s52"
+          ]
+        },
+        {
+          "character": "shi-min",
+          "person": "shuu-san-jitsu-shou",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s53"
+          ]
+        },
+        {
+          "character": "en-ji",
+          "person": "shuu-san-jitsu-shou",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s53"
+          ]
+        },
+        {
+          "character": "shou-jo",
+          "person": "shuu-san-jitsu-shou",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s53"
+          ]
+        },
+        {
+          "character": "shitsu-fuu-do-tou-san-kei-tei",
+          "person": "kanuka-kou-mei",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s54"
+          ]
+        },
+        {
+          "character": "shu-fu",
+          "person": "gan-san-naomi",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s55"
+          ]
+        },
+        {
+          "character": "gaku-sei",
+          "person": "kyuu-rai-shou-ya",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s56"
+          ]
+        },
+        {
+          "character": "chiagaru",
+          "person": "boku-ka-ran",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s57"
+          ]
+        },
+        {
+          "character": "shi-min",
+          "person": "sui-ki-rin",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s58"
+          ]
+        },
+        {
+          "character": "jo-shi-kou-sei",
+          "person": "sui-ki-rin",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s58"
+          ]
+        },
+        {
+          "character": "dansu-bu-in",
+          "person": "sui-ki-rin",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s58"
+          ]
+        },
+        {
+          "character": "tottokoshisutazu",
+          "person": "nichi-kou-ri-sai",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s59"
+          ]
+        },
+        {
+          "character": "driver",
+          "person": "chou-koku-sen-roku",
+          "role": "minor",
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "operator",
+          "person": "chou-koku-sen-roku",
+          "role": "minor",
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "dolphin-villain",
+          "person": "kitsu-dai-ryou-hei",
+          "role": "minor",
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "fan-2",
+          "person": "kitsu-dai-ryou-hei",
+          "role": "minor",
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "shi-min",
+          "person": "taku-den-ryuu-ichi",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s60"
+          ]
+        },
+        {
+          "character": "kan-go-shi",
+          "person": "en-tou-saki",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s61"
+          ]
+        },
+        {
+          "character": "shitsu-fuu-do-tou-san-kei-tei",
+          "person": "itousatoru",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s62"
+          ]
+        },
+        {
+          "character": "citizen",
+          "person": "i-tou-sayo-shi",
+          "role": "minor",
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "yuu-u",
+          "person": "rei-dai-sa-kyuu",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s63"
+          ]
+        },
+        {
+          "character": "my-hero-academia/gi-ran",
+          "person": "teki-ya-sei-rou",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s64"
+          ]
+        },
+        {
+          "character": "gaku-sei",
+          "person": "kou-shou-kin-kou",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s65"
+          ]
+        },
+        {
+          "character": "makoto-s-classmate",
+          "person": "chou-nichi-sui-ka",
+          "role": "minor",
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "shi-min",
+          "person": "boku-son-ta-hi",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s66"
+          ]
+        },
+        {
+          "character": "basuno-un-ten-shu",
+          "person": "shuu-ken-kou-tai",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s67"
+          ]
+        },
+        {
+          "character": "kyuu-shin-shin-ri-fu",
+          "person": "kin-tou-kou-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s68"
+          ]
+        },
+        {
+          "character": "bei-chou-ro-ji-ya",
+          "person": "eki-san-bu-mei",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s69"
+          ]
+        },
+        {
+          "character": "shou-gan-no-dan",
+          "person": "hachi-dai-taku",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s70"
+          ]
+        },
+        {
+          "character": "dan-sei-opereta",
+          "person": "kou-bu-ju",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s71"
+          ]
+        },
+        {
+          "character": "sen-hai",
+          "person": "kou-bu-ju",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s71"
+          ]
+        },
+        {
+          "character": "my-hero-academia/endeva",
+          "person": "tou-den-tetsu",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s72"
+          ]
+        },
+        {
+          "character": "tetsu",
+          "person": "ou-sei-tooru",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s73"
+          ]
+        },
+        {
+          "character": "citizen",
+          "person": "koku-tou-shun-on",
+          "role": "minor",
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "fan-2",
+          "person": "koku-tou-shun-on",
+          "role": "minor",
+          "source_refs": [
+            "s1"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "shun-kyuu",
+          "person": "borukeno-ta-den",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s74"
+          ]
+        },
+        {
+          "character": "dj",
+          "person": "ku-den-kou",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s75"
+          ]
+        },
+        {
+          "character": "kou-ichi-no-fu",
+          "person": "kiku-chi-kou-kou",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s76"
+          ]
+        },
+        {
+          "character": "shin-no-dou-kyuu-sei",
+          "person": "ga-hou-you",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s77"
+          ]
+        },
+        {
+          "character": "gaku-sei",
+          "person": "ga-hou-you",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s77"
+          ]
+        },
+        {
+          "character": "ryoku-shi",
+          "person": "shi-den-yoshikuni",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s78"
+          ]
+        },
+        {
+          "character": "shitsu-fuu-do-tou-san-kei-tei",
+          "person": "ka-den-kichi-sei",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s79"
+          ]
+        },
+        {
+          "character": "otaku",
+          "person": "sei-yuu-ju",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s80"
+          ]
+        },
+        {
+          "character": "juu-nichi-ka-raputo",
+          "person": "sei-yuu-ju",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s80"
+          ]
+        },
+        {
+          "character": "kan-toku",
+          "person": "shou-ya-ji-yuu-ki",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s81"
+          ]
+        },
+        {
+          "character": "tan-hatsu-no-dan",
+          "person": "shou-ya-ji-yuu-ki",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s81"
+          ]
+        },
+        {
+          "character": "mad-hatter-rida",
+          "person": "shin-yuu-ju",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s82"
+          ]
+        },
+        {
+          "character": "hou-shu-ga-no-yuu-jin",
+          "person": "sho-hou-yuu-na",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s83"
+          ]
+        }
+      ],
+      "source_refs": [
+        "s1",
+        "s3"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=34226",
+      "title": "My Hero Academia: Vigilantes (TV) - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://vigilante-anime.com/character/",
+      "title": "ヴィジランテ-僕のヒーローアカデミア ILLEGALS-｜テレビアニメ公式サイト",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E5%83%95%E3%81%AE%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%82%A2_%28%E3%82%A2%E3%83%8B%E3%83%A1%29",
+      "title": "僕のヒーローアカデミア (アニメ)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s4",
+      "url": "https://vigilante-anime.com/episodes",
+      "title": "ヴィジランテ-僕のヒーローアカデミア ILLEGALS-｜テレビアニメ公式サイト",
+      "publisher": "official",
+      "tier": 1,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s5",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A2%85%E7%94%B0%E4%BF%AE%E4%B8%80%E6%9C%97",
+      "title": "梅田修一朗",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s6",
+      "url": "https://ja.wikipedia.org/wiki/%E9%95%B7%E8%B0%B7%E5%B7%9D%E8%82%B2%E7%BE%8E",
+      "title": "長谷川育美",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s7",
+      "url": "https://ja.wikipedia.org/wiki/%E9%96%93%E5%AE%AE%E5%BA%B7%E5%BC%98",
+      "title": "間宮康弘",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s8",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%A1%E8%BE%BA%E6%98%8E%E4%B9%83",
+      "title": "渡辺明乃",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s9",
+      "url": "https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E9%BA%BB%E6%B2%99%E7%BE%8E",
+      "title": "瀬戸麻沙美",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s10",
+      "url": "https://ja.wikipedia.org/wiki/%E5%90%89%E9%87%8E%E8%A3%95%E8%A1%8C",
+      "title": "吉野裕行",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s11",
+      "url": "https://ja.wikipedia.org/wiki/%E8%AB%8F%E8%A8%AA%E9%83%A8%E9%A0%86%E4%B8%80",
+      "title": "諏訪部順一",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s12",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%AE%85%E5%81%A5%E5%A4%AA",
+      "title": "三宅健太",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s13",
+      "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E6%B5%B7%E6%B5%A9%E8%BC%94",
+      "title": "鳥海浩輔",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s14",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E7%94%B0%E7%90%86%E9%81%93",
+      "title": "北田理道",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s15",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8D%83%E6%9C%AC%E6%9C%A8%E5%BD%A9%E8%8A%B1",
+      "title": "千本木彩花",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s16",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%B3%B6%E5%BE%97%E6%84%9B",
+      "title": "川島得愛",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s17",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E5%B7%9D%E6%99%BA%E4%B9%8B",
+      "title": "森川智之",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s18",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%A1%9A%E6%98%8E%E5%A4%AB",
+      "title": "大塚明夫",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s19",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8B%9D%E6%9D%8F%E9%87%8C",
+      "title": "勝杏里",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s20",
+      "url": "https://ja.wikipedia.org/wiki/%E7%AB%B9%E9%81%94%E5%BD%A9%E5%A5%88",
+      "title": "竹達彩奈",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s21",
+      "url": "https://ja.wikipedia.org/wiki/%E7%90%B4%E5%AE%AE%E6%AD%A9%E5%A4%A2",
+      "title": "琴宮歩夢",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s22",
+      "url": "https://ja.wikipedia.org/wiki/%E8%91%B5%E3%81%82%E3%81%9A%E3%81%95",
+      "title": "葵あずさ",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s23",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E4%B8%8B%E5%A4%A7%E8%BC%9D",
+      "title": "山下大輝",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s24",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E9%BB%92%E5%8F%B2%E5%89%9B",
+      "title": "石黒史剛",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s25",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E5%89%9B_%28%E5%A3%B0%E5%84%AA%29",
+      "title": "井上剛 (声優)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s26",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%8F%E7%9B%AE%E5%A6%83%E8%8F%9C",
+      "title": "夏目妃菜",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s27",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%A9%8B%E9%9B%9B%E5%AD%90",
+      "title": "高橋雛子",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s28",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A5%A5%E7%94%B0%E5%AF%9B%E7%AB%A0",
+      "title": "奥田寛章",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s29",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E4%B8%8A%E8%A3%95%E9%80%9A",
+      "title": "小上裕通",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s30",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E9%A0%AD%E5%AE%8F%E5%93%89",
+      "title": "江頭宏哉",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s31",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%B7%9D%E5%A4%AE%E7%94%9F",
+      "title": "江川央生",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s32",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E6%9C%AC%E6%B7%B3",
+      "title": "宮本淳",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s33",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%A1%E4%BA%95%E3%82%AB%E3%83%84%E3%83%8E%E3%83%AA",
+      "title": "岡井カツノリ",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s34",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E6%9C%A8%E4%B8%80%E7%9C%9E",
+      "title": "三木一眞",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s35",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B2%B3%E6%9D%91%E8%9E%A2",
+      "title": "河村螢",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s36",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E4%BA%95%E5%95%93%E4%BA%8C",
+      "title": "平井啓二",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s37",
+      "url": "https://ja.wikipedia.org/wiki/%E8%BE%BB%E4%BA%95%E5%81%A5%E5%90%BE",
+      "title": "辻井健吾",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s38",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AB%98%E9%87%8E%E6%86%B2%E5%A4%AA%E6%9C%97",
+      "title": "高野憲太朗",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s39",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E5%B3%B6%E6%B8%85%E5%AD%9D",
+      "title": "古島清孝",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s40",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%9C%A8%E5%AD%9D%E4%B8%80",
+      "title": "神木孝一",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s41",
+      "url": "https://ja.wikipedia.org/wiki/%E5%BE%8C%E8%97%A4%E5%85%89%E7%A5%90",
+      "title": "後藤光祐",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s42",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%B4%8E%E7%9C%9F%E8%8A%B1",
+      "title": "山崎真花",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s43",
+      "url": "https://ja.wikipedia.org/wiki/%E9%95%B7%E7%B8%84%E3%81%BE%E3%82%8A%E3%81%82",
+      "title": "長縄まりあ",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s44",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%A5%BF%E6%AD%A3%E6%A8%B9_%28%E5%A3%B0%E5%84%AA%29",
+      "title": "中西正樹 (声優)",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s45",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%89%E5%B1%B1%E5%84%AA%E6%96%97",
+      "title": "杉山優斗",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s46",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E8%A5%BF%E5%8B%9D%E4%B9%9F",
+      "title": "福西勝也",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s47",
+      "url": "https://ja.wikipedia.org/wiki/%E7%94%B0%E6%BE%A4%E8%8C%89%E7%B4%94",
+      "title": "田澤茉純",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s48",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%AB%E3%83%BB%E3%83%91%E3%83%AF%E3%83%BC%E3%82%BA",
+      "title": "マックスウェル・パワーズ",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s49",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%A1%E7%94%B0%E6%81%B5",
+      "title": "岡田恵",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s50",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%8F%E8%B0%B7%E7%BE%8E%E5%B8%8C",
+      "title": "夏谷美希",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s51",
+      "url": "https://ja.wikipedia.org/wiki/%E8%88%9E%E7%BE%BD%E7%BE%8E%E6%B5%B7",
+      "title": "舞羽美海",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s52",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E4%BA%95%E6%9C%AA%E7%B4%97",
+      "title": "石井未紗",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s53",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A7%8B%E5%B1%B1%E5%AE%9F%E5%92%B2",
+      "title": "秋山実咲",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s54",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%AC%E3%81%8B%E5%85%89%E6%98%8E",
+      "title": "かぬか光明",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s55",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E5%B1%B1%E3%83%8A%E3%82%AA%E3%83%9F",
+      "title": "丸山ナオミ",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s56",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E7%80%AC%E5%B0%9A%E4%B9%9F",
+      "title": "宮瀬尚也",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s57",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%A8%E8%8A%B1%E8%97%8D",
+      "title": "木花藍",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s58",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E5%B8%8C%E5%87%9C",
+      "title": "水希凜",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s59",
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%AB%98%E9%87%8C%E8%8F%9C",
+      "title": "日高里菜",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s60",
+      "url": "https://ja.wikipedia.org/wiki/%E6%BE%A4%E7%94%B0%E9%BE%8D%E4%B8%80",
+      "title": "澤田龍一",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s61",
+      "url": "https://ja.wikipedia.org/wiki/%E9%81%A0%E8%97%A4%E3%81%95%E3%81%8D",
+      "title": "遠藤さき",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s62",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%84%E3%81%A8%E3%81%86%E3%81%95%E3%81%A8%E3%82%8B",
+      "title": "いとうさとる",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s63",
+      "url": "https://ja.wikipedia.org/wiki/%E9%88%B4%E4%BB%A3%E7%B4%97%E5%BC%93",
+      "title": "鈴代紗弓",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s64",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8D%BB%E9%87%8E%E6%99%B4%E6%9C%97",
+      "title": "荻野晴朗",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s65",
+      "url": "https://ja.wikipedia.org/wiki/%E5%BC%98%E6%9D%BE%E8%8A%B9%E9%A6%99",
+      "title": "弘松芹香",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s66",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%9D%91%E5%A4%AA%E9%A3%9B",
+      "title": "木村太飛",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s67",
+      "url": "https://ja.wikipedia.org/wiki/%E9%B7%B2%E8%A6%8B%E6%98%82%E5%A4%A7",
+      "title": "鷲見昂大",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s68",
+      "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E8%97%A4%E5%AD%9D%E8%A1%8C",
+      "title": "近藤孝行",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s69",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9B%8A%E5%B1%B1%E6%AD%A6%E6%98%8E",
+      "title": "益山武明",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s70",
+      "url": "https://ja.wikipedia.org/wiki/%E5%85%AB%E4%BB%A3%E6%8B%93",
+      "title": "八代拓",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s71",
+      "url": "https://ja.wikipedia.org/wiki/%E5%85%89%E9%83%A8%E6%A8%B9",
+      "title": "光部樹",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s72",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A8%B2%E7%94%B0%E5%BE%B9",
+      "title": "稲田徹",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s73",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AB%BB%E4%BA%95%E3%83%88%E3%82%AA%E3%83%AB",
+      "title": "櫻井トオル",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s74",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%AB%E3%82%B1%E3%83%BC%E3%83%8E%E5%A4%AA%E7%94%B0",
+      "title": "ボルケーノ太田",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s75",
+      "url": "https://ja.wikipedia.org/wiki/%E9%A7%92%E7%94%B0%E8%88%AA",
+      "title": "駒田航",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s76",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8F%8A%E6%B1%A0%E5%BA%B7%E5%BC%98",
+      "title": "菊池康弘",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s77",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8A%BD%E6%96%B9%E7%BE%8A",
+      "title": "芽方羊",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s78",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9F%BF%E7%94%B0%E3%82%88%E3%81%97%E3%81%8F%E3%81%AB",
+      "title": "柿田よしくに",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s79",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B2%B3%E7%94%B0%E5%90%89%E6%AD%A3",
+      "title": "河田吉正",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s80",
+      "url": "https://ja.wikipedia.org/wiki/%E6%98%9F%E7%A5%90%E6%A8%B9",
+      "title": "星祐樹",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s81",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%8E%E5%AF%BA%E6%82%A0%E8%B2%B4",
+      "title": "小野寺悠貴",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s82",
+      "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E7%A5%90%E6%A8%B9",
+      "title": "新祐樹",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s83",
+      "url": "https://ja.wikipedia.org/wiki/%E7%B7%92%E6%96%B9%E4%BD%91%E5%A5%88",
+      "title": "緒方佑奈",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s84",
+      "url": "https://www.justwatch.com/kr/TV-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/my-hero-academia-vigilantes/%EC%8B%9C%EC%A6%8C-1",
+      "title": "비질랜티 -나의 히어로 아카데미아 ILLEGALS- 시즌 1",
+      "publisher": "other",
+      "tier": 3,
+      "accessed_at": "2026-11-16"
+    },
+    {
+      "id": "s85",
+      "url": "https://www.tving.com/contents/P001781291",
+      "title": "비질랜티-나의 히어로 아카데미아 ILLEGALS- 2기 1화",
+      "publisher": "broadcaster",
+      "tier": 1,
+      "accessed_at": "2026-11-16"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  }
+}

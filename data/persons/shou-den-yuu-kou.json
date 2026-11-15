@@ -1,0 +1,49 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shou-den-yuu-kou",
+  "slug": "yuka-shinoda",
+  "name": {
+    "original_lang": "ja",
+    "original": "篠田有香",
+    "latin": "Yuka Shinoda",
+    "aliases": {
+      "ja": [
+        "しのだゆか"
+      ]
+    },
+    "translated": {
+      "ko": "시노다 유카",
+      "en": "Yuka Shinoda"
+    }
+  },
+  "gender": "female",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%AF%A0%E7%94%B0%E6%9C%89%E9%A6%99"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%AF%A0%E7%94%B0%E6%9C%89%E9%A6%99",
+      "title": "篠田有香 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=151873",
+      "title": "Yuka Shinoda - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

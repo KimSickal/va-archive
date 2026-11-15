@@ -1,0 +1,42 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "gan-kou-wa-ka-na",
+  "slug": "wakana-maruoka",
+  "name": {
+    "original_lang": "ja",
+    "original": "丸岡和佳奈",
+    "latin": "Wakana Maruoka",
+    "aliases": {
+      "ja": [
+        "まるおかわかな"
+      ]
+    },
+    "translated": {
+      "ko": "마루오카 와카나",
+      "en": "Wakana Maruoka"
+    }
+  },
+  "gender": "female",
+  "birth": "1995-05-13",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E5%B2%A1%E5%92%8C%E4%BD%B3%E5%A5%88"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E5%B2%A1%E5%92%8C%E4%BD%B3%E5%A5%88",
+      "title": "丸岡和佳奈 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-16"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-16",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.9.0"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "en-oku-kou-san",
+  "slug": "kozo-shioya",
+  "name": {
+    "original_lang": "ja",
+    "original": "塩屋浩三",
+    "latin": "Kozo Shioya",
+    "aliases": {
+      "ja": [
+        "しおやこうぞう"
+      ]
+    },
+    "translated": {
+      "ko": "시오야 코조",
+      "en": "Kozo Shioya"
+    }
+  },
+  "birth": "1955-08-18",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%A1%A9%E5%B1%8B%E6%B5%A9%E4%B8%89"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A1%A9%E5%B1%8B%E6%B5%A9%E4%B8%89",
+      "title": "塩屋浩三 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=3100",
+      "title": "Kozo Shioya - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

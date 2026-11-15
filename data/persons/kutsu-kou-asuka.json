@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kutsu-kou-asuka",
+  "slug": "asuka-horiguchi",
+  "name": {
+    "original_lang": "ja",
+    "original": "堀口あすか",
+    "latin": "Asuka Horiguchi",
+    "aliases": {
+      "ja": [
+        "ほりぐちあすか"
+      ]
+    },
+    "translated": {
+      "ko": "호리구치 아스카",
+      "en": "Asuka Horiguchi"
+    }
+  },
+  "birth": "1988-03-21",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%A0%80%E5%8F%A3%E3%81%82%E3%81%99%E3%81%8B"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A0%80%E5%8F%A3%E3%81%82%E3%81%99%E3%81%8B",
+      "title": "堀口あすか - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=77408",
+      "title": "Asuka Horiguchi - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  },
+  "gender": "female"
+}

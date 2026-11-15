@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sen-boku-mahito",
+  "slug": "mahito-funaki",
+  "name": {
+    "original_lang": "ja",
+    "original": "船木まひと",
+    "latin": "Mahito Funaki",
+    "aliases": {
+      "ja": [
+        "ふなきまひと"
+      ]
+    },
+    "translated": {
+      "ko": "후나키 마히토",
+      "en": "Mahito Funaki"
+    }
+  },
+  "gender": "male",
+  "birth": "1974-01-23",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E8%88%B9%E6%9C%A8%E3%81%BE%E3%81%B2%E3%81%A8"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E8%88%B9%E6%9C%A8%E3%81%BE%E3%81%B2%E3%81%A8",
+      "title": "船木まひと - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=23609",
+      "title": "Masato Funaki - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

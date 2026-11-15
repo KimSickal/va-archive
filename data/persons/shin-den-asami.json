@@ -1,0 +1,49 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shin-den-asami",
+  "slug": "asami-sanada",
+  "name": {
+    "original_lang": "ja",
+    "original": "真田アサミ",
+    "latin": "Asami Sanada",
+    "aliases": {
+      "ja": [
+        "さなだあさみ"
+      ]
+    },
+    "translated": {
+      "ko": "사나다 아사미",
+      "en": "Asami Sanada"
+    }
+  },
+  "birth": "1977-09-08",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%9C%9F%E7%94%B0%E3%82%A2%E3%82%B5%E3%83%9F"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9C%9F%E7%94%B0%E3%82%A2%E3%82%B5%E3%83%9F",
+      "title": "真田アサミ - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=3680",
+      "title": "Asami Sanada - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

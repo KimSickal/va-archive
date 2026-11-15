@@ -1,0 +1,49 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "to-hen-ei-yuu",
+  "slug": "hideo-watanabe",
+  "name": {
+    "original_lang": "ja",
+    "original": "渡辺英雄",
+    "latin": "Hideo Watanabe",
+    "aliases": {
+      "ja": [
+        "わたなべひでお"
+      ]
+    },
+    "translated": {
+      "ko": "와타나베 히데오",
+      "en": "Hideo Watanabe"
+    }
+  },
+  "birth": "1973-08-25",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%B8%A1%E8%BE%BA%E8%8B%B1%E9%9B%84"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%A1%E8%BE%BA%E8%8B%B1%E9%9B%84",
+      "title": "渡辺英雄 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=25302",
+      "title": "Hideo Watanabe - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

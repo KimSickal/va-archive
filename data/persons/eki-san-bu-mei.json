@@ -1,0 +1,53 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "eki-san-bu-mei",
+  "slug": "takeaki-masuyama",
+  "name": {
+    "original_lang": "ja",
+    "original": "益山武明",
+    "latin": "Takeaki Masuyama",
+    "aliases": {
+      "ja": [
+        "ますやまたけあき"
+      ]
+    },
+    "translated": {
+      "ko": "마스야마 다케아키",
+      "en": "Takeaki Masuyama"
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1989-04-14",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%9B%8A%E5%B1%B1%E6%AD%A6%E6%98%8E"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=105662",
+      "title": "Takeaki MASUYAMA - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9B%8A%E5%B1%B1%E6%AD%A6%E6%98%8E",
+      "title": "益山武明",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  }
+}

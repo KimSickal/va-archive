@@ -1,0 +1,1069 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "bleach-karakura-decisive",
+  "franchise_id": "bleach",
+  "type": "anime_tv",
+  "title": {
+    "original_lang": "ja",
+    "original": "BLEACH 破面・空座決戦篇",
+    "latin": "BLEACH Arrancar Karakura Kessen-hen",
+    "aliases": {
+      "en": [
+        "Bleach: The Arrancar Part 5: Battle in Karakura"
+      ]
+    },
+    "translated": {
+      "ko": "블리치 아란칼 카라쿠라 결전 편"
+    }
+  },
+  "order": 12,
+  "status": "finished",
+  "start_date": "2009-03-31",
+  "end_date": "2009-07-21",
+  "episodes": 17,
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "studioぴえろ",
+      "latin": "studio Pierrot"
+    }
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "credits": [
+        {
+          "character": "koku-ki-ichi-go",
+          "person": "shin-den-sei-ichi",
+          "role": "main",
+          "source_refs": [
+            "s2",
+            "s9",
+            "s17"
+          ]
+        },
+        {
+          "character": "sei-jou-shoku-ki",
+          "person": "shou-kou-yuu-ki",
+          "role": "main",
+          "source_refs": [
+            "s2",
+            "s4",
+            "s9",
+            "s15"
+          ]
+        },
+        {
+          "character": "a-san-sei-ren-ji",
+          "person": "i-tou-ken-ta-rou",
+          "role": "main",
+          "source_refs": [
+            "s2",
+            "s9",
+            "s15",
+            "s18"
+          ]
+        },
+        {
+          "character": "kyuu-boku-rukia",
+          "person": "setsu-ryuu-fu-bi-shi",
+          "role": "main",
+          "source_refs": [
+            "s2",
+            "s9",
+            "s19"
+          ]
+        },
+        {
+          "character": "shaku-den-u-ryuu",
+          "person": "san-san-ki-shou",
+          "role": "main",
+          "source_refs": [
+            "s2",
+            "s15",
+            "s18",
+            "s19"
+          ]
+        },
+        {
+          "character": "cha-to-tai-ko",
+          "person": "an-gen-you-ki",
+          "role": "main",
+          "source_refs": [
+            "s2",
+            "s9",
+            "s15",
+            "s18"
+          ]
+        },
+        {
+          "character": "abirama-redda",
+          "person": "den-chuu-ichi-sei",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s4",
+            "s6",
+            "s9"
+          ]
+        },
+        {
+          "character": "baragan-ruizenban",
+          "person": "han-chou-shou-san",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s4",
+            "s6",
+            "s9"
+          ]
+        },
+        {
+          "character": "kyuu-boku-haku-sai",
+          "person": "chi-nen-ryuu-ta-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s18",
+            "s26"
+          ]
+        },
+        {
+          "character": "sharurotte-kuruhon",
+          "person": "san-taku-ken-ta",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s4",
+            "s6",
+            "s7"
+          ]
+        },
+        {
+          "character": "hon-shou-sen-kaku",
+          "person": "chuu-tou-sa-ju",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s15",
+            "s17",
+            "s19"
+          ]
+        },
+        {
+          "character": "chinon-pou",
+          "person": "haku-yuu-kan-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s4",
+            "s6",
+            "s9"
+          ]
+        },
+        {
+          "character": "jaku-bu-chou-ji-rou-chuu-soku",
+          "person": "san-kou-ta-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s9",
+            "s13"
+          ]
+        },
+        {
+          "character": "koyote-sutaku",
+          "person": "shou-san-ryoku-ya",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s4",
+            "s6",
+            "s9"
+          ]
+        },
+        {
+          "character": "shian-sunsun",
+          "person": "rai-da-ho-bi",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s4",
+            "s9"
+          ]
+        },
+        {
+          "character": "don-kan-on-ji",
+          "person": "sen-you-han",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s15",
+            "s17",
+            "s19"
+          ]
+        },
+        {
+          "character": "emiru-apatchi",
+          "person": "sa-kyuu-kan-ku-bi",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s4",
+            "s6",
+            "s9"
+          ]
+        },
+        {
+          "character": "findoru-kyariasu",
+          "person": "kin-tou-ryuu",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s4",
+            "s5",
+            "s6"
+          ]
+        },
+        {
+          "character": "furanchesuka-mira-rozu",
+          "person": "shaku-chou-sayori",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s4",
+            "s6",
+            "s11"
+          ]
+        },
+        {
+          "character": "san-hon-gen-ryuu-sai-chou-koku",
+          "person": "chou-den-sei-shou",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s4",
+            "s9"
+          ]
+        },
+        {
+          "character": "jio-vega",
+          "person": "shi-gen-tetsu-ya",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s4",
+            "s6",
+            "s11"
+          ]
+        },
+        {
+          "character": "shi-gan-gin",
+          "person": "yuu-sa-kou-ni",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s4",
+            "s9",
+            "s15"
+          ]
+        },
+        {
+          "character": "han-moku-ichi-kaku",
+          "person": "kai-san-shuu-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s4",
+            "s7"
+          ]
+        },
+        {
+          "character": "ko-tetsu-yuu-on",
+          "person": "yukana",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s13",
+            "s18"
+          ]
+        },
+        {
+          "character": "kichi-ryou-izuru",
+          "person": "ou-sei-kou-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s4",
+            "s7"
+          ]
+        },
+        {
+          "character": "fu-chiku-juu-shi-rou",
+          "person": "shaku-sen-ei-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s4",
+            "s9"
+          ]
+        },
+        {
+          "character": "tou-sen-you",
+          "person": "shin-sen-chi-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s4",
+            "s9",
+            "s15"
+          ]
+        },
+        {
+          "character": "sen-ya-kei-go",
+          "person": "shou-sei-koku-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s15",
+            "s17",
+            "s19"
+          ]
+        },
+        {
+          "character": "ho-gen-ki-jo",
+          "person": "san-boku-shin-ichi-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s15",
+            "s17",
+            "s19"
+          ]
+        },
+        {
+          "character": "ko-tetsu-sei-on",
+          "person": "sei-son-chinami",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s13",
+            "s26"
+          ]
+        },
+        {
+          "character": "kon",
+          "person": "shin-ten-kou-shou",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s17",
+            "s19"
+          ]
+        },
+        {
+          "character": "ririnetto-jinjabakku",
+          "person": "sen-sei-sei-ki",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s4",
+            "s6",
+            "s9"
+          ]
+        },
+        {
+          "character": "tai-zen-den-ki-sen-dai",
+          "person": "kashi-sei-sou-jin",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s4",
+            "s9"
+          ]
+        },
+        {
+          "character": "shou-tou-sui-shoku",
+          "person": "fuku-san-jun",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s13",
+            "s15",
+            "s17"
+          ]
+        },
+        {
+          "character": "suu-shin-tou",
+          "person": "sa-kyuu-kan-ku-bi",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s24",
+            "s25"
+          ]
+        },
+        {
+          "character": "i-sei-shichi-sho",
+          "person": "sei-ten-moku-jin-bi",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s13",
+            "s26"
+          ]
+        },
+        {
+          "character": "netsu-nemu",
+          "person": "tei-kyuu-ri-kei",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s13",
+            "s18"
+          ]
+        },
+        {
+          "character": "niruge-parudukku",
+          "person": "shou-kou-tai-kai",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s6",
+            "s11",
+            "s12"
+          ]
+        },
+        {
+          "character": "shou-hon-ran-kiku",
+          "person": "shou-koku-hi-sai",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s4",
+            "s9"
+          ]
+        },
+        {
+          "character": "bou-no-ka-retsu",
+          "person": "kyuu-sen-ryou",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s18",
+            "s26"
+          ]
+        },
+        {
+          "character": "rudobon-cheruto",
+          "person": "san-kou-ta-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s6",
+            "s9",
+            "s18"
+          ]
+        },
+        {
+          "character": "haku-son-sa-jin",
+          "person": "tou-den-tetsu",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s4",
+            "s9"
+          ]
+        },
+        {
+          "character": "shou-chin-sen-ta-rou",
+          "person": "en-kin-kou-ichi",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s13",
+            "s26"
+          ]
+        },
+        {
+          "character": "kai-sa-boku-shuu-hei",
+          "person": "shou-sei-koku-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s4",
+            "s5"
+          ]
+        },
+        {
+          "character": "kyou-gaku-shun-sui",
+          "person": "tai-chou-mei-fu",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s4",
+            "s9"
+          ]
+        },
+        {
+          "character": "ran-sen-sou-u-kai",
+          "person": "soku-sui-shou",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s4",
+            "s9",
+            "s15"
+          ]
+        },
+        {
+          "character": "sai-hou",
+          "person": "sou-tou-hou-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s4",
+            "s9"
+          ]
+        },
+        {
+          "character": "yuu-taku-ryuu-ki",
+          "person": "ya-den-jun-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s15",
+            "s17",
+            "s19"
+          ]
+        },
+        {
+          "character": "aku-ryou-tetsu-sai",
+          "person": "ryou-den-sei-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s15",
+            "s17",
+            "s19"
+          ]
+        },
+        {
+          "character": "sha-jou-tetsu-sa-ei-mon",
+          "person": "sei-rin-ta-rou",
+          "role": "supporting",
+          "credited_as": "西凛太朗",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s9",
+            "s14"
+          ]
+        },
+        {
+          "character": "tia-hariberu",
+          "person": "sho-hou-kei-bi",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s4",
+            "s6",
+            "s9"
+          ]
+        },
+        {
+          "character": "nichi-ban-koku-tou-shi-rou",
+          "person": "boku-ro-bi",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s4",
+            "s9"
+          ]
+        },
+        {
+          "character": "urukiora-shifa",
+          "person": "rou-sen-tai-fu",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s4",
+            "s6",
+            "s9"
+          ]
+        },
+        {
+          "character": "jo-kan-bu-arankaru",
+          "person": "tou-son-ho",
+          "role": "supporting",
+          "source_refs": [
+            "s17",
+            "s19",
+            "s21",
+            "s2"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "chuu-oku-u",
+          "person": "ka-oku-soku-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s15",
+            "s17",
+            "s19"
+          ]
+        },
+        {
+          "character": "sou-roku-yachiru",
+          "person": "bou-getsu-kyuu-dai",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s13",
+            "s18"
+          ]
+        },
+        {
+          "character": "ryou-rai-sen-kyuu-shin",
+          "person": "fuku-san-jun",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s4",
+            "s7"
+          ]
+        },
+        {
+          "character": "sha-koku-zen-shi-jo",
+          "person": "shi-bu-ga-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s17",
+            "s19"
+          ]
+        },
+        {
+          "character": "osage-yuu-rei",
+          "person": "han-jou-yuu-kei",
+          "role": "minor",
+          "source_refs": [
+            "s13",
+            "s28",
+            "s30"
+          ]
+        },
+        {
+          "character": "sei-dou-ei-kichi-rou",
+          "person": "dou-hon-taku-sai",
+          "role": "minor",
+          "credited_as": "桐本琢也",
+          "source_refs": [
+            "s1",
+            "s9"
+          ]
+        },
+        {
+          "character": "fisshubon-d",
+          "person": "sei-san-jou",
+          "role": "minor",
+          "source_refs": [
+            "s13",
+            "s29"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "san-den-ka-ta-rou",
+          "person": "kyuu-den-kou-ki",
+          "role": "minor",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s18"
+          ]
+        },
+        {
+          "character": "kyo",
+          "person": "tai-chou-hou-chuu",
+          "role": "minor",
+          "source_refs": [
+            "s2",
+            "s23"
+          ]
+        },
+        {
+          "character": "ka-gai-jin-ta",
+          "person": "hon-den-ki-shi",
+          "role": "minor",
+          "source_refs": [
+            "s2",
+            "s15",
+            "s17"
+          ]
+        },
+        {
+          "character": "koku-ki-ka-ri",
+          "person": "tei-kyuu-ri-kei",
+          "role": "minor",
+          "source_refs": [
+            "s2",
+            "s13",
+            "s15"
+          ]
+        },
+        {
+          "character": "kou-boku-ken-hachi",
+          "person": "ritsu-boku-bun-gen",
+          "role": "minor",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s18"
+          ]
+        },
+        {
+          "character": "ka-sei-shin-ka",
+          "person": "tou-ken-ka-you",
+          "role": "minor",
+          "source_refs": [
+            "s2",
+            "s13",
+            "s15"
+          ]
+        },
+        {
+          "character": "netsu-mayuri",
+          "person": "chuu-bi-ryuu-sei",
+          "role": "minor",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s18"
+          ]
+        },
+        {
+          "character": "shou-sen-michiru",
+          "person": "shin-den-asami",
+          "role": "minor",
+          "source_refs": [
+            "s2",
+            "s13",
+            "s15"
+          ]
+        },
+        {
+          "character": "sen-ya-mizu-sui",
+          "person": "mo-ryo-den-kaoru",
+          "role": "minor",
+          "source_refs": [
+            "s2",
+            "s15",
+            "s23"
+          ]
+        },
+        {
+          "character": "tai-tou-rei-ichi",
+          "person": "sei-san-jou",
+          "role": "minor",
+          "source_refs": [
+            "s13",
+            "s27"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "koku-shi-rei",
+          "person": "sei-ten-moku-jin-bi",
+          "role": "minor",
+          "source_refs": [
+            "s2",
+            "s13",
+            "s15"
+          ]
+        },
+        {
+          "character": "shi-fuu-in-ya-ichi",
+          "person": "yukinosatsuki",
+          "role": "minor",
+          "source_refs": [
+            "s2",
+            "s15",
+            "s26"
+          ]
+        },
+        {
+          "character": "koku-ki-yuu-shi",
+          "person": "rai-da-ho-bi",
+          "role": "minor",
+          "source_refs": [
+            "s2",
+            "s13",
+            "s15"
+          ]
+        },
+        {
+          "character": "zonzain",
+          "person": "an-gen-you-ki",
+          "role": "minor",
+          "source_refs": [
+            "s2",
+            "s19",
+            "s22"
+          ]
+        }
+      ],
+      "release_date": "2009-03-31"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/BLEACH_%28%E3%82%A2%E3%83%8B%E3%83%A1%29",
+      "title": "BLEACH (アニメ) - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4240",
+      "title": "Bleach (TV) - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E8%AD%B7%E5%BB%B7%E5%8D%81%E4%B8%89%E9%9A%8A",
+      "title": "護廷十三隊 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s4",
+      "url": "https://bleach.fandom.com/wiki/Elite%21_The_Four_Shinigami",
+      "title": "Elite! The Four Shinigami | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s5",
+      "url": "https://bleach.fandom.com/wiki/Kira%2C_The_Battle_Within_Despair",
+      "title": "Kira, The Battle Within Despair | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s6",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A0%B4%E9%9D%A2",
+      "title": "破面 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s7",
+      "url": "https://bleach.fandom.com/wiki/Beautiful_Little_Devil_Charlotte",
+      "title": "Beautiful Little Devil Charlotte | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s9",
+      "url": "https://bleach.fandom.com/wiki/Defend_Karakura_Town%21_Entire_Appearance_of_the_Shinigami",
+      "title": "Defend Karakura Town! Entire Appearance of the Shinigami | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s11",
+      "url": "https://bleach.fandom.com/wiki/The_Full_Showdown%21_Shinigami_vs._Espada",
+      "title": "The Full Showdown! Shinigami vs. Espada | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s12",
+      "url": "https://bleach.fandom.com/wiki/The_Most_Evil_Tag%21%3F_Su%C3%AC-F%C4%93ng_%26_%C5%8Cmaeda",
+      "title": "The Most Evil Tag!? Suì-Fēng & Ōmaeda | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s13",
+      "url": "https://bleach.fandom.com/wiki/Wonderful_Error",
+      "title": "Wonderful Error | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s14",
+      "url": "https://bleach.fandom.com/wiki/Ikkaku_Falls%21_The_Shinigami%27s_Crisis",
+      "title": "Ikkaku Falls! The Shinigami's Crisis | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s15",
+      "url": "https://ja.wikipedia.org/wiki/BLEACH%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9",
+      "title": "BLEACHの登場人物 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s17",
+      "url": "https://bleach.fandom.com/wiki/Karakuraizer%27s_Last_Day",
+      "title": "Karakuraizer's Last Day | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s18",
+      "url": "https://bleach.fandom.com/wiki/Fierce_Fighting_Concludes%3F_Towards_a_New_Battle%21",
+      "title": "Fierce Fighting Concludes? Towards a New Battle! | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s19",
+      "url": "https://bleach.fandom.com/wiki/The_Soul_Burial_Detective%2C_Karakuraizer_is_Born",
+      "title": "The Soul Burial Detective, Karakuraizer is Born | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s21",
+      "url": "https://bleach.fandom.com/wiki/Unnamed_Female_Arrancar",
+      "title": "Unnamed Female Arrancar | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s22",
+      "url": "https://ja.wikipedia.org/wiki/%E8%99%9A_%28BLEACH%29",
+      "title": "虚 (BLEACH) - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s23",
+      "url": "https://bleach.fandom.com/wiki/Cry_of_the_Soul%3F_The_Rug_Shinigami_is_Born%21",
+      "title": "Cry of the Soul? The Rug Shinigami is Born! | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s24",
+      "url": "https://bleach.fandom.com/wiki/3_vs._1_Battle%21_Rangiku%27s_Crisis",
+      "title": "3 vs. 1 Battle! Rangiku's Crisis | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s25",
+      "url": "https://bleach.fandom.com/wiki/All_Lieutenants_Annihilated%21_The_Terrifying_Demonic_Beast",
+      "title": "All Lieutenants Annihilated! The Terrifying Demonic Beast | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s26",
+      "url": "https://bleach.fandom.com/wiki/Summer%21_Sea%21_Swimsuit_Festival%21%21",
+      "title": "Summer! Sea! Swimsuit Festival!! | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s27",
+      "url": "https://bleach.fandom.com/wiki/Reiichi_%C5%8Cshima",
+      "title": "Reiichi Ōshima | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s28",
+      "url": "https://bleach.fandom.com/wiki/List_of_Pluses",
+      "title": "List of Pluses | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s29",
+      "url": "https://bleach.fandom.com/wiki/Fishbone_D",
+      "title": "Fishbone D | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s30",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8D%8A%E5%A0%B4%E5%8F%8B%E6%81%B5",
+      "title": "半場友恵 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

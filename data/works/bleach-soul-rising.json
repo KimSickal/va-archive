@@ -1,0 +1,148 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "bleach-soul-rising",
+  "franchise_id": "bleach",
+  "type": "game",
+  "title": {
+    "original_lang": "ja",
+    "original": "BLEACH Soul Rising",
+    "latin": "BLEACH Soul Rising",
+    "official": {
+      "en": "Bleach: Soul Rising",
+      "ko": "블리치 Mobile 3D"
+    },
+    "aliases": {
+      "zh-Hans": [
+        "BLEACH 境・界-魂之覚醒：死神"
+      ],
+      "zh-Hant": [
+        "死神BLEACH-正版授權手遊"
+      ],
+      "en": [
+        "BLEACH Mobile 3D"
+      ]
+    }
+  },
+  "order": 127,
+  "status": "live_service",
+  "start_date": "2018-11-15",
+  "developers": [
+    {
+      "original_lang": "ja",
+      "original": "KLab"
+    },
+    {
+      "original_lang": "ja",
+      "original": "崑崙",
+      "latin": "Kunlun",
+      "official": {
+        "en": "Kunlun"
+      }
+    }
+  ],
+  "platforms": [
+    "ios",
+    "android"
+  ],
+  "publishers": [
+    {
+      "original_lang": "ja",
+      "original": "崑崙",
+      "latin": "Kunlun",
+      "official": {
+        "en": "Kunlun"
+      }
+    }
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2020-09-17",
+      "credits": [],
+      "source_refs": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/BLEACH",
+      "title": "BLEACH",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://bleach.fandom.com/wiki/Bleach%3A_Soul_Rising",
+      "title": "Bleach: Soul Rising | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s3",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%89%E5%85%83%E6%B4%8B%E8%B2%B4",
+      "title": "安元洋貴",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s4",
+      "url": "https://ja.wikipedia.org/wiki/%E6%8A%98%E7%AC%A0%E5%AF%8C%E7%BE%8E%E5%AD%90",
+      "title": "折笠富美子",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s5",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%89%E5%B1%B1%E7%B4%80%E5%BD%B0",
+      "title": "杉山紀彰",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s6",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B2%A1%E7%94%B1%E8%B2%B4",
+      "title": "松岡由貴",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s7",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E7%94%B0%E6%88%90%E4%B8%80",
+      "title": "森田成一",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  },
+  "cast_follows_anime": true
+}

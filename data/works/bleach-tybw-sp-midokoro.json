@@ -1,0 +1,61 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "bleach-tybw-sp-midokoro",
+  "franchise_id": "bleach",
+  "type": "anime_special",
+  "title": {
+    "original_lang": "ja",
+    "original": "BLEACH千年血戦篇放送直前特番 放送まで待てない！千年血戦篇見どころ凝縮篇",
+    "translated": {
+      "ko": "블리치 천년혈전 편 방송 직전 특집 방송까지 못 기다려! 천년혈전 편 볼거리 응축 편",
+      "en": "Bleach: Thousand-Year Blood War Pre-Broadcast Special – Can't Wait! Thousand-Year Blood War Highlights"
+    }
+  },
+  "order": 20.6,
+  "status": "finished",
+  "start_date": "2022-10-04",
+  "end_date": "2022-10-04",
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "release_date": "2022-10-04",
+      "credits": [],
+      "source_refs": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/BLEACH_%E5%8D%83%E5%B9%B4%E8%A1%80%E6%88%A6%E7%AF%87",
+      "title": "BLEACH 千年血戦篇 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  },
+  "episodes": 1
+}

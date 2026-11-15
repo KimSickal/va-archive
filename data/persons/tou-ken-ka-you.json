@@ -1,0 +1,49 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "tou-ken-ka-you",
+  "slug": "kayo-noumi",
+  "name": {
+    "original_lang": "ja",
+    "original": "納見佳容",
+    "latin": "Kayo Noumi",
+    "aliases": {
+      "ja": [
+        "のうみかよ"
+      ]
+    },
+    "translated": {
+      "ko": "노미 카요",
+      "en": "Kayo Noumi"
+    }
+  },
+  "birth": "1976-06-04",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%B4%8D%E8%A6%8B%E4%BD%B3%E5%AE%B9"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%B4%8D%E8%A6%8B%E4%BD%B3%E5%AE%B9",
+      "title": "納見佳容 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=46143",
+      "title": "Kayo Noumi - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}
