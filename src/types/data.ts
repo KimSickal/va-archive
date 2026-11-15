@@ -18,6 +18,8 @@ export interface Name {
   latin?: string;
   official?: Record<LangTag, string>;
   aliases?: Record<LangTag, string[]>;
+  /** 이 사이트의 자체 번역·음역 (공식 아님) */
+  translated?: Record<LangTag, string>;
 }
 
 export interface Text {
@@ -158,6 +160,8 @@ export interface Work {
   publishers?: Name[];
   wikipedia?: Wikipedia;
   platforms?: string[];
+  /** 애니 원작 게임: 애니와 다른 배역만 기록 */
+  cast_follows_anime?: boolean;
   versions: Version[];
   sources: Source[];
   meta: RecordMeta;

@@ -53,64 +53,7 @@
           "en"
         ]
       },
-      "credits": [
-        {
-          "character": "bi-haku-en-fu",
-          "person": "san-kou-kou-yuu",
-          "role": "supporting",
-          "source_refs": [
-            "s2"
-          ]
-        },
-        {
-          "character": "sementosu",
-          "person": "tai-wai-ken-ta",
-          "role": "supporting",
-          "source_refs": [
-            "s3"
-          ]
-        },
-        {
-          "character": "motsu-kan-nei-jin",
-          "person": "ten-ki-kou-hei",
-          "role": "supporting",
-          "source_refs": [
-            "s4"
-          ]
-        },
-        {
-          "character": "baku-gou-shou-ki",
-          "person": "kou-hon-shin-gen",
-          "role": "main",
-          "source_refs": [
-            "s5"
-          ]
-        },
-        {
-          "character": "hotsu-moku-mei",
-          "person": "ou-sei-shiori",
-          "role": "supporting",
-          "source_refs": [
-            "s6"
-          ]
-        },
-        {
-          "character": "tetsu-tetsu-tetsu-tetsu",
-          "person": "chuu-ya-kou-shi",
-          "role": "supporting",
-          "source_refs": [
-            "s7"
-          ]
-        },
-        {
-          "character": "ji-rou-kyou-kou",
-          "person": "shin-dou-kei",
-          "role": "supporting",
-          "source_refs": [
-            "s8"
-          ]
-        }
-      ],
+      "credits": [],
       "release_date": "2017-04-19"
     }
   ],
@@ -187,5 +130,6 @@
       "verified_at": "2026-11-14"
     },
     "skill_version": "0.5.1"
-  }
+  },
+  "cast_follows_anime": true
 }

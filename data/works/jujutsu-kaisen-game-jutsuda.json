@@ -52,17 +52,7 @@
         ]
       },
       "release_date": "2023-12-08",
-      "credits": [
-        {
-          "character": "go-jou-go",
-          "person": "chuu-son-yuu-ichi",
-          "role": "main",
-          "source_refs": [
-            "s1",
-            "s3"
-          ]
-        }
-      ]
+      "credits": []
     }
   ],
   "sources": [
@@ -98,5 +88,6 @@
       "verified_at": "2026-11-14"
     },
     "skill_version": "0.5.1"
-  }
+  },
+  "cast_follows_anime": true
 }

@@ -618,3 +618,13 @@ h1 .name-sub {
   font-size: 0.55em;
   line-height: 1.4;
 }
+
+.tr-mark {
+  margin-left: 0.3em;
+  padding: 0 0.3em;
+  border: 1px solid var(--border, #ccc);
+  border-radius: 3px;
+  font-size: 0.7em;
+  color: var(--muted, #888);
+  vertical-align: middle;
+}

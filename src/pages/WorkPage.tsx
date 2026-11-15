@@ -119,6 +119,11 @@ export function WorkPage() {
 
       <section>
         <h2>캐스팅</h2>
+        {w.cast_follows_anime && (
+          <p className="banner banner-info" role="note">
+            <strong>{t.castFollowsAnime}</strong> — {t.castFollowsAnimeNote(rows.length)}
+          </p>
+        )}
         <div className="filters">
           <Toggle
             label={t.showMinor}

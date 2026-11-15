@@ -1,7 +1,7 @@
 import { useState, type ReactNode } from 'react';
 import { Link } from 'react-router-dom';
 import { useDb } from '../data/DbContext';
-import { displayName, subName, textIn } from '../data/i18n-data';
+import { displayName, nameIn, subName, textIn } from '../data/i18n-data';
 import { personPath, type Staleness } from '../data/queries';
 import { t } from '../i18n/ko';
 import { updateSettings, useSettings } from '../state/settings';
@@ -9,9 +9,15 @@ import type { Image, Name, Source, Text, VerificationStatus, Wikipedia } from '.
 
 export function NameView({ name, sub = true }: { name: Name; sub?: boolean }) {
   const s = sub ? subName(name) : '';
+  const tr = nameIn(name, 'ko').translated;
   return (
     <span className="name">
       {displayName(name)}
+      {tr && (
+        <span className="tr-mark" title={t.translatedName}>
+          {t.translated}
+        </span>
+      )}
       {s && <span className="name-sub"> {s}</span>}
     </span>
   );

@@ -48,6 +48,22 @@ export function checkIntegrity(ds: Dataset, issues: Issue[]): void {
       err(file, `${where}: official에 원어(${n.original_lang}) 키가 있음`);
     for (const k of Object.keys(n.official ?? {})) checkTag(file, `${where}.official`, k);
     for (const k of Object.keys(n.aliases ?? {})) checkTag(file, `${where}.aliases`, k);
+    for (const k of Object.keys(n.translated ?? {})) checkTag(file, `${where}.translated`, k);
+    if (n.translated && n.original_lang in n.translated)
+      err(file, `${where}: translated에 원어(${n.original_lang}) 키가 있음`);
+    for (const k of Object.keys(n.translated ?? {}))
+      if (n.official?.[k]) err(file, `${where}: ${k} 공식 표기가 있는데 translated.${k}도 있음`);
+  };
+  // 표시 언어(ja/ko/en) 표기가 없는 이름 수 (파일별로 모아 경고)
+  const missingDisplay = new Map<string, Record<string, number>>();
+  const checkDisplay = (file: string, n: Name | undefined) => {
+    if (!n) return;
+    for (const L of ['ja', 'ko', 'en']) {
+      if (n.original_lang === L || n.official?.[L] || n.aliases?.[L] || n.translated?.[L]) continue;
+      const m = missingDisplay.get(file) ?? {};
+      m[L] = (m[L] ?? 0) + 1;
+      missingDisplay.set(file, m);
+    }
   };
   const checkText = (file: string, where: string, t: Text | undefined) => {
     if (!t) return;
@@ -63,6 +79,7 @@ export function checkIntegrity(ds: Dataset, issues: Issue[]): void {
     const f = fileOf('persons', p.id);
     const src = checkSources(f, p.sources);
     checkName(f, 'name', p.name);
+    checkDisplay(f, p.name);
     p.agencies?.forEach((a, i) => checkName(f, `agencies[${i}].name`, a.name));
     checkImage(f, 'person', p.image, src);
     checkWiki(f, 'person', p.wikipedia);
@@ -151,6 +168,7 @@ export function checkIntegrity(ds: Dataset, issues: Issue[]): void {
     const f = fileOf('franchises', fr.id);
     const src = checkSources(f, fr.sources);
     checkName(f, 'title', fr.title);
+    checkDisplay(f, fr.title);
     checkWiki(f, 'franchise', fr.wikipedia);
     const ids = new Set<string>();
     for (const c of fr.characters) {
@@ -165,6 +183,7 @@ export function checkIntegrity(ds: Dataset, issues: Issue[]): void {
         if (!(e instanceof MissingHanTableError)) throw e;
       }
       checkName(f, `${where}.name`, c.name);
+      checkDisplay(f, c.name);
       checkText(f, `${where}.description`, c.description);
       checkImage(f, where, c.image, src);
       checkWiki(f, where, c.wikipedia);
@@ -183,6 +202,7 @@ export function checkIntegrity(ds: Dataset, issues: Issue[]): void {
     const f = fileOf('works', w.id);
     const src = checkSources(f, w.sources);
     checkName(f, 'title', w.title);
+    checkDisplay(f, w.title);
     [...(w.studios ?? []), ...(w.developers ?? []), ...(w.publishers ?? [])].forEach((n, i) =>
       checkName(f, `company[${i}]`, n),
     );
@@ -256,6 +276,14 @@ export function checkIntegrity(ds: Dataset, issues: Issue[]): void {
       }
     }
   }
+
+  for (const [file, m] of missingDisplay)
+    warn(
+      file,
+      `표시 언어 표기(공식·통용·번역) 없는 이름: ${Object.entries(m)
+        .map(([l, c]) => `${l} ${c}`)
+        .join(', ')}`,
+    );
 
   // ---- decisions ----
   for (const d of ds.decisions.values()) {

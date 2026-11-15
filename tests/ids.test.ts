@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import { characterIdBase, expectedSlugs } from '../scripts/lib/ids.ts';
-import { subName } from '../src/data/i18n-data.ts';
+import { allNameForms, nameIn, subName } from '../src/data/i18n-data.ts';
 import type { Person } from '../src/types/data.ts';
 
 const P = (id: string, latin: string, birth?: string): Person =>
@@ -41,5 +41,15 @@ describe('character id rule', () => {
   it('is the deterministic romanization of the original name', () => {
     expect(characterIdBase({ original_lang: 'ja', original: '役名なし 1' })).toBe('yaku-mei-nashi-1');
     expect(characterIdBase({ original_lang: 'ja', original: '？？？' })).toBe('character');
+  });
+});
+
+describe('translated names (schema 0.5.0)', () => {
+  it('official > aliases > translated > original', () => {
+    const n = { original_lang: 'ja', original: '呪術廻戦 懐玉・玉折', translated: { ko: '주술회전 회옥·옥절' } };
+    expect(nameIn(n, 'ko')).toMatchObject({ text: '주술회전 회옥·옥절', translated: true });
+    expect(nameIn({ ...n, aliases: { ko: ['회옥옥절'] } }, 'ko').translated).toBe(false);
+    expect(nameIn({ ...n, official: { ko: '주술회전 2기' } }, 'ko').text).toBe('주술회전 2기');
+    expect(allNameForms(n)).toContain('주술회전 회옥·옥절');
   });
 });

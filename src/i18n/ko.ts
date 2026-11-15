@@ -37,6 +37,12 @@ export const ko = {
   verification: { unverified: '미검증', disputed: '확인 필요', user_confirmed: '사용자 확인', verified: '' },
   spoiler: '스포일러',
   translated: '번역',
+  translatedName: '공식 한국어 표기가 없어 이 사이트에서 번역·음역한 표기',
+  castFollowsAnime: '애니와 출연진 동일',
+  castFollowsAnimeNote: (n: number) =>
+    n
+      ? '애니메이션과 다른 배역만 수록했습니다. 나머지 배역은 애니메이션과 같은 성우입니다.'
+      : '애니메이션과 같은 성우진이 출연합니다 (개별 배역은 수록하지 않음).',
   showOriginal: '원문 보기',
   hideOriginal: '번역 보기',
   favoriteSeries: (title: string) => `「${title}」 시리즈 즐겨찾기`,
