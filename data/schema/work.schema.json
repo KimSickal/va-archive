@@ -70,6 +70,10 @@
       "minItems": 1,
       "uniqueItems": true
     },
+    "cast_follows_anime": {
+      "type": "boolean",
+      "description": "애니 원작 게임: 출연진이 애니메이션과 같아서 애니와 다른 배역(다른 성우·게임 오리지널·첫 음성)만 기록했음 (docs/03 5절 \"애니 원작 게임의 배역\"). 화면에 '애니와 출연진 동일'로 표시"
+    },
     "versions": {
       "type": "array",
       "items": {
@@ -119,7 +123,8 @@
           "developers": false,
           "status": {
             "enum": ["announced", "airing", "finished"]
-          }
+          },
+          "cast_follows_anime": false
         }
       }
     },

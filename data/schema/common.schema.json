@@ -58,7 +58,7 @@
       "uniqueItems": true
     },
     "Name": {
-      "description": "고유명사(사람·작품·캐릭터·회사 이름). 원어 표기 필수. 로마자 표기(latin)는 공식 표기나 출처의 읽기가 있을 때만 적고 모르면 생략. official에는 원어 외 언어의 공식 표기만, aliases에는 비공식 통용 표기·구표기·이체자·어순 변형 등 검색용 표기를 넣음(공식 표기가 없어도 가능). official에 original_lang 키는 넣지 않음 (검증 스크립트 확인).",
+      "description": "고유명사(사람·작품·캐릭터·회사 이름). 원어 표기 필수. 로마자 표기(latin)는 공식 표기나 출처의 읽기가 있을 때만 적고 모르면 생략. official에는 원어 외 언어의 공식 표기만, aliases에는 비공식 통용 표기·구표기·이체자·어순 변형 등 검색용 표기를 넣음(공식 표기가 없어도 가능). translated에는 공식 표기가 없을 때 이 사이트가 직접 번역·음역한 표기(읽기를 모르는 이름도 추정해 음역)를 넣음. official·translated에 original_lang 키는 넣지 않음 (검증 스크립트 확인).",
       "type": "object",
       "additionalProperties": false,
       "required": ["original_lang", "original"],
@@ -94,6 +94,17 @@
           },
           "additionalProperties": {
             "$ref": "#/$defs/Aliases"
+          },
+          "minProperties": 1
+        },
+        "translated": {
+          "description": "공식 표기가 없을 때 이 사이트가 직접 번역(제목)·음역(이름)한 표기. 키: 언어 태그. 화면에는 '번역' 표시와 함께 보여줌",
+          "type": "object",
+          "propertyNames": {
+            "$ref": "#/$defs/LangTag"
+          },
+          "additionalProperties": {
+            "$ref": "#/$defs/NonEmptyString"
           },
           "minProperties": 1
         }

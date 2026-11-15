@@ -3,13 +3,18 @@ import type { Name, Text } from '../types/data';
 export type Locale = 'ko' | 'ja' | 'en';
 
 /** docs/03-data-model.md 2.4절 표시 규칙 */
-export function nameIn(n: Name, locale: Locale): { text: string; isOriginal: boolean; official: boolean } {
-  if (n.original_lang === locale) return { text: n.original, isOriginal: true, official: true };
+export function nameIn(
+  n: Name,
+  locale: Locale,
+): { text: string; isOriginal: boolean; official: boolean; translated: boolean } {
+  if (n.original_lang === locale) return { text: n.original, isOriginal: true, official: true, translated: false };
   const off = n.official?.[locale];
-  if (off) return { text: off, isOriginal: false, official: true };
+  if (off) return { text: off, isOriginal: false, official: true, translated: false };
   const alias = n.aliases?.[locale]?.[0];
-  if (alias) return { text: alias, isOriginal: false, official: false };
-  return { text: n.original, isOriginal: true, official: true };
+  if (alias) return { text: alias, isOriginal: false, official: false, translated: false };
+  const tr = n.translated?.[locale];
+  if (tr) return { text: tr, isOriginal: false, official: false, translated: true };
+  return { text: n.original, isOriginal: true, official: true, translated: false };
 }
 
 export function displayName(n: Name, locale: Locale = 'ko'): string {
@@ -43,6 +48,7 @@ export function allNameForms(n: Name): string[] {
     ...(n.latin ? [n.latin] : []),
     ...Object.values(n.official ?? {}),
     ...Object.values(n.aliases ?? {}).flat(),
+    ...Object.values(n.translated ?? {}),
   ];
 }
 

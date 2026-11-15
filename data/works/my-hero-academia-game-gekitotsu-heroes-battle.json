@@ -51,14 +51,6 @@
       },
       "credits": [
         {
-          "character": "rei-nichi-o-cha-shi",
-          "person": "sa-sou-ryou-on",
-          "role": "main",
-          "source_refs": [
-            "s2"
-          ]
-        },
-        {
           "character": "motsu-kan-nei-jin",
           "person": "ten-ki-kou-hei",
           "role": "supporting",
@@ -80,14 +72,6 @@
           "role": "supporting",
           "source_refs": [
             "s5"
-          ]
-        },
-        {
-          "character": "ji-rou-kyou-kou",
-          "person": "shin-dou-kei",
-          "role": "supporting",
-          "source_refs": [
-            "s6"
           ]
         },
         {
@@ -167,5 +151,6 @@
       "verified_at": "2026-11-14"
     },
     "skill_version": "0.5.1"
-  }
+  },
+  "cast_follows_anime": true
 }
