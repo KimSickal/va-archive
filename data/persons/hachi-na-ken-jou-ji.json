@@ -1,0 +1,49 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "hachi-na-ken-jou-ji",
+  "slug": "joji-yanami",
+  "name": {
+    "original_lang": "ja",
+    "original": "八奈見乗児",
+    "latin": "Joji Yanami",
+    "aliases": {
+      "ja": [
+        "やなみじょうじ"
+      ]
+    },
+    "translated": {
+      "ko": "야나미 조지",
+      "en": "Joji Yanami"
+    }
+  },
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%85%AB%E5%A5%88%E8%A6%8B%E4%B9%97%E5%85%90"
+  },
+  "birth": "1931-08-30",
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%85%AB%E5%A5%88%E8%A6%8B%E4%B9%97%E5%85%90",
+      "title": "八奈見乗児 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=3101",
+      "title": "Joji Yanami - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

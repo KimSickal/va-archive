@@ -1,0 +1,872 @@
+{
+  "$schema": "../schema/work.schema.json",
+  "id": "bleach-gotei13-invasion",
+  "franchise_id": "bleach",
+  "type": "anime_tv",
+  "title": {
+    "original_lang": "ja",
+    "original": "BLEACH 護廷十三隊侵軍篇",
+    "latin": "BLEACH Gotei Jusantai Shingun-hen",
+    "aliases": {
+      "en": [
+        "Bleach: Gotei 13 Invading Army"
+      ]
+    },
+    "translated": {
+      "ko": "블리치 호정 13대 침군 편"
+    }
+  },
+  "order": 15,
+  "status": "finished",
+  "start_date": "2011-04-12",
+  "end_date": "2011-10-04",
+  "episodes": 26,
+  "studios": [
+    {
+      "original_lang": "ja",
+      "original": "studioぴえろ",
+      "latin": "studio Pierrot"
+    }
+  ],
+  "versions": [
+    {
+      "id": "ja",
+      "language": "ja",
+      "kind": "original",
+      "label": {
+        "original_lang": "ja",
+        "original": "日本語オリジナル",
+        "translations": {
+          "ko": "일본어 원판",
+          "en": "Japanese original"
+        },
+        "translated": [
+          "ko",
+          "en"
+        ]
+      },
+      "credits": [
+        {
+          "character": "koku-ki-ichi-go",
+          "person": "shin-den-sei-ichi",
+          "role": "main",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s4"
+          ]
+        },
+        {
+          "character": "sei-jou-shoku-ki",
+          "person": "shou-kou-yuu-ki",
+          "role": "main",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s7",
+            "s9"
+          ]
+        },
+        {
+          "character": "a-san-sei-ren-ji",
+          "person": "i-tou-ken-ta-rou",
+          "role": "main",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s4",
+            "s9"
+          ]
+        },
+        {
+          "character": "kyuu-boku-rukia",
+          "person": "setsu-ryuu-fu-bi-shi",
+          "role": "main",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s4"
+          ]
+        },
+        {
+          "character": "shaku-den-u-ryuu",
+          "person": "san-san-ki-shou",
+          "role": "main",
+          "source_refs": [
+            "s2",
+            "s4",
+            "s7",
+            "s9"
+          ]
+        },
+        {
+          "character": "cha-to-tai-ko",
+          "person": "an-gen-you-ki",
+          "role": "main",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s7",
+            "s9"
+          ]
+        },
+        {
+          "character": "a-kin",
+          "person": "ou-den-kei-jin",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s4",
+            "s9"
+          ]
+        },
+        {
+          "character": "kyuu-boku-haku-sai",
+          "person": "chi-nen-ryuu-ta-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s7"
+          ]
+        },
+        {
+          "character": "san-hon-gen-ryuu-sai-chou-koku",
+          "person": "chou-den-sei-shou",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s10"
+          ]
+        },
+        {
+          "character": "hi-shuu",
+          "person": "shou-hon-kou-hei",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s4",
+            "s9"
+          ]
+        },
+        {
+          "character": "han-moku-ichi-kaku",
+          "person": "kai-san-shuu-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s4",
+            "s7",
+            "s8"
+          ]
+        },
+        {
+          "character": "ko-tetsu-yuu-on",
+          "person": "yukana",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s4",
+            "s8",
+            "s22"
+          ]
+        },
+        {
+          "character": "koku-ki-ichi-shin",
+          "person": "shin-sen-chi-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s4",
+            "s9",
+            "s13"
+          ]
+        },
+        {
+          "character": "kichi-ryou-izuru",
+          "person": "ou-sei-kou-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s4",
+            "s8"
+          ]
+        },
+        {
+          "character": "ka-gai-jin-ta",
+          "person": "hon-den-ki-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s9",
+            "s10",
+            "s18"
+          ]
+        },
+        {
+          "character": "fu-chiku-juu-shi-rou",
+          "person": "shaku-sen-ei-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s4"
+          ]
+        },
+        {
+          "character": "in-han-ei-rou-sa",
+          "person": "ko-sen-tou-shi-fu",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s3",
+            "s4"
+          ]
+        },
+        {
+          "character": "koku-ki-ka-ri",
+          "person": "tei-kyuu-ri-kei",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s4",
+            "s9",
+            "s13"
+          ]
+        },
+        {
+          "character": "kou-boku-ken-hachi",
+          "person": "ritsu-boku-bun-gen",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s7",
+            "s8"
+          ]
+        },
+        {
+          "character": "ho-gen-ki-jo",
+          "person": "san-boku-shin-ichi-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s9",
+            "s10"
+          ]
+        },
+        {
+          "character": "kon",
+          "person": "shin-ten-kou-shou",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s4"
+          ]
+        },
+        {
+          "character": "tai-zen-den-ki-sen-dai",
+          "person": "kashi-sei-sou-jin",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s7",
+            "s10"
+          ]
+        },
+        {
+          "character": "netsu-mayuri",
+          "person": "chuu-bi-ryuu-sei",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s7",
+            "s8"
+          ]
+        },
+        {
+          "character": "suu-shin-tou",
+          "person": "sa-kyuu-kan-ku-bi",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s8",
+            "s16",
+            "s17"
+          ]
+        },
+        {
+          "character": "i-sei-shichi-sho",
+          "person": "sei-ten-moku-jin-bi",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s4",
+            "s8"
+          ]
+        },
+        {
+          "character": "netsu-nemu",
+          "person": "tei-kyuu-ri-kei",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s7",
+            "s8"
+          ]
+        },
+        {
+          "character": "kyuu-jou-bou-jitsu",
+          "person": "kin-gen-ju-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s3",
+            "s4"
+          ]
+        },
+        {
+          "character": "yuu-tou-ou-kyo",
+          "person": "san-ho-shou-rou",
+          "role": "supporting",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s14",
+            "s15",
+            "s21",
+            "s23"
+          ]
+        },
+        {
+          "character": "shou-hon-ran-kiku",
+          "person": "shou-koku-hi-sai",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s7"
+          ]
+        },
+        {
+          "character": "bou-no-ka-retsu",
+          "person": "kyuu-sen-ryou",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s4",
+            "s8"
+          ]
+        },
+        {
+          "character": "haku-son-sa-jin",
+          "person": "tou-den-tetsu",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s7",
+            "s8"
+          ]
+        },
+        {
+          "character": "kai-sa-boku-shuu-hei",
+          "person": "shou-sei-koku-kou",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s7",
+            "s8"
+          ]
+        },
+        {
+          "character": "kyou-gaku-shun-sui",
+          "person": "tai-chou-mei-fu",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s4",
+            "s8"
+          ]
+        },
+        {
+          "character": "sai-hou",
+          "person": "sou-tou-hou-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s3",
+            "s8",
+            "s10"
+          ]
+        },
+        {
+          "character": "aku-ryou-tetsu-sai",
+          "person": "ryou-den-sei-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s9",
+            "s10"
+          ]
+        },
+        {
+          "character": "sha-jou-tetsu-sa-ei-mon",
+          "person": "sei-rin-ta-rou",
+          "role": "supporting",
+          "credited_as": "西凛太朗",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s7",
+            "s8"
+          ]
+        },
+        {
+          "character": "nichi-ban-koku-tou-shi-rou",
+          "person": "boku-ro-bi",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s7"
+          ]
+        },
+        {
+          "character": "chuu-oku-u",
+          "person": "ka-oku-soku-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s9",
+            "s10",
+            "s18"
+          ]
+        },
+        {
+          "character": "sou-roku-yachiru",
+          "person": "bou-getsu-kyuu-dai",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s7",
+            "s8"
+          ]
+        },
+        {
+          "character": "shi-fuu-in-ya-ichi",
+          "person": "yukinosatsuki",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s4",
+            "s7",
+            "s9"
+          ]
+        },
+        {
+          "character": "ryou-rai-sen-kyuu-shin",
+          "person": "fuku-san-jun",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s7",
+            "s8",
+            "s10"
+          ]
+        },
+        {
+          "character": "koku-ki-yuu-shi",
+          "person": "rai-da-ho-bi",
+          "role": "supporting",
+          "source_refs": [
+            "s2",
+            "s4",
+            "s9",
+            "s13"
+          ]
+        },
+        {
+          "character": "zan-getsu",
+          "person": "kan-sei-ryuu-shi",
+          "role": "supporting",
+          "source_refs": [
+            "s19",
+            "s20",
+            "s21"
+          ]
+        },
+        {
+          "character": "gi-kon",
+          "person": "setsu-ryuu-fu-bi-shi",
+          "role": "minor",
+          "source_refs": [
+            "s2",
+            "s3"
+          ]
+        },
+        {
+          "character": "san-den-ka-ta-rou",
+          "person": "kyuu-den-kou-ki",
+          "role": "minor",
+          "source_refs": [
+            "s2",
+            "s8",
+            "s10"
+          ]
+        },
+        {
+          "character": "sen-ya-kei-go",
+          "person": "shou-sei-koku-kou",
+          "role": "minor",
+          "source_refs": [
+            "s2",
+            "s9",
+            "s24"
+          ]
+        },
+        {
+          "character": "zou-jin",
+          "person": "hi-den-ten-dan",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s25"
+          ]
+        },
+        {
+          "character": "shou-tou-sui-shoku",
+          "person": "fuku-san-jun",
+          "role": "minor",
+          "source_refs": [
+            "s2",
+            "s9",
+            "s24"
+          ]
+        },
+        {
+          "character": "kyuu-nan-niko",
+          "person": "shin-den-shu-mi",
+          "role": "minor",
+          "source_refs": [
+            "s3",
+            "s9"
+          ]
+        },
+        {
+          "character": "shi-ba",
+          "person": "san-den-chi-wa",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s25"
+          ]
+        },
+        {
+          "character": "obasan",
+          "person": "kou-hon-ka-shi",
+          "role": "minor",
+          "source_refs": [
+            "s2",
+            "s26"
+          ]
+        },
+        {
+          "character": "ririn",
+          "person": "kakazuyumi",
+          "role": "minor",
+          "source_refs": [
+            "s1",
+            "s2",
+            "s25"
+          ]
+        },
+        {
+          "character": "shou-chin-sen-ta-rou",
+          "person": "en-kin-kou-ichi",
+          "role": "minor",
+          "source_refs": [
+            "s2",
+            "s3",
+            "s8"
+          ]
+        },
+        {
+          "character": "soldier",
+          "person": "sei-jou-gou",
+          "role": "minor",
+          "source_refs": [
+            "s2"
+          ],
+          "verification": "unverified"
+        },
+        {
+          "character": "yuu-taku-ryuu-ki",
+          "person": "ya-den-jun-shi",
+          "role": "minor",
+          "source_refs": [
+            "s2",
+            "s9",
+            "s24"
+          ]
+        },
+        {
+          "character": "i-kou-son-hachi-juu-sen-wa",
+          "person": "sei-san-jou",
+          "role": "minor",
+          "source_refs": [
+            "s2",
+            "s8",
+            "s10"
+          ]
+        },
+        {
+          "character": "sha-koku-zen-shi-jo",
+          "person": "shi-bu-ga-shi",
+          "role": "minor",
+          "source_refs": [
+            "s2",
+            "s8",
+            "s24"
+          ]
+        },
+        {
+          "character": "shi-shin-a",
+          "person": "sa-boku-kei-fu",
+          "role": "minor",
+          "source_refs": [
+            "s2",
+            "s27"
+          ]
+        },
+        {
+          "character": "shi-shin-b",
+          "person": "mo-boku-takamasa",
+          "role": "minor",
+          "source_refs": [
+            "s2",
+            "s28"
+          ]
+        }
+      ],
+      "release_date": "2011-04-12"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/BLEACH_%28%E3%82%A2%E3%83%8B%E3%83%A1%29",
+      "title": "BLEACH (アニメ) - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4240",
+      "title": "Bleach (TV) - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s3",
+      "url": "https://bleach.fandom.com/wiki/Unusual_Incident_in_Seireitei%3F%21_Gotei_13_Invading_Army_Arc%21",
+      "title": "Unusual Incident in Seireitei?! Gotei 13 Invading Army Arc! | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s4",
+      "url": "https://bleach.fandom.com/wiki/Renji_vs._Rukia%3F%21_Battle_With_Comrades%21",
+      "title": "Renji vs. Rukia?! Battle With Comrades! | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s7",
+      "url": "https://bleach.fandom.com/wiki/Ichigo%27s_Capture_Net%21_Escape_From_Soul_Society%21",
+      "title": "Ichigo's Capture Net! Escape From Soul Society! | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s8",
+      "url": "https://ja.wikipedia.org/wiki/%E8%AD%B7%E5%BB%B7%E5%8D%81%E4%B8%89%E9%9A%8A",
+      "title": "護廷十三隊 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s9",
+      "url": "https://ja.wikipedia.org/wiki/BLEACH%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9",
+      "title": "BLEACHの登場人物 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s10",
+      "url": "https://bleach.fandom.com/wiki/Gotei_13%2C_Gathering_in_the_Real_World%21",
+      "title": "Gotei 13, Gathering in the Real World! | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s13",
+      "url": "https://bleach.fandom.com/wiki/I_Want_to_Live...%21_Nozomi%27s_Zanpakut%C5%8D",
+      "title": "I Want to Live...! Nozomi's Zanpakutō | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s14",
+      "url": "https://bleach.fandom.com/wiki/Showdown_of_Mutual_Self%2C_Ikkaku_vs._Ikkaku%21",
+      "title": "Showdown of Mutual Self, Ikkaku vs. Ikkaku! | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s15",
+      "url": "https://bleach.fandom.com/wiki/For_the_Sake_of_the_Believers%21_Byakuya_vs._Hitsugaya%21",
+      "title": "For the Sake of the Believers! Byakuya vs. Hitsugaya! | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s16",
+      "url": "https://bleach.fandom.com/wiki/The_Two_Hinamoris%2C_Hitsugaya%27s_Resolution",
+      "title": "The Two Hinamoris, Hitsugaya's Resolution | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s17",
+      "url": "https://bleach.fandom.com/wiki/The_Forbidden_Research...Nozomi%27s_Hidden_Secret%21",
+      "title": "The Forbidden Research...Nozomi's Hidden Secret! | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s18",
+      "url": "https://bleach.fandom.com/wiki/Recapture_Seireitei%21_The_Captains_Move%21",
+      "title": "Recapture Seireitei! The Captains Move! | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s19",
+      "url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E5%B4%8E%E4%B8%80%E8%AD%B7",
+      "title": "黒崎一護 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s20",
+      "url": "https://bleach.fandom.com/wiki/The_Developer_of_the_Modified_Souls",
+      "title": "The Developer of the Modified Souls | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s21",
+      "url": "https://bleach.fandom.com/wiki/Kon%27s_Thoughts%2C_Nozomi%27s_Thoughts",
+      "title": "Kon's Thoughts, Nozomi's Thoughts | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s22",
+      "url": "https://bleach.fandom.com/wiki/Clash%21_Rukia_vs._Rukia%21",
+      "title": "Clash! Rukia vs. Rukia! | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s23",
+      "url": "https://bleach.fandom.com/wiki/Protect_Ichigo%21_The_Bonds_of_Friends%21",
+      "title": "Protect Ichigo! The Bonds of Friends! | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s24",
+      "url": "https://bleach.fandom.com/wiki/Thank_You",
+      "title": "Thank You | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s25",
+      "url": "https://bleach.fandom.com/wiki/Defeat_Kager%C5%8Dza%21_Shinigami%2C_All-Out_War%21",
+      "title": "Defeat Kagerōza! Shinigami, All-Out War! | Bleach Wiki | Fandom",
+      "publisher": "fandom",
+      "tier": 3,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s26",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%A1%E6%9C%AC%E5%98%89%E5%AD%90",
+      "title": "岡本嘉子 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s27",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E3%80%85%E6%9C%A8%E5%95%93%E5%A4%AB",
+      "title": "佐々木啓夫 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s28",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8C%82%E6%9C%A8%E3%81%9F%E3%81%8B%E3%81%BE%E3%81%95",
+      "title": "茂木たかまさ - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

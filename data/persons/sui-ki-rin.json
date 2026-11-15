@@ -1,0 +1,52 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sui-ki-rin",
+  "slug": "rin-mizuki",
+  "name": {
+    "original_lang": "ja",
+    "original": "水希凜",
+    "latin": "Rin Mizuki",
+    "aliases": {
+      "ja": [
+        "みずきりん"
+      ]
+    },
+    "translated": {
+      "ko": "미즈키 린",
+      "en": "Rin Mizuki"
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E5%B8%8C%E5%87%9C"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=226332",
+      "title": "Rin MIZUKI - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E5%B8%8C%E5%87%9C",
+      "title": "水希凜",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  }
+}

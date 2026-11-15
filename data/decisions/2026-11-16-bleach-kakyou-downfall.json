@@ -1,0 +1,29 @@
+{
+  "$schema": "../schema/decision.schema.json",
+  "id": "2026-11-16-bleach-kakyou-downfall",
+  "date": "2026-11-16",
+  "kind": "field_value",
+  "subjects": [
+    {
+      "kind": "character",
+      "id": "bleach/ka-kyou"
+    },
+    {
+      "kind": "work",
+      "id": "bleach-arrancar-downfall"
+    }
+  ],
+  "decision": "歌匡・早水リサの破面・滅亡篇のクレジットを残す",
+  "rationale": "ANNの早水リサの人物ページに「Kaname's Friend (ep 53 and 290)」とある。第290話は破面・滅亡篇（2010–11年）の回想。ja.wikipediaの年（2004–2005年）は最初の登場の年で、第290話の再登場を否定してはいない",
+  "evidence": [
+    {
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=13755",
+      "tier": 2
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/早水リサ",
+      "tier": 2
+    }
+  ],
+  "decided_by": "mediator"
+}

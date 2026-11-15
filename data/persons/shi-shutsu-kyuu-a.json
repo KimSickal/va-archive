@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shi-shutsu-kyuu-a",
+  "slug": "maria-sashide",
+  "name": {
+    "original_lang": "ja",
+    "original": "指出毬亜",
+    "latin": "Maria Sashide",
+    "aliases": {
+      "ja": [
+        "さしでまりあ"
+      ]
+    },
+    "translated": {
+      "ko": "사시데 마리아",
+      "en": "Maria Sashide"
+    }
+  },
+  "gender": "female",
+  "birth": "1998-09-20",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%8C%87%E5%87%BA%E6%AF%AC%E4%BA%9C"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%8C%87%E5%87%BA%E6%AF%AC%E4%BA%9C",
+      "title": "指出毬亜 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=152049",
+      "title": "Maria Sashide - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

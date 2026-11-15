@@ -1,0 +1,31 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "gim-jong-yeop",
+  "slug": "gim-jong-yeop",
+  "name": {
+    "original_lang": "ko",
+    "original": "김종엽",
+    "translated": {
+      "ja": "キム・ジョンヨプ",
+      "en": "Gim Jong-yeop"
+    }
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B8%94%EB%A6%AC%EC%B9%98_%EC%B2%9C%EB%85%84%ED%98%88%EC%A0%84_%ED%8E%B8",
+      "title": "블리치 천년혈전 편 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

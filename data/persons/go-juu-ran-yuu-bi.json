@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "go-juu-ran-yuu-bi",
+  "slug": "hiromi-igarashi",
+  "name": {
+    "original_lang": "ja",
+    "original": "五十嵐裕美",
+    "latin": "Hiromi Igarashi",
+    "aliases": {
+      "ja": [
+        "いがらしひろみ"
+      ]
+    },
+    "translated": {
+      "ko": "이가라시 히로미",
+      "en": "Hiromi Igarashi"
+    }
+  },
+  "gender": "female",
+  "birth": "1986-12-13",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%BA%94%E5%8D%81%E5%B5%90%E8%A3%95%E7%BE%8E"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%94%E5%8D%81%E5%B5%90%E8%A3%95%E7%BE%8E",
+      "title": "五十嵐裕美 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=34411",
+      "title": "Hiromi Igarashi - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

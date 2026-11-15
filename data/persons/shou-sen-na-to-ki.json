@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shou-sen-na-to-ki",
+  "slug": "natsuki-aikawa",
+  "name": {
+    "original_lang": "ja",
+    "original": "相川奈都姫",
+    "latin": "Natsuki Aikawa",
+    "aliases": {
+      "ja": [
+        "あいかわなつき"
+      ]
+    },
+    "translated": {
+      "ko": "아이카와 나츠키",
+      "en": "Natsuki Aikawa"
+    }
+  },
+  "gender": "female",
+  "birth": "1990-08-21",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%9B%B8%E5%B7%9D%E5%A5%88%E9%83%BD%E5%A7%AB"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9B%B8%E5%B7%9D%E5%A5%88%E9%83%BD%E5%A7%AB",
+      "title": "相川奈都姫 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=121023",
+      "title": "Natsuki Aikawa - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

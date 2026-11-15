@@ -1,0 +1,53 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kin-tou-kou-kou",
+  "slug": "takayuki-kondo-1978",
+  "name": {
+    "original_lang": "ja",
+    "original": "近藤孝行",
+    "latin": "Takayuki Kondo",
+    "aliases": {
+      "ja": [
+        "こんどうたかゆき"
+      ]
+    },
+    "translated": {
+      "ko": "콘도 타카유키",
+      "en": "Takayuki Kondo"
+    }
+  },
+  "gender": "male",
+  "birth": "1978-06-05",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E8%BF%91%E8%97%A4%E5%AD%9D%E8%A1%8C"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E8%97%A4%E5%AD%9D%E8%A1%8C",
+      "title": "近藤孝行 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=207003",
+      "title": "Takayuki Kondo - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  },
+  "nationality": [
+    "JP"
+  ]
+}

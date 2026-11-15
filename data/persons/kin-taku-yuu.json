@@ -1,0 +1,53 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kin-taku-yuu",
+  "slug": "yu-serizawa",
+  "name": {
+    "original_lang": "ja",
+    "original": "芹澤優",
+    "latin": "Yu Serizawa",
+    "aliases": {
+      "ja": [
+        "せりざわゆう"
+      ]
+    },
+    "translated": {
+      "ko": "세리자와 유",
+      "en": "Yu Serizawa"
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1994-12-03",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E8%8A%B9%E6%BE%A4%E5%84%AA"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=118002",
+      "title": "Yū SERIZAWA - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8A%B9%E6%BE%A4%E5%84%AA",
+      "title": "芹澤優",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  }
+}

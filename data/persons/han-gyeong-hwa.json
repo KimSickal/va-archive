@@ -1,0 +1,38 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "han-gyeong-hwa",
+  "slug": "han-gyeong-hwa",
+  "name": {
+    "original_lang": "ko",
+    "original": "한경화",
+    "translated": {
+      "ja": "ハン・ギョンファ",
+      "en": "Han Gyeong-hwa"
+    }
+  },
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1977-09-27",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B2%BD%ED%99%94"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B2%BD%ED%99%94",
+      "title": "한경화 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  }
+}

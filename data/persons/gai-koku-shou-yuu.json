@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "gai-koku-shou-yuu",
+  "slug": "katsuyoshi-toya",
+  "name": {
+    "original_lang": "ja",
+    "original": "外谷勝由",
+    "latin": "Katsuyoshi Toya",
+    "aliases": {
+      "ja": [
+        "とやかつよし"
+      ]
+    },
+    "translated": {
+      "ko": "토야 카츠요시",
+      "en": "Katsuyoshi Toya"
+    }
+  },
+  "gender": "male",
+  "birth": "1952-10-14",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%A4%96%E8%B0%B7%E5%8B%9D%E7%94%B1"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%96%E8%B0%B7%E5%8B%9D%E7%94%B1",
+      "title": "外谷勝由 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=95352",
+      "title": "Katsuyoshi Toya - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

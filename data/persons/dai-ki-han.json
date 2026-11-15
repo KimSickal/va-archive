@@ -1,0 +1,32 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "dai-ki-han",
+  "slug": "kiho-uchi",
+  "name": {
+    "original_lang": "ja",
+    "original": "内希帆",
+    "latin": "Kiho Uchi",
+    "translated": {
+      "ko": "우치 기호",
+      "en": "Kiho Uchi"
+    }
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=290283",
+      "title": "Kiho UCHI - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  }
+}

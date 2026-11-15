@@ -1,0 +1,32 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "chou-nichi-sui-ka",
+  "slug": "suika-asahi",
+  "name": {
+    "original_lang": "ja",
+    "original": "朝日翠夏",
+    "latin": "Suika Asahi",
+    "translated": {
+      "ko": "아사히 스이카",
+      "en": "Suika Asahi"
+    }
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=282954",
+      "title": "Suika ASAHI - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  }
+}

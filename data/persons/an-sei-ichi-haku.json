@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "an-sei-ichi-haku",
+  "slug": "kazuhiro-anzai",
+  "name": {
+    "original_lang": "ja",
+    "original": "安斉一博",
+    "latin": "Kazuhiro Anzai",
+    "aliases": {
+      "ja": [
+        "あんざいかずひろ"
+      ]
+    },
+    "translated": {
+      "ko": "안자이 카즈히로",
+      "en": "Kazuhiro Anzai"
+    }
+  },
+  "gender": "male",
+  "birth": "1981-01-04",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%AE%89%E6%96%89%E4%B8%80%E5%8D%9A"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%89%E6%96%89%E4%B8%80%E5%8D%9A",
+      "title": "安斉一博 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=58193",
+      "title": "Kazuhiro Anzai - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

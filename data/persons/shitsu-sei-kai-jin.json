@@ -1,0 +1,49 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shitsu-sei-kai-jin",
+  "slug": "kaito-muroi",
+  "name": {
+    "original_lang": "ja",
+    "original": "室井海人",
+    "latin": "Kaito Muroi",
+    "aliases": {
+      "ja": [
+        "むろいかいと"
+      ]
+    },
+    "translated": {
+      "ko": "무로이 카이토",
+      "en": "Kaito Muroi"
+    }
+  },
+  "gender": "male",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%AE%A4%E4%BA%95%E6%B5%B7%E4%BA%BA"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%A4%E4%BA%95%E6%B5%B7%E4%BA%BA",
+      "title": "室井海人 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=191688",
+      "title": "Kaito Muroi - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

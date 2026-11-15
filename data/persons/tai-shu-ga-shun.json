@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "tai-shu-ga-shun",
+  "slug": "jun-osuka",
+  "name": {
+    "original_lang": "ja",
+    "original": "大須賀純",
+    "latin": "Jun Osuka",
+    "aliases": {
+      "ja": [
+        "おおすかじゅん"
+      ]
+    },
+    "translated": {
+      "ko": "오스카 준",
+      "en": "Jun Osuka"
+    }
+  },
+  "gender": "male",
+  "birth": "1979-05-24",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%A0%88%E8%B3%80%E7%B4%94"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%A0%88%E8%B3%80%E7%B4%94",
+      "title": "大須賀純 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=59077",
+      "title": "Jun Osuka - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

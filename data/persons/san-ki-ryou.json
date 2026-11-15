@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "san-ki-ryou",
+  "slug": "ryo-sugisaki",
+  "name": {
+    "original_lang": "ja",
+    "original": "杉崎亮",
+    "latin": "Ryo Sugisaki",
+    "aliases": {
+      "ja": [
+        "すぎさきりょう"
+      ]
+    },
+    "translated": {
+      "ko": "스기사키 료",
+      "en": "Ryo Sugisaki"
+    }
+  },
+  "gender": "male",
+  "birth": "1979-08-11",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%9D%89%E5%B4%8E%E4%BA%AE"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%89%E5%B4%8E%E4%BA%AE",
+      "title": "杉崎亮 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=48517",
+      "title": "Ryo Sugisaki - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

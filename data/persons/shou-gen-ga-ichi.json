@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shou-gen-ga-ichi",
+  "slug": "masakazu-kohara",
+  "name": {
+    "original_lang": "ja",
+    "original": "小原雅一",
+    "latin": "Masakazu Kohara",
+    "aliases": {
+      "ja": [
+        "こはらまさかず"
+      ]
+    },
+    "translated": {
+      "ko": "코하라 마사카즈",
+      "en": "Masakazu Kohara"
+    }
+  },
+  "gender": "male",
+  "birth": "1979-07-18",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%8E%9F%E9%9B%85%E4%B8%80"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%8E%9F%E9%9B%85%E4%B8%80",
+      "title": "小原雅一 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=7590",
+      "title": "Masakazu Kohara - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

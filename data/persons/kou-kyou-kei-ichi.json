@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kou-kyou-kei-ichi",
+  "slug": "keiichi-takahashi",
+  "name": {
+    "original_lang": "ja",
+    "original": "高橋圭一",
+    "latin": "Keiichi Takahashi",
+    "aliases": {
+      "ja": [
+        "たかはしけいいち"
+      ]
+    },
+    "translated": {
+      "ko": "타카하시 케이이치",
+      "en": "Keiichi Takahashi"
+    }
+  },
+  "birth": "1972-06-23",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%A9%8B%E5%9C%AD%E4%B8%80"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%A9%8B%E5%9C%AD%E4%B8%80",
+      "title": "高橋圭一 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=67444",
+      "title": "Keiichi Takahashi - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  },
+  "gender": "male"
+}

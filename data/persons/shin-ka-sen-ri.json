@@ -1,0 +1,41 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shin-ka-sen-ri",
+  "slug": "chisato-morishita",
+  "name": {
+    "original_lang": "ja",
+    "original": "森下千里",
+    "latin": "Chisato Morishita",
+    "aliases": {
+      "ja": [
+        "もりしたちさと"
+      ]
+    },
+    "translated": {
+      "ko": "모리시타 치사토",
+      "en": "Chisato Morishita"
+    }
+  },
+  "birth": "1981-09-01",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E4%B8%8B%E5%8D%83%E9%87%8C"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E4%B8%8B%E5%8D%83%E9%87%8C",
+      "title": "森下千里 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

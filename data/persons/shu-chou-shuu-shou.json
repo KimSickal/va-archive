@@ -1,0 +1,49 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shu-chou-shuu-shou",
+  "slug": "hideaki-tezuka",
+  "name": {
+    "original_lang": "ja",
+    "original": "手塚秀彰",
+    "latin": "Hideaki Tezuka",
+    "aliases": {
+      "ja": [
+        "てづかひであき"
+      ]
+    },
+    "translated": {
+      "ko": "테즈카 히데아키",
+      "en": "Hideaki Tezuka"
+    }
+  },
+  "birth": "1954-12-05",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%89%8B%E5%A1%9A%E7%A7%80%E5%BD%B0"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%89%8B%E5%A1%9A%E7%A7%80%E5%BD%B0",
+      "title": "手塚秀彰 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=62447",
+      "title": "Hideaki Tezuka - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kurochan",
+  "slug": "kuro-chan",
+  "name": {
+    "original_lang": "ja",
+    "original": "クロちゃん",
+    "latin": "Kuro-chan",
+    "translated": {
+      "ko": "쿠로찬",
+      "en": "Kuro-chan"
+    }
+  },
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%81%A1%E3%82%83%E3%82%93_%28%E3%81%8A%E7%AC%91%E3%81%84%E8%8A%B8%E4%BA%BA%29"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%81%A1%E3%82%83%E3%82%93_%28%E3%81%8A%E7%AC%91%E3%81%84%E8%8A%B8%E4%BA%BA%29",
+      "title": "クロちゃん (お笑い芸人) - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

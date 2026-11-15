@@ -1,0 +1,53 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ka-chi-shi-ya",
+  "slug": "shino-shimoji",
+  "name": {
+    "original_lang": "ja",
+    "original": "下地紫野",
+    "latin": "Shino Shimoji",
+    "aliases": {
+      "ja": [
+        "しもじしの"
+      ]
+    },
+    "translated": {
+      "ko": "시모지 시노",
+      "en": "Shino Shimoji"
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1993-06-04",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E5%9C%B0%E7%B4%AB%E9%87%8E"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=123672",
+      "title": "Shino SHIMOJI - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E5%9C%B0%E7%B4%AB%E9%87%8E",
+      "title": "下地紫野",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  }
+}

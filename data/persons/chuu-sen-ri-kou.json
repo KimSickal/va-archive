@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "chuu-sen-ri-kou",
+  "slug": "rie-nakagawa",
+  "name": {
+    "original_lang": "ja",
+    "original": "中川里江",
+    "latin": "Rie Nakagawa",
+    "aliases": {
+      "ja": [
+        "なかがわりえ"
+      ]
+    },
+    "translated": {
+      "ko": "나카가와 리에",
+      "en": "Rie Nakagawa"
+    }
+  },
+  "gender": "female",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B7%9D%E9%87%8C%E6%B1%9F"
+  },
+  "birth": "1973-12-26",
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B7%9D%E9%87%8C%E6%B1%9F",
+      "title": "中川里江 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=20439",
+      "title": "Rie Nakagawa - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "chin-ri-sa",
+  "slug": "risa-tsubaki",
+  "name": {
+    "original_lang": "ja",
+    "original": "椿理沙",
+    "latin": "Risa Tsubaki",
+    "aliases": {
+      "ja": [
+        "つばきりさ"
+      ]
+    },
+    "translated": {
+      "ko": "츠바키 리사",
+      "en": "Risa Tsubaki"
+    }
+  },
+  "gender": "female",
+  "birth": "1979-09-08",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%A4%BF%E7%90%86%E6%B2%99"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A4%BF%E7%90%86%E6%B2%99",
+      "title": "椿理沙 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=40221",
+      "title": "Risa Tsubaki - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

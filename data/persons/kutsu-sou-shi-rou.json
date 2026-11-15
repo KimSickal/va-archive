@@ -1,0 +1,49 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kutsu-sou-shi-rou",
+  "slug": "soshiro-hori",
+  "name": {
+    "original_lang": "ja",
+    "original": "堀総士郎",
+    "latin": "Soshiro Hori",
+    "aliases": {
+      "ja": [
+        "ほりそうしろう"
+      ]
+    },
+    "translated": {
+      "ko": "호리 소시로",
+      "en": "Soshiro Hori"
+    }
+  },
+  "gender": "male",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%A0%80%E7%B7%8F%E5%A3%AB%E9%83%8E"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A0%80%E7%B7%8F%E5%A3%AB%E9%83%8E",
+      "title": "堀総士郎 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=133258",
+      "title": "Soshiro Hori - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

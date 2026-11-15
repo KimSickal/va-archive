@@ -1,0 +1,53 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "han-kou-tetsu-fu",
+  "slug": "tetsuo-sakaguchi",
+  "name": {
+    "original_lang": "ja",
+    "original": "坂口哲夫",
+    "latin": "Tetsuo Sakaguchi",
+    "aliases": {
+      "ja": [
+        "さかぐちてつお"
+      ]
+    },
+    "translated": {
+      "ko": "사카구치 데쓰오",
+      "en": "Tetsuo Sakaguchi"
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1952-10-24",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%9D%82%E5%8F%A3%E5%93%B2%E5%A4%AB"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=9898",
+      "title": "Tetsuo SAKAGUCHI - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E5%9D%82%E5%8F%A3%E5%93%B2%E5%A4%AB",
+      "title": "坂口哲夫",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  }
+}

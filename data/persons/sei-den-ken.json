@@ -1,0 +1,49 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sei-den-ken",
+  "slug": "ken-narita",
+  "name": {
+    "original_lang": "ja",
+    "original": "成田剣",
+    "latin": "Ken Narita",
+    "aliases": {
+      "ja": [
+        "なりたけん"
+      ]
+    },
+    "translated": {
+      "ko": "나리타 켄",
+      "en": "Ken Narita"
+    }
+  },
+  "birth": "1964-05-18",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%88%90%E7%94%B0%E5%89%A3"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%88%90%E7%94%B0%E5%89%A3",
+      "title": "成田剣 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=285",
+      "title": "Ken Narita - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

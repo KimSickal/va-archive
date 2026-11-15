@@ -1,0 +1,29 @@
+{
+  "$schema": "../schema/decision.schema.json",
+  "id": "2026-11-16-bleach-white-ichigo-separate-character",
+  "date": "2026-11-16",
+  "kind": "field_value",
+  "subjects": [
+    {
+      "kind": "character",
+      "id": "bleach/haku-ichi-go"
+    },
+    {
+      "kind": "work",
+      "id": "bleach-rebirth-of-souls"
+    }
+  ],
+  "decision": "アニメでは白一護が別の役として森田成一にクレジットされている。尸魂界・救出篇（初登場）と斬魄刀異聞篇のjaに白一護・森田成一を追加した。Rebirth of Soulsの白一護・森田成一（s34）は、アニメと同じ声になるので削除した（どちらの比較基準でも同じ）。以前のゲームの白一護のクレジット（推定、削除済み）は削除のまま",
+  "rationale": "森田成一のja.wikipediaは「BLEACH（2004年 - 2012年、黒崎一護、白一護）」と書いている。黒崎一護のja.wikipediaは斬魄刀異聞篇での白一護の登場を書いている。削除済みのゲーム（DS1 2006-01-26以降）はどれも救出篇の放送終了（2006-01-10）より後に出ている。削除したクレジット: bleach-rebirth-of-souls ja {character: haku-ichi-go, person: shin-den-sei-ichi, role: supporting, source_refs: [s34 森田成一 ja.wikipedia]}",
+  "evidence": [
+    {
+      "url": "https://ja.wikipedia.org/wiki/森田成一",
+      "tier": 2
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/黒崎一護",
+      "tier": 2
+    }
+  ],
+  "decided_by": "mediator"
+}

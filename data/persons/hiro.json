@@ -1,0 +1,36 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "hiro",
+  "slug": "hiro",
+  "name": {
+    "original_lang": "ja",
+    "original": "HIRO",
+    "latin": "HIRO",
+    "translated": {
+      "ko": "히로",
+      "en": "HIRO"
+    }
+  },
+  "birth": "1977-04-20",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/HIRO_%28%E3%81%8A%E7%AC%91%E3%81%84%E8%8A%B8%E4%BA%BA%29"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/HIRO_%28%E3%81%8A%E7%AC%91%E3%81%84%E8%8A%B8%E4%BA%BA%29",
+      "title": "HIRO (お笑い芸人) - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

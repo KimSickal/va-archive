@@ -1,0 +1,32 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "i-tou-sayo-shi",
+  "slug": "sayoko-ito",
+  "name": {
+    "original_lang": "ja",
+    "original": "伊藤さよ子",
+    "latin": "Sayoko Ito",
+    "translated": {
+      "ko": "이토 사요코",
+      "en": "Sayoko Ito"
+    }
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=298368",
+      "title": "Sayoko ITŌ - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  }
+}

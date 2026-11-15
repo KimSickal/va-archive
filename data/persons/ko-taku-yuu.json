@@ -1,0 +1,49 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ko-taku-yuu",
+  "slug": "toru-furusawa",
+  "name": {
+    "original_lang": "ja",
+    "original": "古澤融",
+    "latin": "Toru Furusawa",
+    "aliases": {
+      "ja": [
+        "ふるさわとおる"
+      ]
+    },
+    "translated": {
+      "ko": "후루사와 토루",
+      "en": "Toru Furusawa"
+    }
+  },
+  "birth": "1962-08-03",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E6%BE%A4%E8%9E%8D"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E6%BE%A4%E8%9E%8D",
+      "title": "古澤融 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=5602",
+      "title": "Toru Furusawa - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

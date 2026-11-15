@@ -1,0 +1,42 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kou-chou-chi-jin",
+  "slug": "tomohito-takatsuka",
+  "name": {
+    "original_lang": "ja",
+    "original": "高塚智人",
+    "latin": "Tomohito Takatsuka",
+    "aliases": {
+      "ja": [
+        "たかつかともひと"
+      ]
+    },
+    "translated": {
+      "ko": "타카츠카 토모히토",
+      "en": "Tomohito Takatsuka"
+    }
+  },
+  "gender": "male",
+  "birth": "1992-08-25",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%A1%9A%E6%99%BA%E4%BA%BA"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%A1%9A%E6%99%BA%E4%BA%BA",
+      "title": "高塚智人 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-16"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-16",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.9.0"
+  }
+}

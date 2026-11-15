@@ -1,0 +1,49 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "kyuu-ho-tai-jin",
+  "slug": "tite-kubo",
+  "name": {
+    "original_lang": "ja",
+    "original": "久保帯人",
+    "latin": "Tite Kubo",
+    "aliases": {
+      "ja": [
+        "くぼたいと"
+      ]
+    },
+    "translated": {
+      "ko": "쿠보 티테",
+      "en": "Tite Kubo"
+    }
+  },
+  "birth": "1977-06-26",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%B9%85%E4%BF%9D%E5%B8%AF%E4%BA%BA"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B9%85%E4%BF%9D%E5%B8%AF%E4%BA%BA",
+      "title": "久保帯人 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=71394",
+      "title": "Tite Kubo - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

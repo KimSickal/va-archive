@@ -1,0 +1,52 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "han-hon-yuu-ri",
+  "slug": "yuri-sakamoto",
+  "name": {
+    "original_lang": "ja",
+    "original": "坂本悠里",
+    "latin": "Yuri Sakamoto",
+    "aliases": {
+      "ja": [
+        "さかもとゆうり"
+      ]
+    },
+    "translated": {
+      "ko": "사카모토 유리",
+      "en": "Yuri Sakamoto"
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%9D%82%E6%9C%AC%E6%82%A0%E9%87%8C"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=220911",
+      "title": "Yuri SAKAMOTO - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E5%9D%82%E6%9C%AC%E6%82%A0%E9%87%8C",
+      "title": "坂本悠里",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sin-yeong-ae",
+  "slug": "sin-yeong-ae",
+  "name": {
+    "original_lang": "ko",
+    "original": "신영애",
+    "translated": {
+      "ja": "シン・ヨンエ",
+      "en": "Sin Yeong-ae"
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1971-11-06",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%98%81%EC%95%A0"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%98%81%EC%95%A0",
+      "title": "신영애 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  }
+}

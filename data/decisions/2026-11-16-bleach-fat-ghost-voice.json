@@ -1,0 +1,29 @@
+{
+  "$schema": "../schema/decision.schema.json",
+  "id": "2026-11-16-bleach-fat-ghost-voice",
+  "date": "2026-11-16",
+  "kind": "field_value",
+  "subjects": [
+    {
+      "kind": "character",
+      "id": "bleach/debu-kon-haku"
+    },
+    {
+      "kind": "work",
+      "id": "bleach-substitute-shinigami"
+    }
+  ],
+  "decision": "デブ魂魄（死神代行篇）の声は長嶝高士のまま。大塚芳忠に変えない",
+  "rationale": "長嶝高士のja.wikipediaはBLEACH（2004年〜2007年）の役としてデブ魂魄を挙げている。大塚芳忠のja.wikipediaはBLEACHの役としてメタスタシアとテンタクルズだけを挙げ、デブ魂魄を挙げていない。ANNのFat Ghost＝大塚芳忠という記載を支える出典はほかにない",
+  "evidence": [
+    {
+      "url": "https://ja.wikipedia.org/wiki/長嶝高士",
+      "tier": 2
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/大塚芳忠",
+      "tier": 2
+    }
+  ],
+  "decided_by": "mediator"
+}

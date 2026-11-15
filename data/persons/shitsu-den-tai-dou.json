@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shitsu-den-tai-dou",
+  "slug": "yasumichi-kushida",
+  "name": {
+    "original_lang": "ja",
+    "original": "櫛田泰道",
+    "latin": "Yasumichi Kushida",
+    "aliases": {
+      "ja": [
+        "くしだやすみち"
+      ]
+    },
+    "translated": {
+      "ko": "쿠시다 야스미치",
+      "en": "Yasumichi Kushida"
+    }
+  },
+  "gender": "male",
+  "birth": "1976-06-06",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%AB%9B%E7%94%B0%E6%B3%B0%E9%81%93"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AB%9B%E7%94%B0%E6%B3%B0%E9%81%93",
+      "title": "櫛田泰道 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=55752",
+      "title": "Yasumichi Kushida - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

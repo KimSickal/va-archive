@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "chiku-kou-an-gei-shi",
+  "slug": "akiko-takeguchi",
+  "name": {
+    "original_lang": "ja",
+    "original": "竹口安芸子",
+    "latin": "Akiko Takeguchi",
+    "aliases": {
+      "ja": [
+        "たけぐちあきこ"
+      ]
+    },
+    "translated": {
+      "ko": "타케구치 아키코",
+      "en": "Akiko Takeguchi"
+    }
+  },
+  "birth": "1942-11-06",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%8F%A3%E5%AE%89%E8%8A%B8%E5%AD%90"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%8F%A3%E5%AE%89%E8%8A%B8%E5%AD%90",
+      "title": "竹口安芸子 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=16320",
+      "title": "Akiko Takeguchi - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  },
+  "gender": "female"
+}

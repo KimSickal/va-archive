@@ -1,0 +1,49 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "sei-boku-bi-han",
+  "slug": "miho-saiki",
+  "name": {
+    "original_lang": "ja",
+    "original": "斉木美帆",
+    "latin": "Miho Saiki",
+    "aliases": {
+      "ja": [
+        "さいきみほ"
+      ]
+    },
+    "translated": {
+      "ko": "사이키 미호",
+      "en": "Miho Saiki"
+    }
+  },
+  "gender": "female",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%96%89%E6%9C%A8%E7%BE%8E%E5%B8%86"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%96%89%E6%9C%A8%E7%BE%8E%E5%B8%86",
+      "title": "斉木美帆 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=31489",
+      "title": "Miho Saiki - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

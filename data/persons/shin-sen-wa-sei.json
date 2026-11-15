@@ -1,0 +1,49 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shin-sen-wa-sei",
+  "slug": "kazumasa-fukagawa",
+  "name": {
+    "original_lang": "ja",
+    "original": "深川和征",
+    "latin": "Kazumasa Fukagawa",
+    "aliases": {
+      "ja": [
+        "ふかがわかずまさ"
+      ]
+    },
+    "translated": {
+      "ko": "후카가와 카즈마사",
+      "en": "Kazumasa Fukagawa"
+    }
+  },
+  "gender": "male",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%B7%B1%E5%B7%9D%E5%92%8C%E5%BE%81"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B7%B1%E5%B7%9D%E5%92%8C%E5%BE%81",
+      "title": "深川和征 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=144167",
+      "title": "Kazumasa Fukagawa - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

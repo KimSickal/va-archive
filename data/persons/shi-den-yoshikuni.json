@@ -1,0 +1,52 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "shi-den-yoshikuni",
+  "slug": "yoshikuni-kakita",
+  "name": {
+    "original_lang": "ja",
+    "original": "柿田よしくに",
+    "latin": "Yoshikuni Kakita",
+    "aliases": {
+      "ja": [
+        "かきたよしくに"
+      ]
+    },
+    "translated": {
+      "ko": "가키타 요시쿠니",
+      "en": "Yoshikuni Kakita"
+    }
+  },
+  "gender": "male",
+  "nationality": [
+    "JP"
+  ],
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%9F%BF%E7%94%B0%E3%82%88%E3%81%97%E3%81%8F%E3%81%AB"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=263672",
+      "title": "Yoshikuni KAKITA - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9F%BF%E7%94%B0%E3%82%88%E3%81%97%E3%81%8F%E3%81%AB",
+      "title": "柿田よしくに",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "den-kou-chi-kyuu",
+  "slug": "tomohisa-taguchi",
+  "name": {
+    "original_lang": "ja",
+    "original": "田口智久",
+    "latin": "Tomohisa Taguchi",
+    "translated": {
+      "ko": "타구치 토모히사",
+      "en": "Tomohisa Taguchi"
+    }
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=85349",
+      "title": "Tomohisa Taguchi - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  },
+  "gender": "male"
+}

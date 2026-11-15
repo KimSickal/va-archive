@@ -1,0 +1,53 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "en-tou-saki",
+  "slug": "saki-endo",
+  "name": {
+    "original_lang": "ja",
+    "original": "遠藤さき",
+    "latin": "Saki Endo",
+    "aliases": {
+      "ja": [
+        "えんどうさき"
+      ]
+    },
+    "translated": {
+      "ko": "엔도 사키",
+      "en": "Saki Endo"
+    }
+  },
+  "gender": "female",
+  "nationality": [
+    "JP"
+  ],
+  "birth": "1986-03-07",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%81%A0%E8%97%A4%E3%81%95%E3%81%8D"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=162885",
+      "title": "Saki ENDŌ - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E9%81%A0%E8%97%A4%E3%81%95%E3%81%8D",
+      "title": "遠藤さき",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "boku-son-ga-shi",
+  "slug": "masafumi-kimura",
+  "name": {
+    "original_lang": "ja",
+    "original": "木村雅史",
+    "latin": "Masafumi Kimura",
+    "aliases": {
+      "ja": [
+        "きむらまさふみ"
+      ]
+    },
+    "translated": {
+      "ko": "키무라 마사후미",
+      "en": "Masafumi Kimura"
+    }
+  },
+  "gender": "male",
+  "birth": "1977-03-03",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%9D%91%E9%9B%85%E5%8F%B2"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%9D%91%E9%9B%85%E5%8F%B2",
+      "title": "木村雅史 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=22048",
+      "title": "Masafumi Kimura - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

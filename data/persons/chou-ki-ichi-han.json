@@ -1,0 +1,32 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "chou-ki-ichi-han",
+  "slug": "kazuho-nagasaki",
+  "name": {
+    "original_lang": "ja",
+    "original": "長嵜一帆",
+    "latin": "Kazuho Nagasaki",
+    "translated": {
+      "ko": "나가사키 가즈호",
+      "en": "Kazuho Nagasaki"
+    }
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=281696",
+      "title": "Kazuho NAGASAKI - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  }
+}

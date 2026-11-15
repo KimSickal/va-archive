@@ -1,0 +1,38 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "choe-seok-pil",
+  "slug": "choe-seok-pil",
+  "name": {
+    "original_lang": "ko",
+    "original": "최석필",
+    "translated": {
+      "ja": "チェ・ソクピル",
+      "en": "Choe Seok-pil"
+    }
+  },
+  "nationality": [
+    "KR"
+  ],
+  "birth": "1974-04-17",
+  "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EC%B5%9C%EC%84%9D%ED%95%84"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ko.wikipedia.org/wiki/%EC%B5%9C%EC%84%9D%ED%95%84",
+      "title": "최석필 - 위키백과, 우리 모두의 백과사전",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  }
+}

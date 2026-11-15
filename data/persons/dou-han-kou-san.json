@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "dou-han-kou-san",
+  "slug": "kozo-dozaka",
+  "name": {
+    "original_lang": "ja",
+    "original": "堂坂晃三",
+    "latin": "Kozo Dozaka",
+    "aliases": {
+      "ja": [
+        "どうざかこうぞう"
+      ]
+    },
+    "translated": {
+      "ko": "도자카 코조",
+      "en": "Kozo Dozaka"
+    }
+  },
+  "gender": "male",
+  "birth": "1984-03-06",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E5%A0%82%E5%9D%82%E6%99%83%E4%B8%89"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A0%82%E5%9D%82%E6%99%83%E4%B8%89",
+      "title": "堂坂晃三 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=65526",
+      "title": "Kozo Dozaka - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

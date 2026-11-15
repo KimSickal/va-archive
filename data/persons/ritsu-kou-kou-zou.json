@@ -1,0 +1,49 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ritsu-kou-kou-zou",
+  "slug": "kozo-tatsuoka",
+  "name": {
+    "original_lang": "ja",
+    "original": "立岡耕造",
+    "latin": "Kozo Tatsuoka",
+    "aliases": {
+      "ja": [
+        "たつおかこうぞう"
+      ]
+    },
+    "translated": {
+      "ko": "타츠오카 코조",
+      "en": "Kozo Tatsuoka"
+    }
+  },
+  "gender": "male",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E7%AB%8B%E5%B2%A1%E8%80%95%E9%80%A0"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E7%AB%8B%E5%B2%A1%E8%80%95%E9%80%A0",
+      "title": "立岡耕造 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=109892",
+      "title": "Kozo Tatsuoka - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "chuu-tou-sa-ju",
+  "slug": "saki-nakajima",
+  "name": {
+    "original_lang": "ja",
+    "original": "中島沙樹",
+    "latin": "Saki Nakajima",
+    "aliases": {
+      "ja": [
+        "なかじまさき"
+      ]
+    },
+    "translated": {
+      "ko": "나카지마 사키",
+      "en": "Saki Nakajima"
+    }
+  },
+  "gender": "female",
+  "birth": "1978-09-01",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B3%B6%E6%B2%99%E6%A8%B9"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B3%B6%E6%B2%99%E6%A8%B9",
+      "title": "中島沙樹 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=4870",
+      "title": "Saki Nakajima - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

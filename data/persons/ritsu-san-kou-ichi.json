@@ -1,0 +1,48 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "ritsu-san-kou-ichi",
+  "slug": "koichi-kuriyama",
+  "name": {
+    "original_lang": "ja",
+    "original": "栗山浩一",
+    "latin": "Koichi Kuriyama",
+    "aliases": {
+      "ja": [
+        "くりやまこういち"
+      ]
+    },
+    "translated": {
+      "ko": "쿠리야마 코이치",
+      "en": "Koichi Kuriyama"
+    }
+  },
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%A0%97%E5%B1%B1%E6%B5%A9%E4%B8%80"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A0%97%E5%B1%B1%E6%B5%A9%E4%B8%80",
+      "title": "栗山浩一 - Wikipedia",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=22047",
+      "title": "Koichi Kuriyama - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.5.1"
+  }
+}

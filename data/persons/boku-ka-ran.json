@@ -1,0 +1,49 @@
+{
+  "$schema": "../schema/person.schema.json",
+  "id": "boku-ka-ran",
+  "slug": "ran-koba",
+  "name": {
+    "original_lang": "ja",
+    "original": "木花藍",
+    "latin": "Ran Koba",
+    "aliases": {
+      "ja": [
+        "こばらん"
+      ]
+    },
+    "translated": {
+      "ko": "코바 란",
+      "en": "Ran Koba"
+    }
+  },
+  "gender": "female",
+  "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E6%9C%A8%E8%8A%B1%E8%97%8D"
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=268254",
+      "title": "Ran KOBA - Anime News Network",
+      "publisher": "ann",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    },
+    {
+      "id": "s2",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%A8%E8%8A%B1%E8%97%8D",
+      "title": "木花藍",
+      "publisher": "wikipedia",
+      "tier": 2,
+      "accessed_at": "2026-11-14"
+    }
+  ],
+  "meta": {
+    "researched_at": "2026-11-14",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-11-16"
+    },
+    "skill_version": "0.7.0"
+  }
+}
